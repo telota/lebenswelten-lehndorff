@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_uyx_vmm_cbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>H. Hesse an Ernst Ahasverus Heinrich Graf von Lehndorff. Maxkeim, 10. Januar 1789</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_uyx_vmm_cbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 102, Bl. 1-6v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mx4_v3r_gbb">Hesse, H. (-)</persName>
+                    <placeName key="ed_bdw_bnm_cbb">Maxkeim</placeName>
+                    <date when="1789-01-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Ob Lehndorff den Plan unterstützte ist ungewiss, aber vorstellbar aufgrund von
+                    dessen Verbindung zu <persName key="ed_yfs_pzv_rz">Kant</persName>. <quote>Eine
+                        vollständige öffentliche Erziehung ist diejenige, die beides, Unterweisung
+                        und moralische Bildung, vereinigt. Ihr Zweck ist: Beförderung einer guten
+                        Privaterziehung. Eine Schule, in der dieses geschieht, nennt man ein
+                        Erziehungsinstitut. Solcher Institute können nicht viele, und die Anzahl der
+                        Zöglinge in denselben, kann nicht groß sein, weil sie sehr kostbar sind, und
+                        ihre bloße Einrichtung schon sehr vieles Geld erfordert.</quote> Vgl. Kant,
+                    Immanuel, Über Pädagogik. Königsberg 1803.</note>
+            </correspDesc>
+            <abstract>
+                <p>Nach einer ausführlichen Darstellung seines Lebens teilt <persName key="ed_mx4_v3r_gbb">Hesse</persName> Lehndorff den <quote>Plan meines
+                        Lebens</quote> mit. Er bitte ihn um Unterstützung bei der Einrichtung eines
+                    Erziehungs- und Bildungsinstituts in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, denn er habe schon <quote>von mehreren wichtigen
+                        Personen gehört <gap reason="insignificant"/>, dass es in Absicht der
+                        Erziehungsanstalten in Königsberg - besonders was die Söhne der ersten
+                        Familien betrifft - mangelhaft aussieht</quote>. Er teilt ihm die
+                        <quote>Grundsätze, die ich über die Erziehung der Jugend aus den höheren
+                        Ständen gefasst habe, ausführlich</quote> mit. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

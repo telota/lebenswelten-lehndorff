@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_kqd_czd_gdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pauline Gräfin von Dönhoff an Anna Gräfin von Lehndorff. Friedrichstein, 12. August 1870</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_kqd_czd_gdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 432, Bl. 97-98v</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von, geb. Gräfin von
+                        Lehndorff (1823-1889)</persName>
+                    <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName>
+                    <date when="1870-08-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Weitere Briefe aus den Kriegstagen in der Akte. - Anna ließ Pauline auch
+                    Abschriften von <persName key="ed_nml_dw2_cy">Heinrichs</persName> Briefen
+                    zukommen. Darauf antwortet sie am 20. August (Bl. 99-103v), sie würde
+                        <quote>nicht recht die Stellung des ganzen Garde du Cops</quote> verstehen,
+                    Heinrich drücke sich <quote>sehr vorsichtig über die Pläne für die nächste
+                        Zukunft aus und muss es auch wohl bei seiner Stellung zum König tun</quote>.
+                    Sie schickte Anna dafür Briefe <persName key="ed_xwr_1qp_mfb">Amelies</persName>
+                    mit der Bitte um Rückgabe sowie einige Nummern der <persName key="ed_cws_vm1_my">Strousbergschen</persName> Zeitung „Die Jagd‟, die sie neben der
+                    Kreuzzeitung für die Kriegstage abonniert hatte, um <quote>den Leuten mehr
+                        Mitteilungen vom Kriegsschauplatz zukommen zu lassen</quote>. Sie machte sie
+                    auf die Feuilleton-Novelle „Zwischen zwei Herzen‟ aufmerksam mit der Anspielung:
+                        <quote>Ich wusste nicht, dass Deine Freundschaft für <persName key="ed_cws_vm1_my">Strousberg</persName> so weit ginge, dass Du ihm
+                        Episoden aus Deinem Leben mitteiltest, welche Du uns bisher ebenso
+                        sorgfältig verheimlicht hattest als Deinem Gatten</quote>, in: APO, Bestand
+                    382 FA Lehndorff, Nr. 520. - Nachdem am 14. August  <persName key="ed_l31_pbz_1lb">Graf Schlippenbach</persName> verwundet worden war,
+                    klagte Pauline Dönhoff: <quote>Wie viele Opfer hat dieser gewaltige blutige
+                        Völkerkrieg nun schon gefordert und wie viel edles deutsches Blut wird es
+                        noch kosten?</quote>Gräfin <persName key="ed_mvt_czt_g2b">Bismarck</persName> habe <persName key="ed_xwr_1qp_mfb">Amelie</persName>
+                    berichtet, dass Lehndorff in der Schlacht  bei <placeName key="ed_ifc_nzt_22b">Mars la Tour</placeName>
+                    <quote>den jungen Bismarck aus Feindeshand herausgehauen</quote> habe,
+                        <persName key="ed_qw3_xpj_z1b">Herbert Bismarck</persName> sei  leicht
+                    verwundet. GRäfin Bismarck werde erleichtert sein, den Sohn leicht verwundet
+                    zurück zu haben, <quote>also in Sicherheit vor fernerer Gefahr in diesem
+                        mörderischen Kriege</quote>. Der Brief von Annas Mann über die Schlacht bei
+                    Mars la Tour sei so <quote>übermachtig interessant</quote>, dass sie ihn habe
+                    abschreiben lassen, <quote>um ihn den hiesigen Leuten zu zeigen</quote> und an
+                    Amalie zu schicken (Bl. 104-107v, 30. August 1870). Sie bat um die Erlaubnis,
+                    den Brief ohne Nennung des Autors in der Ostpreußischen Zeitung abdrucken lassen
+                    zu dürfen, <quote>als ein schöne Zeugnis des Heldenmutes eines christlichen
+                        Ritters, der in der Hitze des wütenden Kampfes den wehrlosen Feind
+                        beschützt</quote>. - Am 18. bestand auch ihr Sohn Fritz in der Schlacht bei
+                        <placeName key="ed_apz_2g5_22b">Gravelotte</placeName> seine
+                        <quote>Feuerprobe </quote>. Pauline hatte eine Feldpostkarte von ihm
+                    erhalten, nachdem frühere Nachrichten behauptet hatten, sein Regiment sei nicht
+                    beteiligt gewesen. - Lehndorff bat dagegen um ein Feldpost-Paket mit
+                        <quote>langen Flanellhemden</quote> und Schwefelhölzern und Anna sollte sich
+                    erkundigen, ob Schwefelpulver gegen Ansteckung mit Typhus und Ruhr oder nur
+                    gegen Cholera schütze. - Paula Dönhoff ischrieb in diesen Tagen aber auch an
+                    Gräfin Bismarck über ihren <quote>Gedanken der deutschen
+                        National-Trachten</quote>; die Antworten der Gräfin und der <quote>Frau
+                        Prinzess</quote> seien wie <quote>kalt Wasser</quote> auf ihre guten
+                    Absichten gewesen (Bl. 112v).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/432/str/1/1/10000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Friedrichstein, den 12. Aug. 1870</dateline>
+					          <salute>Meine teuerste Änny!</salute>
+                </opener>
+				        <p>Gott der Herr hat das Flehen des deutschen Volkes am Krieges-Ende-Tag wunderbar gnädiglich
+                    erhört! Seine gewaltige Hand hat unseren gerechten Waffen den Sieg verliehen
+                    über den übermächtigen Erbfeind, und hat Frankreichs Hochmut erschütternd
+                    schnell zu Fall gebracht. Ein Weltgeschehen ist das Weltgericht in der Hand des
+                    lebendigen Gottes! Möchte doch nun auch unser Volk sich beugen vor dem Herrn!
+                    und mit unserem frommen König es bekennen: Gott war mit uns, Ihm sei die Ehre!
+                    Eben bringt uns ein Extra-Kurier die offizielle Kriegsnachricht vom 10. abends
+                    aus Saarbrücken: „Die französische Armee setzt ihren Rückzug gegen die Mosel an
+                    allen Punkten fort; von sämtlichen preußischen Armeen folgt die Kavallerie ihr
+                    auf dem Fuße. Große Vorräte von Lebensmitteln, 2 Posten <gap reason="illegible"/> etc. sind in unsere Hände gefallen. Die kleine Festung <placeName key="ed_r3n_xtj_3fb">Lützelstein</placeName> in den Vogesen ist vom Feinde
+                    geräumt unter Zurücklassung von Geschützen und Vorräten.‟ Ja es ist wie ein
+                    Wunder vor unseren Augen und wir wollen alle vereint beten, dass der Herr der
+                    Heerscharen uns also gnädiglich weiter führe auf den so schön begonnenen
+                    Siegesbahnen, auch dass <placeName key="ed_ust_ky4_dz">Frankreich</placeName> so
+                    vollständig niedergeworfen werde, dass es hinfort nie wieder wage, den Frieden
+                    Deutschlands zu stören; das <gap reason="illegible"/> in seiner Zerrissenheit
+                    niemals <gap reason="illegible"/> wie stark es ist.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Wenn auch das patriotische Herz nun freudig und
+                            zuversichtlich schlägt, so ist das arme Mutterherz doch von neuer
+                            schmerzlicher Angst und Sorge erfüllt bei dem Gedanken an die gewaltigen
+                            Entscheidungsschlachten, die uns wohl in den nächsten Tagen bevorstehen,
+                            und die auch im besten Fall, wenn Gottes Gnade uns den Sieg schenkt!
+                            viel, viel edles deutsches Blut kosten werden.</orig>
+                  <note xml:id="ngtq_nmj_hdb">Vgl. den Brief von Helene Freiherrin Schenk zu
+                            Tautenburg an Anna Lehndorff (Partsch, 27. August 1870) mit der Bitte um
+                            Nachricht vom Grafen, man lebe <quote>in großen Sorgen um unsere Lieben
+                                im Felde</quote>, in: APO, Bestand 382 FA Lehndorff, Nr. 486, Bl.
+                            11-11v. </note>
+               </seg>
+            </p>
+                <p>Täglich schließe ich unsere Morgenandacht mit dem Gebet des 12. Psalms, und jedes
+                    Wort darin ist ein Brosamen des Trostes für das bangende Mutterherz.</p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

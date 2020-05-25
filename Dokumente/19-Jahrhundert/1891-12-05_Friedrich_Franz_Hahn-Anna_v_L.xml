@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_y3g_2tv_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Franz Graf von Hahn an Anna Gräfin von Lehndorff. Basedow, 5.
+                    Dezember 1891</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_y3g_2tv_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 412, Bl. 28</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_qcc_ygv_22b">Hahn, Friedrich Franz Graf von (-)</persName>
+                    <placeName key="ed_yps_bwn_my">Basedow</placeName>
+                    <date when="1891-12-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/412/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Basedow Mecklenburg 5. Dez. 91</dateline>
+                    <salute>Meine liebe Tante!</salute>
+                </opener>
+                <p>Habe herzlichen Dank für Deinen Brief und das Vertrauen, was Du in demselben mir
+                    entgegenbringst. Sei versichert, hätte ich das Geld liegen, würde ich keinen
+                    Moment zaudern, es Dir zu senden. So aber ist leider meine Lage durchaus
+                    nicht.</p>
+                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                <p><?oxy_custom_end?>
+               <persName key="ed_k2s_mxg_lfb">Clausens</persName> Verhältnisse
+                    spitzen sich immer mehr zu. Er hat aber auch von Anfang bis zum Ende
+                    unverantwortlich gehandelt. Es ist unser derzeitiges Bestreben, ihn bis zum
+                    Januar noch zu halten. Dann kann er wenigstens als Halbinvalide nach 10-jähriger
+                    Dienstzeit seinen Abschied mit Pension nehmen, was für ihn immer von Wichtigkeit
+                    ist, denn dadurch würde er in die Lage kommen, allmählich seinen
+                    verwandtschaftlichen Verpflichtungen auch nachzukommen. <seg type="comment">
+                  <orig>Er ist trotz seiner sehr schweren Krankheit lebensversichert
+                            worden.</orig>
+                  <note xml:id="nhkg_wzv_2db">Es handelt sich um Nikolaus
+                            (Claus) Graf Hahn. Police und die Lebensversicherung betreffende Papiere
+                            in: APO, Bestand 382 FA Lehndorff, Nr. 419-429 (1891-1894).</note>
+               </seg>
+                    Das ist die Sachlage.</p>
+                <p>Ich habe etwas zuviel für Claus getan, um, ohne mich selbst in die größte
+                    Verlegenheit zu stürzen, noch andere Sachen für ihn übernehmen zu können.
+                    Außerdem habe ich positiv momentan kein Geld. Meine Verhältnisse haben sich
+                    durch die dauernd schlechten Ernten noch immer nicht gebessert, trotz aller
+                    Einschränkungen, dazu kommt der <ref target="lehndorff_ed5_szn_2db">Schlossbrand</ref>, welcher trotz Versicherung doch außerordentliche
+                    Ausgaben in Hülle und Fülle bringt.</p>
+                <p>Ich fühle mich deshalb außerstande, Claus Pump zu übernehmen. Aber ich will gern,
+                    liebe Tante, wenn Du es wünscht, Dir diese Summe im <gap reason="illegible"/>Termin borgen. Eher das Geld zu beschaffen, ist mir faktisch unmöglich. Und
+                    ich gestehe Dir, dass es mir dann auch noch schwer wird, aber wenn ich Dir damit
+                    helfen kann, werde ich versuchen, wie lange ich mich so durchlügen kann. Bitte
+                    schreibe mir also, ob Dir das Recht ist.</p>
+                <p>Der Schlossbau ist richtig fortgeschritten, das abgebrannte Teil ist jetzt unter
+                    Dach gekommen. Ich werde Dir nächstens einmal die Pläne schicken.</p>
+                <closer>
+                    <salute>Herzliche Grüße von Haus zu Haus <lb/>Dein gehorsamster Neffe</salute>
+                    <signed>Hahn-Basedow</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

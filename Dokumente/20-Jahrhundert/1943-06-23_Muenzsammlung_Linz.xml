@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_ipv_vvj_fbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Münzsammlung Lehndorff. 1943 bis 1954</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_ipv_vvj_fbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">
+                    <p>Vgl. B/323/761 Kasten 1: Verzettelung der Münzen und Medaillen. Die
+                        Inventar-Nummern 1358-1366, 3087-3088, 3091, 6551-6579, 6591-6639 stammen
+                        aus der Sammlung Lehndorff (80 Karten). Als Herkunft/Fundort ist angegeben
+                            <quote>Kauf Reichsbank (Slg. Gf. Lehndorff)</quote>. Siehe auch: <ref target="https://digi.ub.uni-heidelberg.de/diglit/helbing_nachf1943_05_04/0012/image">Otto Helbing Nachf. München (Hrsg.) Preußen-Spezialsammlung des Grafen
+                            Lehndorff-Steinort sowie Nebengebiete, auch Ausland. Im Auftrag einer
+                            Reichsbehörde, Dienstag, 4. Mai 1943 (Katalog Nr. 88), München
+                            1943</ref>. Die Sammlung wurde bereits in dem von der Generalverwaltung
+                        der Königlichen Museen hrsg. <ref target="https://books.google.de/books?id=eZxsDwAAQBAJ&amp;pg=PA293&amp;lpg=PA293&amp;dq=M%C3%BCnzsammlung+Lehndorff&amp;source=bl&amp;ots=G5UDh5Q1hU&amp;sig=TWU-8QMZImZZzlowdYt1ilPuYXQ&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjxrpDa24reAhWsMewKHQf-C0cQ6AEwEnoECAoQAQ#v=onepage&amp;q=M%C3%BCnzsammlung%20Lehndorff&amp;f=false">Kunsthandbuch für Deutschland, 6. Aufl. Berlin 1904, S. 294 </ref>als
+                        Privatsammlung genannt; ein Katalog sei in Arbeit. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>BArch Koblenz</institution>
+                     <idno>B/323/172: Sonderauftrag Linz. Münzsammlung</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1943-12-10" to="1954-06-11" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Staatliche Münzsammlung München</p>
+                <p>Dieser Akt enthält eine Aufstellung der Ankäufe, die bei deutschen Firmen und
+                    Sammlern getätigt worden sind; nicht enthalten sind darin die Ankäufe aus
+                    österreichischer Provenienz.</p>
+                <p>
+               <note type="editorial">[Bl. 78]</note> Übersicht der Ankäufe für <placeName key="ed_qmq_4r5_zdb">Linz</placeName>
+            </p>
+                <p>
+               <gap reason="insignificant"/> 
+            </p>
+            <p>Nr. 12 / Firma: Slg. Lehndorff Ankauf <orgName key="ed_t1d_tr5_zdb">Reichsbank Berlin</orgName> /
+                    Charakteristikum: Allgemein Preußen / Summe: 7.768,00 / Rechnung am 23.6.43 /
+                    Inv.-Nr. 439-502, 528-563, Stück: 100 / Aufenthaltsort: W / Bemerkung: in Mu: 7,
+                    Al, Liste VI, wohl St. Florian R </p>
+            <p>
+               <gap reason="insignificant"/>
+            </p>
+                <p>Abschrift. Verzeichnis der für das Münzkabinett in Linz ausgesuchten Münzen aus
+                    der Graf Lehndorff’schen Sammlung [<note type="editorial">Rotstift:
+                    </note>Reichsbank, dazu Liste VI]</p>
+                <p>Brandenburg Münzstätte Königsberg</p>
+                <p>
+               <note type="editorial">Aufgeführt werden Münzen: Georg Friedrich 1588, 1597,
+                        1603, Georg Wilhelm 1635, 1631, Friedrich Wilhelm 1670, 72, 74, Friedrich
+                        III. 1698, 1694, Friedrich I. 1709, Friedrich Wilhelm I. 1718, 1719, 1723,
+                        Friedrich II. 1784, 1764, 1780, 1766, 1752, 1753, 1782, 1753, 1756,
+                        Friedrich Wilhelm II. 1791, 1797, 1798, Friedrich Wilhelm 1633, 1665, 1675,
+                        1665, 1676, 1680, 84, 85, Friedrich I. 1704, Friedrich Wilhelm I. 1717,
+                        1726, 1717, Friedrich II. 1772, 1773, 1770, 1766, 1755, 1764, 1766, 1771,
+                        1764, 4 Schillinge aus div. Jahrgängen sowie </note>
+            </p>
+                <p>
+               <note type="editorial">Medaillen: darunter Vermählungsmedaillen 1729 und 1823,
+                        100 Jahre Königreich Preußen, Huldigungsmedaille 1786 und 1798, Schlacht bei
+                        Fehrbellin, Tod Friedrich II. 1786, Tod Königin Luise 1810, deren 125.
+                        Todestag 1935, Luise v. Radziwill o. J., Einnahme v. Stettin 1677</note>
+            </p>
+                <p>
+                    <note type="editorial">[Bemerkung darunter:] </note>9 Stück in <placeName key="ed_mdb_4hz_ny">München</placeName>, Rest muss noch in <placeName key="ed_stc_3k4_dz">Österreich</placeName> liegen</p>
+                <p>
+               <note type="editorial">[Bl. 156]</note> Auszüge aus Tagebuch Nr. 2 (Dr. Günther
+                        <persName key="ed_ssz_zr5_zdb">Probszt</persName>)</p>
+                <p>
+               <gap reason="insignificant"/> 
+            </p>
+            <p>1943 10.12. Probszt: Verzettelung Ankauf <orgName key="ed_t1d_tr5_zdb">Reichsbank</orgName> –
+                    Slg.- <persName key="ed_ik3_ckz_2y">Graf Lehndorff</persName>
+            </p>
+                <p>
+               <gap reason="insignificant"/> 
+            </p>
+            <p>1944 14.1. Probszt: Ausscheiden der brandenburgischen Dubletten
+                    (Ankäufe Lehndorff und Nachträge)</p>
+                <p>
+               <note type="editorial"> [Bl. 158]</note> Verzeichnis der seit 1939 angekauften
+                    Medaillen (Großformat)</p>
+                <p> 3086 Karl Wilhelm Friedrich zu Brandenburg-Ansbach. Zinn-Medaille 1729 (Kauf
+                    Reichsbank, Slg. Lehndorff)</p>
+                <p>3097 Stadt Hildesheim. Bronze-Klippe 1632 (Kauf Reichsbank, Slg. Lehndorff)</p>
+                <p>3098 Ehe-Medaille o. J. Forster 879 (Kauf Reichsbank, Slg. Lehndorff)</p>
+                <p> </p>
+                <p>
+               <note type="editorial">[Bl. 159-164]</note> Goldmünzen-Katalog Linz</p>
+                <p>Verzeichnis der seit 1939 angekauften Münzen/deutscher Besitz [<note type="editorial">
+                  <note type="editorial">mit Rotstift: </note>
+               </note>in Kiste
+                    MK III, Mu Nr. 4054 St. Münz-Slg.)</p>
+                <p> lfd. Nummer Linz Erw.-Nr. erworben von Beschreibung</p>
+                <p>Nr. 422 1360/1 Kauf Slg. Lehndorff Georg Friedrich, Dukat 1588 (300.-)</p>
+                <p>Nr. 423 1361/2 Kauf Georg Friedrich Dukat 1597 (380.-)</p>
+                <p>Nr. 424 1362/5 Kauf Georg Wilhelm Dukat 1635 (280,-)</p>
+                <p>Nr. 428 1359/Med. 13 Kauf Friedrich Wilhelm ½ Dukat auf die Eroberung v. Stettin
+                    1677 (350,-)</p>
+                <p>Nr. 432 1363/57 Kauf Friedrich Wilhelm Dukat 1663 (400,-)</p>
+                <p>Nr. 433 1364/58 Kauf Friedrich Wilhelm Dukat 1665 (560,-)</p>
+                <p>Nr. 436 1365/66 Kauf Friedrich I. 1704 (700,-)</p>
+                <p>Nr. 444 1366/67 kauf Friedrich Wilhelm I. Dukat 1717 (250,-)</p>
+                <p>Nr. 1303 1358/Med.12 Kauf Jeton auf ihre Vormundschaft Radziwill, Prinz. Louise
+                    Karoline o. J. (1200,-)</p>
+                <p>
+                    <note type="editorial">[Anlage/ Bl. 183]</note> Nachfolgende Bestände der
+                    Münzsammlung des SL wurden mit den nachverzeichneten Mü.Nr. belegt.</p>
+                <p>Mü.Nr. 4620</p>
+                <p>[…] 7 Münztütchen Kauf Reichsbank Samml. Graf Lehndorff (mit. Inv. Karten)</p>
+                <p> </p>
+                <p>
+               <note type="editorial">[Bl. 184]</note>
+                    <orgName key="ed_tkm_ns5_zdb">Treuhandverwaltung von Kulturgut München</orgName>
+                    bestätigt ordnungsgemäße Rückgabe der am 13.10.1949 der Staatlichen <orgName key="ed_fh2_jst_zdb">Münzsammlung</orgName> leihweisen Überlassungen –
+                    darunter: 4620 / 11.6.1954</p>
+                <p> </p>
+                <p>
+               <note type="editorial">[Bl. 207]</note> Restbestände der Linzer Münzsammlung in
+                    der Staatlichen Münzsammlung, München </p>
+                <p>Erwerbungen aus Reichsbank in 7 Münztütchen</p>
+                <p>Große Medaillen <gap reason="insignificant"/> 3086, 3097 <gap reason="insignificant"/>
+                </p>
+                <p>21 Stück Moderne Medaillen und Plaketten </p>
+            </div>
+        </body>
+    </text>
+</TEI>

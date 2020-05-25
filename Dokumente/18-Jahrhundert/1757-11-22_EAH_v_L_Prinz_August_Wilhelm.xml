@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_wm4_flg_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an Prinz August Wilhelm von
+                    Preußen. Magdeburg, nach dem 22. November 1757 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_wm4_flg_2z</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Volz, Gustav Berthold, Aus dem Briefwechsel des
+                            Prinzen von Preußen August Wilhelm mit dem Kammerherrn Graf Ernst
+                            Ahasverus Lehndorff, in:  Masovia 9 (1903), S. 130-171, hier S.
+                            149-155</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>
+                    <date notBefore="1757-11-22" cert="high" notAfter="1757-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q12_pqy_bz">Preußen, August Wilhelm Prinz von (-)</persName>
+                </correspAction>
+                <note>Bis Anfang November hatten viele <quote>Personen vom Stande</quote>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName> verlassen und sich nach
+                        <placeName key="ed_c3z_rjv_mbb">Mecklenburg</placeName>, <placeName key="ed_rqx_tnz_2y">Hamburg</placeName> oder <placeName key="ed_nc5_wng_2z">Zerbst</placeName> begeben. Auch der Hof war am 28. Oktober in <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> angekommen, vgl. Giebel,
+                    Tagebücher, S. 397 f. - Am 6. November traf die Nachricht von der Schlacht bei
+                    Roßberg ein, zwei Tage später reiste Lehndorff nach <placeName key="ed_flc_kyf_hy">Leipzig</placeName>. Hier begegnete er <persName key="ed_nvx_wcz_bz">Prinz Heinrich</persName>, der ihm <quote>keine
+                        Vertraulichkeiten, aber eine hohe Achtung bezeugt. Ich habe lange genug mit
+                        großen Herren zusammengelebt, um zu wissen, dass die vertraute Freundschaft
+                        mit ihnen manche Pein mit sich bringt.</quote> Dessen Hof war in Parteien
+                    gespalten, wobei der Prinz <quote>einem gewissen <persName key="ed_ov5_jc3_tdb">Kalckreuther</persName> sehr zugetan</quote> war, Kornett bei der Garde
+                    du Corps. Ende November reiste Lehndorff über zurück nach <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>, wo er kurz nach der verlorenen
+                    Schlacht von <placeName key="ed_iw5_fxl_2y">Breslau</placeName> eintraf. Ende
+                    Dezember sollte der Hof auf Befehl des Königs nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> zurückkehren, ebd., S. 400 ff.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Magdeburg, Ende November 1757</dateline>
+                </opener>
+                <p>Ich hoffe, dass der holländische Freiwillige unserer Armee, dessen Namen ich
+                    vergessen habe, Eurer Königlichen Hoheit den Brief, welchen ich aus <placeName key="ed_flc_kyf_hy">Leipzig</placeName> an Sie zu richten wagte, übergeben
+                    haben wird. Ich habe diese Stadt mit vielem Bedauern verlassen. Die Aufnahme des
+                        <persName key="ed_nvx_wcz_bz">Prinzen</persName>, Ihres Bruders, die
+                    Höflichkeit aller, deren Bekanntschaft ich gemacht hatte, und das wunderbare
+                    Schauspiel, soviel gefangene Franzosen zu sehen, alles dieses hatte mir <seg type="comment">
+                        <orig>den Aufenthalt</orig>
+                        <note xml:id="nv5t_gsg_2z">Lehndorff hatte von Magdeburg aus dem Prinzen
+                            Heinrich einen Besuch in Leipzig abgestattet. Eine Beschreibung des
+                            Aufenthaltes in: Giebel, Tagebücher, S. 400 ff.; Schmidt-Lötzen,
+                            Nachträge, Bd. 1, S. 147 ff.</note>
+                    </seg> zu einem der angenehmsten gemacht. </p>
+            <p>Ich habe meine Rückreise über <placeName key="ed_ot2_ffg_4y">Halle</placeName> genommen, und nach
+                    der Gewohnheit meiner Landsleute, die niemals das Schloss eines Prinzen oder
+                    Herzogs passieren, ohne sich daselbst aufzuhalten, habe ich in <placeName key="ed_xf5_pb4_my">Dessau</placeName> diniert. Der Regent, der junge <seg type="comment">
+                        <orig>Fürst</orig>
+                        <note xml:id="nbf2_lsg_2z">Fürst <persName key="ed_w2g_2ts_52b">Leopold III.
+                                Friedrich Franz von Anhalt-Dessau</persName> hatte unter
+                            Vormundschaft seines Oheims, Prinz Dietrich, 1751 die Regierung
+                            angetreten, die er 1758 selbständig übernahm.</note>
+                    </seg>, kurz der ganz Hof war noch im ersten Enthusiasmus und der ersten Freude,
+                    das Glück gehabt zu haben, Sie dort zu sehen. Wir feierten in ausgezeichnetem
+                    Ungarwein die Gesundheit Euer Königlichen Hoheit. Ganz darauf vorbereitet, nur
+                    von Jagd und Pferden sprechen zu hören, dem alten von Vater auf Sohn
+                    überlieferten Thema in diesem Fürstenhause, wurde ich sehr angenehm überrascht,
+                    dass die vornehmste Unterhaltung über die triviale gesiegt hatte, denn man
+                    unterhielt mich nur von Ihrer Güte, Monseigneur. </p>
+            <p>Denselben Abend kam ich in <placeName key="ed_nc5_wng_2z">Zerbst</placeName> an und ging noch an
+                    den Hof zum Abendessen. Es war ein Zeremonien-Abend, mehr als 60 Personen
+                    anwesend, die Damen sehr reich angezogen, die Prinzessinnen überdeckt mit
+                    Steinen, kurzum, dieser ganze Hof hat den Anschein von Würde und Pracht. Die
+                    Gemächer sind groß, gut erleuchtet, und wenn man die schönen Möbel aus China
+                    sieht, die großen Spiegel, die Marmorvasen, die Vergoldungen und besonders <seg type="comment">
+                        <orig>den <persName key="ed_zw5_rvg_2z">Herrn</persName> des Ganzen</orig>
+                        <note xml:id="nb5z_rsg_2z">Fürst Friedrich August, Bruder der späteren
+                            russischen Kaiserin Katharina II.</note>
+                    </seg>, kann man sich nicht versagen, dieses Haus mit den berühmtesten Tempeln
+                    der Ägypter zu vergleichen, wo die trunkenen Augen, verführt durch den Reichtum,
+                    den sie sahen, einen Gott suchten und nur einen Storch, einen Affen, eine Katze
+                    fanden. Die männliche Hoheit von Zerbst selbst sagte zu mir mit einer
+                    Orakelstimme: „Ich bin ein Ochs in meinem Haus!‟ „Je suis un bœuf dans ma
+                    maison!‟ Sehr erstaunt, dieses Kompliment in den beiden bekanntesten Sprachen
+                    Europas zu hören, wendete ich mich an seinen ersten Höfling, um die Lösung
+                    dieses Rätsels zu erfahren. Er sagte mir, das wäre ein Ausdruck, dessen sich
+                    Seine Hoheit Personen gegenüber bediene, die er ganz besonders auszeichnen
+                    wolle, ihnen dadurch bemerkbar machend, dass er von nun an ohne Umstände und in
+                    guter Freundschaft mit ihnen lebe. Von dem Moment an machten mir alle Höflinge
+                    tiefe Verbeugungen, und ich hatte ganz das Ansehen eines Mannes, der in Gunst
+                    steht. <seg type="comment">
+                        <orig>Die junge <persName key="ed_emw_wvg_2z">Fürstin</persName>
+                  </orig>
+                        <note xml:id="nv52_vsg_2z">Karoline Wilhelmine Sophie, geb. Prinzessin von
+                            Hessen-Kassel</note>
+                    </seg> ist immer reizend, und wenn man sie so schön neben ihrem kleinen Scheusal
+                    sieht, denke ich immer an ein Märchen, worin eine junge Schönheit von einem
+                    großen Affen gehütet und verfolgt wird. Sie fuhr den anderen Morgen zu <seg type="comment">
+                        <orig>ihrer Frau <persName key="ed_uwp_1wg_2z">Schwester</persName>
+                  </orig>
+                        <note xml:id="nyly_jtg_2z">Die in Magdeburg weilende Gemahlin des Prinzen
+                            Heinrich von Preußen, Prinzessin Wilhelmine</note>
+                    </seg> nach <placeName key="ed_trv_24g_2z">Möckern</placeName>. Ihr Gemahl
+                    tummelte sein Pferd vor ihrer Karosse, um sie auf halbem Wege zu begleiten; es
+                    war unglaublich komisch. Ich verbrachte diesen Tag bei der <seg type="comment">
+                        <orig>
+                     <persName key="ed_jy5_kwg_2z">Fürstin-Mutter</persName>
+                  </orig>
+                        <note xml:id="ntnx_ltg_2z">Johanna Elisabeth, Witwe des 1747 gestorbenen
+                            Fürsten Christian August.</note>
+                    </seg>, die Sie kennen, Sie hat noch Reste von Schönheit, gehoben durch den
+                    schönsten Schmuck und vielen Geist. <gap reason="insignificant"/> Die erste
+                    Begegnung, die ich bei meiner Ankunft in <placeName key="ed_nc5_wng_2z">Zerbst</placeName> hatte, war mit diesem <seg type="comment">
+                        <orig>Herrn <persName key="ed_jd1_4wg_2z">Fraigne</persName>
+                  </orig>
+                        <note xml:id="ndxk_stg_2z">Der König ließ 1758 den Marquis de Fraigne als
+                            französischen Spion in Zerbst verhaften und nach Magdeburg
+                            bringen.</note>
+                    </seg>, den Sie in <placeName key="ed_xrv_gwb_by">Berlin</placeName> mit <seg type="comment">
+                        <orig>
+                     <persName key="ed_j52_qwg_2z">Valory</persName>
+                  </orig>
+                        <note xml:id="nd5m_4tg_2z">Der bisherige französische Gesandte in
+                            Berlin</note>
+                    </seg> sahen. Er spielt dort das ehrliche Gewerbe eines Spions; man sagt selbst,
+                    dass er von Zeit zu Zeit inkognito hierher kommt, um einige Neuigkeiten zu
+                    erhaschen. Er wollte bei mir den Angenehmen spielen und sprach von Krieg und
+                    Frieden, aber ich wies ihn so kurz zurück, dass er den anderen Morgen nicht mehr
+                    bei Hofe erschien und mir das Feld blieb. </p>
+            <p>Ich sah daselbst auch unsere Flüchtlinge aus <placeName key="ed_xrv_gwb_by">Berlin</placeName>.
+                    Die Finck, die Schmettau, die Jariges, die Thulemeyer sind hier. Es scheint mir,
+                    als wäre man viel befreundeter, wenn man sich bei solcher Gelegenheit begegnet.
+                    Wir hatten sogar einen großen Grund zur Freude, die aber leider nur von allzu
+                    kurzer Dauer war. Eine angekommene Estafette zeigte uns an, Seine Majestät der
+                        <persName key="ed_x2r_52f_cy">König </persName> habe mit eigener Hand
+                    geschrieben, dass der <persName key="ed_l43_vfq_rdb">Prinz von Bevern</persName>
+                    den Feind wacker vor <placeName key="ed_iw5_fxl_2y">Breslau</placeName>
+                    geschlagen habe. Da hatte ich keine Ruhe mehr, ich reiste dieselbe Nacht,
+                    geleitet durch die Freude, die näheren Umstände dieses glücklichen Tages zu
+                    hören, aber wie groß war mein Schmerz, als man mir bei meiner Ankunft gerade
+                        <seg type="comment">
+                        <orig>das Gegenteil</orig>
+                        <note xml:id="nus4_ytg_2z">Die Niederlage Beverns fand am 22. November
+                            statt.</note>
+                    </seg> von dem sagte, was mich so angenehm beschäftigt hatte. Von dem Tage an
+                    haben wir nur noch Hiobsbotschaften erhalten. <seg type="comment">
+                        <orig>Die Gefangennahme des Prinzen von Bevern und besonders die Einnahme
+                            von <placeName key="ed_iw5_fxl_2y">Breslau</placeName> haben uns
+                            überwältigt</orig>
+                        <note xml:id="npb1_15g_2z">Am 24. November erfolgte die Gefangennahme
+                            Beverns und der Fall von Breslau.</note>
+                    </seg>. Und wie man in großen Widerwärtigkeiten nach Vergleichen in vergangenen
+                    Jahrhunderten sucht, hat sich meine Phantasie bis zur<seg type="comment">
+                  <orig>
+                            Belagerung von Troja</orig>
+                  <note xml:id="nkpg_msr_52b">Mythischer
+                            Auslöser des Trojanischen Krieges war die Entführung von Helena, Ehefrau
+                            des Menelaos, durch Paris, Sohn des trojanischen Königs Priamos.
+                            Daraufhin zogen die vereinten Griechen gegen Troja, um sich zu rächen.
+                            Trotz zehnjähriger Belagerung gelang es nicht, die Stadt zu erobern. Auf
+                            Rat des Odysseus bauten die Griechen ein großes hölzernes Pferd, in dem
+                            sich die tapfersten Krieger versteckten, und täuschten die Abfahrt ihrer
+                            Schiffe vor. Die Trojaner holten entgegen den Warnungen der Kassandra
+                            und des Priesters Laokoon das Pferd in die Stadt. In der Nacht
+                            kletterten die Griechen aus ihrem Versteck, öffneten die Tore und
+                            konnten die Trojaner überwältigen.</note>
+               </seg> verstiegen; der
+                    Aufenthalt in <placeName key="ed_oyr_ysm_cz">Oranienburg</placeName> und der
+                    anbetungswürdige Held, der dort weilt, erinnern mich an das Unglück, das die
+                    Abwesenheit des Achilles der ganzen griechischen Armee bereitete. Die ganze Welt
+                    richtet die Augen auf Euer Hoheit und sieht in Ihrer Rückkehr die unseres
+                    Erfolgs und unseres Glücks. </p>
+            <p>Wir haben hier mehrere französische Offiziere. Vier, die ich schon in <placeName key="ed_flc_kyf_hy">Leipzig</placeName> kennengelernt hatte, sind bei Hofe
+                    vorgestellt worden. Eure Königliche Hoheit können sich nicht vorstellen, <seg type="comment">
+                  <orig>welche Ausgaben sich unsere Damen in diesen Tagen für
+                            Putz, für Schönheitspflästerchen und Schminke gemacht haben.</orig>
+                  <note xml:id="nkpd_kw3_tcb">Hofleben und Hofintrigen werden in Lehndorffs
+                            Tagebuch und auch in den Briefen vielfach thematisiert.</note>
+               </seg> Das
+                    Gedränge war riesig, als ich sie herbeiführte. <seg type="comment">
+                        <orig>Fräulein von <persName key="ed_pkd_5wg_2z">Knesebeck</persName>
+                  </orig>
+                        <note xml:id="npr1_c5g_2z">Wilhelmine von Knesebeck, Hofdame der
+                            Königin-Mutter</note>
+                    </seg> verdoppelte ihr Mienenspiel, <seg type="comment">
+                        <orig>
+                     <persName key="ed_p2q_vwg_2z">Bella Dea</persName>
+                  </orig>
+                        <note xml:id="nzbf_25g_2z">Fräulein von Brand, Hofdame der Königin</note>
+                    </seg> ihre Lebhaftigkeit, die kleine <seg type="comment">
+                        <orig>
+                     <persName key="ed_elx_wwg_2z">Forcade</persName>
+                  </orig>
+                        <note xml:id="nel1_g5g_2z">Fräulein von Forcade, Hofdame der Prinzessin
+                            Heinrich</note>
+                    </seg> erschien mit all ihren Reizen, sie hat auch den Preis davongetragen.
+                    Louise <seg type="comment">
+                        <orig>
+                     <persName key="ed_zpt_ywg_2z">Cocceji</persName>
+                  </orig>
+                        <note xml:id="nz3m_h5g_2z">Hofdame der Königin</note>
+                    </seg> ließ all ihren Geist sprühen. Die <seg type="comment">
+                        <orig>Gräfin <persName key="ed_ztz_1xg_2z">Henckel</persName>
+                  </orig>
+                        <note xml:id="nztg_35g_2z">Reichsgräfin Helene Karoline Henckel, Hofdame der
+                            Prinzessin von Preußen</note>
+                    </seg> von unserm Hof, stolz den <seg type="comment">
+                  <orig>Prinzen von <persName key="ed_j2n_dxg_2z">Hessen</persName>
+                  </orig>
+                  <note xml:id="nv5r_dcm_scb">
+                     <note xml:id="np55_k5g_2z">Erbprinz Friedrich von
+                                Hessen-Kassel, preußischer Generalleutnant, war Vize-Gouverneur von
+                                Magdeburg</note>
+                  </note>
+               </seg>
+               <seg type="comment"> </seg> zu ihren
+                    Füßen zu haben, behielt die ganze Steifheit und Würde der Reichsgräfin. <seg type="comment">
+                        <orig>Frau von <persName key="ed_ez2_fxg_2z">Voß</persName>
+                  </orig>
+                        <note xml:id="nppv_n5g_2z">Die Gemahlin des zweiten Kammerpräsidenten von
+                            Magdeburg, Verfasserin der bekannten Tagebücher</note>
+                    </seg> stieß alle Welt über den Haufen, um als erste gesehen zu werden. <seg type="comment">
+                        <orig>Frau von <persName key="ed_lgd_jbq_rdb">Brand</persName>
+                  </orig>
+                        <note xml:id="njtz_p5g_2z">Luise von Brand, geb. von Kameke, Witwe des
+                            Kammerherrn von Brand, Mutter der Bella Dea</note>
+               </seg>, mit ihrem
+                    Aussehen einer Nymphe, imitierte in diesem Moment mehr die Unbekleidetheit, als
+                    die Unschuld unserer Mutter Eva. <gap reason="insignificant"/> Unsere
+                    Königlichen Hoheiten selbst hatten sich mit all ihren Reizen gewappnet, und
+                    dieser Tag wurde ganz und gar der Aufgabe gewidmet, Gefallen zu finden. Und nun
+                    fragen Sie mich, Monseigneur, was sie gesehen haben? und ich werde die Ehre
+                    haben, Ihnen zu sagen: Es waren vier Männer, ziemlich gewöhnlich in Flausch
+                    gekleidet, und die sich nennen Oganal, Colbert, Bonal und Isemberg. <gap reason="insignificant"/> Im Übrigen leben wir recht wenig angenehm, Not
+                    überall, ewige Sorgen, die Erinnerung ans Vergangene tötet, die Gegenwart bringt
+                    das Blut in Wallung, die Zukunft lässt es erstarren, und das ist es, was mich
+                    kurz schweigen heißt. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_akn_tsz_g2b">
+                    <persName type="reg">
+                        <surname>Erdmann</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1873-1882 Pfarrer in Tilsit</note>
+                </person>
+                <person xml:id="ed_yck_r5l_ngb">
+                    <persName type="reg">
+                        <surname>Ecker</surname>
+                        <forename>Fr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1877 Lehrer in Buddern</note>
+                </person>
+                <person xml:id="ed_sj3_qtv_scb">
+                    <persName type="reg">
+                        <surname>Eckert</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Amtmann</note>
+                </person>
+                <person xml:id="ed_v3y_sgh_scb">
+                    <persName type="reg">
+                        <surname>Eckhardt</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Kriegsrat in Preußen</note>
+                </person>
+                <person xml:id="ed_zlx_1l5_g2b">
+                    <persName type="reg">
+                        <surname>Egloffstein</surname>
+                        <forename>August Gottfried Eduard Freiherr von und zu</forename>
+                    </persName>
+                    <birth>1812</birth>
+                    <death>1886</death>
+                    <note>Weimarischer General und Oberstallmeister a. D.; Heirat: Ida von Gagern
+                        (1881)</note>
+                </person>
+                <person xml:id="ed_kvb_sk5_g2b">
+                    <persName type="reg">
+                        <surname>Egloffstein</surname>
+                        <forename>Friedrich Leopold Graf von und zu</forename>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1921</death>
+                    <note>Heirat: <persName key="ed_syd_lj5_g2b">Lilla von Bassewitz</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_syd_lj5_g2b">
+                    <persName type="reg">
+                        <surname>Egloffstein</surname>
+                        <forename>Lilla Gräfin von und zu</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Bassewitz, Gräfin von </name>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1914</death>
+                    <note>(1881)</note>
+                </person>
+                <person xml:id="ed_djk_4gx_f2b">
+                    <persName type="reg">
+                        <surname>Egloffstein-Arklitten</surname>
+                        <forename>Karl Graf von und zu</forename>
+                    </persName>
+                    <birth>1795</birth>
+                    <death>1887</death>
+                    <note>Offizier (1878)</note>
+                </person>
+                <person xml:id="ed_bbd_gwj_gz">
+                    <idno type="uri">http://d-nb.info/gnd/104335262</idno>
+                    <persName type="reg">
+                        <surname>Eichhorn</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1779</birth>
+                    <death>1856</death>
+                </person>
+                <person xml:id="ed_fy4_2mk_wcb">
+                    <persName type="reg">
+                        <surname>Eichler</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1810 auf Aweyden</note>
+                </person>
+                <person xml:id="ed_wh2_sts_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/11641779X</idno>
+                    <persName type="reg">
+                        <surname>Eichmann</surname>
+                        <forename>Franz August</forename>
+                    </persName>
+                    <birth>1793</birth>
+                    <death>1879</death>
+                </person>
+                <person xml:id="ed_psw_dkd_5db">
+                    <persName type="reg">
+                        <surname>Eickstedt</surname>
+                        <forename>Georg von</forename>
+                    </persName>
+                    <birth>1730</birth>
+                    <death>1807</death>
+                    <note>preußischer Justizrat, dann Regierungspräsident in Pommern; Heirat: 1759
+                            <persName key="ed_v25_yk3_vkb">Elisabeth Louise Ulrike Amalie Gräfin von
+                            Hacke</persName> (1743-1761)</note>
+                </person>
+                <person xml:id="ed_lrq_vn2_2z">
+                    <persName type="reg">
+                        <surname>Eickstedt</surname>
+                        <forename>Otto von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kammergerichtsrat; im November 1756 Spezialgesandter an den deutschen
+                        Fürstenhöfen</note>
+                </person>
+                <person xml:id="ed_tfp_r5h_tdb">
+                    <persName type="reg">
+                        <surname>Eickstedt-Peterswalde</surname>
+                        <forename>Ernestine Karoline Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Grumbkow, von</name>
+                    </persName>
+                    <birth>1719</birth>
+                    <death>1799</death>
+                    <note>Heirat: <persName key="ed_aqw_q25_2z">Friedrich Wilhelm von
+                            Eickstedt-Peterswalde</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_aqw_q25_2z">
+                    <persName type="reg">
+                        <surname>Eickstedt-Peterswalde</surname>
+                        <forename>Friedrich Wilhelm (Graf) von</forename>
+                    </persName>
+                    <birth>1703</birth>
+                    <death>1772</death>
+                    <note>Geheimer Staatsrat und Kriegsminister, Obergewandkämmerer</note>
+                </person>
+                <person xml:id="ed_edw_4wz_2y">
+                    <idno type="uri">http://d-nb.info/gnd/116424974</idno>
+                    <persName type="reg">
+                        <surname>Einem</surname>
+                        <forename>Karl von</forename>
+                    </persName>
+                    <birth>1853</birth>
+                    <death>1934</death>
+                </person>
+                <person xml:id="ed_rqb_3v3_mfb">
+                    <persName type="reg">
+                        <surname>Einsiedel</surname>
+                        <forename>Clemens Adolf Graf von</forename>
+                    </persName>
+                    <birth>1853</birth>
+                    <death>1917</death>
+                    <note>Heirat: 1. <persName key="ed_z4r_4v3_mfb">Karin Freiin von
+                            Arnim</persName>; Kinder: Curt-Hildebrand, <persName key="ed_omc_h5s_2y"
+                            >Harriet Sabine, verh. Gräfin von Lehndorff</persName>, Alexandra
+                        Sophie, Frieda; Adolkar Haubold Siegfried, Hans Haubold </note>
+                </person>
+                <person xml:id="ed_e2f_m3t_zdb">
+                    <persName type="reg">
+                        <surname>Einsiedel</surname>
+                        <forename>Gisela Gräfin</forename>
+                    </persName>
+                    <birth>1909</birth>
+                    <death>2005</death>
+                    <note>1931 Referendarin beim Amtsgericht in Potsdam</note>
+                </person>
+                <person xml:id="ed_sc3_hvp_rdb">
+                    <persName type="reg">
+                        <surname>Einsiedel</surname>
+                        <forename>Christiana Wilhelmina Gräfin von</forename>
+                    </persName>
+                    <birth>1726</birth>
+                    <death>1798</death>
+                    <note>Tochter des sächsischen Hofmarschalls Johann George Graf von Einsiedel
+                        (1692-1760); Heirat: 1756 Carl Heinrich Graf und Herr von Schönburg zu
+                        Wechselburg (1729-1800)</note>
+                </person>
+                <person xml:id="ed_z4r_4v3_mfb">
+                    <persName type="reg">
+                        <surname>Einsiedel</surname>
+                        <forename>Karin Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Arnim, von </name>
+                    </persName>
+                    <birth>1865</birth>
+                    <death>1898</death>
+                    <note>Heirat: <persName key="ed_rqb_3v3_mfb">Clemens Adolf Graf von
+                            Einsiedel</persName>; Kinder: Curt-Hildebrand, <persName
+                            key="ed_omc_h5s_2y">Harriet Sabine, verh. Gräfin von
+                            Lehndorff</persName>, Alexandra Sophie, Frieda; Adolkar Haubold
+                        Siegfried, Hans Haubold </note>
+                </person>
+                <person xml:id="ed_mxm_phv_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/101026641</idno>
+                    <persName type="reg">
+                        <surname>Eleonore Magdalene</surname>
+                        <forename>Kaiserin des Heiligen Römischen Reichs</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Neuburg, Pfalzgräfin von </name>
+                    </persName>
+                    <birth>1655</birth>
+                    <death>1720</death>
+                    <note>Heirat: <persName key="ed_y2r_khv_c2b">Leopold I. Kaiser des
+                            HRR</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_plr_11t_kfb">
+                    <persName type="reg">
+                        <surname>Engel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pastor; 1888 Redakteur des Reichsboten</note>
+                </person>
+                <person xml:id="ed_lr5_l2q_mbb">
+                    <persName type="reg">
+                        <surname>Engelschmidt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1757/58 Kommissions-Sekretarius</note>
+                </person>
+                <person xml:id="ed_g31_tjw_12b">
+                    <persName type="reg">
+                        <surname>Engemann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1947 Leiter der Kunsgut-Fahndungskommission, Leipzig</note>
+                </person>
+                <person xml:id="ed_msf_2qf_l3b">
+                    <persName type="reg">
+                        <surname>Engmer</surname>
+                        <forename>Heinrich Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberjäger, National-Kavallerie-Regiment</note>
+                </person>
+                <person xml:id="ed_abz_v25_sdb">
+                    <idno type="uri">https://d-nb.info/gnd/102065969</idno>
+                    <persName type="reg">
+                        <surname>Enking</surname>
+                        <forename>Ragna</forename>
+                    </persName>
+                    <birth>1898</birth>
+                    <death>1975</death>
+                </person>
+                <person xml:id="ed_ivl_sr4_dz">
+                    <idno type="uri">http://d-nb.info/gnd/135910331</idno>
+                    <persName type="reg">
+                        <surname>Ephraim</surname>
+                        <forename>Veitel Heine</forename>
+                    </persName>
+                    <birth>1703</birth>
+                    <death>1775</death>
+                </person>
+                <person xml:id="ed_kyc_t45_1bb">
+                    <persName type="reg">
+                        <surname>Eppingen</surname>
+                        <forename>Johann Carl von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1723/24 auf Jagodnen</note>
+                </person>
+                <person xml:id="ed_lcq_zg3_d2b">
+                    <persName type="reg">
+                        <surname>Epstein</surname>
+                        <forename>Jozef</forename>
+                    </persName>
+                    <birth>1795</birth>
+                    <death>1876</death>
+                    <note>Polnischer Bankier</note>
+                </person>
+                <person xml:id="ed_f4v_dyz_scb">
+                    <persName type="reg">
+                        <surname>Erasmus</surname>
+                        <forename>Gottfried</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1706 Hof-Konsistorial- und Pupillen-Rat</note>
+                </person>
+                <person xml:id="ed_y2x_yc3_4cb">
+                    <persName type="reg">
+                        <surname>Erdmann</surname>
+                        <forename>Hans Otto</forename>
+                    </persName>
+                    <birth>1894</birth>
+                    <death>1944</death>
+                    <note>Berufsoffizier; Widerstandskämpfer des 20. Juli 1944.
+                        https://de.wikipedia.org/wiki/Hans_Otto_Erdmann</note>
+                </person>
+                <person xml:id="ed_wxy_cgt_g2b">
+                    <persName type="reg">
+                        <surname>Erfurt</surname>
+                        <forename>Henriette</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1880 Bittstellerin, aus Rydzewen</note>
+                </person>
+                <person xml:id="ed_cp5_z1q_h1b">
+                    <idno type="uri">http://d-nb.info/gnd/104114150</idno>
+                    <persName type="reg">
+                        <surname>Erman</surname>
+                        <forename>Jean Pierre</forename>
+                    </persName>
+                    <birth>1735</birth>
+                    <death>1814</death>
+                </person>
+                <person xml:id="ed_cfm_b5t_ncb">
+                    <persName type="reg">
+                        <surname>Ermel</surname>
+                        <forename>Richard</forename>
+                    </persName>
+                    <birth>1872</birth>
+                    <death/>
+                    <note>1898 Gerichtsassessor, 1903 Amtsrichter in Niebüll, 1908 Landrichter in
+                        Altona, 1913 Oberlandesgerichtsrat in Königsberg, 1921 Stellv. Präsident des
+                        Auflösungsamtes für Familiengüter in Königsberg</note>
+                </person>
+                <person xml:id="ed_k3t_hfc_t2b">
+                    <persName type="reg">
+                        <surname>Ernst</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1727 Kutscher in Steinort</note>
+                </person>
+                <person xml:id="ed_rxb_c5s_d2b">
+                    <persName type="reg">
+                        <surname>Esse</surname>
+                        <forename>Karl </forename>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1874</death>
+                    <note>1832 Rendant an der Charité Berlin, 1850 Verwaltungsdirektor ebd. und
+                        Geheiner Regierungsrat, 1871 Geheiner Regierungsrat im Kultusministerium,
+                        1873 a. D. Mitglied des Verwaltungsrats der Anhaltinische
+                        Eisenbahngesellschaft. https://www.deutsche-biographie.de/sfz13764.html
+                    </note>
+                </person>
+                <person xml:id="ed_x14_gtz_zdb">
+                    <persName type="reg">
+                        <surname>Eulenburg</surname>
+                        <forename>Albrecht Graf zu</forename>
+                    </persName>
+                    <birth>1875</birth>
+                    <death>1944</death>
+                    <note/>
+                </person>
+                <person xml:id="ed_ltg_rkp_tdb">
+                    <persName type="reg">
+                        <surname>Eulenburg</surname>
+                        <forename>Albrecht Wilhelm Freiherr zu</forename>
+                    </persName>
+                    <birth>1709</birth>
+                    <death>1773</death>
+                    <note>auf Galingen, Prassen usw. (1767)</note>
+                </person>
+                <person xml:id="ed_vcq_4ft_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/116603887</idno>
+                    <persName type="reg">
+                        <surname>Eulenburg</surname>
+                        <forename>Botho Wendt Graf zu</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1912</death>
+                </person>
+                <person xml:id="ed_kbr_dcr_d2b">
+                    <persName type="reg">
+                        <surname>Eulenburg</surname>
+                        <forename>Emmy Gräfin zu</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1872</death>
+                    <note>Heirat: <persName key="ed_at1_zvw_c2b">Max Graf von Hahn</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_e5p_hw3_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/119178931</idno>
+                    <persName type="reg">
+                        <surname>Eulenburg</surname>
+                        <forename>Friedrich Albrecht Graf zu</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1881</death>
+                </person>
+                <person xml:id="ed_pbb_flv_mbb">
+                    <persName type="reg">
+                        <surname>Eulenburg</surname>
+                        <forename>Georg Friedrich Freiherr zu</forename>
+                    </persName>
+                    <birth>1641</birth>
+                    <death>1699</death>
+                    <note>Oberst der Generalstaaten, preußischer Landrat und Hauptmann zu Rhein
+                    </note>
+                </person>
+                <person xml:id="ed_qxt_d2r_v2b">
+                    <persName type="reg">
+                        <surname>Eulenburg</surname>
+                        <forename>Grafen zu</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_txf_bnp_tdb">
+                    <persName type="reg">
+                        <?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?><surname><?oxy_custom_end?>Eulenburg</surname>
+                        <forename>Henriette Charlotte Freiin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Tettau, von</name>
+                    </persName>
+                    <birth>1728</birth>
+                    <death>1784</death>
+                    <note>Heirat: 1742 <persName key="ed_ltg_rkp_tdb">Albrecht Wilhelm Freiherr zu
+                            Eulenburg</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_qf5_d4j_kjb">
+                    <persName type="reg">
+                        <surname>Eulenburg</surname>
+                        <forename>Jonas zu</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Zeuge beim Verkauf von Taberlack 1565</note>
+                </person>
+                <person xml:id="ed_us2_gz1_dy">
+                    <persName type="reg">
+                        <surname>Eulenburg</surname>
+                        <forename>Philipp Konrad Graf zu</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1889</death>
+                    <note>Oberstleutnant</note>
+                </person>
+                <person xml:id="ed_ar3_sz1_dy">
+                    <idno type="uri">http://d-nb.info/gnd/118531352</idno>
+                    <persName type="reg">
+                        <surname>Eulenburg-Hertefeld</surname>
+                        <forename>Philipp Fürst zu</forename>
+                    </persName>
+                    <birth>1847</birth>
+                    <death>1921</death>
+                </person>
+                <person xml:id="ed_rbv_ctt_2cb">
+                    <idno type="uri">http://d-nb.info/gnd/135935172</idno>
+                    <persName type="reg">
+                        <surname>Eulenburg-Prassen</surname>
+                        <forename>Botho Wilhelm Graf zu</forename>
+                    </persName>
+                    <birth>1778</birth>
+                    <death>1865</death>
+                </person>
+                <person xml:id="ed_zbn_2km_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/133326144</idno>
+                    <persName type="reg">
+                        <surname>Eulenburg-Prassen</surname>
+                        <forename>Friedrich „Fritz“ Botho Wend Eberhard Graf zu</forename>
+                    </persName>
+                    <birth>1874</birth>
+                    <death>1931</death>
+                </person>
+                <person xml:id="ed_mx4_p3r_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/133608026</idno>
+                    <persName type="reg">
+                        <surname>Eulenburg-Wicken</surname>
+                        <forename>Botho Heinrich Graf zu</forename>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1879</death>
+                    <note>Heirat: Therese Gräfin von Dönhoff</note>
+                </person>
+                <person xml:id="ed_jqp_l4l_3fb">
+                    <idno type="uri">https://d-nb.info/gnd/116320680</idno>
+                    <persName type="reg">
+                        <surname>Eye</surname>
+                        <forename>August Johann Ludolf von</forename>
+                    </persName>
+                    <birth>1825</birth>
+                    <death>1896</death>
+                </person>
+                <person xml:id="ed_klf_qn1_tcb">
+                    <persName type="reg">
+                        <surname>Eysenhart sen.</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1783 Bankier in Berlin</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

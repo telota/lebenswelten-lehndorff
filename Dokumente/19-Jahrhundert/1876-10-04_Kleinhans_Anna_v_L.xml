@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hps_hgd_py">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Seraphine Kleinhans an Anna Gräfin von Lehndorff. Odessa, 4. Oktober
+                    1876</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hps_hgd_py</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Räume/Europa</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 521, Bl. 30-31v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_amq_mgd_py">Kleinhans, Seraphine (-)</persName>
+                    <placeName key="ed_e3j_pgd_py">Odessa</placeName>
+                    <date when="1876-10-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Am 2. Dezember 1877 (Bl. 32-34) gratulierte sie nachträglich zur silbernen
+                    Hochzeit und beschrieb ihren Tagesablauf: Montagabend gäbe es Singstunden, man
+                    übe einen Weihnachtsgesang ein. <quote>Ein alter Herr, ein Schotte, wohnt immer
+                        dieser Stunde bei. Er arbeitet schon 50 Jahre in Russland im Dienste der
+                        Londoner <orgName key="ed_yfp_f3d_py">Bibelgesellschaft. </orgName> Sein
+                        gewöhnlicher Wohnort ist <placeName key="ed_olw_h3d_py">Tilsit</placeName>.</quote> Mit der russischen Sprache tue sie sich schwer.
+                        <quote>Was den <ref target="https://de.wikipedia.org/wiki/Russisch-Osmanischer_Krieg_(1877%E2%80%931878)">Krieg</ref> betrifft, so wissen Sie gewiss mehr darüber als wir, die
+                        unsere Nachrichten meistens aus fremden Blättern entnehmen. Wir fühlen den
+                        Krieg eigentlich nur durch den erhöhten Preis der Lebensmittel und durch den
+                        empfindlichen Mangel an Kohlen und überhaupt Brennmaterialien. Sollte es
+                        ferner so fortfahren, so würde die Armut diesen Winter eine entsetzliche
+                        sein – davor behüte uns der Herr! Es werden viele Verwundete hierher
+                        transportiert, Tausende! Wenn welche besser werden, so befördert man sie
+                        nach dem Inneren, um anderen Platz zu machen. Es sind auch oft deutsche
+                        Soldaten dabei – aus den östlichen Provinzen und den in ganz Russland
+                        gestreuten deutschen Kolonien.</quote> Die Sonntagsschule ihres Bruders
+                    werde von 80 bis 90 Kindern besucht, er habe auch eine Bibliothek eingerichtet.
+                    - Im Herbst 1879 (Bl. 35-36v) berichtete sie über die Ankunft einer Judenfamilie
+                    aus <placeName key="ed_fsn_mtp_tdb">Konstantinopel</placeName> in <placeName key="ed_e3j_pgd_py">Odessa</placeName>, die bereits vor 4 Jahren zum
+                    Christentum konvertiert war. Sie <quote>waren in großem Elend, von den Juden
+                        verfolgt, von den Christen verachtet.</quote> Sie versuchten, in Odessa Fuß
+                    zu fassen, jedoch vergebens, sie seien nach Konstantinopel zurückgekehrt. -
+                    Seraphine Kleinhans, aus <placeName key="ed_wzh_wmq_f2b">Faulenort</placeName>
+                    gebürtig, hatte lange als Hauslehrerin gearbeitet, vgl. APO, Bestand 382, Nr.
+                    521, Bl. 24-25 (4. Januar 1855). <quote>Seraphine</quote>, an die man
+                        <quote>jahrelange liebe Erinnerungen habe</quote>, wird  am 22. Januar 1861
+                    im Brief aus Kings College an Anna Lehndorff erwähnt, vgl. ebd., Nr. 522, Bl.
+                    22-23v. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/521/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Odessa, 4. Oktober 1876</dateline>
+                    <salute>Meine geliebte und verehrte Frau Gräfin.</salute>
+                </opener>
+                <p>
+               <note type="editorial">Aufgrund einer Erkältung habe sie nicht früher schreiben
+                        können. Sie denke gern an den <seg type="comment">
+                     <orig>Aufenthalt in
+                                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                            </orig>
+                     <note xml:id="ngtg_5x4_jdb">Siehe den Brief aus Eaton vom 9.
+                                April 1876 in: APO, Bestand 382 FA Lehndorff, Nr. 521, Bl. 28-29.
+                                Sie habe durch einen Brief aus <placeName key="ed_ysp_f5h_wz">Stargard</placeName> erfahren, dass sie nach Steinort
+                                eingeladen sei, <quote>als Sie von meiner Reise nach Deutschland
+                                    hörten</quote>. Graf <persName key="ed_php_rqg_hy">Borcke</persName> habe ihr geschrieben, dass jetzt der direkte
+                                Weg nach <placeName key="ed_e3j_pgd_py">Odessa</placeName> über
+                                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gehe,
+                                    <quote>so dass, wenn Sie mich Anfang oder Mitte Oktober in
+                                    Steinort haben könnten, ich sehr glücklich darüber sein
+                                    würde.</quote>
+                     </note>
+                        </seg>zurück.</note>
+                    <gap reason="insignificant"/> Hier bin ich nun, nach einer ermüdenden, dennoch
+                    nicht sehr beschwerlichen Reise. Mir wurde etwas wehmütig zumute, als ich mich
+                    nun wirklich auf russischem Boden befand. Die unermesslichen Ebenen, selten von
+                    weit sich erstreckenden Wäldern unterbrochen, machten auf mich einen fast
+                    erdrückenden Eindruck. Ich war froh, als ich <placeName key="ed_e3j_pgd_py">Odessa</placeName> erreichte. Gott sei Dank habe ich meinen Bruder und die
+                    Seinen viel gesünder aussehend gefunden als in Bern. Die Kinder freuen sich sehr
+                    über die hübschen Geschenke, die Sie so freundlich waren, ihnen zu schicken.
+                    Meine kleinen <gap reason="illegible"/> habe ich auf einem kleinen Tisch im
+                    Salon, wo ich einige meiner liebsten kleinen Angedenken aufgestellt habe, so
+                    dass ich sie immer vor Augen habe. Sehr weise ist es wohl nicht, die Sehnsucht
+                    nach Freunden zu nähren, die durch eine so große Entfernung von mir getrennt
+                    sind. - Ich hoffe, mich nach und nach an <placeName key="ed_e3j_pgd_py">Odessa</placeName> zu gewöhnen, <seg type="comment">besonders, wenn ich die
+                        mich immer noch quälenden Kopfschmerzen überwunden habe. </seg>Odessa ist
+                    eine große, schöne Stadt. Die Straßen sind gerade, breit und mit Akazien
+                    bepflanzt, es sind die einzigen Bäume, die hier ordentlich fortkommen. Die
+                    Leute, die ich hier habe bis jetzt kennenlernen können, sind reiche Kaufleute,
+                    Banquiers. Es herrscht überall ein großer Unrat, aber ich fürchte <note type="editorial">um</note> mein geistiges Leben. <note type="editorial">Sie
+                        habe die Erziehung ihrer zwei ältesten Nichten übernommen und hoffe auf
+                        weitere Schülerinnen. Abends denke sie beim Lesen mit den Kindern oft an
+                            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, die Gräfin möchte
+                        ihr die Bücher benennen, die sie gemeinsam gelesen haben, sie wolle sie sich
+                        besorgen. </note> - Wir leben hier in einer ziemlich großen Aufregung, <note type="editorial">der englische Prediger habe vorgestern mitgeteilt, dass für
+                        Odessa der Belagerungszustand erklärt werden würde.</note> England scheint
+                    sich wieder abgekühlt zu haben und der Türkei wieder gewogen zu sein. Es werden
+                    fortwährend hier Feste gegeben „au prosite‟ etc. des <gap reason="illegible"/>;
+                    der Enthusiasmus ist allgemein.</p>
+                <p>Möchten Sie bitte so gut sein, mich dem Herrn <persName key="ed_zkm_whl_2y">Grafen</persName> zu empfehlen und ihm von mir zu danken für alle
+                    Freundlichkeit, die er mir erwiesen. An <gap reason="illegible"/> habe ich
+                    geschrieben, aber die Briefe gehen hier so langsam, dass ich wohl lange ohne
+                    Antwort sein werde. Die Zeiten sind sehr ungünstig um eine Stellung, wie er sie
+                    wünscht, für ihn zu finden, meine Leute und ich werden jedoch tun, was wir
+                    können, ihm behilflich zu sein. - Wenn Sie etwas Zeit erübrigen könnten ein paar
+                    Zeilen an mich zu schreiben, so würden Sie mich gewiss recht glücklich machen,
+                    denn ich sehne mich danach zu hören, wie es Ihnen jetzt geht.</p>
+                <closer>
+                    <salute>Ihre Ihnen von ganzem Herzen und in tiefster Liebe ergebene</salute>
+                    <signed>S. Kleinhans</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

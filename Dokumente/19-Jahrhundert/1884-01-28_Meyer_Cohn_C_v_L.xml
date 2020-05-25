@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_d1x_qb1_hbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bankhaus Meyer Cohn an Carol Graf von Lehndorff. Berlin, 28. Januar 1884</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_d1x_qb1_hbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 302, Bl. 84</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_iml_ywz_gbb">Bankhaus Meyer Cohn, Berlin</orgName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1884-01-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ik3_ckz_2y">Lehndorff, Carl Meinhard (Carol) Graf von
+                        (1860-1936)</persName>
+                </correspAction>
+                <note>Die Bilanz des Allodial-Nachlasses, aufgestellt durch den Angerburger
+                    Rechtsanwalt und Notar Magnus <persName key="ed_ach_bh1_h2b">Meitzen</persName>,
+                    in: LASA, StA L, Bestand 21950 FA Lehndorff, FA Lehndorff, Nr. 339. Den Aktiva,
+                    bestehend aus Aktien (158.300 M), Bankguthaben (16.931 M), Pachtschulden (18.100
+                    M) und dem Anteil des Allods an den Einnahmen des Fideikommisses im Sterbejahr
+                    (25.250 M) in Höhe von 218.581 M standen Passiva in Höhe von 149.676 M
+                    (Verpachtung des Allodial-Nachlasses gegen das Fideikommiss zur Vertretung von
+                    Inventar verpachteteter Fideikommissgüter, Begräbniskosten, Schulden) gegenüber.
+                    Die aktive Masse betrug 98.904 M. - Die von <persName key="ed_wms_mh2_cy">Anna
+                        von Lehndorff</persName> aufgestellte Übersicht über Vermögen, Kapitalien,
+                    Einnahmen und Ausgaben (undatiert) war nicht ausgewogen. Die Einnahmen aus den
+                    Verpachtungen, der Gutswirtschaft und dem Forst (110.155 M) lagen weit unter den
+                    Ausgaben und abzutragenden Schulden bzw. Zinszahlungen (120.760 M), ebd., Nr.
+                    304. - Zum Fideikommissvermögen auch: APO, Bestand 382 FA Lehndorff, Nr. 11 und
+                    Nr. 13, der Briefverkehr des Rechtsanwalts Meitzen u. a. Anwälte 1872 bis 1891
+                    in Nr. 164.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>W Berlin, den 28. Januar 1884</dateline>
+                    <salute>Seiner Hochgeboren Herrn Graf Carl von Lehndorff, Steinort</salute>
+                </opener>
+                <p>Ich habe hiermit die Ehre, Ihnen einliegend den <seg type="comment">
+                  <orig>Auszug
+                            Ihrer halbjährigen Rechnung</orig>
+                  <note xml:id="nixl_4d1_hbb">Liegt der
+                            Akte bei, Bl. 85.</note>
+               </seg>, abgeschlossen per 31. Dezember 1883, zu
+                    überreichen, deren Saldo von </p>
+                <p>Mark 5.590,- </p>
+                <p>zu Ihren Gunsten Sie gefälligst aufs Neue vortragen wollen. </p>
+                <p>Bei Rechtfinden meines Kontos resp. nach Feststellung des Saldos würden Sie mich
+                    zu besonderem Dank verpflichten, wenn Sie mir dies durch Unterzeichnung und
+                    Rücksendung des beiliegenden Schemas recht bald bestätigen wollten.</p>
+                <closer>
+                    <salute>Hochachtungsvoll</salute>
+                    <signed>Meyer Cohn</signed>
+                </closer>
+            </div>
+            <div>
+                <head/>
+            </div>
+            <postscript>
+                <p>
+               <hi rendition="#u">In Ihrem Depot bei mir liegen:</hi>
+                </p>
+                <p>M. 26.000 <seg type="comment">
+                  <orig>Wenabahn-Aktien</orig>
+                  <note xml:id="ndfc_231_h2b">Vgl. Meyer, Arthur von, Geschichte und Geographie
+                            der deutschen Eisenbahnen von ihrer Entstehung bis auf die Gegenwart,
+                            1890 bearb. nach Original-Quellen als Lehr und Prüfungsbuch für die
+                            deutschen Eisenbahn-Beamten, als Handbuch für Börsen-Interessenten,
+                            Capitalisten und Eisenbahn-Unternehmer, sowie als Hilfsbuch zum Studium
+                            für jedermann, Berlin 1891.</note>
+               </seg>
+                </p>
+                <p>M. 13.200 <seg type="comment">
+                  <orig>Tattersall-Aktien</orig>
+                  <note xml:id="nhkx_5d1_hbb">Vgl. LASA, StA L, Bestand 21950 FA Lehndorff, FA
+                            Lehndorff, Nr. 303.</note>
+               </seg>
+                </p>
+                <p>M. 6.000 <seg type="comment">
+                  <orig>Hoppegarten-Aktien</orig>
+                  <note xml:id="nmft_kcp_42b">Vgl. LASA, StA L, Bestand 21950 FA Lehndorff, FA
+                            Lehndorff, Nr. 302.</note>
+               </seg>
+                </p>
+                <p>M. 12.000 <seg type="comment">
+                  <orig>Ostpreußische Zeitungsaktien</orig>
+                  <note xml:id="nhzk_wd1_hbb">Vgl. LASA, StA L, Bestand 21950 FA Lehndorff, FA
+                            Lehndorff, Nr. 302, Bl. 66 und 67.</note>
+               </seg>
+                    <lb/>nur Dividendenbogen</p>
+                <p>M. 15.000 ostpreußische Südbahn St. Prior <lb/>nur Dividendenbogen </p>
+                <p>M. 30.000 Ostpreußische Südbahn St. Prior </p>
+                <p>M. 6.000 Depositen-Quittung der Preußischen Bank-Anstalt </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

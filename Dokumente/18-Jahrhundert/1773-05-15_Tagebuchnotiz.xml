@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_efw_ppg_vbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title>Tagebuchnotiz von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 15. Mai 1773</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_efw_ppg_vbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="editorial">
+                    <p>Vgl. die Anmerkung zum Dokument vom <ref target="lehndorff_ny4_4hg_vbb">22.
+                            März 177</ref>3. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 486, Bl. 12-12v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf von
+                    (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                <date when="1773-05-15" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Der Herr Generalmajor von <persName key="ed_zny_zpv_scb">Anhalt</persName>
+                    verlangen wiederholentlich wegen kränklicher Umstände ihren Abschied oder ein
+                    altes Infanterieregiment, welches letztere <persName key="ed_x2r_52f_cy">Sr.
+                        Majestät</persName> akkordiert haben sollen. Man bestimmt solches auch
+                    bereits, doch ohne Gewissheit.</p>
+                <p>Die Magazine in und um <placeName key="ed_ypq_rnn_scb">Posen</placeName> längst
+                    der Wehr werden sehr ansehnlich vermehrt und sind dieserhalb starke
+                    Ausschreibungen ergangen.</p>
+                <p>Unter denen ersten Reichsfürsten ist ein <seg type="comment">
+                  <orig>Bündnis</orig>
+                  <note xml:id="nlvz_4pn_scb"> Erst am 23. Juli 1785
+                            kam der Vertragsschluss zwischen Preußen, Hannover und Sachsen zum
+                                Drei-<ref target="https://de.wikipedia.org/wiki/F%C3%BCrstenbund">Kurfürstenbund</ref> zustande, der sich durch den Beitritt von 14
+                            weiteren mindermächtigen Reichsfürsten zum Fürstenbund erweiterte.
+                            Obwohl der Fürstenbund auf die Wahrung der Reichsverfassung und der
+                            bestehenden Besitzverhältnisse angelegt war, instrumentalisierte
+                            Friedrich der Große den Fürstenbund als antihabsburgisches Gegengewicht
+                            unter den Reichsständen. </note>
+               </seg> geschlossen, um ihre Deutsche
+                    Freiheit und Unabhängigkeit gegen alle und jede Feinde zu erhalten und zu
+                    beschützen, die freien Reichsstädte sind dazu mit eingeladen worden, deren
+                    Entschließung aber ist zur Zeit noch nicht bekannt, weil gewisse Umstände solche
+                    verhindern zu scheinen.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Von den in <placeName key="ed_xfd_wgt_c2b">Westphalen</placeName> stehenden Regimentern sind abermals 12
+                            Unteroffiziere per Regiment angekommen, welche zu denen in Neupreußen
+                            errichteten Regimentern abgehen sollen.</orig>
+                  <note xml:id="nijm_qrn_scb">Nach Abtretung deutscher Randgebiete Polens an
+                            Preußen, am 5. August 1772 stellte der König 1773/1774 fünf neue
+                            Füsilierregimenter in dem neu gewonnenen <placeName key="ed_zgq_zjv_mbb">Ermland</placeName> und in <placeName key="ed_ug2_j1q_vcb">Westpreußen</placeName> bis zur Netze auf. Die Offiziere kamen
+                            meist aus der Armee, einige aus fremden Diensten. An 'Ausländern' waren
+                            einschließlich der Unteroffiziere 3.670 erforderlich. Sie kamen zu den
+                            alten Regimentern und wurden gegen kleinere gediente, zu Unteroffizieren
+                            geeignete Leute ausgetauscht. <ref target="http://www.preussenweb.de/regiment3.htm">Von der benötigten
+                                Gesamtzahl ließ General v. <persName key="ed_tcf_wqw_mbb">Lossow</persName> in <placeName key="ed_f5m_fxv_mbb">Polen</placeName> 1.370 anwerben, wiederum zum Tausch gegen
+                                andere  'Aussländer' bei pommerschen, magdeburgischen und
+                                westfälischen Regimentern. 300 Mann hatten die westfälischen
+                                Regimenter 9, 10 und 41 abzugeben, 1.600 brachte die
+                                General-Werbung, und 400 Mann vermittelte Generalleutnant Prinz von
+                                Anhalt-Bernburg aus den anhaltinischen Fürstentümern.</ref>
+                        </note>
+               </seg> Sie sind auf der Friedrichstadt einquartiert und dürfen nicht
+                    aus den Toren gehen.</p>
+                <p>Gleich nach der Revue sollen von jedem Infanterieregiment 10 Mann und ein
+                    Unteroffizier ausgehoben und gleichfalls an die neue Regimenter abgegeben
+                    werden.</p>
+                <p>Das in Westphalen neu errichtete Husarenregiment ist bereits über komplett und
+                    hat sehr starken freiwilligen Zulauf von Ausländern gehabt, man erwartet täglich
+                    die letzten Remontepferde für selbige. </p>
+                <p>Am 20. huius treffen die Regimenter hier ein, den 21., 22. und 23. ist Revue, den
+                    23. reist der König nach <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>
+                    zurück, <seg type="comment">
+                  <orig>den 25. geht er von da nach <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> oder nach <placeName key="ed_xfd_wgt_c2b">Westphalen</placeName> ab,</orig>
+                  <note xml:id="nws1_trg_vbb">Ebd., Bl. 14, Tagebuchblatt vom 3. Juni 1773:
+                                <quote>Die Revue bei Magdeburg hat dem König nicht gefallen, die
+                                Infanterie hat ihm zwar Genüge geleistet, allein mit der Kavallerie
+                                ist er ganz unzufrieden gewesen, weshalb auch sogleich 2 Majors den
+                                Abschied erhalten haben.</quote> Obrist von Rohe ist zum Chef des
+                            dritten neuen Infanterieregiments und zum Inspektor der in Neupreußen
+                            stehenden Regimenter ernannt worden. Die an den Exzessen während des
+                            dritten Revuetages beteiligten Offiziere seien arretiert, es hätten sich
+                            einige <quote>wohlgewachsene Kurländer</quote> als die
+                                <quote>Hauptanführer</quote> herausgestellt.</note>
+               </seg> den 26.,
+                    27., 28. und 29. Revue und die Rückreise nach Potsdam, der 30. und 31. ist zur
+                    Zivil-Revue mit dem Finanzminister bestimmt.</p>
+                <p>Den 18. dieses werden die Frau <persName key="ed_h3s_1hn_scb">Landgräfin von
+                        Hessen-Darmstadt</persName> in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> erwartet und sind die Kammern bereits dazu optiert.
+                        <seg type="comment">
+                  <orig>Der Königliche Generalleutnant von <persName key="ed_kbb_gtn_scb">Lentulus</persName> wird sich mit der
+                            verwitweten Starostin von Graudenz, eine geborene von Schmiedke,
+                            vermählen, welches eine der reichsten Partien ist.</orig>
+                  <note xml:id="nhns_ntn_scb">Im Anschluss an die erste polnische Teilung hatte
+                            König Friedrich II. <persName key="ed_kbb_gtn_scb">Lentulus</persName>
+                            1773 nach Westpreußen entsandt, um von der neu erworbenen Provinz Besitz
+                            zu ergreifen und die preußische Herrschaft zu
+                    etablieren.</note>
+               </seg>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_gvw_mnc_ydb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. August 1778
+                    bis Frühjahr 1779</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_gvw_mnc_ydb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">
+                    <p>Vgl. auch die Ausführungen zum Beginn des Jahres 1779, ebd., S. 118 f.
+                        Demnach befasste sich Lehndorff vormittags mit den
+                        Wirtschaftsangelegenheiten und der Verschönerung seines Gartens, nachmittags
+                        mit Lesen und Malen, abends mit Gesprächen. Regelmäßig kamen Besucher nach
+                            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, die 'Nachbarn',
+                            <ref target="lehndorff_zy1_q4y_bcb">vor allem auch <persName key="ed_gbs_p1m_2y">Krasicki</persName>
+                  </ref>; auch er selbst machte
+                        Besuche, und lernte so nach und nach den Adel der Gegend (die <persName key="ed_qxt_d2r_v2b">Eulenburgs</persName>, <persName key="ed_n2h_2xz_g2b">Dohnas</persName>, <persName key="ed_kph_h2r_v2b">Dönhoffs</persName>, <persName key="ed_jzx_j2r_v2b">Kanitz</persName>)
+                        kennen, viele hatte er seit 1740 nicht gesehen. Auf dem <quote>kleinen
+                            Theater</quote> werden Aufführungen gegeben. - Zu seinem Verwandten, dem
+                                <quote>
+                     <persName key="ed_kyf_fpy_bz">Herrn v.
+                            Lehndorff</persName>
+                  </quote> in <placeName key="ed_bdw_bnm_cbb">Maxkeim</placeName>, scheint er keine Beziehung zu haben, und als
+                        dieser im Oktober 1783 seinen Besuch macht, schreibt Lehndorff: <quote>Nach
+                            Tisch erscheint hier ein Herr v. Lehndorff, der mir, obwohl er meinen
+                            Namen trägt, im höchsten Maß zuwider ist.</quote> - Im vergangenen Jahr
+                        habe er <quote>ganz allein von meinen schlesischen Einkünften</quote> - also
+                        dem Erbe seiner Frau - gelebt, da aufgrund des Krieges <quote>jeder Verkehr
+                            stockte</quote>. Nun müsse er <quote>zu bauen anfangen. In dieser
+                            Beziehung hat meine <persName key="ed_q4s_xyl_2y">Mutter</persName>
+                            meine Güter verwahrlosen lassen. Das schadhafte Dach meines Wohnhauses
+                            lasse ich ausbessern und neue Gesimse aufsetzen.</quote> Auch die
+                        Brauerei drohte einzustürzen und musste <quote>mitten in der
+                            Erntezeit</quote> neu aufgebaut werden. Zu dieser: GStA PK, XX. HA, Rep.
+                        54 Gutsarchiv Lehndorff-Steinort, Nr. 743. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Karl Eduard, Des Reichsgrafen Ernst
+                            Ahasverus Heinrich Lehndorff Tagebücher nach seiner Kammerherrenzeit, Bd.
+                            1, Gotha 1921, S. 116 ff.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <date from="1778-08-04" to="1779-06-23" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <note type="editorial">Nach der Verabschiedung an den Höfen beginnt Lehndorff am
+                        3. August die Rückreise nach <placeName key="ed_uvt_4j4_dz">Preußen</placeName>, unterbrochen von zahlreichen Besuchen. Am 22.
+                        August trifft die Familie in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ein, <quote>wo meine Leute mich so herzlich
+                            begrüßen, dass ich mich für meine Reisestrapazen fast völlig entschädigt
+                            fühle</quote>. In den kommenden Tagen macht er einen
+                            <quote>Höflichkeitsbesuch</quote> bei den <persName key="ed_qxt_d2r_v2b">Eulenburgs</persName> in <placeName key="ed_gjy_fkp_tdb">Prassen</placeName>, wo er die <persName key="ed_bxp_z3y_rgb">Keyserlingks</persName> und die <persName key="ed_kph_h2r_v2b">Dönhoffs</persName> aus <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName> vorfindet. </note>
+                </p>
+                <p>Nun rüste ich mich zu einer Reise nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, wohin mich Geschäfte rufen. In <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> diniere ich mit dem Präsidenten aus
+                    Marienwerder, dem Grafen <persName key="ed_vz3_gpp_mbb">Finckenstein</persName>,
+                    einem Manne von Verdienst. <note type="editorial">In Königsberg sieht er seine
+                        Nichte Schlieben und alle Bekannten wieder. </note> Das Keyserlingksche Haus
+                    ist meine einzige Zuflucht, da die Stadt infolge des Abmarschs der Garnison ganz
+                    verödet ist. Eine Menge unangenehme Geschäfte habe ich zu erledigen, die
+                    einerseits durch einen Kauf von Tafelgeschirr, andererseits durch die schlechte
+                    Verwaltung meines Gutes <placeName key="ed_enz_4vz_g1b">Landkeim</placeName>
+                    verursacht sind. Allerlei Widerwärtigkeiten verzögern meine Heimkehr, und aus
+                    zehn Tagen, in denen ich fertig zu werden hoffte, werden vier Wochen. So vergeht
+                    der ganze September bei abscheulichem Wetter. </p>
+                <p>Anfang Oktober fahre ich nach Hause und habe die Freude, meine ganze Familie bei
+                    bester Gesundheit anzutreffen. Die Zahl meiner Hausgenossen hat sich durch alle
+                    möglichen <persName key="ed_cpm_33y_ydb">Schliebens</persName> derart
+                    vergrößert, dass ich täglich mit vierzehn Personen bei Tisch sitze. Ich finde
+                    sehr interessante Briefe vor, besonders einen vom Prinzen <persName key="ed_nvx_wcz_bz">Heinrich</persName>, der mir seine große Freundschaft
+                    beweist. Dieser edle Prinz vergisst mich trotz seiner Geschäfte nicht und
+                    schreibt mir so ausführlich und dabei so gütig, dass ich davon aufs tiefste
+                    gerührt bin.</p>
+                <p>Ich würde mich ganz vorzüglich auf dem Lande gefallen, wenn sich nicht so viel
+                    Unannehmlichkeiten in der Wirtschaft fänden. Das beweist wieder einmal, dass es
+                    keine Lebenslage gibt, die uns vollkommen zufrieden stellen könnte. Außerdem
+                    lassen sich zahlreiche Leiden voraussehen, die der Krieg mit sich bringen wird.
+                    Menschen- und Geldmangel sind schon jetzt zu spüren.</p>
+                <p>Der <persName key="ed_x2r_52f_cy">König</persName> hat sich nach <placeName key="ed_tjn_3rc_py">Schlesien</placeName> zurückgezogen und Prinz <persName key="ed_nvx_wcz_bz">Heinrich</persName> nach <placeName key="ed_p2v_pc3_ycb">Sachsen</placeName>. Damit ist der Feldzug für dies Jahr beendigt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

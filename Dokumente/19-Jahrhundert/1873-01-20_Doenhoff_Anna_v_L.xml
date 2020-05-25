@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xwy_bw2_gdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pauline Gräfin von Dönhoff an Anna Gräfin von Lehndorff. Friedrichstein, 20.
+                    Januar 1873</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xwy_bw2_gdb</idno>
+            </idno>
+         </publicationStmt>
+         <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+                
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 432, Bl. 145-146v</idno>
+                    </msIdentifier>
+                     
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von, geb. Gräfin von
+                        Lehndorff (1823-1889)</persName>
+                    <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName>
+                    <date when="1873-01-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Weitere Briefe von Pauline an die Gräfinnen Aurora und Eugenie von Dönhoff in:
+                    GStA PK, VI. HA Familienarchive und Nachlässe, FA v. Dönhoff. Die Briefe handeln
+                    vor allem vom Austausch von Gefälligkeiten und Geschenken, von familiären
+                    Verhältnissen (Eltern und Kinder, Krankheiten), nur selten von Berlin, vom
+                    Hofleben oder politischen Themen. Zur Erwerbungsgeschichte: <ref target="http://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/DE-B41/type/fa/id/DDB_vi_ha_fa_doenhoff_v">portaleeurope.net</ref>. Siehe auch: Weber-Krohse, Otto, August Dönhoff und
+                    seine Zeit (1797 bis 1874). Beiträge zur inneren Geschichte des 19. Jahrhunderts
+                    in der Zeit von den Befreiungskriegen bis zur Reichsgründung. Mit einer
+                    einleitenden Geschichte des Hauses Dönhoff, Habil., masch., 1935-1938 (in: GStA
+                    PK, VI. HA, Nachlass Otto Weber-Krohse, Nr. 12).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://szukajwarchiwach.pl/42/382/0/4/432/str/1/1/10000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Friedrichstein, den 20. Januar 1873</dateline>
+                    <salute>Meine Herzens Anny!</salute>
+                </opener>
+                <p>Hab Tausend Dank für Dein liebes Briefchen vom 25. und Deine ferneren
+                    Segenswünsche für meine heißgeliebten <seg type="comment">
+                  <orig>Zwillinge</orig>
+                  <note xml:id="nmsk_jwc_jlb">Sie hatte drei Söhne,
+                            den erstgeborenen August und Friedrich und Carl, möglicherweise
+                            Zwillinge.</note>
+               </seg>, die der teure Herr in seiner Gnade erfüllen
+                    wolle. Sie haben den Mittag des 26. bei <persName key="ed_atc_ls2_cy">Bismarck</persName> und den Abend bei <persName key="ed_zkm_whl_2y">Carl</persName> gefeiert, welche alle in <placeName key="ed_xrv_gwb_by">Berlin</placeName> vorhandenen <gap reason="illegible"/> zur Feier des
+                    Tages bei sich vereinigt hatten, und mein Mutterherz empfindet dankbar diese
+                    Familienfeier, die sie meinen geliebten Kindern mit obligatem <gap reason="illegible"/>kuchen bereitet haben. Auch der guten <seg type="comment">
+                  <orig>Fürstin <persName key="ed_mvt_czt_g2b">Bismarck</persName>
+                        </orig>
+                  <note xml:id="ne3n_4d2_bfb">Johanna von Bismarck war eine geborene
+                            von Puttkamer aus Reinfeld im Kreis Rummelsburg, Pommern.</note>
+                    </seg>bin ich sehr dankbar für ihre liebenswürdige Absicht, die sie durch einen
+                    Toast auf die Gesundheit der Zwillinge konstatierte;<seg type="comment">
+                  <orig>
+                            leider aber musste <persName key="ed_ik3_ckz_2y">Carol</persName> die
+                            gnädige Einladung dankend ablehnen, da er wegen Erkältung seit einigen
+                            Tagen sich krank gemeldet und daher diese offizielle Feier nicht
+                            mitmachen durfte, was ihn indessen nicht hinderte, abends wohl <gap reason="illegible"/> zu General <persName key="ed_b13_nsl_3fb">Below</persName> heraus zu fahren, was dem hohen Vorgesetzten
+                            verborgen blieb.</orig>
+                  <note xml:id="ntj2_n1f_gdb">Das blieb kein
+                            Einzelfall, auch von anderen Familienfeiern schloss er sich aus, vgl.
+                            den Brief vom 3. November 1887 (Bl. 287-288v).</note>
+               </seg>
+            </p>
+                <p>Meine Söhne freuen sich sehr auf die Graditzer, welche mit <seg type="comment">
+                  <orig>
+                     <persName key="ed_ucl_jlt_zdb">Paula</persName>
+                  </orig>
+                  <note xml:id="nsxt_z3v_22b">Pauline, Tochter von Georg Graf von
+                            Lehndorff</note>
+               </seg> am 28. in <placeName key="ed_xrv_gwb_by">Berlin</placeName> anlangen und bei <persName key="ed_s2f_r5j_d2b">Wrangels</persName> wohnen sollen, um ein bisschen Karneval mitzumachen. </p>
+                <p>Ich glaube fast, dass Paula heute bei der Cour den Majestäten vorgestellt werden
+                    wird, da sie, wie ich höre, mit ihrem <persName key="ed_sjx_pfm_2y">Vater</persName> im Verein an den lebenden Bildern mitwirken wird, welche
+                    den 3. Februar zum Geburtstag der <seg type="comment">
+                  <orig>Prinzess <persName key="ed_hx2_jjv_22b">Carl</persName>
+                  </orig>
+                  <note xml:id="na1k_hjv_22b">Marie von Sachsen-Weimar-Eisenach</note>
+               </seg> in
+                    deren Salons veranstaltet werden, und das ist eine Gelegenheit, um in der
+                    Gesellschaft gleich bekannt zu werden.</p>
+                <p>Meine Söhne werden dafür sorgen, dass es Paula auf den Bällen nicht an Tänzern
+                    fehlt, denn <seg type="comment">
+                  <orig>3 tanzende Vettern</orig>
+                  <note xml:id="njzn_vwc_jlb">August, Friedrich und Carl Dönhoff.</note>
+               </seg>
+                    sind ein sehr schätzenswertes Material für ein ganz fremd in die große Berliner
+                    Gesellschaft eintretendes junges Mädchen, was sonst leicht übersehen werden
+                    kann, in dem großen Menschengewühl.</p>
+                <p>Ich fürchte, dieses wird der guten <persName key="ed_ttn_2vs_kfb">Ina</persName>
+                    passieren, obgleich ich meine Söhne sehr <gap reason="illegible"/> habe, auch
+                    für diese zu sorgen und für Onkel und Tante höflich zu sein. Bis jetzt habe ich
+                    noch kein Wort über Ina erfahren können. <gap reason="insignificant" unit="pages" quantity="1"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

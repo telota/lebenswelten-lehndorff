@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_rpy_1x4_cz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. 12. Januar 1761</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_rpy_1x4_cz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof  </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750–1804), in: Masovia 11 1906), S. 118-154, hier S.
+                            140</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <date when="1761-01-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>. - Siehe auch:
+                    Schmidt-Lötzen, Nachträge, Bd. 1, S. 302: <quote>Dieser Krieg wirft alle
+                        bisherigen Verhältnisse über den Haufen. Handwerker und Kaufleute werden
+                        reich, während der Adel zugrunde geht. Bei den Kaufleuten herrscht jetzt ein
+                        außerordentlicher Reichtum und Luxus. Sie fahren sechsspännig, halten eine
+                        große Dienerschaft und sind aufs prächtigste eingerichtet, während wir uns
+                        noch immer einschränken müssen. Alle schönen Häuser des Adels werden an
+                        Kaufleute verkauft. <persName key="ed_rbp_wp3_tdb">Behrens</persName>,
+                            <persName key="ed_hty_xp3_tdb">Splittgerbers</persName> Schwiegersohn,
+                        hat eben für 35.000 Taler das Haus des Herrn von <persName key="ed_sfj_bq3_tdb">Grappendorf</persName> erworben. Die Juden haben
+                        sich mit Hilfe der Münze der Reichtümer des Landes bemächtigt und haben eben
+                        auch noch die Erlaubnis erhalten, Rittergüter zu kaufen. Kurz, es droht eine
+                        allgemeine Umwälzung alles bisher Bestehenden.</quote>
+            </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>12. Januar 1761</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Ich war überrascht zu erfahren, dass der Herr <gap reason="insignificant"/> scheinbar so befriedigt war über die Erziehung,
+                    welche der Graf von <persName key="ed_g3w_544_dz">Borcke</persName> den <seg type="comment">
+                        <orig>jungen Prinzen</orig>
+                        <note xml:id="ncsw_qx4_cz">
+                     <persName key="ed_w15_bk5_sy">Friedrich
+                                Wilhelm</persName> und <persName key="ed_ud1_g44_dz">Heinrich</persName>, Söhne des Prinzen <persName key="ed_q12_pqy_bz">August Wilhelm</persName>
+                  </note>
+                    </seg> gibt; ich gestehe, dass man um diesen Preis leicht Kinder aufziehen kann!
+                    Lasse es sich Borcke aber nicht einfallen, der Gouverneur der meinen zu werden,
+                    wenn ich jemals welche haben werde, da ich ihm den Hals umdrehen würde, wenn sie
+                    in diesem Alter keine besseren Manieren haben. </p>
+            <p>Ich bezweifle, ob dass, was Sie über die <rs type="term" key="ed_vby_jp4_dz">Münze</rs> sagen,
+                    sich bestätigt, da man behauptet, <seg type="comment">
+                  <orig>dass der Jude seine
+                            Gesuche erneuert hat, um sie noch schlechter zu machen.</orig>
+                        <note xml:id="nhlg_5x4_cz">
+                     <persName key="ed_x2r_52f_cy">Friedrich der
+                                II.</persName> hatte den Juden <persName key="ed_ivl_sr4_dz">Ephraim</persName> und <persName key="ed_obd_wr4_dz">Itzig</persName> im <rs type="term" key="ed_t5d_tm4_dz">Siebenjährigen Krieg</rs> die Prägung der preußischen Münze
+                            übertragen. Die von ihnen geprägten minderwertigen Münzen hießen
+                            „Ephraimiten‟.</note>
+                    </seg>
+               <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_kbx_ptc_f3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Bürgermeister und Rat zu Memel an Maria Louisa Gräfin von Lehndorff.
+                    Memel, 29. Januar 1739</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_kbx_ptc_f3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 246, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_l1k_cdj_f3b">Bürgermeister und Rat zu Memel</orgName>
+                    <placeName key="ed_oxb_txl_5y">Memel</placeName>
+                    <date when="1739-01-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+                </correspAction>
+                <note>Nach Aussage der <persName key="ed_q4s_xyl_2y">Gräfin Lehndorff</persName> war
+                        <persName key="ed_vcn_fdj_f3b">Dorothea Grabus</persName> Untertanin der
+                    Steinortschen Güter, weshalb ihr Ehemann sie aus der Untertänigkeit für 100
+                    Rtlr. loskaufen müsse. Nach Ansicht des Rates war ihm dies nicht möglich, sie
+                    müsse sich deshalb an die Polizeibehörden wenden. Noch 1753 war Grabusch in
+                        <placeName key="ed_oxb_txl_5y">Memel</placeName> und wurde hier von ihrem
+                    Bruder <persName key="ed_qqw_3dj_f3b">Caspar</persName> besucht, der sich
+                    erhofft hatte, dass sie ihn angesichts des Viehsterbens unterstützen könnte. Sie
+                    habe nicht versucht, ihn zur Flucht aus den <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern zu verleiten, und er sei, da seine
+                    Schwester und ihr Mann auch nichts besitzen, abgereist, teilte der Rat der
+                    Gräfin mit. In der Akte folgt ein weiter Vorgang betr. <persName key="ed_vtv_rdj_f3b">Anna Liß</persName>, die 1741 ebenfalls nach <placeName key="ed_oxb_txl_5y">Memel</placeName> entlaufen war. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Memel, den 29. Januar 1739</dateline>
+					          <salute>Hochgeborene Reichsgräfin, <lb/>gnädigste Frau!</salute>
+                </opener>
+				        <p>Vermöge Ew. Reichsgräflichen Gnaden unterm 11. huius an uns erlassenen und den 26. dito
+                    eingelaufenen Requisitions-Schreiben haben Wir uns dato die <persName key="ed_vcn_fdj_f3b">Helenam Dorotheam Grabuschin</persName>, des hiesigen
+                    Fuhrmanns <persName key="ed_w3r_ydj_f3b">Jansons</persName> Ehegattin, vor uns
+                    beschieden und dieselbe nach der Ursache ihrer Desertion und was vor Sachen sie
+                    dabei mitgenommen, auch ob ihre Mutter von ihrer Flucht Vorwissenschaft gehabt,
+                    allen Ernstes befragt.</p>
+                <p>Selbige fängt bitterlich an zu weinen und beteuert hoch, dass sie nichts als ein
+                    altes <gap reason="illegible"/> Leinwand-Schnupftuch, welches der junge Herr
+                    Graf <persName key="ed_kyf_fpy_bz">Gerhard</persName> vollgeblutet und sie zum
+                    Auswaschen in ihre Tasche gesteckt und vergessen, mitgenommen, und hätte sie die
+                    Schlüssel von den beiden Kästen, worinnen Ihro Gnaden Sachen gelegen, mit dem
+                    Schlüssel von der Stube, alwo die Sachen gestanden, auf den Nachttisch gelegt,
+                    und davon nicht das allergeringste entwendet, wie denn der ganzen Stadt bekannt
+                    sei, dass sie vor 5 Jahren ganz nackend anhero gekommen, und das erste Jahr vor
+                    ihre Kleidung dienen müssen. Die große Ungnade, welche Ihro Gnaden wegen des auf
+                    der Reise von <placeName key="ed_q4g_lf5_sdb">Waldheim</placeName> nach
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> verloren gegangenen
+                    Mäntelchens auf die geworfen, und die deshalb bereits gelittene und noch zu
+                    erwartende härtere Strafe hätte sie fast zu der Überzeugung gebracht, sich
+                    selbst das Leben zu nehmen, endlich wäre sie, da sie Teewasser zu holen
+                    geschickt, auf den Gedanken gekommen sich zu entfernen, welchen Vorsatz einige
+                    nach Memel Reisende, die ihr ganz unbekannt geblieben, sekundiert, sintemalen
+                    selbige sie vom Landwege durch das Roßgartensche Tor mitgenommen und anhero
+                    gebracht. Ihre Mutter hätte von ihrer Flucht nicht das geringste gewusst und
+                    nachher ihren Aufenthalt von denen Fremden in Königsberg erfahren, worauf sie
+                    ohne ihr Wissen anhero gekommen und wieder abgereist. Ein Erb-Untertan wäre sie
+                    nicht, angesehen ihr Großvater als ein freier Mann vor der Pest in die Güter
+                    gezogen, in der Pest aber zusammt der Großmutter gestorben und drei Söhne
+                    hinterlassen, welche die damalige Herrschaft an sich genommen <seg type="comment">
+                  <orig>und ihren Vater die Kochkunst lernen lassen, der
+                            nachhero ihre Mutter, die gleichfalls ein freier Mensch gewesen und als
+                            Kammermädchen daselbst gedient, geheiratet.</orig>
+                  <note xml:id="nnd3_r3r_clb">Siehe hierzu die umfangreiche Überliferung zur
+                            Familie Grabus in den Lehndorffschen Gütern: <ref target="http://www.datenbank-nord-masuren.besaweb.de/index.php?menu_id=10&amp;register=Familiennamen">http://www.datenbank-nord-masuren.besaweb.de</ref>.</note>
+               </seg>
+                </p>
+                <p>Weilen uns nun diese Umstände unbekannt sein, auch kein <gap reason="illegible"/>
+                    der entwendeten Sachen beigelegt, so haben darinnen nichts verfügen können,
+                    sondern es ist die Jansonin dimittiert mit dem Befehl, sich des Briefwechsels
+                    mit ihrer in den Gütern lebenden Mutter, Geschwister und Bekannten bis zum
+                    Austrag der Sache bei namhafter Strafe gänzlich zu enthalten. </p>
+                <p>Ew. Reichsgräfl. Gnaden fernerweite Befehle hierüber sind wir allergehorsamst
+                    gewärtig und werden nicht ermangeln, gefundenen Umständen nach die erforderte
+                    Rechtspflege unserer Obliegenheit nach zu leisten. </p>
+				        <closer>
+					          <salute>Die wir mit tiefschuldigstem Respekt allstets verharren <lb/>Ew. Reichsgräflichen
+                        Gnaden untertänigst gehorsamste Diener</salute>
+					          <signed>Bürgermeister und Rat</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

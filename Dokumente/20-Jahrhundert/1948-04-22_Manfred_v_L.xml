@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_t1t_dq5_2cb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eidesstattliche Erklärung. Röttgen, 22. April 1948</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_t1t_dq5_2cb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="editorial">
+                    <p>Beglaubigt Dortmund, 24. April 1948 und Nürnberg, 5. Mai 1948.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>BArch Freiburg</institution>
+                        <idno>N 184/3</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_cf4_hb5_sdb">Röttgen b. Köln</placeName>
+                <date when="1948-04-22" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Eidesstattliche Erklärung</p>
+                <p>Ich, Graf Manfred <persName key="ed_obs_b5s_2y">Lehndorff</persName>, geb. 4.7.83
+                    zu <placeName key="ed_qbt_z5c_gy">Rohrbeck</placeName>, Neumark, wohnhaft bis
+                    zum Zusammenbruch in <placeName key="ed_o23_l11_fy">Preyl</placeName>
+                    Ostpreußen, nunmehr im Gestüt <placeName key="ed_cf4_hb5_sdb">Röttgen</placeName> bei Köln - Rath <seg type="comment">
+                  <orig>Rhld.</orig>
+                  <note xml:id="nxkh_cb5_sdb">Rheinland</note>
+               </seg>
+                    bin darauf aufmerksam gemacht worden, dass ich mich strafbar mache, wenn ich
+                    eine falsche eidesstattliche Erklärung abgebe. Ich erkläre an Eides statt, dass
+                    meine Aussage der Wahrheit entspricht und gemacht wurde, <seg type="comment">
+                  <orig>um als Beweismaterial dem <orgName key="ed_cts_db5_sdb">Militärgerichtshof</orgName> Nr. V a im Justizpalast <placeName key="ed_hmp_fb5_sdb">Nürnberg</placeName>, Deutschland vorgelegt zu
+                            werden.</orig>
+                  <note xml:id="nwhz_r41_llb">Als Angeklagter imProzess
+                            gegen das Oberkommando der Wehrmacht wurde Küchler am 14. April 1949 zu
+                            20 Jahren Haft verurteilt. Siehe <ref target="https://www.dhm.de/lemo/biografie/georg-kuechler">Thoms,
+                                Robert , Georg von Küchler. Tabellarischer Lebenslauf, in:
+                                Lebendiges Museum online LeMo</ref>.</note>
+               </seg>
+            </p>
+                <p>Mit Herrn von <persName key="ed_n3d_kb5_sdb">Küchler</persName> habe ich während
+                    der vielen Jahre seiner dienstlichen Tätigkeit in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> Ostpr. freundschaftlich verkehrt. Ich bin oft in
+                    seinem Hause gewesen. Ebenso hat er häufig mit seiner <persName key="ed_sv1_v41_llb">Gattin</persName> das meinige besucht. Außerdem habe
+                    ich jahrelang in den verschiedensten Vorständen von Vereinen und Organisationen
+                    in Ostpr. mit ihm zusammen fungiert. Ich darf also behaupten, dass ich Herrn von
+                    Küchler sehr gut kenne. Die geistige Atmosphäre im Hause des Herrn von Küchler
+                    war nichts weniger als nationalsozialistisch. Von Küchler selbst stand dem
+                    Gedankengut des Nationalsozialismus durchaus ablehnend gegenüber und hat von
+                    seiner Einstellung mir gegenüber niemals ein Hehl gemacht. Es ist mir auch
+                    bekannt, dass er unter der brutalen Art der <persName key="ed_akd_1bl_gbb">Hitlerschen</persName> Kriegsführung seelisch schwer gelitten hat. Auch
+                    wurde allgemein gesagt, dass seine <seg type="comment">
+                  <orig>Verabschiedung
+                            </orig>
+                  <note xml:id="ngym_bp1_llb">Nach zwei Jahren Oberbefehl über die
+                            Heeresgruppe Nord wurde er nach einer Meinungsverschiedenheit mit Hitler
+                            am 29. Januar 1944 seines Kommandos enthoben. Bis Kriegsende wurde
+                            Küchler nicht mehr eingesetzt. </note>
+               </seg> mit dieser ablehnenden
+                    Haltung dem Nationalsozialismus gegenüber in Zusammenhang gestanden hat. Jeder,
+                    der Herrn von Küchler nahe gestanden hat, wird von der Lauterkeit seines
+                    Charakters ebenso überzeugt sein wie ich und desgleichen davon überzeugt sein,
+                    dass es undenkbar ist, von Küchler seiner ganzen Persönlichkeit und seiner
+                    religiösen Einstellung nach in Verbindung mit Kriegsverbrechen zu bringen.</p>
+                <p>Da ich selbst insofern zu den Opfern des Nationalsozialismus gehöre, <seg type="comment">
+                  <orig>als mein ältester <persName key="ed_eq5_1t1_dy">Sohn</persName> nach dem 20. Juli als Mitbeteiligter an dem
+                            Anschlag auf Hitler hingerichtet worden ist, und ich selbst lange Zeiten
+                            wegen Verdachts des Hochverrats im Gefängnis zu Königsberg, Ostpr.
+                            zugebracht habe,</orig>
+                  <note xml:id="nfdg_yrp_1gb">Vgl. Vollmer,
+                            Doppelleben.</note>
+               </seg> fühle ich mich zu diesen Aussagen
+                    berechtigt.</p>
+                <p>gez. <persName key="ed_obs_b5s_2y">Graf Manfred Lehndorff</persName>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

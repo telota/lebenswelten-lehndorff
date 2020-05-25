@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_pgj_2qy_pcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oberförster Walter an Ernst Hecht. Mittenort, 29. Juni 1915</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_pgj_2qy_pcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>EZA</institution>
+                        <idno>507/2058, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_hkh_3pg_my">Walter, (-)</persName>
+                    <placeName key="ed_zr1_c3n_my">Mittenort</placeName>
+                    <date when="1915-06-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_lcb_kqy_pcb">Hecht, (-)</persName>
+                </correspAction>
+                <note>Aus weiteren Briefen vom 2. Juli 1915 und 8. März 1919 ist zu entnehmen, dass
+                    das Wohnhaus und die Wirtschaftsgebäude des Pfarrhufenpächters beim
+                        <quote>Russeneinfall</quote> abgebrannt waren. Die Gemeindeorgane
+                    beschlossen eine Erweiterung der Gebäudefläche um ca. 50 Prozent. Die
+                    Wohngebäude waren anscheinend mit Mitteln der Kriegsentschädigung wieder
+                    errichtet worden, strittig blieb ein Wirtschaftsgebäude. Der Pächter drohte von
+                    der Kirchengemeinde Schadenersatz für die fehlende Unterbringungsmöglichkeit für
+                    das Vieh zu verlangen. Am 25. Juli 1915 erklärte <persName key="ed_hkh_3pg_my">Walter</persName> gegenüber <persName key="ed_lcb_kqy_pcb">Hecht</persName>: <quote>Das Patronat erklärt sich zum Bau eines Stalls für den
+                        Pfarrhufenpächter nur in den Abmessungen der abgebrannten Ställe bereit und
+                        liefert auch nur die auf das Patronat fallenden Baumaterialien, soweit der
+                        Neubau den bisherigen Abmessungen der abgebrannten Gebäude entspricht.
+                        Sollte die Gemeinde einen Neubau in größeren Abmessungen beschließen und
+                        ausführen, so müsste dieselbe auch die Baumaterialien auf ihre Kosten
+                        beschaffen. Das Patronat kann sich auch damit nicht einverstanden erklären,
+                        dass der Bau an einen Unternehmer vergeben wird, der den Bau unter Lieferung
+                        der Materialien ausführt und der Kirchengemeinde das vom Patronat zu
+                        liefernde Holz verkauft.</quote> Auch könne der Bau nicht mehr in 1915
+                    ausgeführt werden, da die Pferdegespanne für die Ente benötigt würden. Sollte
+                    der Pächter sein Vieh nicht unterbringen können, würden andere Wege gefunden,
+                    auch könne Jungvieh in Steinort untergestellt werden. Am 26. Juli 1915
+                    protestierte <persName key="ed_a1g_lr4_fy">Schrötter</persName> gegenüber
+                        <persName key="ed_hkh_3pg_my">Walter</persName> nochmals gegen die
+                    Vorstellungen des Gemeindekirchenrats; dieser hatte die Übermittlung zu
+                    übernehmen: <quote>Alle sonstigen Erweiterungen resp. Veränderungen lehnt der
+                        Besitzer von Steinort ab, fühlt sich auch nur verpflichtet, diejenigen
+                        Materialien, zu denen das Patronat verpflichtet ist, zu liefern, welche zum
+                        Umfange des alten Stalles erforderlich sind. Ich bitte auch darauf
+                        hinzuweisen, dass die Gemeinde keineswegs dazu verpflichtet sein kann, dem
+                        Pächter, welcher nur 6 Mark Pacht zahlt und keine Steuern zu entrichten hat,
+                        größere Gebäude als auf der Pachtung vorhanden waren, zu erbauen.</quote>
+                    Das alte Ziegelmaterial und die Steine des Fundaments können noch Verwendung
+                    finden. Es wäre nichts dagegen einzuwenden, wenn Stall und Schweinestall in
+                    einem Gebäude von 334,40 qm errichtet würden. - Bis Januar 1919 war in der
+                    Angelegenheit nichts entschieden. <persName key="ed_ik3_ckz_2y">Lehndorff</persName> ließ durch Walter dem Rosengartener Pfarrer <persName key="ed_hw1_jjv_ccb">Drost</persName> mitteilen, sollten die
+                        <quote>kirchlichen Organe in rechtsgültiger Form erklären, dass der Patron
+                        zur Mehrabgabe nicht verpflichtet ist, sondern dieses aus freiem Willen zum
+                        Besten der Kirchengemeinde tut</quote>, würde er unentgeltlich das
+                    erforderliche Holz liefern. In der Sitzung der Gemeindeorgane am 10. Mai 1919
+                    wurde diese Erklärung abgelehnt. Daraufhin reichte Walter die Rechnung von
+                    5.847,30 Mark über das bereits gelieferte Holz an den Gemeindekirchenrat ein,
+                    das der gräflichen Forstkasse Steinort zu zahlen war. Der Streit zog sich bis in
+                    das Jahr 1920. Lehndorff beauftragte in Rücksprache mit dem Berliner Anwalt
+                        <persName key="ed_f2s_t3q_pz">Siebert</persName> Walter mit der Prüfung der
+                    Baurechnungen, die sich inzwischen auf 30.000 Mark beliefen, von denen Pfarrer
+                    Drost von Lehndorff als Kirchenpatron 2/3 forderte. Nach Rechnungsprüfung durch
+                    Walter und Siebert blieben noch 17.329 Mark zu zahlen. Am 14. Juni 1920 wies
+                    Lehndorff die Bank der Ostpreußischen Landschaft an, 15.000 Mark der
+                    Kirchenkasse Rosengarten zu überweisen, <quote>aus besonderem
+                        Entgegenkommen</quote> folgten trotz rechtlicher Bedenken Sieberts weitere
+                    9.000 Mark. EZA 182/3224, n. f.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Mittenort, den 28. Juni 1915</dateline>
+					          <salute>Herrn Pfarrer Hecht, Rosengarten</salute>
+                </opener>
+				        <p>Ihrem Wunsche gemäß habe ich gestern mit dem Herrn Grafen <persName key="ed_ik3_ckz_2y">Lehndorff</persName> und dessen gegenwärtigem Vertreter, Herrn <seg type="comment">
+                  <orig>Baron von <persName key="ed_a1g_lr4_fy">Schrötter</persName>
+                  </orig>
+                  <note xml:id="np2n_scz_pcb">Siegmar
+                            Freiherr von Schrötter war der Schwager Carol von Lehndorffs und
+                            verwaltete die Güter in Lehndorffs Abwesenheit, siehe das Dokument vom
+                                <ref target="lehndorff_db3_wkt_xcb">24. Oktober
+                        1914</ref>.</note>
+               </seg>, Rücksprache über den Neubau der Stallgebäude für
+                    den Pfarrhufenpächter genommen. Die Herren, besonders auch Herr Baron von
+                    Schrötter, erklärten bestimmt, dass Sie Ihre Zustimmung zum Bau von <hi rendition="#u">zwei</hi> Ställen nicht geben. Auch dürfte der eine zu
+                    bauende Stall bei den jetzigen schwierigen Zeiten nur auf das geringe Maß für
+                    das notwendigste Vieh des Pächters beschränkt und der Bau desselben in diesem
+                    Jahr noch nicht vorgenommen werden. Wenn der Pächter das notwendige Vieh nicht
+                    auf seinem eigenen Gehöft unterbringen kann, so müsste dafür anderwärts ein
+                    Gelass zur Unterbringung beschafft werden, auch würde das Landratsamt zum Bau
+                    des Gebäudes in diesem Jahre nicht seine Genehmigung erteilen.</p>
+				        <closer>
+                    <salute> </salute>
+                    <signed>Walter <lb/>Gräflicher Oberförster</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_pmp_rwm_2bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gehaltsabrechnung. Nach dem 28. Oktober 1883</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_pmp_rwm_2bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="editorial">
+                    <p>Im ziemlichen Gegensatz zu den Einnahmen <persName key="ed_ik3_ckz_2y">Carol
+                            von Lehndorffs</persName> stehen dessen Ausgaben. So gab er am 22.
+                        November 1883 für diverse Uniformstücke allein 214 RM aus (Bl. 434).</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 262, Bl. 409</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1883-10-28" to="1883-10-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Gehaltsabrechnung für Herrn Lieutenant <persName key="ed_ik3_ckz_2y">Graf von
+                        Lehndorff</persName> pro Oktober 1883</p>
+                <p>
+                    <table rows="10" cols="6">
+                        <row>
+                            <cell/>
+                            <cell>Soll erhalten</cell>
+                            <cell>Mk</cell>
+                            <cell>Pf</cell>
+                            <cell>Mk</cell>
+                            <cell>Pf</cell>
+                        </row>
+                        <row>
+                            <cell>1.</cell>
+                            <cell>Gehalt</cell>
+                            <cell/>
+                            <cell/>
+                            <cell>84</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>2.</cell>
+                            <cell>Wohnungszuschuss</cell>
+                            <cell/>
+                            <cell/>
+                            <cell>18</cell>
+                            <cell>75</cell>
+                        </row>
+                        <row>
+                            <cell>3.</cell>
+                            <cell>Servis</cell>
+                            <cell/>
+                            <cell/>
+                            <cell>36</cell>
+                            <cell>30</cell>
+                        </row>
+                        <row>
+                            <cell>4.</cell>
+                            <cell>Tischgelder</cell>
+                            <cell/>
+                            <cell/>
+                            <cell>6</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>5.</cell>
+                            <cell>Rationsgelder</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>6.</cell>
+                            <cell>Kommandoumlagen</cell>
+                            <cell/>
+                            <cell/>
+                            <cell>18</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Summa</cell>
+                            <cell/>
+                            <cell/>
+                            <cell>163</cell>
+                            <cell>05</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Davon gehen ab</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>1.</cell>
+                            <cell>Witwenkassenbeitrag</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>2. </cell>
+                            <cell>Kleiderkassenbeitrag</cell>
+                            <cell>36</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>3.</cell>
+                            <cell>Lebensbedarf</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>4.</cell>
+                            <cell>Musik</cell>
+                            <cell>2</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>5.</cell>
+                            <cell>Bibliothek</cell>
+                            <cell/>
+                            <cell>50</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>6.</cell>
+                            <cell>Privat</cell>
+                            <cell>2</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>7.</cell>
+                            <cell>Zum Lotteriespiel No. 15.423</cell>
+                            <cell>1</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>8.</cell>
+                            <cell>Mittagstisch</cell>
+                            <cell>17</cell>
+                            <cell>50</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>9.</cell>
+                            <cell>Einkommen resp. <seg type="comment">
+                           <orig>Klassensteuer</orig>
+                           <note xml:id="nmmw_tls_gbb">Bescheide 1881 bis 1883 in: LASA, StA L, Bestand 21950 FA
+                                        Lehndorff, Nr. 287.</note>
+                        </seg>
+                     </cell>
+                            <cell>2</cell>
+                            <cell>50</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>10.</cell>
+                            <cell>Kasino-Fonds 300 M 100 M</cell>
+                            <cell>4</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>11.</cell>
+                            <cell>Bilderkasse</cell>
+                            <cell/>
+                            <cell>50</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>12.</cell>
+                            <cell>Beitrag zum Kavallerie-Divis.-Raum</cell>
+                            <cell>6</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>13.</cell>
+                            <cell>für 1 Stuhl an Tischler Lange</cell>
+                            <cell>21</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>14.</cell>
+                            <cell>Diener am 29.8.</cell>
+                            <cell>5</cell>
+                            <cell>11</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>98</cell>
+                            <cell>11</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Bleiben</cell>
+                            <cell/>
+                            <cell/>
+                            <cell>64</cell>
+                            <cell>94</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+               <gap reason="illegible"/> Zahlmeister</p>
+            </div>
+        </body>
+    </text>
+</TEI>

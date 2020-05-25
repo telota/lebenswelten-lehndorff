@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_psl_fjz_ny">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Blanka von Wobeser an Anna Gräfin von Lehndorff. Königsberg. 22. Mai 1891</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_psl_fjz_ny</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 323, Bl. 28-29</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_pcb_cjz_ny">Wobeser, Blanka (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1891-05-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Die Zurückweisung ihrer Bilder war mit einer nicht genügenden Detailtreue bei
+                    der Darstellung der Pferde begründet worden (Bl. 32-34v). Wobeser hatte sich
+                    wohl eher als Reitlehrerin, denn als Malerin einen Namen gemacht, vgl. Dies.,
+                    Kleine Reit-Instruktion für Damen, Berlin 1884. Siehe auch die Anmerkungen zum
+                    Dokument vom <ref target="lehndorff_ed5_szn_2db">19. Januar 1891</ref>. -
+                    Anscheinend annoncierte Anna von Lehndorff für ihren Neffen auch wegen
+                        <quote>Bildern mit Pferden</quote>; am 3. Februar 1891 wurde ihr ein Bild
+                    aus Königsberg für 250 Mark angeboten, vgl. APO, Bestand 382 FA Lehndorff, Nr.
+                    152, Bl. 147-147v.</note>
+            </correspDesc>
+            <abstract>
+                <p>Sie habe die gewünschten Bilder nach <placeName key="ed_yps_bwn_my">Basedow</placeName> gesandt und den beiliegenden Brief zurückerhalten. Sie
+                    bedaure, dass sie sich in der Angelegenheit so viel vergebliche Mühe gemacht
+                    habe.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/323/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute> </salute>
+                </opener>
+                <p/>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

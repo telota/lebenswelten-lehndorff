@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dft_3ml_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Otto Graf von Keyserlingk an Anna Gräfin von Lehndorff. Rautenburg, 11. April 1874</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dft_3ml_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 600, Bl. 12-14v</idno>
+                    </msIdentifier>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_etv_33b_h2b">Keyserlingk, Graf von (-)</persName>
+                    <placeName key="ed_omp_ls5_vcb">Rautenburg</placeName>
+                    <date when="1874-04-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <profileDesc>
+            <correspDesc>
+                <note>Den Aufruf beantworteten u. a. die Familien: Dohna-Schlodien,
+                    Eulenburg-Prassen, Keyserlingk, Reibnitz, Groeben, Kunheim-Spandau,
+                    Kleist-Nollendorf Domhard-Bestendorf, Brauchitsch, Benckendorff, Hindenburg,
+                    Kalnein, Bardeleben, Horn, Haugdorf, Alvensleben, Finckenstein, Bassewitz,
+                    Saucken, Wrangel, Perbandt, Goßler, Schulenburg, Krafft, Farenheid-Beynuhnen,
+                    Klinckowström-Korklack, Mirbach, Dönhoff, Schmeling, Burgsdorf, Usedom,
+                    Schlieben. - Fasst man die Antworten zusammen ist das Fazit eindeutig:
+                    mehrheitlich klare Absage, einige wenige behalten sich ihre Entscheidung vor,
+                    andere bieten Geld für die Stiftung, aber keine festen Beiträge, nur sehr wenige
+                    Zusagen, dafür viel Kritik am Projekt. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/600/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rautenburg, den 11. April 1874</dateline>
+                    <salute>Hochgeborene Frau, <lb/>Hochverehrte gnädigste Gräfin!</salute>
+                </opener>
+                <p>Mit hohem Interesse und mit warmer Teilnahme habe ich die gütige Zuschrift und
+                    den Plan der Begründung eines großartigen adligen Provinzial-Frauen- resp.
+                    Fräuleinstiftes in ernste Überlegung genommen, die mir umso näher lag, <seg type="comment">
+                  <orig>als ich nicht nur durch vieljährige Verwaltung der
+                            Stiftungen der eigenen Familie als auch die stets benutzte Gelegenheit
+                            der Prüfungen solcher Stiftungen in den anderen Gegenden und Ländern,
+                            insbesondere in den russischen Ost-Provinzen mit solchen Stiftungen
+                            recht bekannt bin und für sie Interesse habe. </orig>
+                  <note xml:id="ngbf_wkh_jfb">Taube, Otto Freiherr von, Das Buch der
+                            Keyserlinge. An der Grenze zweier Welten. Lebenserinnerungen aus einem
+                            Geschlecht, Berlin 1937. </note>
+               </seg>
+            </p>
+                <p>Die hohe Achtung und das Vertrauen zu Ihrem edlen Streben, gnädigste Frau Gräfin,
+                    verpflichten mich aber, neben dem Ernste der Prüfung auch zum vollen Aussprechen
+                    meiner Überlegung und Ansicht, selbst wenn sie nicht ihre verehrte Billigung
+                    finden. Daher gestatte ich mir hier manche Erwägung zu unterlegen, bei welcher
+                    ich in den Prinzipien die Abweichung finde, die mir es gestattet, auf eine
+                    Kritik im einzelnen zu verzichten.</p>
+                <p>Als treuer Protestant bin ich grundsätzlich gegen alle <unclear reason="illegible" cert="low">diese</unclear> Einrichtungen, halte es für
+                    Pflicht und Beruf, dass auch alte Personen, die der Unterstützung bedürfen, wo
+                    nicht körperliche Gebrechen, das unbedingt verbieten, unter Menschen mit Pflicht
+                    und Beziehungen leben, wie Luther allein ein gottgefälliges Leben anerkannt, und
+                    habe auch in der Praxis das allein bewährt gefunden.</p>
+                <p>Unsere heutigen sozialen Zustände und die Entwicklung der Gesetzgebung bis auf
+                    die neueste Zeit hat alle gesetzliche Grundlage, Repräsentation und allen
+                    Zusammenhang des Adels als solchen in der Provinz gelöst und damit das
+                    Bewusstsein der Zusammengehörigkeit in der territorialen Begrenzung einer
+                    Provinz aufgehoben. Damit ist für meine Auffassung der Boden und die Bedingung
+                    für provinzielle Adelsstiftungen entzogen. </p>
+                <p>Gerade dieselbe Anschauung haben in anderen Provinzen die Familientage, die
+                    Geschlechtsvereinigungen hervorgerufen, die im Gegensatz gegen territoriale
+                    Beschränkungen und zum Ersatz den historischen Zusammenhang der Familien über
+                    die Grenzen der Provinz und des Landes hinausgehend beleben und zu gemeinsamer
+                    Unternehmung für Vorsorge für ihre Angehörigen führen sollen.</p>
+                <p>Auf diesem Standpunkte stehe ich theoretisch nicht nur, sondern in langjähriger
+                    praktischer Verwaltung der Stiftungen der eigenen Familie, und bin dadurch auch
+                    verpflichtet und verbunden, in diesem Sinn zu wirken. Auf diesem Standpunkte
+                    stehen aber auch viele andere historische Adelsfamilien der Provinz und können
+                    nicht wohl denselben für eine Provinzial-Verbindung aufgeben, der Gemeingefühl
+                    und gesetzliche Grundlage der Zusammengehörigkeit fehlt.</p>
+                <p>Sieht man in großartiger Provinzial-Stiftung aber ein Institut, das je nach der
+                    Summe des Einkaufs und der Einzahlung an diese ein unbedingtes Recht der
+                    Zeichnung von Pension und Vorteil anderer Art knüpft, so wird daraus eine
+                    Gesellschaftsvertretung von Interessenten, die in den heutigen Instituten der
+                    Renten-Kassen, Versicherungen etc. früher nicht gekannte Hilfsmittel für Eltern
+                    und Verwandten bietet, für Verwandte zu sorgen.</p>
+                <p>Es würde diese grundsätzliche Verschiedenheit der Überlegungen, verehrte Gräfin,
+                    dazu genügen, meine Stellung zur Angelegenheit zu motivieren, <seg type="comment">
+                  <orig>und darf ich dann hier schließen und mir vorbehalten,
+                            bei der sehr herbeigewünschten Vorstellung auf weitere Entwicklung
+                            einzugehen. </orig>
+                  <note xml:id="nfz4_524_jdb">Siehe den Brief vom 31.
+                            Mai 1874 in: APO, Bestand 382, Nr. 494, Bl. 3-3v.</note>
+               </seg>
+            </p>
+                <closer rend="paragraph">
+                    <salute>Mit besonderer Hochachtung empfiehlt sich angelegentlich Ihro
+                        Hochgeboren ganz gehorsamster</salute>
+                    <signed>Gr. Keyserlingk</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

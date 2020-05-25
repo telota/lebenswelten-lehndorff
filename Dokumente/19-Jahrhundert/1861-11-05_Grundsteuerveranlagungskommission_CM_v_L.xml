@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_lbr_myj_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Grundsteuer-Veranlagungskommission an Carl Meinhard Graf von
+                    Lehndorff. Rhein, 5. November 1861</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_lbr_myj_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 285, Bl. 32 </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_nmm_qzp_wx">Grundsteuer-Veranlagungskommission, Kreis
+                        Angerburg</orgName>
+                    <placeName key="ed_qw4_wyj_gy">Rhein</placeName>
+                    <date when="1861-11-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Lehndorff antwortete am 18. November 1861. Am 20. November schrieb die
+                    Veranlagungskommission (Bl. 97), es genüge ihr zu wissen, dass <quote>Karten von
+                        den <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern
+                        existieren</quote>, man werde diese demnächst wegen der Anfertigung von
+                    Kopien erbitten; sollte Steinort <quote>im künftigen Jahr in Bezug auf den
+                        Reinertrag noch nicht zur Einschätzung gelangen</quote>, werde man die
+                    Karten im Frühjahr zurückgeben. In Bezug auf die eingesandten Karten fragte die
+                    Kommission am 11. Mai 1862 nach, ob keine andere Karte als der
+                        <quote>Dittmarsche Plan</quote> existiere. Im Juli wurde eine Neuvermessung
+                    angekündigt, siehe das Dokument vom <ref target="null">19. Juli 1862</ref>. - Im
+                    LASA, StA L befindet sich lediglich die Akte zur Grundsteuerveranlagung
+                    1861/62.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rhein, 5. November 1861</dateline>
+                </opener>
+                <p>In der <rs type="term" key="ed_ywg_vzj_gy">Grundsteuer-Regulierungssache</rs> des
+                    Kreises <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> beehre ich mich
+                    Euer Hochgeboren um gefällige Auskunft darüber ganz ergebenst zu ersuchen, ob
+                    von Ihren Gütern namentlich: Groß-<placeName key="ed_pxt_cnh_1y">Steinort</placeName>, <placeName key="ed_xpm_112_gy">Labab</placeName>,
+                        <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, Inseln <placeName key="ed_hcn_kc2_gy">Wittfong</placeName> und <placeName key="ed_h1w_jc2_gy">Upalten</placeName>, <placeName key="ed_clv_11k_gy">Buddern-Wiesengrün</placeName>, <placeName key="ed_mxw_c1k_gy">Sdorkowen</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName>,
+                        <placeName key="ed_sc5_c12_gy">Pristanien</placeName>, <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> und den zu den Gütern gehörigen
+                    Waldungen <seg type="comment">
+                  <orig>Karten</orig>
+                  <note xml:id="nxyf_kdt_s2b">Siehe das Verzeichnis in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 649.</note>
+               </seg> existieren. Eventualiter bitte
+                    ich mit Bezug auf § 20 der Anweisung für das Verfahren bei Ermittelung des
+                    Reinertrags der Liegenschaften vom 21. Mai c. um deren Übersendung, weil
+                    anderenfalls die Neufassung verfügt werden muss. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

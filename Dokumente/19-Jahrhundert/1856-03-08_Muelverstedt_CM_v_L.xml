@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_nd2_khg_j1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Adalbert von Mülverstedt an Carl Meinhard Graf von Lehndorff. Berlin, 8. März 1856</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_nd2_khg_j1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Herkunft/Genealogie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 425, n. f. </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_my1_zlb_1bb">Mülverstedt, George Adalbert von
+                        (1825-1914)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1856-03-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Schon im Oktober 1783 hatte Ernst Ahasverus Heinrich von Lehndorff befürchtet,
+                    dass mit dem Tod des Baron von Eulenburg <quote>vieles von dem, was unsere
+                        Familien angeht</quote>, in Vergessenheit geraten wird, denn dieser habe
+                    noch über <quote>unsere preußische Heimat eine Menge Geschichten</quote>
+                    gekannt, vgl. Schmidt-Lötzen, Nachträge, Bd. 2, S. 337. - Einige Jahre später
+                    erschien der von George Ernst Sigismund <persName key="ed_c5x_cvl_ddb">Hennig</persName> verfasste „Entwurf einer Lehndorffschen
+                    Familien-Geschichte‟, Königsberg 1792, der jedoch keine Verbreitung fand.
+                    Recherchen nach der in nur wenigen Exemplaren gedruckten Hennigschen
+                    Familiengeschichte waren bisher erfolglos. Dessen Sammlung von Handschriften und
+                    Büchern wurde durch die Erben 1817 an das Geheime Archiv in Königsberg verkauft
+                    und muss als verloren angesehen werden, vgl. GStA PK, XX. HA, Rep. 2, Tit. 31,
+                    Nr. 4 (Verkauf). - Mülverstedt hatte die in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> vorhandenen Ahnentafeln und Stammbäume wohl nicht
+                    eingesehen, einen Überblick über das Vorhandene gibt das Findbuch zum Bestand
+                    21950 FA Lehndorff, FA Lehndorff, S. 14 ff. und die Findkartei GStA PK, XX. HA,
+                    Rep. 54 Gutsarchiv Lehndorff-Steinort.  </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+            <opener>
+                    <dateline>Berlin, den 8. März 1856</dateline>
+                    <salute>Hochgeborener Herr, <lb/>Hochzuehrender Herr Graf!</salute>
+                </opener>
+            <p>Ew. Hochgeboren gebe ich mir die Ehre, beigehend meinem Versprechen gemäß das <seg type="comment">
+                  <orig>Stammregister Ihrer Familie nebst jener Ahnentafeln (zusammen auf
+                            zwölf Tabellen)</orig>
+                  <note xml:id="nxlq_kdr_dbb">Ob es sich dabei um
+                            den im LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 133, vom 13. bis in
+                            das 19. Jahrhundert reichenden kolorierten Stammbaum aus der 2. Hälfte
+                            des 19. Jahrhunderts und die Ahnentafeln Nr. 127 und 128 handelt, war
+                            nicht sicher festzustellen.</note>
+               </seg> ganz gehorsamst zu übersenden
+                    und wünsche, dass Ew. Hochgeboren darin einen Beweis meines Interesses für die
+                    Geschichte und Genealogie Ihres Hauses sowie meine dankbare Gesinnung für Ew.
+                    Hochgeboren mir bewiesenes Wohlwollen erblicken mögen. Ew. Hochgeboren wollen
+                    Sich zu überzeugen die Güte haben, dass der von mir ausgearbeitete Stammbaum um
+                    vieles vollständiger ist, als der durch den Herrn Grafen <persName key="ed_cgy_xtf_4y">Dönhoff</persName> Exzellenz mir vor einiger Zeit
+                    mitgeteilte, was die Folge meiner genauen <seg type="comment">
+                  <orig>Durchsicht
+                            der im <orgName key="ed_ard_2kg_my">Königsberger
+                                Provinzialarchiv</orgName> vorhandenen Lehndorffschen
+                            Familienpapiere und anderer Archivalien</orig>
+                  <note xml:id="numy_5zz_gfb">Der Hinweis bezieht sich u. a. auf das von
+                            Mülverstedt angelegte <ref target="https://www.deutsche-digitale-bibliothek.de/item/Q4QA4EDBOWK4RIY23KT5HYEDGKDQYGDU">Adelsarchiv</ref>. </note>
+                    </seg> sowie mehrerer <seg type="comment">
+                  <orig>Hausbücher im
+                            Oberlandesgerichtsdepositorium</orig>
+                  <note xml:id="nrpn_s11_hfb">Heute
+                            GStA PK, XX. HA, Ostpreußische Folianten.</note>
+               </seg> ist. Die
+                    bedeutenden Abweichungen meiner Arbeit basieren hauptsächlich auf einem von mir
+                    vor langer Zeit glücklicherweise im genannten Archiv entdeckten, bis zur Mitte
+                    des 17. Jahrhunderts reichenden, von dem bekannten Preußischen Genealogen
+                    Johannes <persName key="ed_svw_jvl_ddb">Hartung</persName>, in dessen auf der
+                        <seg type="comment">
+                  <orig>Wallenrodtschen Bibliothek</orig>
+                  <note xml:id="npdz_3ny_dcb">Hier sowie in der Stadtbibliothek in Königsberg
+                            befand sich eine umfängliche genealogische Literatur- und
+                            Manuskriptsammlung, siehe die  Liste in: GStA PK, VI. HA, FA v. Auer,
+                            Nr. 159. </note>
+               </seg> befindlichen handschriftlichen Werke derselbe
+                    fehlt, verfassten Stammbaum, und glaube ich, dass meine nebenbei auch aus rein
+                    archivalischen Quellen geschöpfte Angaben hinsichtlich der Relationen wohl ihre
+                    Richtigkeit haben dürften. Nichtsdestoweniger muss ich bekennen, dass meine
+                    Arbeit gewiss noch vieler Vervollständigung heischig ist, was mit Hilfe der
+                    Register der Kreise, in welche die Lehndorffschen Güter eingepfarrt sind,
+                    besonders und ganz vorzüglich aber aus den Schätzen, welche die gegenwärtig noch
+                    im Depositorio des <seg type="comment">
+                  <orig>Insterburger
+                            Obergerichts</orig>
+                  <note xml:id="ng2x_sb1_hfb">Hofgericht zu Insterburg,
+                            siehe oben.</note>
+               </seg> unbenutzt liegende, hoffentlich aber bald dem
+                    Königsberger Archiv zu überweisenden sogenannten Haus (Grund)bücher der
+                    ehemaligen Ämter, besonders also von <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>,
+                        <placeName key="ed_n12_4vl_ddb">Oletzko</placeName> und <placeName key="ed_rdg_jkc_gy">Insterburg</placeName> enthalten, gelingen dürfte. Es
+                    wird sich hieraus vielleicht auch mancher Fehler verbessern lassen, da es
+                    mitunter äußerst schwierig war, die verschiedenen, an gleichnamigen Personen (z.
+                    B. Fabian) gleichzeitig reichen Linien, die überdies im Anteilsbesitz eines
+                    Gutes standen, sicher zu unterscheiden. <seg type="comment">
+                  <orig>Wenn euer
+                            Hochgeboren etwa schon aus Ihrem Familienarchiv diese oder jene meiner
+                            Angaben zu rektifizieren im Stande wären</orig>
+                  <note xml:id="ncx4_vrz_sbb">Am 29. Oktober 1852 hatte Lehndorff Mülverstedt
+                            eine Ahnenreihe der Familie <quote>verabredetermaßen</quote>
+                            übermittelt, mit dem Bemerken: <quote>Diese Übersicht wird bei dem Zweck
+                                genügen</quote>: <lb/>
+                     <hi rendition="#u">Ahasverus</hi> Graf
+                            Löhndorff, Kurf. Oberburggraf, Dänischer Generalleutnant pp, 1637-1688 -
+                                <gap reason="illegible"/> 1687, Gemahlin: Gräfin Dönhoff <lb/>Vater:
+                                <hi rendition="#u">Meinhard</hi> v. Löhndorff, Hauptmann zu
+                            Rastenburg, Gemahlin: Baronesse Eulenburg <lb/>Vater: <hi rendition="#u">Sebastian</hi> v. Löhndorff, Amtshauptmann Oletzko, Gemahlin: v.
+                            Kannacher <lb/>
+                     <hi rendition="#u">Vater</hi>: <hi rendition="#u">Caspar</hi> von Löhndorff, Hauptmann v. Eylau, des Markgraf
+                            Albrecht, <gap reason="illegible"/>- Marschall pp, Gemahlin: v. Oelsnitz
+                                <lb/>
+                     <hi rendition="#u">Vater</hi>: Fabian v. Löhndorff Oberburggraf
+                            1578-83, Gemahlin: v. Lichtenhain <lb/>
+                     <hi rendition="#u">Vater</hi>:
+                            Fabian von Löhndorff, Hauptmann zu Pr. Eylau, Gemahlin: v. Löhndorff. -
+                            Von Graf Dönhoff hatte <persName key="ed_wms_mh2_cy">Anna von
+                                Lehndorff</persName> 1854 <quote>Piecen</quote> zum Lehndorffschen
+                            Stammbaum erhalten, die sie Mülverstedt mitgeteilt hatte. Sie wünschte
+                            die Stammbäume der beiderseitigen Großeltern Elisabeth von Polentz und
+                            Botho Albrecht von Eulenburg zu vervollständigen. An Eulenburg hatte sie
+                            geschrieben, er solle ihre genealogische Wissbegierde nicht schelten:
+                                <quote>Sie haben da ein bisschen in ein Wespennest
+                                gestochen.</quote> Eulenburg hatte zur selben Zeit an Mülverstedt
+                            geschrieben: <quote>Eine Mitteilung der Gräfin Lehndorff in der
+                                bekannten Angelegenheit zwingt mich noch einmal, an Ihre Güte zu
+                                appellieren. Mündlich mehr. Eulenburg</quote>. Am 11. September
+                            schrieb er ihm über zwei Briefe eines <quote>Komturs E. aus
+                                Thorn</quote> mit einer Petschaft des Hochmeister, vgl. LASA, StA
+                            Magdeburg, E 130 George Adalbert von Mülverstedt, Nr. 36/1: Ad
+                            Genealogiam der Grafen von Lehndorff, Bl. 40-40v, 41,
+                        43-43v.</note>
+               </seg> und die Gnade hätten, mir davon geneigte Mitteilung zu
+                    machen, so würde ich das dankbar erkennen, namentlich wenn ich sicher ersehen
+                    könnte, <seg type="comment">
+                  <orig>ob der Vater des 1791 in den Grafenstand
+                            erhobene <persName key="ed_byt_ptq_h1b"> Gerhard Leberecht Melchior v.
+                                L.</persName> aus erster oder zweiter Ehe (v. Turkovics oder v. d.
+                            Albe) seines Vaters ist.</orig>
+                  <note xml:id="nijl_ryz_gfb">Die Eltern
+                            von dessen Vater Karl Ludwig von Lehndorff waren Ludwig von Lehndorff
+                            und Maria Felicitas von Turkovics. Die erste Ehefrau, Katharina von der
+                            Albe, war 1699 verstorben. Aus dieser Ehe waren ebenfalls Kinder
+                            hervorgegangen, vgl. Schwennicke, Detlev, Europäische Stammtafeln N. F.,
+                            Bd. XX: Brandenburg und Preußen 1, Frankfurt am Main 2002, Tafel
+                            150.</note>
+                    </seg>
+            </p>
+            <closer>
+                    <salute>Mit dem Wunsch, dass Ew. Hochgeboren Ihre Zufriedenheit mit dem geringen
+                            <gap reason="illegible"/> meiner Hochachtung und Dankbarkeit bezeugen
+                        möchte, verharre ich mit dem aufrichtigsten <gap reason="illegible"/>
+                        Derselben als Ew. Hochgeboren ganz ergebenster <gap reason="illegible"/>
+                    </salute>
+                    <signed>G. A. v. Mülverstedt</signed>
+                </closer>
+         </div>
+        </body>
+    </text>
+</TEI>

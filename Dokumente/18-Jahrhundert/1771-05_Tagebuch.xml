@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_upy_4n5_vdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, Mai
+                    1771</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_upy_4n5_vdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 2, Gotha 1913, S. 209 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date from="1771-05-01" to="1771-05-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Der Monat Mai wird vollständig den militärischen Übungen gewidmet. Prinz
+                        <persName key="ed_nvx_wcz_bz">Heinrich</persName> ist in <placeName key="ed_bqz_1y1_fz">Spandau</placeName> und beschäftigt sich in seinen
+                    freien Augenblicken mit der Ausschmückung von 3 bis 4 Zimmern, die er an das
+                    kleine hässliche Haus hat anbauen lassen, das er in jener Stadt bewohnt. Er
+                    hängt Kupferstiche darin aus. Dieser Prinz, der gewohnt ist, in prachtvollen
+                    Palais zu wohnen, fühlt sich in dieser Ärmlichkeit ganz wohl, woraus man sehen
+                    kann, dass der Mensch zu seinem Wohlbefinden nicht unbedingt den Luxus
+                    braucht.</p>
+                <p>Die bevorstehenden Manöver ziehen viele Fremde an. So haben wir hier die Fürstin
+                        <persName key="ed_c2m_tlp_tdb">Poniatowska</persName> und den jungen Fürsten
+                    gleichen Namens, einen Neffen des Königs von Polen. <gap reason="insignificant"/> Ein recht liebenswürdiger Mann, der noch hierher kommt, ist Graf <persName key="ed_ksf_n24_xdb">Lacy</persName>, der spanische Gesandte am schwedischen
+                    Hofe, ein großer Mann, der ganz zu seinem Amt passt <gap reason="insignificant"/>. Ferner haben wir einen Italiener, Herrn Carpentieri, und mehrere Engländer
+                    hier, die aber so wenig gesellig sind, dass man sie kommen und gehen sieht, ohne
+                    nach ihren Namen zu fragen.</p>
+                <p>Der König ist mit sämtlichen Revuen sehr zufrieden und macht daher mehrere
+                    Tausend Menschen glücklich. - Wir haben auch einen Grafen <seg type="comment">
+                  <orig>Hohenzollern hier, der in Militäruniform nach Berlin kam, da er
+                            General in französischen Diensten gewesen. Er geht nach Potsdam und wird
+                            von seiner Majestät gut aufgenommen. Das veranlasst ihn zu dem
+                            Entschlusse, Geistlicher zu werden, um eines Tages den Posten des
+                            Bischofs von Breslau zu bekommen.</orig>
+                  <note xml:id="np1v_y24_xdb">Vgl.
+                            Schmidt-Lötzen, Nachträge, Bd. 2, S. 332 (Juli 1783). Demnach löste der Graf von
+                            Hohenzollern den Abt Rybinski im Kloster Oliva ab.</note>
+               </seg>
+                    <gap reason="insignificant"/>
+                </p>
+                <p>Der Mai und die Manöver sind vorüber, und man spricht jetzt nur vom Frieden mit
+                    der Türkei. Was mich dabei am meisten interessiert ist der Umstand, dass mein
+                    lieber Prinz Heinrich während seines <placeName key="ed_qvp_nnz_2y">Petersburger</placeName> Aufenthaltes den Anstoß zu alledem gegeben hat. -
+                    Die einzelnen Höfe gehen aufs Land. <gap reason="insignificant"/>
+                    <note type="editorial">Verschiedene Leute reisen in die Bäder. Lehndorff erhält
+                        im Juni die Erlaubnis, nach <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName> zu gehen, wo er den ganzen Juli bleibt, bis er
+                            <seg type="comment">
+                     <orig>Anfang August zur Königin nach <placeName key="ed_nwt_jdz_bz">Schönhausen</placeName>
+                     </orig>
+                     <note xml:id="nuz2_cq5_vdb">Eine sehr kritische Beschreibung der
+                                Hofgesellschaft ebd., S. 214-218.</note>
+                  </seg> muss.</note>
+            </p>
+                <p> </p>
+            </div>
+        </body>
+    </text>
+</TEI>

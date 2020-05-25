@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_n5j_3hh_yz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Staatsarchiv Königsberg an die Generaldirektion der preußischen Staatsarchive
+                    in Berlin-Dahlem. Königsberg, 9. Juni 1935 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_n5j_3hh_yz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>Rep. 178, Nr. 1072, Bl. 10</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_ard_2kg_my">Staatsarchiv Königsberg</orgName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1935-06-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_qqv_4fl_gbb">Generaldirektion der preußischen
+                        Staatsarchive</orgName>
+                </correspAction>
+                <note>In der Sitzung des Abgeordnetenhauses am 16. April 1902 war die Sicherung von
+                    Familienarchiven als Quellen der Provinzialgeschichte Gegenstand der Debatte,
+                    wobei den Regierungspräsidenten als Aufsichtsinstanz eine besondere Aufgabe
+                    beigemessen wurde, vgl. GStA PK, I. HA, Rep. 178, Nr. 1043, Bl. 25-26v. In den
+                    1920er Jahren sah man neben der Übergabe an Provinzialarchive oder Heimatmuseen
+                    auch die Belassung an Ort und Stelle unter Betreuung von Archivpflegern als
+                    geeignet an. Erste Entwürfe eines Archivalienschutzgesetzes reichen in die
+                    1930er Jahre zurück, vgl. ebd., Nr. 88, Anlage: Gefährdete Privatarchive. Man
+                    ging davon aus, dass ein wirksamer Schutz ohne gesetzliche Maßnahmen - bis hin
+                    zum Eingriff in Privateigentum - nicht möglich sei. Der <quote>nationale oder
+                        völkische Wert</quote> der Archive sei dabei über das Recht der Besitzer zu
+                    stellen (Dr. Zipfel an den Innenminister, Bl. 21-22). - In <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> wurde die Archivpflege seit 1934
+                    ausgebaut; im Sommer 1934 gab es nur noch wenige Kreise ohne Archivpfleger,
+                        <quote>vorwiegend östliche wie <placeName key="ed_rdg_jkc_gy">Insterburg</placeName>, <placeName key="ed_exy_rfk_wcb">Goldap</placeName>, <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>, <placeName key="ed_n12_4vl_ddb">Oletzko</placeName>, <placeName key="ed_zwz_5ps_d2b">Pillkallen</placeName>, in denen erhebliches archivalisches Gut kaum zu
+                        erwarten ist, leider aber auch wichtigere Kreise wie <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, <placeName key="ed_axg_z4t_sdb">Mohrungen</placeName> und <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName>
+               </quote>, so der Bericht des
+                    Staatsarchivs Königsberg, Berichterstatter <persName key="ed_uyg_gfl_gbb">Hein</persName>, vom 17. Juli 1934, in: ebd., Nr. 1072, Bl. 7-9. Am 21. Mai
+                    1937 berichtet Hein über neue Archivpfleger in den Kreisen <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>, <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> und <placeName key="ed_ynm_2zv_scb">Rössel</placeName>. In <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>
+                    sei viel Archivgut durch den Ersten Weltkrieg vernichtet, da hier aber
+                        <quote>namentlich in früherer Zeit das masurische Element eine sehr starke
+                        Rolle</quote> gespielt habe, seien die Archivpfleger <quote>auf die
+                        nationalpolitische Bedeutung der Archivpflege besonders nachdrücklich
+                        verwiesen</quote> worden. <quote>In <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> sind zu den bisherigen zwei 13 neue Pfleger
+                        getreten, denen jedem ein Ortsgruppenbereich der NSDAP zugewiesen ist. <gap reason="insignificant"/> Im Kreis Rastenburg sind außer Stadt- und
+                        Kirchenarchiven von ganz besonderer Bedeutung die Gutsarchive, weil diese
+                        Gegend verhältnismäßig viele Gutsherrschaften aufweist. Die Pfleger wurden
+                        daher namentlich auf den Wert der Gutsarchive als wirtschafts- und
+                        bevölkerungsgeschichtliche Quelle hingewiesen, im Besonderen darauf, dass
+                        für die so aktuelle Erforschung des 'Bauernlegens' im 19. Jahrhundert die
+                        Gutsarchive ein Material von unschätzbarem Wert enthalten.</quote> Im
+                        <placeName key="ed_zgq_zjv_mbb">Ermland</placeName> halte die Abneigung,
+                    etwas nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu geben,
+                    weiter an (ebd., Nr. 1072, Bl. 44-45v). 1922 konnte die Übernahme von
+                    Privatarchiven (<persName key="ed_ms2_qzc_mfb">von Rauter</persName> und
+                        <persName key="ed_x2r_szc_mfb">von Auerswald</persName>) berichtet werden.
+                    Auch das<persName key="ed_n51_jrx_f2b"> Finckensteinsche </persName> Archiv,
+                    früher in <placeName key="ed_uyl_j3c_gy">Danzig</placeName>, nun in <placeName key="ed_sxm_51z_bz">Stettin</placeName>, sollte nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> kommen. Weitere Schreiben an
+                    adlige Familien seien unbeantwortet geblieben. Es zeige sich, <quote>dass unsere
+                        Bestrebungen auf Sicherung archivwürdiger Akten nur selten ohne persönliche
+                        Rückfrage eines Archivars mit den Archivbesitzern oder -Verwaltern Erfolg
+                        haben, während umgekehrt mündliche Verhandlungen meist zum Ziel führen. Die
+                        Verpflichtung der Archivbeamten zu regelmäßigen, wenn auch seltenen
+                        Visitationsreisen dürfte das einzige Mittel darstellen, das Abgabeverfahren
+                        wirklich befriedigend zu regeln und zu verhüten, dass durch Trägheit und
+                        Unwissenheit der Registraturbeamten und der Besitzer von Privatarchiven auch
+                        wertvolle Akten zugrunde gehen.</quote> So auch im Promemoria zur
+                    Ministerialkonferenz am 9. April 1935 (BArch Koblenz, N/1333/47 NL Winter):
+                            <quote>
+                  <gap reason="insignificant"/> was kann man aber – um nur einen
+                        Fall statt vieler anzudeuten – von einem Staatsarchiv mit 2-3 Archivbeamten
+                        erwarten an Fürsorge für gefährdete Kirchenbücher und Schöffenbücher auf den
+                        Dörfern, für Gutsarchive, für städtische Archivalien auf dunklen Böden der
+                        Rathäuser oder Fabrikbetriebe, wenn die kleinste Dienstreise erst oben
+                        beantragt werden und – aus Mangel an Mitteln vielleicht abgelehnt werden
+                        muss, anstatt dass der Beamte mit einem Auto in kürzester Frist an Ort und
+                        Stelle eintrifft und evtl. gefährdete Schätze gleich einlädt und
+                        sicherstellt.</quote>
+                </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 9. Juni 1935</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>
+               <note type="editorial">
+                  <persName key="ed_vrm_24t_zdb">Weise</persName> berichtet
+                        über </note>
+               <note type="editorial">39 Archivpfleger in den
+                        Regierungsbezirken <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>,
+                            <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> und <placeName key="ed_qff_bxl_2y">Allenstein</placeName>. Etwa 60 Güter und Dörfer
+                        hätten ihre Archivalien im <orgName key="ed_ard_2kg_my">Staatsarchiv</orgName> hinterlegt</note>. </p>
+            <p>
+               <gap reason="insignificant"/> Die Verzeichnung der neueren Aktenbestände der Stadtarchive wird
+                    unter den Umständen, wie sie bisher bestehen, von Archivpflegern nicht
+                    durchgeführt werden können. Vor allem gilt das von den Archiven der großen
+                    Adelsfamilien, das Fürstlich <persName key="ed_n2h_2xz_g2b">Dohnasche</persName>
+                    Archiv steht unter der fachmännischen Leitung des Herrn Bibliotheksdirektors Dr.
+                        <persName key="ed_vkw_j4t_zdb">Krollmann</persName> und ist, wie ich vor
+                    einiger Zeit bei einem Besuch <placeName key="ed_ijp_zjc_gy">Schlobittens</placeName> gesehen habe, in jeder Beziehung in bestem
+                    Zustande. Ebenso steht es mit dem Archiv der Grafen von <persName key="ed_pvs_h1d_mfb">Schwerin</persName> in <placeName key="ed_z1v_zsn_my">Wildenhoff</placeName>. <seg type="comment">
+                  <orig>Auch die <persName key="ed_qxt_d2r_v2b">Grafen von Eulenburg</persName> sollen, soweit
+                            ich gehört habe, ihr Archiv wenigstens äußerlich in guter Ordnung
+                            halten.</orig>
+                  <note xml:id="nld2_xn5_5bb">Graf Eulenburg, Präsident des
+                            Staatsministeriums, hatte am 26. Mai 1894 Finanzminister von Miquel
+                            mitgeteilt, dass nach der Instruktion vom 31. August 1867 (Min.-Bl. S.
+                            327 pp.) in den Staatsarchiven archivisches Material von Privatarchiven,
+                            Städten und Landgemeinden gesammelt werden solle. Für die Abgabe als
+                            Depositum sei die zu entrichtende Stempelsteuer auf den zu schließenden
+                            Vertrag nicht hilfreich, vielfach sei auch die Bereitschaft für eine
+                            Deponierung von der Übernahme der Transportkosten auf den Fonds der
+                            Archivverwaltung abhängig gemacht worden. Zur Übetnahme des Archivs
+                            Finck von Finckenstein-Schönberg reiste ein Archivbeamter nach
+                            Schönberg. Diese Erwerbung, in die <quote>auch Dorfarchive und Teile des
+                                ehemaligen Pomesanischen Bischofsarchivs gelangt sind</quote>, wurde
+                            begrüßt, da im Staatsarchiv die <quote>Nachrichten über jene vormals
+                                ostpreußischen Gebiete nur ganz dürftig und auch die darauf
+                                bezüglichen Akten der herzoglichen Regierung und des ostpreußischen
+                                Etatministeriums sehr lückenhaft</quote> waren. Der Bericht des
+                            Staatsarchivs an den Generaldirektor in Berlin, Danzig, 8. März 1910,
+                            in: GStA PK, I. HA, Rep. 178, Nr. 1073, n. f. - Die Steuer ließ sich nur
+                            durch Verzicht auf einen formlichen Vertrag umgehen und durch den
+                            Schriftwechsel zwischen dem Archiv und Privatpersonen ersetzen, vgl.
+                            GStA PK, Rep. 178, Nr. 1043, Bl. 142-142v. </note>
+               </seg> Andere
+                    Familienarchive sollen freilich in wenig glücklichem Zustande sein; aus eigener
+                    Anschauung kann ich das freilich nur für das <orgName key="ed_e3t_l2n_4y">Graf
+                        Lehndorffsche Archiv</orgName> in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> bestätigen, dessen Besitzer mir bei einem Besuch
+                    erklärte, dass er sich für das Archiv nicht interessiere, es jedoch nicht von
+                    Steinort fortgebe, sich aber freuen würde, wenn ich für einige Monate sein Gast
+                    sein und <seg type="comment">
+                  <orig>das Archiv ordnen</orig>
+                  <note xml:id="nflh_mpt_zdb">Nach Aussage der Familie war das Archiv am Beginn
+                            des 20. Jahrhunderts zur Ostpreußischen Landschaft verbracht worden. Im
+                            Gebäude des Landeshauses in der Königsberger Königstraße 28/31 befand
+                            sich auch die Archivberatungsstelle Ostpreußen (Verwaltung des
+                            Provinzialverbandes). Die Akten der Ostpreußischen Generallandschaft
+                            waren Depositum des Staatsarchivs Königsberg (Rep. 127), vgl.
+                            Altfindbuch XX. HA/430. Sie blieben zum großen Teil zusammen, nur die
+                            Folianten wurden den Ostpreußischen Folianten zugeordnet (Ständeakten).
+                            Nach den Angaben des Findbuchs betrafen die Güterakten auch die mit den
+                            Lehndorffs verwandten Familien v. Rauter, v. Podewils, v. Dönhoff. Nach
+                            dem Altfindbuch der Deposita des Königsberger Staatsarchivs (FB Nr. 456
+                            und 456a) hatten die Familien v. Arnold, v. Kleist, v. Glasow, v.
+                            Wrangel, zu Eulenburg, v. Brünneck ihre Archive hier deponiert.
+                        </note>
+               </seg> wolle. Allein schon dieser Fall zeigt, dass für die Ordnung
+                    der adligen Familienarchive mit ehrenamtlichen Archivpflegern allein nicht
+                    auszukommen ist und wie notwendig die in der angezogenen <seg type="comment">
+                  <orig>Verfügung</orig>
+                  <note xml:id="npk2_cqt_zdb">vom 21. Juni 1935,
+                            A.V.1942</note>
+               </seg> vorgesehene Vermehrung der wissenschaftlichen
+                    Archivbeamten zur Erfassung des außerhalb der Staatsarchive befindlichen
+                    Schriftgutes ist. </p>
+            <p>
+               <note type="editorial">Die Archivpfleger würden  durch persönlichen Kontakt dafür sorgen, </note>
+                    dass das Verantwortungsbewusstsein der Besitzer alten Schriftguts im Sinne einer
+                    sicheren Aufbewahrung geschärft wird. Sie haben ferner das Staatsarchiv in
+                    Einzelfällen auf wertvolles Material hingewiesen, das z. B. für Königsberg oder
+                    auch Berlin (<ref target="lehndorff_ph2_nb1_fy">Nachlass Kapp</ref>) erworben
+                    werden konnte. <gap reason="insignificant"/> Eine systematische Verzeichnung des
+                    nichtstaatlichen Archivguts aber ist mit Hilfe allein der Archivpfleger nicht
+                    durchführbar. <gap reason="insignificant"/> Unsere Provinz hat von jeher den
+                    Impuls ihres Lebens vom Staat empfangen, ihre Selbstverwaltung und das Bedürfnis
+                    nach eine solchen sind stets nur gering entwickelt gewesen. Mir will scheinen,
+                    dass sich diese Verhältnisse bis in die Archivpflege ausdrücken. Wirklichen
+                    Erfolg hatten wir, wo wir von Staats wegen vorgegangen sind und uns auf die
+                    Zusammenarbeit mit amtlichen Stellen beschränkten. <gap reason="insignificant"/>
+                    Der Archivpfleger hat, weil er Privatmann ist, in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> niemals eine Autorität wie ein Staatsbeamter. Eine
+                    systematische und brauchbare Verzeichnung des nichtstaatlichen Archivguts würde
+                    sich hier wohl nur erreichen lasen, wenn sie von Beamten des Staatsarchiv
+                    unternommen wird, wie das ja in der angezogenen Verfügung vorgesehen wird. <gap reason="insignificant"/>
+            </p>
+				        <closer>
+                    <signed>Weise</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

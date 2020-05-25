@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zmn_2fb_4fb5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jakob Szczepanski an Maria Louisa Gräfin von Lehndorff. Angerburg, 11. Januar
+                    1751</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zmn_2fb_4fb5</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 588, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_cln_c3r_fkb">Szczepanski, Jacobus (Jacob) August
+                        (1720-11782)</persName>
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    <date when="1751-01-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+                </correspAction>
+                <note>Schon zum 28. Dezember des Vorjahres waren <quote>Dero Arrendatores, Verwalter,
+                        auch des Lesens und Schreibens erfahrene Schultzen zu früher Tageszeit aufs
+                        Angerburgische Amtshaus</quote> bestellt, wo sie eine <quote>Königliche
+                        allergnädigste Willensmeinung anhören</quote> sollten. Möglicherweise ging
+                    es um die Vorbereitung der Generalvisitation.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Angerburg, den 11. Januar 1751</dateline>
+					          <salute>Hochgeborene Reichsgräfin <lb/>gnädige Frau!</salute>
+                </opener>
+				        <p>Wann nach dem copilich angeschlossenen <seg type="comment">
+                  <orig>Königlichen allergnädigsten
+                            Reskript</orig>
+                  <note xml:id="ndck_r15_bhb">Abschrift des Reskripts vom
+                            4. Januar 1751 auf der Rückseite des Schreibens.</note>
+               </seg> die
+                    bereits unterm 29. des nächst verwichenen Monats Dezembris a. praet. gehaltene
+                    General-Visitation zu Aufhebung aller im Lande etwa befindlichen verdächtigen
+                    Personen künftigen 14. dieses Monats Januari laufenden Jahres wiederholt und
+                    solches mit aller Behutsamkeit und Verschwiegenheit bewerkstelliget werden soll,
+                    so werden Ew. Hochgeborene Reichsgräfliche Gnaden auf Befehl des Herrn
+                    Tribunals-Vize-Präsidenten und Amtsverwesers von <persName key="ed_ewn_dvq_ybb">Grabowski</persName> Hochwohlgeboren von Amts wegen ersucht, diese
+                    General-Visitation den 14. dieses Monats nach Sonnenuntergang in Dero gesamten
+                    Gütern nach allen vorhin vorgeschriebenen Umständen aufs genaueste und
+                    sorgfältigste wiederholentlich vornehmen zu lassen und denenjenigen, welche Ew.
+                    Gnaden diese Sache zu kommunizieren gut finden werden, alle Verschwiegenheit
+                    davon bei der in dem Patent wegen der General-Visitation gesetzten harten Strafe
+                    auf Eid, Pflicht und Gewissen zu binden, auch davon höchstens binnen 4 Tagen
+                    nach geschehener Untersuchung dem Amte umständlichen Bericht per expressem nach
+                        <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> unfehlbar
+                    einzuschicken.</p>
+				        <closer>
+					          <salute>Ich beharre mit gebührendem Respekt <lb/>Ew. Hochgeboren Reichsgräflichen Gnaden ganz
+                        gehorsamster Diener</salute>
+					          <signed>J. Szczepanski</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

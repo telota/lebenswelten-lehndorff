@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mmq_ygf_cy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Otto Junkuhn an Kaiser Wilhelm I. Rosengarten, 14. August 1906</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mmq_ygf_cy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno>I. HA, Rep. 77 B Nr. 680, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_h2d_fhf_cy">Junkuhn, Otto (-)</persName>
+                    <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                    <date when="1906-08-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_lwx_y32_cy">Preußen, Wilhelm I. König von, deutscher Kaiser
+                        (Berlin, 22.3.1797-Berlin, 9.3.1888)</persName>
+                </correspAction>
+                <note>Kultusminister <persName key="ed_tdh_glh_cy">Studt</persName> ließ sich vom
+                    Präsidenten der Regierung zu Gumbinnen am 26. November 1906 berichten. Für den
+                    Neubau standen demnach 6.000 M zur Verfügung; von der Provinz erhoffte man sich
+                    eine Baubeihilfe von 3.000 bis 4.000 M, damit waren ½ der veranschlagten
+                    Baukosten gedeckt. Der Regierungspräsident bat darum, <quote>eine möglichst hohe
+                        Staatsunterstützung zu bewilligen</quote>. Der Innenminister thatte dafür
+                    jedoch keine Mittel. Am 11. Februar 1907 schrieb Junkuhn an den
+                    General-Landschaftsdirektor Ludwig von <persName key="ed_bcs_1zl_zdb">Staudy</persName> mit der Bitte, dieser möge sich persönlich beim
+                    Kultusminister einsetzen, was dieser tat. Auch das bewirkte nichts. <ref target="lehndorff_xzc_m3z_2y">Erst am 26. August 1907 waren die Akten erneut
+                        vorzulegen</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rosengarten, Kreis Angerburg (Ostpreußen), 14. August
+                    1906</dateline>Allerdurchlauchtigster, Großmächtigster <persName key="ed_lwx_y32_cy">Kaiser</persName> und König! <lb/>Allergnädigster
+                    Kaiser, König und Herr! <lb/>
+            </opener>
+                <p>In tiefster Ehrfurcht wagt der untertänigst unterzeichnete Vorstand nachstehende
+                    Bitte ganz gehorsamst vorzutragen: Das hierselbst bestehende Gräflich
+                    Lehndorffsche Mädchen-<orgName key="ed_pqq_g4d_gy">Waisenhaus</orgName> befindet
+                    sich in einer sehr bedrängten und hilfebedürftigen Lage. Einst im Jahre 1872 von
+                    Frau <persName key="ed_wms_mh2_cy">Gräfin Lehndorff-Steinort </persName>ins
+                    Leben gerufen, hat es drei Jahrzehnte lang als private Anstalt in Segen gewirkt
+                    und für verweiste sowie für viele zur Zwangserziehung überwiesene Mädchen als
+                    Erziehungsstätte gedient. Um aber dem Werk der edlen hochherzigen Stifterin,
+                    welche selber durch einen vorzeitigen Tod daran gehindert wurde, eine
+                    gedeihliche Weiterentwicklung zu sichern, musste die ganze Organisation der
+                    Anstalt eine zeitgemäße Änderung erfahren. Darum wurden erste Schritte
+                    unternommen, die Anstalt zu einer selbständigen Stiftung zu erheben und dazu die
+                    Allerhöchste Genehmigung am 9. August 1904 huldvollst erteilt. Ist nun nach
+                    dieser Seite hin der Fortbestand unserer Anstalt durch Euer Kaiserlichen und
+                    Königlichen Majestät Gnade auch für die Zukunft gesichert, so stehen uns dennoch
+                    für die nächste Zeit schwere Sorgen und Lasten bevor. Der bauliche Zustand des
+                    Anstaltsgebäudes, das den heutigen polizeilichen und hygienischen Anforderungen
+                    nicht mehr genügt, erfordert dringend einen Neubau, welcher nunmehr im nächsten
+                    Jahre 1908 zur Ausführung kommen soll und muss. Der von dem Herrn Königlichen
+                    Kreisbaudirektor zu <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    durchgesehen Bauanschlag ist auf ca. 21.000 M normiert, wird jedoch wegen der
+                    inzwischen eingetretenen Verteuerung des Baumaterials und der Arbeitskräfte um
+                    ca. 3-4.000 M überschritten werden müssen. Demgegenüber stehen der
+                    Waisenhausstiftung selber nur ca. 7.000 M an Baumitteln zur Gebote, welche wir
+                    durch Zuwendungen seitens des Herrn Landeshauptmanns sowie durch Verkauf der
+                    alten Baulichkeiten vielleicht auf günstigstenfalls 10.000 M erhöhen zu können
+                    hoffen; damit ist dann aber unsere Leistungsfähigkeit erschöpft, und die
+                    weiteren Baumittel müssten durch eine Anleihe aufgenommen werden. Wenn dieses in
+                    ganzem Umfang der noch erforderlichen Bausumme geschehen müsste, so würde
+                    dadurch die Anstalt mit einer Schuld belastet, deren Verzinsung und
+                    Amortisierung bedeutende Mittel erfordern würde und diese somit ihrer
+                    eigentlichen Bestimmung zum Unterhalt der Anstalt entziehen. Der Neubau aber <hi rendition="#u">muss</hi> unternommen werden, soll nicht anderenfalls das
+                    Fortbestehen des Waisenhauses und seine segensreiche Wirksamkeit, die sowohl in
+                    der Erziehung der Zöglinge zu brauchbaren evangelischen Christen als auch in
+                    ihrer Heranbildung zu tüchtigen ländlichen Arbeiterinnen und Dienstboten besteht
+                    und so den beiden Hauptbedürfnissen unseres Ostens nach Kräften mit zu steuern
+                    bemüht ist, für weiterhin ganz in Frage gestellt werden. </p>
+            <p>Nachdem Euer
+                    Majestät Gnade das zweckmäßige und segensreiche Wirken unserer Anstalt durch
+                    Genehmigung als selbständige Stiftung schon anzuerkennen geruht haben, so nahen
+                    wir uns in unserer jetzigen Notlage wiederum mit vollem Vertrauen und der
+                    alleruntertänigsten Bitte Euer Kaiserliche und Königliche Majestät wolle unsere
+                    Anstalt ein größtes Gnadengeschenk gewähren und derselben damit einen neuen
+                    Beweise Allerhöchstihres gnädigen Wohlwollens erteilen.</p>
+                <closer>
+                    <salute>In dieser Hoffnung verharrt Euer Kaiserlichen und Königlichen Majestät
+                        alleruntertänigster Diener</salute>
+                    <signed>Junkuhn <lb/>Pfarrer  <lb/>Vorsitzender des Vorstandes<lb/>
+               </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

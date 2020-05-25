@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_smt_gqg_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kriegsministerium an Carl Friedrich Ludwig Graf von Lehndorff. Berlin, 21. August 1823</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_smt_gqg_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 79, Bl. 19</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_lnf_t5y_5x">Kriegsministerium</orgName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1823-08-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Am 18. August 1823 hatte Lehndorff sich in <placeName key="ed_hkz_d1b_1bb">Köln</placeName> mit <persName key="ed_tcp_g3l_2y">Pauline Amalie Gräfin
+                        von Schlippenbach</persName> aus dem Hause Arrendsee in der Uckermark
+                    vermählt. An der Feierlichkeit nahm Prinz <persName key="ed_xgg_vf2_b2b">Friedrich</persName> von Preußen, Divisionskommandeur des Grafen, als
+                    Trauzeuge teil,  Die Hochzeit kam für die Familie überraschend; man hatte
+                    bereits darüber nachgedacht, eine Einigung mit der Seitenlinie Maxkeim-Bandels
+                    zu Gunsten der Kinder des Grafen <persName key="ed_lq5_jj5_sy">Dönhoff-Friedrichstein</persName> herbeizuführen, vgl. Schultze,
+                    Lebensbild, S. 642. - Am 12. Januar 1824 übertrug der <persName key="ed_tl1_nbf_4y">König</persName>
+                    <persName key="ed_k4z_jgl_2y">Lehndorff</persName> die in <placeName key="ed_uyl_j3c_gy">Danzig</placeName> stationierte 2. Kavalleriebrigade,
+                    was ihn erheblich näher an <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    brachte. Die Kabinettsordre ebd., S. 646. Seine Ehefrau kam erst im April 1824
+                    nach Danzig, zuvor hatte sie sich mit der <persName key="ed_gnc_c1m_2y">Schwiegermutter</persName> in <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> aufgehalten und aus gesundheitlichen Gründen
+                    nach einem Aufenthalt in einem Landhaus bei <placeName key="ed_snk_jfp_tdb">Oliva</placeName> das Seebad <placeName key="ed_hcb_f22_b2b">Zoppot</placeName> aufgesucht. In Danzig bezogen beide das Haus der
+                        <quote>Madame Almandi</quote>, wo bereits Theodor von <persName key="ed_q1t_d2f_4y">Schön</persName> als Oberpräsident gewohnt hatte. Hier
+                    wurde am 27. Februar 1825  Tochter <persName key="ed_mrr_p22_b2b">Pauline</persName> geboren. Zur häuslichen Einrichtung in Danzig vgl. APO,
+                    Bestand 382 FA Lehndorff, Nr. 337, Bl. 1-3.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/3/79/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 21. August 1823</dateline>
+                </opener>
+				        <p>Nachdem Euer Hochgeboren von des Königs Majestät den Konsens zur Verheiratung mit der Gräfin
+                    von <persName key="ed_tcp_g3l_2y">Schlippenbach</persName> erhalten haben, so
+                    werden Sie ergebenst ersucht, sich über Ihren Beitritt zur <seg type="comment">
+                  <orig>Königlichen Offiziers-Witwen-Kasse</orig>
+                  <note xml:id="nt5w_dzp_hlb">Die Preußische Offizierswitwenkasse wurde 1792 als
+                            eine mit staatlicher Garantie und Unterstützung ausgestattete
+                            Versicherungsanstalt für verheiratete Offiziere der preußischen Armee
+                            gegründet. Für die aktiven Offiziere bestand ab 1810 eine
+                            Beitrittspflicht, vorher war lediglich der freiwillige Beitritt
+                            vorgesehen, <ref target="https://www.deutsche-digitale-bibliothek.de/item/CHINF6GRX6OHXJ24UHPVELRNJRBSFBDG">https://www.deutsche-digitale-bibliothek.de</ref>. </note>
+               </seg>
+                    baldgefälligst zu erklären.</p>
+				        <closer>
+                    <signed>Kriegs-Ministerium Viertes Departement <lb/>Westphal</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

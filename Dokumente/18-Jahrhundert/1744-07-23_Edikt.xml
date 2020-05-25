@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_h3q_fwv_q2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reskript. Königsberg, 23. Juli 1744</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_h3q_fwv_q2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="editorial">
+                    <p>
+                  <persName key="ed_s1f_brc_mjb">Georg Boretius</persName> war 1716-1742
+                        Pfarrer in <placeName key="ed_epz_y2c_gy">Engelstein</placeName>. Sein Sohn
+                        war der berühmte Gelehrte <persName key="ed_jsy_sxr_clb">Georg Heinrich
+                            Borz</persName>, Präsident der Jablonowskischen Gesellschaft, vgl.
+                        Braumüller, Bernhard, Angerburg von A-Z. Ein Nachschlagewerk über den Kreis
+                        Angerburg, 4. Aufl., Rotenburg (Wümme) 2008, S. 120 und 122 f.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 588, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                <date when="1744-07-23" cert="high"/>
+            </creation>
+            <abstract>
+                <p>Für die Pfarrwitwe <persName key="ed_ms4_hzv_q2b">Boretius</persName> in
+                        <placeName key="ed_epz_y2c_gy">Engelstein</placeName> wird ein Unterhalt
+                    festgesetzt. Im Kirchspiel werden dazu künftig pro Hube 3 Gr. erhoben, in der
+                    Summe 52 Fl. 12 Gr.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_bph_kn1_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Otto Fürst von Bismarck an Carl Meinhard Graf von Lehndorff. Berlin, 5. Dezember 1875</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_bph_kn1_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword"/>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 24, Bl. 11-12</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_atc_ls2_cy">Bismarck, Otto (Graf) Fürst von
+                        (1815-1898)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1875-12-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_crx_t2m_2y">Lehndorff, Carl Meinhard Heinrich
+                        (1860-)</persName>
+                </correspAction>
+                <note>Lehndorff hatte sich bereits im November für <persName key="ed_cws_vm1_my">Strousberg</persName> verwendet, dieser dankte am 14. November 1875 für
+                    dessen <quote>Teilnahme</quote>, <quote>Hilfe und Mühen</quote> (Bl. 1-2v). Zur
+                    Strousberg-Affaire: Ohlsen, Manfred, Der Eisenbahnkönig Bethel Henry Strousberg.
+                    Eine preußische Gründerkarriere, Berlin 1987. Dessen Nachlass in: GStA PK, VI.
+                    HA, Nachlass Strousberg, Bethel Henry. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/2/24/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 5. Dezember 1875</dateline>
+                </opener>
+                <p>Eurer Hochgeboren beehre ich mich auf Ihr heutiges Schreiben zu erwidern, dass
+                    eine Verwendung des <orgName key="ed_brz_g41_my">Auswärtigen Amtes</orgName> für
+                    die Freilassung des Dr. <persName key="ed_cws_vm1_my">Strousberg</persName>
+                    schon vor meiner Ankunft in <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    stattgefunden hat. Nachdem ich inzwischen die Frau <persName key="ed_lzj_l41_my">Strousberg</persName> gesehen, habe ich die Anwesenheit des Fürsten
+                        <persName key="ed_a1n_541_my">Gortschakow</persName> benutzt, um die Sache
+                    mündlich zu betreiben. Der Fürst hat mir auch seinen Beistand zugesagt, aber
+                    wenig Aussicht gemacht, weil, wie er sagt, Strousberg nur einer von sieben
+                    Angeklagten und der einzige Nichtrusse sei, und die übrigen nicht bestraft
+                    werden könnten, wenn er freigelassen würde. Ob das Verfahren juristisch
+                    gerechtfertigt sei, kann mein russischer Kollege bisher so wenig beurteilen wie
+                    das Auswärtige Amt dazu im Stand ist. Sehr schwierig wird die Einwirkung von
+                    hier aus immer bleiben, da auch der mir persönlich befreundete Justizminister,
+                    ein Mann von deutscher Geburt und anerkannter Rechtlichkeit, sein Eingreifen,
+                    wenigstens bei der gegenwärtigen Sachlage, für unmöglich erklärt. Indessen werde
+                    ich meine Bemühungen fortsetzen, schon weil anzunehmen ist, wie ich auch dem
+                    Fürsten Gortschakow gegenüber geltend gemacht habe, dass der Verlust der
+                    Gläubiger sich wesentlich vermindern würde, wenn es dem Schuldner möglich
+                    gemacht wäre, selbst an der Regulierung teilzunehmen.</p>
+				        <closer>
+				           <salute>Empfangen Euer Hochgeboren die Versicherung meiner vorzüglichen Hochachtung</salute>
+					          <signed>v. Bismarck</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_nhm_2yw_rdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin,
+                    13./14. September 1762</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_nhm_2yw_rdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">Ende Juli hatte der Prinz <quote>Anstalten zu seiner
+                        Installation als Herrenmeister des Johanniter-Ordens und zur Ernennung neuer
+                        Ordensritter</quote> getroffen. Auch Lehndorff hatte eine Einladung vom
+                    Ordensältesten Alexander Graf von <persName key="ed_sbf_x53_tdb">Wartensleben</persName> erhalten. Am 12. September reiste er nach
+                        <placeName key="ed_o5t_yt4_dz">Sonnenburg</placeName> ab, vgl. ebd., S. 352
+                    und 356. - Siehe auch: Nachrichten vom Johanniter-Orden, insbesondere von dessen
+                    Herrenmeistertum in der Mark, Sachsen, Pommern und Wendland ... nebst einer
+                    Beschreibung der in den Jahren 1736, 1737, 1762 und 1764 gehaltenen
+                    Ritterschläge, aufgesetzt von Johann Gottfried Dienemann ..., hrsg. von Johann
+                    Erdmann Hasse, Berlin 1767, S. 292 (No. XXVIII). Das Buch gehörte zur
+                    Lehndorffschen Bibliothek, die sich in Teilen heute im Ostpreußischen
+                    Landesmuseum in Lüneburg befindet. - Die Aufschwörungstafel Lehndorffs war
+                    bereits 1743 fertiggestellt, siehe das Dokument vom <ref target="lehndorff_pzt_q2m_z1b">20. März 1743</ref> sowie GStA PK, XX. HA,
+                    Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 55
+                    (Johanniter-Ordensangelegenheiten). 1737 porträtierte Anna Rosina Lisiewska
+                    Markgraf Karl von Brandenburg-Schwedt als <ref target="https://de.wikipedia.org/wiki/Karl_Friedrich_Albrecht_von_Brandenburg-Schwedt#/media/File:Karl_Friedrich_Albrecht_von_Brandenburg-Schwedt_by_A.R.Lisiewska_(1737,_Germanisches_Nationalmuseum).jpg">Herrenmeister des Johanniter-Ordens</ref>; seien
+                        <quote>Johanniter-Ordensband</quote>, <quote>Ordensstern</quote> und
+                    Johanniterkreuz hatte Lehndorff bei dem Textilfabrikanten Carl Fr. Gottlob
+                    Eisenhard in Berlin erworben, vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr.
+                    252. </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 1, Gotha 1910, S. 356 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date from="1762-09-13" to="1762-09-14" cert="high"/>
+                
+               
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <p>
+            <hi rendition="#u">13. September</hi>. Die Einführung des Herrenmeisters geht vor
+                sich. Graf Alexander <persName key="ed_sbf_x53_tdb">Wartensleben</persName>
+                vollzieht als Ältester des Kapitels die Ernennung. Graf <persName key="ed_hpp_dv3_tdb">Reuß</persName> und Herr von <persName key="ed_cs4_2v3_tdb">Fürst</persName> stehen als Abgesandte des Königs zur Seite. <note type="editorial">Es folgte die Aufzählung der an dem Fest teilnehmenden Damen.
+                    Zu ihnen gehört <quote>
+                  <persName key="ed_gcc_jkt_52b">Fräulein
+                            Podewils</persName>
+               </quote> als Hofdame der Prinzessin <persName key="ed_x11_dgn_fz">Amalie</persName>, Lehndorffs Nichte, die er im August
+                    persönlich am Hof eingeführt hatte. Im Anschluss an die Einführung als
+                    Herrenmeister macht der Prinz große Geschenke.</note> Der ganze Tag verging bei
+                fröhlichem Schmausen unter Zimbeln- und Trompetenklang.</p>
+                <p>
+            <hi rendition="#u">14. September</hi>. Der Ritterschlag erfolgt in Anwesenheit
+                sämtlicher Prinzessinnen. <note type="editorial">
+               <seg type="comment">
+                  <orig>Es folgt
+                            die Aufzählung der 49 neuen Ritter. </orig>
+                  <note xml:id="ntbw_5dt_5fb">Diese sind ausführlich bei <ref target="https://books.google.de/books?id=gdZmAAAAcAAJ&amp;pg=PA1&amp;lpg=PA1&amp;dq=Nachrichten+vom+Johanniterorden:+insbesondere+von+dessen+Herrenmeister+Thum&amp;source=bl&amp;ots=VMkvZ4RSHT&amp;sig=ACfU3U1vOwcjugoMljcI_Pq2AyzeqVRlTQ&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwidmvq9uLjoAhVRKewKHS49CL0Q6AEwCXoECAkQAQ#v=onepage&amp;q=Nachrichten%20vom%20Johanniterorden%3A%20insbesondere%20von%20dessen%20Herrenmeister%20Thum&amp;f=false">Dienemann, S. 250 ff.</ref> mit Wappenbild und Stammbaum
+                            aufgeführt. </note>
+               </seg>
+            </note> Nach der Rückkehr von der Zeremonie
+                speiste der Prinz mit seinen neuen Rittern und den Ordenskomturen an einem Tisch, am
+                anderen die Prinzessinnen mit der übrigen Gefolgschaft. Abends war Ball. </p>
+            
+        </body>
+    </text>
+</TEI>

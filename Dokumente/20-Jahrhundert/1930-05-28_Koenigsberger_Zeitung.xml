@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_tmw_l1d_bfb">
+    <teiHeader> 
+        <fileDesc> 
+            <titleStmt>
+                <title>Beilage zur Königsberger Volkszeitung. 28. Mai 1930</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_tmw_l1d_bfb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">
+                    <p>Siehe Bl. 138 eine Aufstellung aller Teilnehmer. Demnach nahmen am Aufmarsch
+                        zur Fahnenweihe am 18. Mai 1930 von der Ortsgruppe <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                        <quote>im Braunhemd 42, bei einem Mitgliederstand von 67, jetziger
+                            Mitgliederstand 87 Mann, davon eingekleidet etwa 45-50 Mann</quote>
+                        teil. Beim <quote>Aufmarsch zur Fahnenweihe waren im Braunhemd beteiligt
+                            genau 341 Mann.</quote> - Zu Otto Braun, Sohn von <persName key="ed_v5g_pvf_2y">Hermann Adalbert Braun</persName>: Braumüller,
+                        Bernhard, Angerburg von A-Z. Ein Nachschlagewerk über den Kreis Angerburg,
+                        4. Aufl., Rotenburg (Wümme) 2008, S. 133.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 240, Nr. 40, Bl. 137</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1930-05-28" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Nazirummel in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+            </p>
+                <p>Bereits Monate hindurch arbeiteten die Hakenkreuzler in <seg type="comment">
+                  <orig>unzähligen Versammlungen im Kreise</orig>
+                  <note xml:id="nms3_scd_bfb">Vgl. die Berichte in der Akte.</note>
+               </seg>, um
+                    der SPD das Wasser abzugraben und um sich auf diesen großen Tag vorzubereiten.
+                    Leider es ist nicht geglückt. Die SPD und die freien Gewerkschaften, die Sport-
+                    und Jugendorganisationen haben sich weiter entwickelt. Auch der Tag der
+                    Fahnenweihe der Nazis am 18. d. M. war ein Reinfall. Zuerst hatte man Bataillone
+                    angekündigt; in den letzten Tagen sollten es nach der Lokalpresse nur 500 Mann
+                    sein. Heute war es nur kaum die Hälfte davon, die in bunter Indianerbemalung
+                    durch die Straßen marschierte. Aus <placeName key="ed_ub5_v4k_wcb">Osterode</placeName>, <placeName key="ed_ijm_3qs_d2b">Liebstadt</placeName>, <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    usw. hatte man sie zusammengeholt. Trotzdem langte es nicht zu einem Bataillon.
+                    Aus der Stadt <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> waren es
+                    ganze 20 Mann, <seg type="comment">
+                  <orig>davon 17 Anstaltsangestellte und
+                            Arbeiter der Angerburger <orgName key="ed_gnt_ztc_mfb">Bethesdaanstalt</orgName>, die der Sohn des Anstaltsleiters in die
+                            gelbe Schießbudenuniform hineingepresst hatte.</orig>
+                  <note xml:id="nv44_wcd_bfb">Dr. jur. Otto <persName key="ed_rrg_c5c_mfb">Braun</persName>, Bürgermeister a. D., dessen Stellungnahme vom 6.
+                            Juni 1930 in der Akte, Bl. 136-136v, ein Brief an Gauleiter <persName key="ed_udf_mxt_sdb">Koch</persName> vom 5. September 1930, Bl.
+                            143-143v.</note>
+               </seg> „Nehmt es uns nicht übel, wir müssen es tun,
+                    sonst verlieren wir unsere Arbeitsstelle‟, war vielfach die Antwort dieser
+                    zwangsweise zusammengeschleppten Arbeiter. Diejenigen Anstaltsarbeiter, die an
+                    diesem Nazijahrmarkt teilnahmen, erhielten eine monatliche Zulage von 4,00 Mark
+                    und außerdem am Tage vor dem Rummel eine Extrazulage von 2,00 Mark und den
+                    Sonnabendnachmittag frei. Die Anstaltspferde wurden gleichfalls den Nazis als
+                    Reitpferde zur Verfügung gestellt.</p>
+                <p>Diesem Missbrauch der Anstaltsbediensteten sowie der Einrichtungen der Anstalten
+                    für parteipolitische Zwecke wird von den republikanischen Kreisen entschieden
+                    entgegengetreten werden müssen. Vor allem werden es sich Andersgesinnte sehr
+                    überlegen müssen, ob sie den Kollektanten der Angerburger Krüppelanstalten die
+                    Sammelbüchsen füllen sollten, wenn der Sohn des Anstaltsleiters damit
+                    parteipolitischen Missbrauch treibt. Ehrliche politische Kämpfer würden es
+                    ablehnen, in dieser Weise Parteipropaganda zu treiben.</p>
+                <p>Wenn man sich das Häuflein Nazis ansah, so konnte man sich ein Urteil über diese
+                    Partei bilden. Es ist lediglich eine Organisation abgetakelter alter Offiziere
+                    und solcher, die es werden wollten, <seg type="comment">
+                  <orig>von verkrachten
+                            Gutsbesitzern und Spießbürgern</orig>
+                  <note xml:id="noq5_p2d_bfb">Später
+                            wollte man diesem <quote>Spießerpublikum</quote> keine
+                                <quote>Konzessionen</quote> machen und <quote>nur deshalb Pg. Prinz
+                                    <persName key="ed_b2n_k5c_mfb">August Wilhelm</persName> als
+                                Redner einsetzen, weil er zufällig ein Hohenzollernprinz
+                            ist</quote>, der im Auftrag der SA-Verwundetenhilfe in zwei
+                            Versammlungen in Ostpreußen gesprochen hatte (Bl. 166). Zu dessen
+                            Unterstützung des Nationalsozialismus: Machtan, Lothar, Der Kaisersohn
+                            bei Hitler, Hamburg 2006.</note>
+               </seg>, also ein Sammelsurium von
+                    Leuten, die den Kampf um die 1918 verloren gegangenen Futterkrippe führen. Sie
+                    können nur existieren, wenn sie den Staat beherrschen und das werktätige Volk,
+                    ob Arbeiter oder Bauer, wie in der Vorkriegszeit aussaugen und entrechten
+                    können.</p>
+                <p>Die Ansprachen des Generalssohnes <persName key="ed_ekh_q5c_mfb">Litzmann</persName> und von <persName key="ed_uby_s5c_mfb">
+                  <persName key="ed_uby_s5c_mfb">Gilgasch</persName>
+               </persName>-<placeName key="ed_rdg_jkc_gy">Insterburg</placeName> waren dem phrasenhaften
+                    Schlagwortlexikon der Nazis entnommen. Sie sprachen von dem allein selig
+                    machenden Dritten Reich, in dem Arbeitgeber und Arbeitnehmer ein Herz und eine
+                    Seele sein werden. Sie schimpften auf die vollgefressenen Spießbürger in den
+                    bürgerlichen Parteien. (Dass ihre Lokalhelden <persName key="ed_uwq_fvc_mfb">Rogall</persName>-<placeName key="ed_bvh_3vc_mfb">Kruglanken</placeName>
+                    und <persName key="ed_rrg_c5c_mfb">Braun</persName>-<placeName key="ed_hz1_4wl_2y">Angerburg</placeName> von den vollgefressenen
+                    Spießbürgern nicht zu unterscheiden sind, hatten die Festredner übersehen.) Vor
+                    allem aber galten ihre Hassreden der Sozialdemokratie.</p>
+                <p>Nicht der Hass der Nationalitäten, nicht die politische und wirtschaftliche
+                    Entrechtung der Werktätigen, sondern der Geist der Völkerverständigung, wie ihn
+                    die Sozialdemokratie und die freien Gewerkschaften erstreben, wird die
+                    Menschheit zum Frieden und zur Befreiung führen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

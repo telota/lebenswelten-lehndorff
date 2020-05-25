@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cbf_tpg_v2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Justizamtmann Schmidt an Ernst Ahasverus Heinrich Graf von Lehndorff.
+                    Königsberg, 30. Dezember 1790</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cbf_tpg_v2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep.54 Gutsarchiv Lehndorff-Steinort, Nr. 303, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_tt1_vzz_ncb">Schmidt, A (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1790-12-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 30. Dezember 1760</dateline>
+					          <salute>Hochwohlgeborener Reichs-Graf! Insonders Hochzuehrender Herr Kammerherr!</salute>
+                </opener>
+				        <p>Ew. Hochgeboren habe ich die <seg type="comment">
+                  <orig>beiliegende
+                            Blanco-Obligation</orig>
+                  <note xml:id="norl_dcl_w2b">Liegt dem Brief
+                            nicht bei.</note>
+               </seg> über 1.500 Rtlr. nicht früher übermitteln
+                    können, weil wegen des Kassenschlusses des hiesigen Banko-Comptoirs die Gelder
+                    nach Eingang Hochdero Schreibens nicht eher als den 10. Dezember bei der Banque
+                    angenommen wurden, und die konfirmierte Obligation von <placeName key="ed_xrv_gwb_by">Berlin</placeName> abgewartet werden mögte. Ich bitte
+                    nunmehr untertänigst um eine Quittung auf die Summe von 1.500 Rtlr. </p>
+                <p>Da Ew. Hochgeboren meine eigene Jahres-Rechnung nicht remittieren können, so muss
+                    der Abschluss meiner diesjährigen Rechnung solange ausgesetzt bleiben.</p>
+                <p>Die Bedingungen und den <gap reason="illegible"/> auf
+                    die in Erbpacht zu verkaufende <placeName key="ed_d3p_frp_tdb">Greibausche</placeName> Mühle werde ich Ew. Hochgeboren nebst dem auf den
+                    20. Jan. c. abzuhaltenden Lizitations-Rezess zur Approbation und weiteren
+                    Entschließung einzusenden unvergessen sein.</p>
+                <p>In der <placeName key="ed_enz_4vz_g1b">Landkeimschen</placeName> Gegend sind
+                    keine Besitzveränderungen vorgefallen, dürften auch schwerlich vorkommen, da die
+                    jetzigen Besitzer zum Verkauf ihrer Güter nicht disponiert sind. Die zur
+                    Erbschaft des verstorbenen Herrn Obristen v. <gap reason="illegible"/> auf
+                        <placeName key="ed_pfq_lcl_w2b">Medenau</placeName> gehörigen Güter behält
+                    dessen Schwester, die Frau Obristlieutnant v. <persName key="ed_hdw_4cl_w2b">Aschersleben</persName> als Universalerbin ungetrennt für sich. Sollte
+                    diese Dame aber einmal mit Tode abgehen, dann würden ihre Güter wahrscheinlich
+                    zur Lizitation kommen. Da der Müller <unclear reason="illegible" cert="low">Manradt</unclear> auf Ostern 1791 aus <placeName key="ed_ypr_tzz_ncb">Laserkeim</placeName> abzieht, so muss es sich bei der Arrende-Abnahme
+                    finden, wie er hausgehalten und was er etwa an Defekten beim Inventario und an
+                    dem Gutsgebäude der Herrschaft zu erstatten schuldig. Solange habe ich soviel
+                    möglich auf seine Wirtschaft gesehen, werde ihn besonders gegen das Ende seiner
+                    Arrende nicht außer Acht lassen. </p>
+                <p>Die Spekulation mit dem Transport der weißen Erbsen zum Verkauf in <placeName key="ed_xrv_gwb_by">Berlin</placeName> ist zwar sehr anschaulich, aber nicht
+                    ausführbar, denn es waren um die Zeit Ew. Hochgeboren letzten Schreibens keine
+                    Stettinsche Schiffe mehr hier. <note type="editorial">Für einen so kleinen
+                        Transport konnte man kein eigenes Schiff mit Vorteil beladen, zudem ließ die
+                        Jahreszeit befürchten, dass das Schiff auf dem Weg einfriert oder wenigstens
+                        der Transport erschwert würde, was statt Profit Schulden erzeugt hätte.
+                    </note> Hinzu kommt, dass nach den hiesigen Handlungsgesetzen niemand außer
+                    einem hiesigen zünftigen Kaufmann es füglich wagen darf, unmittelbar
+                    Getreidehandel nach anderen Städten zu treiben, sondern, wenn wir diese Geschäft
+                    hätten abmachen wollen, so hätten wir uns mit einem hiesigen Handlungshause
+                    zusammentun müssen, dem wir einige Prozent hätten zugestehn oder mit ihm
+                    gemeinschaftliche Sache auf Schaden und Gewinn machen müssen. Ich habe alles
+                    gründlich überlegt, und von allem genaue Nachricht eingezogen. </p>
+                <p>
+               <note type="editorial">Die Kosten für die zu zahlenden Zölle und Abgaben, der
+                        Transport von <placeName key="ed_sxm_51z_bz">Stettin</placeName> nach Berlin
+                        hätte bei einem Preis von 4 Rtlr./Scheffel immer noch eine guten Profit
+                        abgeworfen, da aber kein Schiffsraum zu bekommen war, habe er <quote>diese
+                            an sich schöne Spekulation aufgegeben</quote>. </note>
+            </p>
+                <p>So groß der Getreide-Segen dieses Jahr in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> ist, so niedrig sind auch gegenwärtig die
+                    Getreidepreise. Denn der Weizen gilt nur 1 Rtlr., 45 Gr., der Roggen 85 Gr., die
+                    Gerste 78 Gr., der Haber 45 Gr. und die Erbsen 81 Gr. bis 1 Rtlr., zu verstehn
+                    auf den Konsumtionsmärkten; sollte es bei diesen geringen Preisen bleiben, so
+                    ist dies Jahr für den Ackerbau nicht besser als das vorige.</p>
+                <p>Im <placeName key="ed_dxb_zdf_4y">Sandittenschen</placeName> Prozess <note type="editorial">liegen die Unterlagen zur Revision beim <orgName key="ed_vh2_hdl_w2b">Ober-Tribunal</orgName> in Berlin zur
+                        Entscheidung</note> und wenn Ew. Hochgeboren sich von der Lage der Sache zu
+                    informieren geruhen wollen, so muss ich es Hochdenenselben untertänigst
+                    anheimstellen, die von mir ausgefertigte letzte Deduktion bei den Akten
+                    nachzusehen, worinnen ich hinlänglich erwiesen zu haben glaube, dass die
+                    Sandittenschen Güter nach der Intention der nächsten Lehnsagnaten in Beziehung
+                    auf die einigen Familieninteressenten, die an den geschlossenen Verträgen Anteil
+                    genommen, wirklich allodifiziert sind. Diese Rechtsvergleichung hat das Glück
+                    gehabt, hier allgemeinen Beifall zu finden, ich wünsche, dass solche beim
+                    Ober-Tribunal gewünschten Effekt machen möge. </p>
+                <p>Die verwitwete Frau <persName key="ed_asd_mdl_w2b">Majorin
+                        Schlieben-Gerdauen</persName> habe ich gebeten, erwähnte Rechtsverteidigung
+                    Ew. Hochgeboren von hier zu überschicken, weil das Konzept dieser Schrift mit
+                    meinen Manual-Akten mit ans Ober-Tribunal eingeschickt werden müssen. <gap reason="insignificant"/>
+                </p>
+                <p>Ich wünschte sehr, dass Ew. Hochgeboren etwas zum Vorteil meines Konstituenten
+                    ausrichten möchten, welches alsdann aber auch bald geschehen müsste, weil die
+                    Akten wahrscheinlich beim Ober-Tribunal zum Spruch vorgelegt sein werden.</p>
+                <p>Zum Beschluss des alten und Antritt des neuen Jahres wünsche ich alles hohe
+                    Wohlergehen und habe die Ehre mit allem Respekt zu beharren </p>
+				        <closer>
+					          <salute>Ew. Hochgeboren ganz untertänigster Knecht</salute>
+					          <signed>Schmidt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

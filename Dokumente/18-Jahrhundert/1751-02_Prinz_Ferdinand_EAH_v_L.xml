@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_e4v_kvq_bz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von Lehndorff.
+                    Ruppin, im Februar 1751</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_e4v_kvq_bz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750-1804), in: Masovia 11 (1906), S. 118-154, hier S. 122
+                            f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <placeName key="ed_uxr_bxq_bz">Ruppin</placeName>
+                    <date notBefore="1751-02-01" notAfter="1751-02-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Ruppin, Februar 1751</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/> Ich bin überzeugt, dass niemand in <placeName key="ed_xrv_gwb_by">Berlin</placeName> besseren Geschmack hat als Sie, und
+                    deshalb nehme ich mir die Freiheit, Ihnen 260 Tlr. zu übersenden mit der Bitte,
+                    mir dafür eine goldene Dose zu kaufen. <gap reason="insignificant"/> Haben Sie
+                    die Güte, sie bei <seg type="comment">
+                  <orig>
+                     <persName key="ed_y3b_dzx_bz">Gotzkowski</persName>
+                  </orig>
+                        <note xml:id="nf2q_qsx_bz">Der Berliner Großkaufmann Gotzkowski hatte sein
+                            Geschäft in der Brüderstraße. </note>
+                    </seg> zu kaufen und mir mit der ersten Hamburger Post zu übersenden. <gap reason="insignificant"/> Wenn man sich meiner bei <seg type="comment">
+                  <orig>
+                     <persName key="ed_jkj_gzx_bz">Mylord</persName>
+                  </orig>
+                  <note xml:id="nzdl_wsx_bz">Wahrscheinlich der französische Gesandte Mylord
+                            Tyrconnel.</note>
+               </seg> erinnert, sagen Sie ihm meine Empfehlungen,
+                    ebenso <persName key="ed_wsj_21y_bz">Lamberg</persName>, <persName key="ed_j2j_mzx_bz">Düben</persName> etc., kurz allen, aus denen die <seg type="comment">
+                  <orig>fröhliche Schar</orig>
+                  <note xml:id="nmtj_wvw_22b">Bande
+                            joïeuse</note>
+               </seg> besteht, in deren erster Reihe Sie stehen. </p>
+            <p>Die Sterblichkeit des Rindviehs und das Tauwetter sind unsere gewöhnlichen
+                    Themata; urteilen Sie selbst, ob die Unterhaltung belebt sein wird oder nicht.
+                    Glauben Sie schließlich nicht, dass jene Dose für eine Schöne dieses entfernten
+                    Landes bestimmt ist, der ich sie schicken will. Leben Sie wohl, lieber Graf, ich
+                    drücke Sie im Geiste an mein Herz <gap reason="insignificant"/>
+            </p>
+				        <closer>
+					          <salute>Ihr sehr wohlgesinnter Freund</salute>
+					          <signed>F.</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

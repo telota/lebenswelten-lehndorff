@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_yzh_r55_2cb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sophie Gräfin von Kalnein an Georg Heino Freiherr von Münchhausen. Graditz b.
+                    Torgau, 30. August 1944</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_yzh_r55_2cb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Widerstand 1944</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>BArch Freiburg</institution>
+                        <idno>N 813-3</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_vdw_kfv_sdb">Kalnein, Sophie Gräfin von, geb. Gräfin von
+                        Boddien (1889-)</persName>
+                    <placeName key="ed_v2c_gc1_fy">Graditz</placeName>
+                    <date when="1944-08-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_pfc_jt5_zdb">Münchhausen, Georg Heino Freiherr von
+                        (1903-1974)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Graditz Torgau Land, den 30.8.44</dateline>
+					          <salute>Sehr geehrter Herr von Münchhausen,</salute>
+                </opener>
+				        <p>Mein <seg type="comment">
+                  <orig>Mann</orig>
+                  <note xml:id="nlsc_vfv_sdb">Sie war in zweiter Ehe
+                            mit Hans Joachim von <persName key="ed_izm_p5z_zdb">Mellenthin</persName> verheiratet.</note>
+               </seg> brachte gestern aus
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> durch Frau von Mellenthin
+                    Ihre Adresse mit und so möchte ich Ihnen Nachricht von uns und unserer <seg type="comment">
+                  <orig>Tochter</orig>
+                  <note xml:id="nxgc_n2j_mfb">
+                     <persName key="ed_y31_rl1_dy">Gottliebe von Lehndorff</persName>
+                  </note>
+               </seg>
+                    geben. Das Päckchen mit den Fahrradutensilien ist in <placeName key="ed_lfy_1gv_sdb">Conow</placeName> angekommen.</p>
+                <p>Wir haben sehr sehr schwere Wochen gehabt. Unsere Tochter hat in <placeName key="ed_ks5_fhg_2z">Torgau</placeName> im Krankenhaus, wo sie in Schutzhaft
+                    war, am 15. d. M. einem kleinen <persName key="ed_j5p_1xk_5cb">Mädelchen</persName> das Leben geschenkt, sie und auch das Kindchen sind
+                    wohlauf. Am Freitag den 25. wurde sie dort entlassen und konnte zu uns zurück.
+                        <seg type="comment">
+                  <orig>Am Samstag wurden uns plötzlich die 3 kleinen
+                            Mädelchens fort genommen</orig>
+                  <note xml:id="nuq5_r2j_mfb">Vgl. Vollmer,
+                            Doppellleben.</note>
+               </seg> und in ein Kinderheim gebracht, wohin wissen
+                    wir nicht. Am Montag den 28. wurde Mausi wieder mit dem Kindchen abgeholt und
+                    ist auch in ein „Entbindungsheim‟ gekommen. Es soll ihr aber gut gehen,
+                    wenigstens soll sie sehr gut untergebracht sein. Mir brach beinah das Herz. Mein
+                    Mann versucht seit Tagen alles Erdenkliche. Gestern hat er auch einen Adjutanten
+                    vom Reichsführer gesprochen, der bei uns auf unserem kleinen Gut wohnt, und der
+                    ihm nun versicherte, dass Mausi und auch die Kinder wieder zurückkommen, was der
+                    Reichsführer selbst angeordnet hätte. Wir warten nun stündlich auf diese
+                    Nachricht, sie wieder bei uns zu haben. Ich selbst war ja zuerst mit Mausi in
+                    Torgau in Schutzhaft (im Gefängnis), Mausi kam nach ein paar Tagen ins
+                    Krankenhaus und ich blieb 8 Tage dort. Das <seg type="comment">
+                  <orig>
+                     <persName key="ed_eq5_1t1_dy">Heini</persName>
+                  </orig>
+                  <note xml:id="nbch_3gv_sdb">Heinrich von Lehndorff</note>
+               </seg> gegriffen
+                    worden ist, werden Sie ja wissen. Wir dürfen nur nicht die Nerven verlieren und
+                    müssen unbedingt standhaft bleiben. Ich war in großer Sorge auch um meinen Mann,
+                    der vollkommen gebrochen war.</p>
+                <p>Nun wollte ich Sie bitten, ob irgend eine Möglichkeit besteht, einige Koffer von
+                    Mausi zu bekommen, sie hat hier kaum Sachen. Wir könnten sie ja abholen lassen,
+                    falls ein Schicken nicht möglich ist. Wir hörten, dass am 15.9. die Sperre auf
+                    35 km herabgesetzt wird, und dann kann ich niemanden mehr schicken. Würden Sie
+                    mir bitte Nachricht geben, evtl. an meinen Mann, Mausi hat keine Post mehr
+                    bekommen, doch jetzt sind wir hier wieder frei. Mausi darf nicht schreiben. <seg type="comment">
+                  <orig>Ihr Herr Vater hat einmal bei uns angerufen und schrieb
+                            mein Mann vor ein paar Tagen an ihn einen Brief, da wir nichts von Ihnen
+                            hörten.</orig>
+                  <note xml:id="nccl_rw5_2cb">Ein Antwortbrief sowie eine
+                            Kofferliste (27 Gepäckstücke) liegen der Akte bei. Demnach hatte
+                            Münchhausen beim Wechsel seines Standortes bereits Sachen mitgenommen,
+                            dazu dessen zweiter Teil des Tagebuchs<ref target="lehndorff_usp_px5_2cb">.</ref>
+                        </note>
+               </seg>
+            </p>
+				        <closer>
+                    <salute>Mit den besten Grüßen auch von meinem Mann bin ich Ihre</salute>
+                    <signed>Sophie v. Kalnein </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_wwp_25n_4bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Konsistorialassessor Dr. Benn an den Evangelischen Oberkirchenrat.
+                    Königsberg, den 1. Juni 1927</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_wwp_25n_4bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>EZA</institution>
+                        <idno>Bestand 7, Nr. 19201, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_f13_5kv_ccb">Benn, Dr. (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1927-06-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_v1l_xkv_ccb">Evangelischer Oberkirchenrat</orgName>
+                </correspAction>
+                <note>Auch die Kirche in <placeName key="ed_bxm_sxb_5bb">Doben</placeName> war am
+                    Beginn der 1920er Jahre baufällig. Beiden Kirchen, Rosengarten und Doben, waren
+                    1919 1.000 M zur Instandsetzung aus dem Kollektenfonds der
+                    Provinzialsynodalkasse überwiesen worden. Im Juli 1920 teilte Graf <persName key="ed_phk_z14_zdb">Schenk zu Tautenburg</persName> als Majoratsherr von
+                    Doben dem Gemeindekirchenrat in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> mit, dass er Hand- und Spanndienste für die
+                    Reparatur für Frühjahr/Sommer 1921 ablehnen müsse, da die Wirtschaft darunter
+                    leide. Er habe seinerzeit eine Beihilfe in Aussicht gestellt unter der Bedingung
+                    einer sofortigen Instandsetzung, die nicht erfolgt sei. EZA, Bestand 507, Nr.
+                    2036, n. f. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 1. Juni 1927</dateline>
+					          <salute>Betrifft: Gesuch der<orgName key="ed_qhc_jkv_ccb"> Kirchengemeinde
+                            Rosengarten</orgName>, Kirchenkreis Angerburg, Regierungsbezirk
+                        Gumbinnen, um Bewilligung einer Beihilfe zur Instandsetzung des
+                        Kirchengebäudes und der Orgel. Ohne Erlass <lb/>Berichterstatter:
+                        Konsistorialassessor Dr. <persName key="ed_f13_5kv_ccb">Benn</persName>
+               </salute>
+                </opener>
+				        <p/>
+                <p>Die Kirche der kleinen unter Privatpatronat stehenden Kirchengemeinde <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> ist im Jahre 1827 erbaut. Die
+                    Gemeinde feiert im August d. Js. das Fest des hundertjährigen Bestehens der
+                    Kirche. Sie hat den Wunsch, aus diesem Anlass das Gebäude wieder würdig
+                    herzurichten.</p>
+                <p>Gebäude und Einrichtung zeigen einmal Schäden, deren Beseitigung ohne Frage
+                    notwendig ist. Es sind eine Reihe von kleineren Reparaturen auszuführen
+                    (Ausbessern des Außenputzes, Einbau von Windfangtüren), deren Kosten ohne den
+                    nicht nennenswerten Patronatsbeitrag rund 1.000 RM betragen werden; die
+                    Patronatsbeitragspflicht hat nur die Lieferung gewisser Materialien zum Inhalt.
+                    Eine erheblich höhere Ausgabe steht der Gemeinde dadurch bevor, dass die Orgel
+                    einer sehr umfangreichen Instandsetzung bedarf. Die Kosten hierfür werden nach
+                    dem uns vorliegenden, von dem staatlichen Orgelrevisor geprüften Anschlag 4.328
+                    RM betragen. Das Instrument ist in seinem derzeitigen Zustand derart schadhaft,
+                    dass es ständig zu Störungen des Gottesdienstes führt.</p>
+                <p>Die weiteren Pläne der Gemeinde gehen dahin, die Ausmalung des Inneren zu
+                    erneuern und die schadhafte Ofenheizung durch eine Luftheizung zu ersetzen.
+                    Hierdurch würden weitere Kosten im Beitrag von 6.000 RM (für die Ausmalung) und
+                    2.000 RM (für die Heizung) entstehen. Beide Vorhaben hängen insofern zusammen,
+                    als bei Erneuerung der Ausmalung die der Heizung notwendig ist, da die
+                    Ofenheizung in kurzer Zeit zu einer Verschmutzung des Gebäudes führen würde.
+                    Nach dem Urteil des Provinzialkonservators ist die Erneuerung der Ausmalung vom
+                    Standpunkt der Denkmalpflege sehr erwünscht und unter diesem Gesichtspunkt
+                    namentlich zu fordern, dass sie in künstlerischer Weise ausgeführt wird, was die
+                    angegebenen erheblichen Kosten zur Folge hat. Für die Erhaltung des Gebäudes
+                    dagegen ist sie ohne Frage nicht notwendig. Man kann sogar in diesem Falle nicht
+                    einmal sagen, dass der gegenwärtige Zustand des Gebäudes unwürdig sei. Es ist
+                    einfach geweißt und sauber gehalten. Wenn durch die Instandsetzung im Inneren
+                    auch die Ausmalung notwendig stellenweise in Mitleidenschaft gezogen wird, so
+                    kann dies doch wieder durch einfachen Anstrich behoben werden. Wir werden daher
+                    der Gemeinde zwar selbstverständlich, was die Erneuerung der Ausmalung und der
+                    Heizung betrifft, insofern unsere Unterstützung gewähren, als es sich um die
+                    beabsichtigte Erwirkung einer staatlichen Unterstützung aus Mitteln der
+                    Denkmalpflege handelt. Ein entsprechender Antrag scheint nicht ohne Aussicht auf
+                    Erfolg zu sein, da jedenfalls die Regierung ihre Befürwortung in Aussicht
+                    gestellt hat. Eine Unterstützung der Gemeinde aus kirchlichen Mitteln glauben
+                    wird jedoch insoweit nicht befürworten zu können. </p>
+                <p>Endlich beabsichtigt die Gemeinde die Anschaffung zweier Ersatzkirchenglocken,
+                    die ihr jedoch voraussichtlich der Patron <persName key="ed_ik3_ckz_2y">Graf
+                        Lehndorff-Steinort</persName> schenken wird.</p>
+                <p>Wir bitten gehorsamst, die Gemeinde bei der Instandsetzung des Kirchengebäudes
+                    und der Orgel zu unterstützen. Den hierfür erforderlichen Betrag von insgesamt
+                    rund 5.300 RM allein aufzubringen, ist sie nicht in der Lage. Sie ist willig,
+                    2.000 RM aus etatsmäßigen Mitteln und durch Sammlungen aufzubringen. Es ist nach
+                    unserem Urteil nicht möglich, weitere Leistungen von ihr zu erwarten. Sie hat
+                    2.650 Seelen und hatte im letzten Rechnungsjahr ein Reichseinkommensteuersoll
+                    von 13.500 RM, wovon jedoch allein 10.000 RM auf den Kirchenpatron entfallen,
+                    und ein Grundvermögensteuersoll von 17.700 RM; die Kirchensteuerzuschläge
+                    betrugen 8 und 15 v. H., der etatsmäßige Fehlbetrag 3.800 RM. Da der Patron für
+                    die Kirchensteuer insoweit ausfällt, als er zur Beteiligung an den Baulasten
+                    speziell verpflichtet ist, würde die Aufbringung eines Beitrages von 2.000 RM
+                    allein durch Kirchensteuerzuschläge schon eine nicht tragbare Überlastung der
+                    übrigen Gemeinde bedeuten. Da der Patron sich voraussichtlich zur Stiftung
+                    zweier Glocken bereitfinden wird, kann man auch eine größere freiwillige
+                    Beteiligung an dem Bauvorhaben im übrigen von ihm nicht erwarten.</p>
+                <p>Eine Unterstützung der Gemeinde durch die Kirchenprovinz ist leider wegen
+                    Erschöpfung der Mittel nicht möglich. Wir befürworten daher die Bewilligung
+                    einer <seg type="comment">
+                  <orig>Beihilfe von 3.000 RM.</orig>
+                  <note xml:id="np2v_pxn_4bb">Die Beihilfe wurde am 30. Juni 1927 durch den
+                                <orgName key="ed_v1l_xkv_ccb">Evangelischen Oberkirchenrat</orgName>
+                            bewilligt. Zur Geschichte der Kirche:  Kalweit, Luise, Das
+                            hundertjährige Jubiläum der Kirche in Rosengarten, Kreis Angerburg
+                            (Ostpr.), Der Reichsbote vom 28. März 1928 (in der Akte).</note>
+               </seg>
+                    den verbleibenden Betrag von rund 300 RM wird die Gemeinde noch aufbringen
+                    können.</p>
+				        <closer>
+                    <signed>Benn</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

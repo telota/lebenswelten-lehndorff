@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ud5_njw_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Emil Karl Ferdinand Graf von Kanitz an Anna Gräfin von Lehndorff. Podangen,
+                    2. Dezember 1874</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ud5_njw_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 461, Bl. 8-9v</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_tyw_n1q_f2b">Kanitz-Podangen, Emil Karl Ferdinand Graf von
+                        (1807-1877)</persName>
+                    <placeName key="ed_p25_g1q_f2b">Podangen</placeName>
+                    <date when="1874-12-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Kanitz hielt ein solides finanzielles Fundament für die Kernfrage, ohne das
+                    man weder vor den Kaiser treten, noch die Statuten beraten könnte. Das
+                    Kuratorium müsse <quote>dem alten Adel der Provinz</quote> angehören, also durch
+                        <quote>Standesinteressen den Interessen der Stiftung verbunden</quote> sein.
+                    Voraussetzung für eine Unterstützung durch den Johanniter-Orden sei, so Kanitz,
+                    dass Graf Dohna-Schlobitten als Kommendator des Ordens <quote>überhaupt
+                        geneigt</quote> sei, <quote>die Stiftung mit seinem Einfluss und seinen
+                        Mittel zu befördern</quote>. Sein Amt, sein Alter und seine Gesundheit
+                    ließen keine weiteren Pflichten, schon gar nicht die Leitung des Unternehmens,
+                    die Anna ihm antragen wollte, zu, vgl. den Brief vom 15. Dezember 1874 (Bl.
+                    6-7v).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/461/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Podangen 2. Dezbr. 74</dateline>
+                    <salute>Hochverehrte gnädige Gräfin!</salute>
+                </opener>
+                <p>Vor einigen Tagen aus <placeName key="ed_bql_l5b_ycb">Karlsbad</placeName>
+                    zurückgekehrt, erhielt ich bald darauf Ihr sehr gütiges Schreiben vom 28. Novbr.
+                    und freue mich aufrichtig, dass Ihre wohltätigen Pläne durch überraschend große
+                    Geldzuwendungen ihrer Ausführung näher rücken. 40.000 Rtlr. sind für den Anfang
+                    eine erhebliche Summe, obwohl zum Ankauf eines geeigneten Güterkomplexes noch
+                    viel fehlen möchte; der günstige Anfang lässt aber hoffen, dass das Kapital auch
+                    ferner rasch anwachsen wird, zumal ich anrechne, dass die 80 Gönner der Stiftung
+                    noch lange nicht alle ihre Beiträge gezahlt haben werden. Was mich betrifft, so
+                    bin ich nicht reich und habe für die weiblichen Glieder meiner Familie zwei
+                    Kanitzsche und das Tettausche Fräuleinstift zur Disposition; ich will aber, um
+                    den guten Zweck zu fördern, mich gern verpflichten, 1.000 Rtlr. Ihrer Stiftung
+                    zuzuwenden, die ich in 4 Jahresraten von je 250 Rtlr. zahlen werde. <seg type="comment">
+                  <orig>Die Kosten, die heutzutage die Erziehung und
+                            Unterhaltung von 12 Kindern veranlassen, hindern mich mehr zu
+                            tun.</orig>
+                  <note xml:id="nggc_qkw_fdb">Siehe auch den Brief vom 5.
+                            Dezember 1874, Bl. 6-7v.</note>
+               </seg>
+            </p>
+                <p>Was nun die Anlegung der eingehenden Kapitalien betrifft, so macht es nicht die
+                    geringste Schwierigkeit und scheint mir auch das passendste, dass Sie, gnädige
+                    Frau Gräfin, dieselben bis dahin, wo die Stiftung ins Leben tritt, auf <hi rendition="#u">Ihren</hi> Namen bei der <orgName key="ed_kgc_v1q_f2b">landschaftlichen Darlehens-Kasse</orgName> zinsbar anlegen, resp. dafür
+                    Ostpreußische Pfandbriefe ankaufen lassen und sie dort deponieren, und es macht
+                    das nur unerhebliche Kosten und ist jedenfalls das Einfachste und Natürlichste.
+                    Die Gelder auf <hi rendition="#u">meinen</hi> Namen bei der genannten Kasse
+                    niederzulegen, wie Sie, gnädigste Gräfin vorschlagen, möchte sich schon deshalb
+                    nicht empfehlen, weil ich ein alter Mann bin und sehr bald abgerufen werden
+                    kann, und dann Verwickelungen entstehen könnten, die man vermeiden muss. Die
+                    Allerhöchste Bestätigung sowie die Anerkennung der Stiftung als juristische
+                    Person möchte noch Jahre brauchen und bei meiner in neuerer Zeit
+                    hervorgetretenen Kränklichkeit möchte ich sie vielleicht nicht mehr erleben. </p>
+                <p>Mit Vergnügen will ich den Herrn von <persName key="ed_udb_tmg_ccb">Tettau-Tolksdorf</persName> und den Grafen <persName key="ed_or1_wpl_f2b">Dohna-Schlobitten</persName> für die Stiftung zu interessieren suchen,
+                    obwohl ich bei beiden auf starken Widerstand stoßen werde. Sie erkennen wohl das
+                    Bedürfnis einer ähnlichen Stiftung an, sehen aber in der Ausführung des
+                    allerdings etwas komplizierten Planes unübersteigliche Schwierigkeiten, und dass
+                    dieselben nicht gering anzuschlagen sind, muss ich selbst zugeben. Wo findet
+                    sich namentlich die Persönlichkeit, die, nachdem die nötigen Kapitalien
+                    angesammelt sind, die ganze Sache in die Hand nimmt, den Gutsankauf besorgt, die
+                    nötigen häuslichen Einrichtungen für die Stiftsfräulein macht, die äußere
+                    Wirtschaft danach ordnet, den Bau des Krankenhauses überwacht - kurz alles das
+                    ausführt, was der Fertigstellung der Stiftung vorangehen muss. Dazu gehört eine
+                    junge, ungewöhnlich tüchtige Kraft, die auch bereit ist, eine große
+                    Verantwortlichkeit zu übernehmen, und wenn ich mich unter allen meinen Bekannten
+                    umsehe, so wüsste ich in der Tat <hi rendition="#u">keinen</hi>, den ich dazu in
+                    Vorschlag bringen möchte - es sei denn, dass Ihr Herr <persName key="ed_zkm_whl_2y">Gemahl</persName> sich dazu bereit finden ließe, dessen
+                    Umsicht, Geschäftskenntnis und Tatkraft von Ihnen, gnädigste Gräfin,
+                    unterstützt, wohl ausreichen dürfte, das Unternehmen bis zu einem gewissen
+                    Abschluss zu fördern. Mich selbst würde ich, selbst wenn ich 20 Jahre jünger
+                    wäre, für dieses Amt <hi rendition="#u">nicht</hi> in Vorschlag bringen, weil
+                    ich die dazu nötigen Eigenschaften nicht besitze. Möglich, dass die von Ihnen
+                    vorgeschlagene und gewiss auch notwendige Versammlung der Teilnehmer der
+                    Stiftung, die das Statut fortsetzen und den Guts-Antrag etc. beschließen soll,
+                    eine qualifizierte Person für die geschickte Ausführung ermittelt; sollte dem
+                    aber nicht so sein, <seg type="comment">
+                  <orig>so musste ich immer wieder auf
+                                <gap unit="pages" quantity="1" reason="lost"/>
+                        </orig>
+                  <note xml:id="nlkw_cpz_kfb">Das Ende des Briefes
+                    fehlt.</note>
+               </seg>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

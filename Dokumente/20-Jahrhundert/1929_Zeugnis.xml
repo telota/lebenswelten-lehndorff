@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_nzw_3ml_xdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zeugnis der Klosterschule Roßleben. Frühjahr 1929</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_nzw_3ml_xdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution>GDW</institution>
+                        <idno>aus: Archiv der Klosterschule Roßleben (Kopie)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_y2j_yll_xdb">Rossleben</placeName>
+                <date notBefore="1929-04-01" notAfter="1929-05-01" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <persName key="ed_eq5_1t1_dy">Heinrich Graf Lehndorff</persName>.</p>
+                <p>Er kam, nachdem seine Erziehung durch mancherlei Hände gegangen war, in U III zu
+                    uns. Er erwies sich als ein mindestens durchschnittlich begabter Schüler. Seine
+                    Schulpflichten erfüllte er unregelmäßig. Er war lange Zeit im Verhältnis zu
+                    seinen Altersgenossen unreif, tollpatschig, poltrig, naiv. Er erliegt leicht
+                    jedem Einfluss. Er ist voll guter Vorsätze, aber schwach im Halten. Lebensfroh,
+                    sorglos, unbekümmert lebt er in den Tag hinein. Er lässt sich leicht verführen
+                    und war bis zu seiner Zurückstellung von der Reifeprüfung (Ostern 1929) bei
+                    jedem dummen Streich dabei.</p>
+                <p>Trotz durchaus genügender Begabung hat er keine höheren Interessen. Er ist ein
+                    Mensch, der nicht mit Problemen ringt. Er ist ein Landkind, liebt das Land, die
+                    Landwirtschaft, die Tiere, das Jagen und das Reiten.</p>
+                <p>Er zeigt Interesse für jeden Sport und leistet darin Achtbares.</p>
+                <p>In der Oberprima brachte er im ersten Jahr nicht den nötigen Fleiß und Ernst auf,
+                    um das zur Zulassung zur Reifeprüfung notwendige Maß von Können aufzuweisen. Er
+                    musste Ostern 29 zurückgestellt werden. Diese Zurückstellung hatte einen
+                    heilsamen Einfluss. Er hat sich im letzten Jahr zu größerer Reife entwickelt,
+                    die auch in seinen Schularbeiten zum Ausdruck kommt, so dass er in allen Fächern
+                    Genügendes und Besseres leistet. Auch dass man ihn seiner mangelnden
+                    Selbstdisziplin wegen nicht für würdig hielt, Alumnatsinspektor zu werden, ihn
+                    dadurch also jüngeren Schülern unterordnete, hat ihn zu einer gewissen
+                    Selbstbesinnung geführt, wenn auch sein Stolz etwas leidet und manchmal eine
+                    oppositionelle Einstellung im Alumnat fühlbar wird.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

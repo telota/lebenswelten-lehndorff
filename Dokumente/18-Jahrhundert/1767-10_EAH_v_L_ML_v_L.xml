@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cl1_gyf_4bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an seine Mutter Maria Louisa.
+                    Berlin, nach dem 2. Oktober und vor dem 22. November 1767</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cl1_gyf_4bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 387, Bl. 236-237</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date notBefore="1767-10-10" notAfter="1767-11-22" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q4s_xyl_2y">Lehndorff, Luise Marie Gräfin von, geb. Gräfin von
+                        Wallenrodt (Ragnit, 12.10.1697-Ragnit, 12.11.1776)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Hochwohlgeborene Frau <lb/>Hochzuehrende, sehr gnädige und innigst
+                        geliebteste Mama!</salute>
+                </opener>
+				        <p>So unendlich erfreulich und angenehm meiner über alles verehrungswürdigen gnädigen Mama
+                    Schreiben mir gewesen, so sehr bin ich betrübt, dass meine sehr vortreffliche
+                    Mutter kein Schreiben von mir erhalten. Ich war kaum hier angekommen, als ich
+                    sogleich meiner sehr gnädigen Mama einen Brief von 4 Seiten geschrieben, vom 2.
+                    Oktober datiert, worinnen ich Ihnen allerbeste Nachrichten gab. Seit der Zeit
+                    bin ich recht herzlich betrübt gewesen, keine Nachricht von meiner unschätzbar
+                    gnädigen Mama zu erhalten. Ich habe mich sehr öfters nach meiner gnädigen Mama
+                    bei dem Graf <persName key="ed_wj2_wx3_tdb">Schlippenbach</persName> erkundigt
+                    und ich war heute im Begriff, wiederum an meine vortreffliche gnädige Mama zu
+                    schreiben und mich nach Dero Wohlbefinden zu erkundigen. Mein Herz ist Ihnen so
+                    zärtlich verbunden, dass ich gewiss nicht so lange gewartet hätte, Ihnen meine
+                    ewige Verehrung zu versichern. Ich kann mich gar nicht darüber zufrieden geben,
+                    dass meine gnädige Mama nicht mein Schreiben erhalten. Da muss was dahinter
+                    sein, was wir mit der Zeit wohl entdecken werden, denn der Brief ist richtig auf
+                    die Post gegeben worden. <seg type="comment">
+                  <orig>Mein Seelenschmerz ist immer
+                            derselbe, als er vor 5 Viertel Jahr war.</orig>
+                  <note xml:id="nvmp_2mw_scb">Zu dessen Verhältnis zu Prinz Heinrich:
+                            Schmidt-Lötzen, Nachträge, Bd. 1, Gotha 1910, u. a. S. 4, 34, 38 und 54
+                            (8. Dezember1752, 21. August, 1. Oktober 1753, Oktober 1754). Im August
+                            hatte ihn jemand beim Prinzen verleumdet, ebd., S. 52 (2. August
+                            1754).</note>
+               </seg> Mein einziger Trost, so ich noch aus dieser Welt
+                    habe, ist das gnädige Wohlwollen meiner über alles geliebtesten Mama und das
+                    Vergnügen, öfters Nachricht von Denenselben zu erhalten. Gott wird es Ihnen
+                    tausendfältig vergelten, was Sie für einen Sohn tun, der Ihnen über alles in der
+                    Welt liebt. </p>
+                <p>Ich bin so sehr bestürzt, dass meine sehr gnädige Mama mein Schreiben nicht
+                    erhalten, dass ich mir es zur Gnade erbitte, mir meinen jetzigen Brief wiederum
+                    zurückzuschicken, weilen ich Ihnen alsdann mit desto aufrichtigerem Herzen die
+                    Punkte beantworten kann, worüber Sie mich befragen. <seg type="comment">
+                  <orig>Die Gräfin <persName key="ed_rhh_m3w_scb">Schlippenbach</persName> ist bei allen Feten mit gewesen und sieht
+                            recht sehr gut aus.</orig>
+                  <note xml:id="nvtb_fjw_scb">Sie war die
+                            Schwester von Marie von <persName key="ed_v52_qng_vz">Haeseler</persName>, mit der Lehndorff 1758 seine zweite Ehe
+                            einging. Sie verstarb 1766. Weniger Jahre später heiratete Lehndorff
+                            erneut.</note>
+               </seg> Ihre Gesundheit scheint vollkommen zu sein.
+                    Vornehmlich finde ich, dass sie immer allhier in <placeName key="ed_xrv_gwb_by">Berlin</placeName> am vergnügtesten ist. Sie hatte den Hochzeitstag eine
+                    ganz neue Robe vom <unclear reason="illegible" cert="high">gleichen</unclear>
+                    Stoff, so meine gnädige Mama mitgegeben, einen gelblich changeanten Grund mit
+                    Silber. Der Graf hatte sich lassen zwei neue Kleider machen, ein braunsamtenes
+                    mit goldenen pondespagner und ein grau Kleid mit silbermoire Weste mit Silber,
+                    Rock und Weste bondiert. Die Gräfin hatte auch einen neuen Domino, gelb mit
+                    Antolagen und Blumen garniert. Ich hoffe, meine gnädige Mama werden mich nicht
+                    nennen, weilen ich Ihnen sonsten keine Nachrichten mehr geben könnte. </p>
+                <p>Ich fürchte immer, dass der liebe Graf die Güter zu teuer angenommen hat, umso
+                    viel mehr, da die Einkünfte der Güter sehr fallen. </p>
+                <p>Man hat sehr viel Redens von der großen Generosität des <persName key="ed_skm_yrc_tcb">Prinzen von Oranien</persName> gemacht, und als es zum
+                    Klappen kam, hat er wenig gegeben. Ich habe nichts bekommen, und es ist sehr
+                    vielen ebenso gegangen. Bis dato ist alles, was den Krieg anbelangt, still und
+                    haben wir nichts zu befürchten. </p>
+                <p>Der General <persName key="ed_pm4_bw3_tcb">Saldern</persName> heiratet die
+                    Fräulein <persName key="ed_krb_dw3_tcb">Borcke</persName>, Schwester seiner
+                    seligen Frau und Hofdame bei der <persName key="ed_bwq_lzl_2y">Königin</persName>. <seg type="comment">
+                  <orig>Die Hochzeit wird aber nicht
+                            bei Hof sein, sondern bei ihrer Schwester, so den Oberstleutnant
+                                <persName key="ed_ull_gw3_tcb">Kalckstein</persName> geheiratet und
+                            in Nauen in Garnison steht.</orig>
+                  <note xml:id="ngdc_c21_vdb">Saldern
+                            war dreimal verheiratet. Seine zweite Ehefrau war Wilhelmine von Borcke, Tochter des hessischen Ministers Friedrich Wilhelm von Borcke. Das
+                            Paar heiratete am 5. Januar 1763. Nach ihrem Tod heiratete er am 22.
+                            November 1767 ihre Schwester Helene Bernhardine von Borcke .
+                        </note>
+               </seg> Der Hofmarschall <persName key="ed_kmc_3bh_2z">Voss</persName>
+                    ist gänzlich in Ungnade bei der <persName key="ed_bwq_lzl_2y">Königin</persName>
+                    und kommt gar nicht mehr bei Hof. Man glaubt <gap unit="pages" quantity="1" reason="lost"/>
+                </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

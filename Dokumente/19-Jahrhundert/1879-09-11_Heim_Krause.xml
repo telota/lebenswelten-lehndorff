@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_fq5_n2y_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ludwig Heim an die X. Bauinspektion des Berliner Magistrats. Berlin, 11.
+                    September 1879</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_fq5_n2y_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LA Berlin</institution>
+                    <idno>A Rep. 010-01-02, Nr. 2573, n. f.</idno> 
+               </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yp2_hfm_gbb">Heim, (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1879-09-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_v3n_jfm_gbb">Bauinspektion des Magistrats zu Berlin</orgName>
+                </correspAction>
+                <note>Krause setzte handschriftlich dazu, dass Heim in mündlicher Rücksprache
+                    erklärt habe, dass der Graf lediglich keine Kosten haben wolle und beanspruche,
+                    dass der Zaun wieder aufgerichtet werde. Siehe auch das Dokument vom <ref target="lehndorff_ib2_pzx_pz">28. Juni 1879</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Heim Baumeister W. Berlin Kurfürsten-Strasse 9 <lb/>Berlin, den 11.
+                        September 1879</dateline>
+                    <salute>An die X. Bauinspektion <lb/>hier<lb/>
+               </salute>
+                </opener>
+                <p>In Erwiderung der gefälligen Zuschrift vom 21. August c. teile ich ergebenst mit,
+                    dass ich am 9. huj. dem Herrn <persName key="ed_zkm_whl_2y">Grafen von
+                        Lehndorff</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> in der Angelegenheit Vortrag gehalten habe und
+                    derselbe sich damit einverstanden erklärt hat, dass dortseits eine Fläche bis zu
+                    400 Quadratruten zur Lagerung von Pflastermaterial benutzt werde unter der
+                    Bedingung meines Schreibens vom 12. August c. Auf dem <seg type="comment">
+                  <orig>anbei folgenden Plane</orig>
+                  <note xml:id="nxtz_tgy_pz">Der Plan
+                            des Lehndorffschen Grundstücks mit den angrenzenden Straßen und dem zur
+                            Verfügung gestellten Areal liegt der Akte bei.</note>
+               </seg> sind die zur
+                    Disposition gestellten Flächen charakterisiert, und wird zur Vermeidung von
+                    Unannehmlichkeiten wiederholt darauf aufmerksam gemacht, dass das mit <persName key="ed_hnc_qqs_g2b">Graf Pourtalès </persName>bezeichnete Terrain nicht dem
+                    Herrn Grafen von Lehndorff gehört. Es können jedoch nur die in meinem Schreiben
+                    vom 12. v. Mts. beschriebenen 100 Quadratruten bis 1. Juli 1880 garantiert
+                    werden, und muss für die übrigen 300 Quadratruten jederzeitiger Widerruf der
+                    erteilten Erlaubnis vorbehalten bleiben. </p>
+            <p>Es muss ferner,
+                    abgesehen von den Bedingungen meines Schreibens vom 12. v. Mts., verlangt
+                    werden, dass das vom Magistrat benutzte Terrain mit einer neuen dauerhaften
+                    Umzäunung versehen zurückgegeben wird, da in der beabsichtigten Benutzungsweise,
+                    wie es sich schon jetzt gezeigt, der gegenwärtige Zaun sehr beschädigt wird;
+                    auch muss für die Zeit der Benutzung auf der Linie a. b. des Platzes ein Bauzaun
+                    seitens des Magistrats gezogen werden. </p>
+            <p>Ich sehe der gefälligen Akzeptierung
+                    dieser Bedingungen wie der Bedingungen vom 12. August c. ergebenst entgegen.
+                    </p>
+            <p>Der Herr Graf von Lehndorff glaubt in dieser Proposition der X. Bauinspektion ein besonderes
+                    Entgegenkommen zu beweisen, indem zur pachtweisen Nutzung des qu. Terrains
+                    täglich sich Gelegenheit bietet und pro Quadratrute und Jahr 30 Mark und darüber
+                    offeriert werden.</p>
+                <closer>
+                    <salute>Hochachtungsvoll</salute>
+                    <signed>Heim</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

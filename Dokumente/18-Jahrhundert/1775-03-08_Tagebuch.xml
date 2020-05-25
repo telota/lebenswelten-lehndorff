@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_b5n_2xv_xdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Landkeim,
+                    8. März bis Herbst 1775</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_b5n_2xv_xdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">
+                    <p>Lehndorffs Mutter war am 12. Februar verstorben, vgl. Nachträge, Bd. 2, S.
+                        323. - Nach zahlreichen Besuchen kommt er im Oktober nach Steinort zurück,
+                        denn <quote>Tausenderlei Dinge müssen in Ordnung gebracht werden, da mein
+                            Haus und meine Güter mehrere Jahre lang vernachlässigt worden
+                            sind.</quote> Er stellt dafür einen <quote>guten Verwalter</quote> an;
+                        im September 1776 übergibt er die Verwaltung an den Amtmann in Barten,
+                            <persName key="ed_hjq_ttv_scb">Henrici</persName>, vgl. Schmidt-Lötzen,
+                        Karl Eduard, Des Reichsgrafen Ernst Ahasverus Heinrich Lehndorff Tagebücher
+                        nach seiner Kammerherrenzeit, Bd. 1, Gotha 1921, S. 3 und 33. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 2, Gotha 1913, S. 326 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <placeName key="ed_enz_4vz_g1b">Landkeim</placeName>
+                <date from="1775-03-08" to="1775-10-01" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <note type="editorial">In der Nacht war Lehndorff in <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> eingetroffen.</note> Es
+                    eröffnet sich jetzt für mich ein ganz neues Leben. Ich sehe, dass meine
+                    Angelegenheiten es erfordern, dass ich <placeName key="ed_xrv_gwb_by">Berlin</placeName> und den Hof verlasse, bin aber mit allem noch ganz im
+                    Unsicheren. Am folgenden Tage holt mich der Staatsminister <persName key="ed_zqm_ymf_hy">Schlieben</persName> von <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> ab, und wir reisen nachmittags nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. Dort halte ich mich acht Tage
+                    auf und mache die Bekanntschaft des Herrn <persName key="ed_m1z_pcv_1bb">Kirschkopp</persName>, den meine verstorbene Mutter als Sachverwalter für
+                    uns bestimmt hatte. Endlich reise ich auf abscheulichen Wegen nach <placeName key="ed_dxb_zdf_4y">Sanditten</placeName>, von da nach <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>, wo ich meinen <persName key="ed_k4z_jgl_2y">Sohn</persName> finde, worüber ich mich herzlich
+                    freue.</p>
+                <p>An einem Montag, noch im <hi rendition="#u">März</hi>, begebe ich mich nach
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Voll Wehmut lange ich
+                    an; es ist doch schmerzlich, den Wohnsitz seiner <persName key="ed_q4s_xyl_2y">Mutter</persName> wiederzusehen und sie da nicht mehr zu finden.
+                    Tausenderlei Geschäfte, die ich hier zu erledigen habe, steigern dieses Gefühl
+                    noch, kurz, ich sehe, dass hier wie überall im Leben Dornen an den Rosen sind.
+                    Ich brauche 6 Wochen, um mich über alles zu orientieren und zu informieren.</p>
+                <p>Im <hi rendition="#u">Mai</hi> begebe ich mich nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, um meine Angelegenheiten so gut
+                    als möglich in Ordnung zu bringen. Ich setze mich mit meinen Schwestern
+                    auseinander, wobei ich mich bald außer Atem schreien muss, um mit ihnen ins
+                    Reine zu kommen. </p>
+                <p>Während ich in Königsberg bin, bricht dort eine gewaltige Feuersbrunst aus, die
+                    über 180 Häuser einäschert. Ein furchtbareres Schauspiel habe ich in meinem
+                    Leben nicht gesehen. <seg type="comment">
+                  <orig>Wir waren alle bei <persName key="ed_c23_k3c_t2b">Saturgus</persName> eingeladen</orig>
+                  <note xml:id="nrlf_tg2_bfb">Kommerzienrat Friedrich Franz Saturgus. Ihn hatte
+                            Kant 1766 als Kustos seines berühmten Naturalien-Kabinetts gewonnen,
+                            vgl. GStA PK, XX. HA, Rep. 300 Mühlpfordt, Nr. 4: Mühlpfordt, Herbert
+                            Meinhard, Kant und sein Königsberger Freundeskreis ((Ms. des Vortrags in
+                            der Kantgesellschaft am 20. Oktober 1979 in Bonn). </note>
+               </seg> und
+                    wollten uns eben zu Tisch setzen, als man uns meldete, dass es brenne, aber
+                    außerhalb der Stadt, im Posthaus. Man ging dann ruhig zu Tisch, aber kaum waren
+                    wir beim ersten Gericht, da hatte das Feuer schon so gewaltige Fortschritte
+                    gemacht, dass die ganze Vorstadt in Flammen stand. Wir verließen die Tafel, und
+                    jeder kehrte, um sein Eigentum besorgt, nach Haus zurück. Die ganze Nacht
+                    verbrachten wir in größter Unruhe. Um 3 Uhr morgens legte ich mich endlich
+                    schlafen; um 7 Uhr weckte man mich aber von neuem mit der Meldung, dass unser
+                    Stadtviertel in Gefahr sei. Gegen 11 Uhr ließ jedoch die Gefahr nach. Als ich
+                    aber um 4 Uhr nachmittags etwas eingeschlafen war, wurde ich von neuem durch
+                    furchtbares Schreien geweckt und vernahm, dass das Feuer beinahe unser Haus
+                    erreicht habe. Tatsächlich brannte die ganze Borcksche Meierei, und man musste
+                    sich auf alles gefasst machen, denn man glaubte bestimmt, dass Brandstifter am
+                    Werk seien, die die ganze Stadt anzünden wollten. Niemals habe ich so viel
+                    Jammer gesehen wir bei dieser Gelegenheit, und noch drei Wochen lang wurde man
+                    alle Augenblicke durch neue Brände in Schrecken gesetzt. </p>
+                <p>Nachdem wir in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> unser
+                    Mobiliarvermögen geteilt haben, kehre ich nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zurück. Im <hi rendition="#u">Juli</hi> nehmen wir in
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> die Teilung vor. Wenige
+                    Tage darauf kommen eine Menge Gäste an, der Bischof von <persName key="ed_gbs_p1m_2y">Ermeland</persName>, <seg type="comment">
+                  <orig>Fräulein
+                            v. <persName key="ed_llg_b3q_v2b">Wreech</persName>
+                  </orig>
+                  <note xml:id="nhqn_vng_jfb">Ludwika von Wreech, vgl. APO, Archiwum rodziny
+                            Dönhoff z Drogoszy pow. Kętrzyński, Nr. 56. </note>
+               </seg>, der Abbé
+                        <persName key="ed_wzg_5hy_ydb">Pöppelmann</persName>, der Obermarschall
+                        <persName key="ed_fzc_zxl_w2b">Groeben</persName> und mehrere andere. Graf
+                    Schlieben aus Berlin, der eine Nichte von mir zur Frau hat, trifft gleichzeitig
+                    ein, während mein Neffe <persName key="ed_wmt_g5z_g1b">Schlieben</persName> aus
+                        <placeName key="ed_ot2_ffg_4y">Halle</placeName> kommt und sich mit meiner
+                        <seg type="comment">
+                  <orig>Nichte Ysenburg</orig>
+                  <note xml:id="nq2f_q3q_v2b">Luise Ernestine zu Ysenburg und Büdingen</note>
+               </seg> verlobt. Das
+                    veranlasst mich zu einer Reise nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, die ich nur ungern mache, da es mir von Tag zu Tag
+                    immer besser auf meinem Gut gefällt.</p>
+                <p>Ich fahre also nach <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>, wo ich
+                    alle möglichen Fincks und Dohnas beisammen finde, speise dort und fahre dann
+                    nach <placeName key="ed_dxb_zdf_4y">Sanditten</placeName> weiter. In fünf Wagen
+                    treffen wir zusammen in Königsberg ein. Sofort eile ich zu <persName key="ed_bxp_z3y_rgb">Keyserlingks</persName> und freue mich rührend, diese
+                    guten Leute hier wiederzusehen, nachdem sie in <placeName key="ed_nnd_ztf_nbb">Warschau</placeName> so viel haben durchmachen müssen. Die Verlobung der
+                    Ysenburg findet statt.</p>
+                <p>Nun begebe ich mich auf acht Tage nach <placeName key="ed_enz_4vz_g1b">Landkeim</placeName>, wo mir das einsame Leben außerordentlich gefällt.
+                    Meine Frau kommt in andere Umstände. Nach Königsberg zurückgekehrt, schreibe ich
+                    an den <persName key="ed_x2r_52f_cy">König</persName> um meinen Abschied zu
+                    erbitten, und erhalte ihn zu meiner großen Freude. <seg type="comment">
+                  <orig>Das
+                            ganze Königshaus schreibt mir aus diesem Anlass sehr schmeichelhafte
+                            Briefe.</orig>
+                  <note xml:id="nw2r_xqq_v2b">Vgl. u. a. das Dokument vom
+                                <ref target="lehndorff_ijr_rql_cz">28. Oktober
+                        1775</ref>
+                  </note>
+               </seg>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

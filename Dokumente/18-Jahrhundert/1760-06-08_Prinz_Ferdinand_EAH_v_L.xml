@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_j1l_pr4_cz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Stettin, 8. Juni 1760</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_j1l_pr4_cz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750–1804), in: Masovia 11 (1906), S. 118-154, hier S. 134 f.
+                        </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <placeName key="ed_sxm_51z_bz">Stettin</placeName>
+                    <date when="1760-06-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <profileDesc>
+            <correspDesc>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>. - Am 21. Juni traf der
+                    Prinz unerwartet in <placeName key="ed_xrv_gwb_by">Berlin</placeName> ein, am
+                    24. besichtigte er mit beiden Prinzen Gemälde bei <persName key="ed_y3b_dzx_bz">Gotzkowski</persName>, bevor er selbst am 25. nach <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> abreisen musste, vgl.
+                    Schmidt-Lötzen, Nachträge, Bd. 1, S. 235 ff. In den folgenden Briefen aus
+                        <placeName key="ed_sxm_51z_bz">Stettin</placeName> (28. August 1760, 12.
+                    September 1760) bat der Prinz um Lehndorffs Meinung zu militärischen und
+                    politischen Fragen. Am 15. November kehrte er nach Berlin zurück, berichtete
+                    Lehndorff über den Zustand der Stadt, aber nicht über Krieg oder Politik,
+                        <quote>da ich in die Geheimnisse des Kabinetts nicht eingeweiht bin</quote>
+                    (ebd., S. 138).</note>
+            </correspDesc>
+        </profileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Der Prinz empfiehlt Lehndorff zwei schwedische Offiziere. Der erste habe
+                        <quote>Geist, außerdem ist er ein liebenswürdiger Gesellschafter</quote>,
+                    der andere habe verhindert, dass die Kosaken seiner Schwester und den Schwedter
+                    Verwandten <quote>ein Leid zufügten</quote> oder <quote>die Stadt einer
+                        Plünderung anheim fiel</quote>. Er solle ihm mitteilen, <quote>was man bei
+                        Ihnen</quote> über die <seg type="comment">
+                  <orig>Kapitulation von <placeName key="ed_n1d_5s4_cz">Körlin</placeName> und <placeName key="ed_ul3_xs4_cz">Köslin</placeName>
+                        </orig>
+                  <note xml:id="nlk5_j4s_52b">Vgl. Reiche, K. F. Friedrich der Große
+                            und seine Zeit. Nach den besten Quellen dargestellt, Leipzig 1840, S.
+                            420. </note>
+               </seg>sagt, <quote>da <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> nicht in Gefahr ist und man in <placeName key="ed_xrv_gwb_by">Berlin</placeName> ruhig ist, scheint dies ein
+                        Beweis für die Gleichgültigkeit, mit der man dort Nachrichten aus unseren
+                        Gegenden hier entgegennimmt</quote>. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute> </salute>
+                </opener>
+            </div>
+        </body>
+    </text>
+</TEI>

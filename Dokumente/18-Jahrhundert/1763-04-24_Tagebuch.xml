@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_s1x_2fx_rdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 24. April
+                    1763</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_s1x_2fx_rdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">Zuvor hatte der König alle Provinzialräte kommen lassen,
+                        <quote>um sich über die Zustände im Lande zu unterrichten</quote>. - Kosten
+                    des Hoflebens sparte er, indem er Stellen des Hofes der Königin-Mutter strich
+                    und die Einkommen der Hofdamen reduzierte, was <quote>die Sehnsucht, am
+                        preußischen Hof angestellt zu werden</quote> nicht erhöhte. Auch Offiziere
+                    erhielten <quote>zu Hunderten</quote> ihren Abschied, vgl. Giebel, Tagebücher,
+                    S. 500 und 502. - Am 20. Mai schrieb Lehndorff: <quote>Berlin wird öde, denn
+                        alles zieht sich aufs Land zurück, die einen vergnügungshalber, die anderen
+                        - und das sind die meisten - weil sie die Kosten des Aufenthaltes in der
+                        Stadt nicht mehr aufzubringen vermögen.</quote> Über das gesamte Frühjahr
+                    spielten Geld und Münzwesen und im August der Bankrott mehrerer Kaufleute, in
+                    den auch <persName key="ed_y3b_dzx_bz">Gotzkowski</persName> und <persName key="ed_a34_3w3_tdb">Oemcken</persName> verwickelt waren, eine Rolle.
+                    Lehndorff klagte über die Juden und die reichen Kaufleute: Neue Gesandte seien
+                        <quote>in großer Verlegenheit, passende Wohnungen zu finden; denn seit dem
+                        Kriege sind die Kaufleute alle so reich geworden, dass sie die größten
+                        Häuser gekauft haben, so dass für den Adel nichts mehr übrig bleibt.</quote>
+                    Vgl. Schmidt-Lötzen, Nachträge, Bd. 1, S. 368 -371 und Giebel, Tagebücher, S.
+                    493. - Erst im Juni 1764 kehrten die <quote>Zeiten des guten Geldes</quote>
+                    zurück, ebd., S. 399.</note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 1, Gotha 1910, S. 367</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1763-04-24" cert="high"/>
+                
+         
+            </creation>
+            <abstract>
+                <p>
+               <seg type="comment">
+                  <orig>Der König ernennt v. <persName key="ed_r2k_4w3_tdb">Viereck</persName> zum Staatsminister im Justizdepartement an
+                            Stelle des Justizministers <persName key="ed_b4z_qw3_tdb">Bismarck</persName>, der seinen Abschied eingereicht
+                            hat.</orig>
+                  <note xml:id="nrl2_ktv_vkb">Bismarck trat erst 1764 in den
+                            Ruhestand.</note>
+               </seg> v. <persName key="ed_c1t_fdj_tdb">Dorville</persName> wird Justizpräsident. Das <quote>schlechte Geld</quote>
+                    verteuert vor allem die Lebensmittel. <quote>Dinge, die man vor dem Krieg mit
+                        Groschen kaufen konnte, bezahlt man jetzt mit Talern.</quote>
+            </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+           
+        <p/>
+            
+        </body>
+    </text>
+</TEI>

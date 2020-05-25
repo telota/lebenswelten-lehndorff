@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zbl_wrn_fz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Magnus von Brünneck an seinen Sohn Siegfried. Trebnitz, 28. Oktober 1840</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zbl_wrn_fz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Herre, Paul, Von Preußens Befreiungs- und
+                            Verfassungskampf. Aus den Papieren des Oberburggrafen Magnus von
+                            Brünneck, Berlin 1914, S. 344-368</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bjn_dsn_fz">Brünneck, Magnus von (-)</persName>
+                    <placeName key="ed_sdx_gsn_fz">Trebnitz</placeName>
+                    <date when="1840-10-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ftg_2sn_fz">Brünneck, Siegfried von (-)</persName>
+                </correspAction>
+                <note>Aus Brünnecks Nachlass. - Zur Familie von Brünneck und der Geschichte des
+                    Gutes Bellschwitz: Der Westpreuße 20 (1998), S. 5.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Trebnitz, den 28. Oktober 1840</dateline>
+                </opener>
+                <p>Nach einer sehr bewegten Zeit, die mich bei meiner Teilnahme an den öffentlichen
+                    Angelegenheiten und bei dem Vertrauen, was ich in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> besonders genieße, vorzugsweise in Anspruch genommen
+                    hat, bin ich gleich nach den <placeName key="ed_xrv_gwb_by">Berliner</placeName>
+                    Huldigungsfeierlichkeiten (bei denen ich als hiesiger Gutsbesitzer und Landstand
+                    umso weniger fehlen durfte, als ich in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> mithandelnd aufgetreten war, und also auch hier der
+                    Intrige und dem Hofwesen mit freier Stirn entgegentreten musste) den 21. Oktober
+                    in den hiesigen Hafen der Ruhe eingelaufen, wo ich so lange wie möglich
+                    verweilen will, bis mich die noch immer fortdauernde Sorge für <seg type="comment">
+                  <orig>Luischens</orig>
+                  <note xml:id="nzvc_ltj_gz">die 1828
+                            geborene Tochter Brünnecks</note>
+               </seg> Unterricht wieder ganz gegen
+                    meine Neigung nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> treiben
+                    wird, so gerne wie ich dies auch in diesem so schlechten Jahre, wie ich hier
+                    noch keins erlebt habe, und nach so vielen und bedeutenden unvermeidlich
+                    gewesenen Mehrausgaben ganz vermeiden möchte. </p>
+            <p>Hier wollte ich nun die ersten ganz ruhigen Stunden zur Beantwortung der nach langer Zeit von Dir
+                    empfangenen beiden Briefe vom 10. August und 5. September verwenden, welche mir
+                    beide kurz hintereinander während des kurzen vielbeschäftigten Aufenthaltes in
+                        <placeName key="ed_xkd_yrn_zdb">Bellschwitz</placeName> nach der
+                    Königsberger Huldigung zugekommen waren, wozu ich dort nicht mehr kommen konnte.
+                    Dazu ist mir nun gestern dein dritter Teil vom 10.-12. d. M. geworden, aus dem
+                    ich zu meiner Freude ersehe, <seg type="comment">
+                  <orig>dass Du mir nun schon
+                            einige Meilen nähergerückt bist</orig>
+                  <note xml:id="nebq_rtj_gz">Siegfried von Brünneck war auf der Rückreise aus Italien, wo er sich
+                            längere Zeit aufgehalten hatte.</note>
+               </seg> und mit Teilnahme die
+                    wichtigsten vaterländischen Ereignisse verfolgt hast, von diesen ziemlich genau
+                    unterrichtet bist, und selbige aus dem, was Dir bekannt geworden, vollkommen
+                    richtig und meiner Ansicht völlig entsprechend und daher in einer mich
+                    überraschenden Weise aufgefasst hast. Es ist Dir dabei gerade Deine große
+                    Entfernung zustatten gekommen, die Dir eine völlig ruhige Auffassung möglich
+                    machte und Dich vor dem Einfluss einzelner ergreifender Momente, wie der Rede
+                    des <persName key="ed_bg5_tsf_4y">Königs</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, die alle Welt, z. B. auch <seg type="comment">
+                  <orig>den Rudolf <persName key="ed_us4_wtj_gz">Keudell</persName>
+                  </orig>
+                  <note xml:id="necb_ztj_gz">Jugendfreund
+                            Siegfried von Brünnecks</note>
+               </seg>, elektrisierte und enthusiasmierte,
+                    bewahrt hat. Da ich nun einmal durch schöne Redensarten nicht leicht zu
+                    enthusiasmieren bin, so verrauchte auch mein augenblicklich erregter
+                    Enthusiasmus immer wieder sehr schnell. Wenigstens trübte er mir nie den klaren
+                    Blick, der noch immer auf entscheidende Tatsachen wartet, aus denen sich auf die
+                    vor allem nötige Energie des Charakters, auf ein klareres Erkennen seiner Zeit,
+                    auf ein entschiedeneres Betreten der Bahn des Fortschritts und auf männliche
+                    Besiegung entgegengesetzten Einflusses schließen ließe. In <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gab es allerdings Momente, wo der
+                        <persName key="ed_bg5_tsf_4y">König</persName> mit seinem edlen Willen und
+                    seinen herrlichen Geistesgaben unter Entwicklung der Gabe der freien Rede, wie
+                    sie vielleicht noch nie ein Fürst in dem Grade besessen hat, aus eigener
+                    Urteils- und Willenskraft der Intrige gegen den Landtag und des nachteiligen
+                    Einflusses seiner nächsten Umgebung Herr zu werden schien, und in diesen
+                    Momenten wurden ungeachtet der unverkennbaren Klarheit in der Weltanschauung
+                    auch meine Hoffnungen sehr, beinahe zum Enthusiasmus gesteigert, und konnte man
+                    mit Wahrscheinlichkeit voraussetzen, dass so ausgezeichnete Geisteseigenschaften
+                    in Vereinigung mit überwiegender edelster Gemütlichkeit sich zur Klarheit
+                    durcharbeiten würden. Aber offenbar hatten dort die Ereignisse, der unerwartete
+                    Antrag des Landtages, der ungemein feierliche Akt der Huldigung, die Neuheit
+                    desselben, der ernste, würdige und männliche Ausdruck der Treue ohne Servilität
+                    und die dortige ganz ruhige und gemessene und doch dabei freudige Haltung des
+                    Volks den Impuls gegeben und <persName key="ed_q1t_d2f_4y">Schöns</persName>
+                    überwiegende Eigenschaft zum Stützpunkt gedient. </p>
+            <p>Seit der Rückkehr nach <placeName key="ed_xrv_gwb_by">Berlin</placeName>, wo man wieder
+                    herunterzieht, was in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    gehoben worden ist, ist aber wieder vieles zweifelhaft geworden. Dort ist es
+                    gelungen, den <persName key="ed_bg5_tsf_4y">König</persName> wieder wankend zu
+                    machen und <persName key="ed_q1t_d2f_4y">Schön</persName> und uns Preußen,
+                    besonders die als Koryphäen des Landtags Bezeichneten, zu denen auch ich gehören
+                    dürfte, wenn auch vielleicht noch nicht beim König, so doch bei allen anderen
+                    arg zu verketzern als solche Leute, welche sich gegen die Einrichtungen von Gott
+                    auflehnen. Denn neben der Neigung, die Du richtig aufgefasst hast, sich wie
+                        <persName key="ed_zsd_25j_gz">Humboldt</persName> sagt (der sich übrigens
+                    immer mit vieler Teilnahme nach Dich erkundigt) ein kleines Mittelalter zu
+                    bilden, <seg type="comment">
+                  <orig>liegt auch noch die Gefahr in der
+                            vorherrschenden Bigotterie, in den überall durchscheinenden
+                            theokratischen Prinzipien, wie solche beide Richtungen durch <persName key="ed_vpn_z5j_gz">Ancillon</persName> hervorgerufen und genährt
+                            worden sind</orig>
+                  <note xml:id="nvy2_cvj_gz">Er hatte in seiner
+                            einflussreichen Stellung als Erzieher und später im Außenministerium
+                            einen starken Einfluss auf den Kronprinzen ausgeübt.</note>
+               </seg>, und
+                    was bei der vorherrschenden Ausbildung der gemütlichen Seite umso weniger
+                    befremden kann, als die nächsten Umgebungen mehr oder weniger dem Pietismus
+                    hingegeben sind. Unverkennbar ist auch schon manches Gute geschehen, und sind
+                    einzelne erfreuliche Tatsachen aus eigener Entschließung, vielleicht nicht ohne
+                    Kampf, hervorgegangen, wie jetzt die Ernennung von <persName key="ed_kbg_g5j_gz">Boyen</persName> zum aktiven General, und <seg type="comment">
+                  <orig>die
+                            Berufung einiger der <rs type="term" key="ed_v1m_cwj_gz">Göttinger
+                                Professoren</rs>
+                  </orig>
+                  <note xml:id="nk3j_35j_gz">
+                     <persName key="ed_xcm_445_c2b">Jacob</persName> und <persName key="ed_izd_r45_c2b">Wilhelm Grimm</persName> wurden 1841 nach
+                                <orgName key="ed_qhc_n45_c2b">Berlin</orgName> berufen.</note>
+               </seg>
+                    auf <persName key="ed_zsd_25j_gz">Humboldts</persName> Vorschlag. Aber es ist
+                    darauf nicht viel zu geben. Vielmehr kommt es noch auf deren weitere Ausdehnung
+                    an. Diese einzelnen Tatsachen scheinen oft nur Aufwallungen des edlen Gemütes,
+                    zuweilen auch für die Popularität berechnet zu sein, und es wird sich bald
+                    zeigen müssen, ob wirklich die Energie vorhanden ist, sich über alle Parteien zu
+                    stellen und zu erhalten, oder ob ein Schwanken von einer Partei zur anderen, die
+                    aus Berechnung bald der einen bald der anderen Konzessionen machende Politik das
+                    leitende Motiv ist. </p>
+            <p>Mit der Wahl von <persName key="ed_bbd_gwj_gz">Eichhorn</persName> zum <orgName key="ed_qsy_xxh_my">Kultusminister</orgName> würde man zufrieden sein
+                    können, wenn ihm andere Minister zur Seite ständen und ihm die für diese
+                    Gesellschaft wohl nötige Energie des Charakters beiwohnte. Er ist ein
+                    umsichtsvoller gebildeter und rechtschaffener Mann, soll dabei aber schwach und
+                    zaghaft sein, und scheint daher nicht seinen Kollegen und den Intrigen der
+                    Jesuiten jeder Art gewachsen. </p>
+            <p>Auch in <placeName key="ed_xrv_gwb_by">Berlin</placeName> herrscht darüber nur eine Stimme, dass
+                    alle die es mit dem <persName key="ed_bg5_tsf_4y">König</persName> wohl meinen,
+                    die Entfernung von <persName key="ed_q5g_5v4_cz">Rochow</persName> wünschen
+                    müssten, und dass diese ein sicheres Kriterium für die Zukunft sein werde,
+                    wogegen die Berufung des Generals <persName key="ed_u4b_45j_gz">Thile</persName>
+                    I zum vortragenden Kabinettsminister in des Grafen <persName key="ed_ayg_r5j_gz">Lotttum</persName> Stelle, eines rechtschaffenen, aber in religiöser
+                    Beziehung sehr beschränkten und einseitigen Mannes, neue Besorgnis erregt. </p>
+            <p>
+               <persName key="ed_q1t_d2f_4y">Schön</persName>, welcher die Stimmung in <placeName key="ed_xrv_gwb_by">Berlin</placeName> sehr verändert und es unter seiner
+                    Würde fand, die in Betreff seiner durch <persName key="ed_q5g_5v4_cz">Rochow</persName> und andere ausgesprengten Gerüchte eines seinerseitigen
+                    zweideutigen und unwahren Benehmens gegen den König (in Betreff unseres <rs type="term" key="ed_ihq_pwj_gz">Landtags-Antrags</rs>) auch nur zu
+                    widerlegen, bat nach Beendigung eines ihm aufgetragenen besonderen Geschäftes um
+                    die Erlaubnis nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    zurückkehren zu dürfen, die ihm erteilt wurde. Infolge dessen hielt er hier bei
+                    mir den 22. d. noch einen Ruhetag und trat den 23. seine weitere Rückreise von
+                    hier an. Zuvor scheint der König ihm noch den Wunsch geäußert zu haben, dass er
+                    in <placeName key="ed_xrv_gwb_by">Berlin</placeName> bleiben und ein besonders
+                    zu bildendes <orgName key="ed_z1f_vxj_gz">Handelsministerium</orgName>
+                    übernehmen möge, was er jedoch abgelehnt hat, weil er nicht glaubte, in der
+                    jetzigen Gesellschaft ihm und dem Lande nützen, vielmehr besorgen müsste, eher
+                    schaden zu können, insofern durch seine Anwesenheit im Ministerium nur
+                    schädliche Reaktionen hervorgerufen werden dürften. Er hat übrigens für
+                        <placeName key="ed_uvt_4j4_dz">Preußen</placeName> und auch für <placeName key="ed_kcg_55j_gz">Marienburg</placeName> manches erlangt (vielleicht um
+                    auch ihn zufriedenzustellen), dessen Ausführung ihn nun beschäftigen wird. Mir
+                    sagte der König den Abend vor unserer Abreise hierher, dass ihm seine so baldige
+                    Abreise ungemein leid tue, worauf ich natürlich nichts zu erwidern hatte. </p>
+            <p>Du wirst nun auch wohl schon von den Reden Kenntnis erhalten haben, die bei der hiesigen
+                    Huldigung gehalten worden sind. Der <persName key="ed_bg5_tsf_4y">König</persName> besitzt in dieser Beziehung wirklich ein außerordentliches
+                    Talent und <persName key="ed_zsd_25j_gz">Humboldt</persName> meinte, es sei ihm
+                    noch nie eine solche Kühnheit im freien Reden vorgekommen. Die Wirkung dieser
+                    Reden ist umso größer, als der verstorbene <persName key="ed_tl1_nbf_4y">König</persName> gar nicht sprechen konnte. Jedoch scheint mir die
+                    Königsberger Rede das Ergebnis des Augenblicks gewesen zu sein, wie der König
+                    Tages darauf der Deputation des Landtags, zu der ich gehörte, selbst sagte, dass
+                    ihn die Macht der Empfindung und die Feierlichkeit des Momentes fortgerissen
+                    habe. Der dortige Akt war übrigens auch unendlich feierlicher wie der in
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName>, wenngleich auch nicht mit
+                    solcher Pracht ausgestattet. Es gab dort wirklich viel erhebendere Momente, und
+                    es ist mir dort recht empfindlich gewesen, dass Du gerade in dieser Zeit fern
+                    vom Vaterland warst, wo es Eindrücke für das ganze Leben gab, und die moralische
+                    Macht des zwischen Fürsten und Volk bestehenden Bandes einmal wieder recht klar
+                    wurde. Hierzu kam das wichtige Moment des Landtages, der einmal wieder die
+                    Charaktere recht deutlich unterscheiden ließ und dessen aus seltener
+                    Übereinstimmung hervorgegangener Antrag die Veranlassung gab, dass alle
+                    Schwachköpfe und Scheißkerle in und außerhalb des Landtages im Lande auftauchten
+                    und diesem bemerkbar wurden. </p>
+            <p>
+               <ref target="lehndorff_az1_thk_dbb">Es ist wohl ziemlich allgemein aufgefallen, dass nicht ich,
+                        sondern der äußerst konfuse und schwache <persName key="ed_k4z_jgl_2y">Lehndorff</persName> zum Landtagsmarschall ernannt worden,</ref> der
+                    sich dabei denn auch auf das äußerste kompromittiert hat. Aber es ist der Sache
+                    und mir von großem Ruhm gewesen. Denn so konnte ich mich freier bewegen und dem
+                    Ausschuss präsidieren, der die wichtigste Frage zu bearbeiten und den in
+                        <placeName key="ed_xkd_yrn_zdb">Bellschwitz</placeName> und <placeName key="ed_mhh_jp5_c2b">Plauthen</placeName> längst vorbereiteten wichtigen
+                    Antrag zu begutachten und dem Landtage vorzulegen und zu empfehlen hatte, und es
+                    ist für mich und <seg type="comment">
+                  <orig>Alfred</orig>
+                  <note xml:id="naly_qvj_gz">Alfred von <persName key="ed_fhz_czj_gz">Auerswald</persName>
+                  </note>
+               </seg>, den ich als Präses zum
+                    Referenten erwählte, allerdings eine große Genugtuung gewesen, die Sache gerade
+                    so durchführen zu können, wie wir es uns vorgenommen hatten, wobei wir ganz
+                    besonders und auf eine sehr ausgezeichnete Weise von <seg type="comment">
+                  <orig>Rudolph A.</orig>
+                  <note xml:id="nqyr_4vj_gz">Rudolph von <persName key="ed_v5s_dzj_gz">Auerswald</persName>
+                  </note>
+               </seg> unterstützt
+                    wurden, dem ich seines ebenso klugen als charaktervollen Benehmens wegen gerne
+                    meine hohe Achtung zolle. Es gehört übrigens kein besonderer Mut dazu, da uns
+                    das Gesetz zur Seite stand und wir uns nicht außerhalb der gesetzlichen
+                    Schranken bewegt haben. Uns ist aber doch von der großen Majorität im Lande und
+                    auch hier von allen Wohlgesinnten dafür große Anerkennung geworden, während wir
+                    es uns gefallen lassen müssen, von der anderen Seite als die eigentlichen
+                    Sündenböcke bezeichnet zu sein und uns den höchsten Unwillen des <persName key="ed_lwx_y32_cy">Prinzen</persName>, des Herrn von <persName key="ed_f25_chr_gz">Rochow</persName> und der Hof- und gleichgesinnten Leute
+                    zugezogen zu haben. Dir hinterlasse ich so wenigstens einen guten Namen, und der
+                    König sagte unserer Deputation mündlich, dass er unsere Gesinnung und unser
+                    gutes Recht nicht einen Augenblick verkannt habe, und wenn er auch gegen
+                    geschriebene Konstitutionen, so doch für weitere Entwicklung sei und keineswegs
+                    ohne Stände regieren wolle. </p>
+            <p>Abgesehen von den Intrigen, die unser Antrag unmittelbar hervorrief, und die, wenn es nach
+                        <persName key="ed_k4z_jgl_2y">Lehndorff</persName> gegangen wäre (den wir
+                    eigentlich über den Gänsedreck geführt hatten und der nachher gewaltig
+                    erschrak), manchen zum Wanken gebracht hätten, haben wir nachher aber viel zu
+                    kämpfen gehabt gegen vielfache Entstellungen, welche der Landtag und dessen
+                    Antrag mit und ohne Absicht in den Berichten der öffentlichen Blätter erfahren
+                    musste, <seg type="comment">
+                  <orig>insbesondere in der Leipziger Zeitung, für die
+                            auch <persName key="ed_q5g_5v4_cz">Rochow</persName> Artikel liefert,
+                            und auch in der Augsburger Allgemeinen Zeitung, der von dem
+                            wohlmeinenden, aber dummen und schlecht unterrichtetem mit ☉
+                            bezeichneten Korrespondenten aus <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> Berichte zugekommen sind.</orig>
+                  <note xml:id="nnp3_cgm_wcb">Siehe das Dokument vom 1<ref target="lehndorff_d11_t2r_gz">8. September 1843</ref>. </note>
+               </seg>
+                    Ich bin daher auch genötigt worden, mehrere Berichtigungen dieser Artikel, teils
+                    von mir selbst, teils von <persName key="ed_fhz_czj_gz">Alfred</persName>
+                    verfasst, den beiden Zeitungsredaktionen zur Insertion zu überschicken, die aber
+                    meistenteils nur in der Leipziger Eingang gefunden zu haben scheinen und durch
+                    die wir denn wohl die Gegner zur Ruhe gebracht haben werden. Besonders gelungen
+                    und wichtig ist unter diesen noch ein kürzlich <seg type="comment">
+                  <orig>in der
+                            Leipziger Zeitung erschienener Artikel</orig>
+                  <note xml:id="na3l_ncr_gz">‟Der preußische Landtag‟, datiert aus Königsberg, 11. Oktober 1840, in:
+                            Leipziger Allgemeine Zeitung, Beilage zu Nr. 295, 21. Oktober 1840.
+                        </note>
+               </seg>, der wahrscheinlich von <persName key="ed_v5s_dzj_gz">Rudolf
+                        A.</persName> eingeschickt ist, der als der Schlussstein zu betrachten ist
+                    und alle Intrigue zum Schweigen bringen dürfte. Ich schicke ihn an <persName key="ed_zsd_25j_gz">Humboldt</persName>, damit er auch in <placeName key="ed_hgx_f1v_sy">Sanssouci</placeName> bekannt und gelesen werde, der
+                    übrigens an eine Reise nach <placeName key="ed_uyx_nvn_my">Paris</placeName>
+                    noch nicht gedacht hat, wie doch die Allgemeine Zeitung glauben machen will.
+                    Jedenfalls ist es gut, dass über die Sache so vieles geschrieben wird und die
+                    Verfassungsfrage von uns angeregt ist. Deine Aufforderung, das Land gehörig zu
+                    vertreten, haben wir nicht abgewartet, sie kam zu spät, nach schon geschehener
+                    Sache. </p>
+            <p>Nun aber genug von unseren öffentlichen Angelegenheiten. … Aus dem, was in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> vorgegangen ist, wirst Du Dich
+                    doch auch wohl überzeugen müssen, dass man sich auch bei uns als Gutsbesitzer
+                    und Landstand eine interessante Stellung und einen nicht zu verachtenden
+                    Wirkungskreis schaffen kann. Und unfehlbar wird sich die Wirksamkeit der Stände
+                    sehr bald vermehren müssen. Wir in Preußen werden nicht nachlassen. Gebe es nur
+                    viele solche Leute im Lande, wie <seg type="comment">
+                  <orig>die 3
+                            Auerswalde</orig>
+                  <note xml:id="nwzf_zcr_gz">Alfred, Rudolph und Hans
+                            Adolf von <persName key="ed_b5m_bdr_gz">Auerswald</persName>
+                  </note>
+               </seg>, die sehr an Popularität gewonnen haben.
+                    Aber auch Fabian <persName key="ed_rml_3dr_gz">Dohna</persName> und der
+                        <persName key="ed_mk1_kdr_gz">Laucker</persName> und <persName key="ed_rwg_ldr_gz">Wesselshöfer</persName> haben sich vortrefflich
+                    benommen, Des ersteren gediegener Kern trat einmal wieder recht glänzend hervor,
+                    und sein Sohn <persName key="ed_hlw_pdr_gz">Roderich</persName> hat sich
+                    ungemein formiert, ist als ein sehr netter und verständiger Mensch von <orgName key="ed_xrl_tdr_gz">Bonn</orgName> zurückgekehrt um nun Landwirtschaft zu
+                    studieren. </p>
+            <p>Ich muss Dich noch darauf aufmerksam machen, dass die in der Allgemeinen Zeitung enthaltenen
+                    Andeutungen, als habe der Adel auf dem Landtage vorzugsweise den Antrag
+                    befördert und die desfallsigen Bedenken der anderen Stände zu besiegen gehabt,
+                    falsch ist. Diese Stände haben gar keine Bedenken gehabt, und <seg type="comment">
+                  <orig>die einzigen 5 Gegner waren gerade vom Adel und ihre
+                            Namen endigten sämtlich mit einem ky.</orig>
+                  <note xml:id="nhft_ydr_gz">Diese fünf Gegner, von denen sich drei durch ihre Loyalitätsadresse an
+                            den König von Hannover einen Namen gemacht hatten, brachten in aller
+                            Eile mit Hilfe von Gesinnungsgenossen, die in Königsberg anwesend waren,
+                            eine Gegenadresse zustande (Königsberg, 8. September 1840), die die
+                            Unterschrift von 27 west- und ostpreußischen Adligen trägt, abgedruckt
+                            in: Natzmer, Gneomar Ernst von, Unter den Hohenzollern. Denkwürdigkeiten
+                            aus dem Leben des Generals Oldwig von Natzmer, Gotha 1888, Bd. 3, S. 227
+                            f. In welcher Hast dieser Schritt erfolgte, zeigt sich daran, dass auch
+                            mehrere Abgeordnete, die dem Antrag zugestimmt hatten, diese
+                            Gegenadresse unterzeichneten.</note>
+                    </seg> Dennoch traten mehrere Bürgerliche an mich und <persName key="ed_f3k_xfp_mfb">Bardeleben</persName> und den <persName key="ed_fhz_czj_gz">Auerswald</persName> 1, nachdem der Beschluss gewonnen
+                    war, heran, und sagten zu uns: „nun sehen wir doch, dass wir einen Adel
+                    haben.‟</p>
+            </div>
+        </body>
+    </text>
+</TEI>

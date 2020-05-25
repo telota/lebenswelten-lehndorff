@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xfs_ndk_fbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Generaldirektion der Preußischen Staatsarchive an Max Hein. Berlin, 10. November 1938</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xfs_ndk_fbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="keyword"/>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>BArch Koblenz</institution>
+                        <idno>N/1333/32</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_qqv_4fl_gbb">Generaldirektion der preußischen
+                        Staatsarchive</orgName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1938-11-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_uyg_gfl_gbb">Hein, (-)</persName>
+                </correspAction>
+                <note>Am 12. August 1937 hatte das Staatsarchiv Breslau den Generaldirektor der
+                    Staatsarchive darauf verwiesen, dass das neue Fideikommissgesetz <quote>für die
+                        Sicherung der zu den einzelnen Fideikommissen gehörenden Archive keine
+                        weitergehenden Bestimmungen enthalte, als sie bisher bestanden</quote>; bei
+                    der Auflösung der Fideikommisse nach der alten Gesetzgebung sei der
+                    Fideikommiss-Senat auf den guten Willen des Besitzers hinsichtlich der Sicherung
+                    des Schriftgutes angewiesen gewesen. Es regte an, dass die Archivverwaltung
+                    beteiligt werde, damit auf Grund neuer Gesetzesbestimmungen <quote>die Sicherung
+                        sofort (nicht erst bei der Auflösung des Fideikommisses) einsetzen kann,
+                        mindestens aber überall dort, wo das zuständige Staatsarchiv nach Maßgabe
+                        der Verhältnisse eine besondere Sicherung durch Anordnungen des
+                        Fideikommiss-Senats für dringend erwünscht hält</quote>, vgl. GStA PK, I.
+                    HA, Rep. 178, Nr. 1047, n. f. Am 12. Oktober 1937 folgte das Kammergericht
+                    dieser Ansicht: <quote>Im Interesse der Archivpflege und des Archivschutzes
+                        bitte ich ergebenst in allen Fällen, in denen bei Auflösung eines
+                        Fideikommisses das Vorhandensein eines Archives, sei es Guts- oder
+                        Familienarchiv, festgestellt wird, auf dessen Sicherung Bedacht zu nehmen.
+                        Zu diesem Zwecke würde es sich empfehlen, dass der für die Auflösung der
+                        Familiengüter zuständige Senat, sobald eine solche eingeleitet wird, sofort
+                        dem Geheimen Staatsarchiv davon Mittelung macht, wenn möglich unter
+                        gleichzeitiger Angabe, was über das Vorhandensein eines Archives bekannt
+                        ist. Unabhängig davon sollten die Interessenten ebenfalls so früh wie
+                        möglich darauf hingewiesen werden, dass das Geheimen Staatsarchiv bereit
+                        ist, solche Archive zu treuen Händen kostenlos in Gewahrsam zu nehmen, wobei
+                        sowohl das Eigentums- wie das Verfügungsrecht der Berechtigten vorbehalten
+                        bleiben kann. Letztere würden etwa in der Lage sein, die Einsichtnahme durch
+                        Dritte ganz oder teilweise zu verbieten oder auch von ihrer jedesmaligen
+                        ausdrücklichen Genehmigung abhängig zu machen. Zur Auskunftserteilung und
+                        Beratung der Archivbesitzer steht das Geheime Staatsarchiv bzw. die ihm
+                        angegliederte Archivberatungsstelle jederzeit zur Verfügung. Ähnliche
+                        Vereinbarungen der Staatsarchive mit den zuständigen Oberlandesgerichten
+                        sind in anderen Provinzen bereits getroffen oder in Vorbereitung.</quote> In
+                    diesem Sinne - Schutz der nichtstaatlichen Archivalien und Sicherung <quote>der
+                        häufig geradezu verwahrlosten Fideikommissarchive</quote> - schrieb der
+                    Preußische Ministerpräsident an den Justizminister am16. August 1937 (ebd.).
+                    Eile tat not, denn das Gesetz über das Erlöschen der Familienfideikommisse und
+                    sonstiger gebundener Vermögen sollte im Juli 1938 mit Wirkung zum 1. Januar 1938
+                    in Kraft treten. Aus dem Fideikommiss-Vermögen wurde damit freies Vermögen des
+                    letzten Besitzers. Gehörten dazu Kunstwerke mit wissenschaftlichem,
+                    geschichtlichem oder heimatgeschichtlichem Wert (Bauwerke, Gemäldegalerien,
+                    Archive, Büchereien) oder gemeinnützige Einrichtungen, hatte das
+                    Fideikommiss-Gericht Vorsorge für die ordnungsgemäße Erhaltung zu treffen. Falls
+                    die Gegenstände gefährdet erschienen oder ihre Erhaltung im öffentlichen
+                    Interesse lag, konnte auch ein <quote>Standortwechsel“ </quote>sowie eine
+                    öffentliche Zugänglichkeit festgelegt werden, vgl. GStA PK, I. HA, Rep. 178, Nr.
+                    1048, Bl. 24-27. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 10. November 1938</dateline>
+                </opener>
+                <p>Niederschrift der Direktorenkonferenz im StA Marburg, 21.10.1938 </p>
+                <p>
+               <gap reason="insignificant"/> 2. Fideikommisse: Auf Grund des Gesetzes vom
+                    6.7.1938 (Vgl. Mitteilungsblatt 1938/8 Ziff. 2) ist es notwendig, Fühlung mit
+                    den Fideikommisss-Senaten zu nehmen und festzustellen, welche Fideikommisse zur
+                    Auflösung kommen. Zur ersten örtlichen Erkundung können auch die Archivpfleger
+                    eingesetzt werden. <gap reason="insignificant"/>
+            </p>
+                <p>VI. <gap reason="insignificant"/> Archivpflege <gap reason="insignificant"/>
+                    Grundsätzlich können die polizeiliche und fachliche Betreuung, d. h.
+                    Archivschutz und Archivpflege, nicht voneinander getrennt werden. Die Pflege des
+                    nichtstaatlichen Archivgutes ist gemeinsame Aufgabe der Archivverwaltung und
+                    der Selbstverwaltung. <gap reason="insignificant"/> Die Resultate der
+                    Archivpflege sind karteimäßig festzuhalten und laufend turnusmäßig zu
+                    kontrollieren. <gap reason="insignificant"/> Dauernde Vorsicht und Fühlungnahme
+                    mit den maßgeblichen Stellen ist bei den Entrümpelungen geboten (vgl. den Erlass
+                    des Stellvertreters des Führers an die Gauleiter vom 19.12.1937, abgedruckt im
+                    Allg. Suchblatt für Sippenforscher vom 20.4.1938, S. 52) <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

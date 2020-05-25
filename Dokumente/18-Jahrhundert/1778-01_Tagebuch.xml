@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_g1d_23c_ydb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin,
+                    Januar  bis Mai 1778</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_g1d_23c_ydb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Karl Eduard, Des Reichsgrafen Ernst
+                            Ahasverus Heinrich Lehndorff Tagebücher nach seiner Kammerherrenzeit, Bd.
+                            1, Gotha 1921, S. 80-110</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die Karnevalszeit verbringt Lehndorff in <placeName key="ed_xrv_gwb_by">Berlin</placeName>. - Der Tod des <persName key="ed_ifk_21r_v2b">Kurfürsten
+                        von Bayern</persName>
+                    <quote>bringt das halbe Deutschland in Bewegung</quote> und lässt die <seg type="comment">
+                  <orig>Kriegsgefahr</orig>
+                  <note xml:id="ntdm_s1r_v2b">Der <ref target="https://de.wikipedia.org/wiki/Bayerischer_Erbfolgekrieg">Bayerische Erbfolgekrieg</ref> (1778/1779) wurde durch den Anspruch
+                            Österreichs auf Niederbayern und die Oberpfalz ausgelöst, nachdem die
+                            bayerische Linie der Wittelsbacher im Jahre 1777 ausgestorben war und
+                            das Kurfürstentum Bayern an die pfälzische Linie fallen sollte.
+                        </note>
+               </seg> in den kommenden Monaten steigen. - <persName key="ed_wc2_cpp_tdb">Graf Schwerin</persName> aus <placeName key="ed_fb2_5br_v2b">Wolfshagen</placeName> kehrt mit seiner Familie
+                        <quote>nach dreijährigem Aufenthalt in unserem Hause</quote> auf seine Güter
+                    zurück; Lehndorff lässt dessen Tochter von <quote>einem gewissen <persName key="ed_z3r_cbr_v2b">Schmidt</persName>, einem Pastellmaler aus
+                            <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+               </quote> malen.
+                    Schmidt gehört zur <quote>Malerkolonie</quote> in <placeName key="ed_xrv_gwb_by">Berlin</placeName>: <persName key="ed_ly4_rgc_ydb">Graff</persName> aus
+                        <placeName key="ed_flc_kyf_hy">Leipzig</placeName>, <persName key="ed_cpg_3vz_g1b">Tischbein</persName> aus <placeName key="ed_zbj_xfn_scb">Kassel</placeName>, <persName key="ed_k5p_3gc_ydb">Campili</persName> aus <placeName key="ed_fsg_nbr_v2b">Florenz</placeName>,
+                    die alle hier Beschäftigung finden. - Die Probleme des Neffen <persName key="ed_wmt_g5z_g1b">Schlieben</persName>, <quote>der so hässliche Schulden
+                        gemacht hat</quote>, sind noch immer nicht aus der Welt. Lehndorffs Nichte
+                    soll dafür in die Hausvogtei gebracht werden, wenn sie nicht fluchtartig
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> verlässt; er schickt sie
+                    nach <placeName key="ed_fb2_5br_v2b">Wolfshagen</placeName> zum Onkel seiner
+                    Frau, Graf Schwerin. Der Neffe wird auf die Festung <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> gebracht. - Am 4. März muss
+                    Lehndorff bei der Kapitelsitzung des Johanniter-Ordens General <persName key="ed_i1n_fcr_v2b">Buddenbrock</persName>, den Kommandeur von Werben,
+                    vertreten, der am Schlaganfall verstorben ist. - An den Dienstagabenden findet
+                    bei Prinz <persName key="ed_nvx_wcz_bz">Heinrich</persName> eine
+                        <quote>Dienstagsgesellschaft</quote> statt. - Am 10. April rücken alle
+                    Regimenter aus der Berliner Garnison aus; zahlreiche <quote>alte
+                        Generale</quote> sind nicht mehr dienstfähig, weshalb ein <quote>großes
+                        Avancement in der Armee vor sich gehen</quote> wird. Lehndorff befürchtet
+                    einen <quote>Kanonenkrieg</quote> und kann nicht begreifen, <quote>wie die
+                        Mächte nicht eifriger sich bemühen, den Frieden zu erhalten</quote>, zumal
+                    sich ganz Europa in einer kritischen Lage befindet: <quote>England ist gegen
+                        Frankreich gereizt, die Türkei gegen Russland und wir gegen
+                        Österreich.</quote> - Im Mai trifft der Herzog von <persName key="ed_pqp_mcr_v2b">Weimar</persName> inkognito in <placeName key="ed_xrv_gwb_by">Berlin</placeName> ein. Lehndorff begegnet dem Geheimen
+                    Rat <persName key="ed_olk_vcv_12b">Goethe</persName>, den er als <quote>sehr
+                        lakonisch</quote> und <quote>hochmütig</quote> empfindet: <quote>Er dünkt
+                        sich augenscheinlich zu sehr als Grandseigneur, um noch als Dichter zu
+                        gelten.</quote> - Ende Mai beginnt er seine endgültige Rückkehr nach
+                        <placeName key="ed_uvt_4j4_dz">Preußen</placeName> vorzubereiten, die im
+                    August erfolgen soll; <seg type="comment">
+                  <orig>die Übersiedlung soll <quote>zu
+                                Schiff übers Meer</quote> erfolgen.</orig>
+                  <note xml:id="nsb1_fdr_v2b">Es wurde ihm gestattet, sein Gepäck
+                            visitationsfrei von Berlin über Stettin nach Ostpreußen auszuführen,
+                            vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 206 (Passierschein,
+                            datiert auf 1785).</note>
+               </seg>
+            </p>
+            </abstract>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date from="1778-01-01" to="1778-05-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

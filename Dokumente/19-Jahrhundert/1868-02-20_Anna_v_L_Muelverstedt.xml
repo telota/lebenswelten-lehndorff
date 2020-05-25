@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ism_1mz_sbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anna Gräfin von Lehndorff an George Adalbert von Mülverstedt. Berlin, 20. Februar 1868</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ism_1mz_sbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA M</institution>
+                        <idno>E 130 George Adalbert von Mülverstedt, Nr. 36/1: Ad Genealogiam der
+                            Grafen von Lehndorff, Bl. 24-25v, 29-30v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1868-02-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_my1_zlb_1bb">Mülverstedt, George Adalbert von
+                        (1825-1914)</persName>
+                </correspAction>
+                <note>
+               <quote>Anbei 1 Paket in Papier, eig. H. v. M. Magdeburg</quote>. - <quote>An
+                        Hochwohlgeboren den Direktor des Provinzial-Archivs Herrn von Mülverstedt.
+                        Absender: Gf. Lehndorff Mitglied des Herrenhauses.</quote> Poststempel:
+                        <quote>Berlin 22.2.68</quote>. Ob eine Rückgabe erfolgte, ist unbekannt. Im
+                    Nachlass v. Mülverstedt finden sich keine Lehndorff-Urkunden.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, Königin Augustastr, No. 20, den 20/2 68</dateline>
+					          <salute>Mein verehrter Herr von Mülverstedt,</salute>
+                </opener>
+                <p>in der <seg type="comment">
+                  <orig>Rückerinnerung an Ihre so sehr liebenswürdige
+                            umfängliche Antwort vor Jahren auf meine Lehndorffsche Anfrage in Bezug
+                            auf unsere Familiengeschichte</orig>
+                  <note xml:id="nww3_cvz_sbb">Siehe
+                            das <ref target="lehndorff_h5v_t5f_qcb">Dokument vom 2. Februar 1862.
+                            </ref>
+                        </note>
+               </seg> wage ich auch heute mit dem beiliegenden Aktenstück zu Ihnen
+                    zu kommen, damit Sie erstlich daraus erfahren, dass ich in den vergangenen
+                    Jahren, so viel ich vermochte, Aufklärung über manche dunklen Punkte gesucht,
+                    und zweitens mit der großen Bitte, dass Sie einen prüfenden Blick auf die nun
+                    von verschiedenen Seiten beleuchteten <seg type="comment">
+                  <orig>Zusammenstellungen</orig>
+                  <note xml:id="nzkv_xfs_rhb">Damit muss
+                            sie Benders Manuskript meinen, worauf Mülverstedt ablehnend reagierte,
+                            siehe den folgenden <ref target="lehndorff_md2_rbg_qcb">Brief</ref>.
+                        </note>
+               </seg> werfen wollten, und liebenswürdigerweise mir Ihr Urteil,
+                    treuen Rat und Ihre Anleitung angedeihen lassen wollten, damit womöglich die bis
+                    jetzt doch mehr auf Hypothesen als wirklich urkundlich erwiesenen Orte
+                    berechtigter festgestellt werden könnten. Leider ist es noch immer nicht dazu
+                    gekommen, dass, seitdem sie sich liebenswürdig damit befasst, das <orgName key="ed_ard_2kg_my">Königsberger Archiv</orgName> genügend exploitiert wäre.
+                        <seg type="comment">
+                  <orig>Dr. <persName key="ed_xhr_shh_my">Meckelburg</persName> soll nicht sehr zuvorkommend sein, trotzdem
+                            er mir versprochen hatte, Dr. <persName key="ed_pkx_mfy_d2b">Bender</persName>, der sich zu solcher Arbeit angeboten, volle
+                            Einsicht in das Archiv zu gestatten.</orig>
+                  <note xml:id="nkx1_ggz_3fb">Meckelburg war auch Sekretär der Altertumsgesellschaft Prussia, der
+                            Graf Lehndorff ab 17. Januar 1879 als ordentliches Mitglied angehörte,
+                            vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                            555.</note>
+               </seg>
+            </p>
+                <p>
+               <seg type="comment">
+                  <orig>
+                     <seg type="comment">
+                        <orig>Dr. Benders
+                                    Zusammenstellungen genügen mir nun gar nicht.</orig>
+                        <note xml:id="nb31_vfy_d2b">Diese sbchriftlich in: LASA, StA L,
+                                    Bestand 21950 FA Lehndorff, Nr. 122 (1867). </note>
+                     </seg> Die
+                            etwas vom Zaun gebrochenen Ansichten und willkürlichen Annahmen sind mir
+                            zugleich unsympathisch und ungeschichtlich; während Ihre Hoffnung, uns
+                            verbunden mit den Stangonen zu sehen, mir sehr viel erfreulicher ist als
+                            der sehr plötzlich aus dem <placeName key="ed_y5w_wtp_dz">Bartenschen</placeName> auftauchende <persName key="ed_j2r_xp3_d2b">Maul</persName>, der sich nun mit der Legendorffschen Erbtochter
+                            alliiert. </orig>
+                  <note xml:id="npb5_h4z_sbb">In der Akte eine Abschrift
+                            eines Epitaphs aus Preußisch Eylau, <quote>welches von 1576 datierte und
+                                vielleicht Licht über die dunklen Heiratsverwandtschaften der ersten
+                                Fabiane gibt. Auch die Wappen Lehndorff u. Legendorff von dort sind
+                                hier im Archiv kopiert unter Ahasverus Ernst 1724.</quote> Dieser
+                            geht zurück auf eheliche Verbindungen zwischen von Lehndorff und von
+                            Lichtenhain, von Legendorff und vom Felde, von Lichtenhain und von
+                            Brosen, vom Felde und von Madewitz als Urgroßeltern des 1527 geborenen
+                            und 1576 verstorbenen Fabian von Lehndorff. - Vgl. LASA, StA L, Bestand
+                            21950 FA Lehndorff, Nr. 129: <quote>Chronik des Adelsgeschlechts von
+                                1202 bis 1513</quote> mit Quellenangaben in der Handschrift Anna von
+                            Lehndorffs aus der 2. Hälfte des 19. Jahrhunderts, die die Familie auf
+                            Otto von Legendorff 1202 als Zeuge in einem Grenzvertrag des Klosters
+                            Dobrilug (Lausitz) und auf die Stanges im 13. Jahrhundert – u. a.
+                            Heinrich Stange als Vertreter des Deutschen Ordens als Zeuge in einer
+                            Urkunde des Landmeisters über die Grenzen des bischöflichen Anteils -
+                            zurückführt. Ein weiteres Heft mit Urkundenabschriften aus dem 13.
+                            Jahrhundert, ebd., Nr. 135, lässt sich nicht Anna von Lehndorff
+                            zuordnen. Hier Bl. 42v: <quote>In den Sitzungen unseres historischen
+                                Vereins erwähnte ein Mitglied (Herr Prof. Dr. <persName key="ed_pkx_mfy_d2b">Bender</persName> aus <placeName key="ed_pgb_5wy_bcb">Braunsberg</placeName>) gelegentlich, dass
+                                der bei Dissburg II. 7 genannte Stamm pruss. Pippin wahrscheinlich
+                                einer der Vorfahren des im Codex diplo. Pruss. II. Nr. 8 und 29
+                                (korr. mit Blei 138 und 165) genannten Theodericus miles dictus
+                                Stango sei. Es ist mir nicht mehr recht erinnerlich, wie er diese
+                                Ansehung begründete; wenn ich nicht irre, wollte er dies aus der
+                                gleichen Lage des Wohnsitzes beider entnehmen. Jedenfalls bedarf
+                                dieses einer genaueren Untersuchung.</quote> - Es handelte sich wohl
+                            um eine Sitzung des Vereins für die Geschichte von Ost- und Westpreußen,
+                            dem auch Graf Lehndorff angehörte. Vgl. die Sitzungsberichte, in:
+                            Altpreußische Monatsschrift, hrsg. vom Verein für die Geschichte von
+                            Ost- und Westpreußen, Inhaltsverzeichnis zu Bd. 1-40, Königsberg 1905,
+                            S. 6. </note>
+               </seg>
+               <seg type="comment">
+                  <orig>Dass letzteres übrigens der
+                            Fall sein müsse, teilte ich Ihnen vor Jahren schon als meine Überzeugung
+                            mit, und glaube ich nicht, dass der fragliche Maul so plötzlich aus dem
+                            Dunkel auftaucht, sondern, wie Sie richtiger vermuten, in
+                            Familiengemeinschaft zu den Legendorffs steht, was der gute <persName key="ed_pkx_mfy_d2b">Bender</persName> vielleicht leichtfüßig
+                            verneinte, trotz des im Kulmer Lande so vielfach gemeinsamen Auftretens
+                            Maul und Legendorff, für welche er weder eine genügende Abfertigung noch
+                            Erklärung gibt.</orig>
+                  <note xml:id="nlr3_2qz_sbb">Siehe den Brief vom
+                                <ref target="lehndorff_hfg_5kz_sbb">2. August 1862</ref>. In dieser
+                            Frage wandte sich Mülverstedt später an <persName key="ed_xn2_3hy_d2b">Gallandi</persName>. Dessen Antwort vom 19. Februar 1904 in der
+                            Akte, Bl. 36-37: Er könne zu der <quote>hochinteressanten Lehndorffschen
+                                Abstammungsfrage nichts beitrage</quote>, doch wäre es <quote>höchst
+                                seltsam, wenn für den älteren, doch nicht einmal so sehr weit
+                                zurückliegenden Zusammenhang eines bedeutenden Geschlechts die
+                                Urkunden sich nicht finden sollten; sie mögen aber wohl mehr in
+                                Westpreußen zu suchen sein.</quote> Nach seinem Eindruck seien die
+                            Wappen Legendorff und Lehndorff nicht identisch. <quote>Hätte wirklich
+                                der Woiwod <persName key="ed_j2r_xp3_d2b">Fabian</persName> das
+                                Lehndorff-Wappen geführt, so läge freilich die Sache anders; aber
+                                das muss doch Dr. <persName key="ed_gvq_lwl_ddb">Sommerfeldt</persName> erst beweisen. <gap reason="insignificant"/> Die Lehndorff hatten doch auch gar
+                                keinen vernünftigen Grund, diesen hochvornehmen Namen in ihrer
+                                Ahnenreihe zu unterdrücken und statt seiner den der Schwester
+                                einzusetzen. Aber gerade in dieser Aliance Lehndorff-Legendorff
+                                liegt wohl auch eine Haupterklärung des Wirrwarrs. Die Umwandlung
+                                des Wappens Stange in Lehndorff (= Pfeilsdorf) ist mir so gut wie
+                                ausgeschlossen.</quote>
+                        </note>
+               </seg>
+                </p>
+                <p>Endlich geht meine Bitte nun noch dahin, mein lieber Herr von Mülverstedt, <seg type="comment">
+                  <orig>ob Sie</orig>
+                  <note xml:id="npn2_q2g_qcb">Fortsetzung
+                            auf Bl. 29 der Akte.</note>
+               </seg> mir in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> vielleicht irgendeine Persönlichkeit nennen könnten,
+                    der ich die treue <seg type="comment">
+                  <orig>Erforschung der noch vorhandenen,
+                            bisher nicht gefundenen Nachrichten aus dem <orgName key="ed_ard_2kg_my">Provinzialarchiv</orgName>
+                  </orig>
+                  <note xml:id="nask_svm_2cb">Anna
+                            von Lehndorff ließ um 1872 Urkundenabschriften aus dem Danziger
+                            Stadtarchiv (heute Staatsarchiv) betreffend den Woiwoden Fabian von
+                            Legendorff, Sebastian von Legendorff, Hauptmann auf Mewe, Paul von
+                            Legendorff, Bischof von Ermland, Dietrich von Logendorf und Hans von
+                            Logendorf fertigen, vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr.
+                            124. Ob die Dokumente noch vorhanden sind, konnte bisher nicht überprüft
+                            werden. </note>
+               </seg> anvertrauen könnte.</p>
+                <p>
+               <seg type="comment">
+                  <orig>
+                     <persName key="ed_kyp_clr_gz">Voigts</persName>
+                            Regesten und Urkundensammlung</orig>
+                  <note xml:id="nbb1_5jy_d2b">Voigt,
+                            Johannes, Codex Diplomaticus Prussicus - Urkundensammlung zur ältesten
+                            Geschichte Preußens aus dem Königlichen Geheimen Archiv zu Königsberg,
+                            nebst Regesten Königsberg 1836–61, 6 Bde. In seiner Geschichte der
+                            Eidechsen Gesellschaft, 1823, weist Voigt anhand des Ordensarchivs nach,
+                            dass Georg Maul zur Zeit der Schlacht auf dem Tannenberge (1410) in
+                            Kriegsdiensten des Ordens stand und wohl schon vor 1450 Mitglied der
+                            Eidechsengesellschaft war. Er widersetzte sich den aufrührerischen Reden
+                            in der Eidechsengesellschaft, wollte sogar austreten und forderte sein
+                            Siegel zurück. Fabian und Otto von Maul (Maulen), seine Brüder oder
+                            nächsten Verwandten erscheinen dagegen immer als die treuesten Anhänger
+                            des Bundes. - Dass Anna mit Voigt in Kontakt stand, ließ sich nicht
+                            nachweisen. In seiner Funktion als erster wissenschaftlicher Direktor
+                            des Königsberger Staatsarchivs hatte er wiederholt Reisen in die Provinz
+                            unternommen, um Archivalien aus nichtstaatlichem Besitz als Deposita zu
+                            erhalten, vgl. GStA PK, I. HA, Rep. 178, Nr. 1055, Bl. 59-60 (Hein an
+                            den Generaldirektor der Staatsarchive in Berlin, 22. September
+                            1933).</note>
+               </seg> habe ich persönlich durchgesehen und alle vielleicht
+                    Aufklärung versprechenden Urkunden daraus abschriftlich behalten, aber
+                    allerdings wenig gefunden, wenigstens kein rechtes Verbindungsmaterial zwischen
+                    den Stangonen und Legendorff und zwischen diesen und Maul und wieder zurück. So
+                    kann von keiner Familiengeschichte die Rede sein, bevor nicht authentische
+                    Nachrichten über die frühere Geschichte der Familie vorhanden sind.</p>
+                <p>Die Annahme, dass die Stangonen Eingeborene und nicht Eingewanderte (was nebenbei
+                    mir auch viel sympathischer) hat auch dadurch wohl eine Bestätigung für sich,
+                    dass nach der Auffindung meines Vetters Junker von <persName key="ed_tsm_g22_3fb">Oberkunreuth</persName> die eingeborenen Preußischen
+                    auch Ritter des Deutschen Ordens werden konnten und daher <seg type="comment">
+                  <orig>Coleborius Stango</orig>
+                  <note xml:id="nank_xty_d2b">Vgl.
+                            Perlbach, Max, Zur Geschichte des ältesten Großgrundbesitzes im
+                            Deutschordensland Preußen. Dietrich von Dypenow und Dietrich von Stange,
+                            in: Altpreußische Monatsschrift N. F. Königsberg 1902, S. 78-124, v. a.
+                            S. 87 ff. Perlbach verweist darauf, dass es sich um einen Lesefehler
+                            handelt und der Namen Koto(e)borius nach Böhmen verweist. Tatsächlich
+                            gab es in der 2. Hälfte des 13. Jahrhunderts den Namen Stange am Hof des
+                            Bischofs Bruno von Olmütz. </note>
+               </seg> den preußischen Namen trägt,
+                    während er zugleich Ordensritter ist, was bisher irre führte, da eingewanderte
+                    Stangonen doch kaum heidnische Namen annehmen würden. </p>
+                <p>Ich wäre so sehr glücklich, wenn wir schließlich doch noch zu befriedigenden
+                    Auffindungen kommen, und bin so sehr begierig Ihr Urteil zu erfahren über das
+                    bisher zusammengestellte!</p>
+                <p>Hoffentlich geht es mit Ihrer Gesundheit ganz gut, so dass Sie Ihre reichen Gaben
+                    der Geschichte und Ihren Studien ungeteilt hingeben können.</p>
+                <p>Indem ich Ihnen, mein werter Herr von Mülverstedt, schon im Voraus meinen
+                    wärmsten Dank ausspreche für den Einblick, den Sie unserer Geschichte gönnen
+                    wollen, bleibe ich allezeit in ausgezeichneter Hochachtung</p>
+                <closer rend="paragraph">
+                    <salute>Ihre von Herzen ergebene</salute>
+                    <signed>A. Gf. Lehndorff geb. Gfin Hahn</signed>
+                </closer>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

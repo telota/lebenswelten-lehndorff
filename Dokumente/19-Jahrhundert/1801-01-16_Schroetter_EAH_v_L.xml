@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xtx_25c_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Leopold Freiherr von Schrötter an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Berlin, 16. Januar 1801</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xtx_25c_g1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Die Schröttersche Chronik aus Wohnsdorf, hrsg. von
+                            Carl von Lorck unter Mitwirkung von Johann Georg von Rappard,
+                            Limburg/Lahn 1969, S. 33-37.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ifh_zd1_hy">Schrötter, Friedrich Leopold Reichsfreiherr von
+                        (1743-1815)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1801-01-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>
+               <persName key="ed_b2f_xyf_h1b">Lorck</persName>, verheiratet mit <persName key="ed_ms2_tyf_h1b">Anni</persName> geb. Freiin von Schrötter, Tochter von
+                        <persName key="ed_vhr_wjh_cy">Anna Freiin von Schrötter</persName>, geborene
+                    Gräfin von Lehndorff, hatte den Brief im <orgName key="ed_e3t_l2n_4y">Archiv</orgName> zu Steinort benutzt, vgl. ebd., S. 2. Siehe auch:
+                    Altpreußische Forschungen 19 (1942), S. 17. In den Angaben zu Quellen und
+                    Literatur ist hier vermerkt: <quote>Archiv der Grafen von Lehndorff in Steinort
+                        (vernichtet)</quote>. - Ein Stimmungsbild über die Schenkung enthält eine
+                    Briefstelle des Kriegs- und Domänenrates <persName key="ed_dlv_cjv_mbb">Friedrich Wilhelm von Farenheid </persName>auf <placeName key="ed_wkm_lx5_sy">Beynuhnen</placeName> an seinen Schwager Ernst von
+                        <persName key="ed_hfw_vbg_h1b">Saucken</persName>: Königsberg, 17. Januar
+                    1801. <quote>Liebster Saucken. Wir haben nebst einer großen Danksagung für
+                        unseren Neujahrsglückwunsch die Statue des ersten Königs <persName key="ed_syp_mzf_h1b">Friedrich</persName> erhalten. Dieses hat unsere
+                        Stände in solche Gärung gebracht, dass wir morgen einen großen Ball bei
+                        Loyal geben, auch die Stadt illuminiert wird. Das wird mir 52 Lichte
+                        kosten.</quote> - Durch Kabinettsordre des Königs vom 1. Januar 1802 wurde
+                    Schrötter die Aufgabe übertragen, an der Aufstellung und der Wahl des Standortes
+                    und des Sockels mitzuwirken. Vgl.  <ref target="http://dlibra.bibliotekaelblaska.pl/publication/21318">Lorck, Carl
+                        von, Schrötter und das Friedrichstandbild Schlüters in Königsberg</ref>, in:
+                    Altpreußische Forschungen, 19. Jg. 1942, S. 70-78.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>
+               <note type="editorial">Am 16. Dezember 1800 hatte <persName key="ed_ifh_zd1_hy">Schrötter</persName> Kabinettsminister von <persName key="ed_lrp_dzf_h1b">Beyme</persName> geschrieben: </note>Ich kann nicht
+                    sagen, dass im eigentlichen Verstande des Wortes die preußischen Stände die oben
+                    gedachte <rs type="term" key="ed_xgm_r2g_h1b">Statue</rs> des Königs <persName key="ed_syp_mzf_h1b">Friedrichs I.</persName> gewünscht haben, denn es ist
+                    sehr wenigen von ihnen die Existenz dieser Statue <persName key="ed_qht_rzf_h1b">Schlüters</persName> bekannt. Ich fand sie aber vor einigen Jahren, als ich
+                    das <seg type="comment">
+                  <orig>Zeughaus</orig>
+                  <note xml:id="ntvl_ys3_y2b">in
+                                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                  </note>
+               </seg>
+                    besuchte, in einen Winkel gestellt, und äußerte den Wunsch, sie in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> aufgestellt zu sehen, wo sie
+                    eigentlich hingehört, und besser als in einen Winkel des Zeughauses platziert
+                    wäre. Dieser Gedanke hat sich verbreitet, und Graf <persName key="ed_csb_mdf_cy">Lehndorff</persName>, dem ich vermutlich auch diese Idee mitgeteilt hatte,
+                    sagte mir, so ich nicht irre, im vergangenen Winter, dass er Seine <persName key="ed_tl1_nbf_4y">Majestät</persName> um diese Statue gebeten hätte.</p>
+                
+            </div>
+            <div type="writingSession" n="">
+                <opener>
+                    <dateline rend="align(right)">Berlin, den 16. Januar 1801</dateline>
+                </opener>
+                <p>Ew. Hochgeboren freundschaftliches und gütiges Schreiben vom 9. M. verdanke ich
+                    allein Dero patriotischem Gefühl, das noch an Dingen Vergnügen und Freude
+                    empfindet, über welche die jetzigen großen Geister sich hinwegzusetzen pflegen
+                    und dadurch den Grund zu ihrem, ihrer Familien und dem allgemeinen Verderben
+                    legen. </p>
+            <p>So habe ich schon aus unserem lieben Vaterlande vernommen, dass man
+                    die Statue für ein elendes Stück hält, das in einem Winkel des Zeughauses
+                    gelegen und schon lange hat eingeschmolzen werden sollen. </p>
+            <p>Berichtigen Ew. Hochgeboren, die Sie die Geschichte der Statue kennen, doch diese Ideen. Sie ist
+                    ein Meisterstück von <persName key="ed_qht_rzf_h1b">Schlüter</persName>, und der
+                    berühmte <persName key="ed_xmd_f1g_h1b">Schadow</persName>, mit dem ich in
+                    diesen Tagen, um sie zu besehen und über das Fußgestell zu deliberieren, im
+                    Zeughause war, versicherte mir, dass es noch sehr streitig wäre, ob in Bezug auf
+                    Stellung und feine Arbeit diese Statue nicht für die auf der Langen Brücke den
+                    Vorzug hätte. Außerdem ist es in diesem Augenblick des <persName key="ed_tl1_nbf_4y">Königs</persName> eigenen Idee gewesen. Professor
+                        <persName key="ed_hcg_t1g_h1b">Biester</persName> hat von seiten der
+                    Kunstakademie den Vorschlag gemacht, sie aus ihrem Gefängnis zu befreien und vor
+                    dem Arsenal aufzustellen. Diese Idee aber verwarf der König, bestimmte gleich,
+                    dass sie nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, als wohin
+                    sie, wie er sagte, eigentlich gehöre, kommen solle, und ließ deshalb mit mir
+                    wegen der Transportkosten und Fußgestell Rücksprache nehmen. Dies ist der letzte
+                    und wahre Teil der Geschichte. </p>
+            <p>Jetzt wünschte ich nur, dass sich unsere Mitbrüder gut und vernünftig
+                    benehmen und dem König das sagen, was seine gute und gnädige Intention verdient.
+                    </p>
+            <p>Neues weiß ich Ew. Hochgeboren von hier aus nichts zu sagen, was Sie nicht durch andere besser
+                    erführen. Überdem ist morgen vielleicht nicht mehr wahr, was heut noch Sensation
+                    macht, und gewöhnliche Neuigkeiten genügen uns nicht mehr. Es geht mit unserem
+                    politischen Geschmack wie mit jemandem, der nichts als Rum trinkt und alles mit
+                        <seg type="comment">
+                  <orig>asa foetida</orig>
+                  <note xml:id="njjk_dbg_h1b">Getrocknetes Gummiharz, das vom Milchsaft der Assantpflanze gewonnen
+                            wird. Nach längerem Kochen entwickelt es ein Aroma, das an Zwiebel und
+                            Lauch erinnert. </note>
+               </seg> würzt, alle gewöhnliche Kost schmeckt dann
+                    fade. </p>
+                <closer rend="paragraph">
+                    <salute>In der festen Hoffnung, Ew. Hochgeboren Gnaden diesen Sommer persönlich
+                        zu sehen und zu sprechen, verharre mit aller Hochschätzung und Freundschaft
+                        <lb/>Ew. Hochgeboren ganz ergebenster Freund und Diener</salute>
+                    <signed>Schrötter</signed>
+                    <lb/>
+            </closer>
+            </div>
+            <postscript>
+                <p>Unsere Landsmännin, die Frau von <persName key="ed_ujt_4bg_h1b">Bredow</persName>, lässt Ew. Hochgeboren viel Liebes und Gutes, aber auch viel
+                    Böses sagen, dass Sie sich, ihrem Ausdruck zu Folge, so lange in der Provinz,
+                    ohne was zu tun zu haben, herumtreiben. Ich habe sie vorgestern bei Prinz
+                        <persName key="ed_mn5_svg_hy">Ferdinand</persName> gesprochen. </p>
+            <p>Unser <rs type="term" key="ed_xhr_bfg_h1b">Karneval</rs> ist etwas mattherzig, wahrscheinlich
+                    wird er nach dem 22. h. munterer, <seg type="comment">
+                  <orig>als an welchem Tage
+                            die Kaiserliche Hoheit ankommt</orig>
+                  <note xml:id="nhwm_hcg_h1b">Am 27.
+                            Januar traf die russische Großfürstin Helena Pawlowna Romanowa mit ihrem
+                            Gemahl, dem Erbprinzen Friedrich Ludwig zu Mecklenburg ein, um am
+                            Karneval teilzunehmen.</note>
+               </seg>. </p>
+            <p>Verzeihen Sie mein Geschmiere, ich muss alle solchen Briefe nur auf der
+                    Post schreiben.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

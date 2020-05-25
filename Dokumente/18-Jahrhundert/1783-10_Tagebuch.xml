@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_rwj_yyd_zdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort,
+                    Oktober/November 1783</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_rwj_yyd_zdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Karl Eduard, Des Reichsgrafen Ernst
+                            Ahasverus Heinrich Lehndorff Tagebücher nach seiner Kammerherrenzeit, Bd.
+                            1, Gotha 1921, S. 340 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <date from="1783-10-01" to="1783-11-30" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Wir beschäftigen uns viel mit der <seg type="comment">
+                  <orig>
+                     <placeName key="ed_uyl_j3c_gy">Danziger</placeName> Angelegenheit.</orig>
+                        <note xml:id="nchj_c12_zdb">Die Danziger hatten, um sich für Friedrichs
+                            Maßnahmen, die den Anschluss Danzigs an Preußen bezweckten, zu rächen,
+                            zwei preußische Schiffe festgehalten; die Belagerung wurde im Januar
+                            1784 aufgehoben, vgl. hierzu ebd., S. 347 und 350</note>
+               </seg>. Die
+                    Politiker meinen, jetzt sei eine gute Gelegenheit, die Stadt zu nehmen. Ich für
+                    meinen Teil nehme an, dass der Magistrat sich durch seine unklugen Maßnahmen
+                    unsere Truppen auf den Hals gezogen hat, die nun alle Straßen nach der Stadt
+                    besetzt halten, so dass hier eine schreckliche Teuerung herrscht.</p>
+                <p>Unsere Politiker möchten gern dahinterkommen, <seg type="comment">
+                  <orig>welche
+                            Partei unser <persName key="ed_x2r_52f_cy">König</persName> ergreifen
+                            werde</orig>
+                  <note xml:id="nxn3_f12_zdb">Gemeint ist dessen Stellung zur
+                            orientalischen Frage, vgl. S. 344.</note>
+               </seg>. Die Briefe aus
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> widersprechen sich; die
+                    einen deuten eine Hinneigung zu <placeName key="ed_stc_3k4_dz">Österreich</placeName>, die anderen zu <placeName key="ed_ust_ky4_dz">Frankreich</placeName> an. Meistens nimmt man an, dass letzteres für uns am
+                    vorteilhaftesten sein würde. Indessen geht dies Jahr der Handel in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> recht flott, eine ganz bedeutende
+                    Anzahl Schiffe hat unser Getreide.</p>
+                <p>
+               <gap reason="insignificant"/>
+            </p>
+                <p>Über solche Irrungen und Wirrungen in der großen Welt lächle ich in meiner
+                    Einsamkeit, und wenn ich viel über den Krieg mit den Türken, über das Bündnis
+                    zwischen <placeName key="ed_stc_3k4_dz">Österreich</placeName> und <placeName key="ed_iky_35l_cz">Russland</placeName> sowie über das, welches wir mit
+                        <placeName key="ed_ust_ky4_dz">Frankreich</placeName> schließen sollten,
+                    über die Aufregung an allen Höfen, die ich kenne, über das Leben und Treiben auf
+                    den Gesellschaften nachgedacht habe, dann ziehe ich mich in meine Wälder zurück,
+                    mache Spaziergänge und sehe die jungen Eichen wachsen, die ich mit meinen
+                    Kindern aus der Frucht gezogen habe. Dergleichen interessiert mich jetzt ebenso
+                    wie früher die großen Weltereignisse.</p>
+                <p>Der <persName key="ed_nvx_wcz_bz">Prinz Heinrich</persName> schreibt an mich und
+                    schickt mir den schönen <seg type="comment">
+                  <orig>Kupferstich „Der Tod des
+                            Generals Wolfe‟</orig>
+                  <note xml:id="nxvb_l12_zdb">Bild von Benjamin West
+                            (1738-1829), den General James Wolfe bei der Eroberung von Quebec
+                            darstellend. Er fiel am 13. September 1759</note>
+               </seg>. <gap reason="insignificant"/>
+            </p>
+                <p>Ich erhalte den Besuch des Regierungsrats <persName key="ed_r3s_ymw_mbb">Glave</persName>, der bei uns eine neue Gerichtsbarkeit einführen will,
+                    sowie des <persName key="ed_uhx_5jq_tcb">Erzpriesters aus Angerburg</persName>
+                    und des Majors <persName key="ed_wjh_yrf_vdb">Winterfeld</persName>, den der
+                    König von <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> nach <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> verbannt hat. <gap reason="insignificant"/>
+            </p>
+                <p>
+               <seg type="comment">
+                  <orig>Der Rat <persName key="ed_cx3_pc1_hy">Becherer</persName> von der Kriegs- und Domänenkammer in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> besucht mich und macht mir
+                            den Vorschlag, ich solle meinen See ablassen,</orig>
+                  <note xml:id="nxfx_v42_bhb">Vgl. auch das Dokument vom <ref target="lehndorff_cmk_chw_t1b">14. Mai 1784</ref>.</note>
+               </seg>
+                    damit die Bewohner dieser Landstriche mehr Wiesen hätten. Ich unterhalte mich
+                    ganz gern mit Projektemachern und bin in hohem Maße belustigt, wenn ich sie in
+                    ihre Pläne so vertieft sehe, dass sie alles andere für nichts achten.</p>
+                <p>Ich bin in großer Unruhe, weil man plötzlich meinen Tischler zum Militär
+                    einziehen will. Er misst <seg type="comment">
+                  <orig>7 Zoll und 1
+                            Strich</orig>
+                  <note xml:id="nytn_fb2_zdb">D. h. 5 Fuß, 7 Zoll und 1
+                            Strich.</note>
+               </seg>; deshalb wäre es nur eine Gefälligkeit vom General,
+                    wenn ich ihn los bekäme. Ich schicke ihn nun nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, gebe ihm aber einen Brief an den <persName key="ed_zny_zpv_scb">General Anhalt</persName> mit. Dieser hat wirklich die
+                    Güte, ihn mir zurückzugeben.</p>
+                <p>
+               <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

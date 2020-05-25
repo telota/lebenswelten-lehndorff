@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ims_hcg_j1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Lohmeyer an Anna Gräfin von Lehndorff. Königsberg, 27. Januar 1892</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ims_hcg_j1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Herkunft/Genealogie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 596, n. f.</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Aktentitel: Briefwechsel des Herzogs <persName key="ed_ikm_hb1_jlb">Albrecht Friedrich von Preußen</persName> (1533-1618) mit dem
+                            Hofmeister <persName key="ed_m2f_swp_vcb">Caspar von
+                                Lehndorff</persName>. Die von Lohmeyer benannten Originale liegen in
+                            einem Doppelblatt, die Beschriftung stammt von <persName key="ed_wms_mh2_cy">Anna von Lehndorf</persName>f.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_kkv_g5l_gbb">Lohmeyer, K. (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1892-01-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note> Ob die Lehndorffs an dem 1883 gebildeten Komitee für die Errichtung eines
+                    Erzstandbildes des Herzogs Albrecht von Preußen Anteil nahmen oder es sogar
+                    unterstützten, ist weiter zu prüfen. Im Archiv finden sich lediglich
+                    Mitteilungen über die Bildung des Komitees (Nr. 887 und 888).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, Auguststraße 6, 27. Januar 1892</dateline>
+					          <salute>Gnädigste Frau Gräfin!</salute>
+                </opener>
+                <p>Als ich vor einigen Jahren mit Euer Hochgeboren gütigster Erlaubnis im gräflichen
+                    Archiv zu <orgName key="ed_e3t_l2n_4y">Steinort</orgName> einige Nachforschungen
+                    anstellen durfte, fand ich auch mehrere auf jenen <seg type="comment">
+                  <orig>
+                     <persName key="ed_m2f_swp_vcb">Caspar von
+                                Lehndorff</persName> bezügliche Stücke, der u. a. des kranken
+                            Herzogs <persName key="ed_ikm_hb1_jlb">Albrecht Friedrich</persName>
+                            Hofmeister gewesen ist</orig>
+                  <note xml:id="nxlz_tpj_fbb"> Herzog
+                            Albrecht und sein Hofprediger. Eine Königsberger Tragödie aus dem
+                            Zeitalter der Reformation, von Carl Alfred Hase, Milit. Oberpfarrer …
+                            Leipzig 1879. S. 387: <quote>Während der Kinderjahre des Prinzen
+                                Albrecht Friedrich (geb. 29.4.1553) war der Hofmeister Jakob von
+                                Schwerin, später der Gouverneur Caspar von Lehndorff mit seiner
+                                Erziehung betraut</quote>, S. 391: <quote>1568, 20.3. war der Herzog
+                                Albrecht gestorben. Caspar von Lehndorff brachte dem jungen Herzog
+                                die Trauerkunde.</quote> Zitiert nach: GStA PK, VI. HA, FA v. Auer,
+                            Nr. 159: Genealogisches zu verwandten Familien 1867-1883. - Siehe auch:
+                            APO, Bestand 382 FA Lehndorff, Nr. 519 (K. und Wilhelm von Auer an Anna
+                            Gräfin von Lehndorff, 1891) </note>
+               </seg>. </p>
+            <p>Da ich nun dabei bin, ein für die Geschichte der inneren politischen und besonders
+                    wirtschaftlichen Entwicklung Preußens hochwichtiges größeres Aktenstück, welches
+                    ich vor drittehalb Jahren im K. Geh. Staatsarchiv zu Berlin fand, für unseren
+                        <seg type="comment">
+                  <orig>Geschichtsverein</orig>
+                  <note xml:id="ny2c_kvv_h2b">Verein für die Geschichte Ost- und Westpreußens; sein Publikationsorgan
+                            war die Altpreußische Monatsschrift. </note>
+               </seg> herauszugeben, so
+                    möchte ich gern in dem Anhange dazu auch drei der oben bezeichneten Stücke
+                    getreu abdrucken lassen, ich meine: in buchstäblich getreuer Kopie. Dass Euer
+                    Hochgeboren mir gern die Ermächtigung dazu geben werden, um welche ich hiermit
+                    gehorsamst bitte, darf ich natürlich keinen Augenblick bezweifeln. Aber ich habe
+                    damals keine Abschriften genommen, sondern nur Auszüge gemacht. Vielleicht haben
+                    Euer Hochgeboren die Gewogenheit, wenn auch nicht mir selbst, so doch dem
+                    hiesigen <orgName key="ed_ard_2kg_my">K. Staatsarchiv </orgName>oder etwa der
+                    Königlichen und Universitätsbibliothek die Sachen auf ganz kurze Zeit
+                    anzuvertrauen, damit dort an Ort und Stelle die Abschriften gemacht werden
+                    können.</p>
+            <p>Die drei Stücke, welche ich im Sinne habe, sind: <list>
+                        <item>1) Undatiert, C. v. L. bittet den Herzog A. F. ihn seines
+                            Hofmeisteramtes zu entbinden, und die eigenhändige, ebenfalls undatierte
+                            Antwort darauf:</item>
+                        <item>2) Neuhausen 24. November 1572, der Herzog an seinen Hofmeister</item>
+                        <item>3) Königsberg 26. Oktober 1674, die Entlassung Lehndorffs aus jener
+                            Stellung.</item>
+                    </list>
+            </p>
+                <p>Übrigens glaube ich bemerken zu dürfen, dass ich eine Probe aus jenem Aktenstück
+                        <seg type="comment">
+                  <orig>Caspars, v. Nostitz Haushaltungsbuch des
+                            Fürstentums Preußen</orig>
+                  <note xml:id="nbs3_1zg_lfb">Vgl. <ref target="http://www.worldcat.org/title/kaspars-von-nostitz-haushaltungsbuch-des-furstenthums-preussen-1578-ein-quellenbeitrag-zur-politischen-und-wirthschaftsgeschichte-altpreussens/oclc/35579595">http://www.worldcat.org/title/kaspars-von-nostitz-haushaltungsbuch-des-furstenthums-preussen-1578-ein-quellenbeitrag-zur-politischen-und-wirthschaftsgeschichte-altpreussens</ref>.</note>
+               </seg>,
+                    bereits in der <seg type="comment">
+                  <orig>Altpreußischen Monatsschrift von
+                            1889</orig>
+                  <note xml:id="noyl_rzg_lfb">
+                     <ref target="http://dlibra.bibliotekaelblaska.pl/dlibra/publication?id=21932&amp;tab=3">Im Siebenten und achten Heft, Oktober-Dezember 1889, vgl.
+                                http://dlibra.bibliotekaelblaska.pl</ref>. </note>
+               </seg>
+                    bekanntgegeben habe.</p>
+				        <closer>
+				           <salute>Mit angelegentlicher Empfehlung habe ich die Ehre mich zu zeichnen als Euer
+                        Hochgeboren Ehrerbietigst ergebener</salute>
+					          <signed>Lohmeyer, Prof.</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

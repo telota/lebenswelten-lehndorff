@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_udp_23t_xcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Franz Todtenhöfer &amp; Co. Auto-Palast an Carol Graf von Lehndorff.
+                    Königsberg, 5. Oktober 1914</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_udp_23t_xcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 173, Bl. 23</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_yz5_xnm_zdb">Franz Todtenhöfer und Co. Autopalast,
+                        Königsberg</orgName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1914-10-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ik3_ckz_2y">Lehndorff, Carl Meinhard (Carol) Graf von
+                        (1860-1936)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/3/173/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg i. Pr., Steindamm 142/43, den 5. Oktober 1914</dateline>
+					          <salute>Sr. Hochgeboren Herrn Grafen Lehndorff-Steinort, <lb/>z. Zt. Tilsit O/Pr.
+                        <lb/>Bahnhofshotel</salute>
+                </opener>
+				        <p>Zufolge Ihres sehr geehrten Schreibens vom 3. d. Mts. versuchten wir gestern Sie telephonisch
+                    unter der angegebenen Nummer „Tilsit 766‟ zu erreichen, doch wurde uns von der
+                    Post erklärt, dass die Leitung jetzt nur ausschließlich militärischen Interessen
+                    dient.</p>
+                <p>Für die von Ihnen beabsichtigte Autofahrt nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> empfehlen wir Ihnen, sich an die Tilsiter <orgName key="ed_xjb_j4m_zdb">Automobil-Droschken-Gesellschaft Inh. Friedrich
+                        Ehlert</orgName> zu wenden; hinsichtlich des Preises können wir Ihnen aber
+                    leider nähere Angaben nicht machen, da jetzt während des Krieges andere Sätze in
+                    Frage kommen werden, als dieses früher der Fall war. Wir empfehlen Ihnen jedoch,
+                    den Preis im Voraus zu vereinbaren.</p>
+                <p>Was das Gehalt des Chauffeurs anbelangt, so bitten wir Sie freundlichst davon
+                    Vormerkung zu nehmen, dass wir Demselben für 14 Tage Mark 75,- Gehalt sowie Mark
+                    30,- Reisevorschuss gezahlt haben; für Depeschen-Auslagen erlauben wir uns Mark
+                    6,95 zu liquidieren, wovon wir bitten gütigst Kenntnis zu nehmen.</p>
+				        <closer>
+					          <salute>Wir sind gerne zu Ihren Diensten und empfehlen uns hochachtungsvoll</salute>
+					          <signed>Franz Todtenhöfer &amp; Co.</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

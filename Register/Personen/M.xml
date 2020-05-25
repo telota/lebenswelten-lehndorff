@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_ts4_rwf_llb">
+                    <idno type="uri">https://d-nb.info/gnd/118781103</idno>
+                    <persName type="reg">
+                        <surname>Mackenzie</surname>
+                        <forename>Morell</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1892</death>
+                </person>
+                <person xml:id="ed_k3z_hbc_jlb">
+                    <persName type="reg">
+                        <surname>Morzin</surname>
+                        <forename>Vinzenz Graf</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1882</death>
+                    <note>Oberst, Kämmerer</note>
+                </person>
+                <person xml:id="ed_p3r_k4j_hlb">
+                    <idno type="uri">https://d-nb.info/gnd/11858314X</idno>
+                    <persName type="reg">
+                        <surname>Möser</surname>
+                        <forename>Justus</forename>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1794</death>
+                </person>
+                <person xml:id="ed_sxm_55t_flb">
+                    <idno type="uri">https://d-nb.info/gnd/104182172</idno>
+                    <persName type="reg">
+                        <surname>Mecklenburg-Strelitz</surname>
+                        <forename>Karl II. Herzog (Großherzog) von</forename>
+                    </persName>
+                    <birth>1741</birth>
+                    <death>1816</death>
+                </person>
+                <person xml:id="ed_hqh_d5w_2lb">
+                    <persName type="reg">
+                        <surname>Massalski</surname>
+                        <forename>Ignacy Jakub </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1762–1794 Bischof von Vilnius</note>
+                </person>
+                <person xml:id="ed_a2w_mzw_clb">
+                    <persName type="reg">
+                        <surname>Mey</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberamtmann (1745)</note>
+                </person>
+                <person xml:id="ed_afd_cfx_clb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stobben</note>
+                </person>
+                <person xml:id="ed_dx2_vv4_mbb">
+                    <persName type="reg">
+                        <surname>Machholz</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1776 Pfarrer der reformierten Gemeinde in Königsberg</note>
+                </person>
+                <person xml:id="ed_gb5_wnh_tdb">
+                    <persName type="reg">
+                        <surname>Mackenzie</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Engländer (1756, 1769)</note>
+                </person>
+                <person xml:id="ed_zyn_spb_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/118730185</idno>
+                    <persName type="reg">
+                        <surname>Magnus</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1872</death>
+                </person>
+                <person xml:id="ed_tnb_yq5_zdb">
+                    <persName type="reg">
+                        <surname>Mahlmeister</surname>
+                        <forename>Alexander</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1942 Schuhmachermeister in Berlin</note>
+                </person>
+                <person xml:id="ed_l32_tf4_my">
+                    <persName type="reg">
+                        <surname>Mahsmann</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1871 Bevollmächtigter der Gräfin Lehndorff in Gastein </note>
+                </person>
+                <person xml:id="ed_izg_ssm_zcb">
+                    <persName type="reg">
+                        <surname>Majewski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmann (1814)</note>
+                </person>
+                <person xml:id="ed_j51_zvk_wcb">
+                    <persName type="reg">
+                        <surname>Male</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1821 Wirtschafterin Heinrich von Lehndorffs</note>
+                </person>
+                <person xml:id="ed_og3_hcb_hfb">
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Baron von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Rothenmoor in Mecklenburg (1858)</note>
+                </person>
+                <person xml:id="ed_cxj_rwl_wcb">
+                    <idno type="uri">http://d-nb.info/137915446</idno>
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Burchard Friedrich Graf von</forename>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1837</death>
+                </person>
+                <person xml:id="ed_nv3_qvd_b2b">
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Friederike von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Seeliger</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1817)</note>
+                </person>
+                <person xml:id="ed_hxt_qch_1cb">
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1882, 1889)</note>
+                </person>
+                <person xml:id="ed_tyg_d5p_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/137915683</idno>
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Hans Dietrich Freiherr von</forename>
+                    </persName>
+                    <birth>1725</birth>
+                    <death>1757</death>
+                </person>
+                <person xml:id="ed_rqn_gy3_tdb">
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Helmut Burchard Hartwig Freiherr von</forename>
+                    </persName>
+                    <birth>1729</birth>
+                    <death>1797</death>
+                    <note>preußischer Geheimer Legationsrat, ehemaliger Gesandter in Stockholm, auf
+                        Ivenack </note>
+                </person>
+                <person xml:id="ed_b4z_sqf_p2b">
+                    <idno type="uri">https://d-nb.info/gnd/128128232</idno>
+                    <persName type="reg">
+                        <surname>Manneberg</surname>
+                        <forename>Werner</forename>
+                    </persName>
+                    <birth>1923</birth>
+                    <death>2000</death>
+                </person>
+                <person xml:id="ed_ezm_s3b_1bb">
+                    <idno type="uri">http://d-nb.info/gnd/116735996</idno>
+                    <persName type="reg">
+                        <surname>Manteuffel</surname>
+                        <forename>Otto Theodor Freiherr von</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1882</death>
+                </person>
+                <person xml:id="ed_b3j_dln_scb">
+                    <persName type="reg">
+                        <surname>Marat</surname>
+                        <forename>Johann Baptist</forename>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1820</death>
+                    <note>Violoncellist, Komponist; Sohn des aus Böhmen stammenden Violoncellisten
+                        der Berliner Hofkapelle Ignaz Marat (1764)</note>
+                </person>
+                <person xml:id="ed_rr4_z2k_d2b">
+                    <persName type="reg">
+                        <surname>Maraun</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Condehnen, 1861 Abgeordneter Wahlkreis Schaken</note>
+                </person>
+                <person xml:id="ed_tkt_v5d_ndb">
+                    <persName type="reg">
+                        <surname>Marschall</surname>
+                        <forename/>
+                    </persName>
+                    <persName type="alt">
+                        <name>Marschall von Bieberstein</name>
+                    </persName>
+                    <birth/>
+                    <death>1753</death>
+                    <note>preußischer Legationsrat; Vetter von Ernst Ahasverus Heinrich Graf von
+                        Lehndorff</note>
+                </person>
+                <person xml:id="ed_nw4_ppf_vdb">
+                    <persName type="reg">
+                        <surname>Marschall</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Marschall von Bieberstein</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>https://de.wikipedia.org/wiki/Marschall_von_Bieberstein</note>
+                </person>
+                <person xml:id="ed_ywt_ks5_dlb">
+                    <persName type="reg">
+                        <surname>Marschall</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1763)</note>
+                </person>
+                <person xml:id="ed_xw1_drv_scb">
+                    <persName type="reg">
+                        <surname>Martin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Kutscher in Steinort</note>
+                </person>
+                <person xml:id="ed_zpg_fl1_tcb">
+                    <persName type="reg">
+                        <surname>Martin</surname>
+                        <forename>Marie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Küstrin (1762)</note>
+                </person>
+                <person xml:id="ed_nvz_h3g_hy">
+                    <idno type="uri">http://d-nb.info/gnd/128407352</idno>
+                    <persName type="reg">
+                        <surname>Martini</surname>
+                        <forename>Giuseppe</forename>
+                    </persName>
+                    <birth>1922</birth>
+                    <death>2007</death>
+                </person>
+                <person xml:id="ed_bzd_nsf_vdb">
+                    <persName type="reg">
+                        <surname>Marwitz</surname>
+                        <forename>August Gebhard von der</forename>
+                    </persName>
+                    <birth>1695</birth>
+                    <death>1753</death>
+                    <note>(1740)</note>
+                </person>
+                <person xml:id="ed_nnw_1qf_vdb">
+                    <idno type="uri">http://d-nb.info/gnd/129410616</idno>
+                    <persName type="reg">
+                        <surname>Marwitz</surname>
+                        <forename>Bodo von der</forename>
+                    </persName>
+                    <birth>1893</birth>
+                    <death>1982</death>
+                </person>
+                <person xml:id="ed_cmb_1lg_hy">
+                    <idno type="uri">http://d-nb.info/gnd/118578472</idno>
+                    <persName type="reg">
+                        <surname>Marwitz</surname>
+                        <forename>Friedrich August Ludwig von der</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1837</death>
+                </person>
+                <person xml:id="ed_ohl_5sf_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/107605336X</idno>
+                    <persName type="reg">
+                        <surname>Marwitz</surname>
+                        <forename>Gustav Ludwig von der</forename>
+                    </persName>
+                    <birth>1730</birth>
+                    <death>1797</death>
+                </person>
+                <person xml:id="ed_stb_3j2_2cb">
+                    <persName type="reg">
+                        <surname>Marwitz zu Friedersdorf</surname>
+                        <forename>Behrendt Friedrich August von der</forename>
+                    </persName>
+                    <birth>1740</birth>
+                    <death>1793</death>
+                    <note>auf Friedersdorf; Hofmarschall von König Friedrich Wilhelm II.
+                        https://de.wikipedia.org/wiki/Behrendt_Friedrich_August_von_der_Marwitz</note>
+                </person>
+                <person xml:id="ed_j4h_dtf_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/118731467</idno>
+                    <persName type="reg">
+                        <surname>Marwitz zu Friedersdorf</surname>
+                        <forename> von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_uyn_sjv_g2b">
+                    <persName type="reg">
+                        <surname>März</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1882 Schneider in Buddern</note>
+                </person>
+                <person xml:id="ed_zcn_fdb_h2b">
+                    <persName type="reg">
+                        <surname>Massenbach</surname>
+                        <forename>Anna Maria Elise von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Steiner</name>
+                    </persName>
+                    <birth>1861</birth>
+                    <death/>
+                    <note>Heirat: 1880 Franz III. Victor Fabian Johannes Freiherr von Massenbach
+                        (1850-1914), auf Gut Angerhof, Kreis Angerburg</note>
+                </person>
+                <person xml:id="ed_vhm_mqk_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/137396600</idno>
+                    <persName type="reg">
+                        <surname>Massenbach</surname>
+                        <forename>Friedrich von</forename>
+                    </persName>
+                    <birth>1753</birth>
+                    <death>1819</death>
+                </person>
+                <person xml:id="ed_pbf_yvl_wcb">
+                    <persName type="reg">
+                        <surname>Mason</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1835 Bankier in Berlin</note>
+                </person>
+                <person xml:id="ed_sqh_5wl_wcb">
+                    <idno type="uri">https://d-nb.info/gnd/116836482</idno>
+                    <persName type="reg">
+                        <surname>Massow</surname>
+                        <forename>Ludwig von</forename>
+                    </persName>
+                    <birth>1794</birth>
+                    <death>1859</death>
+                </person>
+                <person xml:id="ed_v23_gsp_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/137397135</idno>
+                    <persName type="reg">
+                        <surname>Massow</surname>
+                        <forename>Valentin von</forename>
+                    </persName>
+                    <birth>1712</birth>
+                    <death>1775</death>
+                </person>
+                <person xml:id="ed_h5p_2lj_gy">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertan der Grafen von Lehndorff-Steinort, 1795 entlaufen</note>
+                </person>
+                <person xml:id="ed_txb_pkm_33b">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Familie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort. http://www.datenbank-nord-masuren.besaweb.de/</note>
+                </person>
+                <person xml:id="ed_mkg_rml_w2b">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertan der Grafen von Lehndorff-Steinort, 1735 entlaufen</note>
+                </person>
+                <person xml:id="ed_cqs_vml_w2b">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename> Maria Charlotte </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Puskin</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertanin der Grafen von Lehndorff-Steinort, 1771 entlaufen</note>
+                </person>
+                <person xml:id="ed_hd4_tml_w2b">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gärtner in Steinort, 1756 entlaufen</note>
+                </person>
+                <person xml:id="ed_fy5_kp5_1bb">
+                    <persName type="reg">
+                        <surname>Matthias</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1724 Hofmann in Steinort</note>
+                </person>
+                <person xml:id="ed_wtm_b4m_s3b">
+                    <persName type="reg">
+                        <surname>Maul </surname>
+                        <forename>Jacob von </forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Legendorff</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Maulen</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Lehndorff</name>
+                    </persName>
+                    <birth>1390</birth>
+                    <death>1457</death>
+                    <note>Preußischer Uradel, der zuerst 1236 in Pommerellen erschien; das
+                        Geschlecht nannte sich zuerst Maul, dann Legendorf, nach der Übersiedlung
+                        nach Ostpreußen nahm es den Namen von Lehndorff an. Die meisten Forscher
+                        vermuten eine Abstammung vom deutschen Geschlecht Maulen, während polnische
+                        Forscher eine polnische Abstammung von den Mgowski aus der Kulmer Gegend
+                        (Mgowo) ableiten; Jacob von Maul(en) urkundet 1412-1434 als Herr zu Maulen,
+                        Kreis Königsberg und kauft 1423 Taberlack, Kreis Angerburg, als Teil der
+                        Steinortischen Wildnis.</note>
+                </person>
+                <person xml:id="ed_rs5_pyq_v2b">
+                    <persName type="reg">
+                        <surname>Maupertuis</surname>
+                        <forename>Katharina Eleonore von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Borcke, von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Witwe des 1759 gest. Akademiepräsidenten <persName key="ed_kfz_zw1_fz">von
+                            Maupertuis</persName>; Oberhofmeisterin der Prinzessin Amalie</note>
+                </person>
+                <person xml:id="ed_kfz_zw1_fz">
+                    <idno type="uri">http://d-nb.info/gnd/118731998</idno>
+                    <persName type="reg">
+                        <surname>Maupertuis</surname>
+                        <forename>Pierre Louis Moreau de</forename>
+                    </persName>
+                    <birth>1698</birth>
+                    <death>1759</death>
+                </person>
+                <person xml:id="ed_xhr_shh_my">
+                    <idno type="uri">http://d-nb.info/gnd/12190251X</idno>
+                    <persName type="reg">
+                        <surname>Meckelburg</surname>
+                        <forename>Friedrich Adolf</forename>
+                    </persName>
+                    <birth>1809</birth>
+                    <death>1891</death>
+                    <note> </note>
+                </person>
+                <person xml:id="ed_mld_lqn_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/119333252</idno>
+                    <persName type="reg">
+                        <surname>Mecklenburg</surname>
+                        <forename>Adolf Friedrich Herzog zu</forename>
+                    </persName>
+                    <birth>1874</birth>
+                    <death>1969</death>
+                </person>
+                <person xml:id="ed_osm_x1j_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/118647083</idno>
+                    <persName type="reg">
+                        <surname>Mecklenburg-Strelitz</surname>
+                        <forename>Adolf Friedrich IV. Herzog von</forename>
+                    </persName>
+                    <birth>1738</birth>
+                    <death>1794</death>
+                </person>
+                <person xml:id="ed_blk_dqx_hkb">
+                    <persName type="reg">
+                        <surname>Meerscheidt-Hüllesem</surname>
+                        <forename>Sophia Louisa von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Rhenius</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Gohr</name>
+                    </persName>
+                    <birth>1765</birth>
+                    <death>1823</death>
+                    <note>Heirat: 1) Ahasverus von Gohr (gest. vor 1790), 2) <persName
+                            key="ed_bpl_fsj_gy">Wilhelm Andreas Rhenius</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_kn2_f1q_h1b">
+                    <idno type="uri">http://d-nb.info/gnd/104224282</idno>
+                    <persName type="reg">
+                        <surname>Meierotto</surname>
+                        <forename>Johann Heinrich Ludwig</forename>
+                    </persName>
+                    <birth>1742</birth>
+                    <death>1800</death>
+                </person>
+                <person xml:id="ed_vlz_ndp_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/116862297</idno>
+                    <persName type="reg">
+                        <surname>Meil</surname>
+                        <forename>Johann Wilhelm</forename>
+                    </persName>
+                    <birth>1733</birth>
+                    <death>1805</death>
+                </person>
+                <person xml:id="ed_ach_bh1_h2b">
+                    <persName type="reg">
+                        <surname>Meitzen</surname>
+                        <forename>Magnus</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Justizrat in Angerburg, 1884 Anwalt und Notar der Familie von
+                        Lehndorff</note>
+                </person>
+                <person xml:id="ed_izm_p5z_zdb">
+                    <persName type="reg">
+                        <surname>Mellenthin</surname>
+                        <forename>Hans Joachim von</forename>
+                    </persName>
+                    <birth>1887</birth>
+                    <death>1971</death>
+                    <note>Heirat: <persName key="ed_vdw_kfv_sdb">Sophie Gräfin von
+                            Kalnein</persName>, geb. von Boddien (1944)</note>
+                </person>
+                <person xml:id="ed_r54_pvp_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/116876212</idno>
+                    <persName type="reg">
+                        <surname>Mencken</surname>
+                        <forename>Anastasius Ludwig</forename>
+                    </persName>
+                    <birth>1752</birth>
+                    <death>1801</death>
+                </person>
+                <person xml:id="ed_hyp_sxj_tcb">
+                    <persName type="reg">
+                        <surname>Mendel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Münzjude in Berlin (1793)</note>
+                </person>
+                <person xml:id="ed_es2_r35_c2b">
+                    <persName type="reg">
+                        <surname>Mercker</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Inspektor von Prökelwitz (1837)</note>
+                </person>
+                <person xml:id="ed_agr_21m_ddb">
+                    <persName type="reg">
+                        <surname>Messerschmidt</surname>
+                        <forename>Friederike</forename>
+                    </persName>
+                    <birth>1859</birth>
+                    <death/>
+                    <note>(1859)</note>
+                </person>
+                <person xml:id="ed_flx_d33_xkb">
+                    <persName type="reg">
+                        <surname>Messerschmidt</surname>
+                        <forename>Leopold</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter von Rosengarten</note>
+                </person>
+                <person xml:id="ed_db2_gvp_dz">
+                    <persName type="reg">
+                        <surname>Messerschmidt</surname>
+                        <forename>Heinrich Leopold</forename>
+                    </persName>
+                    <birth>1814</birth>
+                    <death>1898</death>
+                    <note>Sohn von Carl H. G. Messerschmidt (verst. 1855); Heirat: 1853 Amalie
+                        Gwiazda aus Groß Steinort (39 Jahre alt), Tochter des Schneiders Ernst
+                        Gwiazda aus Gr. Steinort; Verwalter (‟Wirtschafter‟) von Steinort.
+                        http://www.datenbank-nord-masuren.besaweb.de/</note>
+                </person>
+                <person xml:id="ed_rp1_rxn_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118581465</idno>
+                    <persName type="reg">
+                        <surname>Metternich</surname>
+                        <forename>Clemens Wenzel Fürst von</forename>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1859</death>
+                </person>
+                <person xml:id="ed_tgy_sql_gbb">
+                    <persName type="reg">
+                        <surname>Meusel</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Historiker </note>
+                </person>
+                <person xml:id="ed_jrr_t4q_ybb">
+                    <persName type="reg">
+                        <surname>Meyer</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erzieher des Grafen <persName key="ed_wtg_nyl_2y">Ahasverus Ernst von
+                            Lehndorff</persName> (1706), 1737 Richter in Lötzen</note>
+                </person>
+                <person xml:id="ed_vxc_p2k_gy">
+                    <persName type="reg">
+                        <surname>Meyer</surname>
+                        <forename>Sigmund</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1911</death>
+                    <note>Bankhaus Meyer Cohn</note>
+                </person>
+                <person xml:id="ed_p4b_ywl_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/131839268</idno>
+                    <persName type="reg">
+                        <surname>Meyerinck</surname>
+                        <forename>Ludwig von</forename>
+                    </persName>
+                    <birth>1789</birth>
+                    <death>1860</death>
+                </person>
+                <person xml:id="ed_asp_txf_ccb">
+                    <persName type="reg">
+                        <surname>Meyhöfer</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1883 Lehrer in Doben, Krs. Angerburg</note>
+                </person>
+                <person xml:id="ed_iqm_53y_ydb">
+                    <persName type="reg">
+                        <surname>Michel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1780 Maurer auf den Lehndorffschen Gütern (1780)</note>
+                </person>
+                <person xml:id="ed_sjq_h4w_mbb">
+                    <persName type="reg">
+                        <surname>Milbe</surname>
+                        <forename>von der</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Mülbe, von der</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1784)</note>
+                </person>
+                <person xml:id="ed_ahf_gvd_py">
+                    <persName type="reg">
+                        <surname>Milthaler</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>spätestens 1877 Lehrer an der 1861 gegründeten Schule in Kehlerwald;
+                        Vater: Johann Ferdinand Milthaler (1785-1843), Mälzenbräuer, Kaufmann und
+                        Stadtverordneter in Angerburg; Heirat: Emilie Goerke</note>
+                </person>
+                <person xml:id="ed_m1t_v11_12b">
+                    <persName type="reg">
+                        <surname>Milewski-Schroeden</surname>
+                        <forename>Anatol</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Milwe-Schroeden</name>
+                    </persName>
+                    <birth>1902</birth>
+                    <death>1950</death>
+                    <note>1944 Ministerialdirigent im Ostministerium.
+                        https://ns-reichsministerien.de/biografien/</note>
+                </person>
+                <person xml:id="ed_knd_hj3_h2b">
+                    <persName type="reg">
+                        <surname>Minnigerode</surname>
+                        <forename>Amelie Friederike Caroline von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schrötter, Freiin von</name>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1902</death>
+                    <note>Heirat: <persName key="ed_dmr_r33_h2b">Wilhelm von Minnigerode</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_dmr_r33_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/117578711</idno>
+                    <persName type="reg">
+                        <surname>Minnigerode</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1913</death>
+                </person>
+                <person xml:id="ed_jhn_y3q_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/119252910</idno>
+                    <persName type="reg">
+                        <surname>Mirbach-Sorquitten</surname>
+                        <forename>Ernst Freiherr von</forename>
+                    </persName>
+                    <birth>1844</birth>
+                    <death>1925</death>
+                </person>
+                <person xml:id="ed_dwy_zsf_p2b">
+                    <persName type="reg">
+                        <surname>Mirecki</surname>
+                        <forename>Hans</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Großkaufmann, 1947 Pächter der Gaststätte Talsperre Kriebstein</note>
+                </person>
+                <person xml:id="ed_lpx_q4h_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/135662486</idno>
+                    <persName type="reg">
+                        <surname>Mitchell</surname>
+                        <forename>Andrew</forename>
+                    </persName>
+                    <birth>1708</birth>
+                    <death>1771</death>
+                </person>
+                <person xml:id="ed_nc2_vtp_rdb">
+                    <persName type="reg">
+                        <surname>Mniszech</surname>
+                        <forename>Gräfin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1756).
+                        https://www.ipsb.nina.gov.pl/a/biografia/jerzy-august-wandalin-mniszech-h-wlasnego</note>
+                </person>
+                <person xml:id="ed_y2h_tf3_vkb">
+                    <persName type="reg">
+                        <surname>Moddelsee</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Inspektor (1897)</note>
+                </person>
+                <person xml:id="ed_cw3_1b5_c2b">
+                    <persName type="reg">
+                        <surname>Moliere</surname>
+                        <forename>de</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Major (1836)</note>
+                </person>
+                <person xml:id="ed_ewv_5ds_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/104179015</idno>
+                    <persName type="reg">
+                        <surname>Moll</surname>
+                        <forename>Karl Bernhard</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1878</death>
+                </person>
+                <person xml:id="ed_h4m_4nb_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/117081051</idno>
+                    <persName type="reg">
+                        <surname>Möllendorf</surname>
+                        <forename>Wichard von</forename>
+                    </persName>
+                    <birth>1742</birth>
+                    <death>1816</death>
+                </person>
+                <person xml:id="ed_ow2_mdd_py">
+                    <idno type="uri">http://d-nb.info/gnd/118583387</idno>
+                    <persName type="reg">
+                        <surname>Moltke</surname>
+                        <forename>Helmut Karl Bernhard Graf von</forename>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1891</death>
+                </person>
+                <person xml:id="ed_rfp_1mg_my">
+                    <persName type="reg">
+                        <surname>Moltke</surname>
+                        <forename>Marie Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Burt</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: 1842 <persName key="ed_ow2_mdd_py">Helmut Graf von
+                            Moltke</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_qv2_dbv_22b">
+                    <persName type="reg">
+                        <surname>Molwitz</surname>
+                        <forename>Gustav</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Seminar-Oberlehrers Molwitz in Annaberg; Student der Theologie in
+                        Leipzig, 1872/74 Hauslehrer des Grafen von Lehndorff-Steinort, 1874
+                        Promotion in Jena „De anakephalaioseos in Irenaei theologia
+                        potestate‟</note>
+                </person>
+                <person xml:id="ed_xcb_gsw_mbb">
+                    <persName type="reg">
+                        <surname>Mondzig</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784/85 Arzt in Angerburg, 1802-1805 Bürgermeister.
+                        https://pl.wikipedia.org/wiki/Burmistrzowie_Kętrzyna</note>
+                </person>
+                <person xml:id="ed_g2r_w33_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/118784811</idno>
+                    <persName type="reg">
+                        <surname>Moreau</surname>
+                        <forename>Jean Victor</forename>
+                    </persName>
+                    <birth>1763</birth>
+                    <death>1813</death>
+                </person>
+                <person xml:id="ed_k2g_121_4cb">
+                    <persName type="reg">
+                        <surname>Morre</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Mitarbeit bei der Regulierung der gutsherrlichen und bäuerlichen
+                        Verhältnisse in den Steinortschen Gütern 1820</note>
+                </person>
+                <person xml:id="ed_tjq_pnm_scb">
+                    <persName type="reg">
+                        <surname>Morrien</surname>
+                        <forename>Friederike Charlotte von</forename>
+                    </persName>
+                    <birth>1726</birth>
+                    <death>1768</death>
+                    <note>Hofdame der Gemahlin des Prinzen Heinrich; Heirat: <persName
+                            key="ed_ov5_jc3_tdb">Friedrich Adolph von Kalckreuth</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_wyf_y5p_rdb">
+                    <persName type="reg">
+                        <surname>Moszinski</surname>
+                        <forename>Anton Graf </forename>
+                    </persName>
+                    <birth/>
+                    <death>1737</death>
+                    <note>polnischer Adliger, Schatzmeister König August II.; Heirat: Friederike
+                        Alexandra von Cosel</note>
+                </person>
+                <person xml:id="ed_ids_b5p_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/104702716X</idno>
+                    <persName type="reg">
+                        <surname>Moszynska</surname>
+                        <forename>Friederike Alexandra Gräfin</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Cosel, Gräfin von</name>
+                    </persName>
+                    <birth>1709</birth>
+                    <death>1784</death>
+                    <note>Heirat: <persName key="ed_wyf_y5p_rdb">Anton Graf Moszynski</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_j3r_yyx_hkb">
+                    <idno type="uri">https://d-nb.info/gnd/116941596</idno>
+                    <persName type="reg">
+                        <surname>Motherby</surname>
+                        <forename>William</forename>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1847</death>
+                </person>
+                <person xml:id="ed_p4y_bbh_2z">
+                    <idno type="uri">http://d-nb.info/gnd/118534556</idno>
+                    <persName type="reg">
+                        <surname>Motte Fouqué</surname>
+                        <forename>Friedrich Heinrich Karl Baron de la</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1843</death>
+                </person>
+                <person xml:id="ed_okx_gg4_my">
+                    <persName type="reg">
+                        <surname>Mühler</surname>
+                        <forename>Adelheid von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Goßler</name>
+                    </persName>
+                    <birth>1821</birth>
+                    <death>1901</death>
+                    <note>(1871)</note>
+                </person>
+                <person xml:id="ed_kvq_wkm_s3b">
+                    <persName type="reg">
+                        <surname>Mühlheim</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Königsberger Patrizierfamilie</note>
+                </person>
+                <person xml:id="ed_ztb_rh2_b2b">
+                    <persName type="reg">
+                        <surname>Mühlthaler</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmann (1823)</note>
+                </person>
+                <person xml:id="ed_zc3_wwg_h2b">
+                    <persName type="reg">
+                        <surname>Mulert</surname>
+                        <forename>Alwin Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1876-1990 Pfarrer in Canditten </note>
+                </person>
+                <person xml:id="ed_zt5_h3c_t2b">
+                    <persName type="reg">
+                        <surname>Müller</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmann (1727)</note>
+                </person>
+                <person xml:id="ed_qrk_wyt_q2b">
+                    <persName type="reg">
+                        <surname>Müller</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Wachtmeister (1810)</note>
+                </person>
+                <person xml:id="ed_r5f_jwl_wcb">
+                    <persName type="reg">
+                        <surname>Müller</surname>
+                        <forename>Ferdinand</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1835 Bereiter beim Königlichen Leibreitstall in Potsdam</note>
+                </person>
+                <person xml:id="ed_j3k_3yp_tcb">
+                    <persName type="reg">
+                        <surname>Müller</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Geheimer Finanzrat (1799)</note>
+                </person>
+                <person xml:id="ed_mnv_hzt_q2b">
+                    <persName type="reg">
+                        <surname>Müller-Reizenstein</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Militär (1810)</note>
+                </person>
+                <person xml:id="ed_vp2_x2h_2z">
+                    <persName type="reg">
+                        <surname>Müller von der Lühne</surname>
+                        <forename>Ludwig Freiherr</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1762 Kammerherr der Königin</note>
+                </person>
+                <person xml:id="ed_my1_zlb_1bb">
+                    <idno type="uri">http://d-nb.info/gnd/117172839</idno>
+                    <persName type="reg">
+                        <surname>Mülverstedt</surname>
+                        <forename>George Adalbert von</forename>
+                    </persName>
+                    <birth>1825</birth>
+                    <death>1914</death>
+                </person>
+                <person xml:id="ed_cdx_cpl_52b">
+                    <persName type="reg">
+                        <surname>Münchhausen</surname>
+                        <forename>August Freiherr von</forename>
+                    </persName>
+                    <birth>1756</birth>
+                    <death>1814</death>
+                    <note>1787–1798 Kammerherr am Rheinsberger Hof bei Prinz Heinrich von Preußen;
+                        1808 Aufenthalt in Paris; ab 1810 als Gesandter von Jérôme Napoleon am
+                        bayerischen Hof, die Auflösung des Königreichs Westfalen 1813 bedeutete für
+                        ihn das Ende seiner Existenz; wählte 1814 den Freitod in Paris.
+                        https://weber-gesamtausgabe.de/de/A005662.html</note>
+                </person>
+                <person xml:id="ed_lc2_w4f_hy">
+                    <idno type="uri">http://d-nb.info/gnd/115547401</idno>
+                    <persName type="reg">
+                        <surname>Münchhausen</surname>
+                        <forename>Ernst Friedemann von</forename>
+                    </persName>
+                    <birth>1724</birth>
+                    <death>1784</death>
+                </person>
+                <person xml:id="ed_pfc_jt5_zdb">
+                    <persName type="reg">
+                        <surname>Münchhausen</surname>
+                        <forename>Georg Heino Freiherr von</forename>
+                    </persName>
+                    <birth>1903</birth>
+                    <death>1974</death>
+                    <note>1940 bis 1944 Ordonnanzoffizier des Chefs der Operationsabteilung im OKH
+                        Generalleutant Adolf Heusinger; Inhaftierung im Gestapogefängnis in
+                        Berlin-Moabit im Zusammenhang mit dem Attentat auf Adolf Hitler am 20. Juli
+                        1944</note>
+                </person>
+                <person xml:id="ed_cpj_xlp_tdb">
+                    <persName type="reg">
+                        <surname>Munier</surname>
+                        <forename>Frau </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>aus Lothringen; 1767 Gouvernante am preußischen Hof </note>
+                </person>
+                <person xml:id="ed_ck3_rq5_g2b">
+                    <persName type="reg">
+                        <surname>Muschwitz</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Breslau, Tattersallaktionär 1881</note>
+                </person>
+                <person xml:id="ed_kdv_sl1_h2b">
+                    <persName type="reg">
+                        <surname>Müsebeck</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth>1870</birth>
+                    <death>1939</death>
+                    <note>Archivar, Historiker.
+                        https://www.deutsche-biographie.de/sfz67163.html</note>
+                </person>
+                <person xml:id="ed_z31_f3r_v2b">
+                    <idno type="uri">https://d-nb.info/gnd/118910442</idno>
+                    <persName type="reg">
+                        <surname>Mussin-Puschkin</surname>
+                        <forename>Alexei Iwanowitsch</forename>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1817</death>
+                </person>
+                <person xml:id="ed_k2q_rxt_sdb">
+                    <idno type="uri">https://d-nb.info/gnd/117204587</idno>
+                    <persName type="reg">
+                        <surname>Mutschmann</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth>1879</birth>
+                    <death>1947</death>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

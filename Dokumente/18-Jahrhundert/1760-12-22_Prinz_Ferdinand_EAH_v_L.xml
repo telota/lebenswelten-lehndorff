@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_k54_bw4_cz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. 22. Dezember 1760</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_k54_bw4_cz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof  </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750–1804), in:  Masovia 11 (1906), S. 118-154, hier S. 139
+                            f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <date when="1760-12-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>. - Zwischen den beiden
+                    Briefen des Prinzen Ferdinand erhielt Lehndorff am 12. Dezember einen Brief des
+                    Prinzen Heinrich, <quote>der über vier Wochen unter seinen Papieren gelegen
+                        hat</quote>, vgl. Schmidt-Lötzen, Nachträge, Bd. 1, S. 287. - Zum Verhältnis
+                    zu England vgl. ebd., S. 285 ff.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>22. Dezember 1760</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Ich war überrascht von dem, was Sie mir von den
+                    beiden Schotten schreiben, die in <placeName key="ed_qvp_nnz_2y">Petersburg</placeName> gewesen sind. Wenn <seg type="comment">
+                  <orig>der
+                            Großfürst</orig>
+                  <note xml:id="ncfj_pw4_cz">Wahrscheinlich ist der
+                            Thronfolger, Großfürst <persName key="ed_xw5_tw4_cz">Peter</persName>,
+                            gemeint, der als Zar 1762 mit Preußen zunächst Frieden und dann ein
+                            Bündnis schloss.</note>
+               </seg> sich nicht gefürchtet hat zu sagen, dass
+                    er die Engländer und Preußen liebt, würde ich ihm als guter Freund, wenn ich ihn
+                    kennte, raten, vorsichtiger in seinen vertraulichen Mitteilungen zu sein, seine
+                    Ansichten nicht offen auszusprechen, da ihm das früher oder später übel bekommen
+                    kann. <gap reason="insignificant"/> Was Sie mir von dem <persName key="ed_w15_bk5_sy">Prinzen von Preußen</persName> schreiben, ist mir sehr
+                    angenehm. Wenn er nur verspricht, ein gutes Herz und einen guten Charakter zu
+                    haben, lässt seine Jugend hoffen, dass er Mittel finden wird, seinen Geist
+                    auszubilden, da es ihm von Natur daran nicht fehlt; wenn er in besseren Händen
+                    wäre, bürgte ich dafür, dass man aus ihm alles machen könnte, was man wollte.
+                    Ich möchte wohl wissen, ob der <persName key="ed_x2r_52f_cy">König</persName>
+                    ihn den nächsten <rs type="term" key="ed_t5d_tm4_dz">Feldzug</rs> wird mitmachen
+                    lassen; ich wünsche das nicht, da er zu jung ist, um das, was er bei dieser
+                    Gelegenheit lernen könnte, nutzbar zu verwerten. <gap reason="insignificant"/>
+                    Ein Geist der Langeweile, verbunden mit einem Grundzug von Traurigkeit, hat sich
+                    der meisten meiner Landsleute bemächtigt, so dass es kein Mittel gibt, auch nur
+                    ein Wort herauszuholen; was nützt es, dass ich Gesellschaften besuche? Mögen sie
+                    zahlreich besucht oder klein sein, es ist immer dasselbe: Die längste Zeit
+                    herrscht ein düsteres Schweigen, das mehr als unerträglich ist. Ich würde
+                    neugierig sein, zu erfahren, ob es bei Ihnen ebenso steht. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

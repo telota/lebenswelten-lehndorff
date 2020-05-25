@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_tcn_glh_t1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Berlin, 30. Juni 1783</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_tcn_glh_t1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 54, n. f.</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Die Dokumente liegen in einer Mappe mit der Aufschrift: Meines Sohns
+                            Carl Einschreibung in den Johanniter-Orden. Steinort den 23. Dezember
+                            1783. </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1783-06-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Am 15. Oktober 1783 wurde Lehndorff der Eingang der Dokumente und die
+                    Expektanz auf die Kommende <placeName key="ed_kkd_vn1_tcb">Gorgast</placeName>
+                    bestätigt, vgl. das Verzeichnis der Expektanten auf Johanniter-Ordenskommenden
+                    (ca. 1823) ebd., Nr. 405. - Am 9. Dezember 1783 testierte <persName key="ed_obl_c2w_mbb">Hasse</persName> den Eingang von 55 Rtlr. in Gold. Die
+                        <quote>Ritterschlags-Jura, so vor der Investitur zu Sonnenburg zur St.
+                        Johanniter-Malt.-Ordens-Rentei zu bezahlen</quote> waren, betrugen 360 Rtlr.
+                    in Friedrichsdor, von denen <quote>die Kosten für Mantel, golden und leinen
+                        Ordens-Kreuz und Band, imgleichen die Chargen- und Stempel-Jura, auch was
+                        die Kirche, das Hospital und die Ordens-Kirchen- und Schul-Bediente und
+                        andere erhalten, bestritten werden</quote>. Dazu kamen Almosen,
+                        <quote>Reise- und Zehrungskosten</quote> und die Kosten für die
+                    vorgeschriebene Bekleidung, die Lehndorff zur Investitur zu tragen hatte. Diese
+                    verfertigte Hofschneider <persName key="ed_adf_nn1_tcb">Wernike</persName> in
+                    Berlin, Breite Straße, Port-Epes, Cordons und Epauletten gab es bei Kaufmann
+                        <persName key="ed_klf_qn1_tcb">Eysenhart</persName> sen. Die
+                    Kleidungsvorschrift war am 28. April 1787 in Zeitungen öffentlich bekanntgegeben
+                    und auch von der Ordens-Regierung in einer Nota mitgeteilt worden. - Am 5. Juli
+                    teilte Prinz <persName key="ed_mn5_svg_hy">Ferdinand</persName> Lehndorff den
+                    Tag der Investitur in <placeName key="ed_o5t_yt4_dz">Sonnenburg</placeName> mit.
+                    Das Primarium auf die Kommende <placeName key="ed_kkd_vn1_tcb">Gorgast</placeName> vom selben Tag liegt der Akte bei. - Die für Carl
+                    Ludwig Ludwig Graf von Lehndorff ausgefertigte Johanniter-Aufschwörungstafel in:
+                    GStA PK, X. HA, Rep. 9, Nr. 852. - Die Komturei Supplinburg fiel nach dem Tod
+                    des Herzogs <persName key="ed_kp3_cxx_m2b">Ludwig Ernst zu Braunschweig und
+                        Lüneburg</persName> an den Grafen <persName key="ed_bwv_dyx_m2b">Finck von
+                        Finckenstein</persName>, Bruder des Staatsministers, die Komturei Gorgast
+                    nach dem Tod des Markgrafen <persName key="ed_bkd_4vl_cz">Friedrich Heinrich von
+                        Brandenburg-Schwedt</persName> an den Major der Kavallerie von <persName key="ed_xv5_rbq_vcb">Kleist</persName>, vgl. Meusel, Friedrich, Prinz
+                    Ferdinand von Preußen, der jüngste Bruder Friedrichs des Großen, in seinen
+                    Briefen an den Grafen Lehndorff (1750-1804), in: Masovia 11 (1906), S. 150. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 30. Juni 1783</dateline>
+					          <salute>Wohlwürdiger, Hoch- und Wohlgeborener Graf, <lb/>vielgeehrtester Herr
+                        Kammerherr!</salute>
+                </opener>
+				        <p>Ich übersende Ihnen hierbei Meine Resolution auf Ihr Gesuch, Ihren Sohn <persName key="ed_k4z_jgl_2y">Carl Grafen von Lehndorff</persName> im Ritterlichen<rs type="term" key="ed_ilz_bs4_dz"> St. Johanniter Malteser Orden</rs>
+                    aufzunehmen, und werde das Fernere deshalb zu verfügen nicht ermangeln, wenn
+                    zuförderst zu Folge besagter Meiner Resolution das Nötige beigebracht sein wird. </p>
+				        <closer>
+					          <salute>Verbleibe übrigens mit vieler Confideration <lb/>des Herrn Kammerherrn
+                        wohlaffektionierter Freund</salute>
+					          <signed>Ferdinand</signed>
+				        </closer>
+            </div>
+            <postscript>
+                <p>Sr. des Herrn-Meisters Königl. Hoheit </p>
+            <p>Dass uns Endes Unterschriebenen samt und sonders, als Ritter und Turm-Stiftsmäßigen eigentlich
+                    sattsam und wohl wissend, wie der Herr Christian Friedrich Ludwig Carl Graf von
+                    Lehndorff echt und rechtgeboren, und von obstehenden seinen sechzehn Ahnen als
+                    adelichen Geschlechts und Ritterbürtigen Standes herstamme und entsprossen, auch
+                    obstehende Wappen in ihren Helmen, Schilden und Farben dem vorgedachten Herrn
+                    Christian Friedrich Ludwig Carl Grafen von Lehndorff rechtmäßig zukommen,
+                    solches bezeugen und bekennen wir hiermit statt leiblich geschworenen Eides mit
+                    dieser unserer Unterschrift und vorgedruckten angebogenen adelichen Petschaften. </p>
+                <p>Unser Gnädigster Herr haben zwar des Königlichen Kammerherrn und
+                    Johanniter-Ordens-Ritters Herrn <persName key="ed_csb_mdf_cy">Grafen von
+                        Lehndorff</persName> geziemendes Gesuch, um desselben Sohn <persName key="ed_k4z_jgl_2y">Christian Friedrich Ludwig Carl</persName>, Grafen von
+                    Lehndorff in dem Ritterlichen St. Johanniter-Orden zu rezipieren, gnädigst
+                    deferieret. Weilen aber in denen Capituls-Schlüssen vom 5. März 1728, 20.
+                    November und 17. Dezember 1762, auch 14. Juni 1770 und 8. Februar 1775 feste
+                    gesetzet ist, dass niemand eher eine Expektanz erteilet und ausgefertiget werden
+                    solle, er habe denn zuvor in forma probante seinen Tauf-Schein, womit das
+                    erforderliche Alter zu dozieren, und ein gerichtliches Attest, dass er in der
+                    protestantischen Religion erzogen sei und sich dazu bekenne, imgleichen auf
+                    einem Pergament-Bogen seinen Stammbaum oder Sechzehn Ahnen-Register gehörig
+                    beigebracht, wie er und seine Vorfahren väterlicher- und mütterlicherseits von
+                    Teutscher Herkunft, alt-adelichen Geschlechts und rittermäßig seien, auch bei
+                    jedem seiner Ahnen in denen drei letzten Generationen von Vater- und
+                    Mutter-Seiten der Tag und der Ort der Geburt und des Todes, in soweit solche
+                    gestorben, in dem Ahnen-Register mit beigefüget, und endlich, dass sotanes <seg type="comment">
+                  <orig>Ahnen-Register</orig>
+                  <note xml:id="nevf_zzq_dbb">Siehe
+                            hierzu die Ahnentafeln und Stammbäume, in: LASA, StA L, Bestand 21950 FA
+                            Lehndorff, Nr. 118, 119, 121.</note>
+               </seg>, worinnen den Verfassungen
+                    und Gebräuchen des diesseitigen Ordens gemäß die Wappen sämtlicher Ahnen
+                    auszumahlen seien, nach dem folgende Formular: </p>
+            <p>So geschehen den </p>
+            <p> (L. S.) N. N. v. N. (L. S.) N. N. v. N. </p>
+            <p> (L. S.)
+                    N. N. v. N. (L. S.) N. N. v. N. </p>
+            <p>väterlicherseits von zweien Stiftsmäßigen Cavaliers aus derselben Provinz, wo der Vater geboren,
+                    und mütterlicherseits ebenfalls von zweien Stiftsmäßigen Cavaliers aus derselben
+                    Provinz, wo die Mutter geboren, an Eides Statt attestieret worden, jedoch dass
+                    die Attestierung nicht von verwandten Familien, die den Namen und Wappen führen,
+                    so in der Ahnen-Tafel vorkommen, sondern von anderen Ritterbürtigen
+                    Geschlechtern geschehen. Als ist solchen capitularischen Verfassungen zuförderst
+                    zu genügen. Und da auch noch in dem obengedachten Capitels-Schluss vom 20.
+                    November 1762 regulieret, dass, wenn zwei oder mehrere auf eine Kommende das
+                    Dekretum zur Expektanz praestitis praestandis erhalten haben, von selbigen aber
+                    einer die ihm mittelst vorstehender Resolution injugierte Praestanda eher als
+                    die übrigen praestieret, sodann derselbe in der Expektanz denen anderen in der
+                    Anciennität vorgehen solle, so wird nicht nur solches, sonder auch noch überdem
+                    bekannt gemachet, dass der Tauf- und Religions-Schein nebst der Ahnen-Tafel dem
+                    Hof- und Ordens-Regierungsrat <persName key="ed_obl_c2w_mbb">Hasse</persName> in
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> zuzustellen, auch zu
+                    seiner Zeit, wen alles richtig, an niemand anders, als an denselben die
+                    gewöhnliche Jura auszuzahlen, welcher dagegen die gehörige Quittung zu
+                    extradieren nicht ermangeln wird. </p>
+            <p>Signatum Berlin, den 30. Juni 1783
+                    <lb/>Ferdinand <lb/>
+                    <lb/>Resolutio für den Herrn Grafen von Lehndorff</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

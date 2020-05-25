@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_yg4_jhg_nbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amalie Caroline Gräfin von Lehndorff an ihren Sohn Carl Friedrich
+                    Ludwig. Königsberg, 23./24. Februar 1825</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_yg4_jhg_nbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 386, Bl. 32-32v </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (1751-1830)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1825-02-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, (Christian Friedrich) Carl (Ludwig)
+                        Graf von (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 23. Februar 1825</dateline>
+					          <salute>Mein herzenslieber Carl,</salute>
+                </opener>
+				        <p>dass ich jetzt bei Tag und bei Nacht fast keinen anderen Gedanken habe als an Dich und Deine
+                    Lage, wirst Du mir wohl glauben. Doch weil die gespannte Fantasie sich notwendig
+                    zuweilen abspannen muss, so will ich Dich heute von einem anderen Gegenstand
+                    unterhalten, und zwar einem, der mein Gefühl auch auf eine andere Art in
+                    Anspruch nimmt, dass ist der herzliche Dank für all die guten Sachen, die der H.
+                        <persName key="ed_xgq_psx_42b">Straal</persName> mir aus <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> durch den <persName key="ed_pkh_3gv_mbb">Poltzien</persName> geschickt hat auf Dein Geheiß. Auch
+                    die kleinen Wirtschaftsjungfern haben sich sehr darüber gefreut und küssen Dir
+                    die Hände. Vorige Woche habe ich auch den Besuch des Herrn<persName key="ed_xgq_psx_42b"> Straal</persName> in eigener Person gehabt und
+                    eigentlich zum ersten Mal mit ihm gesprochen. Er gefällt mir recht gut, heiter,
+                    tätig und jovial, nicht so überbildet und so anmaßend wie jener. Er erzählte uns
+                    mit einiger Verlegenheit, dass er eine Frau von 16 Jahren geheiratet hätte. Er
+                    hat hier etwas Weizen verkauft und die Preise doch um ein weniges gestiegen
+                    gefunden. Dann hat er mir auch gesagt, dass die Krüger zu <placeName key="ed_agn_hhl_wcb">Bajohren</placeName> sich auseinandersetzen wollen und
+                    es käme nur auf meine Bewilligung an. Ich habe ihm darauf gesagt, er solle Dich
+                    darum fragen, und wenn Du mir dazu rietest, würde ich es gern tun, und so
+                    vermute ich, er wird Dir darum schreiben. </p>
+            <p>Nun noch einen Vortrag, der <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> betrifft. Ich habe
+                    mir vorgenommen, den ganzen Sommer abwesend zu sein, teils in <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName>, teils in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. <seg type="comment">
+                  <orig>Denn ich
+                            vermute, dass Du mit Mutter und Kind auch dahin gehen wirst und nicht
+                            hierher nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                            kommen würdest, wo ihr alle beide nicht gern seid.</orig>
+                  <note xml:id="nbf1_cvg_qcb">In einem Brief an <persName key="ed_uwg_cgv_22b">Cecilie von Below</persName>, geb. Gräfin Dönhoff, vom 15. Dezember
+                            1837 schrieb Lehndorff: <quote>Wenn ich nur nicht nach dem widerwärtigen
+                                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                                müsste</quote>, in: GStA PK, VIII. HA C Nr. 31, Bd. 4, Bl.
+                            8-8v.</note>
+               </seg> In dieser Voraussetzung will ich hier meine
+                    Hauswirtschaft aufgeben, das heißt nicht kochen lassen, der <persName key="ed_d31_nw1_vdb">Hofmannin</persName> Kostgeld geben, den <persName key="ed_vqv_qp5_vcb">Tochtermann</persName> Dir in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> in die Kost geben, dass er da das
+                    Mitessen habe mit seiner Frau und Tochter <hi rendition="#u">Nota bene</hi> mit
+                    Beibehaltung seines Lohnes einerseits (Kleidung hat er für dieses Jahr schon
+                    bekommen), und meine Köchin <persName key="ed_eqn_vhl_wcb">Dora</persName>
+                    wollte ich dem<persName key="ed_xgq_psx_42b"> Straal</persName> in <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> in die Kost geben, wo sie mit den
+                    anderen Leuten ganz egal gehalten werde und <persName key="ed_xgq_psx_42b">Straal</persName> mir monatlich eine Rechnung halten soll für das, was sie
+                    für ihre Person etwa noch an barem Gelde kosten würde. Doch da die Ausführung
+                    dieser Pläne noch nicht Eile hat, so hat es mit der Antwort auch noch Zeit. </p>
+            <p>den 24. </p>
+            <p>Seitdem ich hier unterbrochen wurde, ist wieder eine Post aus <placeName key="ed_uyl_j3c_gy">Danzig</placeName> gekommen, aber leider ohne die <seg type="comment">
+                  <orig>erwünschte Nachricht.</orig>
+                  <note xml:id="ngsl_b3l_wcb">Von der
+                            Entbindung der Gräfin <persName key="ed_tcp_g3l_2y">Pauline</persName>,
+                            siehe das Dokument vom <ref target="lehndorff_q4v_jkg_nbb">2. März
+                                1825</ref>. Die <persName key="ed_mrr_p22_b2b">Tochter</persName>
+                            wurde am 27. Februar geboren. Gräfin <persName key="ed_gnc_c1m_2y">Amalie</persName> war Taufpatin, ebenso die (nicht zur Taufe
+                            anwesende) <persName key="ed_ok2_3xf_hy">Herzogin von
+                                Holstein-Beck</persName>, Graf und Gräfin von <persName key="ed_mqc_qwp_1fb">Keyserlingk-Neustadt</persName> und Prinz
+                                <persName key="ed_h4n_y42_b2b">Hermann von
+                                Hohenzollern-Hechingen</persName> aus <placeName key="ed_uyl_j3c_gy">Danzig</placeName>. Am 20. Oktober 1826 wurde der Sohn <persName key="ed_zkm_whl_2y">Carl Meinhard</persName> im <quote>alten
+                                Lehndorffhaus zu Königsberg</quote> geboren, vgl. Schultze,
+                            Lebensbild, S. 638.</note>
+               </seg> Gotte gebe sie doch bald und glücklich. </p>
+				        <closer>
+                    <signed>A. Lehndorff</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

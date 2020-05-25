@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_pyn_mh4_42b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gerhard Leopold Melchior von Lehndorff an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Maxkeim, 28. März 1773</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_pyn_mh4_42b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 374, Bl. 24-24v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_byt_ptq_h1b">Lehndorff, Gerhard Leopold Melchior Graf von
+                        (Statzen 8.11.1735-Riesenwalde 14.9.1807)</persName>
+                    <placeName key="ed_bdw_bnm_cbb">Maxkeim</placeName>
+                    <date when="1773-03-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                </correspAction>
+                <note>Sembritzki, Johannes, (Art.) Graf August von Lehndorff in Westpreußen, in:
+                    Mitteilungen des Westpreußischen Geschichtsvereins 11 (1912), S. 4-12. - Vgl. in
+                    der Akte, Bl. 72-73, dessen Brief aus <placeName key="ed_gcr_vcg_hy">Statzen</placeName>, 27. Juni 1773. Lehndorff hatte ihn mit der
+                    Begutachtung von Pferden beauftragt. Er sei in <quote>9 benachbarten Ämtern in
+                        dieser Absicht</quote> gewesen und habe verschiedene hellbraune Pferde
+                    mittlerer Größe gefunden, jedoch würden diese Pferde unter 100 Rtlr. nicht
+                    verkauft werden. Da das dass von Lehndorff gesetzte Limit übersteige, habe er
+                    auch Jahrmärkte bereist und sei am 14. Juni in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> und am 21. Juni in <placeName key="ed_tqh_bps_d2b">Stallupönen</placeName> gewesen, habe aber nur zwei hellbraune, 6-jährige
+                    Wallache ausfindig machen können, die er gekauft habe. Möglicherweise könne er
+                    am 5. Juli in <placeName key="ed_exy_rfk_wcb">Goldap</placeName> noch weitere
+                    Pferde kaufen. Am 15. Juli kehre er nach <placeName key="ed_bdw_bnm_cbb">Maxkeim</placeName> zurück und würde über <placeName key="ed_pxt_cnh_1y">Steinort</placeName> reisen, um die Pferde abzuliefern. Im Brief vom 22.
+                    Juli (Bl. 82-83) dazu Weiteres. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Maxkeim, den 28. März 1773</dateline>
+					          <salute>Hochgeborener Graf!</salute>
+                </opener>
+				        <p>Es versicherte mir der Herr Capitain v. <seg type="comment">
+                  <orig>
+                     <persName key="ed_xzw_wj4_42b">Klinghoffström</persName>
+                  </orig>
+                  <note xml:id="nhsz_1k4_42b">Klinckowström. Dessen Briefe ebd.</note>
+               </seg>,
+                    Anhaltschen Regiments, dass Ew. Hochgeboren unlängst im Lande und in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> eingetroffen wären. Ich gebe mir
+                    demnach die Ehre, nicht nur meine Ergebenheit, sondern auch die innigste Freude
+                    über Dero glückliche Ankunft Ew. Hochgeboren hiedurch ganz gehorsamst zu äußern,
+                    insonderheit, da bei Dero letztem Hiersein eine beschwerliche Krankheit an denen
+                    Augen mir den Vorteil, mich Denenselben empfehlen zu können, entzogen hat. Ich
+                    würde strafbar sein, wenn ich bei denen Wohltaten, mit welchen Ew. Hochgeboren
+                    in meinen Jugendjahren mich zu überhäufen geruht, unempfindlich bleiben, selbige
+                    vergessen, und Dero ferneres, mir höchst schätzbares Wohlwollen dadurch
+                    einschläfern wollte. Nein! solchen Undanks bin ich nicht fähig! Vielmehr werde
+                    ich mich beeifern, Ew. Hochgeboren hinlängliche Beweise einer immerwährenden
+                    Hochschätzung und lebhaftesten Erkenntlichkeit darzustellen.</p>
+                <p>Und ob zwar der gegenwärtige Zustand meiner mich nicht füglich von hier zu
+                    entfernen heißet, so bin ich ja dennoch zur Genüge überzeuget, dass nach
+                    Verlaufe dessen Ew. Hochgeboren persönlich in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> aufzuwarten mir gütigst verstattet werden wird. </p>
+                <p>Versichern Ew. Hochgeboren, so ich sonst gehorsamst bitten darf, Dero Frau
+                        <persName key="ed_q4s_xyl_2y">Mutter</persName> unserer beiderseitigen
+                    untertänigsten Ehrerbietung, und empfehlen Sie uns Dero Frau <persName key="ed_gnc_c1m_2y">Gemahlin</persName> ungekannter Weise ganz gehorsamst.
+                    Meine <persName key="ed_z5z_l2x_42b">Frau</persName> erbittet sich Ew.
+                    Hochgeboren Wohlgewogenheit, ich hingegen schmeichle mich deren und bleibe
+                    Denenselben mit größter Verehrung lebenslang dafür verpflichtet, als</p>
+				        <closer>
+					          <salute>Ew. Hochgeboren ganz gehorsamster Diener</salute>
+					          <signed>Lehndorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

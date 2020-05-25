@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_u2x_z5x_rz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ludwig Friedrich Leopold von Schlieben an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Halle, 10. Februar 1778</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_u2x_z5x_rz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 374, Bl. 171-172</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wmt_g5z_g1b">Schlieben, Ludwig Friedrich Leopold Graf von
+                        (1748-)</persName>
+                    <placeName key="ed_ot2_ffg_4y">Halle</placeName>
+                    <date when="1778-02-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>
+                    <note type="editorial">Bereits im Spätherbst 1777 hatte Lehndorff wegen der
+                            <quote>Zerrüttung der Vermögensverhältnisse meines Neffen Grafen
+                            Schlieben</quote> große Sorge, vgl. Schmidt-Lötzen, Nachträge, Bd. 2, S.
+                        75. - Schlieben wurde wegen seiner Schulden in Magdeburg in Festungshaft
+                        genommen, vgl. hierzu in der Akte Bl. 172v und die folgenden Briefe von
+                        November 1777 bis März 1778. Wegen Schliebenscher Wechselschulden wurden
+                        auch an Lehndorff Regressforderungen gestellt, vgl. LASA, StA L, Bestand
+                        21950 FA Lehndorff, Nr. 347 (1778-1795). - Zum Prozess: Straubel, Rolf, „Er
+                        möchte nur wißen, daß die Armée mir gehört." Friedrich II. und seine
+                        Offiziere: Ausgewählte Aspekte der königlichen Personalpolitik, Berlin 2012,
+                        S. 60 f. </note>
+                </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Halle, 10. Februar 1778</dateline>
+                    <salute>Monsieur et très gracieux Oncle.</salute>
+                </opener>
+                <p>Sie werden sich wundern, von mir einen Brief zu erhalten, der so geschwinde dem
+                    ersteren folgt. Der Bewegungsgrund hierzu ist gewesen, dass wir vorgestern eine
+                    Ordre erhalten, uns binnen 8 Tagen marschfertig zu halten, damit wir, sobald
+                    noch eine Ordre kommt, unsere Beurlaubten einziehen und sogleich abmarschieren
+                    können. <seg type="comment">
+                  <orig>Wo der Marsch hingehen soll, weiß man noch
+                            nicht, einige sagen, es geht nach der Pfalz, weil daselbst laut den
+                            Zeitungen 20.000 Franzosen eingerückt sein sollen. Einige wollen uns
+                            hingegen mit <placeName key="ed_stc_3k4_dz">Österreich</placeName> den
+                            Krieg prophezeien.</orig>
+                  <note xml:id="npyt_wks_scb"> Am 3. Juli 1778
+                            erklärte Preußen Österreich den Krieg. Am 5. Juli begann mit dem
+                            Vorrücken preußischer und sächsischer Truppen in das habsburgische
+                            Böhmen der Bayerische Erbfolgekrieg. </note>
+               </seg>
+                </p>
+            <p>Es sei nun wie ihm wolle, so halte ich es für meine traurige Situation, in welcher ich mich jetzo
+                    befinde, für sehr zuträglich, dass wir ins Feld gehen. Werde ich nicht
+                    totgeschossen, so kann ich nunmehr vielleicht mein Glück machen, es geschieht
+                    das erstere, so habe ich ja nichts mehr nötig. Was bleibt mir nunmehro übrig,
+                    als von Ihnen, gnädigster Vater, wenn ich Ihnen so nennen darf, Abschied zu
+                    nehmen. Werden Sie mir wohl Ihren Segen mitgeben? Werden Sie mir vergeben und
+                    alles dasjenige vergessen, womit ich Ihnen in meinem Leben beleidigt habe? Tun
+                    Sie dieses beides, Sie sollen auch dafür die Satisfaktion haben zu hören, dass
+                    ich mein Devoir getan habe. </p>
+            <p>Schande sollen Sie niemalen von mir erleben,
+                    auf diesen Punkt können Sie ruhig sein. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Meiner Schwester Friederique</orig>
+                  <note xml:id="nmmw_4qf_h1b">Friederike Amelie, spätere Herzogin zu
+                            Schleswig-Holstein-Sonderburg-Beck</note>
+               </seg> empfehle mich bestens,
+                    ich bitte untertänigst, ihr zu sagen, dass ich sie um ihre Freundschaft bitte,
+                    sie wird mich selbige nicht versagen, ich bin dieserhalb ganz getröstet. </p>
+            <p>Ich
+                    bitte nochmalen gehorsamst, versagen Sie mir, gnädigster Vater, meine Bitte
+                    nicht, und seien Sie versichert, dass Ihnen Gott zärtlich und reich dafür
+                    belohnen wird. </p>
+                <closer>Es ist mit dem tiefsten Respekt, dass ich zu verharren die Gnade habe
+                    <lb/>Monsieur er très gracieux Oncle <signed>Votre très humble et très obéissant
+                        serviteur <lb/>Schlieben</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

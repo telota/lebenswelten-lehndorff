@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_vzk_kly_ydb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. 1. Mai bis
+                    Juni 1781</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_vzk_kly_ydb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">
+                    <p>In den folgenden Monaten korrespondiert er mit seinen <quote>Warschauer
+                            Freunden</quote> und wenn ihn sein <quote>Pflichtbewusstsein, meine
+                            Wirtschaft und die Erziehung meiner Kinder hier nicht festhielten, so
+                            möchte ich wohl häufig diese reizende Stadt [Warschau] aufsuchen
+                            wollen</quote>, ebd. S. 200. - Vgl. die Briefe von <persName key="ed_hms_fcj_w2b">Buchholtz</persName> aus <placeName key="ed_nnd_ztf_nbb">Warschau</placeName> in: LASA, StA L, Bestand 21950
+                        FA Lehndorff, Nr. 379 (1784).</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Karl Eduard, Des Reichsgrafen Ernst
+                            Ahasverus Heinrich Lehndorff Tagebücher nach seiner Kammerherrenzeit, Bd.
+                            1, Gotha 1921, S. 174-195 und 201</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Lehndorff begibt sich auf eine Reise nach <placeName key="ed_nnd_ztf_nbb">Warschau</placeName>, begleitet von seinem Verwalter <persName key="ed_bpl_fsj_gy">Rhenius</persName>. Er trifft mit dem dortigen
+                    Residenten <persName key="ed_hms_fcj_w2b">Buchholtz</persName> zusammen, einem
+                        <quote>alten Freund</quote>, und mit dem <quote>Abenteurer <persName key="ed_wj2_wx3_tdb">Schlippenbach</persName>
+               </quote>, den er 1777
+                    zuletzt gesehen hatte. Am 9. Mai wird er dem <persName key="ed_wx2_t4p_tdb">König von Polen</persName> vorgestellt, <seg type="comment">
+                  <orig>der sich
+                            daran erinnert, ihn vor dreißig Jahren in Berlin kennengelernt zu
+                            haben.</orig>
+                  <note xml:id="nsd2_xcj_w2b">Es war 1764, vgl. den <ref target="lehndorff_hlz_lnx_rdb">Tagebucheintrag vom
+                            August</ref>.</note>
+               </seg> In den folgenden Tagen begegnet er
+                        <quote>vielen vornehmen Polen</quote> (<persName key="ed_nbj_mfq_tdb">Lubomirski</persName>, <persName key="ed_cg5_bdj_w2b">Potocki</persName>,
+                        <persName key="ed_v3v_kx3_tdb">Czartoryski</persName>, <persName key="ed_dtr_xgp_tdb">Sanguszko</persName>, <persName key="ed_ljp_mkp_tdb">Branicki</persName>, <persName key="ed_kfq_nz3_tdb">Radziwill</persName>,
+                        <persName key="ed_il1_ntp_rdb">Wielhorski</persName>, Prinz Stanislaus,
+                    Neffe des Königs, <persName key="ed_wst_sdj_w2b">Zamoiski</persName>, <persName key="ed_mf4_vsp_rdb">Rzewski</persName> usw.) und dem russischen Gesandten
+                        <persName key="ed_zjs_f2j_w2b">Stackelberg</persName>, besucht verschiedene
+                    Sehenswürdigkeiten und Kunstsammlungen. - Anfang Juni kommt er in seinem
+                        <quote>geliebten <placeName key="ed_pxt_cnh_1y">Steinort</placeName> an,
+                        dessen Saaten weit besser stehen, als ich zu hoffen gewagt hatte. Es
+                        herrscht nämlich <seg type="comment">
+                     <orig>überall eine große
+                                Dürre</orig>
+                     <note xml:id="nhp4_rny_ydb">Vgl. ebd., S. 196, die
+                                Beschreibung des Zustandes der Besitzungen des Grafen <persName key="ed_kzh_z13_tcb">Truchseß</persName> in <placeName key="ed_ech_j2j_w2b">Capustigall</placeName>.</note>
+                  </seg>,</quote> doch seine <quote>Felder
+                        sehen weit üppiger</quote> aus als alles,was er auf dem Weg gesehen hat. -
+                    Er lässt einen Kanal reinigen und verbreitern, der bereits vor <quote>hundert
+                        Jahren gegraben, aber niemals vollendet und seitdem ganz verfallen
+                        war</quote>; noch im Herbst sind die Arbeiten daran nicht abgeschlossen. </p>
+            </abstract>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <date from="1781-05-01" to="1781-06-30" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

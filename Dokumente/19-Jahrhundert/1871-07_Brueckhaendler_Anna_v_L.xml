@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_bkx_c3f_j1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ida Brückhändler an Anna Gräfin von Lehndorff. 2. Hälfte des Jahres 1871</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_bkx_c3f_j1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 325, Bl. 1-22 </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_sdb_kqw_1bb">Brückhändler, Ida (-)</persName>
+                    <date notBefore="1871-07-01" notAfter="1871-10-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Ida Brückhändler war die Tochter des Kreisgerichtssekretärs und Kanzleirats
+                    Theodor Samuel Brückkhändler, 1862 Ehrenbürger von Angerburg. Es handelt sich um
+                    mehrere Briefe, auch mit Geldzuwendungen, beginnend im Juli 1871. Sie enden am
+                    29. Oktober 1882. Zuvor hatte sie sich Gedanken über die Verteilung ihres
+                    Vermögens gemacht, das auch sozialen Einrichtungen in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> zufallen sollte, ebd., Bl. 21-22;
+                    Nr. 262, Bl. 102. Zu Brückhändler: Braumüller, Bernhard, Angerburg von A-Z. Ein
+                    Nachschlagewerk über den Kreis Angerburg, 4. Aufl., Rotenburg (Wümme) 2008, S.
+                    137 f. - Der Ruf der Kleinkinderbewahranstalt in Angerburg verbreitete sich bis
+                    nach Mecklenburg. Hier drängte Bertha von <persName key="ed_okv_q55_22b">Oertzen</persName> darauf, in ihren Gutsdörfern Rattey und Brohm
+                        <quote>Kleinkinderschulen</quote> einzurichten, die ersten ländlichen
+                    Kindergärten in Mecklenburg, vgl. deren Brief an Anna Lehndorff in: APO, Bestand
+                    382 FA Lehndorff, Nr. 476, Bl. 8-9 (2. März 1880) und <ref target="http://www.bethanienstiftung.de/Geschichte.256.0.html">www.bethanienstiftung.de/Geschichte.256.0.html</ref>. Zur Gründungsidee
+                    siehe auch die Fragmente zur <quote>Basedower Kinderpflege</quote> in: APO,
+                    Bestand 382 FA Lehndorff, Nr. 575 (1851-1854). - Das 1872 gegründete
+                    Waisenhauses für Mädchen war <quote>ein Pendant nach dem Willen der
+                        Schlossherrin zu dem <orgName key="ed_l3c_f55_22b">Lötzener Waisenhaus für
+                            Knaben</orgName>. Das <orgName key="ed_pqq_g4d_gy">Rosengartener
+                            Gräflich-Lehndorff’sche Waisenhaus</orgName> hat sich stets in
+                        bescheidenen Grenzen gehalten; es sollte nach seiner ganzen Anlage Zöglinge
+                        erziehen, welche einmal fleißige, brauchbare Arbeitskräfte als Mägde
+                        würden.</quote> Daneben existierten das Mädchenwaisenhaus in der
+                    Nachbarstadt <orgName key="ed_smh_zgj_ycb">Drengfurth</orgName>, das Angerburger
+                        <orgName key="ed_zxf_yqt_ncb">Siechenhaus</orgName> sowie ein
+                        <quote>Feierabendhaus für besser Situierte, die sich daselbst
+                        einkaufen</quote>. <ref target="http://www.angerburg.de/rosengarten_kirchenchronik.htm">http://www.angerburg.de/rosengarten_kirchenchronik.htm</ref>. </note>
+            </correspDesc>
+            <abstract>
+                <p>Ida <persName key="ed_sdb_kqw_1bb">Brückhändler</persName> bedankt sich für eine
+                    Geldspende, die die Gräfin ihr für die Armen in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> gegeben habe. Sie berichtet lobend über die dortige
+                    Kleinkinderbewahranstalt als <quote>Segen</quote>, gleiches sei die Armenschule
+                    für die größeren Kinder. Ihr Besuch in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> habe durch die dortige Stille <quote>mächtig und so
+                        segensvoll auf meine Gemüt</quote> gewirkt. - In einem weiteren Brief (17.
+                    Juli) berichtet sie über ihre christliche Mission, die sie vor vier Jahren
+                    empfangen habe, <quote>wohl wissend, wie wenig so etwas Beachtung
+                    findet</quote>. - Am 29. Dezember versichert sie die Gräfin ihrer Unterstützung
+                    für die beabsichtigte Lotterie zum Wohle des <orgName key="ed_pqq_g4d_gy">Waisenhauses Rosengarten</orgName>. Eine Kirchenkollekte mache nach ihrer
+                    Ansicht wenig Sinn, jedoch ein Konzert oder ein <seg type="comment">
+                  <orig>Liebhabertheater seien erfolgversprechend.</orig>
+                  <note xml:id="nycm_1tq_dbb">Der Vorschlag wurde aufgegriffen, siehe den
+                            Programmzettel des <quote>Liebhabertheaters in Angerburg</quote> für
+                            eine Aufführung zum Wohle des Siechenhauses im Vogelschen Theatersaal
+                            in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 83, n. f. Das
+                            Eintrittsgeld war <quote>der erheblichen Unkosten wegen, ohne jedoch der
+                                Mildtätigkeit Schranken zu setzen, auf 75 Pf. pro Person
+                                festgesetzt</quote> worden. Solche wohltätigen Aufführungen unter
+                            Beteiligung des Hofes waren bereits in <placeName key="ed_xrv_gwb_by">Berlin</placeName> 1864 <quote>zum Besten der den alliierten Armeen
+                                und Flotten Angehörigen, in dem jetzigen Krieg invalide Gewordenen
+                                und der Hinterbliebenen der Gefallenen</quote> veranstaltet worden,
+                            so am 31. März 1864 im Königlichen Schauspielhaus, das Programm ebd.,
+                            Nr. 514, Bl. 9.</note>
+               </seg> Sie nehme aus christlichem Denken immer
+                    Anteil an den sozialen Aktivitäten der Gräfin.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/325/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

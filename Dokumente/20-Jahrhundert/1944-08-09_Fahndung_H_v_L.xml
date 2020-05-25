@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_rz5_vyd_qz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fahndungsaufruf. Eberswalde, 9. August 1944</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_rz5_vyd_qz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Widerstand 1944</p>
+                </note>
+                <note type="editorial">Das  Fahndungsschreiben des Reichskriminalpolizeiamtes
+                    Berlin/Kriegsfahndungszentrale vom selben Tag in: GDW, Materialsammlung
+                    Lehndorff (aus: HStA Düsseldorf RW 34/5, Bl. 71-72). Am 14. August wurde die
+                    Fahndung eingestellt, da man <persName key="ed_eq5_1t1_dy">Lehndorff</persName>
+                    ergriffen hatte (Bl. 73). - Auch gegen benachbarte Familien und Verwandte war
+                    ermittelt worden: <persName key="ed_yrn_wsz_zdb">Bogislav Graf von
+                        Dönhoff</persName>, <persName key="ed_vqt_zsz_zdb">Fabian Burggraf zu
+                        Dohna</persName>, <persName key="ed_fjt_ctz_zdb">Hermann Graf zu
+                        Dohna-Schobitten</persName>, <persName key="ed_x14_gtz_zdb">Albrecht Graf
+                        von Eulenburg</persName>, <persName key="ed_jjl_jtz_zdb">Hans Georg Graf von
+                        Kalnein</persName>, <persName key="ed_obs_b5s_2y">Manfred Graf von
+                        Lehndorff-Preyl</persName>, <persName key="ed_z3m_cbt_2y">Siegfried Graf von
+                        Lehndorff</persName>, <persName key="ed_ec1_qtz_zdb">Otto Graf von
+                        Schwerin-Wildenhoff</persName>, <persName key="ed_s1m_sqn_my">Siegmar
+                        Freiherr von Schrötter-Wohnsdorf</persName>. Auch Joachim von <persName key="ed_fq1_zm5_zdb">Ribbentrop</persName>, der in Schloss <placeName key="ed_pxt_cnh_1y">Steinort</placeName> sein Quartier aufgeschlagen hatte,
+                    geriet ins Fadenkreuz der Ermittlung, vgl. BArch Berlin-Lichterfelde, R 589/3197
+                    Bd. 2 Reichssicherheitshauptamt, Festnahmeliste im Zusammenhang mit dem 20. Juli
+                    1944.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>BLHA</institution>
+                        <idno>Rep. 15 C Eberswalde 74, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_rp3_czd_qz">Eberswalde</placeName>
+                <date when="1944-08-09" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <opener>
+                    <dateline>Eberswalde, den 9.8.1944</dateline>
+                </opener>
+				     <p>
+            <hi rendition="#u">Polizeifahndung: Beta.</hi>
+         </p>
+                <p>Flüchtig ist seit 8.8.44, 22 Uhr, von <placeName key="ed_xrv_gwb_by">Berlin</placeName>, Lehrterstraße, vom Transport, der Landwirt <persName key="ed_eq5_1t1_dy">Heinrich Graf Lehndorff</persName>, 22.6.09 <placeName key="ed_wms_sgc_gy">Hannover</placeName> geboren, zuletzt wohnhaft in <placeName key="ed_pxt_cnh_1y">Gr. Steinert</placeName> [sic!], Kr. Angerburg. </p>
+         <p>
+            <hi rendition="#u">Beschreibung</hi>: 1,90
+                    m groß, schlank, breitschultrig, zurückliegende Stirn, langer Kopf, blondes Haar
+                    links gescheitelt, blaue Augen. </p>
+         <p>
+            <hi rendition="#u">Bekleidung</hi>: Braunes, einreihiges Jackett, braun-grünes Jagdhemd mit
+                Schlips und Kragen, graue Reithose mit dunklem Lederbesatz, hellbraune
+                Sportstrümpfe, braune Halbschuhe, Schlapphut, ohne Mantel und ohne Gepäck. </p>
+         <p>5.000.- RM Belohnung
+                    sind ausgesetzt. </p>
+         <p>Sachdienliche Mitteilung sofort fernmündlich, durch Telegramm oder Kurier an KPLST Berlin,
+                Krim.-Kom. v. Dienst, Tel.-Nr. 51 0023, App. 533 oder an die nächste Polizei
+                Dienstelle.</p>
+				     <closer>
+                    <signed>
+               <orgName key="ed_xkg_1yq_gbb">Kriminalpolizeileitstelle Berlin</orgName>
+                    <lb/>gez. Dr. Schefe</signed>
+                </closer>
+            
+            <postscript>
+                <p>Stadt- und Landwacht werden nicht eingesetzt.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

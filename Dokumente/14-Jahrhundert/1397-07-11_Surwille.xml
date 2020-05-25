@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="document" xml:id="lehndorff_it5_4jc_43b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Handfeste für Thomas Surwille. Grebin, 11. Juli 1397</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_it5_4jc_43b</idno>
+                </idno>
+            </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Die Urkunde gehört zum Gutsarchiv Lehndorff-Steinort (Nr. 291).</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Urkunden Schieblade XXVII Nr. 223 (Pergamenturkunde mit
+                            beschädigtem Siegel)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_xqy_23f_s3b">Grebin</placeName>
+                <date when="1397-07-11" cert="high"/>
+            </creation>
+            <abstract>
+                <p>Hochmeister <persName key="ed_x11_c3f_s3b">Konrad von Jungingen</persName>
+                    verleiht dem Ritter <persName key="ed_m5w_33f_s3b">Thomas Surwille</persName>
+                    erblich zu Kulmer Recht ein Gut von 120 Hufen mit Kirchenlehn, großem und
+                    kleinem Gericht, ausgenommen das Straßengericht, bei 16 Freijahren gegen drei
+                        <seg type="comment">
+                        <orig>Platendienste</orig>
+                        <note xml:id="nkxy_4mm_s3b">Der Lehnsmann hatte sich mit einem eisernen
+                            Panzer, einem gewöhnlichen Helm (ohne Sturmhaube), einem Schild und
+                            einer Lanze zu versehen. Er benötigte für sich zwei Pferde, ein
+                            Streitross und ein Reitpferd. Das Streitross ging auf der Fahrt lose und
+                            trug die Rüstung des Herrn. Als drittes kam dazu ein Pferd für den
+                            Knappen. Die kleineren Besitzer waren zum leichten Reiterdienst, der,
+                            weil der Reiter neben Helm, Schild und Lanze nur den leichten
+                            Brustharnisch, den sogenannten Platen, trug, als Platendienst bezeichnet
+                            wurde, verpflichtet. Wer 40 oder mehr Hufen hatte, musste sich in voller
+                            Rüstung mit einem Streitross und mindestens zwei Berittenen stellen, um
+                            den schweren Rossdienst zu leisten. </note>
+                    </seg> und übliche Abgaben bei dem Feld <placeName key="ed_s3k_b12_gy"
+                        >Taberlack</placeName>, Komturei Brandenburg. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_uvr_s1p_h3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Georg Ernst Wilhelm Crome an Carl Friedrich Ludwig Graf von Lehndorff.
+                    Möglin, 9. September 1810</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_uvr_s1p_h3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nf2_3lk_wcb">Crome, Georg Ernst Wilhelm (1781-1813)</persName>
+                    <placeName key="ed_lpt_52g_hy">Möglin</placeName>
+                    <date when="1810-09-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Mit Crome blieb Lehndorff in Kontakt, siehe desse Brief aus Möglin vom 16.
+                    Februar 1812, in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                    863, n. f.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Möglin, den 9. September 1810</dateline>
+					          <salute>Mein guter, lieber, bester, nicht schreibender Graf!</salute>
+                </opener>
+				        <p>Wenn Sie es auch übers Herz bringen können, so lange nichts von sich hören zu lassen, so kann
+                    ichs doch nicht; und da ich Ihnen hier meine <gap reason="illegible" unit="words" quantity="1"/> zu senden versprochen habe, so ergreife ich
+                    diese Gelegenheit Ihnen zugleich einige Worte über uns etc. zu sagen.</p>
+                <p>Pro primo finden Sie beigehend den ersten Teil meines <seg type="comment">
+                  <orig>Handbuchs</orig>
+                  <note xml:id="nohx_qbm_33b">Handbuch der
+                            Naturgeschichte für Landwirte, Hannover 1810-1817, 3 Teile in 6
+                            Bänden.</note>
+               </seg>, sowie den ersten Teil der Übersetzung von <seg type="comment">
+                  <orig>Darwin</orig>
+                  <note xml:id="nu1p_xwl_33b">
+                     <ref target="https://de.wikipedia.org/wiki/Erasmus_Darwin#Schriften_(Auswahl)">Erasmus Darwin</ref>.</note>
+               </seg>; der erste kostet 2 Rtlr., der
+                    andere 20 Gr. <gap reason="illegible" unit="words" quantity="1"/> Richten Sie es
+                    mit der Bezahlung ganz nach Ihrem Belieben ein, und übereilen Sie sich nicht
+                    damit. Gern hätte ich Ihnen diese Sachen schon früher geschickt, allein teils
+                    hatte ich sie noch nicht vollständig, teils wollte ich Ihnen doch auch einige
+                    Worte dabei schreiben, und dazu findet sich dann nicht immer Zeit; heute habe
+                    ich sie beim Flügel festgestellt und nun muss sie so lange still halten, bis ich
+                    fertig bin. Die zweiten Teile dieser beiden Werke hoffe ich Ihnen (wenn Sie sie
+                    anders haben wollen) gegen Weihnachten schicken zu können. Sehen Sie sie
+                    übrigens mit nicht zu kritischen Blicken durch und - wenn sie denn in der Revue
+                    gut bestanden sind, so könnten Sie sie ebenfalls Ihren benachbarten Herren
+                    empfehlen.</p>
+                <p>Hier in <placeName key="ed_lpt_52g_hy">Möglin</placeName> siehts denn
+                    (Kleinigkeiten abgerechnet) noch eben so aus, wie Sie uns verließen. Ihren
+                    Abgang haben wie aber alle (aufrichtig gesagt) recht sehr empfunden; sie leben
+                    noch beinahe täglich in unserm Herzen und Munde fort, und Gr. R 63, wenn er
+                    freilich ganz angenehm und munter sein kann, besetzt freilich noch Ihre Stelle
+                    als Tischgenosse, ersetzt Sie aber doch nicht. Die wichtige Veränderung, welche
+                    übrigens unserem Institut bevorsteht, haben Sie wahrscheinlich schon durch
+                    öffentliche Blätter erfahren. Der <persName key="ed_tkl_kvp_vcb">Alte</persName>
+                    hat sich bereden lassen, von nun an alle Winter bei der Universität in Berlin
+                    Kollegien zu lesen und zieht in wenigen Wochen mit Frau, Tochter Wilhelmine, den
+                    Söhnen Ernst, August und Albrecht dahin ab, wir übrigen bleiben hier. Für diesen
+                    Winter <gap reason="illegible" unit="words" quantity="1"/> die Geschichte des
+                    Instituts, wobei ich dann gehörige Zeit haben werde, recht viele Untersuchungen
+                    zu machen und an meinen literarischen Produkten zu arbeiten. <gap reason="illegible" unit="words" quantity="1"/> wird dann noch ein Lehrer der
+                        <gap reason="illegible" unit="words" quantity="1"/> angestellt und der
+                    Zensur auf 1 1/2 Jahr ausgesetzt. <gap reason="insignificant" unit="lines" quantity="1"/> Aufrichtig gesagt wollte ich, es wäre beim alten geblieben,
+                    denn die ganze Sache will mir noch nicht recht einleuchten. Von Michaelis an
+                    will mir der Alte die Direktion des Instituts übergeben, da werde ich dann wohl
+                    ein recht ehrbares Ansehen einnehmen müssen, nicht wahr?</p>
+                <p>Ich muss erst sehen, wie mir das Ding gefallen wird, vorher mag ich noch nicht
+                    daran denken. Der <persName key="ed_tl1_nbf_4y">König</persName> hat sich
+                    übrigens viel generös gegen den Alten bewiesen, hat ihm den Canon am Königshof
+                    erlassen, einige tausend Taler zur Vollendung der Institutsgebäude (woran jetzt
+                    gearbeitet wird) angewiesen, die Konzession zur Branntweinbrennerei gegeben etc.
+                    etc. Aber wie es denn immer mit unserem guten Alten geht, vermutlich hat er zu
+                    wenig gefordert, denn man hat ihn selbst aufgefordert, Forderungen zu machen,
+                    man kennt schon die Genügsamkeit und Billigkeit und handelt deshalb sehr klug,
+                    wenn man solche bescheidenen Leute selbst ihre Forderungen bestimmen lässt.
+                    Andere würden den Mund anders geöffnet haben, nicht wahr? </p>
+                <p>
+               <note type="editorial">Berufliche Perspektiven der Söhne; Reise der
+                        Schwiegermutter; Befinden des Sohnes; Situation der eigen Landwirtschaft;
+                        seine Forschungen mit Humus.</note>
+            </p>
+                <p>Für heute Punktum. Ich habe Ihnen treulich einen Auszug aus der Mögeliner Zeitung
+                    geliefert, machen Sie es nun ebenso und schreiben Sie mir und meinem
+                    Schwiegervater bald, wie es Ihnen geht, was Sie in der Einrichtung gemacht haben
+                    etc. Wir nehmen ja alle so herzlich Anteil an Ihrem Wohl und Wehe! Leben Sie
+                    wohl, recht wohl, lieber Graf. </p>
+				        <closer>
+					          <salute>Es grüßt Sie  alles, alles vom Kleinsten bis zum Größten, selbst Presto, Anton,
+                        Christine etc. nicht ausgenommen. Grüßen Sie doch auch H. Vetter bestens.
+                        Wie immer Ihr Freund und D.</salute>
+					          <signed>G. Crome</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

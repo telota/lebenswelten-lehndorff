@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_flj_swl_l1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hans Georg Hermann von Plessen an Anna Gräfin von Lehndorff. Berlin, 1.
+                    November 1887</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_flj_swl_l1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, FA v. Lehndorff (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_azr_wn5_ccb">Plessen, Hans Georg Hermann von
+                        (1841-1929)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1887-11-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Palais, den 1. November 1887</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>
+               <seg type="comment">
+                  <orig>
+                     <persName key="ed_lwx_y32_cy">Seine Majestät der Kaiser
+                                und König</persName> haben die Nachricht von der Verlobung der
+                                <persName key="ed_ggg_cbm_2y">Komtess Agnes</persName> mit großer
+                            Freude entgegengenommen,</orig>
+                  <note xml:id="nor2_ztl_2db">Sie verlobte
+                            sich mit dem Grafen <persName key="ed_r4g_sxh_h2b">Otto von
+                                Schwerin</persName>.</note>
+               </seg> und haben mich zu beauftragen
+                    geruht, Allerhöchstihren Dank dafür Euer Hochgeboren auszusprechen und
+                    Allerhöchstihre besten Glückwünsche hinzuzufügen. </p>
+            <p>Seine Majestät gedachten dabei in gnädigster Weise der vielen frohen Sommerabende in <placeName key="ed_avy_p42_cy">Gastein</placeName> und wie sich für Euer Hochgeboren in
+                    die Freude über dies frohe Ereignis berechtigterweise auch der Schmerz mischen
+                    müsste über die bevorstehende Trennung von der letzten Tochter! </p>
+            <p>Seine Majestät bedauern durch Unwohlsein verhindert zu sein, Allerhöchsteigenhändig zu schreiben,
+                    und können nicht unterlassen die Hoffnung auszusprechen, Euer Hochgeboren auch
+                    im kommende Jahr wie immer in Gastein begrüßen zu können.</p>
+                <closer>
+                    <salute>A. A. L. </salute>v. Plessen <lb/>K. Adjutant vom Dienst </closer>
+            </div>
+            <postscript>
+                <p>Euer Hochgeboren werden auch mir gestatten, meine gehorsamsten Glückwünsche
+                    anschließen zu dürfen.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

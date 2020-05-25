@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_yh5_dzv_rz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an Immanuel Kant. Steinort, 21. Dezember 1793</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_yh5_dzv_rz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Briefwechsel von Immanuel Kant, in 3 Bänden hrsg. von H.
+                            E. Fischer, München 1913, Bd. 3, S. 9 (= Bibliothek der Philosophen, Bd.
+                            7)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1793-12-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_yfs_pzv_rz">Kant, Immanuel (-)</persName>
+                </correspAction>
+                <note>Vgl. GStA PK, XX. HA Rep. 300 Mühlpfordt, Nr. 4: Mühlpfordt, Herbert Meinhard,
+                    Kant und sein Königsberger Freundeskreis (Ms. des Vortrags in der
+                    Kantgesellschaft am 20. Oktober 1979 in Bonn). - Nach Kants Tod versammelten
+                    sich am 22. April 1805 in dessen inzwischen zum Gasthaus umfunktionierten Haus
+                    in der Königsberger Prinzessinstraße Nr. 2 auf Einladung von Dr. William
+                        <persName key="ed_j3r_yyx_hkb">Motherby</persName> die noch lebenden 22
+                    Tischgenossen <persName key="ed_yfs_pzv_rz">Kants</persName> und gründeten bei
+                    einem Gedenkmahl zu Ehren Kants die <quote>Gesellschaft der Freunde
+                        Kants</quote>, die dort von 1806 bis 1810 alljährlich tagte. Zu seinen
+                    Freunden gehörten <persName key="ed_lpv_jjp_tcb">Minister von
+                        Schrötter</persName> in Wohnsdorf, der Königsberger Stadtpräsident von
+                    1780-1796, <persName key="ed_ljf_3zx_hkb">Theodor Gottlieb von
+                    Hippel</persName>, der General <persName key="ed_txh_3w5_sy">Friedrich Carl
+                        Ludwig Herzog von Holstein-Beck</persName>, <persName key="ed_bxp_z3y_rgb">Christian Heinrich Reichsgraf von Keyserlingk</persName> (<quote>Musenhof
+                        der Keyserlinge</quote>).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort bei Rastenburg, den 21. Dezember 1793</dateline>
+					          <salute>Wohlgeborener Herr, <lb/>Höchstzuverehrender Herr Professor!</salute>
+                </opener>
+				        <p>Ganz Europa verehrt Sie und ich bin von dieser Anzahl. Sie haben mich von dem System der
+                    Sympathie überzeugt, denn ich würde Sie lieben, wenn Sie ganz unbekannt wären.
+                    Die einigen Tage, die ich mit Ihnen diesen Sommer zugebracht, sind die
+                    glücklichsten dieses Jahres für mich gewesen. Erlauben Sie mir, dass ich Ihnen
+                    diese Erklärung von Grund meines Herzens mache und Ihnen eine kleine Probe von
+                    meiner <seg type="comment">
+                  <orig>Jacht</orig>
+                  <note xml:id="nocb_g1w_rz">Jagd</note>
+               </seg> überschicke. Das <seg type="comment">
+                  <orig>Kupferstück</orig>
+                  <note xml:id="njww_t1k_tcb">In einer Übersicht
+                            zu Lehndorffs Vermögen werden „Münzbeutel‟ erwähnt, vgl. das Testament
+                            (Dokument) vom <ref target="lehndorff_m2s_f2b_kz">26. Juli 1780
+                            </ref>mit Anmerkungen.</note>
+               </seg>, so ich aus Ihrer Güte habe, ist die
+                    Zierde meines Zimmers. Ich nehme mir die Freiheit, Ihnen die Meinigen zu
+                    überschicken mit der Bitte, sie als ein Zeichen meiner zärtlichsten Verehrung
+                    anzusehen, mit welcher ich unveränderlich sein werde.</p>
+				        <closer>
+					          <salute>Ew. Wohlgeboren ganz gehorsamster Diener</salute>
+					          <signed>Graf Lehndorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

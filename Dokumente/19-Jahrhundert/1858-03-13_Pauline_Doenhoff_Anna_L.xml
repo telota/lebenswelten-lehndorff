@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_fh3_4t4_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pauline Gräfin von Dönhoff an Anna Gräfin von Lehndorff. Berlin, 13. März 1858</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_fh3_4t4_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 432, Bl. 25-26v</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von Lehndorff
+                        (1823-1889)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1858-03-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Der nächste Brief folgte am 25. Mai 1858 aus <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> (Bl. 26-32v). <persName key="ed_wms_mh2_cy">Anna
+                        Lehndorff</persName> hielt sich demnach getrennt von <persName key="ed_k4z_jgl_2y">Carl</persName> auf. Zu Gast hatte sie <persName key="ed_n1x_cs3_d2b">Leonide Schlippenbach</persName>, deren Besuch in
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> hatte <persName key="ed_xnq_1fm_2y">Pauline Dönhoff </persName>versäumt. Sie hoffte auf
+                    einen Besuch der Familie, insbesondere der <persName key="ed_tcp_g3l_2y">Mutter</persName> in <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> im Anschluss an die Hochzeitsreise <persName key="ed_f5w_2fm_2y">Magdalenas</persName> von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> aus (diese heiratete hier am 20. August 1858 <persName key="ed_php_rqg_hy">Gustav Graf von Borcke</persName>); die direkte
+                    Einladung dazu habe ihr Mann, <persName key="ed_cgy_xtf_4y">August Graf von
+                        Dönhoff</persName>, ausgesprochen, da sie befürchtete, <quote>dass trotz der
+                        Versöhnung in <placeName key="ed_xrv_gwb_by">Berlin</placeName> eine direkte
+                        Einladung von Mama nach Friedrichstein doch noch viele Kämpfe kosten
+                        würde.</quote> Ein Besuch der Dönhoffs in <placeName key="ed_yps_bwn_my">Basedow</placeName> kam nicht zustande. - In <placeName key="ed_uvt_4j4_dz">Preußen</placeName> habe sich die Nachricht verbreitet, dass die Prinzessin
+                        <persName key="ed_fc4_2bb_dy">Friedrich Wilhelm </persName>den <persName key="ed_yzt_s1b_dy">Prinzen</persName> auf der Reise nicht begleiten werde,
+                        <quote>da sie etwas leidend sei</quote>. Das sei schade, sie habe sich
+                    darauf gefreut, <quote>weil sie gar so lieb und herzig ist</quote>. Die
+                    Nachricht sei jedoch nicht offiziell bestätigt und man werde wohl wie immer bis
+                    zum letzten Augenblick in Ungewissheit bleiben. - Von einem Besuch der
+                    Schwägerin <persName key="ed_n5f_vfm_2y">Klara</persName> wisse sie ebenfalls
+                    nichts offizielles, nur durch Annas Brief. Diese habe ihr geschrieben, dass sie
+                    erst nach <persName key="ed_sjx_pfm_2y">Georgs</persName> Rückkehr nach dem 20.
+                    gemeinschaftlich einen Beschluss über den Besuch in Friedrichstein fassen
+                    wollen. - <quote>Dass <persName key="ed_nml_dw2_cy">Heinrichs</persName>
+                        Anwesenheit in der Provinz gerade mit Eurer Abwesenheit aus derselben
+                        zusammenfalle</quote>, sei sehr <quote>unpassend</quote>. - Sie erwarten den
+                    Besuch von <persName key="ed_uwg_cgv_22b">Cäcilie</persName>, die über
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> erzählen wird.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/432/str/1/1/10000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 13. März 1858</dateline>
+                    <salute>Meine herzensbeste Änny!</salute>
+                </opener>
+                <p>
+               <note type="editorial">Sie bedankt sich für die Glückwünsche zu ihrem Geburtstag
+                        und ein Geschenk.</note>
+            </p>
+                <p>
+               <persName key="ed_zkm_whl_2y">Carl</persName> hat Dir wohl möglichst viele
+                    Details über unsere liebe kleine Prinzess<persName key="ed_fc4_2bb_dy">
+                        Friedrich Wilhelm</persName> mitgeteilt, die, ohne eben schön zu sein, doch
+                    durch die Anmut ihres Wesens gleich alle Herzen erobert hat, <seg type="comment">
+                  <orig>selbst die der politischen Gegner der englischen
+                            Verbindung.</orig>
+                  <note xml:id="nj22_z53_d2b">Die Verbindung zwischen
+                                P<persName key="ed_fc4_2bb_dy">rinzessin Victoria</persName> und
+                                <persName key="ed_yzt_s1b_dy">Prinz Friedrich Wilhelm</persName>
+                            stieß in der britischen Öffentlichkeit auf viel Kritik: Diese lastete
+                            Preußen seine neutrale Haltung während des Krimkriegs nach wie vor an.
+                            In einem Artikel kritisierte die „Times‟ das Haus Hohenzollern als
+                            armselige Dynastie, die eine unbeständige und unglaubwürdige
+                            Außenpolitik verfolge und deren Fortbestand von Russland abhängig sei,
+                            und bemängelte, dass die preußische Königsfamilie die Zusicherungen, die
+                            sie während der Revolution 1848 dem Volk gegeben, nicht eingehalten
+                            habe. In Deutschland war die Reaktion geteilt. Liberale Kreise begrüßten
+                            die Verbindung, während viele Mitglieder des preußischen Königshauses
+                            und der politisch konservativen Kreise die Verbindung ablehnten, vgl.
+                            Pakula, Hannah, An Uncommon Woman. The Empress Frederick. Daughter of
+                            Queen Victoria, Wife of the Crown Prince of Prussia, Mother of Kaiser
+                            Wilhelm, London 1997, S. 52; Herre, Franz, Kaiserin Friedrich. Victoria,
+                            eine Engländerin in Deutschland, Stuttgart 2006, S. 41. </note>
+               </seg> Da
+                    wir unserer Trauer wegen gar nicht ausgingen, so hatten wir die junge Prinzess
+                    nur einmal, und zwar bei ihrer ersten Cour gesehen, und da war mir dann eine
+                    große Freude, vor Kurzem auf einem Diner bei der Fürstin <persName key="ed_elr_hl2_b2b">Liegnitz</persName>, en petit commité, mit der kleinen
+                    Prinzess zusammen zu treffen. Der Prinz <persName key="ed_yzt_s1b_dy">Friedrich
+                        Wilhelm</persName> sagte mir bei dieser Gelegenheit, dass er im Juni
+                    bestimmt mit seiner Gemahlin nach <placeName key="ed_uvt_4j4_dz">Preußen</placeName> zu kommen gedächte und dass er uns in <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> zu besuchen hoffe. Auch würde
+                    es ihm große Freude machen, seiner Gemahlin <hi rendition="#u">
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               </hi> zeigen zu können, er
+                    fürchte jedoch <gap reason="lost"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

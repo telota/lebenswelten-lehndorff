@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_j15_n2h_vbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title>Tagebuchnotiz von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 19. Dezember 1785</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_j15_n2h_vbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 486, Bl. 38</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf von
+                    (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date when="1785-12-19" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Berlin, den 19. Dezember 1785 </p>
+                <p>Der <persName key="ed_x2r_52f_cy">König</persName> ist wieder etwas unpässlich,
+                    und der Prinz <persName key="ed_nvx_wcz_bz">Heinrich</persName> befindet sich
+                    auch nicht wohl. Der Minister von <persName key="ed_wxq_lzz_g1b">Werder</persName> ist gestern auf Ordre in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> gewesen, worin er vier Relationes in Salz-, Fabriken-
+                    und Stände-Sachen sehr beschäftiget, so wohl in den Geheimen seines Landes, als
+                    auch mit auswärtigen Sachen, wovon man die Wirkung noch erst erfahren wird. </p>
+                <p>
+               <seg type="comment">
+                  <orig>Das Antwortschreiben des Königs an die Staaten von
+                            Holland auf ihre geschickte Antwort wegen des Erbstatthalters ist
+                            diesmal wohl sehr scharf abgefasst. </orig>
+                  <note xml:id="ntww_2rc_tcb">1785 entzogen die Generalstaaten, eine Ständeversammlung der
+                            niederländischen Provinzen, dem Erbstatthalter seine Kommandogewalt über
+                            die reguläre Landstreitmacht. 1786 wurde Wilhelm V. als Kapitän-General
+                            von Holland und Erbstatthalter abgesetzt, vgl. Pfau, Theodor Philipp
+                            von, Geschichte des preußischen Feldzuges in der Provinz Holland, Berlin
+                            1790. </note>
+               </seg> Der König sieht nun die Sache des <persName key="ed_skm_yrc_tcb">Prinzen</persName> als seine eigene an, und verlangt
+                    eklatante Genugtuung. Die Staaten sind darüber sehr betroffen, und es ist wohl
+                    zu glauben, dass S. Majestät sich nun des Prinzen mit Nachdruck annehmen
+                    werden.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Die Krankheiten des Kurfürsten von Mainz hält man hier
+                            nicht für natürlich, sondern für gewaltsam, weil er als erster
+                            Reichsfürst der Berliner Union beigetreten ist.</orig>
+                  <note xml:id="njdd_nsc_tcb">Friedrich Karl Joseph Reichsfreiherr von Erthal
+                            (1719-1802), war der vorletzte Kurfürst und Erzbischof von Mainz sowie
+                            Fürstbischof von Worms. </note>
+               </seg>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_kly_23f_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Carl Friedrich von Burgsdorff an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Trakehnen, 16. Dezember 1824</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_kly_23f_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 336, Bl. 2-3v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wgw_p35_ncb">Burgsdorff, Wilhelm Carl Friedrich von
+                        (1775-1849)</persName>
+                    <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName>
+                    <date when="1824-12-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Weitere Briefe in der Akte (1824-1837) sowie in Nr. 340 (1826-1833). Siehe
+                    auch: GStA PK, XX. HA, Rep. 2 I, Tit. 15: Handelssachen. - In seinem Brief vom
+                    5. Mai 1837 teilte er Lehndorff mit, dass er sich aus seiner <quote>öffentlichen
+                        Wirksamkeit</quote> zurückziehen werde. Sein Satz <quote>Und was ein
+                        Bewohner Litauens gegen mich getan, das mögen die Bewohner Litauens
+                        beurteilen</quote> ist aus dem Text nicht zu verstehen, siehe aber das
+                    Dokument vom <ref target="lehndorff_hwt_m1h_2db">24. Mai 1832</ref>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/336/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Trakehnen, den 16. Dezember 1824</dateline>
+                    <salute>Mein verehrter Gönner und Freund!</salute>
+                </opener>
+                <p>
+               <note type="editorial">Er antwortet auf dessen Schreiben vom 26. November, dass
+                        er über <placeName key="ed_pxt_cnh_1y">Steinort</placeName> erhalten habe.
+                        Er habe Schröder autorisiert, für ihn Pferde auszuwählen. Im Folgenden geht
+                        es um Fragen des Gestüts und Personalfragen. </note>
+            </p>
+                <p>Leider müssen die Landwirte jetzt mehr denn je spekulieren und zum Merkantilismus
+                    übergehen, freilich noch immer <gap reason="illegible"/> und so wird es denn
+                    auch wohl bleiben. Allein es ist nun einmal nötig schnell zu erfahren, wie es um
+                    den Kornhandel in der Fremde - <placeName key="ed_p12_4bn_zcb">Amsterdam</placeName> und <placeName key="ed_jxm_5vf_4y">England</placeName> - stehe, besonders, wenn man so wie ich über 10.000
+                    Schfl. gekauftes Korn liegen hat und dann doch so etwas Leben im Absatz sich zu
+                    regen anfängt, als wozu es jetzt den Anschein hat. Unter diesen Umständen wäre
+                    mir ein zuverlässiger kaufmännischer Korrespondent in <placeName key="ed_uyl_j3c_gy">Danzig</placeName> willkommen. Ich <gap reason="illegible"/> ja in Danzig, denn die wenigen Kaufleute in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, welche jetzt noch mit Getreide
+                    handeln, wollen auch meine Vorräte, denn wenn das Blatt sich vorteilhaft wendet,
+                    auch vorteilhaft für sich akquirieren, und richten ihre Nachrichten danach ein.
+                    Wenn es also möglich, dass Sie einen solchen Mann beauftragen könnten, mich von
+                    jedem neuen Ereignis im Getreidehandel zu Amsterdam und England in Kenntnis zu
+                    setzen, dann würden Sie sich höchst verdient um meine Seele machen und gern
+                    würde ich den Korrespondenten nach Ihrem Ratfinden kommunizieren. Die
+                    auswärtigen Preise des Kornbranntweins kennenzulernen, wäre mir auch sehr
+                    wünschenswert.</p>
+                <p>
+               <note type="editorial">Er bedauert, dass ihn die <seg type="comment">
+                     <orig>Nachricht von der Eheschließung des <persName key="ed_tl1_nbf_4y">Königs</persName>
+                            </orig>
+                     <note xml:id="njj4_bl2_b2b">Am 9. November 1824 war <persName key="ed_yzt_s1b_dy">Friedrich Wilhelm III. </persName>mit
+                                    <persName key="ed_elr_hl2_b2b">Auguste Gräfin von
+                                    Harrach</persName> eine morganatische Ehe eingegangen. Sie
+                                erhielt die Titel Fürstin von Liegnitz und Gräfin von
+                                Hohenzollern.</note>
+                  </seg> nicht pünktlich erreicht hat, und hofft,
+                        dass </note> unser guter König häuslich glücklich werden möge. <note type="editorial">Gleiches wünscht er Lehndorff und hofft, dass dessen
+                            <persName key="ed_tcp_g3l_2y">Gemahlin</persName> bald wieder gesund
+                        werde.</note>
+            </p>
+                <closer>
+                    <salute>Leben Sie wohl und bleiben Sie gewogen Ihrem treuen <gap reason="illegible"/> und Freunde </salute>
+                    <signed>Burgsdorff</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

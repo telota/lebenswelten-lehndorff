@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_vfh_5xs_xcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Andreas Pfeiffer an Anna Gräfin von Lehndorff. Steinort, 18. Januar 1870 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_vfh_5xs_xcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 152, Bl. 15-16v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xgf_h1g_vdb">Pfeiffer III, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1870-01-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkungen zum Brief vom <ref target="lehndorff_uht_wz2_j1b">13.
+                        Oktober 1856</ref>. An Pfeiffer gerichtete Briefe 1868 bis 1873 in: APO,
+                    Bestand 382 FA Lehndorff, Nr. 166.</note>
+            </correspDesc>
+            <abstract>
+                <p>Pfeiffer übersendet einen <seg type="comment">
+                  <orig>Zeitungsartikel der
+                            Königsberger Hartungschen Zeitung</orig>
+                  <note xml:id="natx_lcy_yhb">In
+                            der Königsberger Hartungschen Zeitung vom 15. Januar 1870 war der
+                            Beitrag: Die Konzession für die Eisenbahn
+                            Grajewo-Bialystock-Brzest-Litewsk erschienen. Damit war „durch eine
+                            kleine Verlängerung von Lyck bis zur Landesgrenze die Verbindung der
+                            ostpreußischen Südbahn mit dem russischen Eisenbahnsystem gesichert‟
+                            worden. Bisher hatte die Südbahn keinen Anschluss an den größeren
+                            Verkehr hergestellt. Aus einer „Sackbahn von überwiegend lokalem
+                            Charakter‟ werde damit eine „das wichtige Schlussglied der kürzesten
+                            Schienenverbindung zwischen der Ostsee und dem Schwarzen Meer‟.
+                        </note>
+               </seg> über die Eisenbahn <placeName key="ed_bfj_pyf_ccb">Grajewo</placeName>-<placeName key="ed_qrj_lkp_tdb">Bialystock</placeName>.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/3/152/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

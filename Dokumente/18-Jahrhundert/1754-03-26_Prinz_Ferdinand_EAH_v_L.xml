@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_x41_t4m_cz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Ruppin, 26. März 1754</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_x41_t4m_cz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750-1804), in: Masovia 11 (1906), S. 118-154, hier S.
+                            127</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <date when="1754-03-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>26. März 1754</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Sie sprechen in Ihrem Schreiben von den
+                    Vorbereitungen zu dem <rs type="term" key="ed_wzd_r34_dz">Maskenball</rs> bei
+                        <seg type="comment">
+                  <orig>
+                     <persName key="ed_isx_vcp_zkb">la
+                                Touche</persName>
+                  </orig>
+                  <note xml:id="nh22_kpm_cz">Französischer
+                            Gesandter in Berlin</note>
+               </seg>; ich glaube, dass viele von denen, die
+                    sich dort befanden, froh gewesen wären, nicht dagewesen zu sein, wenn sie von
+                    vornherein von der Lotterie der Gräfin <persName key="ed_clr_mpm_cz">Bentinck</persName> gewusst hätten. <seg type="comment">
+                  <orig>Sie haben
+                            auch das Pech gehabt, zu denen zu gehören, welchen sie ein Billet mit
+                            vielen Unhöflichkeiten gegeben hat,</orig>
+                  <note xml:id="nbwt_gyp_mbb">
+                     <note type="editorial">Lehndorff schrieb hierüber in seinem
+                                Tagebuch am 25. Februar: </note>
+                     <quote>Gegen 2 Uhr lässt sich die
+                                Gräfin <persName key="ed_clr_mpm_cz">Bentinck</persName> einfallen,
+                                als Zauberin zu erscheinen. <gap reason="insignificant"/> Jeder
+                                erhält von Ihr einige Schnurrpfeifereien mit meist anstößigen
+                                Aufschriften, nachdem man aus einer Schachtel eine Nummer gezogen
+                                hat.</quote>
+                  </note>
+               </seg> aber da Sie in guter Gesellschaft waren,
+                    werden Sie, denke ich, Geist genug gehabt haben, um sich über ein Frauenzimmer
+                    lustig zu machen, die in der Kunst, sich unbeliebt zu machen, die erste Rolle in
+                    der <placeName key="ed_xrv_gwb_by">Stadt</placeName> spielt. <gap reason="insignificant"/> Ist die Bentinck denn toll geworden, oder will sie
+                    sich vorsätzlich mit den Ersten der Stadt überwerfen? <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_zmn_2fb_4fb2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erbteilung. Steinort, 16. Februar 1724</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_zmn_2fb_4fb2</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Siehe auch Nr. 3: Vermögensangelegenheiten der Gräfin Maria Eleonora von
+                        Lehndorff.</p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 2, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1724-02-16" cert="high"/>
+            </creation>
+            <abstract>
+                <p>Nach dem Tod der Reichsgräfin <persName key="ed_wwb_gcm_2y">Maria Eleonora von
+                        Lehndorff</persName>, geb. Gräfin von Dönhoff teilen deren Erben <persName key="ed_swz_dbp_mbb">Gerhard Ernst von Lehndorff</persName>, <persName key="ed_wtg_nyl_2y">Ernst Ahasverus von Lehndorff</persName> und <persName key="ed_oln_sw4_mbb">Sophie Charlotte Gräfin von Dönhoff</persName>, geb.
+                    Gräfin von Lehndorff, Ehefrau von <persName key="ed_m5q_z52_vz">Bogislaw
+                        Friedrich Graf von Dönhoff</persName>, auf der Grundlage des am 24. April
+                    1723 aufgestellten vollständigen Inventars über Silber, Kupfer, Zinn, Messing,
+                    Eisenwerk, Schränke, Tische, Stühle, Bettgestellen, Porzellan, Tisch- und
+                    Bettzeug, Spiegel, Bücher, Gemälde, Pferde, Wagen, Getreidevorräte etc. das Erbe
+                    untereinander auf.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

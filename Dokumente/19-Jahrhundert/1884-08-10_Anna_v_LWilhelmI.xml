@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_gzd_zg2_cy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anna Gräfin von Lehndorff an Kaiser Wilhelm I. Steinort, 10. August 1884</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_gzd_zg2_cy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche </p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>BPH, Rep. 51 J Nr. 369, n. f.</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Aus dem Nachlass Kaiser Wilhelms I.; Rückgabe aus der UdSSR am 9. April
+                            1959. - Briefpapiermit Trauerrand.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1884-08-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_lwx_y32_cy">Preußen, Wilhelm I. König von, deutscher Kaiser
+                        (Berlin, 22.3.1797-Berlin, 9.3.1888)</persName>
+                </correspAction>
+                <note>Zu den Schulverhältnisse in <placeName key="ed_y1h_tpk_wcb">Masuren</placeName>: EZA 7/19141, Bl. 256-258 (Bericht des Kultusministers
+                        <persName key="ed_tgh_2ft_g2b">Goßler</persName> vom 22. April 1885 an das
+                    Königliche Provinzial-Schulkollegium über das Ergebnis der
+                    Schulvisitationen).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, 10. August 1884</dateline>
+					          <salute>Allergnädigster Kaiser, König und Herr!</salute>
+                </opener>
+				        <p>
+               <seg type="comment">
+                  <orig>Euer Majestät allergnädigstes Meingedenken und der Ausdruck
+                            desselben in dem reizenden Briefe, den ich aus <placeName key="ed_avy_p42_cy">Gastein</placeName> empfangen
+                            durfte,</orig>
+                  <note xml:id="nqgr_nds_kfb">Siehe das Dokument vom <ref target="lehndorff_efx_hbm_2db">5. August 1884</ref>.</note>
+               </seg>
+                    hat mich tief gerührt, und ich küsse Euer Majestät freudenspendende Hand. </p>
+            <p>Wohl hatte mein ganzes Herz den Aufenthalt Euer Majestät in dem lieben Gastein verfolgt und im
+                    Geist die drückende Sommerglut und den erkaltenden Schneefall mit empfunden,
+                    aber wie meine heißen Gebete trotz alledem in Erfüllung gegangen, so wolle
+                    Gottes Gnade auch fernerhin Euer Majestät mit Seinen Fittichen decken und vor
+                    allem Übel bewahren. </p>
+            <p>Noch für eine andere Wohltat möchte ich Euer Majestät gesegnete Hand küssen, nach der sich mein
+                    Herz mit vielen Tausenden im Lande gesehnet, nämlich, dass der <seg type="comment">
+                  <orig>Bann, der seit Minister <persName key="ed_tqm_pk2_cy">Falks</persName> Zeiten auf der Schule gelastet, gehoben und den
+                            Religionsstunden wieder mehr zu ihrem Rechte, der Bibel zu ihrem ersten
+                            Platze in der Volksschule verholfen, und der Katechismus den Kindern
+                            wieder unverkürzt zum Eigentume geworden.</orig>
+                  <note xml:id="nk5t_lp2_cy">
+                     <persName key="ed_tqm_pk2_cy">Adalbert
+                                Falk</persName> hatte am 22. Januar 1872 das <orgName key="ed_qsy_xxh_my">Kultusministerium</orgName> übernommen. Durch
+                            sein Schulaufsichtsgesetz vom 11. März 1872 endete der Einfluss der
+                            Kirche auf die Volksschule. Auch gegen den polnischsprachigen Unterricht
+                            der katholischen Schulkinder in Posen und Westpreußen war sein Wirken
+                            gerichtet. Mit der Unterstützung der Nationalliberalen gelang es ihm,
+                            für seine Gesetze Mehrheiten im Parlament zu erlangen. Im Ergebnis wurde
+                            die Trennung von Staat und Kirche gestärkt. Ein Unterrichtsgesetz,
+                            welches das Schulwesen gegen Verwaltungswillkür absichern sollte und das
+                            1876 im Entwurf vollendet war, scheiterte am Widerspruch des
+                            Finanzministers gegen die Mehrkosten. Der Evangelischen Landeskirche der
+                            älteren Provinzen Preußens suchte Falk durch die 1875 von einer
+                            außerordentlichen Generalsynode gebilligte und auch 1876 vom Landtag
+                            genehmigte Synodalverfassung für die Kirchenprovinzen in den acht alten
+                            Provinzen Preußens eine selbständige Stellung zu geben. Dies benutzte
+                            die Hofpredigerpartei, um bei Kaiser <persName key="ed_lwx_y32_cy">Wilhelm I.</persName> gegen Falk zu agitieren. Zuerst wurde der von
+                            Falk berufene Präsidenten des altpreußischen Evangelischen
+                            Oberkirchenrats Emil <persName key="ed_d11_wr2_cy">Herrmann</persName>
+                            gestürzt, dann Falk 1878 zum Abschiedsgesuch genötigt. Zwar wurde Falk
+                            1878 noch im Amt erhalten, doch als <persName key="ed_atc_ls2_cy">Bismarck</persName> 1879 während der Zolltarifsverhandlungen im
+                            Reichstag sich der Zentrumspartei näherte, <ref target="https://de.wikipedia.org/wiki/Adalbert_Falk">zog Falk es
+                                vor, einer Entlassung durch Erneuerung seines Gesuchs, sich auf die
+                                parlamentarische Tätigkeit beschränken zu wollen</ref>,
+                            zuvorzukommen, das am 14. Juli 1879 bewilligt wurde. Sein Nachfolger,
+                            Robert Viktor von <persName key="ed_hw2_gq2_cy">Puttkamer</persName>,
+                            stärkte die <ref target="https://de.wikipedia.org/wiki/Robert_Viktor_von_Puttkamer">Stellung der Geistlichkeit im Schulwesen</ref>. Vgl. Brehm,
+                            Johannes, Entwicklung der evangelischen Volksschule in Masuren im Rahmen
+                            der Gesamt-Entwicklung der preußischen Volksschule, Bialla 1914, S. 440
+                            ff. </note>
+               </seg> Ich ersah es aus der heutigen <seg type="comment">
+                  <orig>Zeitung</orig>
+                  <note xml:id="ncrh_vp2_cy">Per Kabinettsordre vom
+                            1. August 1884 hatte der Kaiser das Protektorat über den aus Anlass der
+                            Lutherfeier neu begründeten Central-Verein der Deutschen <rs type="term" key="ed_a2b_qpd_gy">Luther-Stiftung</rs> übernommen. In der <ref target="http://zefys.staatsbibliothek-berlin.de/dfg-viewer/?set%5Bimage%5D=7&amp;amp;amp;set%5Bzoom%5D=default&amp;amp;amp;set%5Bdebug%5D=0&amp;amp;amp;set%5Bdouble%5D=0&amp;amp;amp;set%5Bmets%5D=http%3A%2F%2Fzefys.staatsbibliothek-berlin.de%2Foai%2F%3Ftx_zefysoai_pi1%255Bidentifier%255D%3D0aa4b740-12e1-471c-8d36-5359cdfca13c">Kabinettsordre</ref> sprach er sich dahin aus, dass es ihm „ein
+                            erhebender Gedanke sei, dass auf diesem Wege das Gedächtnis des großen
+                            Reformators stets lebendig werde erhalten werden, und das aus seinem
+                            Gott geweihten Werke für die evangelische Christenheit unaufhörlich
+                            neuer Segen sprieße, der sich von Geschlecht zu Geschlecht übertrage.“
+                            Am 8. August 1884 traf er nach seiner Badekur in <placeName key="ed_avy_p42_cy">Gastein</placeName> in <placeName key="ed_epd_ct2_cy">Babelsberg</placeName> ein.</note>
+               </seg>, und
+                    mein Herz dankte Gott und Euer Majestät für dies Geschenk, welches vielen Segen
+                    der Volksschule wieder bringt <gap reason="insignificant"/>. </p>
+               				<closer>
+					          <salute>Gott kröne Euer Majestät mit reichstem Segen, das erfleht aus Herzensgrunde Euer
+                        Majestät alleruntertänigste</salute>
+					          <signed>Anna Gräfin Lehndorff geb. Gräfin Hahn</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

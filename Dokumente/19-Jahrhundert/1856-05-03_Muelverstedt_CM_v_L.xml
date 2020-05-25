@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hpz_vtk_l1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Adalbert von Mülverstedt an Carl Meinhard Graf von Lehndorff. Berlin, 3. Mai 1856</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hpz_vtk_l1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 425, n. f.</idno>
+                    </msIdentifier>
+                    <p> </p>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_my1_zlb_1bb">Mülverstedt, George Adalbert von
+                        (1825-1914)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1856-05-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Mülverstedt antwortet am 15. Juni (der Brief liegt in der Akte) auf einen
+                    Brief des Grafen (in: LHA Sachsen-Anhalt, E 130 NL Mülverstedt, Nr. 36/1, Bl.
+                    50). Die Anlagen habe er am selben Tag an <persName key="ed_esl_ywl_ddb">Ohlen</persName> mit dem Wunsch des Grafen um <quote>höchstmögliche
+                        Beschleunigung</quote> weitergeleitet. Er habe seine Hilfe bei der
+                    Redigierung angeboten, bisher habe er von Ohlen jedoch nichts gehört. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 3. Mai 1856 <lb/>Alexanderstr. Nr. 63</dateline>
+					          <salute>Hochgeborener Herr <lb/>Hochzuverehrender Herr Graf!</salute>
+                </opener>
+				        <p>Ew. Hochgeboren in Ihrem geehrten <ref target="lehndorff_kgm_thg_qcb">Schreiben vom 23. v.
+                        Mts.</ref> mir so überaus freundlich geäußerte Teilnahme an dem über den
+                    Ursprung Ihrer Familie verfassten <seg type="comment">
+                  <orig>Aufsatz</orig>
+                  <note xml:id="ncjy_gsb_d2b">Mülverstedt, Adalbert von, Ursprung und Alter des
+                            gräflich von Lehndorffschen Geschlechts, in: Neue Preußische
+                            Provinzialblätter, Jg, 1856, S. 1-30 und 89-110. </note>
+               </seg> hat mich
+                    auf das Angenehmste berührt und wird mir ein Sporn sein, durch weitere
+                    Forschungen die Geschichte eines so alten, ehrwürdigen, durch eine Menge der
+                    verdienstvollsten Persönlichkeiten reich gesegneten Geschlechts aufzuhellen und
+                    durch deren Mitteilung einigermaßen dem lebhaften Gefühle der Dankbarkeit, zu
+                    welcher Ew. Hochgeboren gütiges Wohlwollen mich längst verpflichtet, einen
+                    Ausdruck zu verleihen. Es ist mir immer der wohltuendste Lohn für Arbeiten wie
+                    die, welche Ew. Hochgeboren Beifalls sich zu erfreuen das Glück hat, gewesen,
+                    nicht dass die Familienangehörigen mit dem Resultate meiner Untersuchung
+                    übereinzustimmen genötigt wurden, sondern wenn es mir gelang, den Familiengeist
+                    zu beleben, das Interesse für die Großtaten oder das ritterliche Stillleben
+                    derselben zu erwecken und zu eigener Forschung über die Geschichte und die
+                    Verhältnisses eines Geschlechts aufzufordern. Dieses Ziel hinsichtlich Ew.
+                    Hochgeboren zu erreichen konnte mir jedoch nicht glücken, da die von
+                    Hochderselben beabsichtigte <seg type="comment">
+                  <orig>Stiftung</orig>
+                  <note xml:id="nntw_mcr_dbb">des Fideikommisses. Vgl. die Dokumente vom <ref target="lehndorff_qqy_fzf_j1b">22. Juli 1855 </ref>und <ref target="lehndorff_kgm_thg_qcb">23. April 1856</ref>.</note>
+               </seg>
+                    zuvorkommend schon Zeugnis ablegt von jenem Geiste, der in der Erhaltung des
+                    Namens und der Familienehre den eigenen Ruhm und die eigene Hochstellung
+                    erblickt. Es ist mir daher ein angenehmer Auftrag gewesen, welchen Ew.
+                    Hochgeboren durch mich erfüllt wünschte, so sehr ich andererseits bedauern muss,
+                    dass meine durch die archivalischen und literarisch-historischen Arbeiten für
+                    die märkischen Stände, <seg type="comment">
+                  <orig>für das Staatsarchiv und
+                            Privatpersonen</orig>
+                  <note xml:id="nov1_4f1_hfb">Vgl. dessen <ref target="https://portal.dnb.de/opac.htm?method=simpleSearch&amp;query=117172839">Werkverzeichnis</ref>.</note>
+               </seg> unglaublich beanspruchte Zeit
+                    mich verhindern dürfte, der Erledigung des Auftrages mich mit völlig freien
+                    Kräften zu unterziehen, und dass Ew. Hochgeboren in mir vielleicht eine üble
+                    Wahl getroffen haben für eine derartige Arbeit, welche nicht nur einen
+                    gewieften, ununterbrochen in seinem Fache beschäftigt gewesenen Juristen,
+                    sondern auch einen solchen erfordert, welcher sich längere Zeit in der
+                    Bearbeitung von Fideikommiss-Sachen versucht hat. Dass Ew. Hochgeboren jetzt
+                    erst einen Bericht von mir erhalten liegt daran, dass ich Herrn von <persName key="ed_om1_nxl_ddb">Pohl</persName> erst bei meinem zweiten Besuche
+                    einheimisch fand, und dass ich mir Ew. Hochgeboren Aufsatz gründlich
+                    durchgesehen und für den beabsichtigten Zweck exzerpiert habe. Herr von <seg type="comment">
+                  <orig>
+                     <persName key="ed_om1_nxl_ddb">Pohl</persName>
+                  </orig>
+                  <note xml:id="nsgz_cfh_4bb">Amtmann von Pohl,
+                            siehe die Korrespondenz des Rechtsanwalts und Notars <persName key="ed_ckp_1tb_d2b">Schulze</persName> jun. in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, bevollmächtigter
+                            Rechtsvertreter der Familie, in: LASA, StA L, Bestand 21950 FA
+                            Lehndorff, Nr. 393 (die Dokumente liegen in einer blauen Mappe mit der
+                            Aufschrift: Rechtsanwalt Schulze Diversa). Von diesem erbat sich
+                            Rechtsanwalt von <persName key="ed_slx_3yr_yhb">Hippel</persName> in
+                                <persName key="ed_ckp_1tb_d2b">Schulzes</persName> Auftrag im
+                            Zusammenhang mit dem Erbteilungsrezess Abschriften von den
+                            Ausfertigungen des Pachtvertrages und der Übergabeverhandlungen wegen
+                                <placeName key="ed_omg_5xl_5y">Darkehmen</placeName> und <placeName key="ed_hts_ttp_vcb">Warglitten</placeName>, da die Originale in
+                                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                            <quote>nicht aufzufinden</quote> waren (Bl. 6-6v).</note>
+               </seg>, welchem
+                    ich die oben erwähnten Mängel in meiner Person einräumte, ist zwar sehr gern
+                    bereit, die verändernde Redaktion einiger Stellen der Fideikommiss-Urkunde mir
+                    zu übertragen und zwar so, dass es lediglich meine Arbeit bleibt (wie ich dies
+                    auch aus Ew. Hochgeboren geehrten Schreiben entnehmen zu können glaube), seine
+                    Ideen und nach der durch ihn geschehenen völligen Erledigung der juristischen
+                    Punkte in eine entsprechende Form zu bringen, hat jedoch Anstand genommen, dies
+                    schon jetzt vornehmen zu lassen, weil ihm zur Zeit das Material für die
+                    beabsichtigten Änderungen fehle und es noch auf die Entscheidung mehrerer
+                    Nachfragen ankomme. Herr von <persName key="ed_esl_ywl_ddb">Ohlen</persName>
+                    teilte mir mit, <seg type="comment">
+                  <orig>darüber mit Ew. Hochgeboren im
+                            Briefwechsel zu stehen,</orig>
+                  <note xml:id="nsvs_ntb_d2b">Dieser war
+                            bisher nicht aufzufinden.</note>
+               </seg> und erachtet es vor allem
+                    notwendig festgesetzt zu sehen, ob, wie es Ew. Hochgeboren Intention sei, auch
+                    Hochdero Herr <persName key="ed_nml_dw2_cy">Bruder</persName> als Mitstifter
+                    auftreten sollte, <gap reason="illegible"/> aber, nachdem Ew. Hochgeboren die
+                    Absicht, die Lehnspertinenz von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> allodifizieren zu lassen aufgegeben, welche Güter und
+                    Grundstücke einer freien Verfügung unterworfen wären und auf welchen die
+                    Lehnsqualität haftet. Es würde dabei nicht auf allgemeine Angaben, sondern auf
+                    ein detailliertes <seg type="comment">
+                  <orig>Exzerpt aus den
+                            Hypothekenakten</orig>
+                  <note xml:id="nsgp_fkr_dbb">Vgl. LASA, StA L,
+                            Bestand 21950 FA Lehndorff, Nr. 223: Auszug aus den Hypothekenakten von
+                            Groß-Steinort mit Daten von Verleihungen, Privilegierungen und
+                            Erbvergleichen von 1554 bis 1793, o. J.; Nr. 230:
+                            Hypothekenangelegenheiten der Lehndorffschen Güter 1788-1796, 1855-1862;
+                            GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 17 (Handakte
+                            des Rechtsanwalts von Hippel, Königsberg) und Nr. 859
+                            (Hypothekanangelegenheiten für die Güter in Steinort und des Bauerngutes
+                            Rosengarten, 1853 und 1855).</note>
+               </seg>, welches von einem <unclear reason="illegible" cert="high">Registrator</unclear> anzufertigen wäre, und
+                    namentlich etwaige <unclear reason="illegible" cert="low">[Beschränkungsin...?]</unclear> und Rubriken II berücksichtigte, ankommen,
+                    und dies wäre eine unerlässliche Vorarbeit und an Ort und Stelle ausführbar.
+                        <gap reason="insignificant"/>
+            </p>
+                <p>Sobald Ew. Hochgeboren denselben mit näherer Instruktion versehen resp. die
+                    erbetene Materialien <gap reason="illegible"/> haben werden, will ich mit
+                    größter Bereitwilligkeit mich jeder noch so weitläuftigen Arbeit gern
+                    unterziehen und hoffe, dass vielleicht noch dieses und jenes berücksichtigt
+                    werden dürfte und von Ew. Hochgeboren kooptiert, was mir schon jetzt bei
+                    Durchsehung der Urkunde einer Abänderung bedürftig erschienen ist. <gap reason="insignificant"/>
+            </p>
+                <p>Mit Vergnügen habe ich auch Ew. Hochgeboren Wunsch vernommen, einen möglichst
+                    vollständigen <seg type="comment">
+                  <orig>Stammbaum Ihrer Familie zu besitzen, als
+                            welchen ich den von mir bereits ausgearbeiteten und nach und nach
+                            vervollständigten bezeichnen kann und nächstens zu überreichen mir die
+                            Ehre geben werde.</orig>
+                  <note xml:id="ngfv_5cr_dbb">Möglicherweise der
+                            vom 13. bis in das 19. Jahrhundert reichende kolorierte Stammbaum aus
+                            der 2. Hälfte des 19. Jahrhunderts in: LASA, StA L, Bestand 21950 FA
+                            Lehndorff, Nr. 133.</note>
+               </seg> Auch werde ich zur Probe eine <seg type="comment">
+                  <orig>Ahnentafel</orig>
+                  <note xml:id="nwzj_cdr_dbb">Wie zuvor,
+                            hier Nr. 127 und 128.</note>
+               </seg> beifügen, ob dieselbe in dieser Art
+                    der Darstellung Ihren Beifall haben würde. Zwar habe ich aus den durch des Herrn
+                    Grafen <persName key="ed_cgy_xtf_4y">Dönhoff</persName> Exzellenz vor einiger
+                    Zeit mir zugegangenen Stammregister zu ersehen die Freude gehabt, dass dasselbe
+                    weniger Lücken hat, als ich vermutete, jedoch hoffe ich, dass manche desselben
+                    durch meine Ausarbeitung wird ausgefüllt werden können. Falls die zu
+                    überreichende Ahnentafel (als Anfang) Euer Hochgeboren Beifall <gap reason="illegible"/> des Arrangements sich zu erfreuen haben sollte, würde
+                    ich dergleichen für alle Linien und die hervorragenden Persönlichkeiten
+                    derselben konstituieren können. </p>
+            <p>Indem Ew. Hochgeboren ich nochmals meine aufrichtige Dankbarkeit für die unverdiente Teilnahme,
+                    mit welcher Hochdieselben mich hoch beglückt haben, ausspreche, und die
+                    Versicherung meiner Bereitwilligkeit, Ew. Hochgeboren gern dienstbar zu sein,
+                    wiederholend, habe ich die Bitte um die Erhaltung Ihres gütigen Wohlwollens der
+                    Ehre mich zu nennen Euer Hochgeboren ganz ergebenster </p>
+				        <closer>
+                    <signed>G. von Mülverstedt <lb/>K. Geh. Archivrat</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ikv_n1z_bz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Stettin, 22. Oktober 1760</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ikv_n1z_bz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750–1804), in: Masovia 11 (1906), S. 118-154, hier S. 137 f.
+                        </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <placeName key="ed_sxm_51z_bz">Stettin</placeName>
+                    <date when="1760-10-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Stettin, 22. Oktober 1760</dateline>
+                </opener>
+                <p>Ich antworte erst heute auf Ihren Brief vom 29. September. Sie müssen sich
+                    darüber nicht wundern, da wir 12 Tage keine Post erhalten haben und die
+                    vorgestrige die erste ist, <seg type="comment">
+                        <orig>seitdem die Russen und Österreicher <placeName key="ed_xrv_gwb_by">Berlin</placeName> verlassen haben</orig>
+                        <note xml:id="ncjq_tcz_bz">zwischen dem 11. und 13. Oktober</note>
+                    </seg>. <seg type="comment">
+                  <orig>Sie werden durch die Berichte, welche ans
+                            Ministerium geschickt sind, und durch Privatbriefe alles erfahren haben,
+                            was dort während der Anwesenheit unserer Feinde geschah;</orig>
+                  <note xml:id="ne3d_14r_rdb">Vgl. Schmidt-Lötzen, Nachträge, Bd. 1, S. 271
+                            ff.</note>
+               </seg> dieses Unglück war für die Hauptstadt sehr groß, doch
+                    haben wir Grund, Gott zu danken, dass sie uns nicht soviel Böses getan haben,
+                    als in ihrer Macht gestanden hätte. Ich bin glücklich genug gewesen, nichts zu
+                    verlieren, aber zum Lachen brachte es mich, dass die Russen selbst die beiden
+                    Pferde mit sich genommen haben, die mein <persName key="ed_nvx_wcz_bz">Bruder</persName> zum Gebrauche der <seg type="comment">
+                        <orig>Gräfin <persName key="ed_ux3_xmm_scb">Dönhoff</persName>
+                  </orig>
+                        <note xml:id="nsw4_zcz_bz">Hofdame der Gemahlin des Prinzen Heinrich</note>
+                    </seg> zurückgelassen hat. Die Schweden sind bis nach <placeName key="ed_iyk_gdz_bz">Anklam</placeName> zurückgewichen, und ich berechne,
+                    dass sie an 2.000 Mann an Toten, Verwundeten und Gefangenen verloren haben. Aber
+                    wozu führt uns das? Unsere Feinde, die in so großer Zahl sind, werden uns
+                    langsam zu Tode martern. Ich stelle tausend Reflexionen über die gegenwärtige
+                    Lage unserer Angelegenheiten an, die ich nicht niederzuschreiben wage. </p>
+            <p>Wenn die Gelegenheit sich bietet, sprechen Sie bitte der <persName key="ed_bwq_lzl_2y">Königin</persName> mein lebhaftes Bedauern wegen der Verluste aus, die sie
+                    in <placeName key="ed_nwt_jdz_bz">Schönhausen</placeName> erlitten hat; ich kann
+                    Ihnen sagen, dass ich davon lebhaft berührt bin, da dieser Ort ihre einzige
+                    Freude ausmachte, ihren einzigen Trost. <gap reason="insignificant"/> Teilen Sie
+                    mir mit, ob die Hochzeit von Fräulein <persName key="ed_ikh_ldz_bz">Keyserlingk</persName> stattgefunden hat; ich bezweifle, dass Fräulein von
+                        <persName key="ed_elx_wwg_2z">Forcade</persName> den Bruder des Bräutigams
+                    der ersteren heiraten wird. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Die Württemberger</orig>
+                        <note xml:id="nnff_b2z_bz">Truppen des Herzogs <persName key="ed_mp5_5ps_52b">Karl Eugen von Württemberg</persName>
+                  </note>
+                    </seg> haben meine Besitzungen ruiniert, sie haben alle Pferde, alles Rindvieh
+                    und die ganze Ernte des Jahres mitgenommen; kurz, ich glaube, dass es
+                    gegenwärtig nicht einen Untertanen des Königs in irgendeiner Provinz gibt,
+                    dessen Finanzen durch diesen Krieg nicht stark zerrüttet sind. <gap reason="insignificant"/> Ich weiß aus sehr guter Quelle, dass mein <persName key="ed_nvx_wcz_bz">Bruder</persName> sich hat von <placeName key="ed_iw5_fxl_2y">Breslau</placeName> nach <placeName key="ed_nhm_rdz_bz">Glogau</placeName> transportieren lassen, seine Gesundheit ist immer noch
+                    gestört. <gap reason="insignificant"/> Ich erwarte, dass die Russen sich völlig
+                    nach Polen zurückgezogen haben, so dass sie nicht nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> zurückkehren werden; deshalb bin ich
+                    überzeugt, dass man den Spätherbst und Winter in aller Sicherheit dort wird
+                    bleiben können. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

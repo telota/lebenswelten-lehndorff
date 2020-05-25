@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_lyf_pzt_vdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, Januar
+                    1770</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_lyf_pzt_vdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">
+                    <p>Lehndorff hielt sich mit seiner Frau zum Karneval in <placeName key="ed_xrv_gwb_by">Berlin</placeName> auf, war aber an einem
+                        Augenleiden erkrankt. Dass er am Karneval nicht teilnehmen konnte, betrübte
+                        ihn nicht, denn er sehnte sich <quote>keineswegs nach seinen lärmenden
+                            Vergnügungen</quote>. Anwesend in Berlin waren zahlreiche polnische
+                        Fürstlichkeiten und verschiedene Engländer, die Lehndorff charakterisiert.
+                        Im März geht er nach <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName>
+                        zu Prinz <persName key="ed_nvx_wcz_bz">Heinrich</persName> und kehrt im
+                        April nach einem Besuch bei Prinz <persName key="ed_mn5_svg_hy">Ferdinand</persName> über <placeName key="ed_uxr_bxq_bz">Ruppin</placeName> zurück. Im Mai treffen seine Schwiegereltern mit der
+                        Schwester seiner Frau ein, die <quote>mit einem Grafen Dönhoff auf
+                            Quittainen</quote> verheiratet werden soll, weshalb sich Lehndorff und
+                        seine Frau Ende Mai auf die Reise nach Preußen machen. In <placeName key="ed_sxm_51z_bz">Stettin</placeName> begegnet er der vom Hof
+                        verbannten Prinzessin <persName key="ed_bwq_lzl_2y">Elisabeth</persName> und
+                        nimmt an einem Fest des dortigen Adels teil. In <placeName key="ed_uyl_j3c_gy">Danzig</placeName> trifft er Herrn von <persName key="ed_cgl_4fp_tdb">Rehbinder</persName> und anderen alten Bekannten
+                        wie Fürstin <persName key="ed_sdr_zbq_tdb">Sapieha</persName> und Fürstin
+                            <persName key="ed_dtr_xgp_tdb">Sanguszko</persName>. Am 18. Juni
+                        erreichen sie <placeName key="ed_ehn_vv2_g1b">Quittainen</placeName> und
+                        reisen über <placeName key="ed_z3s_whp_tdb">Karwinden</placeName> nach
+                            <placeName key="ed_c3f_wxz_g1b">Schlodien</placeName>, wo sie
+                            <quote>alle Dohnas der Welt beisammen (sehen), lauter ehrenwerte
+                            Leute</quote>. Am 25. Juni treffen sie in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ein. Hier stellt er seine Frau seiner Mutter vor,
+                        vermisst aber <quote>Einigkeit und Eintracht und das gegenseitige Vertrauen,
+                            die den Familienverkehr so behaglich machen.</quote> Bis zum 23. August
+                        - dann geht er mit seiner Frau wegen der bevorstehenden Entbindung nach
+                            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> - hält er sich auf
+                        seinen Gütern auf, die <quote>wirklich herrlich</quote> sind, so dass er
+                        sich <quote>sehr wohl entschließen</quote> könnte, zu bleiben. Nur die
+                        zahlreichen Besucher stören ihn. - Die Vermählung kommt nicht zustande, da
+                        Graf Dönhoff verstirbt. Ebd., S. 171 ff.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 2, Gotha 1913, S. 171-173</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date from="1770-01-01" to="1770-01-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <gap reason="insignificant"/> Der berüchtigte Blutsauger Schlesiens, Herr v.
+                        <persName key="ed_dg3_lzk_wcb">Schlabrendorf</persName>, stirbt mit
+                    Hinterlassung von über einer Million, die er dem armen <placeName key="ed_tjn_3rc_py">Schlesien</placeName> abgenommen und vorsichtigerweise
+                    in Staatspapieren in <placeName key="ed_jxm_5vf_4y">England</placeName>
+                    untergebracht hat. Der <persName key="ed_x2r_52f_cy">König</persName> ist von
+                    alledem unterrichtet. Man war erst sehr gespannt darauf, wer den erledigten
+                    Posten bekommen werde. Es war von Hagen und Knyphausen die Rede, S. Majestät
+                    ließ jedoch einen Herrn v. <persName key="ed_gll_314_xdb">Hoym</persName> aus
+                    Kleve kommen, machte ihn zum Staatsminister mit 14.000 Talern Gehalt und setzte
+                    ihn auf den Posten in Schlesien. Der Mann ist erst 30 Jahre alt. Vor 19 Jahren
+                    schlug man ihm noch eine Kornettstelle im Regiment Gendarmes ab; aus lauter
+                    Verzweiflung schlug er eine andere Laufbahn ein, wurde Kriegsrat in <placeName key="ed_iw5_fxl_2y">Breslau</placeName>, heiratete ein <persName key="ed_gdd_l14_xdb">Fräulein v. Dyhern</persName>, wurde vor einem Jahr
+                    Kammerpräsident in <placeName key="ed_akt_x2q_rdb">Kleve</placeName> und jetzt
+                    ist er plötzlich in die höchste Stellung eingerückt. Man beneidet ihn um diesen
+                    Posten. Er soll ein rechtschaffener Mann sein, und wenn dem so ist, wird es ihm
+                    viel Schmerz bereiten, eine so schöne Provinz so grausam leiden zu sehen. So hat
+                    man vor einem Jahr auch <persName key="ed_bbf_x14_xdb">Goltz</persName>
+                    beneidet, als er als Gesandter nach <placeName key="ed_ust_ky4_dz">Frankreich</placeName> kam. Man hielt sich über das Glück dieses jungen
+                    Mannes auf, und jetzt ist er wieder da, nachdem er sich in dieser kurzen Zeit
+                    ruiniert hat, und wird obendrein noch von dem König kühl behandelt. Dieser hat
+                    nach seiner Rückkehr noch gar nicht mit ihm gesprochen. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_q5z_jhy_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ludwig Heim an die X. Bauinspektion des Berliner Magistrats. Berlin, 21. Juli
+                    1880 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_q5z_jhy_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LA Berlin</institution>
+                        <idno>A Rep. 010-01-02, Nr. 2573, n. f.</idno>
+                    </msIdentifier>
+                  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yp2_hfm_gbb">Heim, (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1880-07-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_v3n_jfm_gbb">Bauinspektion des Magistrats zu Berlin</orgName>
+                </correspAction>
+                <note>Am 15. August 1880 hatte die Bauinspektion <persName key="ed_zkm_whl_2y">
+                        Lehndorff</persName> mitgeteilt, dass die Erfüllung der von der Stadt
+                    übernommenen Verpflichtung der Pflasterung der Unterbaumstraße in guter Qualität
+                    aufgrund der noch nicht abgeschlossenen Baumaßnahmen insgesamt nicht möglich
+                    sei. Noch am 28. April 1881 war die vereinbarte Neu- bzw. Umpflasterung der
+                    Unterbaum- und Friedrich-Carl-Uferstraße nicht erledigt, vgl. das Schreiben
+                        <persName key="ed_yp2_hfm_gbb">Heims</persName> von diesem Tag in der Akte.
+                    Da er sich persönlich für die Zurverfügungstellung des Platzes bei Lehndorff
+                    verwendet hatte, war es ihm sehr unangenehm, dass die Gegenleistung nicht
+                    erfüllt war. Ebenso unangenehm war es ihm, in der Sache den Weg der Beschwerde
+                    zu beschreiten. Nach einer Randnotiz vom 30. April 1881 sollte die Umgestaltung
+                    im Sommer erfolgen, da sich die Wege nach den Bauarbeiten nun genügend gesetzt
+                    hätten. Am 3. Juni 1881 teilte Heim in Lehndorffs Auftrag Bauinspektor <persName key="ed_abj_hqs_g2b">Krause</persName> von der X. Bauinspektion mit, dass
+                    der Graf sich entschlossen habe, zwei Bauplätze nach anliegender Skizze (am Ende
+                    des Schreibens) zur Ausführung der Unterführung der Unterbaumstrasse zur
+                    Verfügung zu stellen, die entsprechend der Vereinbarungen zu räumen seien. (Ende
+                    der Akte)</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Heim Baumeister W. Berlin Kurfürsten-Strasse 9 <lb/>Berlin, den 21.
+                        Juli 1880</dateline>
+                    <salute>An die X. Stadtbauinspektion <lb/>hier</salute>
+                </opener>
+                <p>In Verfolg der geehrten Zuschrift vom 14. Juli c. erwidere ich im Auftrag des
+                    Herrn <persName key="ed_zkm_whl_2y">Grafen von Lehndorff</persName> ergebenst,
+                    dass der Herr Graf der X. Bauinspektion sehr gern gefällig ist und einer
+                    weiteren Benutzung des Platzes zur Lagerung von Pflastersteinen unter der
+                    Bedingung jederzeitigen Widerrufs gestatten will, sich dagegen aber berechtigt
+                    hält, eine sofortige Herstellung des Pflasters zu verlangen in der Weise, wie
+                    solches früher <hi rendition="#u">vereinbart</hi> ist. </p>
+                <closer>
+                    <salute>Hochachtungsvoll</salute>
+                    <signed>Heim</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_cbk_pyd_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verzeichnis der Güter des Grafen Ernst Ahasverus Heinrich von Lehndorff im
+                    Seehestenschen Kreis. 1790/91</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_cbk_pyd_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Vgl. das <quote>Manual aller Geld-Ausgaben von Trinitatis 1790 bis Trinitatis
+                            1791</quote> in: APO, Bestand 382 FA Lehndorff, Nr. 281 sowie die
+                            <quote>Jahresrechnung der Hochreichsgräflich Steinortschen Güter,
+                            sämtliche Geld-Einnahmen von Trinitatis 1791 bis Trinitatis 1792</quote>
+                        in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 266. Nach letzterer betrug
+                        die bare Einnahmen aus den Gütern 11.214 Rtlr., 18 Gr. und 12 D., die
+                        Ausgabe 5.680 Rtlr., 45 Gr. und 13 1/4 D, der Überschuss demnach 5.533
+                        Rtlr., 62 Gr., 16 3/4 D. Der Getreidevorrat entsprach einem Wert von 1.145
+                        Rtlr, 378 Gr., 4 3/4 D. - Die Verzeichnisse gehörten ursprünglich zu einem
+                        Aktenkonvolut verschiedener Schriftstücke unter dem Titel
+                            <quote>Landwirtschaftliches</quote>, vgl. LASA, StA L, Bestand 21950 FA
+                        Lehndorff, Nr. 267. Vgl. auch <ref target="https://szukajwarchiwach.pl/42/382/0/3/61/str/1/1/100#tabSkany">APO, Bestand 382 FA Lehndorff, Nr. 61: Jahresrechnung sämtlicher
+                            Einnahmen der Steinortschen Güter 1790/91 </ref>mit Anlagen. - Siehe
+                        auch: Mülverstedt, Adalbert v., Beitrag zur älteren Geschichte von
+                        Seehesten, in: Masovia 11 (1906), S. 61-69.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 50, 2 Blatt </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1790-01-31" notAfter="1791-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Verzeichnis derer zum <placeName key="ed_qcj_1qf_hy">Seehestenschen Kreise
+                    </placeName>gehörigen <rs type="term" key="ed_jfm_1rd_gy">Adelsgüter</rs> und
+                    deren Besitzer<table rows="11" cols="2">
+                        <row role="label">
+                            <cell>Namen der <lb/>adeligen Güter und Dörfer</cell>
+                            <cell>Besitzer derselben</cell>
+                        </row>
+                        <row>
+                            <cell>
+                        <gap reason="insignificant"/>
+                     </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>7. Groß <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                     </cell>
+                            <cell>Kammerherr Reichsgraf von <persName key="ed_csb_mdf_cy">Lehndorff</persName>, wohnt in <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName>
+                     </cell>
+                        </row>
+                        <row>
+                            <cell>8. <placeName key="ed_hyn_yzd_gy">Klein
+                                Steinort</placeName>
+                     </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>9. <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>10. <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                     </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>11. <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>12. <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                     </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>13. <placeName key="ed_sc5_c12_gy">Przistaynen</placeName>
+                     </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>14. <placeName key="ed_xjg_d12_gy">Stobben</placeName> oder
+                                Pniewen</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>15. <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                     </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>
+                        <gap reason="insignificant"/>
+                     </cell>
+                            <cell/>
+                        </row>
+                    </table>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

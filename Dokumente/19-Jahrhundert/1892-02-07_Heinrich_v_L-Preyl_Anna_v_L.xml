@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_utb_1sm_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich (Heinz) Graf von Lehndorff-Preyl an Anna Gräfin von Lehndorff.
+                    Berlin, 7. Februar 1892</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_utb_1sm_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 367, Bl. 1</idno>
+                    </msIdentifier>
+                    <p>85-</p>
+                    <p>188</p>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nml_dw2_cy">Lehndorff, Heinrich Graf von (Königsberg
+                        1.4.1829-Preyl 24.4.1905)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1892-02-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Ob es sich um die 1893 begonnenen Modernisierungen mit Einrichtung einer
+                    Meierei handelt, wäre weiter zu untersuchen, siehe. hierzu die Dokumente vom
+                        <ref target="lehndorff_mks_lph_my">17. April 1893</ref> und <ref target="lehndorff_t4w_wgm_2db">21. Oktober 1893</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Unterstützung für ein nicht genanntes Bauprojekt. Als Agnaten müssten <persName key="ed_nml_dw2_cy">er</persName> und <persName key="ed_sjx_pfm_2y">Georg</persName> von Lehndorff laut <seg type="comment">
+                  <orig>Fideikommissurkunde</orig>
+                  <note xml:id="nbkb_3bh_lfb">Vgl. das
+                            Dokument vom <ref target="lehndorff_iqm_nmb_kz">2. Mai 1870</ref>.
+                        </note>
+               </seg> für bauliche Veränderungen und die Aufnahme von Kapitalien
+                    ihre Zustimmung geben, zuvor muss jedoch auch die Fideikommissbehörde zustimmen.
+                    Das ließe sich sicher bis zum Frühjahr bewerkstelligen, vor dem der fragliche
+                    Bau <quote>ohnehin nicht beginnen dürfte</quote>. Sie würden ihre Zustimmung für
+                    eine Anleihe bis zu einer Höhe von 15.000 Rtlr. <quote>für beregten
+                        Zweck</quote> geben. Er nehme an, <quote>dass die Einrichtung in dem
+                        vorhandenen Gebäude eine rentable sein wird</quote>, spricht aber trotzdem
+                    die Warnung aus: <quote>Die Landwirte haben nun einmal die Eigentümlichkeit,
+                        jede profitable Einrichtung vorher in ihrem Erfolg als großartig anzusehen
+                        und nachher nicht mehr diesen Standpunkt inne zu halten; und das ist
+                        vielleicht auch ganz gut, da die Hoffnung noch mit das einzige ist, was
+                        heutzutage den Landwirt bei Laune zu halten im Stande ist.</quote>
+            </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/367/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

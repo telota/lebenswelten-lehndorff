@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_xtx_4bn_klb">
+                    <persName type="reg">
+                        <surname>Fahron</surname>
+                        <forename>Karl</forename>
+                    </persName>
+                    <birth>1809</birth>
+                    <death/>
+                    <note>Töpfermeister</note>
+                </person>
+                <person xml:id="ed_tqm_pk2_cy">
+                    <idno type="uri">http://d-nb.info/gnd/118683020</idno>
+                    <persName type="reg">
+                        <surname>Falk</surname>
+                        <forename>Adalbert</forename>
+                    </persName>
+                    <birth>1827</birth>
+                    <death>1900</death>
+                </person>
+                <person xml:id="ed_c3n_ym3_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/118685899</idno>
+                    <persName type="reg">
+                        <surname>Falk</surname>
+                        <forename>Johannes Daniel</forename>
+                    </persName>
+                    <birth>1768</birth>
+                    <death>1826</death>
+                </person>
+                <person xml:id="ed_lxr_yr1_hfb">
+                    <persName type="reg">
+                        <surname>Falkenstein</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schlippenbach, Gräfin von </name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1856)</note>
+                </person>
+                <person xml:id="ed_qsh_tbg_h1b">
+                    <idno type="uri">http://d-nb.info/gnd/116408626</idno>
+                    <persName type="reg">
+                        <surname>Farenheid</surname>
+                        <forename>Fritz von</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1888</death>
+                </person>
+                <person xml:id="ed_dlv_cjv_mbb">
+                    <idno type="uri">http://d-nb.info/gnd/135964725</idno>
+                    <persName type="reg">
+                        <surname>Farenheid</surname>
+                        <forename>Johann Friedrich Wilhelm von</forename>
+                    </persName>
+                    <birth>1747</birth>
+                    <death>1834</death>
+                </person>
+                <person xml:id="ed_iqx_1bb_h2b">
+                    <persName type="reg">
+                        <surname>Fechner</surname>
+                        <forename>P. O.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Riemermeister; erster Verwalter des Angerburger Siechenhauses</note>
+                </person>
+                <person xml:id="ed_edk_y5t_gfb">
+                    <persName type="reg">
+                        <surname>Feddersen</surname>
+                        <forename>Frl.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1853)</note>
+                </person>
+                <person xml:id="ed_zcx_jwk_gcb">
+                    <idno type="uri">http://d-nb.info/gnd/123504988</idno>
+                    <persName type="reg">
+                        <surname>Fellgiebel</surname>
+                        <forename>Erich</forename>
+                    </persName>
+                    <birth>1886</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_lkt_jqg_vz">
+                    <idno type="uri">http://d-nb.info/gnd/1025283902</idno>
+                    <persName type="reg">
+                        <surname>Fermor</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                    <birth>1702</birth>
+                    <death>1771</death>
+                </person>
+                <person xml:id="ed_r3t_tdt_zdb">
+                    <persName type="reg">
+                        <surname>Fey</surname>
+                        <forename>Carl Otto</forename>
+                    </persName>
+                    <birth>1894</birth>
+                    <death>1971</death>
+                    <note>1927 Kunstmaler in Berlin</note>
+                </person>
+                <person xml:id="ed_wvj_bzs_2cb">
+                    <idno type="uri">https://d-nb.info/gnd/135983223</idno>
+                    <persName type="reg">
+                        <surname>Finck von Finckenstein</surname>
+                        <forename>Albrecht Conrad Graf</forename>
+                    </persName>
+                    <birth>1660</birth>
+                    <death>1735</death>
+                </person>
+                <person xml:id="ed_gbc_bxv_scb">
+                    <persName type="reg">
+                        <surname>Finck von Finckenstein</surname>
+                        <forename>Friedrich Casimir Graf </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1784)</note>
+                </person>
+                <person xml:id="ed_bwv_dyx_m2b">
+                    <persName type="reg">
+                        <surname>Finck von Finckenstein</surname>
+                        <forename>Friedrich Otto Leopold Graf</forename>
+                    </persName>
+                    <birth>1717</birth>
+                    <death>1790</death>
+                    <note>Oberst und Generaladjutant; 1788–1790 Kommendator der
+                        Johanniterordensgemeinde Süpplingenburg</note>
+                </person>
+                <person xml:id="ed_m1c_btk_w2b">
+                    <idno type="uri">https://d-nb.info/gnd/121272117</idno>
+                    <persName type="reg">
+                        <surname>Finck von Finckenstein</surname>
+                        <forename>Grafen</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_vfd_1km_wcb">
+                    <persName type="reg">
+                        <surname>Finck von Finckenstein</surname>
+                        <forename>Karl Bonaventura Graf</forename>
+                    </persName>
+                    <birth>1794</birth>
+                    <death>1865</death>
+                    <note>auf Jäschkendorff; Obermarschall im Königreich Preußen, Mitglied des
+                        Preußischen Herrenhauses </note>
+                </person>
+                <person xml:id="ed_mgz_ynb_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/118687239</idno>
+                    <persName type="reg">
+                        <surname>Finck von Finckenstein</surname>
+                        <forename>Karl Wilhelm Graf </forename>
+                    </persName>
+                    <birth>1714</birth>
+                    <death>1800</death>
+                </person>
+                <person xml:id="ed_n51_jrx_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/133435652</idno>
+                    <persName type="reg">
+                        <surname>Finck von Finckenstein</surname>
+                        <forename>Konrad Graf</forename>
+                    </persName>
+                    <birth>1860</birth>
+                    <death>1916</death>
+                    <note>Majoratsbesitzer Schloss Schönberg</note>
+                </person>
+                <person xml:id="ed_vz3_gpp_mbb">
+                    <idno type="uri">http://d-nb.info/gnd/135988764</idno>
+                    <persName type="reg">
+                        <surname>Finck von Finckenstein</surname>
+                        <forename>Ludwig Graf</forename>
+                    </persName>
+                    <birth>1743</birth>
+                    <death>1803</death>
+                </person>
+                <person xml:id="ed_tzk_jjr_gz">
+                    <persName type="reg">
+                        <surname>Fischer</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1798</birth>
+                    <death>1857</death>
+                    <note>Major im Generalstab; Lehrer an der Allgemeinen Kriegsschule; General und
+                        militärischer Erzieher des Kronprinzen Friedrich Wilhelm.</note>
+                </person>
+                <person xml:id="ed_bhs_rmt_q2b">
+                    <persName type="reg">
+                        <surname>Flach</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1806 Hofrat in Königsberg</note>
+                </person>
+                <person xml:id="ed_pyj_yjv_g2b">
+                    <persName type="reg">
+                        <surname>Flack</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1882 Gutsbesitzer von Buddern</note>
+                </person>
+                <person xml:id="ed_dch_ljm_33b">
+                    <persName type="reg">
+                        <surname>Flottwell</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1907 Gutsverwalter in Steinort</note>
+                </person>
+                <person xml:id="ed_vmr_1wg_ldb">
+                    <persName type="reg">
+                        <surname>Flottwell</surname>
+                        <forename>Johann Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death>1829</death>
+                    <note>1788 Kriminalrat, dann Kriminaldirektor in Insterburg</note>
+                </person>
+                <person xml:id="ed_zsp_x1f_zgb">
+                    <persName type="reg">
+                        <surname>Fock</surname>
+                        <forename>Julie Gräfin von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: 1875</note>
+                </person>
+                <person xml:id="ed_cxp_rcg_hy">
+                    <persName type="reg">
+                        <surname>Fock</surname>
+                        <forename>Maria Juliana von</forename>
+                    </persName>
+                    <birth>Maxkeim 3.4.1772</birth>
+                    <death>Barranowen 13.3.1835</death>
+                    <note>Heirat: Statzen 6.7.1792 Kasimir Freiherr von der Brucken, genannt Fock,
+                        zu Statzen und Ludwigswalde</note>
+                </person>
+                <person xml:id="ed_yxb_2np_tdb">
+                    <persName type="reg">
+                        <surname>Foller</surname>
+                        <forename>Ludwig Gustav von</forename>
+                    </persName>
+                    <birth>1677</birth>
+                    <death>1750</death>
+                    <note>preußischer Landrat und Amtshauptmann zu Rhein</note>
+                </person>
+                <person xml:id="ed_elx_wwg_2z">
+                    <persName type="reg">
+                        <surname>Forcade</surname>
+                        <forename>Elisabeth von</forename>
+                    </persName>
+                    <birth>1735</birth>
+                    <death>1774</death>
+                    <note>Hofdame der Gemahlin des Prinzen Heinrich von Preußen; Heirat: Hauptmann
+                        von Lattorff</note>
+                </person>
+                <person xml:id="ed_pz5_vbr_rdb">
+                    <persName type="reg">
+                        <surname>Forcade</surname>
+                        <forename>Marie von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>von Montolieu v. Saint-Hippolyte </name>
+                    </persName>
+                    <birth>1709</birth>
+                    <death>1767</death>
+                    <note>Gemahlin des Generals Friedrich Wilhelm Quirin von Forcade</note>
+                </person>
+                <person xml:id="ed_oqy_ys1_fz">
+                    <idno type="uri">http://d-nb.info/gnd/119353210</idno>
+                    <persName type="reg">
+                        <surname>Formey</surname>
+                        <forename>Jean Henri Samuel</forename>
+                    </persName>
+                    <birth>1711</birth>
+                    <death>1797</death>
+                </person>
+                <person xml:id="ed_qtx_g5n_zdb">
+                    <persName type="reg">
+                        <surname>Förtsch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1916 Forstsekretär der Gräflich von Bismarckschen Forstverwaltung</note>
+                </person>
+                <person xml:id="ed_jd1_4wg_2z">
+                    <persName type="reg">
+                        <surname>Fraigne</surname>
+                        <forename>Jean Jacques Gilbert Marquis de</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1757 französischer Spion</note>
+                </person>
+                <person xml:id="ed_cqx_rhc_ydb">
+                    <persName type="reg">
+                        <surname>Francheville</surname>
+                        <forename>C. von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Vorleser und Bobliothekar des Prinzen Heinrich; Canonicus zu Oppeln und
+                        Breslau</note>
+                </person>
+                <person xml:id="ed_zyr_5ww_42b">
+                    <persName type="reg">
+                        <surname>Franck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>hielt 1772 in Steinort Predigten ab</note>
+                </person>
+                <person xml:id="ed_frh_mcb_h2b">
+                    <persName type="reg">
+                        <surname>Frankenberg</surname>
+                        <forename>Fr. v.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1885)</note>
+                </person>
+                <person xml:id="ed_rrx_znz_ny">
+                    <idno type="uri">http://d-nb.info/gnd/11864064X</idno>
+                    <persName type="reg">
+                        <surname>Frankreich</surname>
+                        <forename>Ludwig Philipp I. König von</forename>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1850</death>
+                </person>
+                <person xml:id="ed_l2n_dp2_2z">
+                    <idno type="uri">http://d-nb.info/gnd/118816829</idno>
+                    <persName type="reg">
+                        <surname>Frankreich</surname>
+                        <forename>Ludwig XIV. König von</forename>
+                    </persName>
+                    <birth>1638</birth>
+                    <death>1715</death>
+                </person>
+                <person xml:id="ed_sgx_jd5_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/118729438</idno>
+                    <persName type="reg">
+                        <surname>Frankreich</surname>
+                        <forename>Ludwig XV. König von</forename>
+                    </persName>
+                    <birth>1710</birth>
+                    <death>1774</death>
+                </person>
+                <person xml:id="ed_nbc_ykq_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/118535129</idno>
+                    <persName type="reg">
+                        <surname>Fredersdorf</surname>
+                        <forename>Michael Gabriel</forename>
+                    </persName>
+                    <birth>1708</birth>
+                    <death>1758</death>
+                </person>
+                <person xml:id="ed_fcr_4gc_t2b">
+                    <idno type="uri">https://d-nb.info/gnd/118703102</idno>
+                    <persName type="reg">
+                        <surname>Freylinghausen</surname>
+                        <forename>Johann Anastasius</forename>
+                    </persName>
+                    <birth>1670</birth>
+                    <death>1739</death>
+                </person>
+                <person xml:id="ed_az3_5wk_gcb">
+                    <idno type="uri">http://d-nb.info/gnd/1024679128</idno>
+                    <persName type="reg">
+                        <surname>Freytag-Loringhoven</surname>
+                        <forename>Wessel Freiherr von</forename>
+                    </persName>
+                    <birth>1899</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_qvw_nz4_tcb">
+                    <persName type="reg">
+                        <surname>Friccius</surname>
+                        <forename>Carl Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1794, 1813 Oberlandesgerichtsrat in Königsberg</note>
+                </person>
+                <person xml:id="ed_yzk_h2c_t2b">
+                    <persName type="reg">
+                        <surname>Friedborn</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1727)</note>
+                </person>
+                <person xml:id="ed_rwt_qpz_jlb">
+                    <idno type="uri">https://d-nb.info/gnd/116793074</idno>
+                    <persName type="reg">
+                        <surname>Friedensburg</surname>
+                        <forename>Walter</forename>
+                    </persName>
+                    <birth>1855</birth>
+                    <death>1938</death>
+                </person>
+                <person xml:id="ed_vww_vqy_bz">
+                    <persName type="reg">
+                        <surname>Friedenthal</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Troppau (1758)</note>
+                </person>
+                <person xml:id="ed_acr_qp5_1bb">
+                    <persName type="reg">
+                        <surname>Friedrich</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1724 Schmied in Steinort</note>
+                </person>
+                <person xml:id="ed_q3t_255_12b">
+                    <persName type="reg">
+                        <surname>Friesen</surname>
+                        <forename>Hellmuth</forename>
+                    </persName>
+                    <birth>1894</birth>
+                    <death/>
+                    <note>Landesbaurat; 1944 Leiter des ostpreußischen Provinzialdenkmalamtes</note>
+                </person>
+                <person xml:id="ed_llb_kvk_wcb">
+                    <persName type="reg">
+                        <surname>Fromm</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1820, 1824 Kassenführer in Steinort</note>
+                </person>
+                <person xml:id="ed_dgn_2tx_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/11687385X</idno>
+                    <persName type="reg">
+                        <surname>Funk</surname>
+                        <forename>Nikolaus</forename>
+                    </persName>
+                    <birth>1767</birth>
+                    <death>1857</death>
+                </person>
+                <person xml:id="ed_cs4_2v3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/117540137</idno>
+                    <persName type="reg">
+                        <surname>Fürst und Kupferberg</surname>
+                        <forename>Karl Josef Maximilian von</forename>
+                    </persName>
+                    <birth>1717</birth>
+                    <death>1790</death>
+                    <note>Heirat: <persName key="ed_bjv_nfh_2z">Sophie Friederike Albertine geb.
+                            Gräfin von Podewils</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_bjv_nfh_2z">
+                    <persName type="reg">
+                        <surname>Fürst und Kupferberg</surname>
+                        <forename>Sophie Friederike Albertine von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Podewils, Gräfin von </name>
+                    </persName>
+                    <birth>1722</birth>
+                    <death>1781</death>
+                    <note>Heirat: <persName key="ed_cs4_2v3_tdb">Karl Josef Maximilian von Fürst und
+                            Kupferberg</persName>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

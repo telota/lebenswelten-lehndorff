@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_pwz_hrd_py">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alfred Freiherr von Tettau an Anna Gräfin von Lehndorff. Tolks, 23. Dezember
+                    1890</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_pwz_hrd_py</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 621, Bl. 2-2v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_udb_tmg_ccb">Tettau-Tolks, Alfred Freiherr von
+                        (1810-1893)</persName>
+                    <placeName key="ed_ebg_trd_py">Tolkes</placeName>
+                    <date when="1890-12-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Das undatierte Antwortkonzept Bl. 7-8: <quote>Haben Sie Dank, dass Sie an mich
+                        gedacht haben. Ich bin natürlich mit Freuden bereit zu sammeln für unseren
+                        prächtigen <persName key="ed_xkb_vvc_gy">Stoecker</persName> und sein
+                        geleistetes Werk, aber ich kann nicht leugnen, ich tue solches lieber zu
+                        einer Kirche, sie könnte ja den Namen Stadtmissionskirche tragen. Bei der
+                        Kirchenarmut <placeName key="ed_xrv_gwb_by">Berlins</placeName>, bei der
+                        Bedeutung Stoeckers, will es mir beinah unwürdig erscheinen, ihm wie einem
+                        Sektierer einen Saal zu errichten. Ganz Deutschland wird beitragen, über
+                        alle hat er Liebe gesegnet.</quote> Der erwähnte Aufruf ebd., Bl. 9. Der
+                    anschließende Brief in Angelegenheit der <orgName key="ed_bnt_4lz_ny">Stadtmission</orgName> in: APO, Bestand 382, Nr. 640, Bl. 13-14v (29.
+                    Dezember 1890). Siehe auch die Dokumente vom <ref target="lehndorff_mpc_mvc_gy">1. August 1885</ref> und  <ref target="lehndorff_ywp_djg_j1b">8. September
+                        1888</ref>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/621/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Tolks bei Bartenstein, 23. Dezember 1890</dateline>
+					          <salute>Sehr geehrte gnädigste Frau Gräfin,</salute>
+                </opener>
+                <p>Aus dem <seg type="comment">
+                  <orig>beikommenden Aufrufe</orig>
+                  <note xml:id="nkgg_1m5_h2b">Liegt der Akte bei.</note>
+               </seg> werden Sie
+                    ersehen, um was es sich handelt. Wenn <persName key="ed_xkb_vvc_gy">Stoecker</persName> nach dem Ausscheiden aus seinem Amte seine ganze
+                    Tätigkeit der Berliner <orgName key="ed_bnt_4lz_ny">Stadtmission</orgName> und
+                    der Leitung der christlich-sozialen <rs type="term" key="ed_g3c_5qd_py">Partei</rs> widmet, so bedarf er dringend eines Saales, in dem er
+                    sonntäglich Gottesdienst halten kann. Das seitherige Stadtmissionshaus ist
+                    seiner Räumlichkeit und seiner Lage nach hierzu nicht geeignet </p>
+            <p>Meine Bitte geht nun dahin, dass Sie, geehrte Frau Gräfin, entweder selbst in den Kreisen
+                        <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> und <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> eine Sammlung an Beiträgen zu
+                    entsprechendem Zweck bei wohlhabenden und der Sache zugetanen Personen
+                    veranstalten oder mir gütigst in jedem der gedachten Kreise ein oder mehrere
+                    Personen angeben, an welche ich mich mit Erfolg wenden könnte, um eine solche
+                    Sammlung herbeizuführen. Ich würde sodann Ihnen beziehungsweise den mir von
+                    Ihnen genannten Personen eine genügende Anzahl des angeschlossenen Aufrufs
+                    übersenden. </p>
+                <p>Die Geldbeträge können an die Ritterschaftliche Darlehenskasse in Berlin
+                    eingezahlt werden, und würde ich mir ein Verzeichnis der gemachten Zeichnungen
+                    erbitten. <gap reason="insignificant"/>
+            </p>
+                <p>Lässt sich die eingekommene Summe übersehen, so werden die in allen Provinzen des
+                    Staates gebildeten Komitees von Oberpräsident v. <persName key="ed_zpl_vzs_kfb">Kleist-Retzow</persName> zusammengerufen werden, um über die Verwendung des
+                    Geldes Beschluss zu fassen, ob ein Neubau möglich ist, von welchem Stil und
+                    welcher Größe das Bauwerk, oder ob die Mittel nur zur Miete eines Lokals
+                    ausreichen.</p>
+				        <closer>
+					          <salute>Mich Ihrem geneigten Wohlwollen empfehlend, zeichne ich mich mit vorzüglicher
+                        Hochachtung <lb/>gnädigster Frau Gräfin Ihr gehorsamster</salute>
+					          <signed>von Tettau</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

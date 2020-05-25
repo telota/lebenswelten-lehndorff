@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_t4w_wgm_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich (Heinz) Graf von Lehndorff an Anna Gräfin von Lehndorff.
+                    Waldburg, 21. Oktober 1893</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_t4w_wgm_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 367, Bl. 176-179</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nml_dw2_cy">Lehndorff, Heinrich Graf von (Königsberg
+                        1.4.1829-Preyl 24.4.1905)</persName>
+                    <placeName key="ed_lry_bmw_h2b">Waldburg</placeName>
+                    <date when="1893-10-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/367/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Waldburg, 21.10.93</dateline>
+                    <salute>Meine liebe Anna</salute>
+                </opener>
+                <p>Viel, sehr viel habe ich gestern nach dem lieben <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und zu Dir hingedacht mit tiefen wehmütigen liebenden
+                    Gedanken, und der schöne stille <orgName key="ed_nnc_rrz_g1b">Begräbnisplatz</orgName> stand mir stets vor Augen im Schmuck des
+                    Herbstlaubes, mahnend und erinnernd, ein langes Zusammenleben und viel
+                    liebevolle Andenken an der Seele vorbeiführend. Gott habe ihn selig, den
+                    geliebten alten <persName key="ed_zkm_whl_2y">Carl</persName>, und Friede seiner
+                    Asche!</p>
+                <p>
+               <persName key="ed_sjx_pfm_2y">Georgs</persName> Rede, die mir gut gefallen hat,
+                    schicke ich Dir hierbei <seg type="comment">
+                  <orig>zurück</orig>
+                  <note xml:id="nm1h_kmw_h2b">Liegt der Akte nicht bei.</note>
+               </seg>, ich habe
+                    mich über alle seine Satisfaktionen sehr herzlich gefreut.</p>
+                <p>Dass die Sache mit dem neuen Hofgarten gut zu gehen scheint und für die Folge
+                    viel verspricht, freut mich wohl sehr, damit Deine vielfachen Sorgen und Mühen,
+                    wenigstens von dieser Seite eine Nahrung zu ziehen, endlich einmal aufhören;
+                    eine Notwendigkeit, die ich dem <unclear reason="illegible" cert="low">Franz</unclear> darzulegen versucht habe, so leicht es auch einzusehen
+                    scheint. Wenn sich die <placeName key="ed_pxt_cnh_1y">Steinorter</placeName>
+                    Wirtschaft endlich balancieren wird, dann werden auch Deine ganzen Verhältnisse
+                    mehr Gleichgewicht bekommen, was zu deinem Mute recht notwendig ist, und das
+                    jetzige Pulverfass wird endlich aufhören, vorausgesetzt, dass <persName key="ed_ik3_ckz_2y">Carol</persName> Dir nicht mehr große Steine in den Weg
+                    wirft, nachdem sich die kleineren beseitigen.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Manita</orig>
+                  <note xml:id="nfsr_smw_h2b">Eine
+                            Hahn-Schlippenbachsche Verwandte, vgl. APO, Bestand 382 FA Lehndorff,
+                            Nr. 418. </note>
+               </seg> mit Tochter sah ich eben in <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName>, wohin ich von hier aus
+                    einige Tage gegangen war, einen davon mit Eberhard und Margaretha, die für deine
+                    Grüße herzlich danken für sich und die Kinder. Es ist doch ein <hi rendition="#u">forscher</hi> Ort, der Friedrichsteiner, und hat mir Freude
+                    gemacht zu besehen.</p>
+                <p>Unser Arrangement in <placeName key="ed_xrv_gwb_by">Berlin</placeName> hält sich
+                    ein bisschen auf, dadurch sind wir von <placeName key="ed_bqz_1y1_fz">Spandau</placeName> nochmals in diese Region zurückgekehrt und gehen erst
+                    übermorgen nach Hause. <seg type="comment">
+                  <orig>Der Bau in <placeName key="ed_o23_l11_fy">Preyl</placeName> macht <unclear reason="illegible" cert="low">manche</unclear> ernste Sorge, geht
+                            aber im Ganzen gut vorwärts, wenn auch mit mancher noch nachträglichen
+                            ändernden Überlegung, wie das nicht ausbleiben kann. </orig>
+                  <note xml:id="nfs2_lqh_lfb">Das Schloss Preyl am Wargener Mühlen- bzw.
+                            Kirchenteich entstand 1890 bis 1894, vgl. <ref target="https://www.ostpreussen.net/ostpreussen/orte.php?stadt=903">https://www.ostpreussen.net/ostpreussen/orte</ref>.</note>
+               </seg>
+            </p>
+                <p>Hoffentlich wird es mit Deiner <ref target="lehndorff_utb_1sm_2db">Meierei</ref>
+                    gut gehen, wenn die Kühe genügend Milch geben; die Baulichkeit der alten
+                    Brennerei eignet sich ja in allen Teilen ganz vorzüglich zu dem Unternehmen. -
+                    Die Otto <persName key="ed_r4g_sxh_h2b">Schwerinsche</persName> Zinsgeschichte
+                    bedaure ich - ganz abgesehen von etwa auf mich treffenden Interessen, von denen
+                    ich hier gar nicht rede und die ich stets hintenan setze, wenn von
+                    Schwierigkeiten für Dich die Rede sein kann - aber Ottos <unclear reason="illegible" cert="low">pekuniäre</unclear> Maßregeln bekümmern mich
+                    doch sehr, da er doch einmal ein Schwerin ist, und <unclear reason="illegible" cert="low">dass</unclear> Du jetzt erfährst, <gap reason="illegible"/>
+                    spricht wenig für seinen Ernst in solchen Sachen. </p>
+                <p>Du sprichst über Dein persönliches Befinden leider gar nicht, was mich doch ganz
+                    hervorragend interessiert und ich hoffe sehr für ein gutes Omen annehmen zu
+                    dürfen, würde Dir aber für ein bisschen Bericht darüber nach Berlin sehr dankbar
+                    sein. </p>
+                <closer>
+                    <salute>Gott befohlen! meine liebe Anni, grüße die Kinder und bleibe <gap reason="lost"/> alten </salute>
+                    <signed>Heinz</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_z3f_hls_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Meinhard Graf von Lehndorff an die Wahlmänner des Angerburger
+                    Wahlkreises. Steinort, November 1861</title>
+              
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_z3f_hls_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 632, Bl. 11-12</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date from="1861-11-01" to="1861-11-30" cert="high"/>
+                </correspAction>
+                <note>Ein weiteres (Rede-?)Konzept in der Akte. Siehe auch: APO, Bestand 382 FA
+                    Lehndorff, Nr. 532, Bl. 9-10, Liste der Wahlmänner (Name, Stand, Wohnsitz und
+                    Nr. der Abteilung, in der der Wahlmann gewählt ist): Nr. 90 II <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> Rittergutsbesitzer Hartwig v.
+                        <persName key="ed_vxh_1bk_d2b">Plüskow</persName>; Nr. 91 III <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> Pfarrer Carl <persName key="ed_myw_dfy_ybb">Borkowski</persName>; Nr. 92 I Abbau <placeName key="ed_a3g_2bk_d2b">Georgenau</placeName> Gutsbesitzer Gustav <persName key="ed_ahy_3bk_d2b">Hinz</persName>; Nr. 105 II <placeName key="ed_xzt_112_gy">Stawisken</placeName> Gutspächter Carl <persName key="ed_qkh_mbk_d2b">Werner</persName>; Nr. 107 III <placeName key="ed_pxt_cnh_1y">Steinort</placeName> Legationsrat <persName key="ed_zkm_whl_2y">Graf Lehndorff</persName>; Nr. 108 III <placeName key="ed_pxt_cnh_1y">Steinort</placeName> Rechnungsführer Andreas <persName key="ed_xgf_h1g_vdb">Pfeiffer</persName>; Nr. 109 I <placeName key="ed_pxt_cnh_1y">Steinort</placeName> Krüger Karl <persName key="ed_dlh_ybk_d2b">Poltzien</persName>; Nr. 110 I <placeName key="ed_pxt_cnh_1y">Steinort</placeName> Böttcher Ludwig <persName key="ed_xfy_bck_d2b">Kopp</persName>; Nr. 114 II Taberlack Gutspächter Herr
+                        <persName key="ed_mqp_c14_j3b">Thulke</persName>. - Bei der Urwahl am 19.
+                    November 1861 im Kreise <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    wurden als Wahlmänner gewählt (Bl. 16, 21-22v): Nr. 29 Legationsrat Graf von
+                        <persName key="ed_ik3_ckz_2y">Lehndorff</persName>, Groß <placeName key="ed_pxt_cnh_1y">Steinort</placeName>; Nr. 30 Rechnungsführer <persName key="ed_xgf_h1g_vdb">Pfeiffer</persName>, Groß Steinort; Nr. 33 Krüger
+                        <persName key="ed_dlh_ybk_d2b">Poltzien</persName>, Groß Steinort; Nr. 34
+                    Böttchermeister <persName key="ed_xfy_bck_d2b">Kopp</persName>, Groß Steinort;
+                    Nr. 90 Pfarrer <persName key="ed_myw_dfy_ybb">Borkowski</persName>, Rosengarten;
+                    Nr. 92 Gutsbesitzer <persName key="ed_ahy_3bk_d2b">Hinz</persName>, Rosengarten </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/632/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Zwei Umstände machen es notwendig, dass ich einige Worte an Sie richte.
+                        Erstens erfahre ich, dass bei mehreren der Herren Wahlmänner der Irrtum
+                        herrscht, <seg type="comment">
+                     <orig>die sogenannte Deutsche
+                                Fortschrittspartei sei etwas anderes als die frühere demokratische
+                                Partei.</orig>
+                     <note xml:id="nqqv_jxs_ycb">Dieser hatte man sich
+                                bereits im Februar 1851 versucht  durch Geldsammlungen zur Gründung
+                                eines <quote>konservativen Abendblattes zur Unterdrückung des
+                                    einzigen demokratischen Morgenblattes</quote>, der sogenannten
+                                "Urwählerzeitung" entgegenzustellen, vgl. APO Bestand 382 FA
+                                Lehndorff, Nr. 636, Bl. 1. </note>
+                  </seg> Jeder, der die
+                        Versprechungen der Anführer dieser Partei, der Herren <persName key="ed_wrr_vck_d2b">Waldeck</persName>, <persName key="ed_m4f_cdk_d2b">Schulze-Delitzsch</persName>, v. <persName key="ed_mh1_hdk_d2b">Hoverbeck</persName> etc. vom 2. Juni d. J. lesen will, kann sich
+                        überführen, dass beide Namen ganz dasselbe bedeuten, dieselben Männer und
+                        dieselben Grundsätze, wenn auch einige frühere gemäßigt Liberale sich ihnen
+                        angeschlossen haben. </salute>
+                </opener>
+                <p>Wer den Wünschen unseres geliebten <persName key="ed_lwx_y32_cy">Königs</persName> und Herrn nicht geradezu entgegentreten will, kann keine
+                    von dieser Partei vorgeschlagenen Landräte wählen.</p>
+                <p>Seine Majestät haben bei Gelegenheit des <seg type="comment">
+                  <orig>Badener
+                            Attentats </orig>
+                  <note xml:id="nhxt_mdk_d2b">Vgl. <ref target="http://www.stadtwiki-baden-baden.de/wiki/Attentat_auf_Wilhelm_I._(1861)/">http://www.stadtwiki-baden-baden.de/wiki/Attentat_auf_Wilhelm_I._(1861)</ref>
+                        </note>
+                    </seg>der Berliner Deputation sehr ernst ihr Missfallen an den letzten
+                    Kreiswahlen ausgedrückt: Jedermann weiß, dass damit die Wahlen von <persName key="ed_wrr_vck_d2b">Waldeck</persName> und <persName key="ed_m4f_cdk_d2b">Schulze-Delitzsch</persName> gemeint sind; und ganz kürzlich hat der König
+                    einer Deputation in <placeName key="ed_xrv_gwb_by">Berlin</placeName> erklärt:
+                    Wählen Sie den Grafen, so brechen wir. Darum möge jeder, der einem Kandidaten
+                    der sogenannten Fortschrittspartei seine Stimme geben will, erst sein Gewissen
+                    fragen, ob ein bestimmt ausgesprochener Wunsch seines Königs ihm nichts gilt! </p>
+                <p>Zweitens habe ich erfahren, dass die Herren Demokraten zu verbreiten suchen, ich
+                    wolle keine Wahl annehmen. Dem ist nicht so. Da kein anderer Mann sich in
+                    unserem Kreise zur Wahl gestellt, der die Achtung und Verteidigung des
+                    Königsheers von Gottes Gnaden, der persönlichen Königs-Regimenter, offen als
+                    seine erste Pflicht bezeichnet, da es ferner zu fürchten ist, dass eine große
+                    Zahl derer ins Abgeordnetenhaus kommen werden, die eine stete Verminderung der
+                    Königlichen Rechte für den Vorteil und den Wunsch des preußischen Volkes halten,
+                    bin ich gezwungen und verpflichtet, jeden wahrhaft königstreuen Mann zu
+                    ersuchen, mir bei der Wahl seine Stimme zu geben. In den schweren Zeiten, denen
+                    wir entgegengehen, ist mehr noch als schon zu alten Zeiten die unverbrüchliche
+                    Treue gegen den König die erste Pflicht jedes Preußischen Staatsbürgers.</p>
+                <p>Steinort im November 1861</p>
+				        <closer>
+                    <signed>Graf Lehndorff</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

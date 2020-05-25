@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ogg_xnn_fz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Theodor von Schön an Carl Friedrich Ludwig Graf von Lehndorff. Gumbinnen, 27. Februar 1813</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ogg_xnn_fz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Aus den Papieren des Ministers und Burggrafen von
+                            Marienburg Theodor von Schön, T. 2 Ergänzungsblätter, Bd. 6, Berlin
+                            1883, S. 180-182</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort, weil. Kgl. Preuß. Generalleutant
+                            a. D., Landhofmeister des Königreichs Preußen, Ritter des Hohen Ordens
+                            vom Schwarzen Adler etc. 17. September 1710 bis 8. Februar 1854. Ein
+                            Lebensbild auf Grund hinterlassener Papiere, Berlin 1903, S. 360
+                            f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q1t_d2f_4y">Schön, Theodor von (1773-1856)</persName>
+                    <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>
+                    <date when="1813-02-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>G., 27. Februar 1813</dateline>
+                </opener>
+                <p>Ich habe alles erhalten, was Euer Hochgeboren mir zu schreiben die Güte hatten.
+                    Gotte gebe Ihnen seinen Segen! Das Vorhaben ist gut, nur unbedingt darauf los,
+                    und es wird gehen. Dass General Yorck so wenig Instruktion gab, ist gut, ich
+                    hätte nicht mehr gegeben. Denn solche Dinge müssen sich selbst machen, oder sie
+                    gehen nicht. Die Aufforderung, so wie Sie sie wünschen, wird von hier erlassen,
+                    Ihre Proklamation ist würdig und gut, sehr gut. Jeder brave Mann schreibt gut,
+                    wenn er schreibt, was er meint. Ihr Aufsatz hat dazu in Absicht der Fassung ganz
+                    meinen Beifall. Er wirkt auch, wie alles Gute das Gute anzieht. Aber früher
+                    hätten Sie kommen sollen. <seg type="comment">
+                  <orig>Caesar und
+                            Uklanski</orig>
+                  <note xml:id="np3h_rpd_ycb">Offiziere, die für die
+                            litauischen Dragoner und die Leibhusaren freiwillige Jäger
+                            sammelten.</note>
+               </seg> haben Ihnen sehr großen Schaden getan.
+                        <placeName key="ed_rdg_jkc_gy">Insterburg</placeName> und <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> stellen jede Stadt 30 völlig
+                    equipierte Kavalleristen, aber alles war schon von Caesar und Uklanski
+                    angenommen. Das tut mit sehr leid, schon weil der Litauer alle Litauer haben
+                    sollte. Ich werbe seit der Zeit für Sie, und gestern hat Major von <persName key="ed_ip5_mcz_wy">Plotho</persName> 8 Mann an Sie abgeschickt.
+                    Referendarius Szepanski von hier kommt auch zu Ihnen. </p>
+            <p>
+               <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zeigt sich sehr karg. 100 Pferde ist
+                    nichts, wenn <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> 30
+                    Kavalleristen und wohl 10 Infanteristen stellt. Ich freue mich, ein Litauer zu
+                    sein. Freuen Sie sich auch, wenngleich Uklanski und Casesar Ihnen viel
+                    wegnehmen. <seg type="comment">
+                  <orig>Sagen Sie der Exzellenz <persName key="ed_kv3_vsz_wy">Gr. Dohna</persName>, der Plan mit den
+                            Mennoniten ist gut. Mit den Juden ist es allerdings ratsam, ein dito zu
+                            machen. Hier sind nur leider! und Gottlob keine.</orig>
+                  <note xml:id="nlk1_yrd_ycb">Nach der Stammrolle des Regiments vereinte es 35
+                            Katholiken, 9 Reformierte, 6 Juden, die übrigen 511 waren lutherischen
+                            Bekenntnisses. In den Listen der Mannschaften finden sich 31 Söhne aus
+                            dem Adel: Massenbach, Knobloch, Gröben, Buddenbrock, Schwerin, Rhein,
+                            Kalnein, Sanden, Seidlitz, Wallenrodt u. a., vgl. Schultze, Lebensbild,
+                            S. 367 und 377. </note>
+               </seg>
+                </p>
+            <p>
+               <seg type="comment">
+                  <orig>Es wäre allerdings sehr gut, ja sogar dringend notwendig, bekannt zu
+                            machen, dass die Jäger und die Eliten des National-Kavallerie-Regiments
+                            gleiche Rechte haben. Denn dass alle Offiziere nur aus den Jägern
+                            ernannt werden sollen, reizt sehr.</orig>
+                  <note xml:id="njsr_p4d_ycb">Siehe das Dokument vom <ref target="lehndorff_gxm_pkq_bbb">29. Juni
+                                1813</ref> mit Anmerkungen.</note>
+               </seg> Besorgen Sie dies ja! bald.
+                    Nur der Titel Eliten. Warum französisch? Warum nicht bloß: Wahlmann. Man sagt:
+                    Wahlstätte, Wahl, setzt Willen, Intelligenz, Freiheit voraus. Elite ist:
+                    Auserwählt, Seraphin, Cherubin, Selbstlob, Selbstruhm etc., also nicht gut. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Aber wie lange bleibt unsere Erklärung aus?</orig>
+                  <note xml:id="nocs_xnh_vbb">Am 27. März 1813 erging die Kabinettsordre an
+                            Generalleutnant von Massenbach und an Staatsminister Grafen zu Dohna,
+                            mit der <persName key="ed_tl1_nbf_4y">Friedrich Wilhelm III. </persName>
+                            das Anerbieten der <quote>Stände der Provinzen Preußen, Pommern und
+                                Schlesien</quote> annahm, <quote>auf ihre Kosten
+                                National-Kavallerie-Regimenter zu errichten</quote>. Bei der
+                            Besetzung der Offiziersstellen, der Schwadron-Chefs und des
+                            Regiments-Kommandeurs wollte der König <quote>auf den Vorschlag und die
+                                Empfehlung der Stände billige Rücksicht nehmen</quote>. Eine
+                            Fortdauer nach dem Krieg sicherte er nicht zu, im Falle sich das
+                            Regiment durch <quote>außerordentlichen Mut und Tapferkeit einen
+                                hervorstechenden Ruf erwerben sollte</quote>,‟würde er dessen
+                            Fortdauer gestatten, auch militärische Aufstiege seien nicht
+                            ausgeschlossen, in: Bujack, Georg, Zum Andenken an die Mitglieder des
+                            Preußischen Landtags im Februar 1813 zu Königsberg und an die Taten der
+                            preußischen Landwehr und des Preußischen National-Kavallerie-Regiments
+                            in den Jahren 1813 und 1814, neu bearb. von Adalbert Bezzenberger,
+                            Königsberg 1900, S. 54. </note>
+               </seg> Das hemmt sehr. Man kann nicht
+                    klar sprechen, man kann nicht laut schreien, und es sollte ein Zeter Mordio
+                    sein. Mit den alten tauben Menschen geht es nicht. Major von <persName key="ed_osq_fzp_vcb">Kall</persName> schreibt mir aus der Mark, dort
+                    geschehe durchaus nichts, nur dass, was man muss. Man wartet dort auf die
+                    Sektions-Verfügungen des Herrn <persName key="ed_jy3_3zp_vcb">Sack</persName>
+                    oder <persName key="ed_u4j_mzp_vcb">Ladenberg</persName> zur
+                    Vaterlands-Verteidigung, Wohl uns, dass wie Preußen sind, Gott wird uns nicht
+                    verlassen. Aber verschenken Sie Ihre Häuser in der Mark, wen man sich dort nicht
+                    bewegt. Die 60 Referendarien unter Anführung eines Kammergerichtsrats sind ein
+                    Kinderspiel. Dabei tut das Zaudern bei unserer Erklärung den grenzenlosen
+                    Schaden. Wir müssen durchaus über die Grenze, sonst können wir unsere Armee
+                    nicht erhalten, und jeder Tag Aufenthalt schadet ungeheuer. Wir dürfen nicht
+                    Gewehre aus Russland holen, wenn wir sie den Franzosen abnehmen. Uklanski, der
+                    gerade aus <placeName key="ed_iw5_fxl_2y">Breslau</placeName> kam, wusste von
+                    gar nichts. <seg type="comment">
+                  <orig>Das Volk muss die Sache
+                            treiben</orig>
+                  <note xml:id="nz1q_gpd_ycb">Vgl. die <quote>Nachweisung
+                                der patriotischen Beiträge, welche für die Organisation des
+                                National-Kavallerie-Regiments geleistet sind</quote>,
+                            zusammengefasst in: Schultze, Lebensbild, S. 358. Diese befand sich
+                            ursprünglich im Steinorter Archiv</note>
+               </seg>, und Gottlob! dass wir
+                    Preußen sind. Es muss noch alles gut werden.</p>
+                <closer rend="paragraph">
+                    <signed>S.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

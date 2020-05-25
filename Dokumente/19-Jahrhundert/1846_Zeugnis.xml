@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_lp5_g4j_dbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schulzeugnis. 1846</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_lp5_g4j_dbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="editorial">Siehe auch: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 514,
+                    Bl. 6: Ordnung der musikalisch-deklamatorischen Abendunterhaltung in der
+                        <orgName key="ed_yvb_np2_3lb">
+                  <orgName key="ed_yvb_np2_3lb">Ritterakademie
+                            zu Brandenburg</orgName>
+               </orgName> am 17. Dezember 1836 (Mitwirkende: v.
+                    Zieten, v. Blume, v. Rochow, v. Maltzahn, v. Bassewitz, v. Houwald I und II, v.
+                    Tresckow, v. Brauchitsch I und II, v. Knobelsdorf, v. Mengersen, v. Lynar, v.
+                    Brandenburg, v. Bülow, v. Krosigk, v. Tarrach, v. Bohlen, v. Grünberg, v.
+                    Bergfeld, v. Langen) sowie Bl. 7: Musikalisch-dramatische Abendunterhaltung in
+                    der Ritterakademie zu Brandenburg den 22. März 1846 (Mitwirkende: v. Schönburg,
+                    v. Rohr, v. Wartensleben I und II, v. Lehndorff, v. Bredow I und II, Treue, de
+                    Monteton, de Gauvain. - Die Unterlagen <persName key="ed_ik3_ckz_2y">Carl
+                        Meinhard von Lehndorffs</persName> aus der Schulzeit am <orgName key="ed_gcq_4sj_f3b">Altstädtischen Gymnasium</orgName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> und aus der Studienzeit in
+                        <placeName key="ed_l55_lzt_2cb">Bonn</placeName> ebd., Nr. 556 und in: StA
+                    Leipzig, Bestand 21950 FA Lehndorff, Nr. 392. </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 204, Bl. 3</idno>
+                    </msIdentifier>
+                  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <placeName key="ed_xjc_ttl_cz">Brandenburg</placeName>
+                    <date from="1846-03-01" to="1846-04-15" cert="low"/>
+                
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+               
+				     <p>Censur. No. Zwei</p>
+                <p>von Neujahr bis Ostern 1846</p>
+                <p>Klasse: II Name des Zöglings: <seg type="comment">
+               <orig>Graf
+                        Lehndorff</orig>
+               <note xml:id="nfcc_rs2_3lb">Für den 1829 geborenen <persName key="ed_pv1_b4g_hy">Heinrich von Lehnorff</persName>, siehe auch das
+                        Dokument vom <ref target="lehndorff_e52_dqj_dbb">25. April 1882.</ref>
+                        <persName key="ed_ik3_ckz_2y">Carl Meinhard</persName> hatte bereits in
+                            <placeName key="ed_l55_lzt_2cb">Bonn</placeName> sein <ref target="lehndorff_oxq_rrh_fdb">Studium</ref> begonnen, <persName key="ed_sjx_pfm_2y">Georg</persName> war noch auf dem <ref target="lehndorff_mtx_d3f_4y">Gymnasium</ref>. </note>
+            </seg>
+         </p>
+                <p>I. Betragen: Gut. Schade, dass ihm einmal der Missbrauch bewiesenen Vertrauens
+                unmittelbar nach der Rückkehr aus den Ferien eine 12-stündige Karzerstrafe
+                zuzog.</p>
+                <p>II. Ordnungsliebe: Gut.</p>
+                <p>III. Schulbesuch: Regelmäßig bis auf eine kurze, durch Unpässlichkeit
+                    herbeigeführte Unterbrechung.</p>
+                <p>IV. Aufmerksamkeit im Unterricht: Immer sehr rege.</p>
+                <p>V. Häuslicher Fleiß: Fast überall zur Zufriedenheit; für die deutschen,
+                    französischen, geographischen und historischen Lektionen nicht immer ganz
+                    ausreichend. </p>
+                <p>V. Fortschritte: Im Lateinischen sehr sichtbar und erfreulich, wenn auch nur in
+                Beziehung auf das Grammatische einige erhebliche Mängel zu überwinden bleiben; im
+                Französischen gut; im Deutschen ziemlich gut; in der Religion, Mathematik und Physik
+                gut; in der Geschichte und Geographie ziemlich gut; im freien Handzeichnen gut; im
+                Planzeichnen und Singen genügend; im Turnen gering.</p>
+                <p>Graf Lehndorff wird nach <seg type="comment">
+               <orig>Prima</orig>
+               <note xml:id="ngzx_ks2_3lb">Letzte Stufe vor dem Abitur.</note>
+            </seg>
+                versetzt.</p>
+                <p>VI. Besondere Bemerkungen: Da das oben gerügte Vergehen ganz im Anfang des
+                Vierteljahres vorgekommen ist, und Graf Lehndorff seitdem in seiner ganzen Haltung
+                durchaus keine Rüge veranlasst hat, so haben wir geglaubt, bei unserer Urteil die
+                Sache milder auffassen zu dürfen.</p>
+				     <closer>
+                    <salute>
+               <seg type="comment">
+                  <orig>Ritterakademie zu Brandenburg</orig>
+                  <note xml:id="nvqs_dmm_wcb">Es folgen sechs Unterschriften.</note>
+               </seg>
+                </salute>
+                </closer>
+            
+        </body>
+    </text>
+</TEI>

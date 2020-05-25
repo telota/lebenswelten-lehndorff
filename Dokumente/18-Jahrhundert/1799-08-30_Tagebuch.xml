@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_mcy_dqf_zdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Neudörffchen,
+                    30. August 1799</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_mcy_dqf_zdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Lehndorff, Ernst Ahasverus Heinrich von, Am Hof der
+                            Königin Luise. Das Tagebuch vom Jahr 1799, übersetzt und eingel. von Eva
+                            Ziebura, Berlin 2009, S. 283 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <placeName key="ed_hf4_lst_ncb">Neudörffchen</placeName>
+                <date when="1799-08-30" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <gap reason="insignificant"/>
+                    <note type="editorial">Lehndorff hält sich nach seiner Rückkehr aus <placeName key="ed_xrv_gwb_by">Berlin</placeName> bei seiner Nichte <persName key="ed_gpx_gv5_vcb">Groeben</persName> auf.</note> Das Oberhaupt dieser
+                    Familie, der Landhofmeister und Staatsminister von <persName key="ed_fzc_zxl_w2b">Groeben</persName>, ist im Alter von 73 Jahren in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gestorben. Er war ein
+                    kluger Mann mit einem edlen Gesicht und noblem Benehmen, etwas kurz angebunden
+                    und von entschiedener Art, ein guter Kerl und schlechter Haushälter. Er war gern
+                    unter Menschen und konnte eine ganze Gesellschaft in Schwung bringen. Er stammte
+                    sowohl väterlicher- wie mütterlicherseits von unseren besten Familien ab. Seine
+                    Mutter war eine geborene von Eulenburg, seine Großmutter eine geborene von
+                    Wallenrodt. Alle diese können noch von 36 adligen Ahnen sprechen, was immer
+                    seltener wird und schlimmere Folgen hat, als man sich vorstellen kann. Diese
+                    Kraft, diese Tugenden des alten Adels verlieren sich allmählich und haben
+                    ehemals zu ausgezeichneten und ehrenhaften Taten angeregt. Ich bin noch immer
+                    ganz erfüllt und erinnere mich mit Verehrung an die Lehren meiner Großmütter
+                    Dönhoff und Wallenrodt, die mich stets zur Tugend ermuntert und mir gepredigt
+                    haben, meinen Vorfahren durch gute, ausgezeichnete Taten und die Treue zu meinem
+                    Herrscher Ehre zu machen. So sagte auch Kaiser Leopold, dass der alte Adel die
+                    wahre Stütze und der Ruhm seines Thrones sei. Ich denke mit Rührung an die
+                    Einfachheit der Sitten und die Größe der Gefühle meiner Vorfahren. Mein
+                        <persName key="ed_wtg_nyl_2y">Großvater</persName>, der große Burggraf
+                    Lehndorff, richtete morgens vor allem anderen folgendes Gebet an den
+                    Allmächtigen: „Gib das ich rede stets, womit ich kann bestehen, lass kein
+                    unnützes Wort aus meinem Munde gehen, und wenn in meinem Amt ich reden soll und
+                    muss, so gib den Worten Kraft und Nachdruck, ohne Verdruss.‟</p>
+                <p>Ich sehe noch oft meine vorbildliche, tugendhafte <seg type="comment">
+                  <orig>Großmutter Wallenrodt </orig>
+                  <note xml:id="njwb_ypf_3kb">Die
+                            Großmutter mütterlicherseits, Ehefrau des Hauptmanns von Ragnit,
+                            Heinrich von Wallenrodt. </note>
+               </seg>in schwarzen Kleidern, von
+                    vornehmer Einfachheit, auf einem hohen Stuhl in Decken gehüllt sitzen, wie sie
+                    weise und gütig zu ihren Leuten sprach, sich um die Kranken kümmerte, allen
+                    Gutes tat, sich selbst jeden Luxus verbat und zu ihrem einfachen Pult ging, das
+                    keine drei Taler wert war, um daraus 30, 40 Dukaten zu holen, um einem Armen zu
+                    helfen. Sie rühmte sich nie dieser edlen Gesten und prägte mir bei jeder
+                    Gelegenheit ein, dass allein die Ehre den Edelmann auszeichne.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

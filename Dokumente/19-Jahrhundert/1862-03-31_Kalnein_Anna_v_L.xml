@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zhy_ggh_4bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Natango Graf von Kalnein an Anna Gräfin von Lehndorff. Königsberg, 31. März
+                    1862</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zhy_ggh_4bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 394, Bl. 5-6</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ckc_ntt_2cb">Kalnein-Kilgis, Natango Graf von
+                        (1803-1890)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1862-03-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 31. März 1862</dateline>
+					          <salute>Gnädigste Frau Gräfin</salute>
+                </opener>
+				        <p>Aus dem gnädigen Schreiben, welches die Frau Gräfin in jüngster Zeit an mich gerichtet, habe
+                    ich zu meiner großen Freude entnommen, dass es Hoch Ihren Wünschen sowie denen
+                    Ihres Herrn Gemahls entsprechen würde, wenn <persName key="ed_sjx_pfm_2y">Georg</persName>
+               <seg type="comment">
+                  <note xml:id="nrlr_cwt_2cb">Georg Graf
+                            von Lehndorff, der jüngere Bruder des Grafen <persName key="ed_zkm_whl_2y">Carl Meinhard</persName>. Er hatte 1855
+                                <persName key="ed_n5f_vfm_2y">Klara Gräfin von Kalnein</persName>,
+                            Tochter von Graf <persName key="ed_ckc_ntt_2cb">Natango von
+                                Kalnein-Kilgis</persName> und <persName key="ed_jcx_yzq_d2b">Klara
+                                Gräfin zu Dohna-Schlodien</persName> geheiratet. </note>
+               </seg> hier
+                    in der Provinz in den Besitz eines ansehnlichen Gutes treten könnte.</p>
+                <p>Durch einen Zufall habe ich erfahren, das <placeName key="ed_y5w_wtp_dz">Barten</placeName> bei Friedrichstein von dem Herrn <persName key="ed_o1h_rwq_d2b">Hensel</persName> ganz oder geteilt verkauft werden
+                    soll. Ich bin so frei, die <seg type="comment">
+                  <orig>Notizen, die ich darüber
+                            erhalten habe, beizulegen.</orig>
+                  <note xml:id="nn5q_n3h_4bb">Liegen der
+                            Akte bei, Bl. 7 ff.</note>
+               </seg> Ich kenne Barthen nicht aus eigener
+                    Ansicht, habe aber immer gehört, dass es zu den einträglichen Gütern der Provinz
+                    und auch zu den schönst gelegenen gehört.</p>
+                <p>Falls Hochdero Herr Gemahl es angemessen finden sollte, dass <seg type="comment">
+                  <orig>unser <persName key="ed_zss_vwq_d2b">Junge</persName>
+                  </orig>
+                  <note xml:id="nobq_kwt_2cb">Karl Graf von Kalnein</note>
+               </seg> auf Barten zum
+                    Ankauf einginge, würde er vielleicht die brüderliche Freundlichkeit haben, sich
+                    Barten <seg type="comment">anzusehen,</seg> und von dem benachbarten
+                    Friedrichstein aus die nötigen Notizen einzuziehen, bevor an Georg eine
+                    Mitteilung darüber gemacht würde, da derselbe ohne den Willen und Rat Ihres
+                    Herrn Gemahls wohl nichts kaufen oder unternehmen würde. Die <seg type="comment">
+                  <orig>Preise</orig>
+                  <note xml:id="ntyc_t3h_4bb">220.0000, davon 60.000
+                            als Anzahlung, ebd.</note>
+               </seg> scheinen mir zwar hoch, aber der
+                    Jetzt-Zeit angemessen, in welche ich mich mit meinen veralteten
+                    Wirtschaftsansichten noch nicht finden kann, weshalb ich mich auch jedes Urteils
+                    über die Zweckmäßigkeit dieses Kaufs enthalte.</p>
+                <p>Auch bemerke ich, dass der H. Hensel, ein geborener Berliner, vielleicht leicht
+                    darauf eingehen könnte,<seg type="comment">
+                  <orig>
+                            <placeName key="ed_qnb_ryq_d2b">Haselhorst</placeName> im Tausch
+                            anzunehmen.</orig>
+                  <note xml:id="nrkh_xyq_d2b">Von seinem <persName key="ed_k4z_jgl_2y">Vater</persName> hatte Georg von Lehndorff Gut
+                                <placeName key="ed_ypr_tzz_ncb">Laserkeim</placeName> bei Königsberg
+                            geerbt, das er 1860 verkauft hatte, um gemeinsam mit seinem Bruder
+                                <persName key="ed_zkm_whl_2y">Carl Meinhard</persName> auf Gut
+                            Haselhorst bei Spandau einen größeren Rennstall aufzubauen. 1866
+                            verkaufte Georg Haselhorst und übernahm nach dem Feldzug gegen
+                            Österreich bei den 2. Garde-Ulanen am 10. Oktober 1866 kommissarisch die
+                            Leitung des Hauptgestütes <placeName key="ed_v2c_gc1_fy">Graditz</placeName>.</note>
+               </seg>
+            </p>
+                <p>Meine Frau empfiehlt sich Ihnen, gnädigste Frau Gräfin, auf das
+                    angelegentlichste, und ich füge noch die Bitte hinzu, mich Dero Herrn Gemahl zu
+                    empfehlen und mir zu erlauben, der ich mich mit der größten Verehrung zeichnen
+                    darf als</p>
+				        <closer>
+					          <salute>Ew. Hochgeboren ergebenster Diener</salute>
+					          <signed>N. Graf v. Kalnein <lb/>Schloss Domnau </signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

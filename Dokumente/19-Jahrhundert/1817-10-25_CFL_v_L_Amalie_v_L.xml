@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_igf_n1g_cdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Schloss Pichomay, 25. Oktober 1817</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_igf_n1g_cdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 621-623</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_ns1_s1g_cdb">Pichomay, Schloss</placeName>
+                    <date when="1817-10-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (Hirschberg 9.4.1751-Königsberg, Roßgärter Markt
+                        12.11.1830)</persName>
+                </correspAction>
+                <note>Die Verheiratung <persName key="ed_pv1_b4g_hy">Heinrichs</persName> ist
+                    nochmals Gegenstand des Briefes vom 16. Januar 1818, ebd., S. 623 f. Er hatte
+                    sich <quote>seines agronomischen Faches, dessen Sklave er wirklich war,
+                        entledigt</quote>, und sich <quote>in die Verhältnisse der Welt gesetzt, um
+                        sich etwas aufzufrischen</quote>. Er sei ein <quote>Mann von Verstand und
+                        Talent, vorzüglich von einem reinen, geraden, wirklich vaterlandsliebenden
+                        Sinn und Herzen</quote> und Lehndorff hatte gewünscht, dass er <quote>in der
+                        époque unserer Neugeburt vor 4 Jahren auch wieder in die aktive
+                        Laufbahn</quote> getreten wäre, um als Diplomat eine neue Karriere zu
+                    beginnen. Dort wäre er  für das Vaterland nützlich gewesen. - Seine eigene
+                    militärische Karriere sollte in 6 bis 8 Monaten enden; danach hatte er  3.000
+                    Taler jährlich zu erwarten. Es war Zeit, nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zurückzukehren, denn <quote>
+                  <persName key="ed_yx5_cbg_nbb">Berent</persName> ist gar nicht mehr zu brauchen
+                        und verwirrt mir alles.</quote>
+                </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Schloss Pichomay, den 25. IX. 1817</dateline>
+					          <salute>Meine herzensliebe Mutter!</salute>
+                </opener>
+				        <p>Zurückgekehrt von einer recht sehr interessanten Reise in die <placeName key="ed_opm_vwd_b2b">Schweiz</placeName> - die ich seit meinem letzten Briefe an Sie gemacht -,
+                    ist es mir süß, Ihnen von meiner weiteren Lebensgeschichte Kunde zu geben, und
+                    meiner teuren Mutter meine Lebensangelegenheiten zu vertrauen: <seg type="comment">
+                  <orig>Zuerst von meiner Reise. </orig>
+                  <note xml:id="nlmn_qjt_s2b">Vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 677 und 678: Reisen Carl Friedrich Ludwig Graf
+                            von Lehndorffs in die Schweiz und nach Frankreich 1816/17. </note>
+                    </seg>Lange schon war ich lüstern, ein Land kennenzulernen, wovon so viele
+                    Menschen - mit mehr oder weniger Begeisterung nach ihren Ansichten und Gefühlen
+                    - doch alle mit Bewunderung sprechen, und wo Gottes Werke, die ich liebe, sich
+                    so groß aussprechen. </p>
+                <p>Die nach der Königlichen Revue eingetretene militärische Ruhe in meinem
+                    Geschäftskreis ließ mir die Muße dazu und mein gegenwärtiger vorteilhafter
+                    finanzieller Standpunkt die Mittel. So habe ich denn das schöne, an
+                    Naturherrlichkeiten so reiche Helvetien kennengelernt. <gap reason="insignificant"/>
+                </p>
+                <p>Wie ist es denn mit dem gewissen Präsent des <persName key="ed_tl1_nbf_4y">Königs</persName> an die Preußischen Gutsbesitzer von den verschiedenen
+                    Millionen geworden, worüber vorigen Winter so viel Redens war? Sind sie
+                    ausgezahlt worden, haben sie etwas geholfen? <seg type="comment">
+                  <orig>Es
+                            scheint nicht, nach dem Stande der landschaftlichen Obligationen zu
+                            urteilen, und hat <persName key="ed_pv1_b4g_hy">Heinrich</persName>
+                            etwas bekommen?</orig>
+                  <note xml:id="nons_c15_s2b">Vgl. in: GStA PK, XX.
+                            HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 777 den Briefentwurf
+                            Lehndorffs an König Friedrich Wilhelm III. betr. Durchführung einer
+                            Geldsammlung für durch den Krieg in Not geratene Güter (1807) und Nr.
+                            776, die Beantragung einer Finanzhilfe für die Lehndorffschen
+                            Besitzungen aus dem Hilfsprogramm der preußischen Regierung für die
+                            durch den Krieg von 1806/07 besonders in Mitleidenschaft gezogenen Güter
+                            (1815/16).</note>
+               </seg>
+            </p>
+                <p>
+               <note type="editorial">Im Folgenden schreibt er über <seg type="comment">
+                     <orig>
+                        <quote>Thermo Lampen</quote>
+                     </orig>
+                     <note xml:id="nlpf_mlw_glb">Der französische Ingenieur Philipp Lebon hatte
+                                am 21. September 1799 ein Patent für eine mit Gas betriebene, von
+                                ihm sogenannte <ref target="http://www.zeno.org/Brockhaus-1809/A/Die+Thermolampe">„Thermolampe“</ref> erhalten, die vermutlich zur Beleuchtung
+                                ebenso wie zur Raumheizung diente.</note>
+                  </seg>, die in <placeName key="ed_uyx_nvn_my">Paris</placeName> als neue Erfindung angepriesen
+                        worden waren, und die er ihr geschickt hatte. Sie seien auf dem Transport
+                        liegen geblieben und verdorben, nun gäbe es sie auch in <placeName key="ed_xrv_gwb_by">Berlin</placeName> und er werde sich vorbehalten,
+                            <quote>auf den Sommer dieses fameuse Kunstwerk auch nach meinem werten
+                            Vaterlande zu verpflanzen, wenn es nicht vielleicht schon dort Wurzel
+                            gefasst haben sollte.</quote>
+                        <p>Auf der Revue habe er das <quote>Kommandeur-Kreuz der Ehrenlegion</quote>
+                            durch den französischen König erhalten. </p>
+               </note>
+               <note type="editorial"> </note>Wofür? Das mag Gott wissen. Vor Zeiten war es eine
+                    vornehme Dekoration und <persName key="ed_xzh_bgg_h1b">Napoleon</persName> gab
+                    diese Klasse gewöhnlich nur Generallieutenants - seitdem Er aber vor die Hunde
+                    gegangen, ist auch der Orden im Werte gesunken. Ich bin überhaupt kein großer
+                    Ordensjäger, bin aber besonders über diesen in Sünden und Missetat erzeugten und
+                    geborenen gar nicht flattiert. Wie doch die Sachen wunderbar gehen in der Welt.
+                        <seg type="comment">
+                  <orig>Wer hätte noch 1812 gedacht, dass ein preußischer
+                            Obrist für gute Manneszucht bei einer Okkupationsarmee in Frankreich
+                            Legions-Ritter werden würde!</orig>
+                  <note xml:id="ndcm_2cp_1fb">Vgl. das
+                            Dokument vom <ref target="lehndorff_kfq_3fk_dbb">29. September
+                                1817</ref>.</note>
+               </seg>
+                    <gap reason="insignificant"/>
+            </p>
+                <p>Grüßen Sie alle meine Lieben, besonders meinen guten <persName key="ed_pv1_b4g_hy">Heinrich</persName>. Wie geht es ihm in seiner
+                    Wirtschaft? Können Sie nicht machen, dass er heiratet? Da wäre mir ein rechter
+                    Stein vom Herzen.</p>
+				        <closer>
+                    <salute>Treu Ihr</salute>
+                    <signed>Carl Lehndorff</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

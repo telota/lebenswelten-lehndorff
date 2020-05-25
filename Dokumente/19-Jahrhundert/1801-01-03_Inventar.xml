@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_vqr_cld_bbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inventar. 3. Januar 1801</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_vqr_cld_bbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="editorial">
+                    <p>Weitere Inventare (tw. Fragmente) in: LASA, StA L, Bestand 21950 FA
+                        Lehndorff, Nr. 225 (1717-1770) sowie in: APO, Bestand 382 FA Lehndorff, Nr.
+                        105 (1829-1832). - Das zur Nachlassregulierung des 1727 verstorbenen
+                            <persName key="ed_wtg_nyl_2y">Ernst Ahasverus Graf von Lehndorff
+                        </persName>im Jahr 1731 aufgestellte, Inventar ebd., Nr. 320. Es ist derart
+                        detailliert, dass sich daraus die Farbigkeit der Räume (Tapeten, Beschläge)
+                        und deren Mobiliar, das vorhandene Küchengeschirr und Gerätschaften,
+                        sortiert nach Messing, Zinn, Kupfer und Eisen, Textilwaren aller Art und
+                        Bettwaren, Bekleidungsstücke rekonstruieren lassen. Ebenso aufgeführt werden
+                        die im Schloss vorhandenen Gemälde (44). Der Bestand der Bibliothek füllt
+                        mehrere Seiten und umfasste deutsche, lateinische, französische und
+                        italienische Werke vor allem philosophischen, politischen, historischen,
+                        naturwissenschaftlichen, juristischen, theologischen Inhalts sowie
+                        zahlreiche Leichenpredigten. Ein Teil der Bücher, Drucke, Handschriften aus
+                        den Jahren 1566 bis 1925 heute in: StA L, Bestand 21950 FA Lehndorff, FA
+                        Lehndorff, Nr. 399-475. Auch der Bestand der Orangerie ist aufgeführt. Zum
+                        Inventar gehörten 3 Kutschen und 2 Schlitten. Nach dem Jagd-Inventar gab es
+                        eine Hasen-, Wolfs- und Hirschjagd sowie eine Vielzahl verschiedener Gewehre
+                        und Pistolen. Das bare Geld betrug nur 80 Tlr. und die Witwe versicherte
+                            <quote>auf ihr Gewissen</quote>, dass mehr nicht vorhanden gewesen sei,
+                        da die Einkünfte aufgrund von Misswachs gering gewesen seien.
+                        Dementsprechend wurde im Inventar der Wert des Getreidevorrats mit Null
+                        angegeben. 5.661 Taler bar waren aus Verkäufen von Militaria und eines
+                        Pferdes etc. erzielt worden. Der Wert an Gold und Pretiosen betrug 304 Tlr.,
+                        an Silbergeschirr 5.682 Tlr., des Kristalls 60 und des Porzellans 26 Tlr.
+                        Die <quote>liegenden Gründe</quote>waren mit einem Wert von 142.500 Tlr.
+                        angegeben. Die ausstehende Kreditschulden beliefen sich auf 1.860 Tlr. Dem
+                        Gesamtwert der <quote>Verlassenschaft</quote> in Höhe von 165.971 Tlr
+                        standen Schulden in Höhe von 158.652 Tlr. gegenüber: 45.000 Tlr.
+                        eingebrachtes Vermögen der Witwe sowie weitere 45.000 Tlr von ihr zur
+                        Melioration und Erhaltung der Güter vorgeschossenes Kapital, 11.072 Tlr.,
+                        die dem Grafen Dönhoff auf Dönhoffstädt als Erbe und aus einer Forderung
+                        zustanden und von der Witwe bar gezahlt worden waren. Als Erbe und auf die
+                        sechs Kinder zu verteilen verblieben lediglich 7.319 Tlr. - Zahlreiche
+                        Gemälde, Bücher, Möbel und andere Wertgegenstände, die im Inventar
+                        verzeichnet sind, gelangten später nach Kriebstein, vgl. die Schätzungsliste
+                        in: HStA Dresden, Bestand 2426, Nr. 234 und das Dokument vom <ref target="lehndorff_irs_yxb_31b">17. Juni
+                            1947</ref>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 170, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1801-01-03" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <seg type="comment">
+                  <orig>Tit. 1 An Golde</orig>
+                  <note xml:id="ntvl_bwn_vcb">Im
+                            Folgenden wurde die Original-Schreibweise beibehalten. </note>
+               </seg>
+            </p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 2 An Silber </p>
+                <p>Sechs Stück versilberte und ein wirklicher silberner Teelöffel </p>
+                <p>Ein silbern Besteck von massiven Löffeln und Gabeln </p>
+                <p>Vier Stück übersilberte Messer und sechs Stück Gabeln </p>
+                <p>Sechs <seg type="comment">
+                  <orig>Agent hasché</orig>
+                  <note xml:id="njmd_yp3_y2b">versilbertes Metall</note>
+               </seg> Löffel und ein <seg type="comment">
+                  <orig>Torrine</orig>
+                  <note xml:id="ne1j_vq3_y2b">Terrine</note>
+               </seg>
+                    Löffel von eben der Art </p>
+                <p>Zwei Bouteillen Körbe von dito </p>
+                <p>Vier Salatieren die nämliche Art </p>
+                <p>Einen Nachtleuchter dito </p>
+                <p>Eine kristallene Salatiere mit Beschluss von der Art </p>
+                <p>Zwei Leuchter von Agent hasché, ein Schirmleuchter und ein Nachtleuchter </p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 3 An Gewehren </p>
+                <p>Eine lange ganz geschäfte Flinte </p>
+                <p>Eine halbgeschäfte Doppelflinte </p>
+                <p>Eie kurze ganz geschäfte Flinte </p>
+                <p>Eine Büchse </p>
+                <p>Ein paar Pistolen mit silberner Guarniture </p>
+                <p>Ein paar Pistolen mit damaszierten Läufen und messingene Mondirung </p>
+                <p>Zwei einzelne Pistolen noch eine mit messingener und eine mit eiserner Mondirung </p>
+                <p>Ein paar <seg type="comment">
+                  <orig>Terzerolen</orig>
+                  <note xml:id="nb5z_bq3_y2b">Vorladerpistole</note>
+               </seg> mit messingener Mondirung </p>
+                <p>Eine Jagdtasche </p>
+                <p>Ein neuer Büchsensack </p>
+                <p>Eine Kugelform </p>
+                <p>Eine kleine Jagdpeitsche </p>
+                <p>Ein Flitzbogen </p>
+                <p>Zwei Waldhörner </p>
+                <p>Drei lederne Schrotbeutel </p>
+                <p>Drei eiserne Kugelformen </p>
+                <p>Ein Pulverhorn </p>
+                <p>Zwei Sabels von Stahl und ein Mondirung Pallasch </p>
+                <p>Zwei Mondirungs Degen </p>
+                <p>Ein Hirschfänger nebst silberne Kappe </p>
+                <p>Vier <seg type="comment">
+                  <orig>Rapiere</orig>
+                  <note xml:id="nmdp_hq3_y2b">Degen</note>
+               </seg>
+            </p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 4 An Porcellain </p>
+                <p>Drei flache Teller von Steingut</p>
+                <p>Dreiundzwanzig <supplied cert="high">von Steingut</supplied>
+                </p>
+                <p>Fünf Suppenteller davon </p>
+                <p>Zwei große und eine kleine Salatiere dito </p>
+                <p>Eine kleine Torrine - die nämliche Art </p>
+                <p>Eine Menage auf 2 Personen mit 3 Einsätzen </p>
+                <p>Einen Nachttopf von Steingut </p>
+                <p>Sechs porcellaine Tassen </p>
+                <p>Ein schwarz <gap reason="illegible"/> Teetopf </p>
+                <p>Eine gemahlte und eine Milchkanne dito </p>
+                <p>Eine Zuckerdose dito </p>
+                <p>Ein ordinaire Teetopf und Coffee-Kanne </p>
+                <p>Eine Büste von Prinz Louis </p>
+                <p>und zwei Medaillen von König und Königin von Gips</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 5 An Glas </p>
+                <p>Sieben Stück Biergläser </p>
+                <p>Sechs kleine Weingläser </p>
+                <p>Acht große Weingläser </p>
+                <p>Ein Pokal </p>
+                <p>Vier kleine und eine große <seg type="comment">
+                  <orig>Caravine</orig>
+                  <note xml:id="ng2k_br3_y2b">Karaffe; gläserne Flasche mit langem Hals für
+                            Wasser, Essig, Öl oder Wein</note>
+               </seg>
+                </p>
+                <p>Zwei kleine Liqueur Gläser </p>
+                <p>Zwei blaue Glasschalen </p>
+                <p>Ein kleiner Aufsatz mit sechs gläsernen Flacons </p>
+                <p>Eine Vase von Alabasterglas mit Bronze beschlagen </p>
+                <p>Zwei kleine alabasterne Vasen </p>
+                <p>Eine alabasterne Lampe mit Bronze beschlagen</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 6 An Tableaus </p>
+                <p>Vier große Kupferstiche mit Ma. Rahmen</p>
+                <p>
+               <seg type="comment">
+                  <orig>Ein <seg type="comment">
+                        <orig>Castell</orig>
+                        <note xml:id="nv4r_2r3_y2b">Pastell</note>
+                     </seg> Gemälde Ihrer Ma. die
+                            Königin</orig>
+                  <note xml:id="nqld_d54_mfb">Genannt in der Liste der
+                            Kunstgegenstände aus Steinort in Kriebstein unter Nr. 99, vgl. HStA
+                            Dresden, Bestand 2426, Nr. 234.</note>
+               </seg>
+                </p>
+                <p>Eine Ölgemälde von einer Dame </p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 7 An Bücher</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 8 An Commoden, Sopha, Tische und Stühle </p>
+                <p>Ein Gewehrspinde mit Glastüren </p>
+                <p>Ein Bett mit blauen Gardinen </p>
+                <p>Eine <seg type="comment">
+                  <orig>Maehonen</orig>
+                  <note xml:id="nl2v_hr3_y2b">Mahagoni?</note>
+               </seg> Toilette nebst Einsatz </p>
+                <p>Ein dutzend Rohrstühle </p>
+                <p>Ein Ma. Bücherspinde nebst Bücher laut Spezifikation </p>
+                <p>Ein kleiner und ein großer Ma. Klapptisch </p>
+                <p>Ein großer grüner Ottoman nebst vier Stühlen und grün überzogen und zwei grüne
+                    Gardinen </p>
+                <p>Ein alt grün gestrichen Sopha </p>
+                <p>Ein runder blau <gap reason="illegible"/> Eßtisch </p>
+                <p>Ein kleiner runder Bett-Tisch und ein viereckiger dito. </p>
+                <p>Zwei Ma. Spieltische </p>
+                <p>Ein großer Wandspiegel </p>
+                <p>Ein Kleiderspiegel </p>
+                <p>Ein Holzkorb und vier Fußbänke </p>
+                <p>Ein Ma. Fortepiano </p>
+                <p>Zwei Statuen von Gips </p>
+                <p>Fünf Fenster <seg type="comment">
+                  <orig>Rolass</orig>
+                  <note xml:id="ncmc_5r3_y2b">Truhe?</note>
+               </seg>
+                </p>
+                <p>Ein kleines und ein große Ma. Teebrett und ein lacquirtes dito</p>
+                <p>Blechernes dito </p>
+                <p>Ein Brotkorb dito </p>
+                <p>Ein Mach. Zuckerkasten </p>
+                <p>Eine Commode zu Wäsche </p>
+                <p>Ein großer mach. Secretair </p>
+                <p>Ein kleines Schreibspinde von Eichenholz </p>
+                <p>Eine ordinaire Bettstelle </p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 9 &amp; Continuation </p>
+                <p>Ein gestickter Schirm</p>
+                <p>Ein Spind zu Hüte und ein Gestell, Kleider daran zu hängen </p>
+                <p>Zwei blaue Gardinen </p>
+                <p>Ein blau überzogenes Sopha nebst sechs Stühle und vier Taburetts ebenso überzogen </p>
+                <p>Ein Chatouille von Birnbaumholz </p>
+                <p>Zwei viereckige <unclear reason="illegible" cert="high">kleine</unclear> Eßtische </p>
+                <p>Eine gelbe Gardine </p>
+                <p>Ein Musikpedal braun gebeizt </p>
+                <p>Ein ovaler Korb zu Wäsche</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 10 An Wäsche
+                    </p>
+                <p>1. Tischzeug </p>
+                <p>Ein Tischtuch und fünf Servietten klein gewürfelt und ungezeichnet </p>
+                <p>Ein Tischtuch und fünf Servietten mit G. L. blau gezeichnet </p>
+                <p>Ein einzelnes Tischtuch gezeichnet mit G. L. </p>
+                <p>Zehn Handtücher </p>
+                <p>Sechs neue dito ungezeichnet </p>
+                <p>Sechs grobe <gap reason="illegible"/> Servietten </p>
+                <p>2. Bettzeug </p>
+                <p>Drei große Überzüge wovon ein ganz neues ist </p>
+                <p>Elf Kopfkissen </p>
+                <p>Acht Stück Bettlaken </p>
+                <p>3. An Hemden </p>
+                <p>Sechs feine Hemden ohne Chapeaubund ausgenäht </p>
+                <p>Acht feine Hemden mit Chapeau </p>
+                <p>Sechs alte ganz feine Hemden mit Chapeau </p>
+                <p>Zwei grobe dito mit Chapeau und vier grobe Nachthemden ohne Chapeau </p>
+                <p>Ein ganz altes grobes Hemd mit Chapeau </p>
+                <p>Vier feine Schnupftücher von Batist </p>
+                <p>Zehn feine leinewandte Schnupftücher und ein seidenes </p>
+                <p>4. Tücher </p>
+                <p>Fünf Unterbinde-Tücher </p>
+                <p>Zwei ganz feine weiße Halstücher mit schmalen Borten </p>
+                <p>Ein noch mit einem blauen Saum </p>
+                <p>Ein fein ausgenäheter </p>
+                <p>Ein rot und blau gewürfelter</p>
+                <p>Drei Kopftücher </p>
+                <p>Sechs Nacht Camisoles und zwei Nacht Überröcke von Sanspein </p>
+                <p>Sechs Tressen zum Überschlagen, wovon zwei bunte und eine weiße </p>
+                <p>Drei Tressen mit eine Reihe Knöpfe, worunter eine bunte ist </p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Continuation</p>
+                <p>Drei paar seidene lange Hosen, wovon ein paar neu ist </p>
+                <p>Vier paar baumwollen gestrickte lange Unterhosen und ein paar kurze </p>
+                <p>Vier paar baumwollen kurze gestrickte Hosen </p>
+                <p>Ein paar lange leinwandte überknöpfte Hosen </p>
+                <p>Ein paar alte wollenen lange gestrickte Hosen </p>
+                <p>Vierzehn paar kurze Strümpfe, wovon zwei paar geweiste </p>
+                <p>Acht paar grobe lange Zwirnstrümpfe </p>
+                <p>Drei paar baumwollenen geweiste </p>
+                <p>Fünf paar seidene Strümpfe wovon ein paar schwarz </p>
+                <p>Ein paar neuen weiße und 3 paar alte </p>
+                <p>Zwei Pudermäntel </p>
+                <p>Ein paar alte gestrickte Stiefeletten </p>
+                <p>Ein paar graue Unterziehsachen</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 11 An Mondirungsstücken </p>
+                <p>Zwei rote gestickte Röcke </p>
+                <p>Drei blaue Leibröcke </p>
+                <p>Ein gestickter Rock vom 1. Batl. Guarde </p>
+                <p>Drei alte und ein ganz neues Collet </p>
+                <p>Ein rot Chimoset </p>
+                <p>Zwei paar neue Weste und Hosen von <seg type="comment">
+                  <orig>Casemir und Parchent
+                            </orig>
+                  <note xml:id="nh2s_bs3_y2b">Kaschmir und
+                    Barchent</note>
+               </seg>
+            </p>
+                <p>Sechs gute und eine alte Mondirungsweste </p>
+                <p>Zwei kurze und ein paar lange Casemirne Hosen </p>
+                <p>Sechs paar Lederne Sachen </p>
+                <p>Ein Interims blauer Rock mit silbernen Knöpfen und <gap reason="illegible"/> vom
+                    1. Batl. Guarde von Fried. Wilhelm </p>
+                <p>Ein Mondirungs Pelz </p>
+                <p>Ein Mondirungs Überrock und Mantel</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Civil-Sachen </p>
+                <p>Ein blauer Rock mit gelben Knöpfen </p>
+                <p>Ein schwarzer Rock </p>
+                <p>Ein Dessauer Jagd-Uniform und Jagd-Collet </p>
+                <p>Ein grauer Rock mit weiße Knöpfe </p>
+                <p>Ein alter und ein neue grüne Jagd-Jacke </p>
+                <p>Ein paar neue Jagd-Hosen und ein paar grüne Überhosen </p>
+                <p>Ein paar alte und ein paar gute blaue lange Hosen </p>
+                <p>Ein paar lange manchesterne breit gestreifte Hosen </p>
+                <p>Ein paar schwarze Hosen </p>
+                <p>Ein paar braune gestreifte Hosen </p>
+                <p>Ein paar graue Hosen </p>
+                <p>Ein paar lange manequine Hosen </p>
+                <p>Ein paar lange ausgenähete manquine Hosen</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 12 Fortsetzung an Mondirungs-Stücken </p>
+                <p>Eine mannequine Jacke und eine Weste von Mannequin, welche ausgenähet </p>
+                <p>Eine schwarze gestreifte seidene Weste</p>
+                <p>Ein paar blaue tuchen Überhosen</p>
+                <p>Ein Bären-Pelz</p>
+                <p>Ein grüner langhaariger Überrock</p>
+                <p>Ein grüner Mollner Matin</p>
+                <p>Eine grüne Jagd-Scherpe</p>
+                <p>Zwei Unterwesten mit atlasnen Vorstoß</p>
+                <p>Ein schwarzer Domino und einen schwarzen Rittermantel</p>
+                <p>Zwei grüne Schlitten-Jacken nebst Schabracken und Hüte</p>
+                <p>Zwei doppelte Scherpen mit Crepine</p>
+                <p>Zwei interims Catouche und zwei silberne Degen-Koppeln</p>
+                <p>Zwei Staats Catouchen</p>
+                <p>Ein alter silberner Achselband</p>
+                <p>Fünf paar steife Stiefeln</p>
+                <p>Zwei paar Schlag-Stiefeln</p>
+                <p>Zwei paar kleine Stiefeln</p>
+                <p>Vier paar Schuhe</p>
+                <p>Drei lederne wovon eine grüne und ein eine Landauer Pelz-Mütze</p>
+                <p>Drei schwarze Mondirungs-Hüte, wovon ein neuer</p>
+                <p>Zwei Faden Hüte</p>
+                <p>Zwei rund Hüte, wovon ein neuer</p>
+                <p>Ein Jagd-Casquet mit Federbusch</p>
+                <p>Ein dreieckiger Civil-Hut</p>
+                <p>Sechs paar lederne <gap reason="illegible"/> Handschuhe, wovon ein paar mit
+                    Pelz</p>
+                <p>Continuation</p>
+                <p>Ein paar kleine Handschuhe, wovon zwei Paar Schweinitzer</p>
+                <p>Drei samtne und zwei atlasne Binden</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 13 An Zinn und Blech</p>
+                <p>Zwei lackierte Bouteillen Teller</p>
+                <p>Eine Thée Büchse</p>
+                <p>Ein <seg type="comment">
+                  <orig>Dröchter</orig>
+                  <note xml:id="nshr_fs3_y2b">Trichter</note>
+               </seg>
+            </p>
+                <p>Eine blecherne Coffée Kanne</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 14. An Kupfer und Messing</p>
+                <p>Ein ordinairer und ein lackierter Thée Kessel mit Lampe</p>
+                <p>Fünf Lampen zu Alabastern Traufen</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 15 An Lederzeug und Sattels</p>
+                <p>Ein Bett-Sack</p>
+                <p>Ein Zelt nebst Stangen</p>
+                <p>Eine Feld-Bettstelle</p>
+                <p>Ein ledernes Hut-utteral</p>
+                <p>Ein ledernes Gewehr Futteral und Pistolen Halfter</p>
+                <p>Ein Feld-Tisch</p>
+                <p>Ein seidene Fuß-Tapete</p>
+                <p>Ein ausgestopfter Hund</p>
+                <p>Ein großer Kasten mit Leder überzogen, worinnen verschiedene Papiere Bücher und
+                    Manuskripte</p>
+                <p>Ein Kasten, worinnen allerhand altes Lederzeug ist, als alte Pistolen Halfter,
+                        <gap reason="illegible"/>
+            </p>
+                <p>Ein lederner Mantel Sack und allerhand altes Geräte</p>
+                <p>Zwei Feld-Koffers und ein lederner Feld-Stuhl</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 16 <unclear reason="illegible" cert="high">Tragen</unclear> Geräte</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 17 An Küchen und andern hölzerne Geräte</p>
+                <p>Ein Machone Leuchter</p>
+                <p>Eine Camera Obscura</p>
+                <p>Eine Badewanne</p>
+                <p>Bijet mit blechernem Einsatz</p>
+                <p>Zwei Stiefel Blöcke</p>
+                <p>Drei kleine Spiegel, wovon zwei mit vergoldeten Ramen und ein runder mit Mach.
+                    Ram.</p>
+                <p>Ein hölzerner Spuck-Kasten</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 18 An Betten</p>
+                <p>Zwei Unterbetten</p>
+                <p>Zwei Deckbetten</p>
+                <p>Vier Kopfkissen</p>
+                <p>Eine Pferdhaarne Maderazze</p>
+                <p>Zwei gestäpfte Decken</p>
+                <p>Zwei weiße wollene Decken, wovon eine gestrickte und eine grün seidene gestrickte
+                    Decke</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Tit. 19 An Pferden</p>
+            </div>
+        </body>
+    </text>
+</TEI>

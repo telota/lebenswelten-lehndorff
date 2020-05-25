@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dd1_fvx_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Elisabeth von Knobloch an Anna Gräfin von Lehndorff. Lyck, 23. Oktober
+                    1881</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dd1_fvx_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 483, Bl. 6-7v</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Stark beschädigt, Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ak5_sh5_g2b">Knobloch, Elisabeth von (-)</persName>
+                    <placeName key="ed_eby_wkz_ny">Lyck</placeName>
+                    <date when="1881-10-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lyck, den 23.10.81</dateline>
+					          <salute>Hochverehrte gnädige Frau Gräfin!</salute>
+                </opener>
+				        <p>Der Besitz der freundlichst übersandten M 50 und der eines so unendlich lieben Schreibens hat
+                    mir so viel Freude bereitet, dass ich Tag und Nacht Ihrer lieben Fürsorge
+                    dankend gedenke und unseren himmlischen Vater um ihr Wohlsein und um alles Gute
+                    für Sie herzlich bitte. Meinen herzlichen und untertänigsten Dank für die reiche
+                    Gabe und für das hohe Wohlwollen. Den Herrn Pastor <persName key="ed_wsd_yh5_g2b">Goetz</persName> habe ich wiederum meinetwegen
+                    angefragt und von Frau von <persName key="ed_xwz_b35_g2b">Hamilton</persName>
+                    habe ich eine abschlägige Antwort erhalten. Sie schrieb, dass sie uns herzlich
+                    gern auch unentgeltlich aufgenommen hätte. Sie hat aber ihrem Sohn das Gut <gap unit="lines" quantity="1" reason="lost"/> gekauft und ist zu ihm <gap unit="lines" quantity="1" reason="lost"/>
+                </p>
+                <p>Nun will ich noch an Frau <persName key="ed_dyq_h35_g2b">Napolski</persName>
+                    schreiben, vielleicht dass die uns aufnehmen möchte.</p>
+                <p>Meine Schwester <persName key="ed_jdd_k35_g2b">Anna</persName> kommt den 3.
+                    November nach Hause und wird sich gewiss über Ihre gütige Sendung ebenso sehr
+                    freuen.</p>
+                <p>Was werden Sie aber, gnädige Frau, dazu sagen, wenn ich einen Teil von dem Gelde
+                    schon verausgabt und mir einen Wintermantel gekauft habe? Ohne denselben kann
+                    ich die Reise nicht antreten und ist die Kälte auch schon so stark, dass ein
+                    Mantel erforderlich ist. Ich fühle mich wirklich sehr glücklich, ihn zu
+                    besitzen, wenn nur Sie, verehrte Frau Gräfin, mir dieserhalb nicht zürnen
+                    möchten, da ich von dem Gelde für den Mantel 27 M ausgeben musste. Meiner
+                    Schwester Anna fehlt ebenfalls sehr notwendig einer, und würde das Geld fast zu
+                    dem zweiten Mantel ausreichen. Wir bitten sehr um Verzeihung, dass wir das Geld
+                    nicht in Ihrem Sinne verwenden, wir wären ja sonst nicht zu Mänteln gekommen, da
+                    unsere Verhältnisse es nicht gestatteten, uns welche anzuschaffen. Sollten wir,
+                    geehrte Frau Gräfin, Ihr Missfallen erregt haben, so bitten wir nochmals
+                    herzlich um Verzeihung. Sie können glauben, dass Sie dadurch zwei Herzen
+                    unendlich glücklich gemacht haben. </p>
+                <p>Herzlichsten Dank für alles Gute, wünsche meiner Wohltäterin Gottes Segen und den
+                    Himmel auf Erden, hauptsächlich Ihrem ganzen Hause Gesundheit. Möge Gottes <gap unit="lines" quantity="1" reason="lost"/> Heiland Ihnen die <gap unit="lines" quantity="1" reason="lost"/> Wohltaten <gap unit="lines" quantity="1" reason="lost"/> Wohlwollen tausendfach vergelten und die
+                    innigen Wünsche erfüllen</p>
+				        <closer>
+					          <salute>Ihrer untertänigsten</salute>
+					          <signed>Elisabeth v. Knobloch</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zzb_nv2_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philipp Otto Graf von Dönhoff an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Quittainen, 5. Februar 1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zzb_nv2_g1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 379, Bl. 34-35v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_shm_g3w_mbb">Dönhoff, Philipp Otto Graf von
+                        (1710-1787)</persName>
+                    <placeName key="ed_ehn_vv2_g1b">Quittainen</placeName>
+                    <date when="1784-02-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Materialien zu Schulen, u. a. die Erziehungsgrundsätze des Pädagogen Gottlieb
+                        <persName key="ed_ejx_t2c_tcb">Bötticher</persName>, Königsberg 1765, der
+                    bereits <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich
+                    </persName>unterrichtet hatte, sowie Ausführungen des Prinzen zur Einrichtung
+                    einer deutsch-französischen Erziehungsanstalt in <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName> aus dem Jahr 1778 in: LASA, StA L, Bestand 21950 FA
+                    Lehndorff, Nr. 98 und 99. Eine Charakteristik Böttichers in: Nachträge, Bd. 2,
+                    S. 349 und 353 (1784).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Quittainen, 5. Februar 1784</dateline>
+					          <salute>Liebster Herr Vetter</salute>
+                </opener>
+                <p>
+               <note type="editorial">Er bedankt sich für einen Brief vom 18. Januar, aus dem er
+                        ersehen habe, dass sein Brief Lehndorff und dessen Gemahlin - <quote>seinen
+                            besten Freunden</quote>
+                  <seg type="comment">
+                     <orig>- Trost gespendet
+                                habe</orig>
+                     <note xml:id="nzyc_byn_42b">Lehndorffs Schwiegermutter
+                                war verstorben, vgl. das Beileidsschreiben Pisanskis, Angerburg, 7.
+                                Februar 1784, ebd., Bl. 38-39v</note>
+                  </seg>. </note>
+                    <seg type="comment">
+                  <orig>Das der Herr Vetter auf das Frühjahr nach Berlin
+                            reisen werden, habe mir der Umstände wegen gleich
+                            vorgestellt.</orig>
+                  <note xml:id="nm4q_1rl_s2b">Vgl. GStA PK, XX. HA,
+                            Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 232 (Reise nach Berlin 1784).
+                        </note>
+               </seg> Es wird mir besonders angenehm, dieselben Ende April nebst der
+                    würdigen Gemahlin und Kinder bei mir zu sehen. Das Schreiben unseres Schätzbaren
+                        <seg type="comment">
+                  <orig>
+                     <persName key="ed_w15_bk5_sy">Thronfolgers</persName>
+                  </orig>
+                  <note xml:id="nhmx_txz_g1b">Prinz
+                            Friedrich Wilhelm</note>
+               </seg> ist so gnädig wie möglich, Gott erhalte
+                    Ihn bei dergleichen Ansinnungen, damit Er bei künftiger Regierung (wer es
+                    erleben wird) durch Liebe und Wohltun dessen Länder sich verpflichte. <gap reason="insignificant"/>
+                </p>
+            <p>Auf mein Veranlassen hat der junge <seg type="comment">
+                  <orig>
+                     <persName key="ed_ihk_p1t_scb">Schlodien</persName>
+                  </orig>
+                  <note xml:id="nwtg_m1t_scb">Carl Ludwig
+                            Alexander Burggraf zu Dohna-Schlodien (1758-1838), seine Schwester
+                                <persName key="ed_etd_ccc_2lb">Amelie</persName> war eng mit
+                            Lehndorffs Frau <persName key="ed_gnc_c1m_2y">Amelie</persName>
+                            befreundet.</note>
+               </seg> den <seg type="comment">
+                  <orig>Fürsten v.
+                                <persName key="ed_lsd_cby_m2b">Neuwied</persName> bei dessen erstem
+                            Sohn zu Gevatter</orig>
+                  <note xml:id="nlkp_bct_scb"> Johann Friedrich
+                            Alexander zu Wied-Neuwied (1706-1791). Seine Eltern waren Friedrich
+                            Wilhelm zu Wied-Neuwied (1684–1737) und Luise Charlotte von
+                            Dohna-Schlobitten (1688–1736), die Tochter von <persName key="ed_qv5_zdq_mbb">Alexander zu Dohna-Schlobitten</persName>
+                            (1661–1728) und dessen erster Frau Emilie Luise Gräfin zu
+                            Dohna-Carwinden (1661–1724). </note>
+               </seg> gebeten. Die Antwort des
+                    würdigen Fürsten ist beachtenswert. </p>
+            <p>Bei dieser Gelegenheit hat er <seg type="comment">
+                  <orig>Einlage</orig>
+                  <note xml:id="nimg_vmj_w2b">Liegt dem Brief nicht bei.</note>
+               </seg> nach <placeName key="ed_c3f_wxz_g1b">Schlodien</placeName> geschickt. <seg type="comment">
+                  <orig>Da Sie nun Dero Herrn Sohn in das <rs type="term" key="ed_hpq_yxz_g1b">Berlinsche Gymnasium</rs> geben wollen, so
+                            bitte zu <unclear reason="illegible" cert="low">bedenken</unclear>, ob
+                            es in <placeName key="ed_tgn_cjw_mbb">Neuwied</placeName> vielleicht
+                            nicht besser wäre, dafern nicht andere mir unbekannte Umstände
+                            obstieren.</orig>
+                  <note xml:id="nws3_yj2_zdb">Vgl. Schmidt-Lötzen,
+                            Nachträge, Bd. 2, S. 348 ff. Da Lehndorffs Schwiegermutter verstorben
+                            war, wollte er im Frühjahr 1784 in Begleitung der Familie nach
+                                <placeName key="ed_xrv_gwb_by">Berlin</placeName> gehen. Der älteste
+                            Sohn sei in einem Alter, <quote>wo er das Haus verlassen muss</quote>,
+                            der jüngere sollte in einer Anstalt das vernachlässigte Französisch
+                            verbessern, die Tochter <quote>tanzen lernen</quote>, ebd. S. 349 und
+                            353.</note>
+               </seg> Des H. Professor <persName key="ed_qdl_lby_m2b">Simon</persName> Plan bitte mir baldigst wieder zurück, weil selbigen
+                    Schlodien wieder schicken muss. </p>
+            <p>Je crains fort que la paix entre la Russie et les Turc, de même l'affaire de Danzig auront des
+                    suite et n'acomode guère notre Roy. L'on<seg type="comment">
+                  <orig> assure quelle
+                            le Prince <persName key="ed_nvx_wcz_bz">Henri</persName> ira de <unclear reason="illegible" cert="low">recheff</unclear> a <placeName key="ed_qvp_nnz_2y">Petersburg</placeName>.</orig>
+                  <note xml:id="ncrs_twg_vbb">Vgl. das Tagebuchblatt vom 29. Februar 1784, in:
+                            LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 486, Bl. 28. - 1784
+                            annektierte <persName key="ed_ez1_1zl_cz">Katharina II. </persName>die
+                            Krim, Ursache des Zweiten Russisch-österreichischen Türkenkrieges von
+                            1787–1792. Zur Konvention zwischen Preußen und der Stadt Danzig:
+                            Günther, Karl Gottlob, Europäisches Völkerrecht in Friedenszeiten ...,
+                            T. 2, Altenburg 1782, S. 333. </note>
+               </seg> Bei den gleichen evenements
+                    tröste ich mich immer mit dem, was unser Heiland denen Gläubigen sagt: Ihr
+                    werdet hören von Krieg und Kriegsgeschrei, ein Königreich wird sich wider das
+                    andere empören. <gap reason="insignificant"/>
+            </p>
+				        <closer>
+					          <salute>Votre très humble serviteur et amis</salute>
+					          <signed>Ph. O. Dönhoff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

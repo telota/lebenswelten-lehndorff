@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ldz_zzh_yz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Meinhard Graf von Lehndorff an Otto Theodor Freiherr von
+                    Manteuffel. Doberan, 6. August 1856</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ldz_zzh_yz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>III. HA, MdA III, Nr. 44, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                    <placeName key="ed_mqq_k4b_1bb">Doberan</placeName>
+                    <date when="1856-08-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ezm_s3b_1bb">Manteuffel, Otto Theodor von
+                        (1805-1882)</persName>
+                </correspAction>
+                <note>In der Akte ist der Vorgang unter Passangelegenheit v. Lehndorff, Graf
+                    Legationssekretär, Nr. 13406 abgelegt. - Aus welchem Grund Lehndorff in Wien
+                    Schulden machte, ist unklar; die Höhe muss jedoch beträchtlich gewesen sein,
+                    denn es kam sogar zum Prozess, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                    Lehndorff-Steinort, Nr. 426 (1854, 1857/58). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Doberan, den 6. August 1856</dateline>
+                    <salute>Hochwohlgeborener Freiherr, <lb/>Hochverehrter Herr
+                        Ministerpräsident.</salute>
+                </opener>
+                <p>Ew. Exzellenz habe ich die Ehre ganz gehorsamst zu melden, dass ich Montag, den
+                    11. d. M., von <placeName key="ed_xrv_gwb_by">Berlin</placeName> auf direktem
+                    Wege nach <placeName key="ed_ztb_bm1_my">Wien</placeName> gehe und sehr
+                    glücklich sein würde, wenn Ew. Exzellenz mir irgendwelche Befehle anvertrauen
+                    wollten. Ich werde Montagnachmittag auf dem Ministerium nach solchen fragen.
+                    Zugleich bitte ich Ew. Exzellenz ehrerbietigst, hochgeneigtest befehlen zu
+                    wollen, <seg type="comment">
+                  <orig>dass mir ein Pass zu dieser Reise auf acht
+                            Tage ausgestellt und <gap reason="illegible"/> werde.</orig>
+                  <note xml:id="nmvs_n13_yz">Marginalie: Der Pass wurde ausgestellt und
+                            Lehndorff ausgehändigt, 12. August 1856.</note>
+               </seg>
+            </p>
+                <closer>
+                    <salute>In bekannter dankbarer Ehrerbietung verharre ich <lb/>Ew. Exzellenz ganz
+                        gehorsamster</salute>
+                    <signed>Gf. Lehndorff <lb/>Kgl. Legationssekretär</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

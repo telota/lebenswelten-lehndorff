@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_pdv_cv2_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz August Wilhelm von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Dresden, 20. August 1757</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_pdv_cv2_2z</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär  </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Volz, Gustav Berthold, Aus dem Briefwechsel des
+                            Prinzen von Preußen August Wilhelm mit dem Kammerherrn Graf Ernst
+                            Ahasverus Lehndorff, in:  Masovia 9 (1903), S. 130-171, hier S.
+                            144</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q12_pqy_bz">Preußen, August Wilhelm Prinz von (-)</persName>
+                    <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+                    <date when="1757-08-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_mdx_dk2_2z">11. Dezember 1756</ref>. - Auch der <persName key="ed_q12_pqy_bz">Prinz von Preußen</persName> führte während des Krieges
+                    ein Tagebuch. <quote>Es finden sich darin allerlei Anekdoten, die kein Mensch
+                        kennt, und die die Nachwelt mit Interesse und Bewunderung lesen
+                    wird</quote>, vgl. Giebel, Tagebücher, S. 418.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Dresden, 20. August 1757</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/>
+                    <seg type="comment">
+                  <orig>Aus Ihrem Brief</orig>
+                  <note xml:id="nbmr_mcq_mbb">
+                     <note type="editorial">Lehndorff hatte dem Prinzen am 9. August
+                                geschrieben (ebd., S. 145 f.):</note>
+                            <quote>Sie sagen mir so viele schöne Dinge; ich schäme mich darüber,
+                                denn seit langem bin ich nicht mehr gewöhnt, liebenswürdige
+                                Schreiben zu erhalten! Ihre Briefe bereiten mir das höchste
+                                Vergnügen, zumal, wenn sie von Neuigkeiten strotzen. Sie haben mir
+                                nur tragische Nachrichten gegeben. Der Tod von <persName key="ed_kzn_xw2_2z">Pesne</persName> und der <persName key="ed_kr2_zw2_2z">Astrua</persName> rühren mich <gap reason="insignificant"/>, kurz, alles geht zum Teufel. Wenn ich
+                                nicht bald anfange mich zu erholen, so glaube ich, werde ich
+                                gleichfalls dahin gehen; mit der Zeit werden Sie mir folgen. So sei
+                                es! Amen.</quote>
+                        </note>
+               </seg> ersehe ich, dass man mir nicht Gerechtigkeit widerfahren
+                    lässt; ich bin überzeugt, dass man die Wahrheit mich betreffend nicht richtig
+                    kennt! <seg type="comment">
+                  <orig>Wenn Sie denken, dass <persName key="ed_ekm_xv2_2z">Brand</persName> Sie unterrichten soll, so
+                            befinden Sie sich im größten Irrtum.</orig>
+                  <note xml:id="natt_s1m_scb">Brand war der Stallmeister des Prinzen.</note>
+               </seg> Er hat den <rs type="term" key="ed_t5d_tm4_dz">Feldzug</rs> wie ein Einsiedler mitgemacht,
+                    speiste allein in seinem Zelt, ritt nur aus, um sich Bewegung zu machen, und las
+                    ein englisches Buch, das er nur halb verstand, oder einen deutschen Dichter, der
+                    in der <seg type="comment">
+                  <orig>Leipziger Schule</orig>
+                  <note xml:id="nmy2_mjr_52b">Vgl. Pierer, H. A., <ref target="https://books.google.de/books?id=Jr5PAAAAMAAJ&amp;pg=PA233&amp;lpg=PA233&amp;dq=leipziger+schule+Dichter%23&amp;source=bl&amp;ots=OpQPUzsgFG&amp;sig=1PQBLM0xmA0AufzvUKmMHCdquGA&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwif5aaa_-vcAhVHPFAKHe6iARsQ6AEwBHoECAIQAQ#v=onepage&amp;q=leipziger%20schule%20Dichter%23&amp;f=false">Universallexikon der Gegenwart und Vergangenheit</ref> ..., 2.
+                            Aufl., Altenburg 1841, Bd. 8, S. 232 ff. </note>
+               </seg> sehr angesehen
+                    ist, dessen Namen aber die gebildete Welt nicht kennt. Brandt wird Ihnen erzählt
+                    haben, dass wir Märsche gemacht haben, über die er außer sich war; aber warum
+                    man sie machte, davon weiß er nichts. Er weiß, dass ich hier bin; er weiß, dass
+                    ich mit dem <persName key="ed_x2r_52f_cy">König</persName> Streit gehabt habe,
+                    aber er kennt die eigentlichen Gründe nicht. Kurz, seien Sie überzeugt, dass,
+                    wenn Brandt eine Schilderung des Feldzuges geben soll, dass es das sonderbarste
+                    Ding der Welt würde, und dass die, die dabei waren, sich nicht auskennen würden,
+                    da er alles mit anderen Augen ansieht. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

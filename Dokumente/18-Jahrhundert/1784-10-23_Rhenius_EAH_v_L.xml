@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_arj_hll_3bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Rhenius an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 23. Oktober 1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_arj_hll_3bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 380, Bl. 107-107v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bpl_fsj_gy">Rhenius, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1784-10-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Der nächste Brief folgt am 5. November (Bl. 108-108v), obwohl Rhenius von
+                    Lehndorff aus Berlin keine Antwort erhalten hatte. Darin berichtet er über die
+                    medizinische Versorgung eines im Sterben liegenden Jungen durch den Arzt
+                        <persName key="ed_kqx_pq1_tcb">Bernhardi</persName> aus <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>. Rektor <persName key="ed_hm2_g3t_ncb">Strugull</persName> erwarte eine Untersuchung durch die
+                        <quote>Jurisdiktion in loco</quote>. Die Aufstellung der Erträge von
+                        <placeName key="ed_d31_sqv_scb">Raudischken</placeName> habe er von
+                        <persName key="ed_hjq_ttv_scb">Henrici</persName> erhalten, jedoch sei sie
+                    unvollständig. Der Besitz besteht aus 26 Huben Wald und 145 Huben, dazu kommen 2
+                    Vorwerke und 3 Bauerndörfer, die meisten seien freie Bauern, nur wenige
+                    Untertanen. Die Jurisdiktion habe das <orgName key="ed_qh1_1r1_tcb">Erbhauptamt
+                        Gerdauen</orgName>. Der Preis, den Major von <persName key="ed_vz3_gpp_mbb">Finck</persName> erwarte, seien 56.000 Rtlr., taxiert sei es auf 45.000 bis
+                    46.000 Rtlr. Er hoffe, der Graf würde Mitte April selbst eintreffen, <quote>so
+                        ließe sich alles viel deutlicher untersuchen</quote>. - Über Strugull hatte
+                    Rhenius auch an <persName key="ed_uhx_5jq_tcb">Pisanski</persName> geschrieben.
+                    Dieser äußert sich in seinem Brief vom 10. November 1784 zu dem Fall, Bl.
+                    118-119v. - In seinem nächsten Brief vom 12. November 1784 (Bl. 120-121v)
+                    berichtet Rhenius über einen Erlös von 2.000 Rtlr., der auf die Bank in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> einzuzahlen sei. Auch
+                    wolle er nun selbst die <placeName key="ed_fn1_3mw_mbb">Neuhoffschen</placeName>
+                    Güter besichtigen. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 23. Oktober 1784</dateline>
+                    <salute>Hochwürdiger und Hochgeborener Reichsgraf, <lb/>Gnädigster Graf und
+                        Herr!</salute>
+                </opener>
+                <p>Die beschränkte Zeit und die vielen unangenehmen Vorfälle, die ich bin genötigt
+                    gewesen, Ew. Hochgeboren untertänigst zu berichten, haben mich immer behindert,
+                    Hochdenenselben mit kleinen Wirtschaftsnachrichten bekannt zu machen. Da ich
+                    nunmehro aber voll Vertrauen auf die Güte Gottes dem Ende unangenehmer
+                    Begebenheiten hoffnungsvoll entgegensehe, so will heute damit den Anfang machen
+                    und dem schon längst erhaltenen gnädigen Befehl gemäß alle 14 Tage einen solchen
+                    Brief abgehen lasen. <seg type="comment">
+                  <orig>Das Fräulein v. <persName key="ed_hyb_zqv_scb">Gohr</persName> ist seit dem Herbstanfange oft
+                            zwar nun etwas unpässlich, da sie sich aber gar nicht schont, so kommt
+                            oft ein Recitiv.</orig>
+                  <note xml:id="nvbb_pcf_jbb">In jedem Brief geht
+                            Rhenius auf deren Wohlbefinden ein. Sie erhielt von Lehndorff eine
+                            monatliche Pension, vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr.
+                            382, Bl. 66 und GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort,
+                            Nr. 301 (Zahlungsnachweise 1778-1782). </note>
+               </seg> Beim Obst abnehmen,
+                    schälen, Licht ziehen pp. ist sie immer die erste und letzte, wovon sie auch
+                    durch dringendste Bitten und die gründlichste Vorstellung nicht abzuhalten ist.
+                    Jetzt ist sie Gottlob munter! Äpfel sind dieses Jahr vorzüglich viel, Kirschen
+                    und Birnen weniger, und Pflaumen fast gar nicht, hingegen ist an Kohl ein
+                    reicher Segen, eine solche Menge schönen brauen Kohl haben wir noch nie gehabt.
+                    Melonen sind auch viele gewesen. Es wurde ein Versuch gemacht, davon etwas zu
+                    verkaufen, da aber zu wenig bezahlt wurde, sind einige verschenkt an Herrn
+                        <persName key="ed_sph_phv_mbb">Probst</persName>, Herrn Postmeister in
+                        <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName>, Herrn Major von
+                        <persName key="ed_bc4_bwv_scb">Winterfeld</persName> p. Weißer Kohl wird
+                    jetzt verkauft a 1 Fl. das Schock. Der diesjährig gesäte Kleewer ist gar
+                    vorzüglich schön geraten, der am Brauhause war nur mittelmäßig, konnte aber doch
+                    genutzt werden, ist jetzt umgepflügt und wird mit Flachs dieses Stück künftiges
+                    Jahr besät werden.<seg type="comment">
+                  <orig> Das Flachsbrechen ist bereits
+                            angefangen und bei dem diesjährigen Segen kommt uns die Braachstube mit
+                            2 Stuben sehr zustatten.</orig>
+                  <note xml:id="nugn_wfm_3bb">Nach Rhenius'
+                            Bericht vom 12. November 1784 blieben nach Abzug des Bedarfs des Hofes
+                            an Flachs und Garn 283 Rtlr., 28 1/2 Gr. Überschuss (Bl. 220-1221v).
+                            Nach einem weiteren Bericht aus dem Herbst, ebd., Nr. 387, Bl. 135-136v,
+                            seien die von Trinitatis 1783 bis 1784 erwirtschafteten Überschüsse von
+                            4.426 Rtlr. übertroffen worden, so dass bare Reserven von 1.000 Rtlr.
+                            vorhanden seien. Da die Ernte noch nicht abgeschlossen war, ließen sich
+                            noch weitere Überschüsse erwarten.</note>
+               </seg> Herr <persName key="ed_isn_43v_mbb">Schultz</persName> reitet mit meinem Martin auch des
+                    Nachts auf die Dörfer um nachzusehen, ob die Leute auch in den Wohnhäusern
+                    Flachs brechen oder bei einer Laterne dreschen. Kürzlich brannten jenseits des
+                    Sees bei <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> 2 Häuser und volle
+                    Scheunen ab durch Flachsbrechen im Wohnhause. </p>
+                <p>den 23. Oktober abends </p>
+                <p>Heute zum Mittag <seg type="comment">
+                  <orig>besuchte uns Herr Amtsrat <persName key="ed_hjq_ttv_scb">Henrici</persName> (seine Frau war vor einigen
+                            Wochen zur Kaffee-Visite nachmittags auf ein paar Stunden)</orig>
+                  <note xml:id="ndm4_r5l_3bb">Am 6. November 1784 schreibt <persName key="ed_hjq_ttv_scb">Henrici</persName>
+                            <persName key="ed_csb_mdf_cy">Lehndorff</persName> in einer persönlichen
+                            Angelegenheit. Er hoffte auf dessen Unterstützung bei der Vergabe der
+                            vakanten Justizratsstelle in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> an seinen Schwiegersohn und Fürsprache bei
+                            Großkanzler von <persName key="ed_rwj_n5g_hy">Carmer</persName>, ebd.,
+                            Bl. 116-116v </note>
+               </seg>. Diese Gelegenheit benutzte vorzüglich, mit
+                    ihm über die <placeName key="ed_fn1_3mw_mbb">Neuhoffschen</placeName> Güter zu
+                    sprechen, welche er am besten beurteilen kann, da er sie selbst bei Fertigung
+                    des Anschlags gründlich kennengelernt, nach einiger Bedenklichkeit (denn diese
+                    ist ihm nicht zu verdenken, wenn er als Veranschlagungs-Kommissarius jemand vom
+                    Kauf abraten will, weil er deshalb, wenn es bekannt würde, leicht zur
+                    Verantwortung gezogen werden könnte), sagte er mir, dass, wenn er es aufrichtig
+                    gestehen sollte, er Ew. Hochgeboren zu diesem Kauf unmöglich anrätig sein
+                    könnte, weil der Boden und Acker dieser Güter von Natur sehr schlecht und die
+                    Leute sehr arm sind, weil auch diese Güter überhaupt eine schlechte Lage dabei
+                    hätten. So dürfte, wenn auch viele Kosten dabei verwendet würden, auf keinen
+                    sonderlichen Vorteil zu rechnen sein, hingegen hätte er die <placeName key="ed_d31_sqv_scb">Raudischkenschen</placeName> Güter, von welchen er auch
+                    einen Anschlag gemacht, von der vorteilhaftesten Seite kennengelernt, dass er zu
+                    deren Ankauf weit sicherer anrätig sein könnte. Der Boden ist viel besser, die
+                    Leute im guten Stande und vorzüglich schöne Waldungen, auch weit besser bebaut.
+                    Der Anschlag ist jetzt nicht höher, als Herr Major <persName key="ed_gbc_bxv_scb">Finck</persName> solche bei seinem Einkauf bezahlt.
+                    Herr Amtsrat will mir Extrakte von dem Anschlage überschicken, davon ich nicht
+                    verfehlen werde, das vorzüglichste diesem beizufügen. Noch einen Vorteil habe
+                    Raudischken, dass es näher bei <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> als <placeName key="ed_fn1_3mw_mbb">Neuhoff</placeName>, die Leute auch von besserer Race sind, denn die
+                    Neuhoffschen haben öfters mit ihrer vorigen Herrschaft Prozesse geführt, dieses
+                    habe vom Herrn <persName key="ed_qhx_gxv_scb">Zudnachowsky</persName> gehört,
+                    der selbst dieserhalb Verhöre in Neuhoff gehalten. Die Kirche und Jus Patronatus
+                    zu Neuhoff ist für den Eigentümer ein Onus, weil die Kirche ganz arm und die
+                    Herrschaft alle Bauten aus eigenen Mittel bestreiten muss.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

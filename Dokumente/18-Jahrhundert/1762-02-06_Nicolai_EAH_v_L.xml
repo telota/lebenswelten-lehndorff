@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ixx_gbt_2cb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann George Nicolai an Ernst Ahasverus Heinrich Graf von Lehndorff. Dresden, 6. Februar
+                    1762</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ixx_gbt_2cb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 370, Bl. 27-27v</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_jsr_4bt_2cb">Nicolai, Johann George (-)</persName>
+                    <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+                    <date when="1762-02-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Lehndorff war im Januar in das Winterquartier <placeName key="ed_bc2_tq3_tdb">Hof</placeName> in Sachsen gereist. In <placeName key="ed_flc_kyf_hy">Leipzig</placeName>,wo Verzweiflung über die zu zahlende Kontribution
+                    herrschte, begegnete er den <quote>berühmten deutschen Dichter</quote>
+                    <persName key="ed_mns_vq3_tdb">Gellert</persName> und <persName key="ed_hz3_wq3_tdb">Gottsched</persName>, vgl. Giebel, Tagebücher, S. 487.
+                    Ihm gingen verschiedene Bitten um Unterstützung zu, z. B.von der Witwe <persName key="ed_ets_1l1_tcb">Kobschin</persName> aus <placeName key="ed_xrv_gwb_by">Berlin</placeName>,die <quote>bei diesen so harten und teuren
+                        Zeiten</quote> wegen <quote>Alter und Schwachheit</quote> nichts verdiente,
+                    oder von Marie <persName key="ed_zpg_fl1_tcb">Martin</persName> aus <placeName key="ed_ehf_3l1_tcb">Küstrin</placeName>, die Opfer eines Brandes geworden
+                    war (Bl. 36-37, 40-41v). </note>
+            </correspDesc>
+            <abstract>
+                <p>Johann George Nicolai, Obersteuerkassierer, der beim Bombardement <placeName key="ed_dz5_2kn_4y">Dresdens</placeName> zwei Häuser verloren hat, bittet
+                    Graf Lehndorff um Unterstützung.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

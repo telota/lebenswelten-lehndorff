@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_tsp_2x3_r2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Elisabeth Volkening an ihren Sohn Werner. 25. April 1852</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_tsp_2x3_r2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 52: Kleine
+                            Erinnerungen aus dem Leben der Exzellenz Gräfin Pauline Lehndorff</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Typoskript. „Entnommen aus Briefen von Frau Pastorin Volkening -
+                            Jöllenbeck und deren Tochter, Frau Pastorin Rische - Schwinkendorf,
+                            durch die Tochter der Letzteren, Paula, die ein Patenkind der obigen
+                            Gräfin Lehndorff war.‟ </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_rkf_1vl_gfb">Volkening, Frau (-)</persName>
+                    <placeName key="ed_rwj_svl_gfb">Schwinkendorf</placeName>
+                    <date when="1852-04-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ct4_dvl_gfb">Volkening, Werner (-)</persName>
+                </correspAction>
+                <note>Siehe auch deren Beschreibung <placeName key="ed_yps_bwn_my">Basedows</placeName> vom 10. Juli 1857, ebd.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>25. April 1852</dateline>
+                </opener>
+                <p>Gestern bin ich mit August (Pastor <persName key="ed_bnr_4vl_gfb">Rische</persName> zu <placeName key="ed_rwj_svl_gfb">Schwinkendorf</placeName>, für dessen Kirche Graf <persName key="ed_e2c_dfd_d2b">Hahn</persName>-Basedow der Patron war) nach <placeName key="ed_yps_bwn_my">Basedow</placeName> gefahren. August wollte die
+                    gräflichen Herrschaften bewillkommnen, die von der Reise kamen; die <persName key="ed_cxf_1tc_d2b">Gräfin</persName> ist krank. Ich war bei dem Pastor der
+                    Kirche zu Basedow, <persName key="ed_rry_fwl_gfb">Werner</persName>, der mir
+                    währenddes die schöne Kirche zeigte. Der Weg von Schwinkendorf nach Basedow ist
+                    wunderhübsch, ebenso Schloss, Pfarre und Dorf ganz lieblich.</p>
+                <p>Lieber Werner! Da fährt eben 1 Uhr Mittags Herr Graf Hahn vorbei; das solltest Du
+                    sehen: einen Vorreiter in weißer Livree, vier Pferde, vom Pferd aus gefahren,
+                    Staatsjäger mit Federbusch hinten auf, Stallmeister beim Wagen reitend. Eine
+                    Stunde später fuhr Frau Gräfin vorüber, auch mit Vorreiter in weißer Livree, der
+                    sich immer umsah, weil er nicht weiß, wohin sie fährt. Eine halbe Stunde nachher
+                    reitet die junge Komtess <persName key="ed_wms_mh2_cy">Anna</persName> vorbei,
+                    ebenfalls mit einem Diener hinter sich in weißer Livree, alle mit roten
+                    Aufschlägen.</p>
+                <p>Später. Wir waren wieder in Basedow. Die Herrschaften waren nicht zu Hause, waren
+                    zur Hochzeit ihrer Nichte, einer Schwestertochter des Grafen, welche am 4. Mai
+                    auf <seg type="comment">
+                  <orig>Schloss</orig>
+                  <note xml:id="nzpw_ywl_gfb">
+                     <ref target="https://www.gutshaeuser.de/de/guts_herrenhaeuser/gutshaeuser_g/gutshaus_gross_gievitz">Schloss Groß Gievitz war 1852 im Besitz von <persName key="ed_mpg_tnl_3lb">Felix Graf von
+                            Voss</persName>
+                     </ref>.</note>
+               </seg>
+                    <placeName key="ed_hfm_mwl_gfb">Groß Gievitz</placeName> gehalten ist. Pastor
+                    Werner bot an, mir das sehenswerte <seg type="comment">
+                  <orig>Schloss
+                            Basedow</orig>
+                  <note xml:id="nj3l_t4l_3lb">
+                     <ref target="https://de.wikipedia.org/wiki/Schloss_Basedow">Schloss
+                                Basedow</ref> war seit dem 13. jahrhundert im
+                        Familienbesitz.</note>
+               </seg> zu zeigen. Ich nahm es gern an, hatte meine
+                    Erwartungen hoch gespannt, aber ich muss sagen, die Pracht übertraf dieselben
+                    doch bei weitem. Nein! diese Möbel, die Kronleuchter usw. Kurz, ich kann es Euch
+                    nicht beschreiben, man muss es sehen. Ich habe in den Zimmern nichts
+                    Gewöhnliches gesehen, auch nicht im Kleinsten. Alles war fürstlich. Werner! Ich
+                    war auch im Marstall, habe ein Pferde gesehen, dass 7.000 Taler gekostet hat;
+                    dann die vielen Gewehre im Zimmer des Grafen solltest Du sehen, und viele Bilder
+                    von Pferden und die Gewinnste, welche er beim Wettrennen der Pferde gewonnen
+                    hat. Du würdest Dich wundern, und wenn Du die Reitbahn sähest und die 4 kleinen
+                    Kanonen auf dem Schlosshof; wärst Du doch mal hier und sähest das Gewächshaus
+                    mit dem Springbrunnen, und den Rittersaal im Schloss, wo die eine Wand aus
+                    lauter Gemälden besteht, und die andere aus lauter Fenstern mit Samtvorhängen.
+                    Der ganze Saal soll 40.000 Taler gekostet haben. <persName key="ed_ipz_jyl_gfb">Clara</persName>! (die kleinste Tochter) Ein kleines Eckzimmer ist im
+                    Schloss mit kleinen Möbeln und Sachen, das hat die Gräfin Anna als Kind bewohnt.
+                    Das ist ganz allerliebst. Aber ich kann nicht sagen, wie wehmütig mir ums Herz
+                    war, als ich all die Herrlichkeit sah: Die Gräfin ist so krank, dass sie es gar
+                    nicht genießen kann, denn sie kann nicht mal allein gehen. Wenn man so allen
+                    Jammer auf Erden sieht, man möchte den Kopf in beide Hände nehmen und weinen.
+                    Die Frau Gräfin hat bei allem Glanz doch so viel Leid; möchte sie aufmerken und
+                    erkennen die Zeit dieser Heimsuchung. Ich hätte mögen an jede Wand der schönen
+                    Zimmer schreiben: Herr, gib deinen Frieden!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

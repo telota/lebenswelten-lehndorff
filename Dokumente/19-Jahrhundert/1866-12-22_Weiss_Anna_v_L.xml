@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_vbm_bzy_ny">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Agnes von Weiß an Anna Gräfin von Lehndorff. Königsberg, 22. Dezember 1866</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_vbm_bzy_ny</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kulturbeziehungen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 323, Bl. 3-4v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_erc_wyy_ny">Weiß, Agnes von (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1866-12-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Am 7. April 1867 hatte sie das <ref target="lehndorff_ikq_nvl_gcb">Bischofsbild</ref>
+                    <quote>über Wehlau nach <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                        abgeschickt</quote> und hoffte, dass es unbeschädigt in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ankomme. Für die 50 Rtlr., die sie
+                    für Auslagen erhalten hatte, legte sie Rechenschaft ab. Das Bild wurde auf der
+                        <placeName key="ed_ysw_qr1_dy">Königsberger</placeName> Kunstausstellung
+                    ausgestellt: <quote>Da das Bild aufgespannt nicht die Treppen passieren konnte,
+                        mein Wirt aber nicht die Geländer derselben abnehmen ließ, so wurde mir ein
+                        anderer Tischler vorgeschlagen, der die Bilder auf der Ausstellung einpackt,
+                        dann dasselbe vom Rahmen abnehmen, aufrollen und in den Hallen des
+                        reformierten Kirchhofes, wo es eingepackt wurde, wieder aufspannen
+                        musste.</quote> Durch das Verpacken seien einige Falten entstanden, die der
+                    Tischler der Gräfin sicher beheben könne (Bl. 5-6v). Die Gräfin revanchiert sich
+                    mit <quote>delikater Wurst und Wildbraten</quote>. Ihre Speisekammer sei lange
+                    nicht <quote>mit so schönen Leckerbissen angefüllt gewesen</quote> (Bl. 7-8v,
+                    25. März 1869). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/323/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 22. Dezember 1866</dateline>
+                    <salute>Hochverehrte Frau Gräfin, <lb/>Gnädigste Frau!</salute>
+                </opener>
+                <p>
+               <gap reason="insignificant"/>
+                    <seg type="comment">
+                  <orig>Unser <orgName key="ed_qzw_l1z_ny">Bischofsbild</orgName>, welches ich nach Hochdero Wünschen (im
+                            Hintergrund die Marienburg in altem Stil) entworfen,</orig>
+                        <note xml:id="neq5_mn3_jfb">Der Verbleib ist unbekannt.</note>
+               </seg> rückt
+                    allmählich vorwärts. Ich hoffe, dass es mir gelingen wird, dasselbe bis Anfang
+                    April <gap reason="insignificant"/> fertig zu bekommen. Sehr angenehm würde es
+                    mir sein, wenn ich das Glück hätte, Frau Gräfin im Laufe des Winters hier
+                    begrüßen und das Bild noch vor seiner gänzlichen Vollendung zeigen zu können, um
+                    noch etwaige Abänderungen an demselben zu machen. </p>
+                <p>Als ich die <seg type="comment">
+                  <orig>Kiste</orig>
+                  <note xml:id="nxsq_j4w_1bb">Anna hatte ihr um den 14. Dezember eine Gans geschickt (Bl.
+                            1-2).</note>
+               </seg> von Frau Gräfin empfing, war ich eben im Begriff,
+                    beifolgende Landschaft (Golf von Neapel), welche ich voriges Frühjahr gemacht,
+                    einzupacken, um sie an Hochdieselben mit der Bitte zu übersenden, diese kleine
+                    Weihnachtsgabe gütigst von mir annehmen zu wollen. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

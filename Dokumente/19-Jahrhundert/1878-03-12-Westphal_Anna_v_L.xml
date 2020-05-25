@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xf5_1kn_jdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gustav Peter Westphal an Anna Gräfin von Lehndorff. Drengfurth, 12. März
+                    1878</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xf5_1kn_jdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 521, Bl. 94-94v</idno>
+                    </msIdentifier>
+                     
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ojh_v2m_gbb">Westphal, Gustav Peter (-)</persName>
+                    <placeName key="ed_h35_jqh_my">Drengfurth</placeName>
+                    <date when="1878-03-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/521/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Drengfurth, den 12. März 1878</dateline>
+					          <salute>Hochverehrte Frau Gräfin!</salute>
+                </opener>
+				        <p>Die Kisten, worin die Gewinne ankamen, konnten nicht gleich wieder mit der Fähre
+                    zurückgeschickt werden. Dieselbe kam spät an und das Auspacken erforderte Zeit,
+                    konnte auch im Augenblick nicht vorgenommen werden. Ich werde sie durch
+                    Hegemeister <persName key="ed_hkh_3pg_my">Walter</persName> zurückbefördern.</p>
+                <p>Da in diesem Jahr überall große Not und Klage ist, glaubte ich, die Lose schwer
+                    los zu werden. Dem ist aber nicht so, sie sind bereits alle verkauft und wir
+                    werden noch einige darüber hinaus absetzen. Die Gewinne sind nunmehr ausgestellt
+                    und die Ausstellung wird vielfach besucht - sie macht auch einen schönen
+                    Eindruck um der vielen prächtigen Sachen willen. In nächster Woche findet die
+                    Verlosung unter Mitwirkung des Hegemeisters und des Herrn <unclear reason="illegible" cert="low">Schinck</unclear> statt. Ersterer hat den Tag
+                    zu bestimmen. </p>
+                <p>Das eingekommene Geld werde ich am Schluss des Verkaufs und am besten wohl durch
+                    den Herrn Hegemeister Ihnen, hochverehrte Frau Gräfin,zustellen. </p>
+                <p>Im <seg type="comment">
+                  <orig>Häuschen</orig>
+                  <note xml:id="nabp_5bx_f2b">Gemeint
+                            ist das <orgName key="ed_smh_zgj_ycb">Waisenhaus</orgName>
+                            Drengfurth.</note>
+               </seg> geht alles ganz schön. Das macht die
+                    ausgezeichnete Frau <persName key="ed_a3z_rbx_f2b">Lamprecht</persName>. Auch
+                    ihre ganze Erziehungsmethode ist vortrefflich, weil christlich. Ein Kind macht
+                    durch seine Unordentlichkeit und Lügenhaftigkeit ihr manche Sorge - natürlich,
+                    Engel haben wir nicht hineingenommen, sondern sündige und vernachlässigte
+                    Kinder, die der Erziehung mehr bedürfen als andere. Aber Frau Lamprecht ist
+                    darin geschickt und weise, sie kann durch ihre Vorstellungen in Liebe sehr aufs
+                    Gemüt wirken und freut sich selbst wie ein Kind, wenn es ihr gelingt. Der Stock
+                    ist nicht ihre Waffe, nur ich und Herr Schinck, wenn wir hinkommen, drohen
+                    manchmal mit diesem Instrument, denn neben aller Liebe muss bei der Erziehung
+                    von Kindern auch immer etwas Furcht mithelfen.</p>
+                <p>Bei dieser knappen Zeit hat der Ortsvorstand in der Vorstadt bei uns angetragen,
+                    das Pflegegeld von 1 1/2 Rtlr. auf 1 Rtlr. pro Monat herabzusetzen, da ein Kind,
+                    das aus der Vorstadt aufgenommen ist, für diesen geringen Preis überall
+                    untergebracht werden könne. Wir haben nachgegeben, es ging nicht anders.</p>
+                <p>Herr <persName key="ed_mqn_1cx_f2b">Siegfried</persName> auf <placeName key="ed_wrc_ccx_f2b">Jäglack</placeName> hat uns gestern 20 Mark Geschenk
+                    fürs Waisenhaus zugehen lassen. Es sind Baugelder, die er als Schiedsrichter
+                    eingezogen. Ich habe den Betrag an Herrn Schinck abgegeben, der noch zu bauen
+                    hat. - Nachdem ich die Kaufangelegenheit ganz zu Ende gebracht und vollkommen
+                    reine Hypothek erzielt habe, nehme ich kein Geld mehr an mich, das gibt in der
+                    Kassenführung nur Verwirrung. Von jeder Einnahme wird Ihnen, Hochverehrte Frau
+                    Gräfin, Nachricht gegeben werden.</p>
+                <p>Die Freude des Herrn sei mit Ihnen!</p>
+				        <closer>
+					          <salute>Mit inniger Verehrung Ihr ganz gehorsamster</salute>
+					          <signed>Westphal Pfr.</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

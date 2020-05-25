@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_yyp_n4n_cbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kaiser Wilhelm I. an Anna Gräfin von Lehndorff. Berlin, 4. November 1883</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_yyp_n4n_cbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 221: Gedächtnis-Reden, Nachrufe und
+                            Lebenslauf weiland des Reichsgrafen Carl Meinhard Lehndorff,
+                            Majoratsherrn auf Steinort, Legationsrat a. D., Major a. D., Mitglied
+                            des Herrenhauses geb. 20. Oktober 1826, gest. 28. Oktober 1883.</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Telegramm</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_lwx_y32_cy">Preußen, Wilhelm I. König von, deutscher Kaiser
+                        (1797-1888)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1883-11-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 4. November 1883 <lb/>10 Uhr 5 Min. Vorm.</dateline>
+					          <salute>Der Gräfin Lehndorff geb. Gräfin Hahn in Steinort, Ostpreußen</salute>
+                </opener>
+                <p>Bei der wehmütigen Teilnahme, die Sie von Mir versichert sein können, wollte Ich
+                    die Unruhe, die der ersten Zeit Ihres gerechten Schmerzes folgte, erst
+                    vorübergehen lassen, ehe ich zu diesen Zeilen schreite! Die Vorsehung hat
+                    Schweres über Sie und die Ihrigen verhängt, aber Sie kennen auch die Wege, die
+                    zur Ergebung in den Willen Gottes führen, wenn auch die Trauer eine noch so
+                    gerechte ist! Mögen Sie und die Ihrigen diese Wege wandern, das ist der einzige
+                    Trost, den Ich aussprechen kann. Wie dankbar Ich das Andenken an den zu früh
+                    abberufenen bewahren werde, brauche Ich nicht erst zu versichern, wo Meine
+                    innigste Dankbarkeit Sie alle trifft. </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

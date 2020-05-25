@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_njn_m3g_cdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Köln, 18. Mai 1819</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_njn_m3g_cdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 630-632</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_hkz_d1b_1bb">Köln</placeName>
+                    <date when="1819-05-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (Hirschberg 9.4.1751-Königsberg, Roßgärter Markt
+                        12.11.1830)</persName>
+                </correspAction>
+                <note>Zu den Verhältnissen in <placeName key="ed_hkz_d1b_1bb">Köln</placeName> siehe
+                    den Brief an <persName key="ed_yx5_cbg_nbb">Berent</persName> vom 20. Mai 1819,
+                    ebd., S. 632. Die schlechten Ställe und Erkrankungen der Pferde hatten <persName key="ed_k4z_jgl_2y">Lehndorff</persName> einen erheblichen Verlust gebracht.
+                    - Anfang Juni 1819 kam er mit halbem Gehalt zu einem Urlaub nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> (der am 19. Oktober 1819 um drei
+                    Monate ohne Bezüge verlängert wurde), um den 25. reiste er über Schlesien und
+                    Posen nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Von dort aus
+                    besuchte er die <persName key="ed_gnc_c1m_2y">Mutter</persName>, die sich in
+                        <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> aufhielt, traf
+                    sich in <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName> mit <persName key="ed_fk5_ffp_1fb">Graf Hermann Schwerin</persName>, Ehemann von <persName key="ed_rkb_sfp_1fb">Rosalie Gräfin von Dönhoff</persName>, und besuchte den
+                    Bruder <persName key="ed_pv1_b4g_hy">Heinrich</persName> in <placeName key="ed_hts_ttp_vcb">Warglitten</placeName>, vgl. die Briefe an die Herzogin
+                    von Holstein-Beck, ebd. S. 633 ff. - Aufgrund einer Erkrankung war Lehndorff
+                    erst Anfang Januar 1820 wieder in Köln. <ref target="lehndorff_fzb_d2k_dbb">Am
+                        3. April 1820</ref> wurde er durch <persName key="ed_tl1_nbf_4y">Friedrich
+                        Wilhelm III.</persName> zum Generalmajor ernannt, die Kabinettsordre ebd.,
+                    S. 637.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Köln, den 18. Mai 1819</dateline>
+					          <salute>Meine teure, geliebte Mutter!</salute>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/>
+            </p>
+                <p>Seit einem Jahr habe ich den Fuß im Bügel zur Reise nach dem guten Vaterlande,
+                    ein Zeitraum zum anderen brachte Hindernisse diesem Plane, oft wohl besiegbare.
+                    Aber so sehr auch der Wunsch Sie zu umarmen, alle, die mir teuer sind,
+                    wiederzusehen, mich nach den heimischen Fluren zog, so graute es mich zugleich
+                    für alle die mancherlei Unannehmlichkeiten und Mühseligkeiten, die mich im
+                    Gefolge des unseligen <seg type="comment">
+                  <orig>Orkans</orig>
+                  <note xml:id="nc3g_3gp_1fb">Vgl. den Brief vom <ref target="lehndorff_xph_1gg_cdb">24. März 1818</ref>.</note>
+               </seg> des
+                    vorigen Jahres, <seg type="comment">
+                  <orig>der Auseinandersetzung mit den
+                            Einsassen auf den Steinortschen Gütern</orig>
+                  <note xml:id="nd3k_3ws_s2b">Vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 608:
+                            Rechtsstreit vor dem Patrimonialgericht in Groß-Steinort zwischen der
+                            Gutsherrschaft und 11 Bauern um die Verwirklichung des
+                            Regulierungsediktes vom 11. September 1811 und der Deklaration vom 29.
+                            Mai 1816 (1817/18).</note>
+               </seg> und tausend anderer Unheil bringender
+                    Ereignisse dort erwarteten. <gap reason="insignificant"/> Nun kann ich Ihnen mit
+                    Gewissheit sagen, dass ich diesen Sommer und wohl schon im Monat Juli bei Ihnen
+                    sein werde. Der Himmel wolle mich stärken, dass ich all die namenlosen
+                    Widerwärtigkeiten meiner ländlich ökonomischen Verhältnisse mit Mut und Einsicht
+                    beseitigen möge. Bisher kann ich beteuern, dass ich von meinem mir sonst so
+                    teuren väterlichen Erbe weder einen frohen Augenblick noch einen wirklichen
+                    Genuss gehabt habe, und ohne meinen auch eben nicht mit großen Freuden umgebenen
+                    Posten würde ich tiefer stehen, als irgend einer meinen bankrotten Landsleute,
+                    die mit Hintansetzung ihrer Verpflichtungen leben wie die Lilien auf dem Felde
+                        <seg type="comment">
+                  <orig>et du jour au lendemain</orig>
+                  <note xml:id="nkgy_xgp_1fb">von einem Tag zum anderen</note>
+               </seg>.</p>
+                <p>
+               <note type="editorial">Im Folgenden schreibt er über das vergangene Jahr, die
+                            <seg type="comment">
+                     <orig>Reise in die <placeName key="ed_opm_vwd_b2b">Schweiz</placeName> im Spätherbst 1817</orig>
+                     <note xml:id="nyqt_fhp_1fb">Vgl. den Brief vom <ref target="lehndorff_igf_n1g_cdb">25. Oktober
+                            1817</ref>
+                     </note>
+                  </seg>, <seg type="comment">
+                     <orig>den Aufenthalt in
+                                    <placeName key="ed_uyx_nvn_my">Paris</placeName>
+                     </orig>
+                     <note xml:id="neh2_nv5_s2b">Vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                                Lehndorff-Steinort, Nr. 924.</note>
+                  </seg>, einen Badeaufenthalt in
+                            <placeName key="ed_ovy_w1b_tcb">Pyrmont</placeName>, die Revue der
+                        Okkupationstruppen, seine Rückkehr nach Paris, dem <quote>Tummelplatz der
+                            Welt</quote>, und die Verlegung nach <placeName key="ed_hkz_d1b_1bb">Köln</placeName>, wo er sich seit Mitte Dezember befinde. </note>
+            </p>
+                <p>
+               <gap reason="insignificant"/> und so schön auch die Rheingegenden sind, hat das
+                    hiesige Dienstverhältnis, die Stadt selbst, die erstaunende Versplitterung
+                    meiner Truppenabteilungen und manche andere Erwägungen viel Widerwärtige, und
+                    ich gestehe offenherzig, dass das Prestige des Deutschtums hier keinen Ersatz
+                    gewährt für den Verlust des ungleich günstigeren Standpunktes in <placeName key="ed_ust_ky4_dz">Frankreich</placeName>. <gap reason="insignificant"/>
+            </p>
+                <p>
+               <note type="editorial">Ohne die Folgen des Orkans hätte er seinen Entschluss, das
+                        Militär zu verlassen, wohl schon in Frankreich in die Tat
+                    umgesetzt.</note>
+            </p>
+				        <closer>
+					          <salute>Bald küsst Ihnen die Hand Ihr treu liebender Sohn</salute>
+					          <signed>Carl</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_zls_t4c_pdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Magdeburg, 7.
+                    Februar bis 6. März 1759</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_zls_t4c_pdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">Bis zum Sommer verlief das Hofleben in ruhigen Bahnen. Dann
+                    trafen beunruhigenden Nachrichten über den Kriegsverlauf ein. Am 13. August
+                    verließ der Hof <placeName key="ed_xrv_gwb_by">Berlin</placeName>. <quote>Das
+                        Volk ist empört und ruft uns Schimpfworte nach, aber unsere Bestürzung und
+                        besonders die Angst um den König machen uns gegen dergleichen
+                        unempfindlich</quote>. Am 15. August traf der Tross in <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> ein, erst am 26. November kehrte
+                    der Hof nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> zurück.
+                        <quote>Die meisten verlassen <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> mit Bedauern, indem sie voraussehen, dass der
+                        Aufenthalt in der Hauptstadt nicht von Dauer und eine Übersiedelung hierher
+                        während des Krieges noch öfter nötig sein wird. Was uns aber besonders
+                        Berlin verleidet, das ist der Holzmangel und eine unglaubliche
+                        Teuerung.</quote> Bei der Ankunft fährt man durch Berlin, <quote>ohne eine
+                        Spur von der Freude zu bemerken, wie sie sich vor zwei Jahren bei unserer
+                        Rückkehr kund tat. Am Schloss endlich erwartet der ganze Adel die <persName key="ed_bwq_lzl_2y">Königin</persName>, aber mit höchst bestürzten
+                        Gesichtern.</quote> - Durch <persName key="ed_yg5_szx_bz">Markgraf
+                        Heinrich</persName> erfährt er von dem großen Verlust der preußischen Armee.
+                    Er begibt sich zu seiner Schwester <persName key="ed_osg_km4_hz">Ysenburg</persName>, wo er auch seine <persName key="ed_q4s_xyl_2y">Mutter</persName> findet. Graf <persName key="ed_ef1_gm4_hz">Ysenburg</persName> war nur durch eine Erkrankung der Gefangenschaft
+                    entgangen, vgl. ebd., S. 443 ff. und das Jahr zusammenfassend Schmidt-Lötzen,
+                    Nachträge, Bd. 1, S. 221.</note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Giebel, Wieland (Hrsg.), Die Tagebücher des Grafen
+                            Lehndorff. Die geheimen Aufzeichnungen des Kammerherrn der Königin
+                            Elisabeth Christine, Berlin 2007, S. 438</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>
+                    <date from="1759-02-07" to="1759-03-06" cert="high"/>
+                
+               
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+           
+                
+                <p>
+            <hi rendition="#u">Februar</hi>. Am 7. Februar verheirate ich mich, nachdem ich
+                    am 27. Januar nach <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>
+                    abgereist war. Das Hochzeitsfest ist herrlich, meine <persName key="ed_v52_qng_vz">Braut</persName> prächtig geschmückt, aber meine
+                    Schwiegermutter, Frau v. <persName key="ed_f3s_h4g_vz">Haeseler</persName>, ist
+                    widerwärtig.</p>
+                <p>
+            <hi rendition="#u">März</hi>. Ich verbringe vier schreckliche Wochen in
+                    <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>. Meine Schwiegermutter gibt
+                kein Taschentuch heraus, ohne dafür eine Quittung mit meiner und meiner Frau
+                Unterschrift zu fordern. Sie gibt uns höflich zu verstehen, dass sie uns noch nicht
+                zu beerben hoffe und darum zu solchen Vorsichtsmaßnahmen genötigt sei. Im übrigen
+                bringt sie mich zur Verzweiflung, indem sie mir immer alten Rheinwein und Fasanen
+                vorsetzt. Dieser Fraß ist mir auf die Dauer zuwider; ein Stück Rindfleisch möchte
+                ich haben wollen, um meinen Appetit wiederzubekommen. Ihre Unterhaltung ist noch
+                unangenehmer. Nachdem sie uns mit der albernen <seg type="comment">
+               <orig>Liebelei
+                        mit ihrem seligen <persName key="ed_vtd_1ms_52b">Gemahl</persName>, der ein
+                        tüchtiger Mann gewesen sein muss,</orig>
+               <note xml:id="nb1r_sdr_rdb">Gottlieb
+                        Haeseler, seit 1733 von Haeseler, war ein deutscher Unternehmer und
+                        preußischer Regierungs- und Geheimer Rat im Herzogtum Magdeburg. Er war das
+                        10. Kind des berühmten Magdeburger Großkaufmanns und Handelsherren <persName key="ed_gcl_sql_hkb">Valentin Haeseler</persName>. </note>
+            </seg>
+                gelangweilt hat, nachdem sie ausführlich das Thema des Geldausleihens und den
+                Vorteil des Agios behandelt hat, fängt sie wieder von vorn an, und so alle Tage. Als
+                echte <seg type="comment">
+               <orig>Kaufmannstochter</orig>
+               <note xml:id="nefg_gms_52b">
+                        Sie war die Tochter von Johann Friedrich Haeseler, Kauf- und Handelsmann in
+                        Braunschweig.</note>
+            </seg> sagt sie feierlich: „Dieses kostet tausende
+                Taler‟, tituliert ihr Haus „mein Schloss‟ und zeigt alle Untugenden der
+                Geldprotze.</p>
+                <p>Ich begebe mich zu meiner Frau nach <placeName key="ed_rzw_wdr_rdb">Wolmirstedt</placeName>, um meine Verwandten zu besuchen, die das Elend aus
+                meiner Heimat vertrieben hat. Es sind dies der Obermarschall <persName key="ed_zgs_wsq_rdb">Wallenrodt</persName> und der Kanzler <persName key="ed_zln_4rd_py">Tettau</persName> mit seiner Frau, einer geborenen <persName key="ed_eb5_dg3_tdb">Gräfin Dönhoff</persName>, meiner rechten Cousine.<seg type="comment">
+               <orig> Trotz allen Ärgers, den mir dieses Haus bereitet hat, bin
+                        ich doch erfreut, meine Cousine zu sehen. </orig>
+               <note xml:id="nsyc_mhq_pdb">Maria Eleonora Gräfin von <persName key="ed_d3h_sy4_mbb">Lehndorff</persName>, geb. Gräfin von Dönhoff, dritte Ehefrau des
+                        vorverstorbenen Gerhard Ahasverus Graf von <persName key="ed_zyw_ncf_2y">Lehndorff</persName>, war am 12. April 1723 in Steinort verstorben.
+                        Nach dem Tod ihres Sohnes Gerhard Ernst, Amtshauptmann zu Lötzen, 1741 kam
+                        es zu einem langwierigen Erbstreit zwischen dessen Schwägerin Luise Marie
+                        von <persName key="ed_q4s_xyl_2y">Lehndorff</persName>, geb. von Wallenrodt
+                        als Vormund ihrer Kinder und dem Tribunalsrat <persName key="ed_pg5_z2h_tdb">Christoff Boltz</persName> als Kurator des noch unmündigen Grafen
+                        Gerhard Stanislaus von <persName key="ed_mbr_lzz_scb">Dönhoff</persName>,
+                        Sohn von Sophie Charlotte Gräfin Dönhoff, geb. Gräfin Lehndorff. Eine
+                        Einigung kam nicht zustande, der Streit wurde vor dem
+                        Oberappellationsgericht ausgetragen. Letztendlich anerkannte das Hofgericht
+                        das Testament als gültig und entschied zugunsten Dönhoffs, vgl. GStA PK, XX.
+                        HA, EM, Tit. 61 f, Nr. 280 und 281 (Abschrift des Testaments Bl. 78-91v)
+                        sowie GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 3
+                        (Vermögensangelegenheiten Maria Eleonora von Lehndorff, geb. von Dönhoff,
+                        Nr. 5 (deren Mitgift), Nr. 22 (Rechtsstreit). </note>
+            </seg>Man empfängt
+                meine Frau sehr liebenswürdig, und ich sehe mit Befriedigung, dass sie sich viel
+                besser in meiner als in ihrer Familie gefällt.</p>
+                <p>Ich mache die Bekanntschaft des berühmten Marschall <persName key="ed_wrq_c2r_rdb">Seckendorff</persName>, den der <persName key="ed_x2r_52f_cy">König</persName> auf seinem Landsitz <placeName key="ed_g4n_f2r_rdb">Meuselwitz</placeName> hat verhaften und nach
+                        <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> bringen lassen. <gap reason="insignificant"/>
+         </p>
+                <p>
+            <seg type="comment">
+               <orig>Am 6. März reise ich von <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> ab</orig>
+               <note xml:id="nk3v_1yd_pdb">Lehndorff
+                        und seine Ehefrau wurden von Frau v. <persName key="ed_f3s_h4g_vz">Haeseler</persName> begleitet, vgl. Schmidt-Lötzen, Nachträge, Bd. 1,
+                        S. 190. In <placeName key="ed_glz_32r_rdb">Altenplatow</placeName> hatte
+                            <quote>Kriegsrat <persName key="ed_rj3_k2r_rdb">Honig</persName>
+                  </quote>
+                        den ganzen Adel der Umgegend eingeladen. <quote>Man sieht bei dieser
+                            Gelegenheit die Provinzialherrlichkeit in ihren zwanzig Jahre alten
+                            vermoderten Hochzeitskleidern glänzen.</quote>
+               </note>
+            </seg> und treffe
+                am Abend des 9. in meiner Berliner Wohnung ein. <seg type="comment">
+               <orig>In den
+                        nächsten Tagen führe ich meine Frau in die Gesellschaften und ich sehe zu
+                        meiner Freude, dass sie Beifall findet. Meine <persName key="ed_q4s_xyl_2y">Mutter</persName> spielt allerdings die Stolze, indem sie auf ihre
+                        sechzehn Ahnen pocht. Alle Höfe empfangen meine Frau aufs beste, besonders
+                        gnädig ist die Frau <persName key="ed_x11_dgn_fz">Prinzessin</persName>.</orig>
+               <note xml:id="nob4_xyd_pdb">Vgl. die
+                        ausführliche Fassung des Tagebucheintrags ebd., S. 192. Die Mutter hatte
+                        eine Verbindung mit der Gräfin von <persName key="ed_v25_yk3_vkb">Hacke</persName> favorisiert, die seit wenigen Tagen mit Herrn von
+                            <persName key="ed_psw_dkd_5db">Eickstedt</persName> verheiratet ist.
+                        Erst im April legt sich das <quote>stolze und hochfahrende Wesen</quote> der
+                        Mutter gegenüber der jungen Ehefrau, nach dem ihr <quote>viele angesehene
+                            Personen</quote> ihre Meinung gesagt hatten. - Am 14. Juli feierte man
+                        gemeinsam den Geburtstag der Ehefrau, die von der Mutter <quote>sehr hübsche
+                            Geschenke</quote> erhält, ebd., S. 214 f. </note>
+            </seg>
+         </p>
+				
+            
+        </body>
+    </text>
+</TEI>

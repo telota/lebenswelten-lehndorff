@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_irs_yxb_31b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Albert Gruve an die Landesregierung Sachsen, Ministerium für
+                    Volksbildung, Abt. Kunst und Literatur. Dresden, 17. Juni 1947</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_irs_yxb_31b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>HStA Dresden</institution>
+                        <idno>Bestand 11402, Nr. 58, Bl. 2, Anlage Bl. 3</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_v1d_fyk_gbb">Gruve, Karl Albert (-)</persName>
+                    <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+                    <date when="1947-06-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_qlh_nvk_gbb">Landesregierung Sachsen</orgName>
+                </correspAction>
+                <note>Die <quote>Kisten Lehndorff</quote> waren in <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> zwischen dem 29. März und 8. Mai 1945 auf den
+                    Burgturm gebracht worden. - Im August/September 1945 sowie am 4. Dezember 1945
+                    wurde die Burg kontrolliert. Am 28. und 31. Mai 1946 war das hier eingelagerte
+                        <orgName key="ed_a3z_hzt_sdb">Dresdener Museumsgut</orgName> durch Amtmann
+                        <persName key="ed_v1d_fyk_gbb">Gruve</persName> in Anwesenheit des
+                    Beauftragten des russischen Kommandanten von Waldheim <persName key="ed_if3_1jv_12b">Panin</persName> und des Burgverwalters <persName key="ed_rth_b5t_sdb">Kuntz</persName> abgeholt worden, vgl. HStA Dresden,
+                    Bestand 11401, Nr. 2420, Bl. (Durchschlag der Liste über das rückzuführende
+                    staatliche Museumsgut für ORRat Dr. <persName key="ed_dyf_41v_12b">Kretzschmar</persName>). Dabei sollten die von Landesmuseumspfleger
+                        <persName key="ed_zc1_nyk_gbb">Hentschel</persName> zurückgestellten
+                    Gegenstände mitgenommen werden, was nicht geschah, vgl. BStU, MfS, AB Neiber,
+                    Nr. 786, Bl. 48 und HStA Dresden, Bestand 2426, Nr. 234, n. f. (Hentschel an den
+                    Beauftragten der Landesverwaltung Sachsen für die Sicherstellung und Verwertung
+                    des nichtlandwirtschaftlichen Inventars der durch die Bodenreform enteigneten
+                    Herrenhäuser, 11. April 1947).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Dresden, 17. Juni 1947</dateline>
+                </opener>
+                <p>Betr. Übernahme des Schlosses <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName>
+                </p>
+            <p>Anordnungsgemäß begab ich mich am 4. Juni d. Js. nach <placeName key="ed_x5f_r5t_sdb">Döbeln</placeName>, um mit dem dortigen <orgName key="ed_lfn_4yk_gbb">Landrat</orgName> wegen <seg type="comment">
+                  <orig>Übernahme der Burg
+                                <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> in die
+                            Verwaltung der <orgName key="ed_pgh_sxk_gbb">Staatlichen Schlösser und
+                                Gärten</orgName> zu verhandeln.</orig>
+                        <note xml:id="njrt_mwt_sdb">
+                     <persName key="ed_v1d_fyk_gbb">Gruve</persName>
+                            war Regierungsamtmann in der Verwaltung der Staatlichen Schlösser und
+                            Gärten Sachsen.</note>
+               </seg> Herr Landrat <persName key="ed_wmz_ng5_sdb">Krenkel</persName>, den ich persönlich antreffen konnte, erklärte mir, dass
+                    er meinem Wunsch, die Burg <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> mir zu übergeben, nicht stattgeben könne, da die
+                        <orgName key="ed_qlh_nvk_gbb">Landesregierung Sachsen</orgName>, Ministerium
+                    für Land- und Forstwirtschaft, Abt. Bodenordnung, Bodenkultur und
+                    Wasserwirtschaft bereits seit längerer Zeit die <seg type="comment">
+                  <orig>Übereignung der Burg Kriebstein in den Landkreis
+                            Döbeln</orig>
+                  <note xml:id="nn2j_h45_sdb"> 1949 wurden 16 Räume der Burg
+                                <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> als
+                            Heimatmuseum wiedereröffnet. Mit der Verwaltung wurde der 32-jährige
+                            Neubauer Walfried <persName key="ed_rth_b5t_sdb">Kunz</persName>
+                            beauftragt, vgl. HStA Dresden, Bestand 11401, Nr. 2415, Bl. 120 ff. und
+                            Bestand 11402, Nr. 59, Bl. 25 (Inspektionsbericht, 28. März
+                            1952).</note>
+               </seg> zugesichert habe. <gap reason="insignificant"/> Bei
+                    dieser Sachlage habe ich mich darauf beschränkt, gemeinsam mit Herrn Dr.
+                        <persName key="ed_zc1_nyk_gbb">Hentschel</persName> der Burg Kriebstein am
+                    darauffolgenden Tage einen Besuch abzustatten. <gap reason="insignificant"/>
+            </p>
+				        <closer>
+                    <signed>gez. <persName key="ed_v1d_fyk_gbb">Gruve</persName>
+               </signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>
+               <hi rendition="#u">Anlage</hi>
+            </p>
+                <p>
+               <seg type="comment">Am 4. Juni 1947 habe ich gelegentlich meiner Anwesenheit beim
+                            <orgName key="ed_lfn_4yk_gbb">Landrat zu Döbeln</orgName> auf Ersuchen
+                        des Herrn Dr. <persName key="ed_zc1_nyk_gbb">Hentschel</persName> – Abt.
+                        Landesmuseumspflege – die von diesem vor längerer Zeit in der Burg
+                            <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> für die <orgName key="ed_a3z_hzt_sdb">Staatlichen Museen </orgName> sichergestellten und
+                        von der Ordnungspolizei Waldheim nach <placeName key="ed_x5f_r5t_sdb">Döbeln</placeName> verbrachten, <seg type="comment">
+                     <orig>nachstehend
+                                im einzelnen aufgeführten Gegenstände beim Landratsamt Döbeln
+                                abgeholt und nach Dresden (<orgName key="ed_pzg_x25_sdb">Albertinum</orgName>) überführt: </orig>
+                     <note xml:id="ny21_ntp_1gb">Vgl. Heck, Kilian, Vom Barockschloss zur
+                                Ordensburg. Geschichte und Kunstgeschichte von Schloss Steinort in
+                                Masuren, in: Vollmer, Antje, Doppelleben: Heinrich und Gottliebe von
+                                Lehndorff im Widerstand gegen Hitler und von Ribbentrop, Frankfurt
+                                am Main 2010, S. 375-400. </note>
+                  </seg>
+               </seg>
+               <list>
+                        <item>1. 1 Ölgemälde: Bildnis des Rittmeisters Graf Schmettau, gemalt von
+                            Antoine <persName key="ed_kzn_xw2_2z">Pesne</persName>, 78:63 cm, in
+                            geschnitztem schwarzen Holzrahmen</item>
+                        <item>2. 1 Ölgemälde: Porträt Gräfin von Schwerin geb. Baronesse von Heiden,
+                            gemalt von <persName key="ed_kzn_xw2_2z">Pesne</persName> 79,5:65 cm, in
+                            schwarzem Holzrahmen</item>
+                        <item>3. 1 Ölgemälde: Porträt Maria von Haeseler, erste Gemahlin des Grafen
+                            von Lehndorff, gest. 1766 in Coblentz beym Rhein, begraben in Neuwieth,
+                            gemalt von <persName key="ed_bn1_fnv_pkb">R. de Gasc geborene
+                                Lisiewska</persName> 1761 90,5:76 cm, ohne Rahmen</item>
+                        <item>4. 1 Ölgemälde Selbstmord der Kleopatra (?), unbekannter Maler 67,5:58
+                            cm, ohne Rahmen</item>
+                        <item>5. 1 Ölgemälde: <seg type="comment">
+                        <orig>Familienbild Graf Ahasverus
+                                    von Lehndorff, gemalt von Maler <persName key="ed_cpg_3vz_g1b">Tischbein</persName>
+                        </orig>
+                        <note xml:id="ntht_1pn_xdb">Auf
+                                    dieses Bild hatte Landesmuseumspfleger <persName key="ed_zc1_nyk_gbb">Hentschel</persName> bereits am 14.
+                                    Januar 1946 ein Auge geworfen. Er habe einige Schlösser besucht
+                                    und eine Liste mit Gemälden zusammengestellt, die für die
+                                    Gemäldegalerie geeignet seien; ggf. könne man sie auch im
+                                    Historischen Museum oder in einer Schlossausstellung zeigen, wie
+                                        <persName key="ed_cpg_3vz_g1b">Tischbeins</persName>
+                                    Familienbildnis, vgl. HStA Dresden, Bestand 11401, Nr. 2422, Bl.
+                                    65. </note>
+                     </seg> aus Kassel, 103:130 cm, Goldrahmen</item>
+                        <item>6. 1 Ölgemälde: Porträt Wilhelm August Prinz von Holstein-Gottorp
+                            (Dezember 1756), unbekannter Maler, 76,5:65,5 cm, in schwarzem
+                            Holzrahmen</item>
+                        <item>7. <seg type="comment">
+                        <orig>1 Pastell Friedrich Ludwig Karl Graf
+                                    Lehndorff geb. 17.9.1770, verst. 7.2.1854, als Lieutenant im
+                                    damaligen 1. Bat. kgl. Leibgarde, gezeichnet im Jahre 1796 von
+                                        <persName key="ed_jdh_wmv_pkb">Chodowiecki</persName>,
+                                    25:31cm, ohne Rahmen</orig>
+                        <note xml:id="nuxr_glf_zdb">Vgl.
+                                    Ziebura, Tagebücher 1799, S. 185.</note>
+                     </seg>
+                  </item>
+                        <item>8. 16 Bände „Die ländlichen Wohnsitze, Schlösser und Residenzen der
+                            ritterschaftlichen Grundbesitzer in der preußischen Monarchie“, Band
+                            1-16 </item>
+                        <item>9. 27 Bände „Großes Universallexikon aller Wissenschaften und Künste,
+                            welche bishero durch menschlichen Verstand und Witz erfunden worden“,
+                            Halle und Leipzig Verlag Johann Heinrich Zedler 1739 Bd. 1/2, 5/6, 7/8,
+                            11/12, 13/14, 15/16, 17/18, 19/20, 23/24, 27/28, 29/30, 31/32, 33/34,
+                            37/38, 39/49, 41/42, 43/44, 45/46, 49/50, 51/52, 55/56, 57/58, 59/60,
+                            61, 62, 63, 64 </item>
+                        <item>10. 1 Band Basilii Fabri Thesaurus, Eruditionis Scholasticae (Lipsiae
+                            Apud Thomas Fritsch, Anno MDCCA)</item>
+                        <item>11. <ref target="lehndorff_rjy_vwq_3bb">16 seidene Kostümteile
+                                (historisch)</ref>
+                        </item>
+                    </list>
+            </p>
+            <p>Bei den vorstehend aufgeführten Gegenständen handelt es sich nicht um
+                    gesichertes Kunst- und Kulturgut auf Grund der Anordnung der Landesregierung
+                    Sachsen vom 17. Mai 1946 über die Sicherung von nicht-landwirtschaftlichem
+                    Inventar der durch die Bodenreform enteigneten Herrenhäuser. </p>
+            <p>Nachrichtlich
+                    <lb/>gez. Gruve </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

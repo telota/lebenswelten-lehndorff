@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mdx_dk2_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz August Wilhelm von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Dresden, 11. Dezember 1756</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mdx_dk2_2z</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Volz, Gustav Berthold, Aus dem Briefwechsel des
+                            Prinzen von Preußen August Wilhelm mit dem Kammerherrn Graf Ernst
+                            Ahasverus Lehndorff, in: Masovia 9 (1903), S. 130-171, hier S. 133
+                            f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q12_pqy_bz">Preußen, August Wilhelm Prinz von (-)</persName>
+                    <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+                    <date when="1756-12-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Nach seiner Zeit in Berlin nahm Lehndorff die ihm sehr wichtigen Briefe mit
+                    nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Die in französischer
+                    Sprache geschriebenen Briefe sind nicht überliefert. - Am 29. August 1756 hatten
+                    die preußischen Truppen die sächsische Grenze überschritten, die Schlacht bei
+                    Pirna dauerte bis zum 13. Oktober 1756. Sachsen schied aus dem <rs type="term" key="ed_t5d_tm4_dz">Siebenjährigen Krieg</rs> aus, der Kurfürst begab sich
+                    auf die Festung Königstein. Am Ende des Monats bezogen die preußischen Truppen
+                    ihr Winterquartier in <placeName key="ed_dz5_2kn_4y">Dresden</placeName>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Dresden, 11. Dezember 1756</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Wir leben sehr unter uns; einen Tag soupiert man
+                    bei mir, einen anderen bei <persName key="ed_mn5_svg_hy">Ferdinand</persName>
+                    und einen dritten bei dem Prinzen <persName key="ed_etz_pl2_2z">Ferdinand von
+                        Braunschweig.</persName>
+                    <seg type="comment">
+                  <orig>
+                     <persName key="ed_nvx_wcz_bz">Heinrich</persName>
+                  </orig>
+                  <note xml:id="nqhd_xl2_2z">Wie der Folgende
+                            Cocceji Sohn des 1755 verstorbenen Großkanzlers <persName key="ed_hkg_s5c_5db">Samuel von
+                        Cocceji</persName>
+                  </note>
+               </seg>
+               <persName key="ed_hkg_s5c_5db"> </persName>machte den vierten Wirt. Man spielt <seg type="comment">
+                  <orig>Funfzehner.</orig>
+                  <note xml:id="nlzl_wzp_mbb">
+                     <note type="editorial">Ein beliebtes Kartenspiel. - Im Brief vom 12.
+                                Februar 1757 setzt er fort: </note>
+                     <quote>Um Ihnen einige
+                                Nachrichten von hier zu geben, will ich Ihnen sagen, dass das Spiel
+                                flott weitergeht und einen Tag um den anderen ein Spieler
+                                ausscheidet aus Mangel an Geld. Ich werde sehr übel behandelt, und
+                                dauert das fort, werde auch ich mich an die Lektüre von <ref target="https://de.wikipedia.org/wiki/Seneca">Seneca</ref>
+                                machen müssen.</quote>
+                  </note>
+               </seg> Heinrich hat das Geld gewonnen,
+                    und ich, ich habe den Rest; die anderen sitzen auf dem Trockenen, daher halte
+                    ich die Bank. <persName key="ed_hkf_qtc_5db">Cocceji</persName>, <persName key="ed_bzd_nsf_vdb">Marwitz</persName>, der <seg type="comment">
+                  <orig>Abbé
+                                <persName key="ed_glb_bgl_hkb">Prades</persName>
+                  </orig>
+                  <note xml:id="neqc_gzj_hkb">Vorleser des Königs</note>
+               </seg>, <persName key="ed_skd_4mn_fz">Cocceji</persName>
+               <seg type="comment"> und <persName key="ed_hv1_mzj_hkb">Schwerin</persName>
+               </seg>, die Adjutanten des
+                    Marschalls <persName key="ed_bsz_bvm_cz">Keith</persName> nehmen daran teil;
+                        <persName key="ed_kq5_2m2_2z">Knyphausen</persName> ebenfalls, aber er
+                    soupiert bei dem <persName key="ed_x2r_52f_cy">König</persName>. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

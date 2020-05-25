@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ib2_pzx_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ludwig Heim an Bauinspektor Krause. Berlin, 28. Juni 1879</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ib2_pzx_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LA Berlin</institution>
+                   <idno>A Rep. 010-01-02, Nr. 2573, n. f. </idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yp2_hfm_gbb">Heim, (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1879-06-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_abj_hqs_g2b">Krause, (-)</persName>
+                </correspAction>
+                <note>Enthält zahlreiche Randbemerkungen, die aufgrund der Verfilmung der Akte nicht
+                    lesbar sind. - Anscheinend verzögerte sich der geplante Baubeginn, denn am 25.
+                    Juli antwortete <persName key="ed_yp2_hfm_gbb">Heim</persName>
+                    <persName key="ed_abj_hqs_g2b">Krause</persName> auf dessen Schreiben vom 21.
+                    Juli, dass <persName key="ed_zkm_whl_2y">Graf von Lehndorff</persName> es
+                    bedauern würde, wenn die Herstellung des Pflasters für die Unterbaum- und
+                    Friedrich-Carl-Straße sich bis zum nächsten Jahr verzögert; er würde die
+                    betreffenden Arbeiten unterstützen. Eine Legitimation zur Vertretung Lehndorffs,
+                    wie sie Krause wünsche, habe er nicht, und würde die Beschaffung mit erheblichen
+                    Weitläufigkeiten verbunden sein. Er habe ihm von dem Schreiben Krauses Kenntnis
+                    gegeben mit der Bitte, seine Zustimmung zu erteilen. Aus Gastein erteilte
+                    Lehndorff am 31. Juli 1879 die gewünschte Zustimmung zur Lagerung von
+                    Pflastersteinen. Am 12. August 1879 teilte Heim der X. Bauinspektion mit, dass
+                    Lehndorff seine Einwilligung zur <quote>Nutzung von 100 Quadratruten auf einer
+                        Fläche von 10x10 im Anschluss an den von der Stechbahn berührten Streifen
+                    </quote>erteilt habe unter der Voraussetzung, dass <quote>bis zum genannten Tage
+                        die Umpflasterung der vorgenannten Straßen, soweit sie durch die Neuanlage
+                        der Unterbaumbrücke involviert wird</quote>, durch den Magistrat erfolge.
+                    Sollte Lehndorff beabsichtigen, Teile des Platzes zu verkaufen oder zu
+                    vermieten, müsse der Platz binnen vier Wochen geräumt werden. Alle Schreiben in
+                    der Akte. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Heim Baumeister W. Berlin Kurfürsten-Strasse 9 <lb/>Berlin, den 28.
+                        Juni 1879</dateline>
+                    <salute>An die X. Bauinspektion <lb/>zu Händen des Herrn Bauinspektors Krause,
+                        Moabit 119</salute>
+                </opener>
+                <p>Im Auftrag des Herrn <persName key="ed_zkm_whl_2y">Grafen von Lehndorff
+                    </persName> teile ich Euer Hochwohlgeboren ergebenst mit, dass der Herr Graf der
+                    X. Bauinspektion einen Platz von 80 Quadratruten auf seinem Terrain an der
+                    Unterbaum-Straße und Friedrich-Carl-Straße bereitwilligst zum Lagern von
+                    Pflastersteinen zur Verfügung stellt in der Erwartung, dass die Neupflasterung
+                    genannter Straßen mit Prima-Material noch im Laufe des Jahres erfolgt. Nur lässt
+                    derselbe bitten, dass das Terrain des <persName key="ed_hnc_qqs_g2b">Grafen
+                        Pourtalès</persName> und Grafen <persName key="ed_g15_r1m_gbb">Stolberg</persName> zur Vermeidung von Differenzen unberührt bleibe. </p>
+            <p>Die Lagerplätze werden auch auf Wunsch zu
+                    verschiedenen Zeiten an verschiedenen Stellen zur Verfügung gestellt werden
+                    können. </p>
+            <p>Ich werde mir deshalb erlauben, am Dienstag, den 1. Julius, vormittags 10 Uhr zur Rücksprache
+                    nach dem Bureau Moabit Nr. 119 zu kommen.</p>
+                <closer>
+                    <salute>Hochachtungsvoll und ergebenst</salute>
+                    <signed>Heim</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

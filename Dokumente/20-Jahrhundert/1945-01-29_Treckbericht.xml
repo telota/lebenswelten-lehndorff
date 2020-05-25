@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_k3q_11h_jfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Treckbericht von Margaretha von der Ropp. 29. Januar bis 23. März 1945</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_k3q_11h_jfb</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+                <note type="editorial">
+                    <p>Vgl. Kałążny, Jerzy, Erinnerung – Geschichte – Erzählungen der Geschichte bei
+                        Marion Gräfin Dönhoff, Christian von Krockow und Hans von Lehndorff, in:
+                        Weber, Norbert v. (Hrsg.), Die Oder überqueren. Deutsch-polnische
+                        Begegnungen in Geschichte, Kultur und Lebensalltag, Frankfurt am Main 1999,
+                        S. 176–184 (Interdisziplinäre Studien zum Verhältnis von Migrationen.
+                        Ethnizität und gesellschaftlicher Multikulturalität, 10).</p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>Herder-Institut für historische
+                            Ostmitteleuropaforschung</institution>
+                    <idno> DSHI 100 Ropp, v. d., 005 </idno>
+                    </msIdentifier>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_iwp_t1h_jfb">Ropp, Margareta von der (-)</persName>
+                <date from="1945-01-29" to="1945-03-23" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Bericht über den Treck von Ost nach West vom 29. Januar 1945 bis 23. März
+                    1945</p>
+            </div>
+        </body>
+    </text>
+</TEI>

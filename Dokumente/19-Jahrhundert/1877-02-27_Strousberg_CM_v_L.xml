@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_qqt_np1_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bethel Henry Strousberg an Carl Meinhard Graf von Lehndorff. Moskau, 15./27.
+                    Februar 1877</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_qqt_np1_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 24, Bl. 16-23v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_cws_vm1_my">Strousberg, Bethel Henry (1823-1884)</persName>
+                    <placeName key="ed_act_bq1_my">Moskau</placeName>
+                    <date when="1877-02-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+                </correspAction>
+                <note>Der Akte liegt ein Brief <persName key="ed_z5w_xl1_my">Wilds</persName> bei
+                    (Bl. 24-24v), in dem er Lehndorff um finanzielle Unterstützung bittet. Siehe
+                    auch: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 406: Hypothek
+                    auf das Gut Iberow des Fürsten Hugo von Hohenlohe zur Stützung der
+                    Unternehmungen des Herrn Strousberg (1868-1877).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/2/24/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Hotel Dusaux, Moskau, 15./27. Februar 1877</dateline>
+                    <salute>Hochgeehrter Herr Graf!</salute>
+                </opener>
+                <p>
+               <persName key="ed_z5w_xl1_my">Wild</persName> hat eigentümlicherweise Ihnen,
+                    meiner <persName key="ed_lzj_l41_my">Frau</persName> und mir über Herrn
+                        <persName key="ed_gpj_mq1_my">Jansen</persName> geschrieben. Dr. Jansen ist
+                    wenigstens so viel als <persName key="ed_qtn_4q1_my">Dielitz</persName>, er ist
+                    ein höchst achtbarer Mann, ein Bruder und <seg type="comment">
+                  <orig>Erbe des
+                            verstorbenen Konkursverwalters <persName key="ed_ph2_xcc_ffb">Jansen</persName>, den ich persönlich als einen wahren, guten,
+                            edlen Menschen kenne, der den größten Teil seines Vermögens den ihm
+                            anvertrauten Schuldnern geopfert hat. </orig>
+                  <note xml:id="nbn5_bdc_ffb">Jansen hatte im November 1875 das Beweisaufnahmeverfahren <quote>In
+                                Sachen des Königlichen Justizrat von <persName key="ed_bm5_jq3_kfb">Groddeck</persName> in <placeName key="ed_bp5_xch_ldb">Bromberg</placeName> Kläger wider 1. den Rittergutsbesitzer
+                                    <persName key="ed_cws_vm1_my">Dr. Bethel Strousberg</persName>
+                                in Berlin, 2. den <persName key="ed_fnx_kp5_g2b">Herzog Victor von
+                                    Ratibor Fürsten von Corvey</persName> ebenda, 3. den <persName key="ed_orj_lj3_jfb">Herzog Hugo von Ujest Fürsten von
+                                    Hohenlohe</persName> ebenda, 4. den Legationsrat a. D. und
+                                Rittmeister <persName key="ed_zkm_whl_2y">Grafen von
+                                    Lehndorff</persName> auf Steinort</quote> sowie die <orgName key="ed_t5f_4sh_jlb">Rumänische
+                                Eisenbahnen-Actien-Gesellschaft</orgName> im Berliner Stadtgericht
+                            eröffnet. Die Verklagten wurden solidarisch <quote>gegen Rückempfang der
+                                nachstehend aufgeführten fünf Stück 7 1/2 % Rumänischer
+                                Eisenbahnobligationen im Nominalbetrag von je 400 Rtlr.</quote> -
+                            4.260 Mark zzgl. der Prozesskosten - verurteilt, vgl. GStA PK, XX. HA,
+                            Rep. 54 Gutsarchiv Lehndorff-Steinort, n. f. </note>
+               </seg>Ich zweifle,
+                    ob die trockene Herzlosigkeit des Herrn Dielitz damit zu vergleichen ist. Dr.
+                    Jansen ist mir nicht bekannt, ist mir aber durch einen hiesigen Freund, einen
+                    Verwandten, rekommandiert; derselbe hat kein anderes Interesse als mir zu
+                    dienen, da er keine Renumeration beansprucht oder empfangen würde. Allen
+                    Anzeichen nach hat er denselben Charakter wie sein Bruder. Durch seine und
+                    seines Bruders langjährige Beziehungen zum Konkursgericht dort hat er Einfluss,
+                    wo ich ihn brauche. <seg type="comment">
+                  <orig>Der Grund, warum ich Herrn Jansen
+                            gebeten habe mich zu vertreten ist, dass nach meiner Meinung alles bis
+                            jetzt gegen mein Interesse geschehen war und ich wünsche, dass er
+                            vorbereitend wirke und er das Nötige konstatiere, damit ich, wenn ich
+                            zurückkomme, die mir geeignet erscheinenden Schritte nehmen kann. Im
+                            Wesentlichen ist das Geschehene nicht gut zu machen.</orig>
+                  <note xml:id="npfh_2cm_xcb">Er bezieht sich auf die Generalversammlung, die
+                            vor dem 21. November stattgefunden haben muss, und auf der Lehndorff
+                            Strousbergs Wünsche vertreten sollte, wie er dem <quote>lieben
+                                Wild</quote> am 21. November 1875 mitteilte (Bl. 5-7v).</note>
+               </seg>
+                    Vieles ist mir indessen nicht gleichgültig. Es ist mir nicht egal, dass meine
+                    Güter <gap reason="illegible"/> verschleudert sind; dieses muss ich beweisen, um
+                    zu beweisen, dass meine <rs type="term" key="ed_skk_q3n_4y">Masse</rs> eine
+                    bessere hätte sein können. Ich weiß, Herr Graf, dass niemand für mich ein so
+                    stetes und mich zu Dank verpflichtendes Wohlwollen an den Tag gelegt hat als
+                    Sie, unglücklicherweise sind Ihre Überzeugungen mir aber in manchen Sachen
+                    ungünstig. Sie haben z. B. keine Meinung von dem Werte meiner Güter und noch
+                    weniger von meinem Verständnis für die Bewirtschaftung. Ich finde dies
+                    natürlich. Als Edelmann, Besitzer eines alten Familiengutes, müssen Sie anders
+                    denken als ich, nicht hinsichtlich einer konservativen Bewirtschaftung, sondern
+                    bezüglich einer eigenen Bewirtschaftung überhaupt. Ein Majorat stirbt nicht und
+                    der Besitzer hat Zeit, mit der Bodenkultur vorzugehen, ich wollte aber in einer
+                    Zeit großer geschäftlicher Erträge die Kultur beschleunigen, damit ich, wenn ich
+                    mich zur Ruhe setze, fertige, ertragsfähige Güter besitze. Ich weiß, dass dieses
+                    viel kostet, ich war aber in der Lage, dieses zu ertragen; im Resultate in Folge
+                    unvorhergesehener Unglücksfälle habe ich es nicht ausgehalten. Die Felder waren
+                    aber nicht falsch angelegt. Der Reichtum lag im Boden, die Erträge waren
+                    ziemlich sicher und solche Güter dürften nicht zu ungünstige Zeiten auf den
+                    Markt gebracht werden. </p>
+                <p>Es ist kein Beweis besonderer Fürsorge für mich, dass Dielitz eine höchst
+                    konservative Wirtschaft überall außer in <placeName key="ed_l4h_yq1_my">Diepensee</placeName> geführt hat. Aber hier war mein Sohn, dort die
+                        <orgName key="ed_utq_cr1_my">Disconto-Gesellschaft</orgName> interessiert.
+                    Dieser gegenüber beugt sich alles und der kluge Mann, welcher meinen Sohn bei
+                    Diepensee und mich bei <placeName key="ed_fvl_2r1_my">Neustadt</placeName> zu
+                    schädigen weiß, hat es nicht vermocht, <seg type="comment">
+                  <orig>verbrecherischen Machinationen seitens der
+                            Disconto-Gesellschaft</orig>
+                  <note xml:id="necq_km2_j1b">In seinem
+                            Widerspruch zur Einkommensteuererklärung 1875 verweist Lehndorff darauf,
+                            dass er durch <quote>eine der Berliner Disconto-Gesellschaft und der
+                                Deutschen Aktiengesellschaft gegenüber übernommenen
+                                Hypotheken-Garantie in einen Verlust von 160.000 M geraten</quote>
+                            sei, LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 286, Bl. 12. Hierzu
+                            auch: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 285
+                            (intus: Vertrag der Rumänischen Eisenbahn AG mit Strousberg, Berlin, 27.
+                            April 1872; Vertrag mit der Deutschen AG für Bergbau-, Eisen- und
+                            Stahlindustrie, Berlin, 27. Mai 1874) und Burhop, Carsten, Die
+                            Kreditbanken in der Gründerzeit, Wiesbaden 2004, S. 222 ff.
+                        </note>
+               </seg> bei <placeName key="ed_exg_3r1_my">Peißen</placeName> und
+                    anderweitig vorzubeugen. Die Herren, die nicht mitgeboten und von der Disconto
+                    gekauft haben, sind trotz der Mehrzahlung sicher nicht der Meinung, dass sie
+                    teuer bezahlt haben. In Diepensee werden Stroh und Kartoffeln verkauft und das
+                    Gut <gap reason="illegible"/> und verwahrlost. In Peißen hat man selbst zum
+                    Verkauf bereite Pferde zurückgelassen. Es lag kein Grund vor, die Fabrik in
+                        <placeName key="ed_uyl_j3c_gy">Danzig</placeName> für weniger als die Kessel
+                    und Maschinen allein wert sind zu veräußern. <unclear reason="illegible" cert="low">Krasnosielce</unclear> konnte warten und nicht für 1/5 seines
+                    Wertes verschleudert werden. Die Disconto-Gesellschaft war nirgends berechtigt,
+                    die Veräußerungen zu forcieren. Herr Dielitz hat ihr das möglich gemacht. Ich
+                    kann hier nicht logisch in Details eingehen, mein Blut kocht, wenn ich daran
+                    denke, wie frevelhaft verfahren ist. Ich kenne zwar unsere Kammergesetze, nichts
+                    rechtfertigt indessen die Handhabung und ich glaube nicht an deren gesetzliche
+                    Notwendigkeit. Die vorliegenden Umstände möchten berücksichtigt werden. Den
+                    Verkauf meines Familienbildes, worauf mein verstorbener Sohn und meine Frau und
+                    Töchter dargestellt sind, wollte mein Sohn durch Ankauf desselben zum Tax-Preis
+                    verhindern. Dieses abzuschlagen und das Bild in fremde Hände zu geben ist sicher
+                    kein Freundschaftsakt. Die Inanspruchnahme der Mobilien der <placeName key="ed_ed2_4r1_my">Elbinger</placeName> Fabrik war nicht gerechtfertigt und
+                    werde ich dieses rügen. Mir die Kassen eines Advokaten beim Kommerz-Gericht zu
+                    refüsieren, wodurch ich in erster Zeit keine Vertretung hatte, ist unerhört.
+                    Hätte ich gleich einen Anwalt engagieren können, so wäre die Sache hier nie so
+                    weit gekommen. Ich kann tausenderlei aufzählen, welches mich empört und mich
+                    wünschen lässt, endlich von jemand vertreten zu sein, der meine Instruktionen
+                    befolgt, der fähig ist, das Kaufmännische zu beurteilen und mir behilflich ist,
+                    das zu erreichen, was ich bezwecke: <list>
+                        <item>a.) zu verhindern, das Schurken wie <persName key="ed_ulx_mnw_f2b">Rauschning</persName> und andere nicht Forderungen geltend machen,
+                            die sie nicht haben, und so damit prahlen zu können und einen Einfluss
+                            bei neuerlicher Regelung auszuüben. Im Hinblick auf mein Renommee und
+                            eine Einigung mit meinen Gläubigern darf kein Heller mehr als notwendig
+                            anerkannt werden;</item>
+                        <item>b.) die Interessen meiner Frau wahrzunehmen;</item>
+                        <item>c.) einleitend für die Beseitigung des Konkurses zu wirken;</item>
+                        <item>d.) Schritte zu verhindern, die Schaden bringen, andere wie die <seg type="comment">
+                        <orig>Klage gegen Hannover-Altenbeken </orig>
+                        <note xml:id="ngjz_gpw_f2b">Vgl. Glagau, Otto, Der Börsen- und
+                                    Gründungsschwindel in Berlin, Leipzig 1877, S. X.</note>
+                            </seg>zu veranlassen und</item>
+                        <item>e.) mir verdächtig Erscheinendes zu klären. </item>
+                    </list>
+            </p>
+                <p>Ich bezweifle, ob Herr Jansen Wesentliches hierbei vor meiner Rückkehr wird
+                    ausführen können, er wird sich aber teilweise orientieren, die nötigen
+                    Verbindungen anknüpfen etc. und alles andere wird dann meine Sache sein. Ich
+                    habe auch hierbei noch ins Auge gefasst, der Disconto-Gesellschaft ihre
+                    Schurkenstreiche und ungebührenden Beeinflussungen nachzurechnen, damit sie von
+                    Ihnen nichts fordern kann.</p>
+                <p> Inwieweit diese möglich sein wird, weiß ich nicht, so viel wird indessen sich
+                    ergeben, dass man den eventuellen Richter gegen sie einnehmen kann, denn im
+                    Augenblick sind unsere großen Bankiers und Institute geheiligte Personen bei
+                    Richtern und Beamten, sonst müsste Herr Geheimer Finanzrat <persName key="ed_usb_3nw_f2b">Wilkens</persName> im Verwaltungsrat der
+                    Disconto-Gesellschaft laut meiner Äußerung <seg type="comment">
+                  <orig>in meinem
+                            Buche</orig>
+                  <note xml:id="nmz4_lqw_f2b">Dr. Strousberg und sein Wirken,
+                            von ihm selbst geschildert, erschienen im September 1876.</note>
+               </seg>,
+                    die auf absoluten Tatsachen beruht, zur Untersuchung gezogen worden sein und die
+                    Disconto würde für die Handhabung ihrer Emissionen während der Gründerperiode in
+                        <placeName key="ed_jxm_5vf_4y">England</placeName> unbedingt <seg type="comment">
+                  <orig>as guilty of fraud an conspiracy</orig>
+                  <note xml:id="nunp_5nw_f2b">des Betrugs und der Verschwörung
+                        schuldig</note>
+               </seg> verurteilt worden sein. Kurz, aus vielen Gründen ist
+                    mir eine klare Einsicht in alle Handlungen der Konkursverwaltung seit meinem
+                    Hiersein wünschenswert. Mit einer solchen Bürde dürfte ich Sie nicht zu belasten
+                    suchen. Dielitz ist mir fremd und ich glaube an ihn nicht, mein Gefühl, eine
+                    innere Stimme, sagt mir, dass er falsch und scheinheilig ist. Ich mag mich
+                    irren, aber, wie gesagt, eine innere Stimme warnt mich vor Dielitz und ich
+                    glaube an <seg type="comment">
+                  <orig>the divine of the soul</orig>
+                  <note xml:id="nf3n_14w_f2b">das Göttliche der Seele</note>
+               </seg> und habe
+                    immer gefehlt, wenn ich dieser Stimme nicht gefolgt bin.</p>
+                <p>
+               <persName key="ed_z5w_xl1_my">Wild</persName> hat mein Vertrauen nie besessen und
+                    halte ich ihn jetzt nicht nur, wie ich dieses immer getan, für eine nicht
+                    integre intrigante Natur, sondern jetzt auch für einen absolut boshaften, bösen
+                    Menschen. Zur Erläuterung: Wild trat in meine Dienste vor über zwanzig Jahren,
+                    damals wohnte ich in der Lenné-Straße und war erst kurz vorher von England
+                    gekommen, den deutschen wie auch den Berliner Verhältnissen entfremdet. Wild war
+                    in Magdeburg Bürovorsteher bei einem Rechtsanwalt gewesen und so mit den Formen
+                    vertraut. Zur höheren Anschauung hatte ich ihn nicht nötig, denn dazu besaß ich
+                    die nötige allgemeine und juristische Bildung. Er war in Folge früheren
+                    unmoralischen, liederlichen Lebenswandels verschuldet, abgerissen und
+                    heruntergekommen, hatte <unclear reason="illegible" cert="high">schlechte</unclear> Manieren, wusste sich nützlich zu machen, und als ich
+                    auf seine Fehler aufmerksam gemacht wurde, heuchelte er Reue und versprach
+                    Besserung. Ich war nie streng im Richten anderer und so hoffte ich, ihn auch zu
+                    bessern. Ich fand bald, dass ihm durch seine Schulden auch nicht gänzlich zu
+                    trauen war, wo er sich durch Geschenke oder sonst helfen konnte und um ihn
+                    Versuchungen nicht zugänglich zu machen, habe ich seine Schulden von Zeit zu
+                    Zeit bezahlt, und ihn sonst wie ein ungeratenes Kind behandelt, dessen Fehler
+                    man kennt, dem man aber immer wieder von neuem verzeiht und Besserung zutraut.
+                    Später trat die Blindheit ein in Folge von anhaltenden Exzessen und hier war
+                    mein Mitleid erst recht angeregt, und indem er sich grade in Folge seiner
+                    Blindheit den Geschäften ernster als sonst widmete, glaubte ich an eine
+                    wirkliche Besserung. Kurz vor meiner Reise hatte ich indessen Gelegenheit
+                    wahrzunehmen, dass alles beim Alten geblieben und hatte schon vorbereitende
+                    Schritte getroffen, dass ihm weder meine Privatkanzlei noch die für die Zukunft
+                    bestimmten Papiere zugänglich sein sollten. Dieses gerade, weil durch Wild und
+                    einige andere die Geheimnisse meines Geschäfts aus unlauteren Motiven nicht
+                    streng geheim gehalten wurden. <note type="editorial">Deshalb wollte er nach der
+                        Rückkehr aus Moskau Wild für neue Projekte, beispielsweise Geschäfte in
+                        Paris-Narbonne, nicht mehr verwenden und in den Ruhestand versetzen, durch
+                        die eingetretene </note>
+               <note type="editorial"> Katastrophe sei es dazu
+                        nicht gekommen. Inzwischen sei er der Überzeugung, dass Wild zu schlechten
+                        Handlungen fähig sei und seine Stellung bei Dielitz und ihm für sich
+                        ausgenutzt habe, wofür er Beispiele anführt. Alles, was er über Wild sage,
+                        geschehe im strengsten Vertrauen. - Im Folgenden schreibt er über den Stand
+                        seines Prozesses in Petersburg; er sei abhängig vom Wohlwollen des
+                        Justizministers. In Deutschland hätten <persName key="ed_cwd_3cb_dy">Bleichröder</persName> und die <orgName key="ed_utq_cr1_my">Disconto-Gesellschaft </orgName>großes Interesse daran, die Zbirower
+                        Werke zu bekommen. Von Deutschland aus könne er vieles besser bewirken. Es
+                        käme darauf an, und hier könne Lehndorff für ihn wirken, in Deutschland eine
+                        günstige Stimmung für ihn zu erzeugen. </note>
+            </p>
+                <p>Ich bin weit davon entfernt, Sie zu einer Reise anzuregen. Sie haben sich bereits
+                    viel Mühe gegeben. Da Sie indessen mich gefragt haben, so sage ich Ihnen, was
+                    nach meiner Idee mir nützen könnte.</p>
+                <p>Ich wäre auch bereit, hier schon mich mit der Liquidationskommisison bezugs der
+                    zu machenden Offerte, im Falle mir die <seg type="comment">
+                  <orig>Zbirower Werke
+                            </orig>
+                  <note xml:id="nfbp_v4w_f2b">In Böhmen; diese gingen an die
+                            Disconto-Gesellschaft, vgl. Glagau, Otto, Der Börsen- und
+                            Gründungsschwindel in Berlin, Leipzig 1877, S. 62 f.
+                    </note>
+               </seg>gerettet werden, in Verbindung zu setzen. Zu bemerken ist hierbei,
+                    das die Zeit außerordentlich drängt, wenn nicht alles verloren gehen soll.</p>
+                <p> </p>
+                <closer>
+                    <salute>Mit vorzüglichster Hochachtung Euer Hochgeboren ganz ergebener</salute>
+                    <signed>B. Strousberg</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

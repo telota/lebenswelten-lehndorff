@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_i1j_2gb_mdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 6. Juni 1756</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_i1j_2gb_mdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="editorial">Vgl. Schmidt-Lötzen, Nachträge, Bd. 1, S. 68, Einträge vom
+                    31. Mai und 14. Juni 1756: <quote>
+                  <persName key="ed_nvx_wcz_bz">Prinz
+                            Heinrich</persName> grollt mir, aber da ich mir nichts vorzuwerfen habe,
+                        so ertrage ich diese Ungnade mit stoischem Gleichmut. Ich werde ihm immer
+                        ergeben bleiben, aber da die Freundschaft sich nicht erzwingen lässt, so
+                        fürchte ich, dass sein Verhalten der allzu großen Anhänglichkeit, die ich
+                        ihm entgegengebracht, Eintrag tun wird, und dass fortan meine Gefühle für
+                        ihn sich auf den tiefen Respekt beschränken werden, den ich einem Bruder des
+                        Königs schulde. Umso besser! Man wäre überhaupt viel glücklicher, wenn man
+                        mit den Großen nur auf solchem Fuße stehen würde! - Das ist trotzdem nicht
+                        das Leben, dass ich mir wünsche. Ruhe, Studien und nette Gesellschaft, das
+                        würde mich glücklich machen. Aber wenn man in einem Lande geboren ist, wo
+                        man nicht frei über sich verfügen kann und, während man sich seinem
+                        Vaterland nützlich machen möchte, gezwungen wird, die langweilige Figur
+                        eines Höflings zu spielen, dann muss man sich schon dem Geschmack der Leute
+                        anpassen, von denen unser Schicksal abhängt.</quote>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Giebel, Wieland (Hrsg.), Die Tagebücher des Grafen
+                            Lehndorff. Die geheimen Aufzeichnungen des Kammerherrn der Königin
+                            Elisabeth Christine, Berlin 2007, S. 306</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1756-06-06" cert="high"/>
+                
+              
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+				     <p>
+            <note type="editorial">Prinz <persName key="ed_nvx_wcz_bz">Heinrich</persName>, der Lehndorff
+                    während seines Aufenthaltes <quote>mit seiner Kälte beehrt hat</quote>, reist
+                    nach <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName> ab, </note> es folgen
+                Einladungen und Versprechungen ohne Ende. Ich kenne diese Hofsprache und lasse mich
+                nicht davon betören. Ich habe aufgehört, von der Zukunft noch Großes zu erwarten,
+                ich hoffe nichts mehr und will mich fortan bescheiden; das ist für die, welche in
+                unserem Lande leben, der einzig richtige Standpunkt, wenn sie sich nicht zu Tode
+                grämen wollen. Sowie man sich ein hohes Ziel steckt oder dem Vaterland wirklich
+                nützlich sein will, hat man nur unnötigen Ärger zu gewärtigen. Hier hängt alles vom
+                Glück ab. Der <persName key="ed_x2r_52f_cy">König</persName> geruht nicht von den
+                jungen Leuten seines Landes Notiz zu nehmen, noch ihre Talente zu prüfen; er bildet
+                sich ein Urteil über uns nach dem Bericht von drei oder vier Menschen, zu deren
+                Charaktereigenschaften nicht Anstand und Ehrlichkeit gehören. So bleiben wir
+                vergessen. Die Kenntnisse, die wir uns erwerben, tragen nur dazu bei, uns unsere
+                Lage noch härter erscheinen zu lassen; das Ende ist die völlige Entmutigung. Ich
+                kann mich als Beispiel anführen. Wenn je ein Mensch dem König ergeben gewesen ist,
+                so war ich es; ich habe ihn geliebt wie meinen Vater und würde ihm alles, was ich
+                teures besitze, geopfert haben. Aber da man mich stets schroff abgewiesen und
+                gekränkt hat, bleibt mir nur der Respekt vor ihm, während ich ihn von ganzem Herzen
+                lieben möchte. - Die Einladung des <persName key="ed_q12_pqy_bz">Prinzen von
+                    Preußen</persName> nach <placeName key="ed_oyr_ysm_cz">Oranienburg</placeName>
+                erscheint mir aufrichtiger; demnach gedenke ich in einigen Tagen dorthin zu
+                gehen.</p>
+				
+          
+        </body>
+    </text>
+</TEI>

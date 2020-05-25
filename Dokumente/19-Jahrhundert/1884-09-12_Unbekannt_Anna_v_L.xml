@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_es3_sxq_ddb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eugen von Albedyll an Anna Gräfin von Lehndorff. Karnitten, 12. September
+                    1884</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_es3_sxq_ddb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 325, Bl. 24-25</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_qcn_r2r_jlb">Albedyll, Eugen von (1842-1916)</persName>
+                    <placeName key="ed_znc_cnv_22b">Karnitten</placeName>
+                    <date when="1884-09-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/325/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Karnitten bei Neidenburg, den 12. September 1884</dateline>
+					          <salute>Gnädigste Frau Gräfin!</salute>
+                </opener>
+				        <p>Nachdem ich wieder längere Zeit in <placeName key="ed_mr4_v41_h2b">Gablanken</placeName> beim
+                    Verpacken von Urvaters Hausrat beschäftigt gewesen, kehrte ich auf kurze Zeit
+                    zur Verabschiedung nach <placeName key="ed_znc_cnv_22b">Karnitten</placeName>
+                    zurück und fand dort Ihre sehr freundliche Sendung der in <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> zurückgelassenen Staubbrille
+                    und der Familienbroschüre vor. Ich danke ganz verbindlich dafür, wie nochmals
+                    herzlichst für die schönen Tage in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, welche mir so interessanten Einblick in Ihr Leben und
+                    Ihre Häuslichkeit tun ließen, was doch erst schließlich das Bild verehrter
+                    Personen vollendet.</p>
+                <p>Wenn ich dabei einiges zur Klärung über die dortige <seg type="comment">
+                  <orig>Kupferstichsammlung</orig>
+                  <note xml:id="nwxn_5p1_h2b">Diese <ref target="lehndorff_vqr_cld_bbb">Kupferstichsammlung</ref> hatte
+                            bereits <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich Graf von
+                                Lehndorff</persName> im 19. Jahrhundert angelegt. 35 Kupferstiche
+                            von Bauten in Europa sind überliefert in: LASA, StA L, Bestand 21950 FA
+                            Lehndorff, Nr. 524. </note>
+               </seg> tun konnte, so war mir das eine große
+                    Freude. Und wenn ich ferner zur Verwirklichung Ihrer Pläne beitragen kann, so
+                    haben Sie gewiss die Überzeugung, dass es sehr gern geschieht.</p>
+                <p>Ich bleibe hier in meinem neuen Heim auf 8 Tage, worauf ich nach <placeName key="ed_ygt_42s_kfb">Neuweg</placeName> (über Reichenau und Osterwege) nach
+                    dem lieben <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName> reise, dann
+                    dort einige Tage bleibe. Von Ende d. M. bin ich wieder in <placeName key="ed_xrv_gwb_by">Berlin</placeName> W, Alvenslebenstraße 12-I, wo ich
+                    dann Ihrer ferneren Winke harren werde.</p>
+                <p>
+               <ref target="lehndorff_efx_hbm_2db">Ist Exzellenz von <persName key="ed_sgg_3pv_g2b">Peters</persName> noch in Steinort</ref>, so bitte
+                    ich mich angelegentlichst empfehlen zu wollen; ich würde weder die Ansicht von
+                    Steinort noch die angenehme und interessante Zeit von Friedrichstein und
+                    Steinort vergessen und dieser <gap reason="illegible"/>.</p>
+                <p>Und nun wünsche ich Ihnen, gnädigste Frau Gräfin, unter dem Schatten und dem
+                    Schutze der herrlichen mächtigen Eichen im besten Wohlsein ferneren Segen in
+                    Ihrem so ausgedehnten Wirkungskreis. Der Gräfin <persName key="ed_ggg_cbm_2y">Agnes</persName> bitte ich freundlichst mit den besten Empfehlungen
+                    mitteilen zu wollen, dass ich, falls meine Anleitung zum Federschreiben nicht
+                    hingereicht hat, ich später für gut geschnittene Federkiele sorgen werde. </p>
+				        <closer>
+					          <salute>In dankbarer Erinnerung und treuer Ergebenheit</salute>
+					          <signed>
+                  <gap reason="illegible"/>
+               </signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

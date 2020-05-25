@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_d11_hzy_bdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich August Berent an Carl Friedrich Ludwig Graf von Lehndorff. Steinort, 12.
+                    Oktober 1808</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_d11_hzy_bdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 141, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yx5_cbg_nbb">Berent, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1808-10-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Vgl. in der Akte den Brief <persName key="ed_vhm_mqk_wcb">Massenbachs</persName> vom 4. Dezember 1807, dem als Anlage die Abschrift
+                    eines Pachtvertrages (für das Rittergut <placeName key="ed_e3l_2zw_12b">Schrengen</placeName> mit Vorwerken, ausgefertigt Wohnsdorf, 5. Oktober
+                    1807) unter Hinweis auf vertrauliche Behandlung beiliegt. Möglicherweise als
+                    Mustervertrag? - Nach dem Brief vom 12. Oktober setzt ein langer Zeitraum ohne
+                    Briefe ein, der nächste datiert vom 14. März 1809.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 12. Oktober 1808</dateline>
+					          <salute>Gnädigster Herr Graf!</salute>
+                </opener>
+                <p>
+               <persName key="ed_irv_ptm_zcb">Willimzig</persName> ist Sonntag Abend mit Sachen
+                    und Pferden gesund und glücklich angekommen. Die mir in dem Brief genannten
+                    Befehle werde ich pünktlich zu erfüllen suchen. <seg type="comment">
+                  <orig>In
+                                <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> ist ein
+                            Tischler, der da schon 2 Stück Billard eingerichtet und aufgesetzt hat.
+                            </orig>
+                  <note xml:id="nyq4_sns_flb">Zur Geschichtes des Billarspiels
+                            siehe h<ref target="https://de.wikipedia.org/wiki/Billard">ttps://de.wikipedia.org/wiki/Billard. </ref>In Beschreibungen des
+                            Schlosses wird ein Billard erwähnt, das in der oberen Diele aufgestellt
+                            war. </note>
+               </seg> Die Räder kann ich jetzt nicht gleich fertigen lasen,
+                    wenn sie von Bestand sein sollen, indem das Holz dazu wenigstens noch 4 Wochen
+                    trocknen muss, da solches Holz nicht Vorrat gewesen ist. Euer Hochgeboren
+                    erwähnten im vorigen Briefe einen Stellmacher? Vielleicht soll dieser auch
+                    zugleich den kleinen Schlitten hier machen, ich werde also vom Tischler noch
+                    nichts wie Holz dazu zubereiten lassen.</p>
+                <p>Dass der Halfter nicht mitgekommen, ist nicht meine Schuld, er ist beim Einpacken
+                    aus den Decken, wo er eingewickelt war, ausgestreuet worden. Ich werde zwar so
+                    viel die Zeit und Umstände es erlauben, in künftigen Brachfeldern umpflügen
+                    lassen, nur die Weide wird uns alsdann fehlen.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Ew. Hochgeboren bitte ich nochmalen wegen der
+                            Auseinandersetzung und wegen Absetzung und Beibehaltung der Bauern
+                            Rücksprache mit Ihrer Exzellenz der Frau <persName key="ed_gnc_c1m_2y">Mutter</persName> zu nehmen, damit im künftigen Frühjahr doch der
+                            Anfang zur soliden Einrichtung in den Gütern gemacht werden
+                            kann.</orig>
+                  <note xml:id="nzsh_lmk_r2b">Lehndorff ersuchte die
+                            Angerburgsche Landschafts-Direktion um eine <quote>Abschätzung der
+                                Steinortschen Güter</quote>. Diese wurde einer Kommission, der
+                                <persName key="ed_bt5_kmm_wcb">Kuegler</persName> angehörte, am 18.
+                            Mai 1809 übertragen. Berent hatte die Kommission zu unterstützen und ihr
+                            alle notwendigen Unterlagen zur Feststellung der landwirtschaftlichen
+                            Bewirtschaftung, von Erträgen, Gebäuden und Pachtverhältnissen zur
+                            Verfügung zu stellen, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 37. Der Plan <quote>vom Dorfe und Garten in
+                                Steinort</quote> befand sich im HStA Dresden (Bestand 12884 Karten
+                            und Risse, Schr 000, F 184, Nr. 034-044) und wurde 2019 an das StA L
+                            abgegeben und hier dem Bestand 21950 Familienarchiv Lehndorff
+                            zugeordnet. </note>
+               </seg> Die jetzt vorhandenen Bauern, besonders die,
+                    wo viele wüste Erben sind, fangen an über die Lasten, die sie erstens in
+                    Gemeinschaft der übrigen haben leisten müssen, jetzt allein tun sollen, zu
+                    murren, besonders über die Düngerfuhren, Wege und Brücken machen, Ordonanzen
+                    geben, Circulaire weiter bringen, Knüppelfuhren machen, den Schullehrern ihren
+                    Acker zu bearbeiten und Holz anzufahren, den Hirten und Schmiede desgleichen,
+                    und viele andere Sachen mehr, ich tue von den Vorwerkern was ich kann, allein
+                    ich habe noch nicht Instleute und Angespanne genug, um alles zu bestreiten. </p>
+                <p>Ich tröste und freue mich übrigens auf das baldige Wiedersehen Ew. Hochgeboren,
+                    damit wir mündlich darüber sprechen können, um doch einigermaßen die Sache
+                    wieder in ihren vorigen Gang zu bringen. </p>
+                <p>In den Gütern ist noch sonsten alles gesund und gut und es scheint, als wenn die
+                    Erdraupe ihre Verheerungen eingestellt hat.</p>
+                <p>Meine Frau mit mir empfehlen uns allen hohen Herrschaften zu Gnaden und ich
+                    unterzeichne mich mit allem Respekt</p>
+				        <closer>
+					          <salute>Ew. Hochgeboren untertänigster Diener</salute>
+					          <signed>Berent</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_gdg_trf_s3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gerhard Graf von Dönhoff an Friedrich Wilhelm Kurfürst von Brandenburg.
+                    Schweigsten, 10. April 1683</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_gdg_trf_s3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Heiratskreise</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA GR, Rep. 7 Nr. 13 L 46a fasz. 4, Bl. 50-51</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_f4c_j4n_s3b">Dönhoff, Gerhard Reichsgraf von
+                        (1631-1685)</persName>
+                    <placeName key="ed_w4s_1pn_s3b">Schweigsten</placeName>
+                    <date when="1683-04-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_nc5_wbp_vcb">Brandenburg, Friedrich Wilhelm Kurfürst von
+                        (1620-1688)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Die Eheschließung seiner Tochter <persName key="ed_wwb_gcm_2y">Maria
+                        Eleonora</persName> mit <persName key="ed_zyw_ncf_2y">Gerhard Ahasverus von
+                        Lehndorff</persName> soll am 4. Mai stattfinden. Da der <persName key="ed_nc5_wbp_vcb">Kurfürst</persName> nicht in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> ist, um Lehndorff die Tochter
+                    zuzuführen, bittet er um eine kurfürstliche Gesandtschaft als Zeichen höchster
+                    Gnade.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_w3c_mlh_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maria Anna von Hohenzollern-Hechingen an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Danzig, 6. Januar 1834</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_w3c_mlh_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 347, Bl. 2-2v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_d1b_1vt_c2b">Hohenzollern-Hechingen, Maria Anna von
+                        (1808-1888)</persName>
+                    <placeName key="ed_uyl_j3c_gy">Danzig</placeName>
+                    <date when="1834-01-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Am 6. März 1834 schrieb sie an Lehndorff, er könne dem, der ihn beauftragt
+                    habe, <quote>die bewusste Frage an meine <persName key="ed_rhd_kpq_hlb">Mutter</persName> oder mich zu tun, antworten, sei es nun schriftlich
+                        oder mündlich</quote>, <quote>dass mein Herz nicht mehr frei, sondern auf
+                        ewig versagt sei, doch den, dem es angehört, nennen Sie nicht. Mein
+                        Verhältnis ist zwar leider ein ziemlich öffentliches Geheimnis, doch mag ich
+                        es nicht gar bestätigen, wenigstens nicht gegen Leute, denen ich nicht genug
+                        Verschwiegenheit zutraue, solche Bestätigung für sich zu behalten.</quote>
+                    Dass sie aber <quote>ganz arm, ohne alle Aussicht auf Vermögen</quote> sei, und
+                    auch von ihrem Onkel nichts zu erwarten habe, könne er jedem sagen, <quote>der
+                        es nur hören will</quote>. Doch sei darin ein Trost, denn sie sei um ihrer
+                    selbst willen gewählt worden, eine <quote>Bürgschaft für ihr künftiges
+                        Glück</quote>. - <persName key="ed_d1b_1vt_c2b">Marie
+                        Hohenzollern</persName> blieb unverheiratet. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/347/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Danzig, den 6. Januar 1834</dateline>
+					          <salute>Mein lieber verehrter Graf!</salute>
+                </opener>
+				        <p>
+               <note type="editorial">Sie bedankt sich für dessen Brief mit der Nachricht von <persName key="ed_tcp_g3l_2y">Paulines</persName> Entbindung.</note>
+            </p>
+                <p>Wie freue ich mich zum Landtag, und nicht etwa auf die Bälle und Gesellschaften,
+                    die er mit sich führt, sondern weil er mir die Freude gewährt, Sie, mein lieber
+                    Graf, nach so langer Zeit einmal wiederzusehen, denn Sie wissen es ja längst,
+                    dass ich Sie herzlich lieb habe, so wie den Bruder meines Vaters. Und haben Sie
+                    nicht auch stets in allem, was meine Geschicke betraf, den liebevollsten,
+                    väterlichsten Anteil genommen? Ja, mein lieber Graf, Sie müssen es sich schon
+                    gefallen lassen, dass ich Ihnen recht sehr gut bin, und auch Sie erhalten mir
+                    stets Ihre freundliche Gewogenheit. - Meine <seg type="comment">
+                  <orig>Mutter</orig>
+                  <note xml:id="nez2_3xt_c2b">Sie war die Tochter von
+                                <persName key="ed_h4n_y42_b2b">Hermann Graf von
+                                Hohenzollern-Hechingen</persName> (1777-1827) und Karoline von
+                            Weiher (1779-1860). </note>
+               </seg> trägt mir die freundlichsten,
+                    herzlichsten Empfehlungen an Sie und an Ihre geliebte Frau auf, ich küsse in
+                    Gedanken meine kleine <persName key="ed_mrr_p22_b2b">Paula</persName>, die
+                    beiden unbekannten, und das kleine unbekannte Bübchen und bleibe mit innigster
+                    Verehrung und Hochachtung </p>
+				        <closer>
+					          <salute>Ihre ergebene </salute>
+					          <signed>Maria Hohenzollern</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,3576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_ry5_x4l_52b">
+                    <idno type="uri">https://d-nb.info/gnd/119056712</idno>
+                    <persName type="reg">
+                        <surname>Sabran</surname>
+                        <forename>Françoise Eléonore Dejean de Manville, Comtesse de </forename>
+                    </persName>
+                    <birth>1749</birth>
+                    <death>1827</death>
+                </person>
+                <person xml:id="ed_ayg_yvp_rdb">
+                    <persName type="reg">
+                        <surname>Sachsen</surname>
+                        <forename>Friedrich August II. Kurfürst von</forename>
+                    </persName>
+                    <birth>1696</birth>
+                    <death>1763</death>
+                    <note>als August III. König von Polen und Großherzog von Litauen</note>
+                </person>
+                <person xml:id="ed_sjc_v2q_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/119165198</idno>
+                    <persName type="reg">
+                        <surname>Sachsen</surname>
+                        <forename>Friedrich August III. Kurfürst von</forename>
+                    </persName>
+                    <birth>1750</birth>
+                    <death>1827</death>
+                </person>
+                <person xml:id="ed_ct3_3rp_t2b">
+                    <idno type="uri">https://d-nb.info/gnd/118703226</idno>
+                    <persName type="reg">
+                        <surname>Sachsen</surname>
+                        <forename>Friedrich Christian Kurfürst von</forename>
+                    </persName>
+                    <birth>1722</birth>
+                    <death>1763</death>
+                </person>
+                <person xml:id="ed_hwy_t2q_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/101251823</idno>
+                    <persName type="reg">
+                        <surname>Sachsen</surname>
+                        <forename>Karl Herzog von</forename>
+                    </persName>
+                    <birth>1733</birth>
+                    <death>1796</death>
+                    <note/>
+                </person>
+                <person xml:id="ed_cbd_y2q_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/104177624</idno>
+                    <persName type="reg">
+                        <surname>Sachsen </surname>
+                        <forename>Maria Amalia Augusta Kurfürstin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Zweibrücken-Birkenfeld-Bischweilen, Prinzessin von </name>
+                    </persName>
+                    <birth>1752</birth>
+                    <death>1828</death>
+                </person>
+                <person xml:id="ed_qmq_trp_t2b">
+                    <idno type="uri">https://d-nb.info/gnd/118781871</idno>
+                    <persName type="reg">
+                        <surname>Sachsen</surname>
+                        <forename>Maria Antonia Kurfürstin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Bayern, Prinzessin von</name>
+                    </persName>
+                    <birth>1724</birth>
+                    <death>1780</death>
+                </person>
+                <person xml:id="ed_svb_gfq_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/1012457451</idno>
+                    <persName type="reg">
+                        <surname>Sachsen</surname>
+                        <forename>Maria Elisabeth Prinzessin von</forename>
+                    </persName>
+                    <birth>1736</birth>
+                    <death>1818</death>
+                </person>
+                <person xml:id="ed_ijb_hfq_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/116660317</idno>
+                    <persName type="reg">
+                        <surname>Sachsen</surname>
+                        <forename>Maria Kunigunde Prinzessin von</forename>
+                    </persName>
+                    <birth>1740</birth>
+                    <death>1826</death>
+                </person>
+                <person xml:id="ed_jp5_pyl_cz">
+                    <idno type="uri">http://d-nb.info/gnd/118584146</idno>
+                    <persName type="reg">
+                        <surname>Sachsen</surname>
+                        <forename>Moritz Graf von</forename>
+                    </persName>
+                    <birth>1696</birth>
+                    <death>1750</death>
+                </person>
+                <person xml:id="ed_dbl_j5n_my">
+                    <idno type="uri">http://d-nb.info/gnd/130226238</idno>
+                    <persName type="reg">
+                        <surname>Sachsen-Altenburg</surname>
+                        <forename>Ernst I. Herzog von</forename>
+                    </persName>
+                    <birth>1826</birth>
+                    <death>1908</death>
+                </person>
+                <person xml:id="ed_j4k_135_2z">
+                    <idno type="uri">http://d-nb.info/gnd/132961679</idno>
+                    <persName type="reg">
+                        <surname>Sachsen-Koburg-Saalfeld</surname>
+                        <forename>Christian Franz Prinz von</forename>
+                    </persName>
+                    <birth>1730</birth>
+                    <death>1797</death>
+                </person>
+                <person xml:id="ed_pqp_mcr_v2b">
+                    <idno type="uri">https://d-nb.info/gnd/11856014X</idno>
+                    <persName type="reg">
+                        <surname>Sachsen-Weimar-Eisenach</surname>
+                        <forename>Karl August Herzog von</forename>
+                    </persName>
+                    <birth>1757</birth>
+                    <death>1838</death>
+                </person>
+                <person xml:id="ed_jy3_3zp_vcb">
+                    <idno type="uri">https://d-nb.info/gnd/116742569</idno>
+                    <persName type="reg">
+                        <surname>Sack</surname>
+                        <forename>Johann August</forename>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1831</death>
+                </person>
+                <person xml:id="ed_cjx_xvg_hy">
+                    <idno type="uri">https://d-nb.info/gnd/123779383</idno>
+                    <persName type="reg">
+                        <surname>Sacken</surname>
+                        <forename>Christiane von der</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Osten-Sacken</name>
+                    </persName>
+                    <birth>1733</birth>
+                    <death>1811</death>
+                </person>
+                <person xml:id="ed_dl1_zmp_tdb">
+                    <persName type="reg">
+                        <surname>Saffran</surname>
+                        <forename>Gottlieb</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1767 Amtmann in Drygallen</note>
+                </person>
+                <person xml:id="ed_jpc_5cj_d2b">
+                    <persName type="reg">
+                        <surname>Sakowski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gymnasiast, 1859 durch Lehndorff gefördert</note>
+                </person>
+                <person xml:id="ed_qx3_lst_3lb">
+                    <persName type="reg">
+                        <surname>Sala</surname>
+                        <forename>Madame</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Berlin (1857)</note>
+                </person>
+                <person xml:id="ed_pm4_bw3_tcb">
+                    <idno type="uri">https://d-nb.info/gnd/100202284</idno>
+                    <persName type="reg">
+                        <surname>Saldern</surname>
+                        <forename>Friedrich Christoph von</forename>
+                    </persName>
+                    <birth>1719</birth>
+                    <death>1785</death>
+                </person>
+                <person xml:id="ed_wnh_q5p_rdb">
+                    <persName type="reg">
+                        <surname>Salmour</surname>
+                        <forename>Isabelle Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Lubieńska</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_g52_q2h_tdb">
+                    <persName type="reg">
+                        <surname>Salomon</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1741 Gerichtsschreiber in Königsberg</note>
+                </person>
+                <person xml:id="ed_qjf_cns_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/1055187286</idno>
+                    <persName type="reg">
+                        <surname>Saltzwedel</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1882</death>
+                </person>
+                <person xml:id="ed_yrm_5qp_vcb">
+                    <persName type="reg">
+                        <surname>Salzwedel</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Major (1813)</note>
+                </person>
+                <person xml:id="ed_lmw_m5b_tcb">
+                    <idno type="uri">https://d-nb.info/gnd/117721999</idno>
+                    <persName type="reg">
+                        <surname>Sander</surname>
+                        <forename>Prof. Heinrich</forename>
+                    </persName>
+                    <birth>1754</birth>
+                    <death>1782 </death>
+                </person>
+                <person xml:id="ed_dtr_xgp_tdb">
+                    <persName type="reg">
+                        <surname>Sanguszko</surname>
+                        <forename>Fürstin</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Dönhoff, Gräfin von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1767)</note>
+                </person>
+                <person xml:id="ed_sdr_zbq_tdb">
+                    <persName type="reg">
+                        <surname>Sapieha</surname>
+                        <forename>Joanna Gräfin (Fürstin)</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Sułkowska</name>
+                    </persName>
+                    <birth>1736</birth>
+                    <death>1800</death>
+                    <note>https://www.wikiwand.com/de/Jan_Sapieha</note>
+                </person>
+                <person xml:id="ed_ezd_4x3_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/116809132</idno>
+                    <persName type="reg">
+                        <surname>Sartorius</surname>
+                        <forename>Ernst Wilhelm Christian</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1859</death>
+                </person>
+                <person xml:id="ed_c23_k3c_t2b">
+                    <persName type="reg">
+                        <surname>Saturgus</surname>
+                        <forename>Franz Friedrich </forename>
+                    </persName>
+                    <birth/>
+                    <death>1810</death>
+                    <note>Getreidehändler in Königsberg, Kommerzienrat, Neffe des berühmten
+                        Friedrich Saturgus, Kaufmann in Königsberg und Schöpfer des „Saturgus´schen
+                        Gartens‟. https://de.wikipedia.org/wiki/Friedrich_Saturgus</note>
+                </person>
+                <person xml:id="ed_i3g_qkg_ccb">
+                    <persName type="reg">
+                        <surname>Saucken</surname>
+                        <forename>Bertha von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Eulenburg, Gräfin zu</name>
+                    </persName>
+                    <birth>1835</birth>
+                    <death>1911</death>
+                    <note>Heirat: 1854 <persName key="ed_ulc_frg_hy">Franz Graf von
+                            Saucken</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_hfw_vbg_h1b">
+                    <idno type="uri">https://d-nb.info/gnd/138108714</idno>
+                    <persName type="reg">
+                        <surname>Saucken</surname>
+                        <forename>Ernst von</forename>
+                    </persName>
+                    <birth>1791</birth>
+                    <death>1854</death>
+                    <note>(1801)</note>
+                </person>
+                <person xml:id="ed_ulc_frg_hy">
+                    <persName type="reg">
+                        <surname>Saucken</surname>
+                        <forename>Franz von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1862)</note>
+                </person>
+                <person xml:id="ed_ej2_1rg_hy">
+                    <idno type="uri">https://d-nb.info/gnd/117619361</idno>
+                    <persName type="reg">
+                        <surname>Saucken</surname>
+                        <forename>Karl von</forename>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1871</death>
+                    <note>(1862)</note>
+                </person>
+                <person xml:id="ed_wh3_ww2_n2b">
+                    <idno type="uri">https://d-nb.info/gnd/11879468X</idno>
+                    <persName type="reg">
+                        <surname>Sauer</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1916</death>
+                </person>
+                <person xml:id="ed_v5w_bmr_kfb">
+                    <persName type="reg">
+                        <surname>Savorini</surname>
+                        <forename>Elias</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1883 Standesbeamter in Grizzanna</note>
+                </person>
+                <person xml:id="ed_ybs_cjn_my">
+                    <persName type="reg">
+                        <surname>Sawatzki</surname>
+                        <forename>Otto</forename>
+                    </persName>
+                    <birth>1844/45</birth>
+                    <death>1897</death>
+                    <note>Bauunternehmer, seit 1893 Ziegeleibesitzer im unweit Steinort gelegenen
+                        Dorf Thiergarten)</note>
+                </person>
+                <person xml:id="ed_zxh_vgr_gz">
+                    <idno type="uri">http://d-nb.info/gnd/118804928</idno>
+                    <persName type="reg">
+                        <surname>Sayn-Wittgenstein</surname>
+                        <forename>Wilhelm Ludwig Georg (Graf) Fürst zu</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1851</death>
+                </person>
+                <person xml:id="ed_xmd_f1g_h1b">
+                    <idno type="uri">http://d-nb.info/gnd/118606115</idno>
+                    <persName type="reg">
+                        <surname>Schadow</surname>
+                        <forename>Johann Gottfried</forename>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1850</death>
+                </person>
+                <person xml:id="ed_hpy_zq5_g2b">
+                    <persName type="reg">
+                        <surname>Schaffgotsch</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Besitzer von Tattersaal-Aktien (1881)</note>
+                </person>
+                <person xml:id="ed_xcs_sqm_cz">
+                    <idno type="uri">https://tools.wmflabs.org/persondata/p/gnd/104243244</idno>
+                    <persName type="reg">
+                        <surname>Schaffgotsch</surname>
+                        <forename>Philipp Gotthard Graf von</forename>
+                    </persName>
+                    <birth>1716</birth>
+                    <death>1795</death>
+                </person>
+                <person xml:id="ed_jdc_lkl_ddb">
+                    <persName type="reg">
+                        <surname>Schaffran</surname>
+                        <forename>Jette</forename>
+                    </persName>
+                    <birth>1833</birth>
+                    <death/>
+                    <note>Tochter des Kämmerers Scahffran; 1854 Köchin in Steinort; heiratet 1860
+                        den Bäckermeister Adolph Hoede aus Steinort.
+                        http://www.datenbank-nord-masuren.besaweb.de/</note>
+                </person>
+                <person xml:id="ed_epx_t2c_hkb">
+                    <persName type="reg">
+                        <surname>Scharck</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pristanien (1735)</note>
+                </person>
+                <person xml:id="ed_i3w_54t_flb">
+                    <idno type="uri">https://d-nb.info/gnd/138123152</idno>
+                    <persName type="reg">
+                        <surname>Scharnweber</surname>
+                        <forename>Christian Friedrich</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1822</death>
+                </person>
+                <person xml:id="ed_lm3_jnx_y2b">
+                    <idno type="uri">https://d-nb.info/gnd/138123152</idno>
+                    <persName type="reg">
+                        <surname>Scharnweber</surname>
+                        <forename>Christian Friedrich</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1822</death>
+                </person>
+                <person xml:id="ed_jf1_hrj_d2b">
+                    <persName type="reg">
+                        <surname>Schattow</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>zum Gefolge des Prinzen Albrecht gehörend (1859)</note>
+                </person>
+                <person xml:id="ed_pmp_xm5_c2b">
+                    <persName type="reg">
+                        <surname>Scheel-Plessen</surname>
+                        <forename>Emma Gräfin von</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1880</death>
+                    <note>Heirat: <persName key="ed_fxl_5l5_ncb">Albert Graf von
+                            Schlippenbach</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_rvt_4cz_g2b">
+                    <persName type="reg">
+                        <surname> Scheffer</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Tresckow-Kelkheim</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1883)</note>
+                </person>
+                <person xml:id="ed_ypr_jvn_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118754351</idno>
+                    <persName type="reg">
+                        <surname>Scheidemann</surname>
+                        <forename>Philipp</forename>
+                    </persName>
+                    <birth>1865</birth>
+                    <death>1939</death>
+                </person>
+                <person xml:id="ed_z5f_3jc_tcb">
+                    <persName type="reg">
+                        <surname>Scheimann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1785 Bediensteter in Schloss Steinort</note>
+                </person>
+                <person xml:id="ed_zf1_vkm_33b">
+                    <persName type="reg">
+                        <surname>Scheimann</surname>
+                        <forename>Familie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Labab. http://www.datenbank-nord-masuren.besaweb.de/</note>
+                </person>
+                <person xml:id="ed_pct_t42_n3b">
+                    <persName type="reg">
+                        <surname>Scheimann</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1750 Schmied in Stawken</note>
+                </person>
+                <person xml:id="ed_fj3_np5_1bb">
+                    <persName type="reg">
+                        <surname>Schemock</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1724 Untertan in Steinort</note>
+                </person>
+                <person xml:id="ed_g3s_sy1_h2b">
+                    <persName type="reg">
+                        <surname>Schenck</surname>
+                        <forename>G.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Chefredakteur des „Berliner Fremdenblatt‟</note>
+                </person>
+                <person xml:id="ed_qzz_2lm_ngb">
+                    <persName type="reg">
+                        <surname>Schenck von Tautenburg</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Doben (1784)</note>
+                </person>
+                <person xml:id="ed_p31_2k5_h2b">
+                    <persName type="reg">
+                        <surname>Schenck von Tautenburg</surname>
+                        <forename>Freiherr</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Burg Partsch (1889)</note>
+                </person>
+                <person xml:id="ed_phk_z14_zdb">
+                    <persName type="reg">
+                        <surname>Schenck von Tautenburg</surname>
+                        <forename>Freiherr</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1919)</note>
+                </person>
+                <person xml:id="ed_hdw_ddh_ldb">
+                    <persName type="reg">
+                        <surname>Schenck von Tautenburg</surname>
+                        <forename>Rudolf Otto Louis Freiherr</forename>
+                    </persName>
+                    <birth>1809</birth>
+                    <death>1881</death>
+                    <note>preußischer Leutnant; Besitzer des Fideikommiss Doben (1854)</note>
+                </person>
+                <person xml:id="ed_lyr_z2j_f3b">
+                    <persName type="reg">
+                        <surname>Schenck von Tautenburg</surname>
+                        <forename>Sigismund Freiherr</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Vormund der Kinder des Grafen von Lehndorff (1745)</note>
+                </person>
+                <person xml:id="ed_c4p_rlm_ngb">
+                    <persName type="reg">
+                        <surname>Schenck von Tautenburg</surname>
+                        <forename>Wolfgang Wilhelm Gottfried Freiherr</forename>
+                    </persName>
+                    <birth>1848</birth>
+                    <death/>
+                    <note>Sohn von <persName key="ed_hdw_ddh_ldb">Rudolf Otto Louis Hermann Freiherr
+                            von Schenk zu Tautenburg</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_zkw_3rm_s3b">
+                    <persName type="reg">
+                        <surname>Schenk von Tautenburg</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth>1526</birth>
+                    <death>1570</death>
+                    <note>auf Doben</note>
+                </person>
+                <person xml:id="ed_x52_1zw_42b">
+                    <persName type="reg">
+                        <surname>Scherer</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Porträtmaler (1727)</note>
+                </person>
+                <person xml:id="ed_qmq_sw2_n2b">
+                    <persName type="reg">
+                        <surname>Scherwitz</surname>
+                        <forename>W.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Orgelbauer (1784)</note>
+                </person>
+                <person xml:id="ed_evv_4kl_ddb">
+                    <persName type="reg">
+                        <surname>Scheumann</surname>
+                        <forename>Auguste</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1854 Milchmädchen in Steinort</note>
+                </person>
+                <person xml:id="ed_osx_mgq_dz">
+                    <persName type="reg">
+                        <surname>Scheumann</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death>1852</death>
+                    <note>1852 Schäfer in Rosengarten</note>
+                </person>
+                <person xml:id="ed_bc3_grw_gkb">
+                    <persName type="reg">
+                        <surname>Scheumann</surname>
+                        <forename>Fabian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1732 Untertan in den Steinortschen Gütern</note>
+                </person>
+                <person xml:id="ed_clc_sfl_wcb">
+                    <persName type="reg">
+                        <surname>Schiemann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Verwalter in Steinort (1824, 1837)</note>
+                </person>
+                <person xml:id="ed_gzm_2dx_2lb">
+                    <idno type="uri">https://d-nb.info/gnd/11860760X</idno>
+                    <persName type="reg">
+                        <surname>Schill</surname>
+                        <forename>Ferdinand von </forename>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1809</death>
+                </person>
+                <person xml:id="ed_bns_bhc_t2b">
+                    <persName type="reg">
+                        <surname>Schiller</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1727)</note>
+                </person>
+                <person xml:id="ed_lkd_zcv_12b">
+                    <idno type="uri">https://d-nb.info/gnd/118607626</idno>
+                    <persName type="reg">
+                        <surname>Schiller</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1759</birth>
+                    <death>1805</death>
+                </person>
+                <person xml:id="ed_rbx_1bx_43b">
+                    <persName type="reg">
+                        <surname>Schillinger</surname>
+                        <forename>G.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hausarzt von Carl Friedrich Ludwig und Pauline von Lehndorff</note>
+                </person>
+                <person xml:id="ed_fhp_3p3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/118917323</idno>
+                    <persName type="reg">
+                        <surname>Schimmelmann</surname>
+                        <forename>Heinrich Karl von</forename>
+                    </persName>
+                    <birth>1724</birth>
+                    <death>1782</death>
+                </person>
+                <person xml:id="ed_bl2_lpk_wcb">
+                    <persName type="reg">
+                        <surname>Schimmelpfennig von der Oye</surname>
+                        <forename>Friedrich Christian</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Schimmelfennig</surname>
+                        <forename/>
+                    </persName>
+                    <birth>1758</birth>
+                    <death>1873</death>
+                    <note>Besitzer von Breitenstein b. Kraupischken in Litauen; seit 1791 im
+                        Staatsdienst, Kammerassesor, Kriegsrat in Königsberg, 1794 Kriegskommissar
+                        in Pultusk, Stadtpräsident von Warschau, 1796 Polizeipräsident von
+                        Byalistok, Geheimer Rat, 1799 Kammerpräsident ebd., 1801-1804 Besitzer der
+                        Herrschaf Cziechanowiez in Polen, 1801 Abschied vom Staatsdienst; Heirat:
+                        Gertrud Amalie verw. Thiernbach, geb. von Wenkstern; 1813 Deputierter von
+                        den adligen Ständen des Tilsitschen Kreises; Bujack, Georg, Zum Andenken an
+                        die Mitglieder des Königsberger Landtags im Februar 1813, an die
+                        Ostpreußischen Landwehr-Bataillone und das Ostpreußische
+                        National-Cavallerie-Regiment anno 1813 und 1814, Königsberg 1890, S. 140
+                        f.</note>
+                </person>
+                <person xml:id="ed_etp_pqj_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/118607782</idno>
+                    <persName type="reg">
+                        <surname>Schinkel</surname>
+                        <forename>Karl Friedrich</forename>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1841</death>
+                </person>
+                <person xml:id="ed_o2m_x3q_dz">
+                    <persName type="reg">
+                        <surname>Schirrmeister</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rendant in Steinort (1884, 1893)</note>
+                </person>
+                <person xml:id="ed_ibl_wpw_mbb">
+                    <persName type="reg">
+                        <surname>Schirrwagen</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Maurermeister in Steinort </note>
+                </person>
+                <person xml:id="ed_dg3_lzk_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/124127088</idno>
+                    <persName type="reg">
+                        <surname>Schlabrendorff</surname>
+                        <forename>Ernst Wilhelm Graf von</forename>
+                    </persName>
+                    <birth>1719</birth>
+                    <death>1769</death>
+                </person>
+                <person xml:id="ed_g5f_jq1_dy">
+                    <idno type="uri">http://d-nb.info/gnd/118607855</idno>
+                    <persName type="reg">
+                        <surname>Schlabrendorff</surname>
+                        <forename>Fabian Graf von</forename>
+                    </persName>
+                    <birth>1907</birth>
+                    <death>1980</death>
+                </person>
+                <person xml:id="ed_a4j_kwj_d2b">
+                    <persName type="reg">
+                        <surname>Schlabrendorff</surname>
+                        <forename>Ludwig Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberstleutenant, Kommandeur des 6. Ostpreußischen Infanterie-Regiments Nr.
+                        43 (1860)</note>
+                </person>
+                <person xml:id="ed_ulp_w53_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/117323772</idno>
+                    <persName type="reg">
+                        <surname>Schleinitz</surname>
+                        <forename>Alexander von</forename>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1885</death>
+                </person>
+                <person xml:id="ed_smn_fqr_52b">
+                    <idno type="uri">https://d-nb.info/gnd/136697755</idno>
+                    <persName type="reg">
+                        <surname>Schleswig-Holstein-Gottorf</surname>
+                        <forename>Georg Ludwig von</forename>
+                    </persName>
+                    <birth>1719</birth>
+                    <death>1763</death>
+                </person>
+                <person xml:id="ed_otg_tmk_wcb">
+                    <idno type="uri">https://d-nb.info/gnd/138891192</idno>
+                    <persName type="reg">
+                        <surname>Schleswig-Holstein-Sonderburg-Augustenburg</surname>
+                        <forename>Christian August Prinz von</forename>
+                    </persName>
+                    <birth>1768</birth>
+                    <death>1810</death>
+                </person>
+                <person xml:id="ed_y1x_frf_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/135924537</idno>
+                    <persName type="reg">
+                        <surname>Schleswig-Holstein-Sonderburg-Beck</surname>
+                        <forename>Friedrich Wilhelm II. Herzog von</forename>
+                    </persName>
+                    <birth>1687</birth>
+                    <death>1749</death>
+                </person>
+                <person xml:id="ed_kls_v2b_ycb">
+                    <persName type="reg">
+                        <surname>Schlichting</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Labab (1735)</note>
+                </person>
+                <person xml:id="ed_nlp_5nr_52b">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Adam Friedrich Graf von</forename>
+                    </persName>
+                    <birth>1677</birth>
+                    <death>1752</death>
+                    <note>Heirat: 1718 <persName key="ed_d35_14r_52b">Hedwig Luise Prinzessin von
+                            Hessen-Homburg</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_stk_x3l_wcb">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Aurora Gräfin von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1825)</note>
+                </person>
+                <person xml:id="ed_uvz_wgp_mbb">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Ernst Sigismund Graf von</forename>
+                    </persName>
+                    <birth>1677</birth>
+                    <death>1741</death>
+                    <note>königlich-preußischer Kammerherr und Kammerpräsident; Hauptmann zu
+                        Rastenburg; Erbhauptmann auf Birkenfeld, Gerdauen, Nordenburg, Schönberg,
+                        Glaubitten, Haberstorf und Beynuhnen</note>
+                </person>
+                <person xml:id="ed_b1y_z32_b2b">
+                    <idno type="uri">https://d-nb.info/gnd/1036695611</idno>
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Friedrich Karl Graf von</forename>
+                    </persName>
+                    <birth>1716</birth>
+                    <death>1791</death>
+                </person>
+                <person xml:id="ed_hkx_x2q_tcb">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Friedrich Wilhelm Ernst Graf von</forename>
+                    </persName>
+                    <birth>1748</birth>
+                    <death>1816</death>
+                    <note>auf Birkenfeld; Heirat: 1772 <persName key="ed_q41_t2q_tcb">Marie Karoline
+                            Gräfin von Schlieben</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_fl1_lgs_lcb">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Georg Adam Graf von</forename>
+                    </persName>
+                    <birth>1760</birth>
+                    <death>1817</death>
+                    <note>auf Gerdauen; 1811 und 1812 Landesrepräsentant für Ostpreußen in Berlin,
+                        Februar 1813 Mitglied des ostpreußischen Landtages; Heirat: 1795 Ernestine
+                        Louise Auguste Gräfin von Blumenthal (1776-1829) (Scheidung 1807)</note>
+                </person>
+                <person xml:id="ed_apx_myj_w2b">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Georg Albert Graf von</forename>
+                    </persName>
+                    <birth>1728</birth>
+                    <death>1795</death>
+                    <note>Administrator von Gerdauen und Nordenburg; königlich-preußischer
+                        Generallandschaftsrat; Heirat: <persName key="ed_asd_mdl_w2b">Katharina
+                            Elisabeth von der Marwitz</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_s2l_ppl_f2b">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Georg Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Sanditten (1874)</note>
+                </person>
+                <person xml:id="ed_gnd_zhm_ngb">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Gotthard Christoph von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1712-1722 Verweser der Amtshauptmannschaft Insterburg</note>
+                </person>
+                <person xml:id="ed_cpm_33y_ydb">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Grafen von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>https://de.wikipedia.org/wiki/Schlieben_(Adelsgeschlecht)</note>
+                </person>
+                <person xml:id="ed_rq1_rjc_py">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Gustav Dietrich Graf von</forename>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1874</death>
+                    <note>auf Sanditten</note>
+                </person>
+                <person xml:id="ed_zm3_ztc_py">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Gustav Karl Georg Graf von</forename>
+                    </persName>
+                    <birth>1834</birth>
+                    <death>1914</death>
+                    <note>auf Sanditten; Mitglied des Preußischen Herrenhauses</note>
+                </person>
+                <person xml:id="ed_q4n_cwc_py">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Helene Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Boddien, von</name>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1900</death>
+                    <note>Heirat: 1860 <persName key="ed_rq1_rjc_py">Gustav Karl Georg Graf von
+                            Schlieben</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_sl4_t4j_tcb">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Johann Friedrich Graf von</forename>
+                    </persName>
+                    <birth>1630</birth>
+                    <death>1696</death>
+                    <note> kurbrandenburgischer Generalmajor; Amtshauptmann von Tilsit</note>
+                </person>
+                <person xml:id="ed_szd_1z2_n2b">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Karl Heinrich Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Gerdauen (1784)</note>
+                </person>
+                <person xml:id="ed_zqm_ymf_hy">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Karl Leopold Graf von</forename>
+                    </persName>
+                    <birth>Magdeburg 3.2.1723</birth>
+                    <death>Königsberg 18.4.1788</death>
+                    <note>auf Sanditten: 1769-1772 königlich-preußischer Kriegsminister; Heirat:
+                        12.6.1747 Marie Eleonore Gräfin von <persName key="ed_wwb_gcm_2y"
+                            >Lehndorff</persName>; Kinder: <persName key="ed_wmt_g5z_g1b">Ludwig
+                            Friedrich Leopold</persName>, <persName key="ed_ok2_3xf_hy">Friederike
+                            Amelie</persName>, <persName key="ed_q41_t2q_tcb">Marie
+                            Karoline</persName>, Karl Heinrich Graf von Schlieben (zwischen 1728 und
+                        1784); Herr auf Gerdauen-Sanditten</note>
+                </person>
+                <person xml:id="ed_asd_mdl_w2b">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Katharina Elisabeth Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Marwitz, von der</name>
+                    </persName>
+                    <birth>1733</birth>
+                    <death>1807</death>
+                    <note>Heirat: <persName key="ed_apx_myj_w2b">Georg Albert von
+                            Schlieben</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_wmt_g5z_g1b">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Ludwig Friedrich Leopold Graf von</forename>
+                    </persName>
+                    <birth>1748</birth>
+                    <death>1799</death>
+                    <note>auf Sanditten; Eltern: <persName key="ed_zqm_ymf_hy">Karl Leopold Graf von
+                            Schlieben-Sanditten</persName> und <persName key="ed_d3h_sy4_mbb">Marie
+                            Eleonore Gräfin von Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_cdm_bw2_n2b">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Luise Ernestine Ferdinande Sophie Gräfin von </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Ysenburg und Büdingen, Gräfin von</name>
+                    </persName>
+                    <birth>1750</birth>
+                    <death>1812</death>
+                    <note>Heirat: Leopold Graf von Schlieben (1748-1799)</note>
+                </person>
+                <person xml:id="ed_e2r_lpn_v2b">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Major Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Major im Regiment Tettenborn (1767)</note>
+                </person>
+                <person xml:id="ed_t3h_fwb_hkb">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Maria Elisabeth von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1698</death>
+                    <note>auf Wandlacken; Heirat: Johann Graf von Dönhoff</note>
+                </person>
+                <person xml:id="ed_zsm_n55_sy">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Marie Eleonore Gräfin von </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Lehndorff, Gräfin von</name>
+                    </persName>
+                    <birth>1722(23)</birth>
+                    <death>1800</death>
+                    <note>Heirat: 1747 Karl Leopold Graf von <persName key="ed_zqm_ymf_hy"
+                            >Schlieben-Gerdauen</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_q41_t2q_tcb">
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Marie Sophie Ferdinande Karoline Gräfin von</forename>
+                    </persName>
+                    <birth>1752</birth>
+                    <death>1832</death>
+                    <note>Heirat: 1772 <persName key="ed_hkx_x2q_tcb">Friedrich Wilhelm Ernst Graf
+                            von Schlieben-Birkenfeld</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_omj_ygp_4fb">
+                    <idno type="uri">https://d-nb.info/gnd/11875940X</idno>
+                    <persName type="reg">
+                        <surname>Schlieben</surname>
+                        <forename>Martin Ernst von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Schlieffen</name>
+                    </persName>
+                    <birth>1732</birth>
+                    <death>1825</death>
+                </person>
+                <person xml:id="ed_u2c_wxz_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/133855872</idno>
+                    <persName type="reg">
+                        <surname>Schlieckmann</surname>
+                        <forename>Albrecht von</forename>
+                    </persName>
+                    <birth>1835</birth>
+                    <death>1891</death>
+                </person>
+                <person xml:id="ed_cyb_y4n_my">
+                    <persName type="reg">
+                        <surname>Schlieckmann</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: <persName key="ed_u2c_wxz_g2b">Albrecht von
+                            Schlieckmann,</persName> Oberpräsident von Ostpreußen</note>
+                </person>
+                <person xml:id="ed_y2y_5r1_hfb">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Adelheid Charlotte Ottilie Alexandrine Gräfin von</forename>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1916</death>
+                    <note>Heirat: 1856 Georg Demetrius von Kleist</note>
+                </person>
+                <person xml:id="ed_fxl_5l5_ncb">
+                    <idno type="uri">http://d-nb.info/gnd/117329010</idno>
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Albert Graf von</forename>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1886</death>
+                </person>
+                <person xml:id="ed_rhh_m3w_scb">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Christina Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Haeseler, von</name>
+                    </persName>
+                    <birth>1736</birth>
+                    <death>1811</death>
+                    <note>Heirat: 1763 Karl Ernst Georg Graf von Schlippenbach (1738-1794)</note>
+                </person>
+                <person xml:id="ed_a2q_y4z_g2b">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Elise Gräfin von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1883)</note>
+                </person>
+                <person xml:id="ed_vrm_zcf_4y">
+                    <idno type="uri">http://d-nb.info/gnd/139581995</idno>
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Ferdinand Graf von</forename>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1866</death>
+                </person>
+                <person xml:id="ed_zf3_1r1_hfb">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Fritz Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1856)</note>
+                </person>
+                <person xml:id="ed_ey5_dvs_kfb">
+                    <idno type="uri">https://d-nb.info/gnd/117329053</idno>
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Gabriele Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="pseudonym">
+                        <name> Rivutat, Herbert</name>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1937</death>
+                </person>
+                <person xml:id="ed_ttn_2vs_kfb">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Ina Gräfin von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1887)</note>
+                </person>
+                <person xml:id="ed_wj2_wx3_tdb">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Karl Ernst Graf von</forename>
+                    </persName>
+                    <birth>1738</birth>
+                    <death>1794</death>
+                    <note>auf Schönermark, Uckermark; preußischer Kammerherr, Hofmarschall des
+                        Prinzen Heinrich; Heirat: 1763 Christiane von Haeseler (1746-1811); Schwager
+                        von <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich Graf von
+                            Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_d2t_jvy_rcb">
+                    <idno type="uri">http://d-nb.info/gnd/117329088</idno>
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Karl Friedrich Graf von</forename>
+                    </persName>
+                    <birth>1658</birth>
+                    <death>1723</death>
+                </person>
+                <person xml:id="ed_cs1_2ml_wcb">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Karoline Friederike Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Beust, Gräfin von</name>
+                    </persName>
+                    <birth>1772</birth>
+                    <death>1826</death>
+                    <note>Heirat: 1793 Karl Friedrich Wilhelm Graf von Schlippenbach (1768-1830),
+                        auf Schönermark und Arendsee</note>
+                </person>
+                <person xml:id="ed_n1x_cs3_d2b">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Leonide Gräfin von</forename>
+                    </persName>
+                    <birth>1839</birth>
+                    <death>1923</death>
+                    <note>Heirat: 1865 Adolf Hermann von Kries (1833-1908)</note>
+                </person>
+                <person xml:id="ed_l31_pbz_1lb">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Mortimer Achill</forename>
+                    </persName>
+                    <birth>1843</birth>
+                    <death>1881</death>
+                    <note>Sohn von <persName key="ed_cgt_t5s_kfb">Otto Graf von
+                            Schlippenbach</persName>.
+                        https://friendsofhastingscemetery.org.uk/vonschlippenbach.html</note>
+                </person>
+                <person xml:id="ed_cgt_t5s_kfb">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Otto Graf von</forename>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1888</death>
+                    <note>https://friendsofhastingscemetery.org.uk/vonschlippenbach.html</note>
+                </person>
+                <person xml:id="ed_sn5_cvs_kfb">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Otto jr. Graf von</forename>
+                    </persName>
+                    <birth>1842</birth>
+                    <death/>
+                    <note>https://friendsofhastingscemetery.org.uk/vonschlippenbach.html</note>
+                </person>
+                <person xml:id="ed_c1d_p5s_kfb">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Violet Gräfin von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter von <persName key="ed_cgt_t5s_kfb">Otto Graf von
+                            Schlippenbach</persName>.
+                        https://friendsofhastingscemetery.org.uk/vonschlippenbach.html</note>
+                </person>
+                <person xml:id="ed_wm5_2t3_wz">
+                    <persName type="reg">
+                        <surname>Schlippenbach</surname>
+                        <forename>Wilhelm Graf von</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1842</death>
+                    <note>preußischer Major und persönlicher Adjutant des Prinzen Karl von Preußen;
+                        Schwager von <persName key="ed_k4z_jgl_2y">Carl Friedrich Ludwig Graf von
+                            Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_qht_rzf_h1b">
+                    <idno type="uri">http://d-nb.info/gnd/11860841X</idno>
+                    <persName type="reg">
+                        <surname>Schlüter</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <birth>1659</birth>
+                    <death>1714</death>
+                </person>
+                <person xml:id="ed_m2p_tq5_22b">
+                    <persName type="reg">
+                        <surname>Schlüter</surname>
+                        <forename>Marie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Musiklehrerin, Berlin</note>
+                </person>
+                <person xml:id="ed_qqy_f3h_scb">
+                    <persName type="reg">
+                        <surname>Schmaltz</surname>
+                        <forename>Christoph Ludwig</forename>
+                    </persName>
+                    <birth>1729</birth>
+                    <death>1772</death>
+                    <note>Geheimer Finanzrat im Generaldirektorium</note>
+                </person>
+                <person xml:id="ed_b4v_4ld_b2b">
+                    <idno type="uri">https://d-nb.info/gnd/117455490</idno>
+                    <persName type="reg">
+                        <surname>Schmalz</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1847</death>
+                </person>
+                <person xml:id="ed_j1v_3ln_scb">
+                    <persName type="reg">
+                        <surname>Schmeling</surname>
+                        <forename>Ulrike Henriette Baronin von </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Lepel, von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hofmeisterin der Prinzessin Charlotte</note>
+                </person>
+                <person xml:id="ed_gbt_lcd_d2b">
+                    <persName type="reg">
+                        <surname>Schmeltzer</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1856)</note>
+                </person>
+                <person xml:id="ed_tll_ddf_mjb">
+                    <persName type="reg">
+                        <surname>Schmettau</surname>
+                        <forename>Bernhard Friedrich Graf von</forename>
+                    </persName>
+                    <birth>1724</birth>
+                    <death>1802</death>
+                </person>
+                <person xml:id="ed_eyb_g1m_cz">
+                    <persName type="reg">
+                        <surname>Schmettau</surname>
+                        <forename>Carl Leopold Gottfried Graf von</forename>
+                    </persName>
+                    <birth>24.10.1722</birth>
+                    <death>Königsberg 16.8.1776</death>
+                    <note>Reichsgrafenstand Frankfurt a. M. 24.2.1742; auf Stonsdorf; kgl. preuß.
+                        Oberhofjägermeister; Heirat: 1750 <persName key="ed_pt5_vz5_vz">Wilhelmine
+                            Amalie von Schwerin-Wolfshagen</persName>; Kinder: <persName
+                            key="ed_gnc_c1m_2y">Amalie Caroline</persName>; Friederike Henriette
+                        (28.7.1753-19.8.1786, Heirat: 17.7.1784 Heinrich XXXVIII Reichsgraf Reuß von
+                        Plauen-Schleiz); Schwiegervater von <persName key="ed_csb_mdf_cy">Ernst
+                            Ahasverus Heinrich von Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_xbh_32q_tdb">
+                    <persName type="reg">
+                        <surname>Schmettau</surname>
+                        <forename>Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="pseudonym">
+                        <name>Gräfin von Siebeneichen</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note> (1769)</note>
+                </person>
+                <person xml:id="ed_obb_d2y_d2b">
+                    <persName type="reg">
+                        <surname>Schmettau</surname>
+                        <forename>Henriette Gräfin von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1832</death>
+                    <note>(1868)</note>
+                </person>
+                <person xml:id="ed_vp1_lbq_rdb">
+                    <persName type="reg">
+                        <surname>Schmettau</surname>
+                        <forename>Maria Anna Johanna von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Riffer, von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Witwe des 1751 verstorbenen preußischen Generalfeldmarschalls <persName
+                            key="ed_owc_fxh_tdb">Samuel von Schmettau</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_owc_fxh_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/119485338</idno>
+                    <persName type="reg">
+                        <surname>Schmettau</surname>
+                        <forename>Samuel von</forename>
+                    </persName>
+                    <birth>1684</birth>
+                    <death>1751</death>
+                </person>
+                <person xml:id="ed_pt5_vz5_vz">
+                    <persName type="reg">
+                        <surname>Schmettau</surname>
+                        <forename>Wilhelmine Amalie Gräfin von </forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Schmettow</name>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schwerin-Wolfshagen, Gräfin von</name>
+                    </persName>
+                    <birth>1734</birth>
+                    <death>1784</death>
+                    <note>Heirat: 1750 <persName key="ed_eyb_g1m_cz">Carl Leopold Gottfried Graf von
+                            Schmettau</persName>; Schwiegermutter von <persName key="ed_csb_mdf_cy"
+                            >Ernst Ahasverus Heinrich von Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_z3r_cbr_v2b">
+                    <persName type="reg">
+                        <surname>Schmidt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pastellmaler, Dresden (1778)</note>
+                </person>
+                <person xml:id="ed_tt1_vzz_ncb">
+                    <persName type="reg">
+                        <surname>Schmidt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Justizamtmann (1784)</note>
+                </person>
+                <person xml:id="ed_cjp_qyt_ncb">
+                    <persName type="reg">
+                        <surname>Schmidt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1883 Gast in Bad Gastein</note>
+                </person>
+                <person xml:id="ed_bgw_l1w_h2b">
+                    <persName type="reg">
+                        <surname>Schmidt</surname>
+                        <forename>Amalie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schneidermädchen, Possessern (1893)</note>
+                </person>
+                <person xml:id="ed_r14_x4h_my">
+                    <persName type="reg">
+                        <surname>Schmidt</surname>
+                        <forename>C.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1891 Amtsvorsteher in Steinort </note>
+                </person>
+                <person xml:id="ed_tqg_hkb_hkb">
+                    <persName type="reg">
+                        <surname>Schmidt</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Witwe von Friedrich Schmidt (1719)</note>
+                </person>
+                <person xml:id="ed_y1b_xmd_py">
+                    <persName type="reg">
+                        <surname>Schmidt</surname>
+                        <forename>Herrmann</forename>
+                    </persName>
+                    <birth>1821</birth>
+                    <death/>
+                    <note>1848 kommissarischer, 1851-18610 Landrat in Angerburg</note>
+                </person>
+                <person xml:id="ed_gzn_mss_s2b">
+                    <persName type="reg">
+                        <surname>Schmidt</surname>
+                        <forename>S.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Homöopath, Riola (Spanien) (1882/83)</note>
+                </person>
+                <person xml:id="ed_qvk_pdc_rhb">
+                    <persName type="reg">
+                        <surname>Schmidt</surname>
+                        <forename>Samuel Heinrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kommerzien- und Admiralitätsrat, seit 1791 Mandatarius des Grafen von
+                        Lehndorff </note>
+                </person>
+                <person xml:id="ed_ek2_tmt_c2b">
+                    <persName type="reg">
+                        <surname>Schmidt</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1832)</note>
+                </person>
+                <person xml:id="ed_ecr_2lh_my">
+                    <idno type="uri">http://d-nb.info/gnd/104086793</idno>
+                    <persName type="reg">
+                        <surname>Schmidt(-Lötzen)</surname>
+                        <forename>Karl Eduard</forename>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1927</death>
+                </person>
+                <person xml:id="ed_fy2_qw5_zdb">
+                    <persName type="reg">
+                        <surname>Schmidtchen</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1944 Kommandant im OKH Mauerwald</note>
+                </person>
+                <person xml:id="ed_igy_rr4_fy">
+                    <idno type="uri">http://d-nb.info/gnd/119048981</idno>
+                    <persName type="reg">
+                        <surname>Schmoller</surname>
+                        <forename>Gustav von</forename>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1917</death>
+                </person>
+                <person xml:id="ed_ipw_tqz_jlb">
+                    <persName type="reg">
+                        <surname>Schmoller</surname>
+                        <forename>Lucie</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Rathgen</name>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1928</death>
+                    <note>Heirat: <persName key="ed_igy_rr4_fy">Gustav von Schmoller</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_rjl_dp4_s3b">
+                    <persName type="reg">
+                        <surname>Schober</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulkamerad von Georg von Lehndorff</note>
+                </person>
+                <person xml:id="ed_okq_mcq_dz">
+                    <persName type="reg">
+                        <surname>Schober</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Wachtmeister (1852)</note>
+                </person>
+                <person xml:id="ed_o2x_p2b_dy">
+                    <idno type="uri">http://d-nb.info/gnd/137186169</idno>
+                    <persName type="reg">
+                        <surname>Scholl</surname>
+                        <forename>Friedrich von</forename>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1928</death>
+                </person>
+                <person xml:id="ed_bzn_wkp_tdb">
+                    <persName type="reg">
+                        <surname>Scholtz</surname>
+                        <forename> </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>geschiedene Eulenburg-Rohmsdorf; Amtmannsgattin (1767)</note>
+                </person>
+                <person xml:id="ed_b2n_fn2_b2b">
+                    <persName type="reg">
+                        <surname>Schön</surname>
+                        <forename>Amalie von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Langenau, von</name>
+                    </persName>
+                    <birth>ca. 1780</birth>
+                    <death/>
+                    <note>Heirat: 1808 <persName key="ed_q1t_d2f_4y">Theodor von Schön</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_q1t_d2f_4y">
+                    <idno type="uri">http://d-nb.info/gnd/118610007</idno>
+                    <persName type="reg">
+                        <surname>Schön</surname>
+                        <forename>Theodor von</forename>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1856</death>
+                </person>
+                <person xml:id="ed_yk2_pj5_sdb">
+                    <persName type="reg">
+                        <surname>Schönert</surname>
+                        <forename>Hede</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kunsthändlerin, Dresden. Die Kunsthandlung H. Schönert hat sowohl an den
+                        „Sonderauftrag Linz“ (SAL) als auch an die Dresdner Sammlungen verkauft.
+                        Auch nach dem Krieg war sie im Kunsthandel aktiv. Die Galerie Hede Schönert
+                        befand sich am Neumarkt und wurde bei einem Bombenangriff in Mitleidenschaft
+                        gezogen. Später agierte sie wohl von Dresden-Loschwitz aus.
+                        https://www.bva.bund.de/SharedDocs/Provenienzen/DE/8000_8999/8620.html</note>
+                </person>
+                <person xml:id="ed_svq_dqw_mbb">
+                    <persName type="reg">
+                        <surname>Schönfeld</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Knecht in Steinort</note>
+                </person>
+                <person xml:id="ed_y4t_qkm_33b">
+                    <persName type="reg">
+                        <surname>Schönfeld</surname>
+                        <forename>Familie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort. http://www.datenbank-nord-masuren.besaweb.de/</note>
+                </person>
+                <person xml:id="ed_sxl_m2x_clb">
+                    <persName type="reg">
+                        <surname>Schönfeldt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Entlaufener</note>
+                </person>
+                <person xml:id="ed_dsq_b3v_mbb">
+                    <persName type="reg">
+                        <surname>Schönfeldt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1785 Dienstmädchen in Steinort</note>
+                </person>
+                <person xml:id="ed_plp_cpv_22b">
+                    <idno type="uri">http://d-nb.info/gnd/1030010897</idno>
+                    <persName type="reg">
+                        <surname>Schöning</surname>
+                        <forename>Eduard </forename>
+                    </persName>
+                    <birth/>
+                    <death>1889</death>
+                </person>
+                <person xml:id="ed_ntc_sgr_v2b">
+                    <persName type="reg">
+                        <surname>Schöning</surname>
+                        <forename>Ernst Emanuel Sigismund von</forename>
+                    </persName>
+                    <birth>1743</birth>
+                    <death>1827</death>
+                    <note> preußischer Offizier, zuletzt Generalleutnant.
+                        https://de.wikipedia.org/wiki/Ernst_von_Sch%C3%B6ning</note>
+                </person>
+                <person xml:id="ed_wrb_zdp_tdb">
+                    <persName type="reg">
+                        <surname>Schöning</surname>
+                        <forename>Hans Friedrich von</forename>
+                    </persName>
+                    <birth>1717</birth>
+                    <death>1787</death>
+                    <note>preußischer Kammerpräsident, stand von 1763 bis zu seinem Tod der
+                        Pommerschen Kriegs- und Domänenkammer vor.
+                        https://de.wikipedia.org/wiki/Hans_Friedrich_von_Schöning</note>
+                </person>
+                <person xml:id="ed_k1q_2m3_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/118610473</idno>
+                    <persName type="reg">
+                        <surname>Schopenhauer</surname>
+                        <forename>Johanna </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Trosiener</name>
+                    </persName>
+                    <birth>1766</birth>
+                    <death>1838</death>
+                </person>
+                <person xml:id="ed_t1b_5yw_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/119300931</idno>
+                    <persName type="reg">
+                        <surname>Schoppmeyer</surname>
+                        <forename>Ansgar</forename>
+                    </persName>
+                    <birth>1857</birth>
+                    <death>1922</death>
+                </person>
+                <person xml:id="ed_vj1_vdq_mbb">
+                    <idno type="uri">http://d-nb.info/gnd/138197431</idno>
+                    <persName type="reg">
+                        <surname>Schorlemer</surname>
+                        <forename>Ludwig Wilhelm von</forename>
+                    </persName>
+                    <birth>1695</birth>
+                    <death>1776</death>
+                </person>
+                <person xml:id="ed_pd3_2jw_12b">
+                    <persName type="reg">
+                        <surname>Schott</surname>
+                        <forename>Alfred</forename>
+                    </persName>
+                    <birth>1895</birth>
+                    <death>1973</death>
+                    <note>Lehrer; eröffnete 1938 das erste Glauchauer Heimatmuseum im Schloss
+                        Hinterglauchau der Familie von Schönburg; nach 1945
+                        Direktor.https://www.glauchau.de/glauchau/content/12/25112003155821.asp</note>
+                </person>
+                <person xml:id="ed_a1k_ydv_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/102930422X</idno>
+                    <persName type="reg">
+                        <surname>Schrader</surname>
+                        <forename>Werner</forename>
+                    </persName>
+                    <birth>1895</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_trd_lhv_12b">
+                    <persName type="reg">
+                        <surname>Schramm</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kulturhistorisches Zentralmuseum (1947)</note>
+                </person>
+                <person xml:id="ed_zhf_cvk_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/117045470</idno>
+                    <persName type="reg">
+                        <surname>Schreiber-Weigand</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1879</birth>
+                    <death>1953</death>
+                </person>
+                <person xml:id="ed_vhq_1tg_gcb">
+                    <persName type="reg">
+                        <surname>Schröder</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Verwalter des Hauses der Grafen von Lehndorff in Berlin (1785, 1793, 1813,
+                        1814)</note>
+                </person>
+                <person xml:id="ed_n5g_bzj_tcb">
+                    <persName type="reg">
+                        <surname>Schröder</surname>
+                        <forename>Charlotte Sophie</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Pfundt</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau? des Verwalters <persName key="ed_vhq_1tg_gcb">Schröder</persName>
+                        in Berlin</note>
+                </person>
+                <person xml:id="ed_x5d_mb5_gfb">
+                    <idno type="uri">https://d-nb.info/gnd/104066547</idno>
+                    <persName type="reg">
+                        <surname>Schröter</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1865</death>
+                </person>
+                <person xml:id="ed_pjb_sfv_zdb">
+                    <persName type="reg">
+                        <surname>Schroth</surname>
+                        <forename>Walter</forename>
+                    </persName>
+                    <birth>1882</birth>
+                    <death>1944</death>
+                    <note>deutscher Offizier, zuletzt General der Infanterie im Zweiten Weltkrieg.
+                        https://de.wikipedia.org/wiki/Walter_Schroth</note>
+                </person>
+                <person xml:id="ed_vhr_wjh_cy">
+                    <persName type="reg">
+                        <surname>Schrötter</surname>
+                        <forename>Anna Pauline Agnes Freiin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Lehndorff, Anna Gräfin von</name>
+                    </persName>
+                    <birth>Dresden 26.7.1853</birth>
+                    <death>Groß-Wohnsdorf 9.4.1933</death>
+                    <note>Heirat: Steinort 14.6.1884 Siegmar Freiherr von <persName
+                            key="ed_s1m_sqn_my">Schrötter</persName>; Kinder: <persName
+                            key="ed_ms2_tyf_h1b">Anni</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_a1g_lr4_fy">
+                    <idno type="uri">http://d-nb.info/gnd/119048981</idno>
+                    <persName type="reg">
+                        <surname>Schrötter</surname>
+                        <forename>Friedrich Freiherr von</forename>
+                    </persName>
+                    <birth>1862</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_ifh_zd1_hy">
+                    <idno type="uri">http://d-nb.info/gnd/117099023</idno>
+                    <persName type="reg">
+                        <surname>Schrötter</surname>
+                        <forename>Friedrich Leopold Freiherr von </forename>
+                    </persName>
+                    <birth>1743</birth>
+                    <death>1815</death>
+                </person>
+                <person xml:id="ed_cfp_kzw_h2b">
+                    <persName type="reg">
+                        <surname>Schrötter</surname>
+                        <forename>Hermann Leopold Freiherr von</forename>
+                    </persName>
+                    <birth>1817</birth>
+                    <death>1893</death>
+                    <note>Fideikommissherr auf Wohnsdorf; kgl. preuß. Premier-Leutnant,
+                        Johanniterordensritter</note>
+                </person>
+                <person xml:id="ed_lpv_jjp_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/1014415764</idno>
+                    <persName type="reg">
+                        <surname>Schrötter</surname>
+                        <forename>Karl Wilhelm von</forename>
+                    </persName>
+                    <birth>1748</birth>
+                    <death>1819</death>
+                </person>
+                <person xml:id="ed_s1m_sqn_my">
+                    <idno type="uri">http://d-nb.info/gnd/1014415969</idno>
+                    <persName type="reg">
+                        <surname>Schrötter</surname>
+                        <forename>Siegmar Ernst Leopold Hermann Freiherr von</forename>
+                    </persName>
+                    <birth>Groß-Wohnsdorf 5.2.1852</birth>
+                    <death>Groß-Wohnsdorf 10.3.1923</death>
+                    <note>Heirat: Steinort 14.6.1884 Anna Gräfin von <persName key="ed_vhr_wjh_cy"
+                            >Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_pbh_dj3_h2b">
+                    <persName type="reg">
+                        <surname>Schrötter</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1876</death>
+                    <note>preußischer Jurist und Landrat; war von Februar bis Mai 1849 Mitglied der
+                        Frankfurter Nationalversammlung.
+                        https://de.wikipedia.org/wiki/Wilhelm_von_Schrötter</note>
+                </person>
+                <person xml:id="ed_yjk_4d4_xdb">
+                    <idno type="uri">http://d-nb.info/gnd/117160180</idno>
+                    <persName type="reg">
+                        <surname>Schulenburg</surname>
+                        <forename>Alexander Friedrich George Graf von der</forename>
+                    </persName>
+                    <birth>1745</birth>
+                    <death>1790</death>
+                </person>
+                <person xml:id="ed_gcn_zvh_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/118611240</idno>
+                    <persName type="reg">
+                        <surname>Schulenburg</surname>
+                        <forename>Fritz-Dietlof Graf von der</forename>
+                    </persName>
+                    <birth>1902</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_w4k_5gd_b2b">
+                    <persName type="reg">
+                        <surname>Schulenburg</surname>
+                        <forename>Graf von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Machnow (1810)</note>
+                </person>
+                <person xml:id="ed_rht_ggv_g2b">
+                    <persName type="reg">
+                        <surname>Schulenburg</surname>
+                        <forename>Julius Graf von der</forename>
+                    </persName>
+                    <birth>1809</birth>
+                    <death>1893</death>
+                    <note>preußischer Generalleutnant, Hofmarschall, Rechtsritter des
+                        Johanniterordens.
+                        https://de.wikipedia.org/wiki/Julius_von_der_Schulenburg</note>
+                </person>
+                <person xml:id="ed_v45_f35_2z">
+                    <persName type="reg">
+                        <surname>Schulenburg</surname>
+                        <forename>Sophie Charlotte von der</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Veltheim, von</name>
+                    </persName>
+                    <birth>1735</birth>
+                    <death>1793</death>
+                    <note>Heirat: 1757 Gebhard Werner von der Schulenburg</note>
+                </person>
+                <person xml:id="ed_dbl_hnb_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/133645312</idno>
+                    <persName type="reg">
+                        <surname>Schulenburg-Beetzendorf</surname>
+                        <forename>Werner Graf von der</forename>
+                    </persName>
+                    <birth>1829</birth>
+                    <death>1911</death>
+                </person>
+                <person xml:id="ed_spm_j4c_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/118611275</idno>
+                    <persName type="reg">
+                        <surname>Schulenburg-Kehnert</surname>
+                        <forename>Friedrich Wilhelm von der</forename>
+                    </persName>
+                    <birth>1742</birth>
+                    <death>1815</death>
+                </person>
+                <person xml:id="ed_svg_gdz_4kb">
+                    <persName type="reg">
+                        <surname>Schüller</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1817 Tierarzt auf dem Gestüt Trakehnen</note>
+                </person>
+                <person xml:id="ed_f11_hnt_c2b">
+                    <persName type="reg">
+                        <surname>Schultz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Militär (1832)</note>
+                </person>
+                <person xml:id="ed_c43_r2r_rdb">
+                    <persName type="reg">
+                        <surname>Schultz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bankier in Berlin (1759)</note>
+                </person>
+                <person xml:id="ed_tgl_2p4_vcb">
+                    <persName type="reg">
+                        <surname>Schultz</surname>
+                        <forename>Arndt Martin August von </forename>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1827</death>
+                    <note>Geheimer Legationsrat. Straubel, Rolf, Biographisches Handbuch der
+                        preußischen Verwaltungs- und Justizbeamten 1740-1806/15, T. 1., München
+                        2009, S. 925</note>
+                </person>
+                <person xml:id="ed_d3d_bzy_4kb">
+                    <persName type="reg">
+                        <surname>Schultz</surname>
+                        <forename>H.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer (1817)</note>
+                </person>
+                <person xml:id="ed_isn_43v_mbb">
+                    <persName type="reg">
+                        <surname>Schultz</surname>
+                        <forename>Johann Heinrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>aus Gerdauen gebürtig, 1785 Schreiber in Steinort</note>
+                </person>
+                <person xml:id="ed_swq_dsz_g1b">
+                    <persName type="reg">
+                        <surname>Schultz</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kirchenvorsteher, Löbenicht (1769, 1784/85)</note>
+                </person>
+                <person xml:id="ed_j3x_zvq_rhb">
+                    <persName type="reg">
+                        <surname>Schultz</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1823-1838 Pfarrer in Johannisburg; Vater von <persName
+                            key="ed_f11_hnt_c2b">N. N. Schultz</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_abd_rkx_clb">
+                    <persName type="reg">
+                        <surname>Schultze</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_fd1_hc1_my">
+                    <persName type="reg">
+                        <surname>Schultze</surname>
+                        <forename>Maximilian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Archivar; Verfasser von: Christian Friedrich Carl Ludwig Reichsgraf
+                        Lehndorff-Steinort weil. Kgl. Preuß. Generalleutnant a. D., Landhofmeister
+                        des Königreichs Preußen, Ritter des Hohen Ordens vom Schwarzen Adler etc.
+                        17. September 1770 – 8. Februar 1854. Ein Lebensbild aufgrund hinterlassener
+                        Papiere. Verlag R. Eisenschmidt, Berlin 1903</note>
+                </person>
+                <person xml:id="ed_yy1_cyl_5y">
+                    <persName type="reg">
+                        <surname>Schulz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death>1813</death>
+                    <note>Regierungsrat (1813)</note>
+                </person>
+                <person xml:id="ed_stw_tkn_my">
+                    <persName type="reg">
+                        <surname>Schulz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1916 Oberinspektor in Steinort</note>
+                </person>
+                <person xml:id="ed_ckp_1tb_d2b">
+                    <persName type="reg">
+                        <surname>Schulze</surname>
+                        <forename>jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rechtsanwalt und Notar, Angerburg, 1855 Bevollmächtigter der Familie
+                        Lehndorff</note>
+                </person>
+                <person xml:id="ed_m4f_cdk_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/118762575</idno>
+                    <persName type="reg">
+                        <surname>Schulze-Delitzsch</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1883</death>
+                </person>
+                <person xml:id="ed_nsg_nc5_sdb">
+                    <persName type="reg">
+                        <surname>Schumann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schlossverwalter Kriebstein (1947)</note>
+                </person>
+                <person xml:id="ed_pjq_fdx_fhb">
+                    <persName type="reg">
+                        <surname>Schumann</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <birth>1699</birth>
+                    <death/>
+                    <note>Dr. theol., Kirchen- und Schulinspektor des Kreises Rastenburg, 1729
+                        Erzpriester und Pfarrer zu Rastenburg</note>
+                </person>
+                <person xml:id="ed_dwn_kys_xdb">
+                    <persName type="reg">
+                        <surname>Schütze</surname>
+                        <forename>Friedrich Wilhelm</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Schöneiche; 1772 Bankier in Berlin </note>
+                </person>
+                <person xml:id="ed_cd1_cln_my">
+                    <persName type="reg">
+                        <surname>Schütze</surname>
+                        <forename>Gustav Max</forename>
+                    </persName>
+                    <birth/>
+                    <death>vor 1936</death>
+                    <note>Forstaufseher aus Karlswalde; Heirat: 1899 Amalie Catharina Wagner (geb.
+                        1870, Steinort), Tochter von Schmiedemeister Gustav Julius Wagner aus
+                        Steinort und der Maria Küstermann.
+                        http://www.datenbank-nord-masuren.besaweb.de</note>
+                </person>
+                <person xml:id="ed_ock_lkv_h2b">
+                    <persName type="reg">
+                        <surname>Schuwaloff</surname>
+                        <forename>Paul Andrejewitsch Graf</forename>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1908</death>
+                    <note>russischer Militär und Diplomat</note>
+                </person>
+                <person xml:id="ed_v5y_wcb_dy">
+                    <idno type="uri">http://d-nb.info/gnd/11733295X</idno>
+                    <persName type="reg">
+                        <surname>Schwabach</surname>
+                        <forename>Paul von</forename>
+                    </persName>
+                    <birth>1867</birth>
+                    <death>1938</death>
+                </person>
+                <person xml:id="ed_mws_j1m_w2b">
+                    <persName type="reg">
+                        <surname>Schwartz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Justizbürgermeister, 1799 Justitiar Lehndorffs</note>
+                </person>
+                <person xml:id="ed_s1d_kkj_gy">
+                    <persName type="reg">
+                        <surname>Schwarzbach</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Szozin (1795)</note>
+                </person>
+                <person xml:id="ed_edk_w2x_f2b">
+                    <persName type="reg">
+                        <surname>Schwarzenberg</surname>
+                        <forename>Fürst</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1866, 1878, 1883 Gast in Bad Gastein</note>
+                </person>
+                <person xml:id="ed_rrf_th4_dz">
+                    <idno type="uri">http://d-nb.info/gnd/118535803</idno>
+                    <persName type="reg">
+                        <surname>Schweden</surname>
+                        <forename>Friedrich I. König von</forename>
+                    </persName>
+                    <birth>1676</birth>
+                    <death>1751</death>
+                </person>
+                <person xml:id="ed_mgh_jkv_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/118543733</idno>
+                    <persName type="reg">
+                        <surname>Schweden</surname>
+                        <forename>Gustav II. Adolf König von</forename>
+                    </persName>
+                    <birth>1594</birth>
+                    <death>1632</death>
+                </person>
+                <person xml:id="ed_xbb_5vt_glb">
+                    <idno type="uri">https://d-nb.info/gnd/129053791</idno>
+                    <persName type="reg">
+                        <surname>Schweden</surname>
+                        <forename>Karl XIII.</forename>
+                    </persName>
+                    <birth>1748</birth>
+                    <death>1818</death>
+                </person>
+                <person xml:id="ed_qqv_tf3_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/118560174</idno>
+                    <persName type="reg">
+                        <surname>Schweden</surname>
+                        <forename>Karl XIV. Johann König von</forename>
+                    </persName>
+                    <birth>1763</birth>
+                    <death>1844</death>
+                </person>
+                <person xml:id="ed_uph_l1q_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/102017077</idno>
+                    <persName type="reg">
+                        <surname>Schweden</surname>
+                        <forename>Luise Ulrike Königin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Preußen, Prinzessin von</name>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1782</death>
+                </person>
+                <person xml:id="ed_xls_dkv_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/129693774</idno>
+                    <persName type="reg">
+                        <surname>Schweden</surname>
+                        <forename>Maria Eleonora Königin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Brandenburg, Prinzessin von</name>
+                    </persName>
+                    <birth>1599</birth>
+                    <death>1655</death>
+                    <note>Heirat: Gustav II. Adolf König von Schweden</note>
+                </person>
+                <person xml:id="ed_akr_3ww_22b">
+                    <idno type="uri">https://d-nb.info/gnd/122206975</idno>
+                    <persName type="reg">
+                        <surname>Schwedt</surname>
+                        <forename>Friedrich Heinrich Markgraf von</forename>
+                    </persName>
+                    <birth>1709</birth>
+                    <death>1788</death>
+                </person>
+                <person xml:id="ed_v2j_2ww_22b">
+                    <idno type="uri">https://d-nb.info/gnd/1028254261</idno>
+                    <persName type="reg">
+                        <surname>Schwedt</surname>
+                        <forename>Leopoldine Markgräfin von</forename>
+                    </persName>
+                    <birth>1716</birth>
+                    <death>1782</death>
+                    <note>Heirat: <persName key="ed_akr_3ww_22b">Friedrich Heinrich Markgraf von
+                            Schwedt</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_e1j_nl4_dz">
+                    <idno type="uri">http://d-nb.info/gnd/131591754</idno>
+                    <persName type="reg">
+                        <surname>Schwedt</surname>
+                        <forename>Sophie Dorothea Marie Markgräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Preußen, Prinzessin von</name>
+                    </persName>
+                    <birth>1769</birth>
+                    <death>1765</death>
+                </person>
+                <person xml:id="ed_khq_xbs_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/119237458</idno>
+                    <persName type="reg">
+                        <surname>Schweinitz</surname>
+                        <forename>Hans Lothar von</forename>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1901</death>
+                </person>
+                <person xml:id="ed_yvf_v4h_lfb">
+                    <idno type="uri">https://d-nb.info/gnd/117418536</idno>
+                    <persName type="reg">
+                        <surname>Schweninger</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1924</death>
+                </person>
+                <person xml:id="ed_ikd_rdt_kfb">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Agnes Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Lehndorff, von</name>
+                    </persName>
+                    <birth>1863</birth>
+                    <death>1947</death>
+                    <note>Heirat: <persName key="ed_i4r_pdt_kfb">Otto Graf von Schwerin</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_hv1_mzj_hkb">
+                    <idno type="uri">https://d-nb.info/gnd/122767306</idno>
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Curd Christoph Graf von</forename>
+                    </persName>
+                    <birth>1684</birth>
+                    <death>1757</death>
+                </person>
+                <person xml:id="ed_hrh_wqs_kfb">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Eugenie Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Borcke, von</name>
+                    </persName>
+                    <birth>1826</birth>
+                    <death>1904</death>
+                    <note>Heirat: Otto Graf von Schwerin-Wildenhoff (1823-1873)</note>
+                </person>
+                <person xml:id="ed_dkj_hjj_w2b">
+                    <idno type="uri">https://d-nb.info/gnd/12029320X</idno>
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Friedrich Albert Graf von</forename>
+                    </persName>
+                    <birth>1717</birth>
+                    <death>1789</death>
+                </person>
+                <person xml:id="ed_knj_yqy_bz">
+                    <idno type="uri">http://d-nb.info/gnd/121236978</idno>
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Friedrich Wilhelm Carl Graf von</forename>
+                    </persName>
+                    <birth>1739</birth>
+                    <death>1802</death>
+                </person>
+                <person xml:id="ed_xpj_3h5_ncb">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth>ca. 1771</birth>
+                    <death/>
+                    <note>1784 Schüler im Joachimsthalschen Gymnasium</note>
+                </person>
+                <person xml:id="ed_fk5_ffp_1fb">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Hermann Graf von</forename>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1858</death>
+                    <note>Generalmajor; Heirat: <persName key="ed_rkb_sfp_1fb">Rosalie Ulrike Gräfin
+                            von Dönhoff-Dönhoffstädt</persName>.
+                        https://de.wikipedia.org/wiki/Herrmann_von_Schwerin</note>
+                </person>
+                <person xml:id="ed_ugc_tjm_zdb">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Hermann Otto Louis Karl Graf von</forename>
+                    </persName>
+                    <birth>1851</birth>
+                    <death>1918</death>
+                    <note>auf Mildenitz; preußischer Agrarier; Mitglied des Preußischen
+                        Herrenhauses.
+                        https://de.wikipedia.org/wiki/Hermann_Otto_Louis_Karl_von_Schwerin</note>
+                </person>
+                <person xml:id="ed_dny_hf5_h2b">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Marie Agnes Eugénie Gräfin von</forename>
+                    </persName>
+                    <birth>1888</birth>
+                    <death>1967</death>
+                    <note>Eltern: <persName key="ed_r4g_sxh_h2b">Otto Graf von Schwerin</persName>,
+                        Agnes Gräfin von Lehndorff</note>
+                </person>
+                <person xml:id="ed_zrn_qbr_v2b">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Otto Alexander Graf von</forename>
+                    </persName>
+                    <birth>1737</birth>
+                    <death>1819</death>
+                    <note>Herr auf Wolfshagen</note>
+                </person>
+                <person xml:id="ed_xy2_4zp_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/100334490</idno>
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Otto Freiherr von</forename>
+                    </persName>
+                    <birth>1616</birth>
+                    <death>1679</death>
+                </person>
+                <person xml:id="ed_r4g_sxh_h2b">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Otto Graf von</forename>
+                    </persName>
+                    <birth>1855</birth>
+                    <death>1909</death>
+                    <note>Erbkämmerer der Kurmark Brandenburg, Majoratsherr der Herrnschaften
+                        Walsleben und Wildenhoff; Heirat: <persName key="ed_ggg_cbm_2y">Agnes Gräfin
+                            von Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_ec1_qtz_zdb">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Otto Karl Max Botho Graf von</forename>
+                    </persName>
+                    <birth>1894</birth>
+                    <death>1945</death>
+                    <note>auf Wildenhoff</note>
+                </person>
+                <person xml:id="ed_rkb_sfp_1fb">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Rosalie Ulrike Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Dönhoff, Gräfin von</name>
+                    </persName>
+                    <birth>1789</birth>
+                    <death>1865</death>
+                    <note>Heirat: <persName key="ed_fk5_ffp_1fb">Hermann Graf von
+                            Schwerin</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_s13_ry3_tdb">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Sophie Dorothea Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Bissing, von</name>
+                    </persName>
+                    <birth>1733</birth>
+                    <death>1801</death>
+                    <note>Heirat: 1752 <persName key="ed_zrn_qbr_v2b">Otto Alexander von Graf von
+                            Schwerin</persName>, Herr auf Wolfshagen</note>
+                </person>
+                <person xml:id="ed_ehl_zv3_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/1013011724</idno>
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>Sophie Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Dönhoff, Gräfin von</name>
+                    </persName>
+                    <birth>1785</birth>
+                    <death>1863</death>
+                </person>
+                <person xml:id="ed_xnl_flf_blb">
+                    <persName type="reg">
+                        <surname>Schwerin</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1767 Kapitän</note>
+                </person>
+                <person xml:id="ed_mzj_dhj_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/117422533</idno>
+                    <persName type="reg">
+                        <surname>Schwerin-Putzar</surname>
+                        <forename>Maximilian Graf von</forename>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1872</death>
+                </person>
+                <person xml:id="ed_pvs_h1d_mfb">
+                    <idno type="uri">https://d-nb.info/gnd/129081531</idno>
+                    <persName type="reg">
+                        <surname>Schwerin-Wildenhoff</surname>
+                        <forename>Grafen von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_frw_4qx_mfb">
+                    <persName type="reg">
+                        <surname>Schwing</surname>
+                        <forename>Anna Wilhelmine </forename>
+                    </persName>
+                    <birth>1852</birth>
+                    <death>1886</death>
+                    <note>Eltern: Rechtsanwalt Carl Theodor Schwing, Sophie Louise Elisabeth
+                        Groskurd; Stralsund; Heirat: 1871 <persName key="ed_jyv_2xp_f2b">Bonifacius
+                            Franz Wilhelm von Brucken-Fock</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_w5l_jjw_h2b">
+                    <persName type="reg">
+                        <surname>Scobb</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Abgeordneter (1893)</note>
+                </person>
+                <person xml:id="ed_uzl_ymk_w2b">
+                    <persName type="reg">
+                        <surname>Sczescka</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>aus Steinort, Sohn von <persName key="ed_pyp_zmk_w2b">Matthes
+                            Sczescka</persName>; 1786 Gärtnerlehre in Dönhoffstädt</note>
+                </person>
+                <person xml:id="ed_pyp_zmk_w2b">
+                    <persName type="reg">
+                        <surname>Sczescka</surname>
+                        <forename>Matthes</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1786 Schulze in Steinort; Vater von <persName key="ed_uzl_ymk_w2b">Martin
+                            Sczescka</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_wrq_c2r_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/119473798</idno>
+                    <persName type="reg">
+                        <surname>Seckendorff</surname>
+                        <forename>Friedrich Heinrich Graf von</forename>
+                    </persName>
+                    <birth>1673</birth>
+                    <death>1763</death>
+                </person>
+                <person xml:id="ed_sbg_kbb_dy">
+                    <idno type="uri">http://d-nb.info/gnd/117462802</idno>
+                    <persName type="reg">
+                        <surname>Seckendorff</surname>
+                        <forename>Götz Burkhard Graf von</forename>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1910</death>
+                </person>
+                <person xml:id="ed_ghb_vjh_lfb">
+                    <persName type="reg">
+                        <surname>Sedlacek</surname>
+                        <forename>Viktor</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kommerzialrat aus Linz; Bauherr des Grand Hotel de l'Europe in Gastein und
+                        Käufer der „Solitude‟.
+                        https://de.wikipedia.org/wiki/Grand_Hotel_de_l%E2%80%99Europe_(Bad_Gastein)</note>
+                </person>
+                <person xml:id="ed_jdn_fgl_rbb">
+                    <idno type="uri">http://d-nb.info/gnd/117443336</idno>
+                    <persName type="reg">
+                        <surname>Seegebarth</surname>
+                        <forename>Johann Friedrich von</forename>
+                    </persName>
+                    <birth>1747</birth>
+                    <death>1823</death>
+                </person>
+                <person xml:id="ed_qrt_yjx_clb">
+                    <persName type="reg">
+                        <surname>Seelmacher</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_q1p_q1q_vcb">
+                    <idno type="uri">https://d-nb.info/gnd/1055181245</idno>
+                    <persName type="reg">
+                        <surname>Seidler</surname>
+                        <forename>Ernst Friedrich</forename>
+                    </persName>
+                    <birth>1798</birth>
+                    <death>1865</death>
+                </person>
+                <person xml:id="ed_fhb_51q_vcb">
+                    <persName type="reg">
+                        <surname>Seidler</surname>
+                        <forename>Gottfried Theodor</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>National-Kavallerie-Regiment (1813)</note>
+                </person>
+                <person xml:id="ed_l1l_d4q_bbb">
+                    <persName type="reg">
+                        <surname>Seidler</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1813 Branntweinfabrikant in Königsberg, wohnte auf dem Sackheim, hinter
+                        Straße Nr. 23</note>
+                </person>
+                <person xml:id="ed_n1h_2nt_c2b">
+                    <persName type="reg">
+                        <surname>Sell</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Militär (1832)</note>
+                </person>
+                <person xml:id="ed_ypz_fxl_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/1147650292</idno>
+                    <persName type="reg">
+                        <surname>Senden</surname>
+                        <forename>Ernst Louis Ludwig Freiherr von</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1886</death>
+                </person>
+                <person xml:id="ed_tgq_v5h_lfb">
+                    <idno type="uri">https://d-nb.info/gnd/117471712</idno>
+                    <persName type="reg">
+                        <surname>Senden-Bibran</surname>
+                        <forename>Gustav Freiherr von</forename>
+                    </persName>
+                    <birth>1847</birth>
+                    <death>1909</death>
+                </person>
+                <person xml:id="ed_dsv_xx5_zdb">
+                    <persName type="reg">
+                        <surname>Senfft von Pilsach</surname>
+                        <forename>Ehrengard</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Münchhausen, Freiin von</name>
+                    </persName>
+                    <birth>1908</birth>
+                    <death/>
+                    <note>(1944)</note>
+                </person>
+                <person xml:id="ed_lzn_z3m_33b">
+                    <persName type="reg">
+                        <surname>Sensfuß</surname>
+                        <forename>Gottfried</forename>
+                    </persName>
+                    <birth>1812</birth>
+                    <death>1888</death>
+                    <note>Gutstöpfer in Steinort</note>
+                </person>
+                <person xml:id="ed_ufg_chd_p2b">
+                    <persName type="reg">
+                        <surname>Sensfuß</surname>
+                        <forename>Jakob</forename>
+                    </persName>
+                    <birth>1742</birth>
+                    <death/>
+                    <note>1785 Töpfermeister in Angerburg </note>
+                </person>
+                <person xml:id="ed_fp3_j5p_rdb">
+                    <persName type="reg">
+                        <surname>Servandoni</surname>
+                        <forename>Giovanni Niccolò</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Servan</surname>
+                        <forename>Jean-Nicolas </forename>
+                    </persName>
+                    <birth>1695</birth>
+                    <death>1766</death>
+                    <note>1756 Dekorateur der Dresdener und der Pariser Oper. </note>
+                </person>
+                <person xml:id="ed_txv_ywp_f2b">
+                    <persName type="reg">
+                        <surname>Seydewitz</surname>
+                        <forename>Marie von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Kyaw</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: Paul von Seydewitz (1843-1910)</note>
+                </person>
+                <person xml:id="ed_nhh_fmp_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/11747567X</idno>
+                    <persName type="reg">
+                        <surname>Seydlitz</surname>
+                        <forename>Anton Friedrich Florian von</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1832</death>
+                </person>
+                <person xml:id="ed_xzm_kkm_33b">
+                    <persName type="reg">
+                        <surname>Sieber</surname>
+                        <forename>Familie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort</note>
+                </person>
+                <person xml:id="ed_f2s_t3q_pz">
+                    <persName type="reg">
+                        <surname>Siebert</surname>
+                        <forename>Karl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rechtsanwalt, Berlin (1913, 1919, 1922, 1933, 1936)</note>
+                </person>
+                <person xml:id="ed_mqn_1cx_f2b">
+                    <persName type="reg">
+                        <surname>Siegfried</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Jeglack (1878)</note>
+                </person>
+                <person xml:id="ed_itv_gkr_v2b">
+                    <persName type="reg">
+                        <surname>Siericke</surname>
+                        <forename>Johann Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmann; 1816 Käufer eines Hauses der Lehndorffs in Königsberg</note>
+                </person>
+                <person xml:id="ed_tgy_sww_h2b">
+                    <idno type="uri">Anwalt (1896)</idno>
+                    <persName type="reg">
+                        <surname>Silberstein</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_erx_gp3_tdb">
+                    <persName type="reg">
+                        <surname>Silm</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmann, Hamburg (1760)</note>
+                </person>
+                <person xml:id="ed_rdd_lyz_g2b">
+                    <persName type="reg">
+                        <surname>Simon</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kommerzienrat (1883)</note>
+                </person>
+                <person xml:id="ed_lbq_zxd_3fb">
+                    <persName type="reg">
+                        <surname>Simon</surname>
+                        <forename>August Wilhelm</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1856-1867 Pfarrer in Drengfurth</note>
+                </person>
+                <person xml:id="ed_kst_dfx_f2b">
+                    <persName type="reg">
+                        <surname>Simon</surname>
+                        <forename>J.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bankhaus J. Simon und Söhne in Königsberg (1878)</note>
+                </person>
+                <person xml:id="ed_qdl_lby_m2b">
+                    <persName type="reg">
+                        <surname>Simon</surname>
+                        <forename>Prof.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1784)</note>
+                </person>
+                <person xml:id="ed_enk_dkb_1bb">
+                    <idno type="uri">http://d-nb.info/gnd/117398020</idno>
+                    <persName type="reg">
+                        <surname>Simons</surname>
+                        <forename>Ludwig</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1870</death>
+                </person>
+                <person xml:id="ed_ohv_5vt_s3b">
+                    <idno type="uri">https://d-nb.info/gnd/133278557</idno>
+                    <persName type="reg">
+                        <surname>Simpson</surname>
+                        <forename>George William von</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1886</death>
+                    <note>Rittergutsbesitzer, Georgenburg</note>
+                </person>
+                <person xml:id="ed_az2_vtj_d2b">
+                    <idno type="uri">http://d-nb.info/1104723298</idno>
+                    <persName type="reg">
+                        <surname>Simpson</surname>
+                        <forename>Mathilde von</forename>
+                    </persName>
+                    <birth>1847</birth>
+                    <death>1901</death>
+                    <note>Tochter des Kreisdeputierten und Rittergutsbesitzers <persName
+                            key="ed_ohv_5vt_s3b">George William von Simpson</persName>; Heirat: 1865
+                        Kultusministers <persName key="ed_tgh_2ft_g2b">Gustav Konrad Heinrich von
+                            Goßler</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_yhb_vzl_w2b">
+                    <persName type="reg">
+                        <surname>Skopnik</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Justizbürgermeister; 1799 Justitiar Lehndorffs</note>
+                </person>
+                <person xml:id="ed_w13_32p_tdb">
+                    <idno type="uri">http://d-nb.info/gnd/4000464-8</idno>
+                    <persName type="reg">
+                        <surname>Skorzewska</surname>
+                        <forename>Gräfin</forename>
+                    </persName>
+                    <birth/>
+                    <death>1781</death>
+                </person>
+                <person xml:id="ed_mhw_fs5_dlb">
+                    <persName type="reg">
+                        <surname>Solms</surname>
+                        <forename>Gräfin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1763)</note>
+                </person>
+                <person xml:id="ed_wgs_w1x_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/1027592414</idno>
+                    <persName type="reg">
+                        <surname>Solms-Baruth</surname>
+                        <forename>Friedrich Heinrich Ludwig Graf zu</forename>
+                    </persName>
+                    <birth>1795</birth>
+                    <death>1879</death>
+                </person>
+                <person xml:id="ed_cvg_y55_12b">
+                    <idno type="uri">https://d-nb.info/gnd/107496410</idno>
+                    <persName type="reg">
+                        <surname>Solms-Laubach</surname>
+                        <forename>Ernstotto Graf zu</forename>
+                    </persName>
+                    <birth>1890</birth>
+                    <death>1977</death>
+                </person>
+                <person xml:id="ed_rqz_ch3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/138469199</idno>
+                    <persName type="reg">
+                        <surname>Solms-Sonnenwalde</surname>
+                        <forename>Victor Friedrich Graf zu</forename>
+                    </persName>
+                    <birth>1730</birth>
+                    <death>1783</death>
+                </person>
+                <person xml:id="ed_gvq_lwl_ddb">
+                    <idno type="uri">https://d-nb.info/gnd/117477702</idno>
+                    <persName type="reg">
+                        <surname>Sommerfeldt</surname>
+                        <forename>Gustav</forename>
+                    </persName>
+                    <birth>1865</birth>
+                    <death>1939</death>
+                </person>
+                <person xml:id="ed_eyw_vkl_ddb">
+                    <persName type="reg">
+                        <surname>Soyan</surname>
+                        <forename>Charlotte</forename>
+                    </persName>
+                    <birth>1830</birth>
+                    <death/>
+                    <note>aus Rosengarten; Tochter des Instmanns Christian Soyan aus Taberlack;
+                        heiratet 1853 den Knecht Michael Regge aus Rosengarten; 1854 Spinnmädchen in
+                        Steinort</note>
+                </person>
+                <person xml:id="ed_wzc_5fv_zdb">
+                    <persName type="reg">
+                        <surname>Specht</surname>
+                        <forename>Karl Wilhelm</forename>
+                    </persName>
+                    <birth>1894</birth>
+                    <death>1953</death>
+                    <note>deutscher Offizier, zuletzt General der Infanterie im Zweiten Weltkrieg.
+                        https://de.wikipedia.org/wiki/Karl_Wilhelm_Specht</note>
+                </person>
+                <person xml:id="ed_r2c_fxh_lfb">
+                    <persName type="reg">
+                        <surname>Specovius</surname>
+                        <forename>Albert</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kameralist; Direktor des Vorschuss-Vereins zu Angerburg (1896)</note>
+                </person>
+                <person xml:id="ed_hl4_kld_gy">
+                    <persName type="reg">
+                        <surname>Sperber</surname>
+                        <forename>Emil von</forename>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1880</death>
+                    <note>Rittergutsbesitzer auf Kleszowen; Reichstagsabgeordneter</note>
+                </person>
+                <person xml:id="ed_d42_1st_ncb">
+                    <persName type="reg">
+                        <surname>Sperling</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Rehsau (1799)</note>
+                </person>
+                <person xml:id="ed_unb_s2c_ydb">
+                    <persName type="reg">
+                        <surname>Sperling</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1762-1801 Pfarrer an der Stadtkirche in Insterburg</note>
+                </person>
+                <person xml:id="ed_y4j_cp3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/121344991</idno>
+                    <persName type="reg">
+                        <surname>Spiegel</surname>
+                        <forename>Ernst Ludwig Christoph von </forename>
+                    </persName>
+                    <birth>1711</birth>
+                    <death>1785</death>
+                </person>
+                <person xml:id="ed_hty_xp3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/139566937</idno>
+                    <persName type="reg">
+                        <surname>Splitgerber</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth>1683</birth>
+                    <death>1764</death>
+                </person>
+                <person xml:id="ed_pnz_c21_4cb">
+                    <persName type="reg">
+                        <surname>Stachert</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gutsbesitzer; Kondukteur bei der Separierung (1820)</note>
+                </person>
+                <person xml:id="ed_zjs_f2j_w2b">
+                    <idno type="uri">https://d-nb.info/gnd/117650439</idno>
+                    <persName type="reg">
+                        <surname>Stackelberg</surname>
+                        <forename>Gustav Ernst von</forename>
+                    </persName>
+                    <birth>1766</birth>
+                    <death>1850</death>
+                </person>
+                <person xml:id="ed_gfj_qhs_d2b">
+                    <persName type="reg">
+                        <surname>Stalbridge</surname>
+                        <forename>Lord und Lady</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>England; 1865 Gäste in Gastein</note>
+                </person>
+                <person xml:id="ed_u2x_bq5_ncb">
+                    <persName type="reg">
+                        <surname>Stanowski</surname>
+                        <forename>Anton</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Reiseprediger (1891)</note>
+                </person>
+                <person xml:id="ed_cbf_g1h_my">
+                    <idno type="uri">http://d-nb.info/gnd/11721616X</idno>
+                    <persName type="reg">
+                        <surname>Stargardt</surname>
+                        <forename>Joseph Abraham</forename>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1885</death>
+                </person>
+                <person xml:id="ed_bcs_1zl_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/133161692</idno>
+                    <persName type="reg">
+                        <surname>Staudy</surname>
+                        <forename>Ludwig von</forename>
+                    </persName>
+                    <birth>1834</birth>
+                    <death>1912</death>
+                </person>
+                <person xml:id="ed_v5s_2zh_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/118642537</idno>
+                    <persName type="reg">
+                        <surname>Stauffenberg</surname>
+                        <forename>Claus Schenk Graf von</forename>
+                    </persName>
+                    <birth>1907</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_vfx_11m_ddb">
+                    <persName type="reg">
+                        <surname>Stechern</surname>
+                        <forename>Julius Karl Heinrich</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1882</death>
+                    <note>1845-1859 Pfarrer in Nikolaiken, 1859-1879 in Engelstein, Krs.
+                        Angerburg</note>
+                </person>
+                <person xml:id="ed_d3b_n1z_ncb">
+                    <persName type="reg">
+                        <surname>Stechow</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1811)</note>
+                </person>
+                <person xml:id="ed_ohq_pgr_gbb">
+                    <persName type="reg">
+                        <surname>Stegemann</surname>
+                        <forename>J.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Anwalt, Königsberg? (Ende 18. Jh.)</note>
+                </person>
+                <person xml:id="ed_vz4_p53_tdb">
+                    <persName type="reg">
+                        <surname>Stein</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Großhändler, Berlin (1762)</note>
+                </person>
+                <person xml:id="ed_tx5_bjw_h2b">
+                    <persName type="reg">
+                        <surname>Stein</surname>
+                        <forename>Georg von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Fideikommissherr auf Gut Grasnitz, Wahlkreis Königsberg 8 (Osterode in
+                        Opreußen, Neidenburg), Deutschkonservative Partei</note>
+                </person>
+                <person xml:id="ed_hcy_qpp_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/118617273</idno>
+                    <persName type="reg">
+                        <surname>Stein</surname>
+                        <forename>Heinrich Friedrich Karl Reichsfreiherr vom und zum</forename>
+                    </persName>
+                    <birth>1757</birth>
+                    <death>1831</death>
+                </person>
+                <person xml:id="ed_ldh_5rl_2cb">
+                    <persName type="reg">
+                        <surname>Stein</surname>
+                        <forename>Max</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rechtsanwalt und Notar, Angerburg (1901)</note>
+                </person>
+                <person xml:id="ed_thz_qyp_tcb">
+                    <persName type="reg">
+                        <surname>Steiner</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Verwalter der Steinortischen Güter (1799)</note>
+                </person>
+                <person xml:id="ed_s3g_5g4_my">
+                    <persName type="reg">
+                        <surname>Steinlechner</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ende des 19. Jh. Kastellanin Haus Solitude, Bad Gastein</note>
+                </person>
+                <person xml:id="ed_hj2_45t_ncb">
+                    <persName type="reg">
+                        <surname>Steinmann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1922 Oberförster, Steinort</note>
+                </person>
+                <person xml:id="ed_llr_3wv_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/133161641</idno>
+                    <persName type="reg">
+                        <surname>Steinmann</surname>
+                        <forename>Otto</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1894</death>
+                </person>
+                <person xml:id="ed_kfq_k4k_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/117262692</idno>
+                    <persName type="reg">
+                        <surname>Steinmetz</surname>
+                        <forename>Johann Adam</forename>
+                    </persName>
+                    <birth>1689</birth>
+                    <death>1762</death>
+                </person>
+                <person xml:id="ed_ox4_nrj_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/11726282X</idno>
+                    <persName type="reg">
+                        <surname>Steinmetz</surname>
+                        <forename>Karl Friedrich von</forename>
+                    </persName>
+                    <birth>1796</birth>
+                    <death>1877</death>
+                </person>
+                <person xml:id="ed_vkb_2rk_wcb">
+                    <persName type="reg">
+                        <surname>Stenzler</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberamtmann, Stradauen (1813)</note>
+                </person>
+                <person xml:id="ed_dqf_ybc_jlb">
+                    <persName type="reg">
+                        <surname>Sternberg</surname>
+                        <forename>Graf </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Österreich (1871)</note>
+                </person>
+                <person xml:id="ed_y1g_1cl_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/118992864</idno>
+                    <persName type="reg">
+                        <surname>Stieff</surname>
+                        <forename>Hellmut</forename>
+                    </persName>
+                    <birth>1901</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_xxm_3cl_gbb">
+                    <persName type="reg">
+                        <surname>Stieff</surname>
+                        <forename>Ili Cäcilie</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Gärtner</name>
+                    </persName>
+                    <birth>1902</birth>
+                    <death>1980</death>
+                    <note>Ehefrau von Helmut <persName key="ed_y1g_1cl_gbb">Stieff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_mfy_tgw_h2b">
+                    <persName type="reg">
+                        <surname>Stieger</surname>
+                        <forename>Dr. G.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1893 Verwalter von Rehsau </note>
+                </person>
+                <person xml:id="ed_wkv_kdw_vcb">
+                    <persName type="reg">
+                        <surname>Stieler von Heydekampf</surname>
+                        <forename>Christian August</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1839</death>
+                    <note>preußischer Oberst</note>
+                </person>
+                <person xml:id="ed_gmm_mc1_mdb">
+                    <persName type="reg">
+                        <surname>Stillfried-Rattonitz</surname>
+                        <forename>Freiherr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1753)</note>
+                </person>
+                <person xml:id="ed_o31_ckx_clb">
+                    <persName type="reg">
+                        <surname>Stobbe</surname>
+                        <forename>Christoff</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_e4v_pr5_ccb">
+                    <persName type="reg">
+                        <surname>Stockhausen</surname>
+                        <forename>Klemens von</forename>
+                    </persName>
+                    <birth>1845</birth>
+                    <death>1895</death>
+                    <note>Landeshauptmann der Provinzialverwaltung Ostpreußen.
+                        https://de.wikipedia.org/wiki/Klemens_von_Stockhausen</note>
+                </person>
+                <person xml:id="ed_ph5_hdb_h2b">
+                    <persName type="reg">
+                        <surname>Stockmann</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau von F. W. Stockmann, Direktor der Provinzial-Taubstummmen-Anstalt
+                        zu Angerburg</note>
+                </person>
+                <person xml:id="ed_xkb_vvc_gy">
+                    <idno type="uri">http://d-nb.info/gnd/118618393</idno>
+                    <persName type="reg">
+                        <surname>Stoecker</surname>
+                        <forename>Adolf</forename>
+                    </persName>
+                    <birth>1835</birth>
+                    <death>1909</death>
+                </person>
+                <person xml:id="ed_w5c_z1x_12b">
+                    <persName type="reg">
+                        <surname>Stöhr</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>aus Stettin gebürtig; Landbaumeister in Angerburg, ca. 1809 pensioniert
+                    </note>
+                </person>
+                <person xml:id="ed_zms_rts_52b">
+                    <idno type="uri">https://d-nb.info/gnd/117286427</idno>
+                    <persName type="reg">
+                        <surname>Stolberg</surname>
+                        <forename>Christian Ernst Graf zu</forename>
+                    </persName>
+                    <birth>1691</birth>
+                    <death>1771</death>
+                </person>
+                <person xml:id="ed_fcn_4qc_py">
+                    <idno type="uri">https://d-nb.info/gnd/1059147815</idno>
+                    <persName type="reg">
+                        <surname>Stolberg-Stolberg</surname>
+                        <forename>Marianne Gräfin zu </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Mark, Gräfin von der</name>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1814</death>
+                    <note>Heirat: 1797 Friedrich Graf zu Stolberg-Stolberg</note>
+                </person>
+                <person xml:id="ed_rnd_xnv_h2b">
+                    <persName type="reg">
+                        <surname>Stolberg-Wernigerode</surname>
+                        <forename>Adolf Graf zu</forename>
+                    </persName>
+                    <birth>1872</birth>
+                    <death>1910</death>
+                </person>
+                <person xml:id="ed_xbd_43m_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/101999062</idno>
+                    <persName type="reg">
+                        <surname>Stolberg-Wernigerode</surname>
+                        <forename>Albrecht Graf zu</forename>
+                    </persName>
+                    <birth>1886</birth>
+                    <death>1948</death>
+                </person>
+                <person xml:id="ed_vdm_f3r_gz">
+                    <idno type="uri">http://d-nb.info/gnd/117286400</idno>
+                    <persName type="reg">
+                        <surname>Stolberg-Wernigerode</surname>
+                        <forename>Anton Graf zu</forename>
+                    </persName>
+                    <birth>1785</birth>
+                    <death>1854</death>
+                </person>
+                <person xml:id="ed_qxs_c5q_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/117286443</idno>
+                    <persName type="reg">
+                        <surname>Stolberg-Wernigerode</surname>
+                        <forename>Eberhard Graf zu</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1872</death>
+                </person>
+                <person xml:id="ed_ydj_pmv_h2b">
+                    <persName type="reg">
+                        <surname>Stolberg-Wernigerode</surname>
+                        <forename>Else Gräfin zu </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Arnim-Boitzenburg, Gräfin von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: <persName key="ed_c3l_m4v_h2b">Udo von
+                            Stolberg-Wernigerode</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_ofr_z43_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/131472097</idno>
+                    <persName type="reg">
+                        <surname>Stolberg-Wernigerode</surname>
+                        <forename>Heinrich Ernst Graf zu</forename>
+                    </persName>
+                    <birth>1716</birth>
+                    <death>1778</death>
+                </person>
+                <person xml:id="ed_g15_r1m_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/118618555</idno>
+                    <persName type="reg">
+                        <surname>Stolberg-Wernigerode</surname>
+                        <forename>Otto Graf (1890: Fürst) zu</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1896</death>
+                </person>
+                <person xml:id="ed_c3l_m4v_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/117674117</idno>
+                    <persName type="reg">
+                        <surname>Stolberg-Wernigerode</surname>
+                        <forename>Udo Graf zu</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Stolberg-Wernigerode-Dönhoffstedt</name>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1910</death>
+                </person>
+                <person xml:id="ed_nzm_jv3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/117673870</idno>
+                    <persName type="reg">
+                        <surname>Stosch</surname>
+                        <forename>Philipp Baron von</forename>
+                    </persName>
+                    <birth>1691</birth>
+                    <death>1757</death>
+                    <note>(1762)</note>
+                </person>
+                <person xml:id="ed_xgq_psx_42b">
+                    <persName type="reg">
+                        <surname>Straal</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rehsau (1825)</note>
+                </person>
+                <person xml:id="ed_mkb_ppm_33b">
+                    <persName type="reg">
+                        <surname>Strach</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kreis-Justizrat (1855)</note>
+                </person>
+                <person xml:id="ed_rd1_c2n_c3b">
+                    <idno type="uri">https://d-nb.info/gnd/104333537</idno>
+                    <persName type="reg">
+                        <surname>Stranz</surname>
+                        <forename>Ferdinand von</forename>
+                    </persName>
+                    <birth>1821</birth>
+                    <death>1909</death>
+                </person>
+                <person xml:id="ed_cws_vm1_my">
+                    <idno type="uri">http://d-nb.info/gnd/118619411</idno>
+                    <persName type="reg">
+                        <surname>Strousberg</surname>
+                        <forename>Bethel Henry</forename>
+                    </persName>
+                    <birth>1823</birth>
+                    <death>1884</death>
+                </person>
+                <person xml:id="ed_lzj_l41_my">
+                    <persName type="reg">
+                        <surname>Strousberg</surname>
+                        <forename>Mary Ann</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Swan</name>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1882</death>
+                    <note>Heirat: Bethel Henry <persName key="ed_cws_vm1_my">Strousberg</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_hm2_g3t_ncb">
+                    <persName type="reg">
+                        <surname>Strugull</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rektor der Schule in Rosengarten (1784, 1799)</note>
+                </person>
+                <person xml:id="ed_tdh_glh_cy">
+                    <idno type="uri">http://d-nb.info/gnd/117354732</idno>
+                    <persName type="reg">
+                        <surname>Studt</surname>
+                        <forename>Konrad von</forename>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1921</death>
+                </person>
+                <person xml:id="ed_lt4_fcp_dz">
+                    <idno type="uri">http://d-nb.info/gnd/118619667</idno>
+                    <persName type="reg">
+                        <surname>Stüler</surname>
+                        <forename>Friedrich August</forename>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1865</death>
+                </person>
+                <person xml:id="ed_gmr_4zs_xdb">
+                    <idno type="uri">https://d-nb.info/gnd/100277756</idno>
+                    <persName type="reg">
+                        <surname>Stutterheim</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1811</death>
+                </person>
+                <person xml:id="ed_lrb_rh5_22b">
+                    <persName type="reg">
+                        <surname>Suhle</surname>
+                        <forename>Paul Christian Friedrich</forename>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1906</death>
+                    <note>Prediger an der deutschen Botschaft in Konstantinopel 1870-1906</note>
+                </person>
+                <person xml:id="ed_s1p_pmz_d2b">
+                    <persName type="reg">
+                        <surname>Surminski</surname>
+                        <forename>Heinrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1809-1891 Pfarrer in Friedrichshof </note>
+                </person>
+                <person xml:id="ed_m5w_33f_s3b">
+                    <persName type="reg">
+                        <surname>Surwille</surname>
+                        <forename>Thomas</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ritter, 1397 belehnt mit Taberlack</note>
+                </person>
+                <person xml:id="ed_tsc_jsp_tdb">
+                    <persName type="reg">
+                        <surname>Sułkowska </surname>
+                        <forename>Luise Fürstin </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Mniszech</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Großkämmeres von Litauen Johann Mniszech; Heirat: <persName
+                            key="ed_b2j_dgv_ldb">August Kasimir Fürst Sulkowski</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_b2j_dgv_ldb">
+                    <idno type="uri">https://d-nb.info/gnd/117373303</idno>
+                    <persName type="reg">
+                        <surname>Sułkowski </surname>
+                        <forename>August Kasimir Fürst</forename>
+                    </persName>
+                    <birth>1729</birth>
+                    <death>1786</death>
+                </person>
+                <person xml:id="ed_yf3_v41_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/118757997</idno>
+                    <persName type="reg">
+                        <surname>Svarez</surname>
+                        <forename>Carl Gottlieb</forename>
+                    </persName>
+                    <birth>1746</birth>
+                    <death>1798</death>
+                </person>
+                <person xml:id="ed_nmc_lgp_tdb">
+                    <persName type="reg">
+                        <surname>Sverus</surname>
+                        <forename>Fräulein</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1767)</note>
+                </person>
+                <person xml:id="ed_rqm_zch_1cb">
+                    <persName type="reg">
+                        <surname>Sydow</surname>
+                        <forename>Friedrich Ludwig von</forename>
+                    </persName>
+                    <birth>1749</birth>
+                    <death>1820</death>
+                    <note>preußischer Landschaftsdirektor</note>
+                </person>
+                <person xml:id="ed_wjg_xbg_xdb">
+                    <persName type="reg">
+                        <surname>Sydow</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Beydritten (1882)</note>
+                </person>
+                <person xml:id="ed_cln_c3r_fkb">
+                    <persName type="reg">
+                        <surname>Szcepanski</surname>
+                        <forename>Jacobus (Jacob) August</forename>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1782</death>
+                    <note>Gerichtsschreiber am adligen Gericht in Saalfeld bis 1741, 1741-1742
+                        Richter zu Lötzen, dann Stadtrichter in Angerburg; erwarb 1744 das
+                        Bürgerrecht der Stadt Angerburg, 1754 Verfahren wegen Sportel-Erpressung,
+                        1757 Verfahren wegen Korruption und Bestechung, wurde 1760 wegen Beteiligung
+                        an einem 'Exzess' des Richteramtes enthoben und zu 2 Jahren Festungshaft
+                        verurteilt</note>
+                </person>
+                <person xml:id="ed_uyq_v3k_wcb">
+                    <persName type="reg">
+                        <surname>Szeska</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1807)</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

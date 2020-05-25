@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hlm_cqj_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Vorstand des Preußischen Volksvereins an Carl Meinhard Graf von
+                    Lehndorff. Berlin, 12. März 1862</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hlm_cqj_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 586, Bl. 4-4v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_z5d_dl4_llb">Preußischer Volksverein</orgName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1862-03-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Gezeichnet durch <persName key="ed_qxs_c5q_d2b">Eberhard Graf zu
+                        Stolberg-Wernigerode</persName>, 1861/62 erster Vorsitzender des Preußischen
+                    Volksvereins, und <persName key="ed_hyb_45q_d2b">Hermann Wagener</persName>, wie
+                    Stolberg Mitbegründer des Vereins, im Auftrag des Komitees. - Zum Preußischen
+                    Volksverein, einer antiliberalen, konservativen Organisation in den 1860er
+                    Jahren in Preußen: <ref target="https://de.wikipedia.org/wiki/Preu%C3%9Fischer_Volksverein">https://de.wikipedia.org/wiki/Preußischer_Volksverein</ref>. </note>
+            </correspDesc>
+            <abstract>
+                <p>Der Vorstand legt seine Beschlüsse, Vorschläge und bisherigen Schritte dar und
+                    bittet Lehndorff, das Kreis-Kommissariat für den Kreis Angerburg übernehmen und
+                    die <quote>Organisation der Ortsabteilungen auf Basis unserer Vorschläge in die
+                        Hand nehmen zu wollen.</quote> Sollte er dazu verhindert sein, bitten sie
+                        <quote>mit einem anderen geeigneten Mitglied des Vereins im Kreis
+                        Rücksprache zu nehmen</quote> oder ihnen eine geeignete Person
+                    vorzuschlagen. Der bevorstehende Schluss des Landtages habe keinen Einfluss auf
+                    die Bildung der Organisation. <quote>Inwieweit die konservative Partei
+                        schließlich für die Wahl eintreten soll, wird natürlich von der Bildung und
+                        Haltung des Ministeriums abhängen.</quote> - Auf der Anlage (Bl. 5) über
+                    Mitglieder des Vereins im Kreis ist notiert: <quote>Dem Preußischen Volksverein
+                        fehlen zur Zeit noch Unterschriften aus dem Kreis; der Vorstand bittet, die
+                        Organisation in die Hand nehmen zu wollen.</quote>
+            </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/586/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

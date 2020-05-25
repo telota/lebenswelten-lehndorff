@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_vls_pfw_rz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bogislaw Friedrich Graf von Dönhoff an Ernst Ahasverus Graf von
+                    Lehndorff. 1. April 1715</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_vls_pfw_rz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>Kategorie: Familie</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 368, Bl. 10-11v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_m5q_z52_vz">Dönhoff, Bogislaw Friedrich Graf von
+                        (1669-1742)</persName>
+                    <date when="1715-04-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wtg_nyl_2y">Lehndorff, Ernst Ahasverus Graf von
+                        (1688-1727)</persName>
+                </correspAction>
+                <note>Vgl. den Brief vom 6. Mai 1715 (Bl. 12-12v, Fragment). Zur Tätigkeit
+                    Lehndorffs als Amtshauptmann von Memel: LASA, StA L, Bestand 21950 FA Lehndorff,
+                    Nr. 46 bis 49. Dessen Militärtagebuch von April bis Mai 1715 ebd., Nr. 477. Vgl.
+                    auch GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 937: Briefe an
+                    Ernst Ahasverus von Lehndorff in seiner Eigenschaft als Hauptmann der <orgName key="ed_r2q_dc1_tcb">Ämter Angerburg</orgName> und <orgName key="ed_wj1_2c1_tcb">Memel</orgName>, ca. 1714-1726.</note>
+            </correspDesc>
+            <abstract>
+                <p>
+               <persName key="ed_m5q_z52_vz">Bogislaw Friedrich Graf von Dönhoff</persName>,
+                    Generalmajor und Amtshauptmann zu Barten, Schwager von <persName key="ed_wtg_nyl_2y">Ernst Ahasverus Graf von Lehndorff</persName>,
+                    gratuliert demselben zur Stelle als Amtshauptmann zu Memel und wünscht, dass er
+                    auch einmal das Gouvernement übernehme; die Nachricht habe ihn erfreut und es
+                    sollte ihm <quote>lieb sein, wenn ich auch dazu <placeName key="ed_oxb_txl_5y">was</placeName> kontribuiert hatte</quote>. Er bietet seine
+                    Unterstützung in der Auseinandersetzung mit dem Kommandanten wegen Haus und
+                    Garten an. Er hofft, dass der <seg type="comment">
+                  <orig>Krieg</orig>
+                  <note xml:id="nxk1_zx1_t2b">Der Große Nordische Krieg</note>
+               </seg> nicht mehr
+                    lange dauert, damit Lehndorff den Hauptmannseid leisten könne. <persName key="ed_swz_dbp_mbb">Graf Gerhard</persName> wolle auch <quote>ins Land
+                        kommen</quote>, um die <seg type="comment">
+                  <orig>Mutter</orig>
+                  <note xml:id="nnhz_gy1_t2b">
+                     <persName key="ed_wwb_gcm_2y">Maria Eleonora
+                                Gräfin von Lehndorff</persName>, geb. Gräfin von
+                        Dönhoff</note>
+               </seg> in der Führung der Wirtschaft zu unterstützen, der dies
+                    sehr schwer falle. <seg type="comment">
+                  <orig> Sein <persName key="ed_ylp_qct_ldb">Bruder</persName> verlange eine Obligation über
+                            die an Lehndorff geliehenen 5.000 Rtlr. durch ihn. Eine
+                            Auseinandersetzung über die Modalität der Rückzahlung sei notwendig.
+                            </orig>
+                  <note xml:id="negx_qrg_ldb">Vgl. GStA PK, XX. HA, Rep. 54
+                            Gutsarchiv Lehndorff-Steinort, Nr. 310: Schuld Ernst Ahasverus von
+                            Lehndorffs in Höhe von 5.000 Rtlr. bei Ernst Wladislaus Graf von Dönhoff
+                            (Bruder von Bogislaw), 1720. </note>
+               </seg>
+                </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_uj2_z1j_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bertha Assmann an Anna Gräfin von Lehndorff. Wilkowen, 13. Mai 1880</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_uj2_z1j_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 577, Bl. 187-187v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_vms_fcj_ycb">Assmann, Bertha (-)</persName>
+                    <placeName key="ed_jn5_yvd_py">Wilkowen</placeName>
+                    <date when="1880-05-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Die Richtigkeit der Angaben bestätigte der Ortsvorstand mit seiner
+                    Unterschrift und dem Siegel des Schulzenamtes zu <placeName key="ed_jn5_yvd_py">Wilkowen</placeName>, Krs. Angerburg. - Aufgrund der hohen
+                    Lebenshaltungskosten 1880 finden sich noch zahlreiche weitere Gesuche in der
+                    Akte. Auf einigen Bittschreiben ist der Grund der Armut und die angedachte Hilfe
+                    vermerkt. So wurde auf dem Gesuch der Witwe Henriette <persName key="ed_wxy_cgt_g2b">Erfurt</persName> aus <placeName key="ed_d31_sqv_scb">Rydzewen</placeName> vom 5. Dezember 1887 vermerkt: <quote>Krank ein Kind
+                        Schulpflicht Nahrung Kleidung</quote> (Bl. 282).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/577/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Wilkowen, 13. Mai 1880</dateline>
+					          <salute>Gnädigste Exzellenz!</salute>
+                </opener>
+				        <p>Ich Unterzeichnete komme mit einer untertänigsten Bitte.</p>
+                <p>Ich bin verheiratet an einen alten Witwer, der nicht allein alt sondern auch noch
+                    ein Krüppel ist (was ich früher nicht wusste). Er hat einen zersplitterten Arm,
+                    ist kurzsichtig und engbrüstig. Früher konnte er mit der Violine noch betteln
+                    gehen, jetzt sind ihm von dem <unclear reason="illegible" cert="low">Wasser</unclear> die Füße angeschwollen und muss das Bett hüten. Dazu habe
+                    ich noch 3 Kinder und keinen Verdiener.</p>
+                <p>Also bitte ich Ew. Exzellenz fußfällig, da ich etwas Dünger zu Kartoffeln
+                    ausgefahren habe und habe keine Saat bekommen, mit mir Mitleid zu haben und um
+                    des Herren willen mir zur Saat Kartoffeln zu verleihen.</p>
+                <p>Der Allmächtige Herr wird Ew. Exzellenz mit seinem reichen Segen dafür begleiten
+                    und beschützen, wenn er sieht, dass ein Christenherz einer Armen seine große Not
+                    etwas lindert.</p>
+				        <closer>
+					          <salute>Auf ein gnädigstes Beachten dieser meiner demütigsten Bitte verharrt
+                        untertänigst</salute>
+					          <signed>Bertha Assmann <lb/>Einwohner Frau</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

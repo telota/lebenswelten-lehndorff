@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_tp2_4jy_ny">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Eduard Schmidt an Anna Gräfin von Lehndorff. Gastein, 9. August 1883</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_tp2_4jy_ny</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 383 FA Lehndorff, Nr. 320, Bl. 63-63v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ecr_2lh_my">Schmidt(-Lötzen), Karl Eduard
+                        (1850-1927)</persName>
+                    <placeName key="ed_avy_p42_cy">Bad Gastein</placeName>
+                    <date when="1883-08-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/320/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gastein, 9. August 1883</dateline>
+					          <salute>Hochgeborene Frau! <lb/>Hochverehrte Frau Gräfin!</salute>
+                </opener>
+                <p>Zu unserem großen Bedauern bin ich heute mit meiner Frau vergebens in der
+                        <orgName key="ed_hd4_zg4_my">Solitude</orgName> gewesen, um Ihrer
+                    Hochgeboren und Ihrem Herrn <persName key="ed_zkm_whl_2y">Gemahl</persName>
+                    unseren wärmsten Dank für die uns zuteil gewordene <unclear reason="illegible" cert="low">herzliche</unclear> Aufnahme in Ihrem gastlichen Hause zu sagen,
+                    da Sie bereits des Morgens mit Ihrer hochverehrten Familie den hiesigen Ort
+                    verlassen hatten. Hätten wir von dem Zeitpunkt Ihrer Abreise Kenntnis gehabt, so
+                    hätten wir schon früher den Besuch wiederholt, den wir am letzten Sonnabend
+                    abzuhalten uns erlaubten, bei welchem wir jedoch nur unsere Karte abgaben, um
+                    bei der Anwesenheit anderer Gäste nicht zu stören. Bei Ihrer Hochgeboren
+                    lebhaftem Interesse für die Geschichte der evangelischen Kirche beehre ich mich,
+                    in Anknüpfung an meine früheren Mitteilungen hierüber, einen zum Besten des
+                        <orgName key="ed_fz1_2w5_22b">Gustav-Adolf-Vereins</orgName> von mir in
+                        <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> gehaltenen <seg type="comment">
+                  <orig>Vortrag über die Salzburger in einem Druckexemplar
+                            </orig>
+                  <note xml:id="nazw_zpz_g2b">Dieser ist nicht überliefert.</note>
+                    </seg>ehrerbietigst zu übersenden. Ich bedaure nur, dass ich das letztere nicht
+                    in ansprechenderer Form geben kann. </p>
+                <p>Mit den lebhaftesten, auch von meiner Frau gesagten Wünschen für Ihro und Dero
+                    verehrten Angehörigen Wohlergehen, insbesondere auch für eine baldige <seg type="comment">
+                  <orig>Genesung</orig>
+                  <note xml:id="nawf_fwm_2bb">
+                     <ref target="lehndorff_jjs_fns_fdb">Im Juni hatte sich bereits „Tante
+                                Reichenbach‟ nach dessen Zustand erkundigt.</ref> Dieser muss sich
+                            schnell verschlechtert haben, denn am 1. September 1883 erhielt
+                            Lehndorff auf Veranlassung des Geheimen Sanitätsrats Dr. <persName key="ed_vj3_lpz_g2b">Zwingenberg</persName> in Berlin eine
+                            Tracheotomie-Kanüle, in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr.
+                            261, Bl. 406. Er verstarb am 28. Oktober. </note>
+               </seg> Ihres teuren
+                    Herrn Gemahls von seinem Halsleiden zeichne ich mich unter dem Ausdruck der
+                    vorzüglichsten Hochachtung der Verehrung</p>
+				        <closer>
+				           <salute>Ihr Hochgeboren treu ergebenster und dankbarer </salute>
+				           <signed>Schmidt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

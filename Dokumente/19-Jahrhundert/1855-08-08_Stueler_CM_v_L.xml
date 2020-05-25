@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_nbn_xbp_dz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title>Friedrich August Stüler an Carl Meinhard Graf von Lehndorff. Berlin, 8. August 1855</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_nbn_xbp_dz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 254, Bl. 25-26. Die Akte enthält auch
+                            Zeichnungen zum Bauvorhaben.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_lt4_fcp_dz">Stüler, Friedrich August (1800-1865)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1855-08-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Nach dem Schreiben vom <ref target="lehndorff_jfm_pwm_xcb">20. November 1854
+                    </ref> hatte Maurermeister <persName key="ed_thf_5tp_dz">Laudien</persName> am
+                    10. Januar 1855 Lehndorff Kostenvoranschläge für das Erbbegräbnis unterbreitet,
+                    und auch in den folgenden Monaten dazu korrespondiert (Bl. 6 ff.). Regelmäßig
+                    hatte der Graf die Kosten mit Rotstift nach unten korrigiert, z. B. am 2. April
+                    1855, hier blieben statt der 1.128 Rtlr. 29 Gr. als Summe 941 Rtlr. 14 Gr. und 1
+                    D. Lehndorff merkte an: <quote>NB. Gurte sind beim Kuppelgewölbe übrig, sogar
+                        mehr als nötig.</quote> Siehe auch die der Akte beiliegende <quote>Zeichnung
+                        zu einem <ref target="lehndorff_bpn_zxy_dcb">Erbbegräbnis, projektiert von
+                            Laudien, kopiert von Rathke</ref>
+               </quote>, seit 2019 im StA L, Bestand
+                    21950 Familienarchiv Lehndorff [zuvor: HStA Dresden, Bestand 12884: Karten und
+                    Risse, Schr 000, F 184, Nr. 034-044]. - Stüler hatte bereits für die Grafen von
+                    Hahn in <placeName key="ed_yps_bwn_my">Basedow</placeName> das Torhaus
+                    umgestaltet. Der dortige Park ist eine Schöpfung des Landschaftsarchitekten
+                    Peter Jospeh <persName key="ed_irf_55l_ddb">Lenné</persName>. An diesen hatte
+                    sich schon <ref target="lehndorff_wzj_fcq_ddb">Carl Friedrich Ludwig Graf von
+                        Lehndorffs wegen der Umgestaltung Steinorts</ref> gewandt. Zur Umgestaltung
+                    Basedows: Hahn von Burgsdorff, Clemens Graf, Das Geschlecht der Hahns und ihr
+                    Stammsitz Basedow, in: Burgen, Schlösser, Gutshäuser in Mecklenburg-Vorpommern,
+                    Aalen 1992. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 8. August 1855</dateline>
+					          <salute>Euer Hochgeboren</salute>
+                </opener>
+				        <p>habe ich vor meiner Abreise vor 5 Wochen weder auf die Fragen bezüglich der neuen Gruft
+                    antworten, noch die nicht ganz vollendeten Zeichnungen schicken können. <seg type="comment">
+                  <orig>Da ich nun beides einem jungen Mann überlassen
+                            musste</orig>
+                  <note xml:id="nqhj_tgp_dz">Dem in <persName key="ed_lt4_fcp_dz">Stülers</persName> Büro beschäftigten
+                            Architekten H. <persName key="ed_dwt_qtp_dz">Lauenburg</persName>, siehe
+                            dessen Schreiben wegen des neuen Entwurfs an Lehndorff vom 9. Juli 1855
+                            in der Akte, Bl. 23-24. Hierin äußert er sich zu Baudetails und verweist
+                            er auf die guten Erfahrungen, die Stüler bei der Verwendung von
+                            Zopfsteinen für die Wölbung des Saales bei dem neuen Königlichen Museum
+                            gemacht habe. Die Zeichnung des Erbbegräbnisses liegt der Akte bei, Bl.
+                            1-2.</note>
+                    </seg>, so weiß ich nicht, ob es genügend geschehen sei, und bitte daher
+                    ergebenst, mich hierüber beruhigen zu wollen. Hinsichtlich einiger Punkte
+                    erlaube ich mir noch folgendes anzuführen: </p>
+            <p>1. Die Pfeilerspitzen können auf dreierlei Weise ausgeführt werden <lb/>a.) aus sehr festem
+                    wetterbeständigem Ton von der hiesigen <orgName key="ed_dbc_15p_dz">Marchschen
+                        Fabrik</orgName> (sogenannte Steinmasse), welchem durch Zusatz von
+                    Mineralien die Farbe des dortigen Tones gegeben werden kann <lb/>b.) aus
+                    Gusszink <lb/>c.) aus getriebenem Zinkblech. <lb/>Letzteres ist das Wohlfeilste,
+                    das erstere das Vorzüglichste, weil am meisten homogen mit der ganzen Baumasse.
+                    Übrigens würden die Türmchen wohl jedenfalls hier - wenn nicht in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> - auszuführen sein, damit sie
+                    dauerhaft und glanzvoll ausfallen. </p>
+            <p>2. <seg type="comment">
+                  <orig>Der ganze Bau war nicht anders als in gefugtem Rohbau (mit
+                            Stabfugen) gedacht. </orig>
+                  <note xml:id="njmh_bz3_d2b">
+                     <quote>Der Bau
+                                ist in rotem Backstein verkleidet. Insgesamt präsentiert die Kapelle
+                                sich in neogotischer Gestaltungsform. Der Grundriss und die an den
+                                acht Ecken angelegten Strebepfeiler sind auch aus statischen Gründen
+                                gewählt worden, um den Gewölbeschub sicher abtragen zu können. Die
+                                Fassadenachsen weisen jeweils eine hohe Spitzenbogenöffnung mit
+                                Rautenverglasung und Dreieckübergiebelung mit Occulusöffnung darin
+                                auf. Der Bau besteht aus einem achteckigen Untergeschoss mit nach
+                                innen eingezogenen Strebepfeilern und Zeltgewölbe sowie einem
+                                Kapellenraum, bei dem durch ein eingezogenes rundum verlaufendes
+                                Gurtgesims ein Doppelgeschoss angedeutet ist, mit in die Wand-Ecken
+                                eingestellten schmalen kapitellbekrönten Säulen. Ein filigran
+                                gestaltetes Sternrippengewölbe überspannt den Kapellenraum</quote>.
+                                <ref target="https://deutsch-polnische-stiftung.de/projekte/1609-2/">https://deutsch-polnische-stiftung.de/projekte/1609-2</ref>.
+                        </note>
+               </seg>Jede andere Art der Ausführung würde m. E. weniger dauerhaft
+                    und passend sein. Wegen der vielen schwierig in Kalkstein herzustellenden Ecken
+                    würde ich dieselben nur zum untersten Absatz des Bauwerks über der Erde inkl.
+                    Fundament, zum eigentlichen Oberbau aber Ziegel anzunehmen raten. Die
+                    Gliederungen p. müssen in Backsteinen ausgeführt werden. </p>
+            <p>3. Als Dachmaterial würde mir Schiefer bei weitem das
+                    liebste sein. Ich hoffe, dass in Königsberg ein Schieferdecker existiert,
+                    welcher die Arbeit sowohl als die Beschaffung englischen Schiefers besorgt. Der
+                    Stadtbaurat <persName key="ed_n3l_25p_dz">Böhm</persName> würde darüber die
+                    beste Auskunft geben können. Da die Flächen nicht groß sind, so würde die
+                    kleinere Kante zu verwenden sein. Der Schieferdecker müsste zur Bestellung
+                    desselben eine Zeichnung des Daches erhalten. Die Kehlen werden in Gegenden, wo
+                    Schieferbedachung sehr zu Hause ist, in der Regel ebenfalls ausgeschiefert, dort
+                    möchte starkes Zink No. 13-14 (oder starkes Kantenblech) anzuwenden sein.
+                    </p>
+            <p>Die übrigen in Euer Hochgeboren Schreiben enthaltenen Bemerkungen sind in
+                    der Zeichnung berichtigt. Sollte aber irgend eine Auskunft noch jetzt oder
+                    später zu geben sein, so wissen Sie, wie gern dazu bereit ist</p>
+				        <closer>
+					          <salute>Euer Hochgeboren ganz ergebenster</salute>
+					          <signed>Stüler</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

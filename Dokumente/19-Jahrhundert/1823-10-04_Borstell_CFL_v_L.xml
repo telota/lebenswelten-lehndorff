@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_lth_k3r_ddb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Leopold Heinrich Ludwig von Borstell an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Königsberg, 4. Oktober 1823</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_lth_k3r_ddb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 332, Bl. 23-24</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mvs_2f2_b2b">Borstell, von (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1823-10-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/382/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 4. Oktober 1823</dateline>
+					          <salute>Mein hochgeschätzter Freund!</salute>
+                </opener>
+				        <p>Dein freundschaftliches Schreiben aus <placeName key="ed_dff_cbn_zcb">Düsseldorf</placeName>
+                    vom 17. August c. ist mir in <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    zugekommen, wo ich mich mit vielen meiner Bekannten und Freunde zusammengefunden
+                    hatte, um mich <gap reason="illegible"/> zu erfreuen und zu belehren. Beides ist
+                    mir gelungen; nur in der Erwartung Dich dort zu sehen bin ich getäuscht worden.
+                    Dafür hoffe ich nun aber durch Deine Gegenwart hier in der Provinz, wo doch auch
+                    einige Tage in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> abfallen
+                    können, schadlos gehalten zu werden.</p>
+                <p>Zu Deiner Verbindung mit Deiner allgemein hier sehr liebenswürdig erkannten
+                        <persName key="ed_tcp_g3l_2y">Gattin</persName> wünsche ich Dir von ganzem
+                    Herzen Glück; mögest Du in dieser Verbindung nach der Wahl des Herzens jedes
+                    erwartete Glück finden und jedenfalls die Erheiterung im Abend Deines Lebens,
+                    welche der Mann in reiferem Alter außerdem, auch nach meiner innigen
+                    Überzeugung, entbehren muss.</p>
+                <p>Du wirst bereits schon erfahren haben, dass der General von <persName key="ed_yxn_53r_gz">Wrangel</persName> von hier zum Kommando der 15.
+                    Division versetzt und General Graf <persName key="ed_m1j_nf2_b2b">Lottum</persName> zum Kommandeur der 1. Division ernannt ist. Mir ist
+                    dieser Tausch allerdings in jeder Beziehung sehr angenehm. <seg type="comment">
+                  <orig>Die beiden Kavalleriebrigaden des hiesigen Armeekorps sind nun
+                            erledigt.</orig>
+                  <note xml:id="ntgv_lvs_s2b">Vgl. dessen
+                                <quote>Bemerkungen über den Zustand der Kavallerie, auf den letzten
+                                Krieg angewandt, und über die jetzige Armeeverfassung, insoweit sie
+                                auf die Kavallerie Bezug hat</quote> für den Feldmarschall Gerhard
+                            Leberecht Blücher von Wahlstatt, 1817 (Abschrift), in: GStA PK, XX. HA,
+                            Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 605 und Lehndorffs
+                            Denkschrift <quote>Auch ein Wort über unsere Kavallerie</quote> mit
+                            Randbemerkungen Borstells (1817) ebd.</note>
+               </seg> Wäre es Dein Wunsch,
+                    Deiner Heimat näher zu sein, so würde dein Antrag beim <persName key="ed_tl1_nbf_4y">König</persName> unbezweifelt eine ebenso freundliche
+                    Aufnahme dort als Deine Person hier bei uns finden.</p>
+                <p>Deiner Frau Gemahlin wolltest Du durch die Versicherung, dass ich von ganzem
+                    Herzen Dein Freund bin, einiges Interesse für mich einflößen; zögerst Du lange,
+                    uns hier zu besuchen, so riskierst Du mich nicht bei Dir anlangen zu sehen.</p>
+				        <closer>
+					          <salute>Meine <seg type="comment">
+                     <orig>Frau</orig>
+                     <note xml:id="nyqb_ch2_b2b">Albertine
+                                Wilhelmine Luise Amalia von Voß </note>
+                  </seg> wünscht Dir empfohlen
+                        zu sein und ich bitte um die Fortdauer deiner freundschaftlichen
+                        Zuneigung</salute>
+					          <signed>v. Borstell</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

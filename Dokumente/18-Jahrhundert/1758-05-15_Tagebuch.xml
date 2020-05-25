@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_yjy_w1c_pdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Stargard, 15. bis 30. Mai
+                    1758</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_yjy_w1c_pdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="editorial">Am 30. Mai reiste Lehndorff weiter nach <placeName key="ed_sxm_51z_bz">Stettin</placeName>, wo er mit dem dortigen Gouverneur
+                    zusammentraf. Am 2. Juni reiste er zu seiner Schwester <persName key="ed_osg_km4_hz">Ysenburg</persName> nach <placeName key="ed_odv_fsq_rdb">Greifswald</placeName>, wo er am 3. Juni eintraf. Hier versammelten sich
+                    alle Offiziere des Regiments Lehwald, um Lehndorff zu sehen. Auch machte er die
+                    Bekanntschaft des Generals <persName key="ed_uzj_hf3_tdb">Kanitz</persName> und
+                    traf <quote>alte Bekannte, so <persName key="ed_ull_gw3_tcb">Kalckstein</persName> und General <persName key="ed_u34_lf3_tdb">Rautter</persName>
+               </quote> sowie General <persName key="ed_w2k_5b3_tdb">Dohna</persName>, Oberkommandierender der Belagerungsarmee vor <placeName key="ed_y5t_jsq_rdb">Stralsund</placeName>, vgl. Schmidt-Lötzen, Nachträge,
+                    Bd. 1, S. 170 ff. </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre
+                                am Hof Friedrichs des Großen ... Nachträge, Bd. 1, Gotha 1910, S.
+                                167; Giebel, Wieland (Hrsg.), Die Tagebücher des Grafen
+                            Lehndorff. Die geheimen Aufzeichnungen des Kammerherrn der Königin
+                            Elisabeth Christine, Berlin 2007, S. 424</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_ysp_f5h_wz">Stargard</placeName>
+                    <date from="1758-05-15" to="1758-05-30" cert="high"/>
+                
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+               
+                <p>
+            <hi rendition="#u">15. Mai</hi>. Wenn man nach langer Abwesenheit seine
+                Verwandten wiedersieht, hat man immer ein eigenartiges Gefühl; mir klopft das Herz
+                vor Erregung, da ich zudem weiß, dass meine <persName key="ed_q4s_xyl_2y">Mutter</persName> krank ist. Sobald ich in <placeName key="ed_ysp_f5h_wz">Stargard</placeName> in meinem Gasthaus abgestiegen bin, erkundige ich mich
+                sofort nach ihr und erfahre, dass sie auf dem Wege der Besserung ist. Ich schreibe
+                an meine Schwester <persName key="ed_y4r_3y4_mbb">Podewils</persName> ein Briefchen
+                und frage bei ihr an, ob die Mutter mich empfangen könne. Sie lässt mir sagen, ich
+                solle sogleich zu ihr kommen, worauf ich mich dann eiligst hinbegebe. Ich kann die
+                Tränen nicht zurückhalten, als ich hier nach siebenjähriger Trennung meine arme
+                kranke Mutter wiedersehe, die die Furcht vor der Grausamkeit der Russen von Haus und
+                Hof vertrieben hat. Unser erstes Wiedersehen ist sehr zärtlich und traurig zu
+                gleicher Zeit. Ebenso begrüße ich meine Schwester und ihre Kinder <gap reason="lost"/> Alle Flüchtlinge aus <placeName key="ed_uvt_4j4_dz">Preußen</placeName> schicken
+                zu mir, um ihrer Freude über meine Ankunft Ausdruck zu geben. </p>
+                <p>
+            <hi rendition="#u">16. Mai</hi>. Ich freue mich aufrichtig, mit meiner Mutter
+                zusammen zu sein. Ich habe wohl manchmal unter ihren Launen zu leiden gehabt, aber
+                ich achte und liebe sie herzlich. Wenn man mit gefühlvollem Herzen daran denkt, was
+                alles die Eltern für ihre Kinder tun, so nimmt man auch ihre Grillen hin. Es ist
+                immer ein Glück, wenn man Eltern hat, über die man nicht zu erröten braucht und die
+                im Grunde nur sparsam sind, um die Ihrigem in guter Lage zurückzulassen. Auch über
+                unsere alten Dienstboten freue ich mich, selbst über ihre preußische Aussprache. Es
+                ist wahr, dass man seine alte Heimat nie vergisst. - Ich bleibe vierzehn Tage in
+                    <placeName key="ed_ysp_f5h_wz">Stargard</placeName> und erneuere alte
+                Bekanntschaften. Die Herren Staatsminister aus Preußen sind ein Bild des Jammers;
+                die haben alles, ihre Besitzungen und ihre Stellungen, verlasen müssen. Da ist der
+                Obermarschall <persName key="ed_zgs_wsq_rdb">Wallenrodt</persName>, der
+                Justizpräsident <persName key="ed_jjl_ysq_rdb">Groeben</persName>, der Kanzler v.
+                    <persName key="ed_zln_4rd_py">Tettau</persName> und der Oberburggraf, der <seg type="comment">
+               <orig>Bierbrauersohn <persName key="ed_jy4_btq_rdb">Rohd</persName>.</orig>
+               <note xml:id="nzqk_mtc_pdb">Vgl. Giebel,
+                        Tagebücher, S. 462. Rohd habe die Würde eines Oberburggrafen im Königreich
+                        Preußen bekleidet, <quote>weil der König geglaubt hatte, dass er von guter
+                            Familie sei. Sein Vater war aber nur ein Mälzenbrauer gewesen, weshalb
+                            der ganze hohe Adel über die Auszeichnung die größte Entrüstung
+                            zeigte.</quote>
+               </note>
+            </seg> Der rangälteste der Herren Staatsminister
+                ist der Obermarschall Wallenrodt. Er ist recht unbedeutend und will dabei mit seinen
+                63 Jahren noch den Schwerenöter spielen. Mit der Wahrheit nimmt er es nicht immer
+                sehr genau. Er hat eine alte Mätresse bei sich und ist ein sehr schlechter
+                Wirtschafter. Er bildet sich ein Französisch zu können, gebraucht dabei aber
+                Ausdrücke, die selbst einen Jeremias zum Lachen bringen könnten. Der zweite ist der
+                Justizpräsident <persName key="ed_jjl_ysq_rdb">Gröben</persName>. Dieser hat noch
+                das würdevolle Wesen der alten Zeit an sich, ist ein guter Redner und nach meiner
+                Ansicht der beste Kopf, den wir in Preußen haben. Dann kommt ein Herr von <persName key="ed_pqy_zsq_rdb">Tettau</persName>, der Kanzler, ein Ehrenmann, der sich
+                aber in seiner jetzigen Lage nicht zurecht zu finden weiß. Von Hause aus wenig
+                bemittelt, setzte ihn das Testament eines entfernten Onkels plötzlich in den Besitz
+                einer Rente von 100.000 Talern, worüber er sich immer noch zu wundern scheint. Aber
+                wie immer, so hat auch bei ihm das Glück noch eine unangenehme Zugabe gebracht.
+                Derselbe Onkel hat ihn überredet, eine Frau zu heiraten, wie sie schrecklicher kaum
+                zu denken ist. Sie ist eine <seg type="comment">
+               <orig>Gräfin Dönhoff</orig>
+               <note xml:id="nox5_bg3_tdb">
+                  <persName key="ed_eb5_dg3_tdb">Albertine Gräfin von
+                            Dönhoff</persName>
+               </note>
+            </seg>, ein wahrer Ausbund von allem
+                Abscheulichem, das die Natur zusammenstellen konnte. <gap reason="lost"/> Endlich
+                noch der Oberburggraf. Der ist ein Mann aus dem Nichts. Sein Vater war der
+                Bierbrauer Rohd. <seg type="comment">
+               <orig>Er ist in der Welt emporgekommen, indem
+                        er zuerst Botschaftssekretär, dann Resident in Köln, später Gesandter in
+                        Schweden und zuletzt Oberburggraf in Preußen wurde zum Ärger des ganzen
+                        Königreichs, das gewohnt war, dieses Amt den ersten Familien des Landes
+                        verliehen zu sehen.</orig>
+               <note xml:id="ng1v_31y_rdb">1763 wurde Rohd
+                        Staatsminister: <quote>bürgerlich von Geburt, pedantisch im Amt und
+                            unangenehm über alle Begriffe</quote>, vgl. Giebel, Tagebücher, S. 504.
+                        - 1772, nachdem er als Gesandter aus Wien zurückgekehrt war, schrieb
+                        Lehndorff: <quote>Dieser Mann, der Sohn eines Königsberger Bierbrauers, hat
+                            sich durch seine Tüchtigkeit emporgearbeitet und alles erreicht, was ein
+                            Mann von Stand nur erstreben kann.</quote> Nachträge, Bd. 2, S. 233 f.
+                    </note>
+            </seg> Er ist in hohem Grade lächerlich, und man hat ihn auch überall, wo
+                er war, so eingeschätzt. Trotz alledem hat der Mann Glück gehabt, hat es nicht nur
+                zu einem so ehrenvollen Amte, sondern auch zu einer sehr hübschen Frau gebracht. Sie
+                ist die Tochter des Obermarschalls Wallenrodt und hat über 40.000 Gulden Vermögen.
+                Der Titel Oberburggraf hat sie geblendet, und ich glaube, sie bereut es sehr. <gap reason="lost"/> Im übrigen ist Stargard der Sammelplatz für falsche Nachrichten,
+                was nicht verwunderlich ist, da sämtliche Witwen Pommerns sich hierher geflüchtet
+                haben und der Klatsch hier unumschränkt herrscht.</p>
+                <p>
+            <hi rendition="#u">30. Mai</hi>. Unterwegs komme ich durch die neuen <seg type="comment">
+               <orig>Anpflanzungen</orig>
+               <note xml:id="ndj2_w1s_52b">Vgl. <ref target="http://www.digitale-bibliothek-mv.de/viewer/image/PPN559838239_NF_14/8/LOG_0007/">Hesse, Hans, Die Kolonisationstätigkeit des Prinzen Moritz von
+                            Anhalt-Dessau in Pommern, 1747-1754, Dessau 1910.</ref>
+               </note>
+            </seg>,
+                die der <persName key="ed_x2r_52f_cy">König</persName> unter Leitung des Prinzen
+                Moritz zwischen <placeName key="ed_ysp_f5h_wz">Stargard</placeName> und <placeName key="ed_sxm_51z_bz">Stettin</placeName> auf einem Boden, wo früher bloß Fichten
+                standen, gemacht hat. In Stettin sehe ich meinen Schwager <persName key="ed_ek1_pw5_vcb">Podewils</persName> wieder, mit dem ich seit zwei Jahren
+                nicht mehr zusammengekommen bin. Dieser Mann ist auch so ein Spielzeug des
+                Schicksals. <note type="editorial">Im Folgenden beschreibt Lehndorff die
+                    Karrierestationen seines Schwagers, den seine Schwester wegen dessen guter Figur
+                    geheiratet habe, die Mutter habe ihre Zustimmung wegen dessen glänzender
+                    Stellung gegeben. Bald sei Podewils in Ungnade gefallen, sei von <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> nach <placeName key="ed_tjn_3rc_py">Schlesien</placeName>, später nach <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> versetzt worden, und habe auch noch
+                    das Kommando von <placeName key="ed_sxm_51z_bz">Stettin</placeName> abgeben
+                    müssen.</note>
+         </p>
+				     <closer>
+                <salute> </salute>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>

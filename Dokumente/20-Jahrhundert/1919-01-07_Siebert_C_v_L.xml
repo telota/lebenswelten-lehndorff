@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_mgs_bbr_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Promemoria. Berlin, 7. Januar 1919</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_mgs_bbr_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 337, Bl. 134-141</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1919-01-07" cert="high"/>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+          
+                
+				     <p>Promemoria betreffend die Anlegung eines Inventar-Reservefonds bei der Bank der
+                    Ostpreußischen Landschaft, Geschäftsstelle Rastenburg</p>
+                <p>Nach Art. 33 der <ref target="lehndorff_iqm_nmb_kz">Fideikommiss-Stiftungsurkunde
+                </ref>von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ist jeder
+                Fideikommissbesitzer verpflichtet, auf den einzelnen Gütern und Vorwerken
+                ausreichende Inventare zu halten. Für die einzelnen Besitzungen sind Minimalwerte
+                festgesetzt worden, und jeder Fideikommissbesitzer ist verpflichtet dafür Sorge zu
+                tragen, dass auf den einzelnen Gütern usw. das darauf befindliche bzw. vom Pächter
+                erworbene und sichergestellte Inventar mindestens diese Minimalwerte repräsentiert. </p>
+         <p>Aus dieser Bestimmung ergibt sich für Herrn Grafen <persName key="ed_ik3_ckz_2y">Carl Meinhard
+                    Lehndorff-Steinort</persName> die obligatorische Verpflichtung für diejenigen
+                Güter usw., auf denen kein dem Fideikommiss gehöriges Inventar vorhanden ist, die
+                erwähnten Inventarwerte sicherzustellen. Im Fall seines Ablebens liegt diese
+                Verpflichtung seinem Allodialnachlass ob. </p>
+         <p>Mit Rücksicht auf die nach der Revolution wiederholt als bevorstehend bezeichnete <seg type="comment">
+               <orig>Aufhebung der Fideikommisse</orig>
+               <note xml:id="nhyp_qyb_mfb">Siehe das Dokument <ref target="lehndorff_p5q_nln_2cb">1919</ref>.</note>
+            </seg> und die sich daraus als notwendig ergebende
+                Absonderung von Fideikommiss und Allod, sowie ferner mit Rücksicht auf die
+                bevorstehenden Vermögensabgaben, die eine besonders sorgfältige Feststellung der
+                Fideikommiss- und Allodialbesitzverhältnisse erfordern, <seg type="comment">
+               <orig>soll die Angelegenheit jetzt getreu der Stiftungsurkunde geregelt
+                        werden.</orig>
+               <note xml:id="nc2g_kfr_pz">Vgl. das erläuternde Schreiben des
+                        Anwalts vom 16. Juli 1919 wegen der Besteuerung von Fideikommiss- und
+                        Allodialvermögen in der Akte  Bl. 271-273.</note>
+            </seg>
+            </p>
+         <p>Unter Berücksichtigung der derzeitigen Pachtverhältnisse hat Herr Graf Lehndorff-Steinort
+                hiernach folgende Inventarwerte zu Gunsten des Fideikommisses sicherzustellen: </p>
+         <p>
+            <table rows="12" cols="4">
+                        <row>
+                            <cell>1.</cell>
+                            <cell>
+                     <placeName key="ed_pxt_cnh_1y">Groß-Steinort</placeName>, nicht
+                                verpachtet</cell>
+                            <cell/>
+                            <cell>36.000 M</cell>
+                        </row>
+                        <row>
+                            <cell>2.</cell>
+                            <cell>
+                     <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, ohne
+                            Inventar verpachtet</cell>
+                            <cell/>
+                            <cell>22.500 M</cell>
+                        </row>
+                        <row>
+                            <cell>3.</cell>
+                            <cell>
+                     <placeName key="ed_xpm_112_gy">Labab</placeName>, verpachtet,
+                            Inventar hat Pächter <persName key="ed_vfl_xzn_zdb">Lottermoser</persName> gekauft; Kaufpreis in Pfandbriefen liegt bei
+                            der Rastenburger Geschäftsstelle der Bank der Ostpreußischen Landschaft
+                            und ist auf das neue Inventar-Reservedepot zu überführen</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>4.</cell>
+                            <cell>
+                     <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, ohne
+                                Inventar verpachtet</cell>
+                            <cell/>
+                            <cell>12.000 M</cell>
+                        </row>
+                        <row>
+                            <cell>5. </cell>
+                            <cell>
+                     <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>,
+                                desgleichen</cell>
+                            <cell/>
+                            <cell>12.000 M</cell>
+                        </row>
+                        <row>
+                            <cell>6.</cell>
+                            <cell>
+                     <placeName key="ed_nkz_b12_gy">Stawken</placeName>, Inventar ist
+                                im Jahr 1856 an Pächter verkauft worden</cell>
+                            <cell/>
+                            <cell>12.000 M</cell>
+                        </row>
+                        <row>
+                            <cell>7.</cell>
+                            <cell>
+                     <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, erst 1917
+                                dem Fideikommiss zugeschlagen. Inventar gehört dem Pächter. Nach
+                                seiner Größe, seinem Wert und den Grundsätzen der Stiftungsurkunde
+                                sind anzusetzen</cell>
+                            <cell/>
+                            <cell>
+                            <lb/>12.000 M</cell>
+                        </row>
+                        <row>
+                            <cell>8.</cell>
+                            <cell>
+                     <placeName key="ed_xzt_112_gy">Stawisken</placeName>, ohne
+                                Inventar verpachtet</cell>
+                            <cell/>
+                            <cell>9.000 M</cell>
+                        </row>
+                        <row>
+                            <cell>9. </cell>
+                            <cell>
+                     <placeName key="ed_xjg_d12_gy">Stobben</placeName>,
+                                desgleichen</cell>
+                            <cell/>
+                            <cell>9.000 M</cell>
+                        </row>
+                        <row>
+                            <cell>10.</cell>
+                            <cell>
+                     <placeName key="ed_hyn_yzd_gy">Klein-Steinort</placeName>, ohne
+                                Inventar verpachtet </cell>
+                            <cell>12.000 M</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>11. </cell>
+                            <cell>
+                     <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, von dem
+                            jetzigen Besitzer aus der Pacht zurückgenommen, dabei Inventar von ihm
+                            gekauft </cell>
+                            <cell>6.000 M</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell> </cell>
+                            <cell>18.000 M</cell>
+                            <cell>124.500 M</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Zur Deckung der Inventarsummen für Klein-Steinort und Kittlitz
+                                sind bei der Seehandlung 39.000 M 3 1/2 % Pfandbriefe hinterlegt,
+                                <lb/>die bei einem Kurse von ca. 0,80 % etwa 31.000 M wert sind. </cell>
+                            <cell>
+                            <lb/>31.000 M</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Die für Klein-Steinort und Kittlitz sicherzustellenden <lb/>sind
+                                mithin gedeckt. Es bleiben sogar ca. <lb/>übrig, die von dem
+                                Gesamtbedarf für die übrigen Güter usw. in Abzug zu bringen
+                                sind.</cell>
+                            <cell>18.000 M <lb/>13.000 M</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>12.</cell>
+                            <cell>
+                     <placeName key="ed_amz_114_zdb">Seehof Steinort</placeName>, erst
+                            1917 dem Fideikommiss zugeschlagen. Inventar gehört dem Pächter. Nach
+                            seiner Größe, seinem Wert und den Grundsätzen der Stiftungsurkunde sind
+                            anzusetzen</cell>
+                            <cell>
+                            <lb/>6.000 M</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Von dem Gesamtbetrag von <lb/>kommen die unter Ziff. 10 und 11
+                            erwähnten <lb break="no"/>in Abzug, so dass noch <lb/>sicherzustellen
+                            sind. Dieser Betrag soll in Pfandbriefen auf einem besonderen Depot
+                            unter der Bezeichnung „Graf Lehndorff-Steinort Inventar-Reserve‟ bei der
+                            Bank der Ostpreußischen Landschaft, Geschäftsstelle Rastenburg mit der
+                            Maßgabe hinterlegt werden, dass die aufkommenden Zinsen jeweils dem
+                            Fideikommissbesitzer persönlich zu überweisen sind.</cell>
+                            <cell>130.500 M <lb/>13.000 M <lb/>117.500 M</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Zum kommen nach den obigen Angaben noch hinzu: <lb/>a) die von dem
+                            Pächter Lottermoser für das Inventar von Labab gewährten Pfandbriefe
+                            <lb/>b) die bei der Seehandlung für Klein-Steinort und Kittlitz
+                            liegenden<lb/>3 1/2 % Pfandbriefe </cell>
+                            <cell>
+                            <lb/>117.500 M  <lb/>39.000 M</cell>
+                            <cell/>
+                        </row>
+                    </table>
+         </p>
+				     <closer>
+                    <salute>Berlin, den 7. Januar 1919</salute>
+                    <signed>
+               <persName key="ed_f2s_t3q_pz">Siebert</persName>
+                    <lb/>Rechtsanwalt</signed>
+                </closer>
+            
+        </body>
+    </text>
+</TEI>

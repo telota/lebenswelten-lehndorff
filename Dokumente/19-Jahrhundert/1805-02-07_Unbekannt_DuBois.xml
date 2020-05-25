@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_t3w_xxh_yz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>N. N. an David du Bois. Berlin, 7. Februar 1805</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_t3w_xxh_yz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>III. HA MdA, I, Nr. 6290, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1805-02-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_qjy_phg_h1b">Du Bois, (-)</persName>
+                </correspAction>
+                <note>Lehndorffs Sendung als <quote>Ministre Plenipotentaire</quote> nach <placeName key="ed_qvp_nnz_2y">St. Petersburg</placeName> wurde am 14. August 1807
+                    beglaubigt (Abschrift in der Akte). <ref target="lehndorff_zlz_czh_yz">Er wurde
+                        im März 1808 abberufen</ref>. Vgl. auch Schultze, Lebensbild, S. 116 und
+                    Sommerfeldt, Gustav, Aus den Petersburger Gesandtschaftsberichten des Grafen
+                    Heinrich von Lehndorff (Steinort) 1808, in: Mitteilungen des Instituts für
+                    Österreichische Geschichtsforschung 23 (1902), S. 293-300.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+                <p>Dem Rendanten der Legationskasse, Kriegsrat Du Bois, wird hiermit bekannt
+                    gemacht, dass seine <persName key="ed_tl1_nbf_4y">Königliche Majestät von
+                        Preußen</persName> nach erfolgtem Ableben des Legationsrats <persName key="ed_y53_1p4_vcb">Wegelin</persName> zu <placeName key="ed_qvp_nnz_2y">Petersburg</placeName> zu beschließen geruht haben, den Legationsrat Grafen
+                    von <persName key="ed_pv1_b4g_hy">Lehndorff</persName> zu dessen Nachfolger zu
+                    ernennen, dagegen die hierdurch erledigte Legationssekretärsstelle in <placeName key="ed_vnl_sgg_h1b">Haag</placeName> dem gegenwärtigen Charge d’affaires
+                        <persName key="ed_tgl_2p4_vcb">Schultz</persName> und die zu <placeName key="ed_dkn_3p4_vcb">Madrid</placeName> dem Kommerzienrat <persName key="ed_y2p_fp4_vcb">Henry</persName> zu conferieren. </p>
+            <p>Jeder bezieht vom 1. Dezember 1804 an die mit dem ihm angewiesenen Posten verknüpfte Besoldung,
+                            und zwar:<list>
+                                <item>
+                     <list rendition="#rightBraced">
+                                <item>1) der Graf von Lehndorff ¼ jährlich 375 Rt. mit 75 </item>
+                                <item>2) der Legationssekretär Scholtz desgl. 250 mit 150</item>
+                                <item>3) der Kommerzienrat Henry desgl. 250 mit 120  </item>
+                            </list>Rt. Gold </item>
+                            </list>
+            </p>
+                <p>Der p. Du Bois hat diese Gehälter in besagter Art auszuzahlen und bei
+                    bevorstehender Ausfertigung des neuen Etats sich hiernach zu achten. </p>
+                <p>Sigel: Berlin den 7. Febr. 1805</p>
+                <p>[Sigel]</p>
+                <closer>
+                    <dateline>Berlin, 7. Februar 1805</dateline>
+                    <salute>Ad mand.</salute>
+                    <signed>[Paraphe]</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ykv_4fj_h3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Adalbert von Rosenberg-Gruszczynski an Carl Meinhard Graf von Lehndorff. Klötzen, 21. Mai 1856?</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ykv_4fj_h3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 GA Lehndorff-Steinort (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_elf_n3j_h3b">Rosenberg-Gruszczynski, Adalbert von
+                        (1818-1880)</persName>
+                    <placeName key="ed_ql3_f3j_h3b">Klötzen</placeName>
+                    <date when="1856-05-21" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Klötzen p. Marienwerder 21. Mai</dateline>
+					          <salute>Mein bester Lehndorff,</salute>
+                </opener>
+				        <p>Ich bin zwar in Deine Nähe gelangt, indes nur auf kurze Zeit, indem <persName key="ed_kzr_fjj_h3b">Hatzfeld</persName> selbst nach meiner Abreise von
+                        <placeName key="ed_uyx_nvn_my">Paris</placeName> fortgegangen, ich also,
+                    sobald meine hiesigen Geschäfte es gestatten, dorthin zurückkehren werde.</p>
+                <p>Seit Deiner Abreise von Paris haben wir noch mit den Offizieren die
+                    Ratifikationsinstrumente ausgetauscht und den Schwarzen Adlerorden überreicht,
+                    welcher recht freundlich aufgenommen wurde. Die weiteren Ordenssachen in Betreff
+                    der beigegebenen Herren sind ursprünglich in H's Hände gelegt, der diese große
+                    Affaire zuerst in die Hände des Ministers zurückgelegt hat, wo die Angelegenheit
+                    wohl noch ruhen dürfte. Sollte sich mein Hohenzollerngroßkreuz noch an Deiner
+                    Uniform befinden, so hast Du wohl die Freundlichkeit, es unter meiner Adresse
+                    entweder nach Paris oder vielleicht unter Adresse des Ministeriums nach
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> zu dirigieren. Anfangs
+                    nächster Woche passiere ich durch Berlin. Eigentlich wollte ich erst im
+                    Spätherbst hierherkommen, auch hätte ich dann wohl nicht Intrigo VII zu dem
+                    kurzen Interim verholfen, indessen war ich hier nötig und bin deshalb her
+                    gegangen. </p>
+                <p>Hier regnet es alle Tage ebenso wie in Paris. Dort war als neuer
+                    Kavallerie-Attaché Herr von <persName key="ed_px1_yjj_h3b">Romberg</persName>
+                    eingesprungen, den ich mit einigen Efforts trotz des neu eingeführten
+                    allgemeinen Steuerrechts in den Club habe hineingebracht. Er wird nun wohl
+                    weiter durch die Welt reiten. </p>
+                <p>Vor meiner Abreise verlobte sich noch die kleine <persName key="ed_ctc_fkj_h3b">Bedmar</persName> mit einem russischen Offizier Fürst <persName key="ed_xyf_gkj_h3b">Wittgenstein</persName> (eine durch der letztern
+                    Verwandte vorbereitete Partie).</p>
+				        <closer>
+					          <salute>Empfehle mich ehrerbietigst Deinen treuen Gemahlin und vergiss nicht ganz Deinen
+                        aufrichtig ergebenen treuen</salute>
+					          <signed>Rosenberg</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

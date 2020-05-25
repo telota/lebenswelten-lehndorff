@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_gzs_nhk_r2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Wilhelm I. König von Preußen an die Regierung zu Königsberg.
+                    Königsberg, 8. August 1722</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_gzs_nhk_r2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 316, n. f. </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nyn_ffz_g1b">Preußen, Friedrich Wilhelm I. König von
+                        (1688-1740)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1722-08-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_rml_bbl_2z">Regierung zu Königsberg</orgName>
+                </correspAction>
+                <note>Am 20. August 1722 wandte sich <persName key="ed_nyt_xfz_g1b">Canitz</persName> in der Angelegenheit an die Gräfin <persName key="ed_q4s_xyl_2y">Lehndorff</persName>. Das <quote>Zeugnis von des Rompels
+                        Untertänigkeit</quote>, Steinort, 5. März 1696, liegt der Akte bei. Vgl.
+                    auch GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 697
+                    (Rechtsverfahren vor dem Patrimonialgericht in Steinort gegen Christoff Rompel
+                    aus Taberlack wegen Leugnung der Erbuntertänigkeit, 1722) und Nr. 683
+                    (rechtliche Auseinandersetzung in Erbuntertänigkeitsangelegenheiten, u. a. mit
+                    Martin Rompel). Demnach waren auch dessen Vater und Großvater Erbuntertanen.
+                    Christoff Rompel hatte die Absicht, <quote>als ein freier Mann auf Zins mich zu
+                        begeben</quote> und auf <quote>Sr. Königl. Majestät Huben zu ziehen</quote>.
+                    Vor dem <orgName key="ed_ltz_hdr_gbb">Patrimonialgericht</orgName> waren Ende
+                    des 17. bis weit in das 18. Jahrhunderts hinein zahlreiche ähnliche Fälle
+                    verhandelt worden. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Edle Getreue. </salute>
+                </opener>
+                <p>Demnach Christoff <persName key="ed_a2s_czb_t2b">Rompel</persName> bei der
+                    letzten Gegenwart Unserer Höchsten Person sich in dem <seg type="comment">
+                        <orig>Beischluss</orig>
+                        <note xml:id="nffx_23k_r2b">Liegt der Akte als Abschrift bei.</note>
+                    </seg> beschwert hat, dergestalt die Gräfin von <persName key="ed_q4s_xyl_2y">Lehndorff</persName> ihn nebst Weib und Kindern und seines verstorbenen
+                    Bruders Sohn zur Ungebühr und widerrechtlich zur Untertänigkeit zwingen wolle,
+                    so befehlen Wir Dir hierdurch in Gnade die Sache gründlich zu untersuchen und
+                    Uns mit dem fordersamsten, ob diese Leute der gedachten Gräfin Untertanen
+                    wirklich sein oder nicht, pflichtmäßig zu berichten. Darin geschieht Unser
+                    gnädigster Wille.</p>
+				        <closer>
+                    <signed>A. v. <persName key="ed_qv5_zdq_mbb">Dohna</persName> D. v. <persName key="ed_txx_5fz_g1b">Tettau</persName> L. v. <persName key="ed_grx_cb3_tcb">Ostau</persName>
+               </signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>ab extra</p>
+                <p>Dem edlen Unserem Brigadier und Hauptmann zu Angerburg auch hierbei getreuen
+                        <persName key="ed_nyt_xfz_g1b">Melchior Ernst von Canitz</persName>
+                    <seg type="comment">
+                  <orig>verbatim</orig>
+                  <note xml:id="nelm_1bc_t2b">wörtlich</note>
+               </seg>
+            </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_fyv_5rg_4bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Friedrich von Seegebarth an Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 1. August 1799</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_fyv_5rg_4bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 385, Bl. 76</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_jdn_fgl_rbb">Seegebarth, (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1799-08-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 1. August 1799</dateline>
+					          <salute>Hochwürdiger, Hochgeborener Graf <lb/>Hochzuverehrender Herr Kammerherr!</salute>
+                </opener>
+				        <p>Ew. Hochwürden Hochgeboren geruhen von mir überzeugt zu sein, dass jede Gelegenheit,
+                    Denenselben meine innige Verehrung beweisen zu können, mir ungemein schätzbar
+                    ist. </p>
+                <p>Allein was das Anliegen des Post-Sekretarius <persName key="ed_avh_byp_tcb">Zimmermann</persName> anbelangt, dessen von Ew. Hochwürden Hochgeboren mir
+                    hochgefällig mitgeteiltes <seg type="comment">
+                  <orig>Schreiben hierneben wieder
+                            zurück erfolget</orig>
+                  <note xml:id="njtf_2yp_tcb">Liegt dem Brief nicht
+                            bei.</note>
+               </seg>, so glaube ich, dass demselben nicht besser als durch
+                    gelegentliche Ansetzung bei einem Postamt in der Provinz mit etatmäßigem Gehalt
+                    geholfen werden könnte. Dieses zu verfügen gehört aber nicht zu meinem <seg type="comment">
+                  <orig>Ressort</orig>
+                  <note xml:id="nuzn_vpt_2cb">Seegebarth
+                            war zu diesem Zeitpunkt Geheimer Ober-, Finanz-, Kriegs- und Domänenrat
+                            im Generaldirektorium und Vortragender Rat in Postsachen.</note>
+               </seg>,
+                    sondern, bei damaliger Anwesenheit des Freiherrn von <persName key="ed_wxq_lzz_g1b">Werder</persName> Exzellenz, eigentlich zum
+                    Wirkungskreis des Herrn Geheimen Finanzrats von <persName key="ed_j3k_3yp_tcb">Müller</persName>.</p>
+                <p>Ew. Hochwürden Hochgeboren stelle ich daher gehorsamst anheim, den <persName key="ed_y3p_2mv_22b">Zimmermann</persName> geneigtest anzuweisen, dass er
+                    sich an letzteren zu wenden habe.</p>
+				        <closer>
+					          <salute>Der ich mit unbegrenzter Hochachtung beharre <lb/>Ew. Hochwürden Hochgeboren ganz
+                        gehorsamster Diener</salute>
+					          <signed>Seegebarth</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

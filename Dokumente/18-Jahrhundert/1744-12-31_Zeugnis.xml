@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_ccz_lmj_dbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Promemoria. Kloster Berge, 31. Dezember 1744</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_ccz_lmj_dbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="editorial">Vgl. das Schulübungsbuch aus dem Jahr 1744 in: StA L, Bestand
+                    21950 FA Lehndorff, Nr. 418. <persName key="ed_csb_mdf_cy">Ernst Ahasverus
+                        Heinrich von Lehndorff</persName> war 1743 nach <placeName key="ed_e44_fxr_tcb">Kloster Berge</placeName> bei Magdeburg zum Studium
+                    geschickt worden. Er hielt sich hier 2 1/2 Jahre auf, vgl. dessen biografische
+                    Notizen als Einleitung zu den Tagebüchern, ediert in: Schmidt, Karl Eduard
+                    (Hrsg.), Dreißig Jahre am Hofe Friedrichs des Großen. Aus den Tagebüchern des
+                    Reichsgrafen Ernst Ahasverus Heinrich von Lehndorff, Gotha 1907. Zum Kloster
+                    Berge: Holstein, Hugo, Geschichte der ehemaligen Schule zu Kloster Berge,
+                    Leipzig 1886.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 204, Bl. 1</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_e44_fxr_tcb">Kloster Berge</placeName>
+                <date when="1744-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <opener>
+                <dateline>Kloster Berge, den 31. Dezember 1744</dateline>
+                <salute> </salute>
+            </opener>
+            <p>Pro Memoria an Ew. Hochwürden den Herrn Abt <persName key="ed_kfq_k4k_gbb">Steinmetz</persName>
+         </p>
+            <p>Der Herr <persName key="ed_csb_mdf_cy">Graf von Lehndorff</persName> hat sich </p>
+            <p>1. im Latein, so lange er hier ist, viel Mühe gegeben. Er sitzt jetzo in Groß-Secunda
+                und steht im merklichsten Wachstum in dieser Sprache, darin sonst am meisten
+                versäumt war. </p>
+            <p>2. Im Französischen hat er sich sowohl im Sprechen als Schreiben, sonderlich in der
+                Orthographie sehr gebessert und gehörige Fertigkeit erlangt. </p>
+            <p>3. Im Englischen ist einiger Anfang gemacht, weil er besondere Lust dazu bezeugt. </p>
+            <p>4. Die Geographie und Historie ist von Anfang angenehmstes Studium gewesen, er sitzt
+                in beiden obersten Klassen und ist zu beiden, wie auch in der Heraldik, sehr
+                geschickt. </p>
+            <p>5. In der teutschen Oratorie und Poesie ist bereits ein guter Ansatz da. </p>
+            <p>6. Die Mathesie tractirt der H. Graf auch Applikation. Die ganze Mathesie applicatam
+                hört er jetzo praeparatorie, die puram hat er schon einmal gehört, und ich gehe sie
+                jetzo noch einmal mit dem Herrn Graf nebst noch einem durch. </p>
+            <p>7. Im Reifen sind die Muster des Herrn Grafen nicht die allerbesten.</p>
+            <closer>
+                <salute> </salute>
+                <signed>A. G. E. <persName key="ed_stc_n4k_gbb">Hempel</persName>
+            </signed>
+            </closer>
+        </body>
+    </text>
+</TEI>

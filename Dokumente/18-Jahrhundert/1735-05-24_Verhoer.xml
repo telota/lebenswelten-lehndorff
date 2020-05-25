@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_hrx_1cb_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Protokoll. Steinort, 24. Mai 1735 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_hrx_1cb_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Vgl. APO, Bestand 382 FA Lehndorff, Nr. 545 (Gerichtsprotokoll) und die
+                            <orgName key="ed_ltz_hdr_gbb">Patrimonialgerichtsakte</orgName> in: GStA
+                        PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 692. Demnach war
+                            <persName key="ed_mkg_rml_w2b">Masuch</persName> bereits im September
+                        1747 erneut entlaufen. <persName key="ed_epx_t2c_hkb">Michael
+                            Scharck</persName> aus <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> zeigte an, dass er sich in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> aufhalte.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 547, Bl. 1-2</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1735-05-24" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/5/574/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Extrakt aus dem in dem hochgräflichen Gut zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName> den 24. Mai 1735 gehaltenen Verhör</p>
+                <p>Nachdem Johann <persName key="ed_h5p_2lj_gy">Masuch</persName>, ein Untertan aus
+                    den <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern, mit seinem
+                    Weibe in dem <placeName key="ed_act_42b_ycb">Brosowkenschen</placeName> Walde
+                    geirret, haben sie den Schulzen in <placeName key="ed_kwx_p2b_ycb">Trzetzacken</placeName> angetroffen, dem sie auf sein Fragen ihr Entlaufen
+                    offenbaret und zugleich gebeten, ihnen einen Dienst zuzuweisen, welcher sie auf
+                    die Nacht zu sich nach Trzetzacken genommen und folgenden Tages in ein Höfchen
+                    nach <placeName key="ed_act_42b_ycb">Brosowken</placeName>
+                    <seg type="comment">
+                  <orig>bei einem Freien <persName key="ed_qtv_r2b_ycb">Kroll</persName>
+                        </orig>
+                  <note xml:id="nuwd_1cr_clb">Ein Nachfahre, der Händler <persName key="ed_elx_mcr_clb">Max Kroll </persName>lebte noch in der Mitte
+                            des 20. Jahrhhunderts in
+                            Brosowen,http://www.datenbank-nord-masuren.besaweb.de.
+                    </note>
+               </seg>gebracht, welches Freien Ehegattin in Steinort Leibmädchen bei Ihro
+                    Hochgräflichen Gnaden gewesen. Dieser Kroll hat ihn befraget, woher er komme und
+                    wer er wäre, und als er ihm erzählet, dass er ein entlaufener Untertan aus
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName> wäre, habe der Kroll
+                    ihm gesagt, er solle nur bei ihm als Knecht dienen, es ginge daselbst keine
+                    Landstraße und würde bei ihm nicht verraten werden; daselbsten habe er, bis er
+                    abgeholt worden, als Knecht und sein Weib als Magd, die stets bei der
+                    Branntweinbrennerei gewesen, gedienet; der Hofmann aus <placeName key="ed_xpm_112_gy">Labab</placeName> wäre aber vor 14 Tagen von seinem
+                    Herrn, dem Herrn von <persName key="ed_kls_v2b_ycb">Schlichting</persName>, nach
+                    dessen Gütern mit <unclear reason="illegible" cert="high">Carpen</unclear>
+                    gefahren, und habe ihn unterwegs angetroffen, so ihn gleich gekannt, angeredet
+                    und gefraget, wo er sich aufhielte, und als er gestanden, dass er mit seinem
+                    Weibe sich in Brosowken bei dem Freien Kroll aufhalte, hätte ihn der Hofmann auf
+                    dem Rückwege angesprochen und hätte ihn mit seinem Weibe nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> mitgenommen, dem er und sein Weib
+                    auch willig gefolget. Er beklaget mit Tränen, dass er der gnädigen Herrschaft so
+                    untreu gewesen, gelobet an, niemalen mehr auf den Gedanken zu kommen, sondern
+                    der gnädigen Herrschaft bis an seinen Tod treu und ehrlich zu dienen, und bittet
+                    um gnädige Strafe.</p>
+                <p>G. <persName key="ed_lgm_1fb_ycb">Heiligendörffer</persName>              H.
+                        <persName key="ed_lbj_cfb_ycb">Billich</persName>
+            </p>
+                <p>Adel. Gerichtsschreiber      Richter in <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

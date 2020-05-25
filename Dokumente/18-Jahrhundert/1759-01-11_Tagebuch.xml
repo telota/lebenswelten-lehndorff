@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_x5t_2f2_pdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 10. und 11. Januar
+                    1759</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_x5t_2f2_pdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre
+                                am Hof Friedrichs des Großen ... Nachträge, Bd. 1, Gotha 1910, S.
+                                167; Giebel, Wieland (Hrsg.), Die Tagebücher des Grafen
+                            Lehndorff. Die geheimen Aufzeichnungen des Kammerherrn der Königin
+                            Elisabeth Christine, Berlin 2007, S. 197 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date from="1759-01-10" to="1759-01-11" cert="high"/>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+               
+				     <p>
+            <hi rendition="#u">10. Januar</hi>. <gap reason="insignificant"/>
+                <seg type="comment">
+               <orig>Mein hübsches Haus, dass ich in der Absicht gemietet
+                        hatte, für immer darin zu wohnen, ist an die Generalin <persName key="ed_pz5_vbr_rdb">Forcade</persName> verkauft worden, </orig>
+               <note xml:id="nkby_ybr_rdb">Vgl. den Tagebucheintrag vom <ref target="lehndorff_wtz_d2c_pdb">1. August 1758</ref>. </note>
+            </seg>und
+                diese gute Frau, die in ihren Unternehmungen etwas rasch vorgeht, zieht darin ein,
+                bevor ich recht Zeit gefunden habe, darin heimisch zu werden. Das ist mir recht
+                unangenehm, aber mit Dingen, die nicht zu ändern sind, muss man sich abfinden. <gap reason="insignificant"/>
+            </p>
+                <p>
+            <seg type="comment">
+               <orig>Den Abend verbringe ich beim Grafen <persName key="ed_rqz_ch3_tdb">Solms</persName>, der den Geburtstag seiner
+                        Schwiegermutter, der Gräfin <persName key="ed_ans_rks_52b">Dönhoff</persName>, feiert, die durch die große Zahl derer, die sie in
+                        ihrem Leben glücklich gemacht hat, so berühmt geworden ist.</orig>
+               <note xml:id="nmjg_xgy_ydb">Vgl. Schmidt-Lötzen, Nachträge, Bd. 2, S. 172, 345 und
+                        Ziebura, Tagebuch, S. 282 (Solms). - Friedrich Graf zu Solms-Sonnenwalde
+                        hatte 1754 Wilhelmine Gräfin von Dönhoff geheiratet. Deren Mutter war
+                        Charlotte Gräfin von Dönhoff, geb. von Blumenthal.</note>
+            </seg>
+                <gap reason="insignificant"/> Ich verdanke ihr meine Einführung in die Gesellschaft
+                und den Sinn für die Lektüre; ich werde ihr ewig zu Dank verpflichtet sein. </p>
+                <p>
+            <hi rendition="#u">11. Januar</hi>. <seg type="comment">
+               <orig>Ich besuche den
+                        General <persName key="ed_w2k_5b3_tdb">Dohna</persName>, der die Armee, die
+                        er in Schwedisch-Pommern befehligte, verlassen hat, um sich hier von der
+                        Wassersucht zu heilen.</orig>
+               <note xml:id="nmch_jh2_pdb">Ende Juli war Dohna
+                        wieder bei der Armee in Polen, machte aber, <quote>seitdem er das dortige
+                            Kommando hat, lauter Dummheiten</quote>, weshalb ihm die Leute
+                        davonliefen. General <persName key="ed_bj3_kmn_fz">Wedell</persName> an den
+                        er das Kommando abgeben musste, wollte nach seiner Ankunft <quote>die Russen
+                            angreifen</quote> - auch das ging schief und man hatte große Verluste.
+                        Dohna traute sich danach nicht mehr nach <placeName key="ed_xrv_gwb_by">Berlin</placeName>. <quote>Das gemeine Volk ist gegen ihn aufgebracht
+                            und hat gedroht, ihn in Stücke zu reißen, wenn er käme. Man sieht, wie
+                            der Krieg die Gemüter erbittert.</quote> Vgl. ebd., S. 216 f. und S. 344
+                        (nach Dohnas Tod). </note>
+            </seg>
+                <gap reason="insignificant"/> Ich erhalte betrübende Neuigkeiten aus <placeName key="ed_uvt_4j4_dz">Preußen</placeName>. Brand und Jammer auf den Besitzungen
+                meiner <persName key="ed_q4s_xyl_2y">Mutter</persName>. <gap reason="insignificant"/> In <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> stirbt auch eine alte
+                Jungfer, Gräfin Schlieben. Das Ereignis interessiert mich recht wenig, ich erwähne
+                es aber wegen meiner Schwester <persName key="ed_zsm_n55_sy">Schlieben</persName>,
+                die sich sechs Jahre lang alle Mühe gegeben hat, dieser alte Hexe um den Bart zu
+                gehen, in der Hoffnung sie zu beerben. <note type="editorial">Da sie kein Testament
+                    aufgesetzt hatte, fällt die Erbschaft an eine alte Tante. </note>
+            </p>
+			
+            
+        </body>
+    </text>
+</TEI>

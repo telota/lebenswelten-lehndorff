@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ggw_j4g_hdb">
+    <teiHeader>
+        <fileDesc>
+           
+                <titleStmt>
+                    <title>Louis von Wildenbruch an Carl Meinhard Graf von Lehndorff. Berlin, 17. Januar 1871</title>
+                <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+                <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+                <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ggw_j4g_hdb</idno>
+            </idno>
+         </publicationStmt>
+                <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                    <note type="keyword">
+                        <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                    </note>
+                </notesStmt>
+                <sourceDesc>
+                    <msDesc rend="officialCopy">
+                        <msIdentifier>
+                            <institution>GStA PK</institution>
+                            <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 430/2, n. f.</idno>
+                        </msIdentifier>
+                        
+                    </msDesc>
+                </sourceDesc>
+            
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_vlr_rm5_22b">Wildenbruch, Louis von (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1871-01-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Alle drei Söhne Wildenbruchs nahmen am Krieg 1870/71 teil und lebten noch bis
+                    1893, 1909 bzw. 1930.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 17. Januar 1871</dateline>
+					          <salute>Hochgeehrter Herr Graf.</salute>
+                </opener>
+                <p>Im Auftrag eines Vaters, dem durch das Schicksal eines geliebten und
+                    liebenswerten Sohnes eine schwere Prüfung auferlegt wurde, erlaube ich mir, an
+                    Ew. Hochgeboren die nachfolgenden Zeilen zu schreiben.</p>
+                <p>Meine Beziehungen zu dem Fürstlich Radziwillschen Hause sind Ew. Hochgeboren
+                    bekannt. Es wird daher einerseits weiterer Erklärung, andererseits einer
+                    Entschuldigung nicht bedürfen, wenn Fürst <persName key="ed_vdn_bn5_22b">Boguslaw Radziwill</persName> in so inhaltsschwerem und traurigen Moment
+                    meine Vermittlung in Anspruch genommen und mich beauftragt hat, an seiner statt
+                    das Wort zu ergreifen.</p>
+                <p>Es ist zuvörderst der Dank eines schwer gebeugten Vaters, den ich Ihnen, geehrter
+                    Graf, gegenüber auszusprechen beauftragt bin. Gott möge Ihnen und den Ihrigen
+                    lohnen, was Sie an dem hoffnungsvollen jungen Mann getan haben, den ein
+                    trauriges Schicksal ereilte, dessen Herstellung wir von Gott erbitten!</p>
+                <p>Nächst diesem Danke habe ich eine Bitte auszusprechen: Der Eintritt der
+                    Geistes-Störung des Pr. <persName key="ed_wgp_mn5_22b">C. Radziwill
+                    </persName>ist von traurigen Umständen begleitet worden, das Leben eines
+                    Unschuldigen wurde geopfert. Wenn wir hoffen, ja sicher vertrauen dürfen, dass
+                    Gott dereinst dem Vollbringer blutiger Tat keine Rechnung abfordern wird, so
+                    fällt nichts desto weniger dem Vater die Aufgabe zu, <gap reason="illegible"/>
+                    ihrer Sühnung zu tun, was dem Menschen zu tun gegeben ist.</p>
+                <p>Fürst B. Radziwill würde es demnach mit herzlichem Danke erkennen, wenn Ew.
+                    Hochgeboren über die Person, die Verhältnisse pp des Opfers eines trüben Wahns
+                    Kunde einziehen und ihm Ihre Ansicht mitteilen wollten, in welcher Weise den
+                    Angehörigen desselben, bei der Unmöglichkeit, Ersatz ihres Verlustes zu leisten,
+                    der Beweis nahen Mitgefühls und tiefen Bedauerns eines schweren Verhängnisses
+                    geliefert werden könnte. Fürst B. Radziwill setzt voraus, dass die amtliche
+                    Stellung, zu der Sie berufen sind, Ihnen die Möglichkeit bieten dürfte, solche
+                    Auskunft zu erteilen; er setzt ferner voraus, dass Sie die hilfreiche Teilnahme,
+                    die Sie dem unglücklichen Sohne zuwandten, auch dem schwer gebeugten Vater zu
+                    bestätigen geneigt sein werden.</p>
+                <p>Aber – es ist nicht ausschließlich die Notwendigkeit einer Sühne, welches bei
+                    solcher Handlungsweise maßgebend ist.</p>
+                <p>Es tritt ein anderes Motiv hinzu, und dieses wird Ew. Hochgeboren preußisches
+                    Herz würdigen. Es erscheint dringend geboten, einer uns feindlich gegenüber
+                    stehenden Bevölkerung den Beweis zu liefern, dass Handlungen, wie solche in dem
+                    vorliegenden Fall zu beklagen sind, eines der Resultate des freien, durch
+                    krankhafte Einflüsse unbeirrten Willens eines preußischen Offiziers sein
+                    können.</p>
+				        <closer>
+					          <salute>Mit Freude benutze ich diesen unerwünschten Anlass, mich in Ew. Hochgeboren Gedächtnis
+                        zurückzurufen: die Dauer meiner vollkommensten Hochachtung und Ergebung zu
+                        bekräftigen</salute>
+					          <signed>L. von Wildenbruch</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

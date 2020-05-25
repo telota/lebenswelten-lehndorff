@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ijn_jmg_qcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Meinhard Graf von Lehndorff an George Adalbert von Mülverstedt.
+                    Steinort, 13. März 1855</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ijn_jmg_qcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA M</institution>
+                        <idno>E 130 George Adalbert von Mülverstedt, Nr. 36/1: Ad Genealogiam der
+                            Grafen von Lehndorff, Bl. 52-52v und 66-66v (Akte ist ungeordnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1855-03-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_my1_zlb_1bb">Mülverstedt, George Adalbert von
+                        (1825-1914)</persName>
+                </correspAction>
+                <note>Siehe am Ende der Akte die <quote>Acta manualia betreffend die für den Kgl.
+                        Legations-Sekretär Grafen <persName key="ed_zkm_whl_2y">Carl von
+                            Lehndorff</persName> auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zum Beweis seiner Eigenschaft als Nach-Miterbe der
+                        zu <placeName key="ed_xrv_gwb_by">Berlin</placeName> 1832 verstorbenen
+                        Gräfin <persName key="ed_obb_d2y_d2b">Henriette von Schmettau</persName>
+                        angestellten Nachforschungen und Recherchen</quote>. - Die Lehndorffs waren
+                    aufgefordert worden, dem Nachlassgericht verschiedene Dokumente vorzulegen,
+                    darunter den Taufschein von <persName key="ed_gnc_c1m_2y">Amalie Caroline von
+                        Schmettau, verm. Gräfin von Lehndorff</persName>, und deren Sohn <persName key="ed_pv1_b4g_hy">Heinrich August Emil von Lehndorff</persName> auf
+                        <placeName key="ed_hts_ttp_vcb">Warglitten</placeName>. Mülverstedt hatte u.
+                    a. beim Königlich Schlesischen Provinzialarchiv Erkundigungen eingezogen, wegen
+                    der Taufen hatte der Pfarrer der evangelisch-reformierten Kirche in Glogau
+                    anhand des Taufregister Auskunft geben können. Mülverstedt übergab seine
+                    Ergebnisse am 2. April 1855 dem Nachlassgericht. Siehe auch: StA L, Bestand 21950
+                    FA Lehndorff, Nr. 131, Bl. 34: Übersicht der beizubringenden Tauf- und
+                    Totenscheine. Mit Nr. 5 ist der <quote>Kopulations-Schein wegen der Vermählung
+                        mit der Gräfin Amalie Caroline von Schmettau</quote> verzeichnet, als Nr. 6
+                        <quote>der Tauf- und Totenschein der letzteren</quote>, als Nr. 7 der
+                        <quote>Tauf- und Totenschein des Grafen Carl Leopold Gottfried von
+                        Schmettau</quote>. Hier auch der weitere Schriftwechsel in der
+                    Nachlass-Sache mit dem Kreisjustizrat. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                </opener>
+                <opener>
+                    <dateline rend="align(right)">Steinort p. Angerburg 13. März 1855</dateline>
+                </opener>
+                <opener>
+                    <salute>Ew. Hochwohlgeboren</salute>
+                </opener>
+                <p>haben vor einiger Zeit die Gefälligkeit gehabt, dem <persName key="ed_x5q_qzh_h2b">Herrn v. Below-Lugowen</persName> für mich die Zusage
+                    zu machen, sich gelegentlich in meinem Interesse mit Recherchen über meine
+                    Familie befassen zu wollen. Es tritt jetzt ein Fall ein, in welchem durch eine
+                    solche Recherche, die zwar nicht meine Lehndorffschen Vorfahren, sondern meine
+                        <seg type="comment">
+                  <orig>Schmettausche Verwandtschaft </orig>
+                  <note xml:id="nrnv_13p_42b">Am 5. Dezember 1852 war das Nachlassverfahren
+                            eröffnet worden, vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 131,
+                            Bl. 35 (Schreiben des Kreisjustizrats an Graf Lehndorff, Berlin, 27.
+                            März 1852). Testament und Erbteilung in: GStA PK, XX. HA, Rep. 54
+                            Gutsarchiv Lehndorff-Steinort, Nr. 14. Hier auch Nr. 658:
+                            Legitimationssache der Amalie Caroline von Lehndorff, geb. Reichsgräfin
+                            von Schmettau, 1855-1857.</note>
+               </seg> betrifft, Ew. Hochwohlgeboren mir
+                    einen wesentlichen Dienst leisten könnten. Ich bin nämlich durch die
+                    Entlegenheit meiner Wohnsitze und durch mangelnde Information über die genannte
+                    Familie außer Stande zur Herbeischaffung der in ergebenst angebogenem <seg type="comment">
+                  <orig>Schreiben des Kreisjustizrats Herrn <persName key="ed_mkb_ppm_33b">Strach</persName> sub 1, 2 und 4 benannten fünf
+                            Absätze </orig>
+                  <note xml:id="nuth_v4g_qcb">In der Akte, Bl. 55-57v
+                        </note>
+               </seg> erfolgreiche Schritte zu unternehmen. Alles, was ich von dem
+                    damaligen Gebaren der Familie weiß, ist, dass zwar <placeName key="ed_nmn_d1h_ldb">Hohendorf</placeName> in Schlesien (bei Liegnitz glaube
+                    ich) ihr vorzüglichster Aufenthalt, die Familie aber viel auf Reisen und
+                    außerdem reformiert war, so dass sie zu ihren kirchliche Akten sich der
+                    lutherischen Kirche zu Hohendorf nicht, sondern entweder der reformierten Kirche
+                    zu <placeName key="ed_nhm_rdz_bz">Glogau</placeName> oder einer anderen
+                    reformierten Kirche in <placeName key="ed_tjn_3rc_py">Schlesien</placeName> oder
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> bediente.</p>
+                <p>Wollen Ew. Hochwohlgeboren einen Versuch machen, diese wichtigen Atteste für mich
+                    herbeizuschaffen, so würden Herrn Minister <persName key="ed_cgy_xtf_4y">Graf
+                        Dönhoff-Friedrichstein</persName> ( z. Zt. <placeName key="ed_brk_k51_qkb">Molthainen</placeName>, Reichsstraße 2) und Herr Justizrat Strach noch
+                    einige weitere Informationen zu geben im Stande sein. Sehr dankbar würde ich
+                    sein, wenn ich gelegentlich von Ew. Hochwohlgeboren Nachricht darüber erhielte,
+                    ob Sie auf Grund der ziemlich vagen Daten, die uns zu Gebote stehen, den Versuch
+                    machen wollen, die fraglichen Atteste ans Licht zu bringen. </p>
+                <p>Alle baren Auslagen und Korrespondenzkosten würde ich ergebenst bitten mir zu
+                    schleunigster Erstattung mitzuteilen; als einige Entschädigung für den
+                    neuerlichen Zeitverlust bin ich so frei, 25 Rtlr. ganz ergebenst beizufügen.</p>
+                <p>Bei Ew. Hochwohlgeboren Rückkehr nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> hoffe ich von Ihrer vielseitigen Bekanntschaft mit
+                    der historischen Vorzeit unserer ostpreußischen Familie und von Ihrer bekannten
+                    Zuvorkommenheit in dergl. Dingen noch mancherlei Vorteil für die Aufklärung
+                    unserer <seg type="comment">
+                  <orig>Antezedenzien</orig>
+                  <note xml:id="nw34_q2c_rhb">Vorfahren</note>
+               </seg> zu ziehen, und zeichne
+                    indessen mit vorzüglichster Hochachtung als</p>
+                <closer rend="paragraph">
+                    <salute>Ew. Hochwohlgeboren ganz ergebenster</salute>
+                    <signed>Gf. Lehndorff</signed>
+                </closer>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

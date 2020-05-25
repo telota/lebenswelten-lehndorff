@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_l4j_qsq_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Siebert an Carol Graf von Lehndorff. Berlin, 2. Mai 1913</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_l4j_qsq_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 337, Bl. 152-152v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_f2s_t3q_pz">Siebert, (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1913-05-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ik3_ckz_2y">Lehndorff-Steinort, Carl Meinhard (Carol) Graf von
+                        (1860-1936)</persName>
+                </correspAction>
+                <note>Zu den finanziellen Verhältnissen Lehndorffs: LASA, StA L, Bestand 21950 FA
+                    Lehndorff, Nr. 337, Bl. 107 ff. (EKSt ab 1909), Bl. 126-136 (Wertermittlung 9.
+                    Dezember 1912), Bl. 134-141 (desgl., 23. Januar 1913). Das Inventarium des
+                    Allodial-Nachlasses (1883) ebd., Nr. 339. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin NW 21, 2. Mai 1913</dateline>
+					          <salute>Hochgeehrter Herr Graf,</salute>
+                </opener>
+				        <p>die <orgName key="ed_q2v_w2m_xcb">Ostpreußische General-Landschafts-Direktion</orgName> hat
+                    wiederum einmal an die Abgabe der Entlastungserklärung erinnert. Sie werden sich
+                    erinnern, dass wir der Landschaft früher entgegengehalten haben, Sie,
+                    hochgeehrter Herr Graf, könnten die Entlastungserklärung erst abgeben, wenn die
+                    Angelegenheit mit der Inventarmasse erledigt sei; die Fideikommissbehörde habe
+                    zwar einen Teilbetrag von 10.600 Mark freigegeben, wegen des Restbetrages
+                    schwebe die Sache aber noch und es werde voraussichtlich der Herr Justizminister
+                    als Beschwerdeinstanz angerufen werden. Ich habe jetzt der Landschaft von neuem
+                    erklärt, dass der Streit mit der Fideikommissbehörde noch schwebt und dass Sie,
+                    Herr Graf, Gelegenheit nehmen wollten, bei Ihrer nächsten Anwesenheit in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> unter Benutzung des
+                    Ihnen neulich übersandten Berichts mit dem zuständigen Referenten des
+                    Oberlandesgerichts persönlich Rücksprache zu nehmen, um eine Verständigung zu
+                    erzielen und eine Beschwerde an den Herrn Justizminister zu vermeiden. </p>
+            <p>Es
+                    ist anzunehmen, dass die Landschaft sich damit beruhigen lässt. Nach einigen
+                    Wochen wird sie freilich von neuem an uns herantreten. Es empfiehlt sich
+                    deshalb, dass Sie, Herr Graf, den Referenten des Oberlandesgerichts
+                    baldmöglichst besuchen.</p>
+				        <closer>
+					          <salute>In ausgezeichneter Hochachtung ergebenst</salute>
+					          <signed>Siebert <lb/>Rechtsanwalt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

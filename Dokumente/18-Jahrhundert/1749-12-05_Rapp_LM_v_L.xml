@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_nl3_qq5_cbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>G. C. Rapp an Maria Louisa Gräfin von Lehndorff. Schaken, 5. Dezember
+                    1749</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_nl3_qq5_cbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                                    907, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_cft_fb3_mbb">Rapp, (-)</persName>
+                    <placeName key="ed_ofb_m4r_gbb">Schaken</placeName>
+                    <date when="1749-12-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q4s_xyl_2y">Lehndorff, Marie Louise Henriette Gräfin von, geb.
+                        Gräfin von Wallenrodt (Ragnit, 12.10.1697-Ragnit, 12.11.1776)</persName>
+                </correspAction>
+                <note>Zur Verpachtung des Vorwerks Strittkeim: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                    Lehndorff-Steinort, Nr. 68 und 69. Schon am 2. September 1748 war eine
+                        <quote>Ermahnung wegen nicht ordnungsgemäß instand gesetzter Straßen und
+                        Brücken auf den von Lehndorffschen Besitzungen</quote> ergangen, diese in:
+                    GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 586. Hierzu auch in
+                    Nr. 463: Ausbesserung schadhafter Wege und Brücken durch die adligen
+                    Grundbesitzer, Königsberg, 19. September 1738; Aufforderung zur Reparatur der
+                    schlechten Wege in den Steinortschen Gütern, 16. November 1742; Nr. 462:
+                    Untersuchung von Wegen und Stegen durch die Kreissteuereinnehmer, Königsberg,
+                    24. Juni 1743. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Schaken, den 5. Dezember 1749</dateline>
+					          <salute>Hochgeborene Frau Reichsgräfin <lb/>Hochgeehrte Frau Obrist-Lieutenantin!</salute>
+                </opener>
+				        <p>In Konformität des angeschlossenen Königlichen allergnädigsten <seg type="comment">
+                  <orig>Reskripts</orig>
+                  <note xml:id="nswf_qr5_cbb">Königsberg, 28.
+                            November 1749 </note>
+               </seg> und dessen <seg type="comment">
+                  <orig>Beilage</orig>
+                  <note xml:id="nnvp_5r5_cbb">Die Beschwerde des
+                            kommandierenden Generals von <persName key="ed_xk3_k3q_rdb">Lehwald</persName>, Königsberg, 27. November 1749, liegt bei.
+                            Demnach war die Gräfin nicht zu bewegen, den Weg ausbessern zu lassen,
+                            weshalb die Reisenden ihren Weg über die Wiese zu nehmen gezwungen
+                            waren, wobei sie den Eigentümern Schaden zufügten.</note>
+               </seg> habe
+                    Ihrer Hochgräflichen Gnaden bei 10 Rtlr. irremissibler fiskalischer Strafe aus
+                    dem Hauptamt aufgeben wollen, den Teil des Weges bei dem sogenannten
+                    Vier-Graben, so dem Gute <placeName key="ed_shm_t2f_j1b">Strittkeim</placeName>
+                    zu unterhalten obliegt, in Continenti in passablen Stand zu setzen, indessen bei
+                    Unterlassung die obangezeigte Strafe ohne die geringste Nachsicht exekutive
+                    beigetrieben werden und hochgeehrte Frau Reichsgräfin zu ihrer Schuldigkeit
+                    durch gehörige Mittel angehalten werden wird.</p>
+				        <closer>
+					          <salute>Sonst bin allerstets Ihro Hochgeboren p. dienstwilliger Diener</salute>
+					          <signed>G. C. Rapp</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

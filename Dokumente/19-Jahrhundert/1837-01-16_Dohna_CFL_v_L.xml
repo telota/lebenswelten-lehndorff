@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_skt_pmg_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Burggraf und Graf zu Dohna-Schlobitten an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Schlobitten, 16. Januar 1837</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_skt_pmg_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 342, Bl. 6-8</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_uzd_pjm_wcb">Dohna-Schlobitten, Wilhelm Burggraf und Graf zu
+                        (1773-1845)</persName>
+                    <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName>
+                    <date when="1837-01-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/342/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Schlobitten bei Mühlhausen in Ostpreußen, den 16. Januar
+                        1837</dateline>
+					          <salute>Sehr verehrter Herr Graf!</salute>
+                </opener>
+				        <p>Mit mehrer herzlicher Teilnahme haben ich, meine <seg type="comment">
+                  <orig>Frau</orig>
+                  <note xml:id="nxmy_h1c_vkb">Amelie, geb. Gräfin von Schlieben</note>
+               </seg> und
+                    Töchter über <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> und
+                        <placeName key="ed_z5q_df5_c2b">Wilken</placeName> Nachrichten Ew. Exzellenz
+                    und der verehrten Ihrigen erhalten und ersehen, wie Sie durch das schreckliche
+                        <seg type="comment">
+                  <orig>Scharlachfieber</orig>
+                  <note xml:id="nr5y_d3r_hlb">
+                     <ref target="lehndorff_jbq_qx2_hy">1819 waren die Dohna-Kinder an
+                                Scharlach erkrankt.</ref>
+                  </note>
+               </seg> geängstigt worden sind, wie
+                    aber doch Gottes Gnade die Gefahr abgewandt hat. Empfangen Sie, teuerster Herr
+                    Graf, deshalb meinen sehr innigen Glückwunsch, sowie den meiner Frau und
+                    Töchter, die sich Ihnen und der gnädigen Frau <persName key="ed_tcp_g3l_2y">Gemahlin</persName> gehorsamst empfehlen lassen. Ich bitte Ihro Exzellenz
+                    meinen ergebensten Respekt zu versichern.</p>
+                <p>Hier in <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName> hat auch eine
+                    Krankheit geherrscht, nämlich die <seg type="comment">
+                  <orig>Grippe</orig>
+                  <note xml:id="nwgt_k3r_hlb">Zur 1833 und 1837 in Ostpreußen grasierenden
+                            Grippe siehe <ref target="https://books.google.de/books?id=bjJbAAAAcAAJ&amp;pg=PA505&amp;lpg=PA505&amp;dq=Grippe+1837+Ostpreu%C3%9Fen&amp;source=bl&amp;ots=Fe-o6Rme_O&amp;sig=ACfU3U1r1W6J5JqTVhu0shaf75XMpqKqqg&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwj0-Oz6stvoAhUILewKHfAtBqoQ6AEwAHoECAwQKw#v=onepage&amp;q=Grippe%201837%20Ostpreu%C3%9Fen&amp;f=false">hier</ref>.</note>
+               </seg>, welche die mehrsten auf einige Zeit im
+                    Zimmer und einige Tage im Bette hält. Nun sind wir indessen sämtlich wieder in
+                    Bewegung.</p>
+                <p>Wahrscheinlich werden wir im Februar auf einige Woche nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> reisen. Es wäre mir sehr
+                    erfreulich, wenn wir hoffen könnten, Ew. Exzellenz auch dort zu treffen.
+                    Vielleicht führt Sie der Landtag dorthin. Vom hiesigen Kreise werden Sie als
+                    Deputierten den Grafen <persName key="ed_vfd_1km_wcb">Finckenstein-Jeschkendorf</persName> und den Grafen <persName key="ed_lyr_1g5_c2b">Dohna-Reichertswalde</persName> da antreffen. </p>
+                <p>Dass ich mit meiner Familie den Herbst in <placeName key="ed_ykj_s2b_1bb">Charlottenburg</placeName> und <placeName key="ed_xrv_gwb_by">Berlin</placeName> zugebracht habe, wird Ihnen bekannt sein. Der dortige
+                    Aufenthalt bei meiner Tochter <persName key="ed_w3h_qg5_c2b">Marianne</persName>
+                    und in der Nähe meiner <unclear reason="illegible" cert="low">Enkel</unclear>
+                    hat mir und den meinigen viel Freude gemacht. Im November kehrte ich von da
+                    zurück und habe noch nie so einsam hier gelebt als seit der Zeit, die
+                    schrecklich schlechten Wege hinderten alle Verbindungen und beschränkten mich
+                    ganz auf <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName>. Mit Ungeduld
+                    erwarte ich den Sommer, in welchem ich Hoffnung habe, meinen <persName key="ed_ckq_k35_c2b">Bruder</persName>, den General aus <placeName key="ed_w5t_y5b_cdb">Trier</placeName>, hier zu sehen, sowie auch meine
+                    Tochter Marianne. Wenn es irgend möglich ist, werde ich in der guten Jahreszeit
+                    mir die Erlaubnis erbitten, Ihnen meine Aufwartung in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu machen.</p>
+                <p>Nun gestatten Sie mir noch eine Anfrage. Wie ich höre, haben Ew. Exzellenz einen
+                    vortrefflichen Wirtschafter namens <persName key="ed_clc_sfl_wcb">Schiemann</persName>, der bei Ihnen nicht fest angestellt eine
+                    Inspektorstelle sucht. Den 25. Mai geht der Inspektor meiner <placeName key="ed_i5b_gd5_zdb">Prökelwitzschen</placeName> Güter namens <persName key="ed_es2_r35_c2b">Mercker</persName> ab, um eine Pacht anzunehmen. Ich
+                    bin nun so frei, Ew. Exzellenz gehorsamst zu fragen, ob Sie mir den H. Schiemann
+                    zur Anstellung in Prökelwitz wohl überlassen möchten? und ob Sie ihn mir dazu
+                    empfehlen können? Mit dem Posten sind 200 Rtlr. jährliches Gehalt, 10 Rtlr.
+                    Frühstücksgeld, frei Essen und Trinken verbunden. Beweist sich der Inspektor zu
+                    meiner Zufriedenheit, so lege ich nach einem Jahr 40 Rtlr. an jährlichem Gehalt
+                    zu.</p>
+                <p>Da ich im vorigen Jahr verschiedene Prökelwitzsche Vorwerke verpachtet habe, so
+                    stehen unter der Administration des Inspektors nur 4 Vorwerke. Vermutlich kommt
+                    nach einem Jahr noch ein 5. Vorwerk, dessen Pacht alsdann abläuft. Die Geschäfte
+                    des Inspektors sind daher nicht so sehr schwierig und angreifend, dass sie nicht
+                    von einem tüchtigen Mann ohne große Aufregung bestritten werden können.</p>
+                <p>Es würde mir ganz vorzüglich wert und wichtig sein, von Ew. Exzellenz aus dem in
+                    aller, besonders in ökonomischer Ansicht so trefflich eingerichteten <placeName key="ed_pxt_cnh_1y">Steinort</placeName> einen Inspektor für meine Güter zu
+                    erhalten.</p>
+                <p>Sehr inständig bitte ich dieses gütigst zu beherzigen und mir recht bald hierüber
+                    eine geneigte Antwort zu erteilen. Sollten Sie es billigen, so schreibe ich
+                    geradezu den H. Schiemann. </p>
+				        <closer>
+					          <salute>Es sind die Gesinnungen der vorzüglichsten Hochachtung und wahren freundschaftlichen
+                        Anhänglichkeit, mit denen ich verharre, teurer Herr Graf, <lb/>Ew. Exzellenz
+                        ganz ergebenster Diener</salute>
+					          <signed>Graf Dohna</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

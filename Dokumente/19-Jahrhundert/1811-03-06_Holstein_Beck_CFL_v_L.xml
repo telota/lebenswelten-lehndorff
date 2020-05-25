@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_sql_wgg_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Karl Ludwig Herzog von Holstein-Beck an Carl Friedrich Ludwig Graf von Lehndorff. Schleswig, 6. März 1811</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_sql_wgg_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 142, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_txh_3w5_sy">Holstein-Sonderburg-Beck, Friedrich Karl Ludwig
+                        Herzog von (1757-1816)</persName>
+                    <placeName key="ed_lmg_pbh_ldb">Schleswig</placeName>
+                    <date when="1811-03-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Ob die Anpachtung des im Besitz der Herzogin <persName key="ed_ok2_3xf_hy">Friederike Amalie zu Holstein</persName> befindlichen Gutes <placeName key="ed_lkv_433_1fb">Charlottenthal</placeName> im Amt Brandenburg (vgl.
+                    GStA PK, I. HA GR, Rep. 66, Nr. 51, n. f.) durch Lehndorff 1811 mit der
+                    Schafzucht in Verbindung stand oder ob er beabsichtigte, ein Mustergut nach den
+                    Ideen <persName key="ed_tkl_kvp_vcb">Thaers</persName> aufzubauen, konnte bisher
+                    nicht geklärt werden. Vgl. dazu ebd., Nr. 480 sowie zahlreiche Akten mit
+                    Ausarbeitungen und Notizen zu landwirtschaftlichen Themen aus diesem und den
+                    Folgejahren, ab Nr. 481.</note>
+            </correspDesc>
+            <abstract>
+                <p>Antwort auf Lehndorffs Brief. - Er sei erfreut, dass dessen Befürchtungen wegen
+                        <placeName key="ed_iyy_gvm_zcb">Lindenau</placeName> unbegründet geblieben
+                    sind. Auch dass die Schafe, die er Lehndorff geschenkt habe, so gut gedeihen,
+                    erfreue ihn; er habe den <quote>patriotischen Wunsch</quote>, dass diese
+                    nützlichen Tiere erhalten bleiben.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

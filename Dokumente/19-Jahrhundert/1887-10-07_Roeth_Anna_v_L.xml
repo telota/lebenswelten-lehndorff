@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_s2h_3xg_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paul Freiherr von Röth an Anna Gräfin von Lehndorff. Eydtkuhnen, 7. Oktober
+                    1887</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_s2h_3xg_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="keyword"> </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 484. Bl. 27-27v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wkp_frv_g2b">Röth, Paul Freiherr von (-)</persName>
+                    <placeName key="ed_cs3_zqv_g2b">Eydtkuhnen</placeName>
+                    <date when="1887-10-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Nach seiner Eheschließung mit Fräulein von Kessler bat er Gräfin Lehndorff,
+                    ihr seine Frau bei einem Besuch in <placeName key="ed_bjn_3nh_tbb">Steinort</placeName> vorstellen zu dürfen. Im selben Brief übermittelt er
+                    Grüße der Gräfin von <persName key="ed_h24_krv_g2b">Keyserlingk</persName>, die
+                    er auf der Rückreise nach <placeName key="ed_iky_35l_cz">Russland</placeName>
+                    begrüßen konnte (Bl. 28-28v, Eydtkuhnen, 25. Oktober 1887).</note>
+            </correspDesc>
+            <abstract>
+                <p>Er bedankt sich für die Einladung nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Er wäre ihr sehr gern gefolgt, habe aber
+                        <quote>Damen-Dienst</quote>, da <quote>
+                  <seg type="comment">
+                     <orig>Frau von
+                                Bülow</orig>
+                     <note xml:id="nrjj_5sv_g2b">Marie von <persName key="ed_kzj_bcr_kfb">Bülow</persName>, geb. Beccadelli di
+                                Bologna, Principessa di Camporeale</note>
+                  </seg>, die Gattin des
+                        Botschafters von <persName key="ed_kgl_3sv_g2b">Bülow</persName>, der zur
+                        Zeit Exzellenz <persName key="ed_khq_xbs_d2b">Schweinitz</persName>
+                        vertritt</quote>, von ihrer Reise nach <placeName key="ed_qvp_nnz_2y">Petersburg</placeName> zurückkehre und an dem Tag die Grenze passiere.
+                    Würde es sich um einen Herrn handelt, könnte er einen Gendarmen als
+                        <quote>Sauvegarde</quote> hinüberschicken, bei einer Dame müsse er diesen
+                        <quote>Ehrendienst</quote> selbst tun. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/484/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

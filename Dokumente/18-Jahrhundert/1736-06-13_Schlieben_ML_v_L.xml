@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ivw_hl5_cbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Sigismund Reichsgraf von Schlieben an Maria Louisa Gräfin von
+                    Lehndorff. Gerdauen, 13. Juni 1736</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ivw_hl5_cbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 907, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_uvz_wgp_mbb">Schlieben, Ernst Sigismund Reichsgraf von
+                        (1677-1741)</persName>
+                    <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>
+                    <date when="1736-06-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Eleanor Gräfin von (Ragnit
+                        b. Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+                </correspAction>
+                <note>Zu den Angelegenheiten der Schulen in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                    und <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> vgl. GStA PK, XX. HA,
+                    Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 821 und 822. Siehe auch ebd., Nr.
+                    469: Königsberg, 2. Oktober 1738: Gewissenhafte Einrichtung und Erhaltung des
+                    Schulwesens durch den Adel, v. a. Erbauung von Schulhäusern; Nr. 464:
+                    Königsberg, 20. August 1739: Verbesserung der Schulverhältnisse und der
+                    Versorgung der Lehrer in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>,
+                        <placeName key="ed_bxm_sxb_5bb">Doben</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName>, <placeName key="ed_xjg_d12_gy">Stobben</placeName>, <placeName key="ed_xpm_112_gy">Labab</placeName> und
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, bzw. 26. August 1739:
+                    Verbesserung des Schulwesens im Amt Angerburg, sowie Nr. 462: Königsberg, 29.
+                    Februar 1743: Behebung von Mängeln des Schulwesens von <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ugy_1pg_hy">Rehsau</placeName>. Ab Februar 1740 waren durch die Prediger im Amt
+                    Angerburg Schultabellen zu führen, ebd., Nr. 467. Noch 1746 musste die
+                    regelmäßige Versorgung und die Abgabenfreiheit der Schulmeister angemahnt
+                    werden, ebd., Nr. 587 (11. Januar 1746) und wurde insbesondere Gräfin Lehndorff
+                    ermahnt, auf den regelmäßigen Schulbesuch der Kinder ihrer Gutsuntertanen zu
+                    achten (Nr. 587, 5. Mai 1746). Weitere königliche Reskripte und Anordnungen des
+                    Amts Angerburg für <persName key="ed_q4s_xyl_2y">Marie Louisa von
+                        Lehndorff</persName> ebd., Nr. 183. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gerdauen, den 13. Juni 1736</dateline>
+                    <salute>Wohlgeborene Frau Gräfin. <lb/>Hochzuehrende Frau
+                        Obrist-Lieutenant.</salute>
+                </opener>
+                <p>Es haben S. K. M., wie aus der <seg type="comment">
+                  <orig>Anlage Sub. No.
+                            1</orig>
+                  <note xml:id="ni2s_hn5_cbb">Auf der Rückseite. Königsberg, 3.
+                            Mai 1736, gerichtet an Tettau, Schlieben, Eulenburg, Kunheim, Bülow. Am
+                            3. Mai 1745 erging eine Anordnung zur Zahlung von 4 Rtlr. aus der
+                            Kirchenkasse Rosengarten an den dortigen Schulmeister, am 20. September
+                            wurde die Gräfin gemahnt, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 588. Vgl. auch ebd., Nr. 445: Deputate für den
+                            Schulmeister auf den Lehndorffschen Gütern, Johann Christian Kelch
+                            (1726). </note>
+               </seg> erhellet, dahin zu sehen allergnädigst verordnet,
+                    dass denen Schulmeistern alle Jahr dasjenige, was ihnen gebühret, von denen
+                    Gemeinden und sonsten unweigerlich gereichet, auch das Schulgeld zur gesetzten
+                    Zeit unvermindert gezahlt werden soll. Ferner haben S. K. M. sub <seg type="comment">
+                  <orig>No. 2</orig>
+                  <note xml:id="ndqv_mn5_cbb">Ebd., 26. Mai
+                            1736.</note>
+               </seg> bemerket, wie dem <seg type="comment">
+                  <orig>Patent
+                            wegen Pflanzung der Obst- und Weiden-, auch anderer nutzbarer Bäume vom
+                            19. Mai 1729 </orig>
+                  <note xml:id="nm4g_byg_scb">Am 19. Mai 1729 hatte
+                            der König ein <quote>Edikt wegen Pflanzung der Weiden und
+                                Obstbäume</quote> erlassen, vgl. <ref target="https://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT53/start.html">Mylius, Christian Otto, Corpus Constitutionum Marchicarum ..., V.
+                                Teil, 3. Abtlg., 2. Kapitel, Nr. XXXVI</ref>. Die nur geringen
+                            Gartenflächen dienten vorwiegend der eigenen Versorgung; selbst in der
+                            Nähe von Königsberg gab es nur wenige Produzenten für den städtischen
+                            Markt, vgl. Opgenoorth, Ernst (Hrsg.), Handbuch der Geschichte Ost- und
+                            Westpreußens, Teil II/2, Lüneburg 1996, S. 69 f. </note>
+               </seg> nicht an
+                    allen Orten, auch nicht in allen Städten nachgelebet worden, welchem nach
+                    Dieselben allerhöchst befohlen, dass die Kontravenienten dieses Edikts mit der
+                    im Edikt drauf gesetzten Strafe beleget und denenselben folglich völlig
+                    satisfacieret werden möge. Unsere Hochgeehrte Frau Gräfin wird diesemnach
+                    hiernach zu achten wissen und solcher Gestalt die angedrohte Strafe zu vermeiden
+                    suchen. </p>
+                <closer>
+                    
+                    <salute>
+                  <seg type="comment">
+                     <orig>Der ich verharre <lb/>Unserer Hochgeehrten
+                                Frau Gräfin dienstwilliger <lb/>
+                        <gap reason="illegible"/> Schlieben
+                                im Namen sämtlicher <unclear reason="illegible" cert="high">Gevattern</unclear>
+                            </orig>
+                     <note xml:id="noql_yhy_kfb">Nur dieser Teil ist von der Hand
+                                Schliebens. Der Text ist von der Kanzlei
+                        ausgefertigt.</note>
+                  </seg>
+               </salute>
+                </closer>
+            </div>
+            <postscript>
+                <p>P.S. Auch haben Ihre K. M. <seg type="comment">
+                  <orig>dem Amte
+                            bekanntgemacht</orig>
+                  <note xml:id="nnk1_rn5_cbb">In der Akte,
+                            Königsberg, 29. März 1736.</note>
+               </seg>, wie Sie einen Adelbrief vor den
+                    Herrn Hofgerichtsrat Jacob Friedrich <persName key="ed_jy4_btq_rdb">Rohd</persName> anfertigen lassen mit dem allergnädigsten Befehl, in denen
+                    an ihn ablassenden Missiven ihm das gewöhnliche Ehrenwert des Adels bezeugen und
+                    ihn von Rohd zu schreiben, ihn auch sonsten überall vor einen rechten
+                    Edelgeborenen preußischen Edelmann zu achten und zu halten in Literis.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

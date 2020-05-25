@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de" telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>  <editionStmt><edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL: https://lebenswelten-lehndorff.bbaw.de </edition></editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+            </idno>
+         </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_hq1_rhx_clb">
+                    <persName type="reg">
+                        <surname>Chalier</surname>
+                        <forename>Abraham</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Krüger, entlaufen</note>
+                </person>
+                <person xml:id="ed_ltp_hz5_scb">
+                    <persName type="reg">
+                        <surname>Calbe</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rittmeister (1784)</note>
+                </person>
+                <person xml:id="ed_jkw_tr2_2z">
+                    <idno type="uri">http://d-nb.info/gnd/118666711</idno>
+                    <persName type="reg">
+                  <surname>Camas</surname>
+                  <forename>Sophie Caroline Gräfin
+                            von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Gräfin Ogilvy</name>
+                    </persName>
+                    <birth>1686</birth>
+                    <death>1766</death>
+                </person>
+                <person xml:id="ed_n4d_lp2_vz">
+                    <persName type="reg">
+                  <surname>Campbell</surname>
+                  <forename>A. von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1730</death>
+                    <note>(1714)</note>
+                </person>
+                <person xml:id="ed_k5p_3gc_ydb">
+                    <persName type="reg">
+                        <surname>Campili</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>italienischer Maler (1775)</note>
+                </person>
+                <person xml:id="ed_nyt_xfz_g1b">
+                    <persName type="reg">
+                  <surname>Canitz</surname>
+                  <forename>Melchior Ernst
+                            von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1730</death>
+                    <note>1720 Amtshauptmann zu Memel</note>
+                </person>
+                <person xml:id="ed_pgj_jhr_gz">
+                    <idno type="uri">http://d-nb.info/gnd/11942293X</idno>
+                    <persName type="reg">
+                  <surname>Canitz und Dallwitz</surname>
+                  <forename>Karl Ernst
+                            Wilhelm Freiherr von</forename>
+                    </persName>
+                    <birth>1787</birth>
+                    <death>1850</death>
+                </person>
+                <person xml:id="ed_rwj_n5g_hy">
+                    <idno type="uri">http://d-nb.info/gnd/116456590</idno>
+                    <persName type="reg">
+                  <surname>Carmer</surname>
+                  <forename>Johann Heinrich Casimir
+                            Graf von</forename>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1801</death>
+                </person>
+                <person xml:id="ed_tjw_j3k_wcb">
+                    <persName type="reg">
+                        <surname>Carrier</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>französischer General in Steinort (1807)</note>
+                </person>
+                <person xml:id="ed_vhm_rxs_33b">
+                    <persName type="reg">
+                        <surname>Casseburg</surname>
+                        <forename>Johann Daniel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Amtshauptmann zu Lötzen</note>
+                </person>
+                <person xml:id="ed_drq_xvt_zdb">
+                    <persName type="reg">
+                        <surname>Castell-Rüdenhausen</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1942 Testamentsvollstrecker der Grafen von Lehndorff</note>
+                </person>
+                <person xml:id="ed_qzp_fzg_ldb">
+                    <idno type="uri">https://d-nb.info/gnd/102463042</idno>
+                    <persName type="reg">
+                        <surname>Catel</surname>
+                        <forename>Louis</forename>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1819</death>
+                </person>
+                <person xml:id="ed_mb3_5vd_3fb">
+                    <persName type="reg">
+                        <surname>Cavendish, Lord</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1866 Gast in Gastein</note>
+                </person>
+                <person xml:id="ed_sqh_kgp_tdb">
+                    <persName type="reg">
+                        <surname>Chaselons</surname>
+                        <forename>Fräulein</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1767 Hofdame</note>
+                </person>
+                <person xml:id="ed_bzt_xlm_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/116505907</idno>
+                    <persName type="reg">
+                  <surname>Chlumecký</surname>
+                  <forename>Johann Freiherr
+                            von</forename>
+                    </persName>
+                    <birth>1834</birth>
+                    <death>1924</death>
+                </person>
+                <person xml:id="ed_jdh_wmv_pkb">
+                    <idno type="uri">https://d-nb.info/gnd/118520512</idno>
+                    <persName type="reg">
+                        <surname>Chodowieki</surname>
+                        <forename>Daniel Nikolaus</forename>
+                    </persName>
+                    <birth>1726</birth>
+                    <death>1801</death>
+                </person>
+                <person xml:id="ed_p1x_sfv_22b">
+                    <persName type="reg">
+                        <surname>Clam-Gallas</surname>
+                        <forename>Graf</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>österreichischer Adliger; 1872 Gast in Gastein</note>
+                </person>
+                <person xml:id="ed_nwb_xxp_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/11852111X</idno>
+                    <persName type="reg">
+                        <surname>Clausewitz</surname>
+                        <forename>Carl von</forename>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1831</death>
+                </person>
+                <person xml:id="ed_ekb_slw_12b">
+                    <persName type="reg">
+                        <surname>Clauß</surname>
+                        <forename>Herbert</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1948 im Kriminalamt Chemnitz</note>
+                </person>
+                <person xml:id="ed_i3s_4wt_g2b">
+                    <persName type="reg">
+                        <surname>Cludius</surname>
+                        <forename>Carl Eduard</forename>
+                    </persName>
+                    <birth>1826</birth>
+                    <death>1889</death>
+                    <note>1876-1889 Pfarrer in Rhein</note>
+                </person>
+                <person xml:id="ed_hkf_qtc_5db">
+                    <idno type="uri">https://d-nb.info/gnd/105057317X</idno>
+                    <persName type="reg">
+                        <surname>Cocceji</surname>
+                        <forename>Carl Friedrich Ernst von</forename>
+                    </persName>
+                    <birth>1728</birth>
+                    <death>1780</death>
+                </person>
+                <person xml:id="ed_vzn_kdm_w2b">
+                    <persName type="reg">
+                        <surname>Cocceji</surname>
+                        <forename>Johanna Charlotte Freiin von</forename>
+               </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Beschefer, von </name>
+                    </persName>
+                    <birth/>
+                    <death>nach 1765</death>
+                    <note>Heirat: <persName key="ed_hkg_s5c_5db">Samuel Freiherr von
+                            Cocceji</persName>
+               </note>
+                </person>
+                <person xml:id="ed_skd_4mn_fz">
+                    <persName type="reg">
+                  <surname>Cocceji</surname>
+                  <forename>Johann Friedrich
+                            Heinrich von</forename>
+                    </persName>
+                    <birth>1725</birth>
+                    <death>1785</death>
+                    <note>Preußischer Diplomat, Oberst und königlicher Flügeladjutant</note>
+                </person>
+                <person xml:id="ed_zpt_ywg_2z">
+                    <persName type="reg">
+                  <surname>Cocceji</surname>
+                  <forename>Louise von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1764</death>
+                    <note>Hofdame</note>
+                </person>
+                <person xml:id="ed_hkg_s5c_5db">
+                    <idno type="uri">https://d-nb.info/gnd/119501600</idno>
+                    <persName type="reg">
+                        <surname>Cocceji</surname>
+                        <forename>Samuel Freiherr von</forename>
+                    </persName>
+                    <birth>1679</birth>
+                    <death>1755</death>
+                </person>
+                <person xml:id="ed_dq2_dpq_ybb">
+                    <idno type="uri">http://d-nb.info/gnd/128661399</idno>
+                    <persName type="reg">
+                  <surname>Cochius</surname>
+                  <forename>Christian</forename>
+                    </persName>
+                    <birth>1632</birth>
+                    <death>1699</death>
+                </person>
+                <person xml:id="ed_a5r_tfk_gy">
+                    <idno type="uri">http://d-nb.info/gnd/12988085X</idno>
+                    <persName type="reg">
+                  <surname>Cohn</surname>
+                  <forename>Moritz Baron
+                            von</forename>
+                    </persName>
+                    <birth>1812</birth>
+                    <death>1900</death>
+                </person>
+                <person xml:id="ed_k3s_2xc_5db">
+                    <persName type="reg">
+                        <surname>Columbus</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1767, 1781 Pächter in Amalienruh</note>
+                </person>
+                <person xml:id="ed_krj_rg2_n3b">
+                    <persName type="reg">
+                        <surname>Columbus</surname>
+                        <forename>Johann Daniel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1765 Waldhüter in Taberlack</note>
+                </person>
+                <person xml:id="ed_jxc_n4q_ybb">
+                    <persName type="reg">
+                  <surname>Conrady</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1706 Hofmeister von <persName key="ed_wtg_nyl_2y">Ahasverus Ernst Graf von
+                            Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_tr2_q1m_cz">
+                    <idno type="uri">http://d-nb.info/gnd/118907417</idno>
+                    <persName type="reg">
+                  <surname>Cothenius</surname>
+                  <forename>Christian
+                            Andreas</forename>
+                    </persName>
+                    <birth>1708</birth>
+                    <death>1789</death>
+                </person>
+                <person xml:id="ed_xfq_hty_ybb">
+                    <persName type="reg">
+                  <surname>Cramer</surname>
+                  <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1880 Hauptmann im Ostpreußischen Regiment Nr. 43</note>
+                </person>
+                <person xml:id="ed_vhm_rkm_lgb">
+                    <persName type="reg">
+                        <surname>Creytzen</surname>
+                        <forename>Andreas von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Kreytzen</surname>
+                        <forename>Andreas von</forename>
+                    </persName>
+                    <birth>1579</birth>
+                    <death>1641</death>
+                    <note>Heirat: <persName key="ed_r2t_qkv_mbb">Anne Marie Sophie von der
+                            Oelsnitz</persName>; 1606 Landrat, dann Hauptmann zu Angerburg; diente
+                        in der Herzoglichen Regierung als Obermarschall und seit 1628 als
+                        Landhofmeister</note>
+                </person>
+                <person xml:id="ed_wpr_1lm_lgb">
+                    <persName type="reg">
+                        <surname>Creytzen</surname>
+                        <forename>Anna Dorothea von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1679</death>
+                    <note>Tochter des Landhofmeister <persName key="ed_vhm_rkm_lgb">Andreas von
+                            Creytzen</persName>; Heirat: <persName key="ed_qxl_wlm_lgb">Friedrich
+                            Wilhelm von Lehndorff</persName>, Amtshauptmann zu Soldau, dann zu
+                        Seehesten</note>
+                </person>
+                <person xml:id="ed_r2t_qkv_mbb">
+                    <persName type="reg">
+                  <surname>Creytzen</surname>
+                  <forename>Anne Marie Sophie
+                            von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Oelsnitz, von der</name>
+                    </persName>
+                    <birth>1587</birth>
+                    <death>1634 oder 1646</death>
+                    <note>Heirat: <persName key="ed_vhm_rkm_lgb">Andreas von Creytzen</persName>,
+                        Landhofmeister im Herzogtum Preußen; Besitzerin eines Hauses auf dem
+                        Roßgarten in Königsberg</note>
+                </person>
+                <person xml:id="ed_qjx_tkm_lgb">
+                    <persName type="reg">
+                        <surname>Creytzen</surname>
+                        <forename>Katharina von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Landhofmeister <persName key="ed_vhm_rkm_lgb">Andreas von
+                            Creytzen</persName>; Heirat: <persName key="ed_njs_wmm_lgb">Fabian von
+                            Lehndorff</persName>, Amtshauptmann zu Soldau, dann zu Seehesten</note>
+                </person>
+                <person xml:id="ed_nf2_3lk_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/117664731</idno>
+                    <persName type="reg">
+                        <surname>Crome</surname>
+                        <forename>Georg Ernst Wilhelm</forename>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1813</death>
+                </person>
+                <person xml:id="ed_qdy_mxc_py">
+                    <persName type="reg">
+                  <surname>Cuany</surname>
+                  <forename>Marie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1883 Hausmädchen</note>
+                </person>
+                <person xml:id="ed_m2n_2lp_tdb">
+                    <persName type="reg">
+                        <surname>Czapski</surname>
+                        <forename>Grafen</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Hutten-Czapski</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>altes Adelsgeschlechts aus Pommerellen; einige Zweige erhielten den
+                        Grafentitel, zählten zu den polnischen Magnaten und bestehen bis in die
+                        Gegenwart fort.
+                        https://de.wikipedia.org/wiki/Czapski_(Adelsgeschlecht)</note>
+                </person>
+                <person xml:id="ed_d43_qvb_tcb">
+                    <persName type="reg">
+                        <surname>Czartoryska</surname>
+                        <forename>Izabella Fürstin</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Flemming, Gräfin von </name>
+                    </persName>
+                    <birth>1746</birth>
+                    <death>1835</death>
+                    <note>Heirat: <persName key="ed_v3v_kx3_tdb">Adam Fürst
+                        Czartoryski</persName>
+               </note>
+                </person>
+                <person xml:id="ed_v3v_kx3_tdb">
+                    <idno type="uri">http://d-nb.info/gnd/116776730</idno>
+                    <persName type="reg">
+                        <surname>Czartoryski</surname>
+                        <forename>Adam Kazimierz Fürst</forename>
+                    </persName>
+                    <birth>1734</birth>
+                    <death>1823</death>
+                    <note>Heirat: <persName key="ed_d43_qvb_tcb">Isabella Gräfin von
+                            Flemming</persName>
+               </note>
+                </person>
+                <person xml:id="ed_ilk_kwn_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118677659</idno>
+                    <persName type="reg">
+                        <surname>Czernin</surname>
+                        <forename>Ottokar Graf</forename>
+                    </persName>
+                    <birth>1872</birth>
+                    <death>1932</death>
+                </person>
+                <person xml:id="ed_qhx_gxv_scb">
+                    <persName type="reg">
+                        <surname>Czudnochowsky</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784/85 Adjutant des Generals von Anhalt</note>
+                </person>
+            </listPerson>
+        </body>
+   </text>
+</TEI>

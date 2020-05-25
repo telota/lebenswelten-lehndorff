@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_iyh_bvk_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amalie Caroline Gräfin von Lehndorff an ihren Sohn Carl Friedrich
+                    Ludwig. Königsberg, 6. März 1797</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_iyh_bvk_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 386, Bl. 1</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (1751-1830)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1797-03-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Siehe hierzu ihre früheren Briefe bzw. die Antwortbriefe des Grafen, ediert
+                    in: Schultze, Maximilian (Hrsg.), Christian Friedrich Carl Ludwig Reichsgraf
+                    Lehndorff-Steinort ... Ein Lebensbild auf Grund hinterlassener Papiere, Berlin
+                    1903, S. 11 ff. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 6. März 1797</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>
+               <gap reason="insignificant"/>
+                    <seg type="comment">
+                  <orig>Er</orig>
+                  <note xml:id="nsbp_wck_wcb">
+                     <note type="editorial">[der <persName key="ed_csb_mdf_cy">Vater</persName>]</note>
+                  </note>
+               </seg> denkt überhaupt mehr an Dich
+                    und beschäftigt sich mehr mit Deinem Glück, als Du es vielleicht glaubst. Du
+                    wirst den Beweis davon in dem <seg type="comment">
+                  <orig>Plan</orig>
+                  <note xml:id="ns3t_zgl_2bb">Aus dem Brief geht nicht hervor, worum es geht.
+                            Vorstellbar, dass Carl bereits zu diesem Zeitpunkt <ref target="lehndorff_wfm_14t_lcb">Schulden</ref> hatte. </note>
+               </seg>
+                    finden, den er für Dich gemacht hat. Gelingt er, so muss er Dir viel Vergnügen
+                    verschaffen, gelingt er nicht, so wird Dich doch gewiss so ein guter Wille
+                    rühren. Dass Du Deine <persName key="ed_z12_bwf_hy">Schwester</persName>
+                    herzlich liebst, versichert mir Dein Herz, dass Du ihre Zufriedenheit aus allen
+                    Kräften zu erhalten und befördern wirst, traue ich ganz deinem Verstande zu,
+                    über diesen Punkt bin ich also vollkommen ruhig. Gott helfe ihr nur glücklich
+                    durch die jetzigen <seg type="comment">
+                  <orig>Beschwerden ihres
+                            Standes</orig>
+                  <note xml:id="npq5_rgp_tcb">Pauline Luise Amalie von
+                            Lehndorff war seit 1796 mit <persName key="ed_lq5_jj5_sy">August
+                                Friedrich Philipp von Dönhoff</persName> verheiratet. Am 10. Oktober
+                            1797 wurde in Potsdam ihr Sohn <persName key="ed_cgy_xtf_4y">August
+                                Heinrich Herrmann </persName>geboren.</note>
+               </seg> und Dir helfe er
+                    zu Mut und Freude und Heiterkeit. Die Erfüllung dieser wichtigen Wünsche würde
+                    höchst beglücken</p>
+				        <closer>
+                    <salute>Deine treue Mutter Lehndorff</salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

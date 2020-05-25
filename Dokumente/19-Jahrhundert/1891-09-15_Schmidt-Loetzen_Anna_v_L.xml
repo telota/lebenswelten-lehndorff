@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_frs_bzx_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Eduard Schmidt an Anna Gräfin von Lehndorff. Lötzen, 15. September 1891</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_frs_bzx_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 483, Bl. 15</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ecr_2lh_my">Schmidt(-Lötzen), Karl Eduard
+                        (1850-1927)</persName>
+                    <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>
+                    <date when="1891-09-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Schmidt erhielt für Oktober 1891 eine Einladung nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Anna von Lehndorff habe ihn
+                        <quote>außerordentlich gütig</quote> empfangen und ihm ihren Dank für den
+                    kürzlich erschienene Aufsatz über Masuren ausgesprochen, der auch
+                        <quote>Bemerkungen über Steinort und das durch seinen Wohltätigkeitssinn
+                        bekannte Grafengeschlecht</quote> enthalten habe. Fragen zu der ihn sehr
+                    interessierenden Vergangenheit Steinorts und zur Familiengeschichte habe sie
+                        <quote>mit außerordentlicher Sachkunde</quote> beantwortet, und auf seine
+                    Frage nach dem von Töppen in seiner Geschichte Masurens [Töppen, Max, Geschichte
+                    Masurens – Ein Beitrag zur preußischen Landes- und Kulturgeschichte, 1870,
+                    Nachdruck 1979] erwähnten, aber nicht mehr vorhandenen Denkmal für den Grafen
+                    Henckel von Donnersmarck auf der Pyramideninsel im Mauersee habe er <quote>einen
+                        alten Folianten zum Durchblättern</quote> erhalten - ein französisches
+                    Manuskript von der Hand <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich
+                        Graf von Lehndorffs</persName>. Damit hatte er die <quote>Lehndorffschen
+                        Tagebücher entdeckt</quote>, die ihm nach dem Tod Anna von Lehndorffs durch
+                    den Majoratsherrn <persName key="ed_ik3_ckz_2y">Carl Graf Lehndorff</persName>
+                    <quote>mit echter Liberalität</quote> ebenso wie  <quote>die Briefe der Brüder
+                            <persName key="ed_x2r_52f_cy">Friedrichs des Großen</persName> an den
+                        Verfasser der Tagebücher</quote> zur Veröffentlichung in den „Mitteilungen
+                    der Literarischen Gesellschaft Masovia‟ ausgehändigt wurden. Allerdings waren
+                    die Tagebücher durch Anna von Lehndorff bereits „zensiert‟ , das heißt,
+                    Textstellen und Namen waren durch Überschreiben oder Durchstreichen unleserlich
+                    gemacht worden. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/483/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lötzen, 15. September 1891</dateline>
+					          <salute>Hochgeborene Gräfin!</salute>
+                </opener>
+				        <p>Ew. Gnaden erlaube ich mir die gehorsamste Mitteilung zu machen, dass ein Königsberger Verlag
+                    mich aufgefordert hat, meinen Aufsatz „Von Masurens Seen‟ zu einem <seg type="comment">
+                  <orig>Wegweiser durch Masuren zu erweitern, der mit
+                            Illustrationen durch einen bedeutenden Künstler und einer Karte
+                            geschmückt zum nächsten Frühjahr erscheinen soll. </orig>
+                  <note xml:id="nlj1_1k3_mdb">Der Aufsatz ist nicht überliefert. Am 29. Februar
+                            1913 erschien in Reclams Universum: Moderne illustrierte Wochenschrift,
+                            S. 1212-1217 Schmidts Beitrag: An Masurens Seen. Mit sieben
+                            Illustrationen nach Aufnahmen von Hofphotograph Gottheil in Königsberg.
+                            Siehe auch: Schmidt, Karl Eduard, Masuren ein neues Reiseziel, Elbing
+                            1904 (Wanderer durch Ost- und Westpreußen).</note>
+               </seg> Der Künstler
+                    ist gestern bereits eingetroffen, hat hier ein paar Aufnahmen gemacht und ist
+                    heute früh nach <placeName key="ed_z4n_nz1_tcb">Nikolaiken</placeName> und
+                        <placeName key="ed_kkd_nqv_h2b">Guzianka</placeName> abgereist; <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gedenkt er am 18. d. M. zu
+                    besuchen. </p>
+                <p>Zur Schilderung des Mauersees und seiner Umgebung wären mir nun einige
+                    Nachrichten über Steinort, das Geschlecht der Lehndorffs, Alt-Steinort, das
+                    Alter des Schlosses und Parks, die Pyramideninsel und dergl. sehr erwünscht.
+                    Meine Bitte geht nun dahin, Ew. Gnaden wollen mir gütigst solche Nachrichten von
+                    allgemeinem Interesse zukommen lassen, besonders aber <seg type="comment">
+                  <orig>Einsicht in die Tagebücher des Vorfahrs Ihres seligen Herrn
+                                <persName key="ed_zkm_whl_2y">Gemahls</persName>
+                            gestatten,</orig>
+                  <note xml:id="ngxc_wdf_gdb">Woher Schmidt von den
+                            Tagebüchern noch vor dem Besuch in Steinort wusste ist unklar, ebenso,
+                            ob Anna von Lehndorff selbst die Tagebücher herausgeben wollte. Bekannt
+                            war ihr, dass die Enkelin von <persName key="ed_f3l_zdv_22b">Bertha von
+                                Wallenrodt </persName>beabsichtigte, deren Briefe zu
+                            veröffentlichen; sie hatte sich wegen genealogischer Fragen an sie
+                            gewandt und ihr am 30. Dezember 1891 mitgeteilt, sie habe bereits das
+                            Honorar vom Verlag erhalten, die Briefe würden 1892 erscheinen, vgl.
+                            APO, Bestand 382 FA Lehndorff, Nr. 481, u. a. Bl. 26-27v. </note>
+               </seg>
+                    der einst dem großen <persName key="ed_p2l_lfh_vdb">Henckel von
+                        Donnersmarck</persName> die nun verfallene Pyramide setzte. Dass ich die
+                    Einsicht mit der gebührenden Pietät und Diskretion nehmen würde, brauche ich
+                    wohl kaum zu versichern. </p>
+				        <closer>
+					          <salute>Einer gnädigen Äußerung entgegensehend, zeichne ich mich Ew. Gnaden
+                        gehorsamster</salute>
+					          <signed>Dr. E. Schmidt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

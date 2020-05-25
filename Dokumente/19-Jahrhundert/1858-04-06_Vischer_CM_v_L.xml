@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dbk_ysj_h3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Adolf von Vischer-Ihingen an Carl Meinhard Graf von Lehndorff. Ihingen bei
+                    Weil, 6. April 1858</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dbk_ysj_h3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zdk_mch_ldb">Vischer-Ihingen, Adolf von (-)</persName>
+                    <placeName key="ed_ntb_dtj_h3b">Ihingen b. Weil</placeName>
+                    <date when="1858-04-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+                </correspAction>
+                <note>Siehe dessen Brief vom <ref target="lehndorff_dbk_ysj_h3b">5. Oktober
+                        1849</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Ihingen bei Weil der Stadt, der 6. April 1858</dateline>
+					          <salute>Lieber Freund!</salute>
+                </opener>
+				        <p>Deinen im Dezember abgegangenen Brief erhielt ich durch Gott weiß welche Verspätung zu Anfang
+                    des vorigen Monats, übrigens hat es mich außerordentlich gefreut, wieder nach so
+                    langer Zeit von Dir zu hören, hauptsächlich dass Du glücklich und zufrieden
+                    lebst, denn außer den Notizen in den hippologischen Zeitschriften, wo ich hier
+                    und da unter den Engagements zu Rennen deinen Namen finde, habe ich seit langer
+                    Zeit nichts von Dir gehört. Ich lebe aber so ziemlich als Einsiedler, indem ich
+                    mich nun seit 8 Jahren beständig auf dem Lande aufhalte, meinen Acker bestelle,
+                    Ochsen mäste, Schafe züchte etc., in neuerer Zeit bin ich auch Zuckerfabrikant
+                    geworden, indem ich bei der Verwaltung einer größeren <gap reason="illegible"/>
+                    Zuckerfabrik in meiner Nähe, der ich einen Teil ihrer Rüben brenne, beteiligt
+                    bin.</p>
+                <p>In den ersten Jahren hätte ich die Landwirtschaft und <gap reason="illegible"/>
+                    über das Leben in einer Gegend, wo sich wenig Nachbarschaft und Amüsement
+                    findet, gern wieder verlassen, jetzt aber habe ich mich daran gewöhnt, und da
+                    man doch nicht durchs ganze Leben bummeln kann, will ich auch bei dieser
+                    Beschäftigung bleiben. Sonst hat sich in meinen Verhältnissen nichts verändert,
+                    ich bin <gap reason="illegible"/> nächstens ein alter Hagestolz, und sehe mich
+                    zuweilen veranlasst durch Spritztouren nach <placeName key="ed_uyx_nvn_my">Paris</placeName> oder sonstwo aus Hypochondrie und Langweile mich
+                    gewaltsam herauszureißen. Es wird mir darum recht lieb sein, wenn Du mir
+                    künftigen Sommer ein Rendezvous auf einige Tage in <placeName key="ed_mdb_4hz_ny">München</placeName> geben willst, ich würde mich
+                    unendlich freuen, Dich wiederzusehen.</p>
+                <p>Was die in deinem Brief berührten 70 Tlr. oder Gulden betrift, so besitze ich
+                    darüber zwar keine Notizen, glaube aber, dass es Taler waren. Wo die Sache
+                    herrührt, weiß ich nicht mehr genau, jedoch erinnere ich mich, dass wir in
+                    Geldabrechnung standen und einmal in <placeName key="ed_tjp_yh5_2z">Frankfurt</placeName> zusammen ein Anlehn bei<seg type="comment">
+                  <orig> H.
+                            v. Bethmann</orig>
+                  <ref target="https://de.wikipedia.org/wiki/Bethmann_Bank#Gebr%C3%BCder_Bethmann">
+                     <note xml:id="nnsy_lxt_3lb">Bankhaus Gebrüder
+                        Bethmann</note>
+                  </ref>
+               </seg> machten, dass ich demselben nachher durch einen
+                    Stuttgarter Bankier wieder ersetzen ließ.</p>
+                <p>Nun mein lieber alter Freund lebe herzlich wohl; empfiehl mich Deiner Frau
+                    Gemahlin, und lass mich auch wieder von Dir hören.</p>
+				        <closer>
+					          <salute>Mit alter Freundschaft der Deinige</salute>
+					          <signed>Vischer</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

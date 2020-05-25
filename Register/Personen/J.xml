@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_j4t_h4j_hlb">
+                    <idno type="uri">https://d-nb.info/gnd/118556312</idno>
+                    <persName type="reg">
+                        <surname>Jacobi</surname>
+                        <forename>Friedrich Heinrich</forename>
+                    </persName>
+                    <birth>1743</birth>
+                    <death>1819</death>
+                </person>
+                <person xml:id="ed_gyt_mlh_scb">
+                    <idno type="uri">http://d-nb.info/gnd/117028487</idno>
+                    <persName type="reg">
+                        <surname>Jablonski</surname>
+                        <forename>Paul Ernst</forename>
+                    </persName>
+                    <birth>1693</birth>
+                    <death>1757</death>
+                </person>
+                <person xml:id="ed_o2r_1dj_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/118556436</idno>
+                    <persName type="reg">
+                        <surname>Jacobi</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1877</death>
+                </person>
+                <person xml:id="ed_qwy_vwh_my">
+                    <persName type="reg">
+                        <surname>Jacobson</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Fachtechnisches Büro für Obstbau und Obstverwertung </note>
+                </person>
+                <person xml:id="ed_lyj_ylf_mjb">
+                    <idno type="uri">https://d-nb.info/gnd/136223516</idno>
+                    <persName type="reg">
+                        <surname>Jagow</surname>
+                        <forename>Ludwig von</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1825</death>
+                </person>
+                <person xml:id="ed_s3x_3kh_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/136169163</idno>
+                    <persName type="reg">
+                        <surname>Jagow</surname>
+                        <forename>Friedrich Wilhelm von</forename>
+                    </persName>
+                    <birth>1771</birth>
+                    <death>1857</death>
+                </person>
+                <person xml:id="ed_lzd_zhr_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/117610828</idno>
+                    <persName type="reg">
+                        <surname>Jagow</surname>
+                        <forename>Gustav von</forename>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1879</death>
+                </person>
+                <person xml:id="ed_tfb_3x3_ycb">
+                    <persName type="reg">
+                        <surname>Jankowski</surname>
+                        <forename>Wilhelmine</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Kirsch</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Dorfschullehrers Carl Jankowski (geb. 1798), Stobben</note>
+                </person>
+                <person xml:id="ed_ph2_xcc_ffb">
+                    <persName type="reg">
+                        <surname>Jansen</surname>
+                        <forename>Gustav Theodor</forename>
+                    </persName>
+                    <birth/>
+                    <death>vor 1877</death>
+                    <note>Rechtsanwalt und Notar im Bezirk des königlichen Kammergerichts
+                        Berlin</note>
+                </person>
+                <person xml:id="ed_w3r_ydj_f3b">
+                    <persName type="reg">
+                        <surname>Janson</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1739 Fuhrmann in Memel; Ehemann von <persName key="ed_vcn_fdj_f3b"
+                            >Dorothea Grabusch</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_cdq_4tx_hhb">
+                    <persName type="reg">
+                        <surname>Jantzen</surname>
+                        <forename>Johann Friedrich</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Janzen</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1765-1768 Pächter von Taberlack, 1768 des Vorwerks Pristanien</note>
+                </person>
+                <person xml:id="ed_mgb_hdj_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/117612022</idno>
+                    <persName type="reg">
+                        <surname>Jariges</surname>
+                        <forename>Philipp Joseph von </forename>
+                    </persName>
+                    <birth>1706</birth>
+                    <death>1770</death>
+                </person>
+                <person xml:id="ed_uvy_fw3_d2b">
+                    <persName type="reg">
+                        <surname>Jaski</surname>
+                        <forename>Emilie von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Köhn von Jaski</surname>
+                        <forename>Emilie Caroline</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Ancker </name>
+                    </persName>
+                    <birth>1825</birth>
+                    <death>1903</death>
+                    <note>Heirat: <persName key="ed_hwn_j15_g2b">Theodor Franz Friedrich Köhn von
+                            Jaski </persName>
+                    </note>
+                </person>
+                <person xml:id="ed_ows_ccx_fhb">
+                    <persName type="reg">
+                        <surname>Jeleschowna</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stawken (1742)</note>
+                </person>
+                <person xml:id="ed_bfv_m45_22b">
+                    <persName type="reg">
+                        <surname>Jelf</surname>
+                        <forename>Emmy</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schlippenbach, von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: Richard William Jelf (1798-1871), 4. Vorsteher des King's College
+                        in London. https://en.wikipedia.org/wiki/Richard_William_Jelf</note>
+                </person>
+                <person xml:id="ed_rkd_q45_22b">
+                    <persName type="reg">
+                        <surname>Jelf</surname>
+                        <forename>Mary</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter von Emmy und Richard William Jelf</note>
+                </person>
+                <person xml:id="ed_f4f_5tp_tdb">
+                    <persName type="reg">
+                        <surname>Jennings</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>englischer Kaufmann, Hamburg (1767)</note>
+                </person>
+                <person xml:id="ed_h4k_tpv_22b">
+                    <persName type="reg">
+                        <surname>Jentzsch</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Jentsch</name>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1917</death>
+                    <note>Pfarrer in Schlesien, emeritiert 1874</note>
+                </person>
+                <person xml:id="ed_ovk_245_scb">
+                    <persName type="reg">
+                        <surname>Jeroisch</surname>
+                        <forename>Witwe</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Richters Jeroisch zu Drengfurth (1784)</note>
+                </person>
+                <person xml:id="ed_pnr_jqw_mbb">
+                    <persName type="reg">
+                        <surname>Jerominski</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Untertan in Serwillen</note>
+                </person>
+                <person xml:id="ed_h5r_dd5_2z">
+                    <idno type="uri">http://d-nb.info/gnd/11910007X</idno>
+                    <persName type="reg">
+                        <surname>Jordan</surname>
+                        <forename>Charles Etienne</forename>
+                    </persName>
+                    <birth>1700</birth>
+                    <death>1745</death>
+                </person>
+                <person xml:id="ed_kds_gpv_22b">
+                    <idno type="uri">https://d-nb.info/gnd/117182761</idno>
+                    <persName type="reg">
+                        <surname>Jordan</surname>
+                        <forename>Max</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1906</death>
+                </person>
+                <person xml:id="ed_dgq_5gp_tdb">
+                    <persName type="reg">
+                        <surname>Junck</surname>
+                        <forename>Johann Andreas von</forename>
+                    </persName>
+                    <birth>1735</birth>
+                    <death>1789</death>
+                    <note>preußischer Legationsrat, Resident in Danzig</note>
+                </person>
+                <person xml:id="ed_x11_c3f_s3b">
+                    <idno type="uri">https://d-nb.info/gnd/11928264X</idno>
+                    <persName type="reg">
+                        <surname>Jungingen</surname>
+                        <forename>Konrad von</forename>
+                    </persName>
+                    <birth>um 1355/1360</birth>
+                    <death>1407</death>
+                </person>
+                <person xml:id="ed_h2d_fhf_cy">
+                    <persName type="reg">
+                        <surname>Junkuhn</surname>
+                        <forename>Otto</forename>
+                    </persName>
+                    <birth>1869</birth>
+                    <death>1910</death>
+                    <note>1899-1910 Pfarrer in Rosengarten</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

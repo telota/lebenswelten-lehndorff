@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_ug2_y45_g2b">
+                    <persName type="reg">
+                        <surname>Kahlden</surname>
+                        <forename>Friedrich Wilhelm August Otto von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Kaiser</name>
+                    </persName>
+                    <birth>1829</birth>
+                    <death>1862</death>
+                    <note>Rittmeister; 1872 kaufte seine Aktiengesellschaft die Anlage des Seebades
+                        Heiligendamm für 500.000 Taler, 1885 wurde er Alleineigentümer</note>
+                </person>
+                <person xml:id="ed_bnz_hjt_ncb">
+                    <persName type="reg">
+                        <surname>Kahnert</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784/85 Kammerdiener des Grafen Lehndorff</note>
+                </person>
+                <person xml:id="ed_ov5_jc3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/100504426</idno>
+                    <persName type="reg">
+                        <surname>Kalckreuth</surname>
+                        <forename>Friedrich Adolf (Graf) von</forename>
+                    </persName>
+                    <birth>1737</birth>
+                    <death>1818</death>
+                </person>
+                <person xml:id="ed_nly_nz2_n2b">
+                    <persName type="reg">
+                        <surname>Kalckreuth</surname>
+                        <forename>Gräfin von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter von <persName key="ed_trw_mz2_n2b">Ludwig Gottlob von
+                            Kalckreuth</persName> und Karoline Beate Dorothea von Kalckreuth
+                        (1752-1827)</note>
+                </person>
+                <person xml:id="ed_rk2_mmz_ny">
+                    <persName type="reg">
+                        <surname>Kalckreuth</surname>
+                        <forename>Ludwig Ernst Heinrich Graf von</forename>
+                    </persName>
+                    <birth>1771</birth>
+                    <death>1847</death>
+                    <note>Sohn von Hans Ernst Emil von Kalckreuth (1728-1792) und Konstantina
+                        Auguste Sophie, geb. von Schlabrendorff (1742-1813); preußischer
+                        Generalmajor und Kommandeur der 16. Kavallerie-Brigade
+                        https://de.wikipedia.org/wiki/Ludwig_von_Kalckreuth</note>
+                </person>
+                <person xml:id="ed_trw_mz2_n2b">
+                    <persName type="reg">
+                        <surname>Kalckreuth</surname>
+                        <forename>Ludwig Gottlob Graf von</forename>
+                    </persName>
+                    <birth>1740</birth>
+                    <death>1783</death>
+                    <note>königlich-preußischer Generalmajor, Chef des Infanterie-Regiments Nr. 1
+                        und Amtshauptmann von Spandau.
+                        https://de.wikipedia.org/wiki/Ludwig_Gottlob_von_Kalckreuth</note>
+                </person>
+                <person xml:id="ed_prm_nfc_t2b">
+                    <persName type="reg">
+                        <surname>Kalckstein</surname>
+                        <forename>Christophera Erna Lukretia von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Brandt von Lindau</name>
+                    </persName>
+                    <birth/>
+                    <death>1729</death>
+                    <note>Heirat: Christoph Wilhelm von Kalckstein (1682-1759), Erzieher des
+                        Kronprinzen Friedrich.
+                        https://de.wikipedia.org/wiki/Christoph_Wilhelm_von_Kalckstein</note>
+                </person>
+                <person xml:id="ed_ull_gw3_tcb">
+                    <idno type="uri">https://d-nb.info/gnd/116031360</idno>
+                    <persName type="reg">
+                        <surname>Kalckstein</surname>
+                        <forename>Ludwig Karl von</forename>
+                    </persName>
+                    <birth>1725</birth>
+                    <death>1800</death>
+                </person>
+                <person xml:id="ed_osq_fzp_vcb">
+                    <persName type="reg">
+                        <surname>Kall</surname>
+                        <forename>Georg Friedrich von</forename>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1813</death>
+                    <note>preußischer Major, Kommandeur des 2. Leib-Husaren.Regiments.
+                        https://de.wikipedia.org/wiki/Georg_Friedrich_von_Kall</note>
+                </person>
+                <person xml:id="ed_opf_zml_f2b">
+                    <persName type="reg">
+                        <surname>Kalnein</surname>
+                        <forename>Ada Gräfin von </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Eulenburg, Gräfin zu</name>
+                    </persName>
+                    <birth>1848</birth>
+                    <death>1893</death>
+                    <note>Heirat: <persName key="ed_zss_vwq_d2b">Karl Graf von Kalnein</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_y1b_51b_2lb">
+                    <persName type="reg">
+                        <surname>Kalnein</surname>
+                        <forename>Amalia Wilhelmine Elisabeth Albertine Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Dönhoff, Gräfin von</name>
+                    </persName>
+                    <birth>1737</birth>
+                    <death>1818</death>
+                    <note>Heirat: Friedrich Stanislaus Leopold Graf von Kalnein, Erbherr auf Kilgis,
+                        Obermarschall des Königreichs Preussen</note>
+                </person>
+                <person xml:id="ed_dxn_bb3_tcb">
+                    <persName type="reg">
+                        <surname>Kalnein</surname>
+                        <forename>Amalie Pauline Gräfin von</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1829</death>
+                    <note>Heirat: 1786 Friedrich Ludwig II. Graf Truchseß von <persName
+                            key="ed_kzh_z13_tcb">Waldburg-Capustigall</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_nvf_fgp_tdb">
+                    <persName type="reg">
+                        <surname>Kalnein</surname>
+                        <forename>Charlotte Amalie von</forename>
+                    </persName>
+                    <birth>1737</birth>
+                    <death>1809</death>
+                    <note>Tochter von Karl Erhard von Kalnein (1687-1757) und Charlotte Sophia Fink
+                        von Finkenstein (1707-1756); Heirat: nach 1767 N. N. von Seidlitz,
+                        Oberforstmeister</note>
+                </person>
+                <person xml:id="ed_u13_hs5_1bb">
+                    <persName type="reg">
+                        <surname>Kalnein</surname>
+                        <forename>Georg Friedrich Graf von</forename>
+                    </persName>
+                    <birth>1654</birth>
+                    <death>1703</death>
+                    <note>Geheimer Rat, Tribunalsrat und Amtshauptmann zu Neidenburg und
+                        Soldau</note>
+                </person>
+                <person xml:id="ed_jjl_jtz_zdb">
+                    <persName type="reg">
+                        <surname>Kalnein</surname>
+                        <forename>Hans Georg Graf von</forename>
+                    </persName>
+                    <birth>1877</birth>
+                    <death>1964</death>
+                    <note>Vater von <persName key="ed_y31_rl1_dy">Gottliebe Gräfin von Kalnein,
+                            verh. Gräfin von Lehndorff</persName>; Heirat: Sophie von Boddien; GStA
+                        PK, VIII. HA, C Familienarchive und Nachlässe, Einzelstücke</note>
+                </person>
+                <person xml:id="ed_zss_vwq_d2b">
+                    <persName type="reg">
+                        <surname>Kalnein</surname>
+                        <forename>Karl Graf von</forename>
+                    </persName>
+                    <birth>1839</birth>
+                    <death>1915</death>
+                    <note>Bruder von <persName key="ed_n5f_vfm_2y">Klara Gräfin von Kalnein, verh.
+                            Gräfin von Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_jcx_yzq_d2b">
+                    <persName type="reg">
+                        <surname>Kalnein</surname>
+                        <forename>Klara Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Dohna-Schlodien, Burggräfin und Gräfin zu </name>
+                    </persName>
+                    <birth>1814</birth>
+                    <death>1885</death>
+                    <note>Heirat: <persName key="ed_ckc_ntt_2cb">Kalnein-Kilgis, Natango Graf
+                            von</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_vdw_kfv_sdb">
+                    <persName type="reg">
+                        <surname>Kalnein</surname>
+                        <forename>Sophie Gabriele Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Boddien, von</name>
+                    </persName>
+                    <birth>1889</birth>
+                    <death/>
+                    <note>Heirat: 1. <persName key="ed_jjl_jtz_zdb">Hans-Georg von
+                            Kalnein</persName> 2. <persName key="ed_izm_p5z_zdb">Hans-Joachim von
+                            Mellenthin</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_ckc_ntt_2cb">
+                    <persName type="reg">
+                        <surname>Kalnein-Kilgis</surname>
+                        <forename>Natango Graf von</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1890</death>
+                    <note>Heirat: <persName key="ed_jcx_yzq_d2b">Klara Burgräfin und Gräfin zu
+                            Dohna-Schlodien</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_fnb_kzq_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/119017202</idno>
+                    <persName type="reg">
+                        <surname>Kaltenbrunner</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth>1903</birth>
+                    <death>1946</death>
+                </person>
+                <person xml:id="ed_q1x_lgj_kfb">
+                    <idno type="uri">https://d-nb.info/gnd/116035536</idno>
+                    <persName type="reg">
+                        <surname>Kameke</surname>
+                        <forename>Georg von</forename>
+                    </persName>
+                    <birth>1817</birth>
+                    <death>1893</death>
+                </person>
+                <person xml:id="ed_f3d_rgj_kfb">
+                    <persName type="reg">
+                        <surname>Kameke</surname>
+                        <forename>Ilse von</forename>
+                    </persName>
+                    <birth>1864</birth>
+                    <death>1886</death>
+                    <note>Heirat: <persName key="ed_mmz_n4x_f2b">Hermann von Tresckow</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_jzx_j2r_v2b">
+                    <persName type="reg">
+                        <surname>Kanitz</surname>
+                        <forename>Grafen von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>alten Adelsgeschlechts westslawischer Herkunft aus der Markgrafschaft
+                        Meißen, Schlesien und der Oberlausitz, das ab dem 15. Jahrhundert auch in
+                        Preußen ansässig war.
+                        https://de.wikipedia.org/wiki/Kanitz_(Adelsgeschlecht)</note>
+                </person>
+                <person xml:id="ed_uzj_hf3_tdb">
+                    <persName type="reg">
+                        <surname>Kanitz</surname>
+                        <forename>Hans Wilhelm Graf von</forename>
+                    </persName>
+                    <birth>1692</birth>
+                    <death>1775</death>
+                    <note> preußischer Offizier, zuletzt Generalleutnant, Chef des
+                        Infanterie-Regiments Nr. 2; Ritter des Pour le Mérite.
+                        https://de.wikipedia.org/wiki/Hans_Wilhelm_von_Kanitz</note>
+                </person>
+                <person xml:id="ed_ns1_1rd_b2b">
+                    <persName type="reg">
+                        <surname>Kanitz</surname>
+                        <forename>Luise Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schulenburg-Beetzendorf, Gräfin von der </name>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1830</death>
+                    <note>Heirat: August Wilhelm Karl Graf von Kanitz (1782-1852)</note>
+                </person>
+                <person xml:id="ed_q1c_rhz_g1b">
+                    <persName type="reg">
+                        <surname>Kanitz</surname>
+                        <forename> Melchior Ernst von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1730</death>
+                    <note>königlich-preußischer Brigadier; auf Maxkeim und Kraftshagen; 1718-1730
+                        Amtshauptmann von Angerburg</note>
+                </person>
+                <person xml:id="ed_ezp_nmc_tcb">
+                    <persName type="reg">
+                        <surname>Kanitz-Podangen</surname>
+                        <forename>Charlotte Sophie Gräfin von</forename>
+                    </persName>
+                    <birth>1748</birth>
+                    <death>1819</death>
+                    <note>Heirat: <persName key="ed_eww_lhp_tdb">Johann Ernst von Kunheim</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_tyw_n1q_f2b">
+                    <idno type="uri">http://d-nb.info/138716544</idno>
+                    <persName type="reg">
+                        <surname>Kanitz-Podangen</surname>
+                        <forename>Emil Karl Ferdinand Graf von</forename>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1877</death>
+                </person>
+                <person xml:id="ed_z3m_3bz_vkb">
+                    <idno type="uri">https://d-nb.info/gnd/116039086</idno>
+                    <persName type="reg">
+                        <surname>Kanitz-Podangen</surname>
+                        <forename>Hans Graf von</forename>
+                    </persName>
+                    <birth>1841</birth>
+                    <death>1913</death>
+                </person>
+                <person xml:id="ed_djc_pz5_22b">
+                    <persName type="reg">
+                        <surname>Kanitz-Podangen</surname>
+                        <forename>Maria Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Bismarck-Bohlen, von </name>
+                    </persName>
+                    <birth>1855</birth>
+                    <death>1929</death>
+                    <note>Heirat: Wilhelm Alexander Graf von Kanitz</note>
+                </person>
+                <person xml:id="ed_afb_pp3_d2b">
+                    <persName type="reg">
+                        <surname>Kannacher</surname>
+                        <forename>Judith von</forename>
+                    </persName>
+                    <birth>1566</birth>
+                    <death>1647</death>
+                    <note>Heirat: <persName key="ed_lsv_lwp_vcb">Sebastian von Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_hdy_14j_kjb">
+                    <persName type="reg">
+                        <surname>Kannacher</surname>
+                        <forename>Melchior von</forename>
+                    </persName>
+                    <birth>1525</birth>
+                    <death>1577</death>
+                    <note>Heirat: 1555 Anna von Schiestädt (1535-1590); Kinder: Dorothea, Sylvia,
+                            <persName key="ed_afb_pp3_d2b">Judith</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_jkw_rvl_ngb">
+                    <persName type="reg">
+                        <surname>Kannewurff</surname>
+                        <forename>Ernst von</forename>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1907</death>
+                    <note> Verwaltungsjurist in Preußen; 1883-1892 Landrat in Angerburg;
+                        Regierungsrat in Frankfurt (Oder); Polizeipräsident in Königsberg.
+                        https://de.wikipedia.org/wiki/Ernst_von_Kannewurff</note>
+                </person>
+                <person xml:id="ed_yfz_ctq_mfb">
+                    <persName type="reg">
+                        <surname>Kannewurff</surname>
+                        <forename>Herr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1805)</note>
+                </person>
+                <person xml:id="ed_nmn_lnn_my">
+                    <persName type="reg">
+                        <surname>Kannewurff</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1891 Betriebsleiter der Steinorter Forsten</note>
+                </person>
+                <person xml:id="ed_yfs_pzv_rz">
+                    <idno type="uri">http://d-nb.info/gnd/118559796</idno>
+                    <persName type="reg">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                    </persName>
+                    <birth>1724</birth>
+                    <death>1804</death>
+                </person>
+                <person xml:id="ed_ufy_pfv_22b">
+                    <persName type="reg">
+                        <surname>Kap-herr</surname>
+                        <forename>Hermann Christian Freiherr von </forename>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1877</death>
+                    <note>emigrierte im frühen 19. Jahrhundert nach St. Petersburg, wo der Bruder
+                        seines Vaters, Johan Christian von Kap-herr, bereits den Titel „Kaiserlich
+                        Russischer Staatsrat“ trug und Einfluss und Ansehen genoss; in St.
+                        Petersburg zuerst Bankier, dann Kaiserlich Russischer Staatsrat, Ritter,
+                        Königlich Spanischer Konsul und Erblicher Russischer Ehrenbürger; zeitweise
+                        Repräsentant der Telegraphen Bau-Anstalt von Siemens &amp; Halske in St.
+                        Petersburg, diese Aufgabe übernahm anschließend der Bruder des
+                        Unternehmensgründers, Carl Heinrich Siemens, der 1855 Kap-herrs Tochter
+                        Marie geheiratet hatte; als seine Frau Charlotte Dorothea 1866 verstarb,
+                        erwarb Kap-herr Schloss Lockwitz bei Dresden und zog 1867 nach Dresden in
+                        das Oppenheimsche Palais, welches er erwarb, so wie auch die Schlösser in
+                        Bärenklause und Prohlis; 1868 zum erblichen hessischen Freiherrn erhoben.
+                        1872 war K. Gast in der Bad Gastein.
+                        https://de.wikipedia.org/wiki/Kap-herr#Egon_Freiherr_von_Kap-herr</note>
+                </person>
+                <person xml:id="ed_tn1_vb1_fy">
+                    <idno type="uri">http://d-nb.info/gnd/118891502</idno>
+                    <persName type="reg">
+                        <surname>Kapp</surname>
+                        <forename>Wolfgang</forename>
+                    </persName>
+                    <birth>1858</birth>
+                    <death>1922</death>
+                </person>
+                <person xml:id="ed_zqd_v3m_33b">
+                    <persName type="reg">
+                        <surname>Karasch</surname>
+                        <forename>Klara</forename>
+                    </persName>
+                    <birth>1899</birth>
+                    <death>1986</death>
+                    <note>Steinort</note>
+                </person>
+                <person xml:id="ed_wcn_2fl_wcb">
+                    <persName type="reg">
+                        <surname>Käsewurm</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1824 Verwalter in Steinort</note>
+                </person>
+                <person xml:id="ed_vrp_jvs_g2b">
+                    <persName type="reg">
+                        <surname>Kastner</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Klonn (1879), möglicherweise Verwandte des Gutsbesitzers Otto Kastner aus
+                        Klonn, 1888 Wahlmann für die Wahl des Kreistages aus dem Kreise
+                        Lötzen</note>
+                </person>
+                <person xml:id="ed_tzp_gys_5fb">
+                    <persName type="reg">
+                        <surname>Katt</surname>
+                        <forename>Heinrich Christoph von</forename>
+                    </persName>
+                    <birth>1700</birth>
+                    <death>1760</death>
+                    <note>Präsident der Neumärkischen Kriegs- und Domänenkammer, Chef des
+                        Generalkriegskommissariats, seit 1746 Staatsminister (Militärdepartement),
+                        Ritter des deutschen Ordens</note>
+                </person>
+                <person xml:id="ed_gpl_4ml_ngb">
+                    <idno type="uri">https://d-nb.info/gnd/137727100</idno>
+                    <persName type="reg">
+                        <surname>Katte</surname>
+                        <forename>Hans Heinrich von</forename>
+                    </persName>
+                    <birth>1681</birth>
+                    <death>1741</death>
+                </person>
+                <person xml:id="ed_ixm_njw_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/137727305</idno>
+                    <persName type="reg">
+                        <surname>Katzeler</surname>
+                        <forename>Friedrich Georg Andreas von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Katzler</name>
+                    </persName>
+                    <birth>1765</birth>
+                    <death>1834</death>
+                </person>
+                <person xml:id="ed_oxt_jzb_tcb">
+                    <persName type="reg">
+                        <surname>Kayser</surname>
+                        <forename>Emilius</forename>
+                    </persName>
+                    <birth>1747</birth>
+                    <death>1821</death>
+                    <note>„Hofchirurgus‟ in Berlin, ab 1785 in Steinort</note>
+                </person>
+                <person xml:id="ed_nb1_jmw_1bb">
+                    <persName type="reg">
+                        <surname>Keffenbrinck</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberstleutnant, 1863 Kommandant in Potsdam </note>
+                </person>
+                <person xml:id="ed_a12_z1l_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/118721577</idno>
+                    <persName type="reg">
+                        <surname>Keitel</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth>1882</birth>
+                    <death>1946</death>
+                </person>
+                <person xml:id="ed_fzl_w35_dlb">
+                    <persName type="reg">
+                        <surname>Keith</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1763)</note>
+                </person>
+                <person xml:id="ed_bsz_bvm_cz">
+                    <idno type="uri">http://d-nb.info/gnd/123069718</idno>
+                    <persName type="reg">
+                        <surname>Keith</surname>
+                        <forename>Jakob von</forename>
+                    </persName>
+                    <birth>1696</birth>
+                    <death>1758</death>
+                </person>
+                <person xml:id="ed_jgc_cws_g2b">
+                    <persName type="reg">
+                        <surname>Keller</surname>
+                        <forename>Annegret</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Buddern (1880)</note>
+                </person>
+                <person xml:id="ed_mv4_2rl_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/116119055</idno>
+                    <persName type="reg">
+                        <surname>Keller</surname>
+                        <forename>Gustav Graf von</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1897</death>
+                </person>
+                <person xml:id="ed_ohj_sm5_3lb">
+                    <persName type="reg">
+                        <surname>Kellermann</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1866</death>
+                    <note>dänischer Cellist, Royal Orchestra Kopenhagen, gab 1862 ein Konzert in
+                        Königberg</note>
+                </person>
+                <person xml:id="ed_i41_lx2_n2b">
+                    <idno type="uri">https://d-nb.info/gnd/1154652173</idno>
+                    <persName type="reg">
+                        <surname>Kemper</surname>
+                        <forename>Emanuel</forename>
+                    </persName>
+                    <birth>1844</birth>
+                    <death>1933</death>
+                </person>
+                <person xml:id="ed_d5b_x5s_g2b">
+                    <persName type="reg">
+                        <surname>Kempski</surname>
+                        <forename>L.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Liebstadt, Cand. phil. (1879)</note>
+                </person>
+                <person xml:id="ed_efv_m4t_flb">
+                    <persName type="reg">
+                        <surname>Kersten</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter des Gutes Gusow</note>
+                </person>
+                <person xml:id="ed_acz_q2q_rdb">
+                    <persName type="reg">
+                        <surname>Kessel</surname>
+                        <forename>Christoph Wilhelm Baron von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kammerherr der Königin von Polen (1757)</note>
+                </person>
+                <person xml:id="ed_pm5_k1b_dy">
+                    <idno type="uri">http://d-nb.info/gnd/117512206</idno>
+                    <persName type="reg">
+                        <surname>Kessel</surname>
+                        <forename>Gustav von</forename>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1918</death>
+                </person>
+                <person xml:id="ed_my4_prj_kfb">
+                    <idno type="uri">https://d-nb.info/gnd/119343304</idno>
+                    <persName type="reg">
+                        <surname> Kȩtrzyński</surname>
+                        <forename>Wojciech </forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Winkler, Adalbert von</name>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1918</death>
+                </person>
+                <person xml:id="ed_yt3_jz4_vcb">
+                    <persName type="reg">
+                        <surname>Keudell</surname>
+                        <forename>Leopold von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1807 Kapitän im Regiment Rouquette</note>
+                </person>
+                <person xml:id="ed_us4_wtj_gz">
+                    <persName type="reg">
+                        <surname>Keudell</surname>
+                        <forename>Rudolf von</forename>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1871</death>
+                    <note>Privatgelehrter, Offizier, Schriftsteller</note>
+                </person>
+                <person xml:id="ed_ikh_ldz_bz">
+                    <persName type="reg">
+                        <surname>Keyserlingk</surname>
+                        <forename>Adelheid von</forename>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1818</death>
+                    <note>Tochter von Dietrich von Keyserlingk (1698–1745), Vertrauter von Friedrich
+                        II. und dessen Ehefrau Gräfin Eleonore Louise Albertine von
+                        Schlieben-Sanditten (1720–1755); Heirat: 1773 Georg Ludwig von Edelsheim
+                    </note>
+                </person>
+                <person xml:id="ed_mqc_qwp_1fb">
+                    <persName type="reg">
+                        <surname>Keyserlingk</surname>
+                        <forename>Archibald Graf von</forename>
+                    </persName>
+                    <birth>1785</birth>
+                    <death>1855</death>
+                    <note>Sohn des Hofmarschalls Archibald von Keyserlingk und der Gräfin
+                        Kalckreuth; königlich preußischer Oberst; auf Neustadt; Heirat: 1810
+                            <persName key="ed_e34_szq_hlb">Clementine Gräfin von
+                            Keyserlingk</persName> (geb. 1793)</note>
+                </person>
+                <person xml:id="ed_m55_53y_rgb">
+                    <idno type="uri">https://d-nb.info/gnd/138778221</idno>
+                    <persName type="reg">
+                        <surname>Keyserlingk</surname>
+                        <forename>Charlotte Caroline Amalie Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Truchseß zu Waldburg</name>
+                    </persName>
+                    <birth>1727</birth>
+                    <death>1791</death>
+                </person>
+                <person xml:id="ed_e34_szq_hlb">
+                    <persName type="reg">
+                        <surname>Keyserlingk</surname>
+                        <forename>Clementine Gräfin von</forename>
+                    </persName>
+                    <birth>1793</birth>
+                    <death/>
+                    <note>Heirat: <persName key="ed_mqc_qwp_1fb">Archibald Graf von
+                            Keyserlingk</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_inz_rgp_tdb">
+                    <persName type="reg">
+                        <surname>Keyserlingk</surname>
+                        <forename>Ernst Otto Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1790</death>
+                    <note>auf Listenau und Borkendorf; Grafenstand 8.2.1777; Heirat: 1758 Helene
+                        Freiin von Gibson (of Durie) (1736-nach 1789)</note>
+                </person>
+                <person xml:id="ed_jpf_mc4_xdb">
+                    <idno type="uri">https://d-nb.info/gnd/121699110</idno>
+                    <persName type="reg">
+                        <surname>Keyserlingk</surname>
+                        <forename>Grafen von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_h24_krv_g2b">
+                    <persName type="reg">
+                        <surname>Keyserlingk</surname>
+                        <forename>Gräfin von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1882)</note>
+                </person>
+                <person xml:id="ed_bxp_z3y_rgb">
+                    <persName type="reg">
+                        <surname>Keyserlingk</surname>
+                        <forename>Heinrich Christian Graf von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Graf von Rautenburg</name>
+                    </persName>
+                    <birth>1727</birth>
+                    <death>1787</death>
+                    <note>Heirat: Caroline Gräfin zu Waldburg.
+                        https://www.kulturzentrum-ostpreussen.de/kalenderblatt_detail.php?id=73</note>
+                </person>
+                <person xml:id="ed_etv_33b_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/116160845</idno>
+                    <persName type="reg">
+                        <surname>Keyserlingk zu Rautenburg</surname>
+                        <forename>Otto Graf von</forename>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1885</death>
+                </person>
+                <person xml:id="ed_tcq_1ws_d2b">
+                    <persName type="reg">
+                        <surname>Kickton</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1868 Gutsbesitzer im Kreis. Mohrungen</note>
+                </person>
+                <person xml:id="ed_dlq_ryg_1cb">
+                    <persName type="reg">
+                        <surname>Kiehl</surname>
+                        <forename>Karl August Ferdinand</forename>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1897</death>
+                    <note>1856-1866 (oder länger?) Pfarrer in Orlowen; Mitglied des Corps
+                        Masovia</note>
+                </person>
+                <person xml:id="ed_hjc_yfv_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/1057767433</idno>
+                    <persName type="reg">
+                        <surname>Kirchheim</surname>
+                        <forename>Heinrich</forename>
+                    </persName>
+                    <birth>1882</birth>
+                    <death>1973</death>
+                </person>
+                <person xml:id="ed_o3m_wwg_1cb">
+                    <persName type="reg">
+                        <surname>Kirchhoff</surname>
+                        <forename>Louis</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Klein Budschen (1881)</note>
+                </person>
+                <person xml:id="ed_m1z_pcv_1bb">
+                    <persName type="reg">
+                        <surname>Kirschkopff</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784/85 Konsistorialrat, Hoffiskal</note>
+                </person>
+                <person xml:id="ed_wvm_rwj_gy">
+                    <persName type="reg">
+                        <surname>Klapp</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1905</death>
+                    <note>Superintendent in Rastenburg</note>
+                </person>
+                <person xml:id="ed_ulc_q5h_my">
+                    <idno type="uri">http://d-nb.info/gnd/172188369</idno>
+                    <persName type="reg">
+                        <surname>Klebs</surname>
+                        <forename>Richard</forename>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1911</death>
+                </person>
+                <person xml:id="ed_kdw_1db_h2b">
+                    <persName type="reg">
+                        <surname>Klee</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1885 Bäckermeiester in Angerburg</note>
+                </person>
+                <person xml:id="ed_ocz_vhc_tcb">
+                    <persName type="reg">
+                        <surname>Klein</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1785 Pächter des Vorwerks Pristanien</note>
+                </person>
+                <person xml:id="ed_amq_mgd_py">
+                    <persName type="reg">
+                        <surname>Kleinhans</surname>
+                        <forename>Seraphine</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1876 Hauslehrerin</note>
+                </person>
+                <person xml:id="ed_h2m_mtz_g2b">
+                    <persName type="reg">
+                        <surname>Kleist</surname>
+                        <forename>Aurora Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Saucken, Gräfin von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1883)</note>
+                </person>
+                <person xml:id="ed_lbc_4r1_hfb">
+                    <idno type="uri">https://d-nb.info/gnd/143173197</idno>
+                    <persName type="reg">
+                        <surname>Kleist</surname>
+                        <forename>Georg Demetrius von</forename>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1886</death>
+                    <note>Heirat: Adelheid Charlotte Ottilie Alexandrine Gräfin von
+                        Schlippenbach</note>
+                </person>
+                <person xml:id="ed_slv_rfr_gbb">
+                    <persName type="reg">
+                        <surname>Kleist</surname>
+                        <forename>Herr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1766)</note>
+                </person>
+                <person xml:id="ed_zpl_vzs_kfb">
+                    <idno type="uri">https://d-nb.info/gnd/119283301</idno>
+                    <persName type="reg">
+                        <surname>Kleist-Retzow</surname>
+                        <forename>Hans Hugo von</forename>
+                    </persName>
+                    <birth>1814</birth>
+                    <death>1892</death>
+                </person>
+                <person xml:id="ed_xv5_rbq_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/11622004X</idno>
+                    <persName type="reg">
+                        <surname>Kleist von Nollendorf</surname>
+                        <forename>Friedrich Emil Ferdinand Heinrich Graf</forename>
+                    </persName>
+                    <birth>1762</birth>
+                    <death>1823</death>
+                </person>
+                <person xml:id="ed_n5x_vjv_g2b">
+                    <persName type="reg">
+                        <surname>Klimbert</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1882 Einwohner von Buddern</note>
+                </person>
+                <person xml:id="ed_rrz_vhv_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/133755169</idno>
+                    <persName type="reg">
+                        <surname>Klinckowström</surname>
+                        <forename>Clemens Graf von</forename>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1902</death>
+                </person>
+                <person xml:id="ed_ykw_2zv_h2b">
+                    <persName type="reg">
+                        <surname>Klinckowström</surname>
+                        <forename>Freda Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Vitzthum, Gräfin </name>
+                    </persName>
+                    <birth>1865</birth>
+                    <death>1944</death>
+                    <note>Heirat: Generalmajor Karl Graf von Klinckowström (1848–1903)</note>
+                </person>
+                <person xml:id="ed_w2f_5tz_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/108144987X</idno>
+                    <persName type="reg">
+                        <surname>Klinckowström</surname>
+                        <forename>Grafen von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>KLinckowstroem</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_xzw_wj4_42b">
+                    <persName type="reg">
+                        <surname>Klinckowström</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Kapitän im Regiment von Anhalt</note>
+                </person>
+                <person xml:id="ed_m2k_mk5_sy">
+                    <persName type="reg">
+                        <surname>Klinckowström</surname>
+                        <forename>Henriette Theresie Amalie Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Hausen, von</name>
+                    </persName>
+                    <birth>1775</birth>
+                    <death>1848</death>
+                    <note>Heirat: <persName key="ed_l1h_h1h_1cb">Karl Friedrich Graf von
+                            Klinckowström</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_l1h_h1h_1cb">
+                    <idno type="uri">https://d-nb.info/gnd/143172670</idno>
+                    <persName type="reg">
+                        <surname>Klinckowström</surname>
+                        <forename>Karl Friedrich (Graf) von</forename>
+                    </persName>
+                    <birth>1738</birth>
+                    <death>1816</death>
+                </person>
+                <person xml:id="ed_uxc_ljt_c2b">
+                    <persName type="reg">
+                        <surname>Klinckowström</surname>
+                        <forename>Karl Friedrich Ludwig Graf von</forename>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1844</death>
+                    <note>Erbherr auf Korcklack und Assaunen; Heirat: 1808 Ernestine Louise Auguste
+                        Gräfin von Blumenthal (1776-1829); kgl. preuß. Oberstlieutenant, Ritter des
+                        Eisernen Kreuzes I. Klasse, des Roten Adlerordens II. Klasse, des Ordens
+                        pour le mérite; als Mitglied des Comités der Ostpreußischen und Littauischen
+                        Stände 1813 Provinzial-Landtagsabgeordneter; nach den Freiheitskriegens
+                        Oberstlieutenant a. D. in Korcklack</note>
+                </person>
+                <person xml:id="ed_ulv_tnz_g1b">
+                    <persName type="reg">
+                        <surname>Klinggräff</surname>
+                        <forename>Elias Dietrich von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Königlich preußischer Kriegsrat, 1757/58 Archivar am Geheimen Archiv in
+                        Königsberg</note>
+                </person>
+                <person xml:id="ed_rvz_1gq_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/136054498</idno>
+                    <persName type="reg">
+                        <surname>Klinggräff</surname>
+                        <forename>Joachim Wilhelm von</forename>
+                    </persName>
+                    <birth>1692</birth>
+                    <death>1757</death>
+                </person>
+                <person xml:id="ed_vws_55b_tcb">
+                    <persName type="reg">
+                        <surname>Klingsporn</surname>
+                        <forename>Fräulein von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1779, 1785)</note>
+                </person>
+                <person xml:id="ed_evv_1n5_gfb">
+                    <persName type="reg">
+                        <surname>Kloch</surname>
+                        <forename>Baron</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Klok</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1855)</note>
+                </person>
+                <person xml:id="ed_cnr_fvt_gfb">
+                    <persName type="reg">
+                        <surname>Kloch</surname>
+                        <forename>Baronin</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Klok</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1853)</note>
+                </person>
+                <person xml:id="ed_rx1_yy5_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/124447775</idno>
+                    <persName type="reg">
+                        <surname>Kluge</surname>
+                        <forename>Günther von</forename>
+                    </persName>
+                    <birth>1882</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_ssl_vrw_gkb">
+                    <persName type="reg">
+                        <surname>Kluwe</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Dreher, Stawken (1732)</note>
+                </person>
+                <person xml:id="ed_psr_kwz_zdb">
+                    <persName type="reg">
+                        <surname>Knaak</surname>
+                        <forename>Gerhard</forename>
+                    </persName>
+                    <birth>1906</birth>
+                    <death>1944</death>
+                    <note>Berufsoffizier und Widerstandskämpfer des 20. Juli 1944.
+                        https://de.wikipedia.org/wiki/Gerhard_Knaak</note>
+                </person>
+                <person xml:id="ed_pkd_5wg_2z">
+                    <persName type="reg">
+                        <surname>Knesebeck</surname>
+                        <forename>Wilhelmine von dem</forename>
+                    </persName>
+                    <birth>1750</birth>
+                    <death>1802</death>
+                    <note>Hofdame der Königin-Mutter</note>
+                </person>
+                <person xml:id="ed_whj_tcq_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/116257881</idno>
+                    <persName type="reg">
+                        <surname>Knobelsdorff</surname>
+                        <forename>Alexander von </forename>
+                    </persName>
+                    <birth>1723</birth>
+                    <death>1799</death>
+                </person>
+                <person xml:id="ed_itq_g1h_h2b">
+                    <persName type="reg">
+                        <surname>Knobelsdorff</surname>
+                        <forename>Siegmund von</forename>
+                    </persName>
+                    <birth>1500</birth>
+                    <death>1528</death>
+                    <note>auf Glomsienen</note>
+                </person>
+                <person xml:id="ed_ndx_11h_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/1037791185</idno>
+                    <persName type="reg">
+                        <surname>Knobelsdorff</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_jdd_k35_g2b">
+                    <persName type="reg">
+                        <surname>Knobloch</surname>
+                        <forename>Anna von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schwester von <persName key="ed_ak5_sh5_g2b">Elisabeth von Knobloch
+                        </persName>(1881)</note>
+                </person>
+                <person xml:id="ed_l21_gyg_ldb">
+                    <persName type="reg">
+                        <surname>Knobloch</surname>
+                        <forename>Christian Ernst August von</forename>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1835</death>
+                    <note>Studium in Königsberg und Halle; kaufte 1791 von seinem Vater Hof
+                        Bärwalde; 1798-1803 Landschaftsrat; erwarb ca. 1801 Kalthof; als Mitglied
+                        des Comités der Ostpreußischen und Littauischen Stände 1813
+                        Landtagsabgeordneter; Heirat: I. 1794 Gottliebe Freiin Scheck zu Tautenburg
+                        auf Doben, II. 1810 Albertine Freiin Schenk zu Tautenburg, verw. von Rautter
+                        auf Willkamm; verkaufte 1833 Bärwalde an seinen Sohn </note>
+                </person>
+                <person xml:id="ed_pks_4zx_jlb">
+                    <persName type="reg">
+                        <surname>Knobloch</surname>
+                        <forename>Edgar von</forename>
+                    </persName>
+                    <birth>1861</birth>
+                    <death>1907</death>
+                </person>
+                <person xml:id="ed_ak5_sh5_g2b">
+                    <persName type="reg">
+                        <surname>Knobloch</surname>
+                        <forename>Elisabeth von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schwester von <persName key="ed_jdd_k35_g2b">Anna von Knobloch</persName>
+                        (1881)</note>
+                </person>
+                <person xml:id="ed_fgj_4q4_s3b">
+                    <persName type="reg">
+                        <surname>Knobloch</surname>
+                        <forename>Karl Rudolf Emanuel von</forename>
+                    </persName>
+                    <birth>1795</birth>
+                    <death>1852</death>
+                    <note>Herr auf Hof Bärwalde, Kalthof und Pilwe </note>
+                </person>
+                <person xml:id="ed_ysk_jfh_h2b">
+                    <persName type="reg">
+                        <surname>Knobloch</surname>
+                        <forename>Malwina von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Kalnein, von</name>
+                    </persName>
+                    <persName type="alt" subtype="pseudonym">
+                        <name> Droste</name>
+                    </persName>
+                    <birth>1838</birth>
+                    <death/>
+                    <note>Heirat: <persName key="ed_eql_5qg_hy">Maximilian von Knobloch</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_eql_5qg_hy">
+                    <persName type="reg">
+                        <surname>Knobloch</surname>
+                        <forename>Maximilian von</forename>
+                    </persName>
+                    <persName type="alt" subtype="pseudonym">
+                        <name>Droste</name>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1882</death>
+                    <note>Gutsherr auf Linkehnen und Starkenberg; am 27.10.1855 Namen- und
+                        Wappenvereinigung mit Diplom vom 28.7.1858 mit den von Droste (einer
+                        erloschenen preußischen Seitenlinie des westfälischen Adelsgeschlechts
+                        Droste zu Hülshoff) als „von Knobloch genannt von Droste“, geknüpft an den
+                        Besitz der Drosteschen Güter Linkehnen und Starkenberg (Landkreis Wehlau,
+                        Ostpreußen)</note>
+                </person>
+                <person xml:id="ed_css_fdh_h2b">
+                    <persName type="reg">
+                        <surname>Knobloch</surname>
+                        <forename>Oskar von</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1891</death>
+                    <note>Heirat: 1859 <persName key="ed_zjd_tdh_h2b">Therese Freiin von
+                            Paleske</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_zjd_tdh_h2b">
+                    <persName type="reg">
+                        <surname>Knobloch </surname>
+                        <forename>Therese von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Paleske, Freiin von</name>
+                    </persName>
+                    <birth>1839</birth>
+                    <death>1892</death>
+                    <note>Heirat: <persName key="ed_css_fdh_h2b">Oskar von Knobloch</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_yrb_wgr_d2b">
+                    <persName type="reg">
+                        <surname>Knobloch</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1862)</note>
+                </person>
+                <person xml:id="ed_zp3_3kl_ddb">
+                    <persName type="reg">
+                        <surname>Knopke</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth>1833</birth>
+                    <death/>
+                    <note>Tochter des Instgärtners Johann Knopke aus Steinort, 1854 Stubenmädchen in
+                        Steinort, Heirat: 1858 Schneidermeister Gottlieb Schwarz aus Lötzen</note>
+                </person>
+                <person xml:id="ed_p5b_rtn_my">
+                    <persName type="reg">
+                        <surname>Knorr</surname>
+                        <forename>Franz Georg von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1859 Hauptmann und Adjutant des Herzogs von Sachsen-Altenburg</note>
+                </person>
+                <person xml:id="ed_tzd_mlm_zdb">
+                    <persName type="reg">
+                        <surname>Knyphausen</surname>
+                        <forename>Dodo Ernst Eduard Freiher zu </forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Innhausen und Knyphausen, zu</name>
+                    </persName>
+                    <birth>1877</birth>
+                    <death>1967</death>
+                    <note> Rittergutsbesitzer und Verwaltungsjurist; 1912-1934 Landrat des Kreises
+                        Rastenburg.
+                        https://de.wikipedia.org/wiki/Dodo_zu_Innhausen_und_Knyphausen_(Landrat)</note>
+                </person>
+                <person xml:id="ed_ets_1l1_tcb">
+                    <persName type="reg">
+                        <surname>Kobschin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Witwe, Berlin (1762)</note>
+                </person>
+                <person xml:id="ed_gp1_cwf_cy">
+                    <persName type="reg">
+                        <surname>Koch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Justizrat, Lötzen (1903)</note>
+                </person>
+                <person xml:id="ed_udf_mxt_sdb">
+                    <idno type="uri">https://d-nb.info/gnd/118951890</idno>
+                    <persName type="reg">
+                        <surname>Koch</surname>
+                        <forename>Erich</forename>
+                    </persName>
+                    <birth>1896</birth>
+                    <death>1986</death>
+                </person>
+                <person xml:id="ed_e4q_qyz_scb">
+                    <persName type="reg">
+                        <surname>Kochanowski</surname>
+                        <forename>Jan Władisław </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1717 Pächter von Pristanien</note>
+                </person>
+                <person xml:id="ed_mnj_tgv_g2b">
+                    <persName type="reg">
+                        <surname>Koch-Bosenberger</surname>
+                        <forename>Julie</forename>
+                    </persName>
+                    <birth/>
+                    <death>1895</death>
+                    <note>Opernsängerin; seit 1874 Primadonna des Hoftheaters in Hannover</note>
+                </person>
+                <person xml:id="ed_prs_vpk_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/11627493X</idno>
+                    <persName type="reg">
+                        <surname>Köckritz</surname>
+                        <forename>Karl Leopold von</forename>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1821</death>
+                </person>
+                <person xml:id="ed_vsv_kl1_ycb">
+                    <persName type="reg">
+                        <surname>Koeller</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kreisdirektor; 1818 (kommissarisch)/1820-1848 Landrat des Kreises
+                        Angerburg</note>
+                </person>
+                <person xml:id="ed_tkk_pzc_gy">
+                    <idno type="uri">http://d-nb.info/gnd/118724169</idno>
+                    <persName type="reg">
+                        <surname>Kögel</surname>
+                        <forename>Rudolf</forename>
+                    </persName>
+                    <birth>1829</birth>
+                    <death>1896</death>
+                </person>
+                <person xml:id="ed_gfs_4m4_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/136110819</idno>
+                    <persName type="reg">
+                        <surname>Köhler</surname>
+                        <forename>Georg Ludwig Egidius von</forename>
+                    </persName>
+                    <birth>1734</birth>
+                    <death>1811</death>
+                </person>
+                <person xml:id="ed_hwn_j15_g2b">
+                    <persName type="reg">
+                        <surname>Köhn von Jaski</surname>
+                        <forename>Theodor Franz Friedrich</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1890</death>
+                    <note>1875-1883 Landrat des Kreises Angerburg</note>
+                </person>
+                <person xml:id="ed_ddn_kqp_vcb">
+                    <persName type="reg">
+                        <surname>Kolhoff</surname>
+                        <forename/>
+                    </persName>
+                    <persName type="alt">
+                        <name>Kohlhoff</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Regierungsrat (1813)</note>
+                </person>
+                <person xml:id="ed_ckb_jb4_zdb">
+                    <persName type="reg">
+                        <surname>Köller</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Justizrat, Stettin (1919)</note>
+                </person>
+                <person xml:id="ed_c5b_2qh_my">
+                    <persName type="reg">
+                        <surname>Kölling</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1893 Angestellter in Groß Steinort</note>
+                </person>
+                <person xml:id="ed_vxd_43w_h2b">
+                    <persName type="reg">
+                        <surname>Kolmar</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Glembowen (1893)</note>
+                </person>
+                <person xml:id="ed_ehq_5rh_4cb">
+                    <persName type="reg">
+                        <surname>Komessa</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze (1862)</note>
+                </person>
+                <person xml:id="ed_ly2_cdb_h2b">
+                    <persName type="reg">
+                        <surname>Komoß</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Wessolowen (1885)</note>
+                </person>
+                <person xml:id="ed_ryx_2hw_12b">
+                    <persName type="reg">
+                        <surname>Konkolewski</surname>
+                        <forename>Alex</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>ab 1946 Ministerialrat in der Abt. Landwirtschaft der Landesverwaltung
+                        Sachsen, Leiter der Abt. Bodenordnung und Bodenkultur; 1947 Strafverfahren
+                        wegen Verbrechen gegen die Bodenreform. HStA Dresden, Sächsisches
+                        Staatsarchiv, 11394 Landesregierung Sachsen, Ministerium für Land- und
+                        Forstwirtschaft, Nr. 1008</note>
+                </person>
+                <person xml:id="ed_xfy_bck_d2b">
+                    <persName type="reg">
+                        <surname>Kopp</surname>
+                        <forename>Ludwig</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Böttcher in Steinort, 1861 Wahlmann</note>
+                </person>
+                <person xml:id="ed_kgl_mmr_fkb">
+                    <persName type="reg">
+                        <surname>Kordack</surname>
+                        <forename>August</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1891 Lehrer in Taberlack</note>
+                </person>
+                <person xml:id="ed_dmz_mlm_gbb">
+                    <persName type="reg">
+                        <surname>Kordack</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1873 Schneidermeister in Stawisken</note>
+                </person>
+                <person xml:id="ed_vkl_xrz_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/138413452</idno>
+                    <persName type="reg">
+                        <surname>Korff</surname>
+                        <forename>Emanuel von</forename>
+                    </persName>
+                    <birth>1826</birth>
+                    <death>1903</death>
+                    <note>(1883)</note>
+                </person>
+                <person xml:id="ed_lfj_dp1_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/1044977469</idno>
+                    <persName type="reg">
+                        <surname>Korff</surname>
+                        <forename>Friedrich Alexander von</forename>
+                    </persName>
+                    <birth>1713</birth>
+                    <death>1786</death>
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                </person>
+                <person xml:id="ed_cyv_bhv_g2b">
+                    <persName type="reg">
+                        <surname><?oxy_custom_end?>Korsch</surname>
+                        <forename>Jenny</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hannover (1882)</note>
+                </person>
+                <person xml:id="ed_otk_njt_scb">
+                    <persName type="reg">
+                        <surname>Kortzfleisch</surname>
+                        <forename>Carl Bernhard von</forename>
+                    </persName>
+                    <birth>1755</birth>
+                    <death>1790</death>
+                    <note>Kammerassessor</note>
+                </person>
+                <person xml:id="ed_t1t_h2p_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/118715143</idno>
+                    <persName type="reg">
+                        <surname>Kościuszko</surname>
+                        <forename>Tadeusz</forename>
+                    </persName>
+                    <birth>1746</birth>
+                    <death>1817</death>
+                </person>
+                <person xml:id="ed_mpv_rql_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/116342684</idno>
+                    <persName type="reg">
+                        <surname>Koser</surname>
+                        <forename>Reinhold</forename>
+                    </persName>
+                    <birth>1852</birth>
+                    <death>1914</death>
+                </person>
+                <person xml:id="ed_whb_1nm_wcb">
+                    <persName type="reg">
+                        <surname>Köster</surname>
+                        <forename>Heinrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Verfasser der Schrift: Das wohlgemeinte Wahlbüchlein. Eine Ansprache an
+                        die Urwähler und Wahlmänner vom Lande, 1848</note>
+                </person>
+                <person xml:id="ed_vzh_lzt_q2b">
+                    <persName type="reg">
+                        <surname>Kosznicki</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Militär (1810)</note>
+                </person>
+                <person xml:id="ed_vjt_wqy_bz">
+                    <persName type="reg">
+                        <surname>Kottulinsky von Kottulin</surname>
+                        <forename>Marie Florentine</forename>
+                    </persName>
+                    <birth>1722</birth>
+                    <death>1791</death>
+                    <note>(1758)</note>
+                </person>
+                <person xml:id="ed_ik4_f4k_ycb">
+                    <persName type="reg">
+                        <surname>Krafzig</surname>
+                        <forename>K.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1875 Waisenmutter im Waisenhaus in Rosengarten</note>
+                </person>
+                <person xml:id="ed_gbs_p1m_2y">
+                    <idno type="uri">http://d-nb.info/gnd/119193310</idno>
+                    <persName type="reg">
+                        <surname>Krasicki</surname>
+                        <forename>Ignacy</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Krasicki</surname>
+                        <forename>Ignatius Graf</forename>
+                    </persName>
+                    <birth>1735</birth>
+                    <death>1811</death>
+                </person>
+                <person xml:id="ed_abj_hqs_g2b">
+                    <persName type="reg">
+                        <surname>Krause</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauinspektor in Berlin (1879)</note>
+                </person>
+                <person xml:id="ed_g24_sfh_2z">
+                    <persName type="reg">
+                        <surname>Kraut</surname>
+                        <forename>Carl Friedrich von</forename>
+                    </persName>
+                    <birth>1703</birth>
+                    <death>1767</death>
+                    <note>Oberhofmarschall des Prinzen Heinrich von Preußen</note>
+                </person>
+                <person xml:id="ed_btx_rfh_2z">
+                    <persName type="reg">
+                        <surname>Kraut</surname>
+                        <forename>Else Sophie von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Platen, von</name>
+                    </persName>
+                    <birth>1731</birth>
+                    <death>1795</death>
+                    <note>Heirat: 1754 <persName key="ed_g24_sfh_2z">Karl Friedrich von
+                            Kraut</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_wmz_ng5_sdb">
+                    <persName type="reg">
+                        <surname>Krenkel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1947 Landrat im Landkreis Döbeln</note>
+                </person>
+                <person xml:id="ed_pqy_mtr_52b">
+                    <persName type="reg">
+                        <surname>Kretschmar</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberst (1757)</note>
+                </person>
+                <person xml:id="ed_dyf_41v_12b">
+                    <persName type="reg">
+                        <surname>Kretzschmar</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberregierungsrat; Landesregierung Sachsen, Ressort Volksbildung, Abt.
+                        Kunst und Literatur</note>
+                </person>
+                <person xml:id="ed_f21_dv3_y2b">
+                    <persName type="reg">
+                        <surname>Kreutz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kriegsrat (1803)</note>
+                </person>
+                <person xml:id="ed_iqz_3km_33b">
+                    <persName type="reg">
+                        <surname>Kreutz</surname>
+                        <forename>Paul</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>um 1900 Förster in Steinort</note>
+                </person>
+                <person xml:id="ed_mkd_wfv_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/1026016444</idno>
+                    <persName type="reg">
+                        <surname>Kriebel</surname>
+                        <forename>Karl</forename>
+                    </persName>
+                    <birth>1888</birth>
+                    <death>1961</death>
+                </person>
+                <person xml:id="ed_yzr_vvh_lfb">
+                    <persName type="reg">
+                        <surname>Krieg</surname>
+                        <forename>Thilo</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Historiker (1896)</note>
+                </person>
+                <person xml:id="ed_ums_15w_f2b">
+                    <persName type="reg">
+                        <surname>Krieger</surname>
+                        <forename>Auguste</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Dresden (1877)</note>
+                </person>
+                <person xml:id="ed_tbp_tv3_kfb">
+                    <persName type="reg">
+                        <surname>Kries</surname>
+                        <forename>Adolf Hermann von</forename>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1908</death>
+                    <note>Heirat: 1865 <persName key="ed_fmw_cw3_kfb">Leonide Gräfin von
+                            Schlippenbach</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_fmw_cw3_kfb">
+                    <persName type="reg">
+                        <surname>Kries</surname>
+                        <forename>Leonide von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schlippenbach, Gräfin von</name>
+                    </persName>
+                    <birth>1839</birth>
+                    <death>1923</death>
+                    <note>Heirat: 1865 <persName key="ed_tbp_tv3_kfb">Adolf Hermann von
+                            Kries</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_o4y_chp_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/136534910</idno>
+                    <persName type="reg">
+                        <surname>Krockow</surname>
+                        <forename>Döring Wilhelm von</forename>
+                    </persName>
+                    <birth>1719</birth>
+                    <death>1803</death>
+                </person>
+                <person xml:id="ed_q5f_32g_hy">
+                    <persName type="reg">
+                        <surname>Krockow</surname>
+                        <forename>Emilie Gräfin von</forename>
+                    </persName>
+                    <birth>13.5.1780</birth>
+                    <death/>
+                    <note>Heirat: Döhringen 24.8.1806 <persName key="ed_utb_sz1_t2b">August Adolph
+                            Leopold Graf von Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_elx_mcr_clb">
+                    <persName type="reg">
+                        <surname>Kroll</surname>
+                        <forename>Max</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1936 Händler in Brosowken</note>
+                </person>
+                <person xml:id="ed_qtv_r2b_ycb">
+                    <persName type="reg">
+                        <surname>Kroll</surname>
+                        <forename>Michel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Freier, Brosowken (1735).
+                        http://www.datenbank-nord-masuren.besaweb.de/</note>
+                </person>
+                <person xml:id="ed_vkw_j4t_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/116552638</idno>
+                    <persName type="reg">
+                        <surname>Krollmann</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth>1866</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_q1k_zbv_zdb">
+                    <persName type="reg">
+                        <surname>Krückeberg</surname>
+                        <forename>Karl</forename>
+                    </persName>
+                    <birth/>
+                    <death> 1945</death>
+                    <note>Overstleutnant; 1944 bis 24. Januar 1945 Stabsoffizier der 100.
+                        Jäger-Division (Wehrmacht) an der Ostfront</note>
+                </person>
+                <person xml:id="ed_h5l_ny1_1bb">
+                    <persName type="reg">
+                        <surname>Krüger</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Landesökonomierat (1820)</note>
+                </person>
+                <person xml:id="ed_gyc_zm1_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/11872469X</idno>
+                    <persName type="reg">
+                        <surname>Krüger</surname>
+                        <forename>Franz</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1857</death>
+                </person>
+                <person xml:id="ed_bxk_22p_tdb">
+                    <persName type="reg">
+                        <surname>Krummensee</surname>
+                        <forename>Carl LUdwig Friedrich Aegidius von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1790</death>
+                    <note>1798 Kurmärkischer Kammer-Referendar bei der
+                        Kammer-Justizdeputation</note>
+                </person>
+                <person xml:id="ed_gk4_pnt_52b">
+                    <persName type="reg">
+                        <surname>Kube</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1763 Pfarrer in Berlin</note>
+                </person>
+                <person xml:id="ed_mqh_hkm_zdb">
+                    <persName type="reg">
+                        <surname>Kuchenbecker</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gumbinnen (1913)</note>
+                </person>
+                <person xml:id="ed_sv1_v41_llb">
+                    <persName type="reg">
+                        <surname>Küchler</surname>
+                        <forename>Elisabeth von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Enckevort</name>
+                    </persName>
+                    <birth>1888</birth>
+                    <death>1966</death>
+                    <note>Heirat: <persName key="ed_n3d_kb5_sdb">Georg von Küchler</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_n3d_kb5_sdb">
+                    <idno type="uri">https://d-nb.info/gnd/124554245</idno>
+                    <persName type="reg">
+                        <surname>Küchler</surname>
+                        <forename>Georg von</forename>
+                    </persName>
+                    <birth>1881</birth>
+                    <death>1968</death>
+                </person>
+                <person xml:id="ed_gsv_4wc_m3b">
+                    <persName type="reg">
+                        <surname>Küchmeister von Sternberg</surname>
+                        <forename>Adelgunda</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1750 Pächterin von Serwillen</note>
+                </person>
+                <person xml:id="ed_bt5_kmm_wcb">
+                    <persName type="reg">
+                        <surname>Kuegler</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Baukondukteur (1809)</note>
+                </person>
+                <person xml:id="ed_ch3_y35_22b">
+                    <persName type="reg">
+                        <surname>Kügelgen</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Hofmalers Wilhelm von Kügelgen (1802-1867) und Julie
+                        Krummacher</note>
+                </person>
+                <person xml:id="ed_afy_kxz_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/124230938</idno>
+                    <persName type="reg">
+                        <surname>Kuhn</surname>
+                        <forename>Joachim</forename>
+                    </persName>
+                    <birth>1913</birth>
+                    <death>1994</death>
+                </person>
+                <person xml:id="ed_wqr_vnz_ny">
+                    <persName type="reg">
+                        <surname>Kuhn</surname>
+                        <forename>Julius</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1830 Litograph in Berlin</note>
+                </person>
+                <person xml:id="ed_qhj_xbm_wcb">
+                    <idno type="uri">https://d-nb.info/gnd/116589469</idno>
+                    <persName type="reg">
+                        <surname>Kühne</surname>
+                        <forename>Ludwig Samuel</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1864</death>
+                </person>
+                <person xml:id="ed_ssd_45v_scb">
+                    <persName type="reg">
+                        <surname>Kulemann</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Borken; Etatsrat (1784)</note>
+                </person>
+                <person xml:id="ed_i3w_bgl_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/116591021</idno>
+                    <persName type="reg">
+                        <surname>Kümmel</surname>
+                        <forename>Otto</forename>
+                    </persName>
+                    <birth>1874</birth>
+                    <death>1952</death>
+                </person>
+                <person xml:id="ed_rml_l1d_xkb">
+                    <persName type="reg">
+                        <surname>Kunheim</surname>
+                        <forename>Herr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1820)</note>
+                </person>
+                <person xml:id="ed_eww_lhp_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/1015905811</idno>
+                    <persName type="reg">
+                        <surname>Kunheim</surname>
+                        <forename>Johann Ernst von</forename>
+                    </persName>
+                    <birth>1730</birth>
+                    <death>1818</death>
+                </person>
+                <person xml:id="ed_ibd_vqp_tdb">
+                    <persName type="reg">
+                        <surname>Kunheim</surname>
+                        <forename>Marie Helene von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Wallenrodt, von</name>
+                    </persName>
+                    <birth>1690</birth>
+                    <death>1777</death>
+                    <note>Heirat: <persName key="ed_m52_52z_g1b">Johann Dietrich von
+                            Kunheim</persName>, Geheimer Etats- und Kriegsminister und Oberburggraf
+                        im Königreich Preußen</note>
+                </person>
+                <person xml:id="ed_rth_b5t_sdb">
+                    <persName type="reg">
+                        <surname>Kunz</surname>
+                        <forename>Walfried</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Neubauer, Kustode von Schloss Kriebstein nach 1945</note>
+                </person>
+                <person xml:id="ed_ejj_2xy_4kb">
+                    <persName type="reg">
+                        <surname>Kurella</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter (1817)</note>
+                </person>
+                <person xml:id="ed_lxl_ykv_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/135569893</idno>
+                    <persName type="reg">
+                        <surname>Kurland</surname>
+                        <forename>Louise Charlotte Herzogin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Brandenburg, Prinzessin von</name>
+                    </persName>
+                    <birth>1617</birth>
+                    <death>1676</death>
+                </person>
+                <person xml:id="ed_zlj_ckv_mbb">
+                    <persName type="reg">
+                        <surname>Kurowsky</surname>
+                        <forename> von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Malditten (1785)</note>
+                </person>
+                <person xml:id="ed_zn3_jcq_dz">
+                    <persName type="reg">
+                        <surname>Kurth</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1852 Tierarzt in Rastenburg</note>
+                </person>
+                <person xml:id="ed_td4_tfx_clb">
+                    <persName type="reg">
+                        <surname>Kurtsch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Arrendator in Labab</note>
+                </person>
+                <person xml:id="ed_wkf_kpp_vcb">
+                    <idno type="uri">https://d-nb.info/gnd/118987437</idno>
+                    <persName type="reg">
+                        <surname>Kutusow</surname>
+                        <forename>Michael Illarionowitsch Fürst</forename>
+                    </persName>
+                    <birth>1745</birth>
+                    <death>1813</death>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_oxl_5w5_s3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich August Berent an Carl Friedrich Ludwig Graf von Lehndorff.
+                    Steinort, 1. Januar 1820</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_oxl_5w5_s3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 867, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yx5_cbg_nbb">Berent (Behrends), Friedrich August
+                        (1773-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1820-06-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Es folgen weitere Briefe aus dem Jahr 1820 zu den Themenkreisen Separation,
+                    Bauten und Wirtschaftsfragen. Nachdem die Bauarbeiten in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> abgeschlossen waren, wurden sie ab
+                    August 1820 in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und
+                        <placeName key="ed_xpm_112_gy">Labab</placeName> fortgesetzt. Auch der
+                    Pächter Puschke in Steinort wünschte sich ein neues Haus, dass ebenso wie ein
+                    Haus in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> im Folgejahr gebaut
+                    werden sollte. Das Brauhaus in <placeName key="ed_nkz_b12_gy">Stawken</placeName> wurde im November fertig. Nur der <placeName key="ed_jpk_w4f_cy">Rosengartensche</placeName> Kirchenbau ging nicht voran.
+                    - Anlässlich der Gerichtstage im Oktober 1820 wurden die Akten der
+                    „Justiz-Registratur‟ in Ordnung gebracht. - Während der Kantons-Revision kamen
+                        <persName key="ed_q32_qn2_b2b">Emil Graf von Dönhoff </persName>mit Graf
+                    Klinckowström, Graf Schlieben und Herrn von <persName key="ed_vkl_xrz_g2b">Korff</persName> nach Steinort </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 1. Juni 1820</dateline>
+					          <salute>Ew. Hochgeboren</salute>
+                </opener>
+				        <p>
+               <ref target="lehndorff_fzb_d2k_dbb">von seiner <persName key="ed_tl1_nbf_4y">Majestät dem
+                            König</persName> zum General zu ernennen,</ref> haben wir alle in den
+                    öffentlichen Blättern mit dem größten Vergnügen und der innigsten Teilnahme
+                    gelesen, und ich füge noch meine herzlichsten Wünsche hinzu, dass mit dieser
+                    Würde-Erhebung auch zugleich andere Verhältnisse, die uns Ew. Hochgeboren näher
+                    bringen, eintreten mögen, um das Wohl der Güter, deren Bewohner und Diener durch
+                    weise Einrichtungen, Milde und Gnade befördern und begründen zu können. Dass ich
+                    diese nicht eher vollzogen, werden Sie gnädigst verzeihen; ich wollte erstens
+                    die Sommersaat einsäen, 2. die Stuten abfohlen und die Schafe ablämmern, und 3.
+                    die Übergaben an die Pächter vollziehen lassen, und überhaupt von allen übrigen
+                    Wirtschaftsverhältnissen eine zu hoffende Übersicht geben. Der Frühling war im
+                    Ganzen genommen nicht der beste für das Wachsen und Gedeihen, denn der Ausgang
+                    April und der Anfang des Mai war noch mit Nachtfrösten und Nordwinden
+                    unterbrochen, und die Wintersaat, Wiesen und Weiden litten sehr durch Dürre und
+                    Kälte, von Mitte Mai wurde es warm, aber immer kein Regen. Die Sommersaat wurde
+                    aber gut und trocken beackert, die Wintersaaten stehen aber durchweg gut, hin
+                    und wieder auf den Bergen etwas dünner, die Sommersaat fing auch schon sehr bei
+                    der Dürre an zu leiden, aber gestern und heute haben wir einen durchdringenden
+                    Landregen, der alles gut machen wird. Von der Stuterei, Schäferei und
+                    Sommeraussaaten wird <persName key="ed_thz_qyp_tcb">Steiner</persName> eine ganz
+                    genaue Übersicht liefern, die ich in allem bestätigen kann. Dass bei den Pferden
+                    Unglücksfälle sich ereignet haben, kann bei Gott kein Mensch dafür, denn ein
+                    jeder hat gewiss seine Schuldigkeit getan. Ich habe den Rossarzt <persName key="ed_trm_2dz_4kb">Hempel</persName> 2 mal hier gehabt, der Roßarzt
+                        <persName key="ed_svg_gdz_4kb">Schüller</persName> aus <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName>, der die Königlichen Hengste
+                    revidiert hat, ist dreimal hier gewesen und hat sich jedesmal auf die Vorwerke
+                    bemüht und uns mit Rat und Tat beigestanden, und Ew. Hochgeboren haben sich bei
+                    Ihrem Hiersein von der Fütterung und Wartung besonders der jungen Pferde
+                    selbsten überzeugt. <seg type="comment">
+                  <orig>Dem ohnerachtet ist von allen
+                            jungen Pferden kaum eins ohne Kropf davon gekommen; selbsten die jungen
+                            Stuten, die nach <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName>
+                            geschickt sind, hat der Kropf dorten befallen, jedoch sind sie alle so
+                            ziemlich jetzt durch.</orig>
+                  <note xml:id="nyqw_jjj_hlb">Bei einer
+                            Schilddrüsenunterfunktion kommt es zu einer Verringerung des
+                            Grundumsatzes und damit zu einer verminderten Produktion von
+                            Schilddrüsenhormonen. Es kommt zu einer Kropfbildung. Die Unterfunktion
+                            verursacht eine geringere Wärmeproduktion und es kommt zu
+                            Leistungsabfall. Beim Pferd selbst ist ein Jodmangel an einer
+                            Gewichtszunahme bei fehlendem Appetit, Leistungsschwäche, Müdigkeit,
+                            Fellproblemen und einem niedrigen Blutdruck erkennbar. Ein dauerhafter
+                            Jodmangel während der Trächtigkeit führt zu einer Verlängerung der
+                            Tragezeit, zu schweren Entwicklungsstörungen am Skelett- und
+                            Nervensystem der Fohlen bis hin zur Geburt sehr schwacher Tiere bzw.
+                            Fehlgeburten. Bei adulten Pferden kann ein Jodmangel über einen längeren
+                            Zeitraum zu Ödembildungen in den Gliedmaßen oder zu einem längeren Fell
+                            führen. Jod wurde schon Anfang des 18. Jahrhunderts in der Asche von
+                            Seetang entdeckt und kurze Zeit später erstmals zur Behandlung eines
+                            Kropfes erfolgreich verwendet.</note>
+               </seg> Bei den Arbeitspferden ging
+                    es einem nicht besser, es wurden auf jedem Vorwerk 3 bis 4 Stück so krank, dass
+                    viele noch bis jetzt nicht gebraucht werden können, und ich gezwungen wurde, 6
+                    Stück Arbeitspferde anzukaufen. Die jetzt lebenden 16 St. Fohlen sind sehr
+                    schöne Tiere und besonders die beiden Hengstfohlen von Buzzard und Trompator,
+                    die dem Vater in Farbe und Gestalt ganz gleichen. Die Übergaben sind an die
+                    Pächter vollzogen und es ist kein fehlerhaftes Stück Inventar übergeben, so
+                    totes wie lebendiges, ich habe aber doch die größten Ochsen und die jüngsten
+                    Pferde weggenommen, weil ich schon zum Voraus sehe, dass die Taxe des Viehs bei
+                    weiten nicht so hoch wie bei <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                    und <placeName key="ed_xjg_d12_gy">Stobben</placeName> herauskommen wird. Es
+                    sind überhaupt in allen Sachen sehr wohlfeile Zeiten, jedes Pferd ist um 10 bis
+                    15 Sgr. wohlfeiler zu kaufen wie vor drei Jahren und das Rotvieh noch
+                    wohlfeiler, überhaupt sind hier schlechte Zeiten. Kein Mensch hat Geld, weil der
+                    Handel liegt. Die Taxe der Pächter in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> wird circa 1.100 Rtlr. und die in <placeName key="ed_xzt_112_gy">Stawisken</placeName> 400 Rtlr. betragen. <persName key="ed_gjf_4j2_b2b">Horn</persName> hat so viele Übergaben, dass er mir
+                    binnen 14 Tagen die vidimierte Übergabe-Rezesse zuschicken wird. Es ist alles
+                    genau nach Vorschrift behandelt und ich habe ausdrücklich vorbehalten, alle
+                    Inventarienstücke ohne den geringsten Tadel bei der Abgabe wieder zurückzugeben.
+                    Auch war bei etwaiger Umziehung der 4 Serwillschen Bauern in Ansehung der Gärten
+                    und Gebäude nichts verabredet. Ich habe also die Sache so einleiten lassen: Dem
+                    Pächter werden bis zur gänzlichen Einrichtung der Scheunen und Ställe zwei Erben
+                    nebst Gärten überlassen, 2 verbleiben der Herrschaft und hernach fallen hier
+                    alle 4 Erben nebst Gärten der Herrschaft zu. Um das Angespann, welches dem
+                    Pächter neu übergeben werden soll, noch zu nutzen, habe ich mit <gap reason="illegible" unit="words" quantity="1"/> Angespann vor den Übergaben
+                    nach Königsberg mit 378 Scheffel Weizen geschickt. und bekam 6 F. 18 G. Die
+                    übrigen Getreidesorten stehen noch immer schlecht. Korn 1 Scheffel 1 Rtlr. 6
+                    Gr., Gerste 60 Gr., Haber 48 Gr., Erbsen 1 Rt. Unser jetziger Getreidebestand
+                    ist noch folgender: 387 Schfl. Weizen, 35 S. <gap reason="illegible" unit="words" quantity="1"/> Weizen, 1.300 Schfl. Korn, 239 S. Gerste, 165 S.
+                    Erbsen, 20 S. Bohnen, 160 S. Haber und 340 S. Malz. Der Bestand der Kasse ist:
+                    1.241 Rtlr., 26 Gr. und bei der letzten Reise nach Königsberg habe ich an H.
+                    Grafen auf <placeName key="ed_hts_ttp_vcb">Warglitten</placeName> die
+                    Johanni-Zinsen mit 300 Rtlr. und an H. Grafen von Dönhoff die im Juni fälligen
+                    Zinsen mit 243 Rtlr zugleich bezahlen lassen. Mit den Bauten sind wir auch schon
+                    etwas vorgerückt. Der Stall in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> ist noch etwas zu latten und dann zu bedachen fertig,
+                    das Gebäude zur Scheune und 4 Ställe für die Altenteiler in Taberlack ist
+                    fertig, und am Wohnhaus arbeitet er jetzt. Dem <persName key="ed_j5c_dkj_hlb">Gramadies</persName> sein Speicher und Ställe wird heute aufgesetzt und am
+                    Brannthaus in <placeName key="ed_nkz_b12_gy">Stawken</placeName> steht der
+                    Zimmermann in Arbeit, und ich muss jetzt noch bitten um eine Erklärung wegen des
+                    neuen Kontrakts mit <persName key="ed_ps5_zkj_hlb">Berend</persName> in
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName>. Ich habe ihm geradezu
+                    erklärt, da er die von Ew, Hochgeboren mir schriftlich gegebene Bedingung nicht
+                    eingehen will, so besteht für mich sein alter Kontrakt in den Gütern, überhaupt
+                    sind keine Veränderungen vorgenommen. Bei Menschen, Vieh und Schafen haben sich
+                    wenige Sterbefälle und gar keine Unglücksfälle ereignet. In <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> sind die Schafe vorgestern
+                    geschoren und es sind 21 <unclear reason="illegible" cert="high">Pfund</unclear>
+                    <gap reason="illegible" unit="chars" quantity="1"/> mit allem gewogen. Die
+                    Böcke, wenn gutes Wetter wird, sollen morgen geschore werden. Käufer haben sich
+                    zu den Böcken gemeldet H. von <persName key="ed_rml_l1d_xkb">Kunheim</persName>
+                    auf <gap reason="illegible" unit="words" quantity="1"/> 4 St., H. von <persName key="ed_yfz_ctq_mfb">Kannewurf</persName> 2 St., <persName key="ed_gjf_4j2_b2b">Horn</persName> 1 St. nach der Schur abzuholen.
+                    Annoncen wegen Böcken und Schafen stehen in öffentlichen Blättern die Menge,
+                    vielleicht geht es Ihnen aber so wie <seg type="comment">
+                  <orig>H. <persName key="ed_qqy_f3h_scb">Schmalz</persName>, der ist auf seiner
+                            Merino-Auktion </orig>
+                  <note xml:id="npv5_5mj_hlb">Eine weitere <ref target="https://books.google.de/books?id=XNRUAAAAcAAJ&amp;pg=PA124&amp;lpg=PA124&amp;dq=Schmalz+Merino-Auktion+1820&amp;source=bl&amp;ots=-qlX00hMfz&amp;sig=ACfU3U0E4erxgUYCpkt1fklGhBAIwsd3TA&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwiGwuaT2NjoAhUS3qQKHcuACDAQ6AEwAnoECAwQKw#v=onepage&amp;q=Schmalz%20Merino-Auktion%201820&amp;f=false">Auktion</ref> fand 1823 statt.</note>
+               </seg>nicht einen Bock los
+                    geworden. Die Zeiten sind zu schlecht und es ist kein Geld unter den Menschen.
+                    Ich hatte in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> 230 Kartoffeln
+                    noch zum Verkauf und setzte den Preis auf 20 Groschen, ich habe aber noch über
+                    100 Stück liegen und kein Mensch will sie haben. <gap reason="insignificant"/>
+                    Das Mastvieh gilt auch nicht viel, denn 1 Pfd. Fleisch gilt 5 Pr. Groschen.</p>
+				        <closer>
+					          <salute>Meine Frau mit mir empfehlen uns zur ferneren Gnade und ich ersterbe mit allem Respekt
+                        Ew. Hochgeboren untertänigster Diener</salute>
+					          <signed>Berent</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

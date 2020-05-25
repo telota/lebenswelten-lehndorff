@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_myc_qx5_ldb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 20. März 1753</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_myc_qx5_ldb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="editorial">
+                    <p>Im Januar hatte sich Lehndorff Hoffnungen auf eine größere Erbschaft gemacht,
+                        vgl. Schmidt-Lötzen, Nachträge, Bd. 1, S. 10 (26. Januar 1753). Bis 17. März
+                        hatte er jedoch <quote>bezüglich des Todes meines Vetters <persName key="ed_tkt_v5d_ndb">Marschall</persName> keine Briefe aus
+                            Preußen</quote> erhalten, und auch am 18. befand er sich <quote>in
+                            großer Aufregung</quote> wegen der Angelegenheiten seines verstorbenen
+                        Verwandten. Am 21. März besuchte er den Geheimen Rat <persName key="ed_pr4_jy5_ldb">Ursinus</persName>, um mit ihm über die
+                            <quote>Angelegenheit in Preußen</quote> zu sprechen. Am 24. März schrieb
+                        er: <quote>Alle meine Hoffnungen sind dahin! Es bleibt nichts weiter übrig,
+                            als sich zu gedulden und das Schicksal walten zu lassen. Ich bin äußerst
+                            ungeduldig, den einzigen Menschen zu sehen, dem ich mein Herz
+                            ausschütten kann.</quote> Am Folgetag besuchte er seinen Schwager von
+                            <persName key="ed_ek1_pw5_vcb">Podewils</persName>, der aus <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> gekommen war. Auch hier ging es
+                        um den Tod des Vetters: <quote>Es gibt wirklich für einen Menschen nichts
+                            Traurigeres, als in der Lage zu sein, zu guten oder sehr guten
+                            Verhältnissen zu gelangen und mit einem Schlage dieser Aussicht beraubt
+                            zu werden. Ich war mit meinen Verhältnissen zufrieden, ich hatte die
+                            Hoffnung reich zu werden; alles stand für mich günstig. Da, in einem
+                            Augenblick, als ich eben meinte, alles zu haben, sehe ich mich zu einem
+                            bescheidenen Lose verdammt, das schwer zu ertragen ist.</quote>
+               </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Giebel, Wieland (Hrsg.), Die Tagebücher des Grafen
+                            Lehndorff. Die geheimen Aufzeichnungen des Kammerherrn der Königin
+                            Elisabeth Christine, Berlin 2007, S. 79</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1753-03-20" cert="high"/>
+                
+              
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                
+				        <p>O der abscheuliche Tag! Warum muss der Mensch so vielen Wechselfällen unterworfen sein! Alle
+                    meine berechtigten Hoffnungen bezüglich meines <persName key="ed_tkt_v5d_ndb">Vetters</persName> schwinden dahin und dazu in einer so rohen und so
+                    widerwärtigen Weise, dass der strengste Philosoph davon betroffen sein würde.
+                    Das ganze Vermögen, das seit so langer Zeit mir bestimmt war, sehe ich in die
+                    Hände eines Menschen fallen, der zugleich mein Nebenbuhler war, und ich sehe
+                    mich auf einen Zustand der Mittelmäßigkeit herabgedrückt, der mich auf keine
+                    sehr glückliche Zukunft hoffen lässt.</p>
+				
+            </div>
+        </body>
+    </text>
+</TEI>

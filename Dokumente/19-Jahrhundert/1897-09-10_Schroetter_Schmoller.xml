@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_wy3_2r4_fy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Freiherr von Schrötter an Gustav Schmoller. Königsberg, 10. September 1897</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_wy3_2r4_fy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 92 NL Gustav Schmoller, Nr. 229, Bl. 45-47v</idno>
+                    </msIdentifier>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+       
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_a1g_lr4_fy">Schrötter, Friedrich Freiherr von
+                        (1862-1944)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1897-09-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_igy_rr4_fy">Schmoller, Gustav (1838-1917)</persName>
+                </correspAction>
+                <note>Friedrich Freiherr von Schrötter, dem preußisch-polnischen Adel angehörend und
+                    als Historiker Mitarbeiter der <orgName key="ed_wbg_fmg_my">Preußischen Akademie
+                        der <orgName key="ed_wbg_fmg_my">Wissenschaften</orgName>
+               </orgName>, hatte
+                    1897 <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> und das Schröttersche
+                    Majoratsgut <placeName key="ed_gk1_hmh_cy">Wohnsdorf</placeName> besucht. Er
+                    schrieb darüber an seinen Dienstherren, den Staatswissenschaftler Gustav
+                        <persName key="ed_igy_rr4_fy">Schmoller</persName>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 10. September 1897</dateline>
+                    <salute>Hochverehrter Herr Professor!</salute>
+                </opener>
+                <p>Für Ihren gütigen Brief danke ich vielmals; ich habe <persName key="ed_rwt_qpz_jlb">Friedensburg</persName> in dem angegebenen Sinne
+                    geschrieben. </p>
+                <p>Es tut mir leid, dass Sie auch nicht besseres Wetter hatten. Hier war es bis
+                    jetzt scheußlich, heute ist der erste Tag, an dem es nicht regnet. Dennoch
+                    interessiert mich hier vieles und es gefällt mir sehr. Vielleicht haben Sie oder
+                    Ihre verehrte Frau <persName key="ed_ipw_tqz_jlb">Gemahlin</persName> einmal
+                    Zeit, mich über einiges anzuhören. </p>
+                <p>Ich war am Donnerstag auf dem Schrötterschen Majoratsgut <placeName key="ed_gk1_hmh_cy">Wohnsdorf</placeName> zu Besuch und habe auch viel Neues
+                    gesehen und gehört. Freilich muss ich zunächst sagen, dass der Historiker mit
+                    vielen der dort herrschenden Meinungen unmöglich einverstanden sein kann. Ich
+                    hätte kaum gedacht, dass noch heute die Tätigkeit der Hohenzollern in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> so ungünstig beurteilt wird.
+                    Begreiflicherweise haben sie für den <persName key="ed_nc5_wbp_vcb">Großen
+                        Kurfürsten</persName> am wenigsten übrig. Das Gegenteil zu beweisen oder
+                    wenigstens dessen Wirken gegen den Adel zu verteidigen, dazu hatte ich dieses
+                    Mal zu wenig Zeit, auch mochte ich mich nicht gleich das erste Mal in Gegensatz
+                    zu den liebenswürdigen Leuten setzen. </p>
+                <p>Mein <persName key="ed_s1m_sqn_my">Vetter</persName> ist zwar weniger
+                    liebenswürdig, vielmehr ein kompakter Ostpreuße, dagegen ist seine Frau, eine
+                    geborene <persName key="ed_vhr_wjh_cy">Gräfin Lehndorff</persName>, die
+                    Freundlichkeit selbst. Natürlich ging das Gespräch meist über unsere Familie und
+                    die Vorfahren. Auch darin habe ich sehr ketzerische Ansichten. Während meine
+                    Verwandten sich an das Freiherrendiplom halten, das den Adel bis ins 13.
+                    Jahrhundert zurückführt, glaube ich, dass dieses eine Erfindung ist, <seg type="comment">
+                  <orig>und halte mich an eine Urkunde von 1685, in der
+                            zugestanden wird, dass die Familie seit Anfang des 17. Jahrhunderts etwa
+                            adlig ist und Grundbesitz in Ostpreußen hatte. Frühere Urkunden aber
+                            gibt es nicht.</orig>
+                  <note xml:id="nhqh_f1c_kfb">Zur Familiengeschichte:
+                            Schrötter, Robert Freiherr von, Beiträge zur Geschichte des Freiherrlich
+                            von Schrötterschen Familie, Berlin 1965; Die Schröttersche Chronik aus
+                            Wohnsdorf, hrsg. von Carl von Lorck unter Mitwirkung von Johann Georg
+                            von Rappard, Limburg/Lahn 1969. Hier wird u. a. Johannes (1646-1726) auf
+                                <hi rendition="#u">Maulen</hi>, Wohnsdorff usw., Generalpostmeister
+                            und Vizeschatzmeister von Litauen, Kastellan von Livland, 1702
+                            Pfandbesitzer der Wohnsdorfer Güter von Andreas von Flanß genannt. Nach
+                                <persName key="ed_b2f_xyf_h1b">Lorck</persName> waren Teile des
+                            Wohnsdorffer Archivs im Familienbesitz in Bad Honnef am Rhein erhalten,
+                            anderes war nach Berlin in das Geheime Kriegsarchiv gegeben und mit
+                            diesem in den Kriegsjahren vernichtet worden. Nach dem <quote>Rotulus
+                                der Archivalien</quote> gehörten dazu eine 79 Seiten starke
+                                <quote>Acta Manualia</quote> der Maulenschen Fideikommiss- und
+                            Erbschaftssachen, 1810-1812 (grüner Deckel) sowie eine Akte Maulen
+                            (gelber Deckel), beginnend 1710. Zu den 8 Einzelakten gehörte, so Lorck,
+                            auch der Lehnsbrief des <persName key="ed_ikm_hb1_jlb">Markgrafen
+                                Albrecht Friedrich</persName> für <persName key="ed_qvc_tlm_s3b">Melchior Lehndorff</persName> in Maulen aus dem Jahr 1572.
+                        </note>
+               </seg>
+                </p>
+                <p>
+               <seg type="comment">
+                  <orig>Dicht hinter dem jetzigen Wohnhause erhebt sich ein
+                            Hügel, der auf einer Seite durch die Alle, der anderen von tiefen
+                            Einschnitten begrenzt wird, und auf dem die Trümmer der alten
+                            preußischen Burg Capostete zu sehen sind; diese ist nach dem alten
+                            preußischen Schriftstellern eine der <gap reason="illegible"/> Plätze
+                            gewesen und wurde im 13. Jahrhundert vom Orden erobert. Man hat von dort
+                            einen sehr schönen Blick ins Land, an unsere Familie kam Wohnsdorf
+                            1702.</orig>
+                  <note xml:id="nq2v_z4l_2db"> Im 13./14. Jahrhundert wurde
+                            auf der Pruzzenfeste Capostete eine Burg des Deutschen Ordens errichtet.
+                            Sie wurde mehrfach erobert, zerstört, wiederaufgebaut und vergrößert.
+                            Seit etwa 1690 war die Burg im Besitz der Familie von Schrötter. 1830
+                            brannte die Burg mit mehreren Gebäuden ab. Übrig blieb der Turm, den der
+                            damalige Minister Freiherr Friedrich Leopold von <persName key="ed_ifh_zd1_hy">Schrötter</persName> von Friedrich <persName key="ed_hpp_2zw_h2b">Gilly</persName> wieder aufbauen ließ. Der mit
+                            der Familie von Schrötter befreundete Immanuel <persName key="ed_yfs_pzv_rz">Kant</persName> hielt sich hier gerne auf. Das
+                            spätklassizistische Gutshaus ließ <persName key="ed_cfp_kzw_h2b">Hermann
+                                Freiherr von Schrötter</persName>, Enkel des preußischen
+                            Staatsministers, 1868/69 errichten, vgl. Papendick, Christian, Der
+                            Norden Ostpreußens. Bilddokumentation, Husum 2009.  </note>
+               </seg>
+                </p>
+                <p>Ich hörte noch manches Interessante, sah auch manches, z. B. mehrere sehr alte
+                    schöne Möbel, die von dem <persName key="ed_ifh_zd1_hy">Minister</persName>
+                    stammen, und Bilder desselben. Sie haben eine Serie silberner Kaffeelöffel,
+                    deren Stiel eine Nixe ist, die auf dem Kopf ein C und M verschlungen mit einer
+                    Königskrone darüber trägt. Wir sannen lange darüber nach, was das C bedeute, und
+                    kamen endlich auf Catharina Medici, die Königin von Frankreich; ich weiß
+                    wirklich nicht, auf wen sonst diese Initialen treffen könnten. </p>
+                <p>Ich habe Ihnen, Herr Professor, nun aber genug von diesen Dingen erzählt, die
+                    vielleicht nur mich interessieren. Was meine hiesige Arbeit angeht, so bin ich
+                    fast fertig. Leider ist über die Münzung unter <persName key="ed_syp_mzf_h1b">Friedrich III (I)</persName> fast nichts vorhanden. Das Allgemeine ist
+                    besser in <placeName key="ed_xrv_gwb_by">Berlin</placeName>; wohl aber sind sehr
+                    viele Patente für diese Zeit da, die ich im Geheimen Staatsarchiv nicht fand.
+                    Über die russische Zeit ist viel hier (1758-62), doch habe ich diese beiseite
+                    gelassen, weil sie eben nicht zur preußischen Verwaltung gehört. Vielleicht
+                    wären sie einmal abgesondert zu publizieren. </p>
+                <closer>
+                    <salute>Ich wünsche Ihnen und Ihrer Frau Gemahlin nun noch für den Rest der
+                        Ferien das schönste Wetter und schließe mit einer Empfehlung als Ihr ganz
+                        gehorsamster</salute>
+                    <signed>Frhr. von Schrötter</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

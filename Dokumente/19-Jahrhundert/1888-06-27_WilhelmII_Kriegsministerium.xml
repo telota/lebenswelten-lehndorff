@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_rvx_mtz_2y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kaiser Wilhelm II. an das Kriegsministerium. Berlin, 27. Juni 1888</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_rvx_mtz_2y</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+                <note type="editorial">
+                    <p>Marginalie: Lehndorff habe bis Ende Juli 1888 ein Gehalt von 1.200 Mark
+                        bezogen und keine Dienstzulagen. - Die Pension des am 26. Februar 1859
+                        eingetretenen, zum Generalleutnant am 21. Mai 1881 beförderten und an den
+                        Kriegen 1866 und 1870/71 beteiligten Lehndorff betrug jährlich 9.885 M. Vom
+                        22. März 1885 bis 27. Juni 1888 war er Generaladjutant des Kaisers, vgl.
+                        dessen biographische Angaben in: BArch Freiburg, MSG 109/10864.</p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>IV. HA, Rep. 7 Nr. 6733, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_n2s_bcb_dy">Preußen, Wilhelm II. König von, deutscher Kaiser
+                    (1859-1941)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date when="1888-06-27" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Ich bestimme hierdurch: Meinem Generaladjutanten der Kavallerie Grafen von
+                        <persName key="ed_nml_dw2_cy">Lehndorff</persName> pp. wird der nachgesuchte
+                    Abschied unter Stellung zur Disposition mit der gesetzlichen Pension bewilligt;
+                    dieselben treten gleichzeitig in die Kategorie Meiner nicht diensttuenden
+                    Generaladjutanten über. Betreffs der weiteren Bekanntmachung habe Ich verfügt. </p>
+            <p>Berlin, den 27. Juni 1888. </p>
+            <p>gez.
+                        <persName key="ed_n2s_bcb_dy">Wilhelm</persName>
+                    </p>
+            <p>An das Kriegsministerium </p>
+            <p>K.O.B. Nr. 1 </p>
+            <p>Für die Richtigkeit Bull
+                    Geheimer Kanzleisekretär</p>
+            </div>
+        </body>
+    </text>
+</TEI>

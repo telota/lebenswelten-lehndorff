@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zjm_lqg_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friederike Caroline von Below an Carl Friedrich Ludwig Graf von Lehndorff.
+                    Trakehnen, 18. März 1808</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zjm_lqg_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 861, n. f.</idno>
+                    </msIdentifier>
+                    <p/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_v1m_5xt_q2b">Below , Friederike Caroline von
+                        (1770-1828)</persName>
+                    <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName>
+                    <date when="1808-03-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Trakehnen, den 18. März 1808</dateline>
+                </opener>
+				        <p>Euer Hochgeboren erhalten Ihrem Wunsche gemäß den Ball aus <unclear reason="illegible" cert="low">Jonasthal</unclear>, meine Kuh nebst dem Kalbe und noch 2 Kälber,
+                    welche ich für Dieselben erhandelt habe, mit dem lebhaften Wunsch, dass solche
+                    gut einschlagen und dadurch ganz Ihren Beifall erhalten mögen. Der zu ihrer
+                    Abholung hierher geschickte Krüger findet unser hiesiges Vieh nicht so schön,
+                    weil er zwar genaue Kenntnis einer guten Milchkuh besitzt, übrigens aber unser
+                    so beliebiges Racesysteme nicht beherziget. Das Ball-Kalb kostet 12 Rtlr. und
+                    das Kuh-Kalb 10. Wenn mein Brief Sie noch in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> treffen sollte und es Sie nicht inkommodiert, so
+                    würde ich Sie bitten, diese 22 Rtlr. an meine Kinder daselbst auszuzahlen.</p>
+                <p>Mein <seg type="comment">
+                  <orig>Mann</orig>
+                  <note xml:id="nfsw_5gx_y2b">Friedrich
+                            Carl Ludwig von <persName key="ed_ddh_x5m_zcb">Below</persName>, <ref target="https://de.wikipedia.org/wiki/Friedrich_Karl_Ludwig_von_Below">Landstallmeister im Hauptgestüt Trakehnen</ref>
+                  </note>
+               </seg>, der
+                    sich ergebenst Ihrem gütigen Andenken empfiehlt, erwartet so wie ich
+                    zutrauensvoll auf Ihre Güte und Gefälligkeit den besten Ausgang unserer
+                    Angelegenheiten in Russland, die wir nicht bessern Händen anvertrauen
+                    konnten.</p>
+				        <closer>
+					          <salute>Mit der vollkommensten Achtung habe ich die Ehre mich zu zeichnen <lb/>Ew. Hochgeboren
+                        ergebenste Dienerin</salute>
+					          <signed>C. v. Below</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

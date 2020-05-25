@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_n4y_g4f_s3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Marianna von Lehndorff an Friedrich Wilhelm Kurfürst von Brandenburg.
+                    Konstantinopel, vor dem 5. April 1659</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_n4y_g4f_s3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA GR, Rep. 7 Nr. 13 L 46 a fasz. 4, Bl. 3-6v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_dq4_cp5_zdb">Lehndorff, Marianne Gräfin von (-)</persName>
+                    <placeName key="ed_fsn_mtp_tdb">Konstantinopel</placeName>
+                    <date from="1659-03-01" to="1659-04-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_nc5_wbp_vcb">Brandenburg, Friedrich Wilhelm Kurfürst von
+                        (1620-1688)</persName>
+                </correspAction>
+                <note>Anlage eines Schreibens vom 5. April 1659. Die Tataren fielen während des
+                    schwedisch-polnischen Krieges am 9. Oktober 1656 in das südliche Ostpreußen ein.
+                    In dem Bericht des des Hauptmanns von Johannisburg, <persName key="ed_ecy_ltk_clb">Dietrich von Lesgewang</persName>, vom 15. Oktober 1656
+                    heißt es: „.. die Tataren ... auß dem <placeName key="ed_eby_wkz_ny">Lyckschen</placeName> eingefallen, und alsobald mit Morden und Brennen
+                    fohrtgegangen, danebenst auch sehr viel armer Leuthe Weiber und Kinder gefangen
+                    genommen. ... Daß Brennen der Dörffer und entführung der Leuthe, ist noch nicht
+                    alles .... Aber 'all das Ihrige ist nummehro in der Asche und hinfort .... zu
+                    deme hat man sich großen Hunger und Kummer zu verhoffen, weilen die Leuthe
+                    nichts an die Seite gebracht ...‟ Die Einfälle hatten für die Bevölkerung
+                    verheerende Folgen, allein aus dem bevölkerungsarmen Amt Johannisburg wurden
+                    2.177 Personen verschleppt, ganze Dörfer wurden entvölkert. Im Jahre 1657 fielen
+                    die Tartaren abermals ein, vgl. <ref target="http://www.schuka.net/Ostpreussen/Geschichte/OWP-in-Zahlen.htm#1656-1657">http://www.schuka.net/Ostpreussen/Geschichte/OWP-in-Zahlen.htm#1656-1657</ref>
+                    und die <ref target="http://www.schuka.net/Ostpreussen/KrJo/Ort/Grossrosen/RO-Kirchenchronik.htm#Tatareneinfall">Kirchenchronik von Rosinsko</ref>. Das von dem Pfarrer Molitor gedichtete
+                        <ref target="http://www.schuka.net/Ostpreussen/Lieder/Tatarenlied.htm">„Tatarenlied‟ </ref>wurde  in das masurische Gesangbuch aufgenommen.  </note>
+            </correspDesc>
+            <abstract>
+                <p>
+               <persName key="ed_dq4_cp5_zdb">Marianna von Lehndorff</persName>, von den Tataren
+                    nach <placeName key="ed_fsn_mtp_tdb">Konstantinopel</placeName> verschleppt,
+                    bittet den <persName key="ed_nc5_wbp_vcb">Kurfürsten</persName> um ihre
+                    Befreiung.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

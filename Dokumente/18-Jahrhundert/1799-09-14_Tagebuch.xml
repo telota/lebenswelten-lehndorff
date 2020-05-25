@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_gzb_dtf_zdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 14. September 1799</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_gzb_dtf_zdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Lehndorff, Ernst Ahasverus Heinrich von, Am Hof der
+                            Königin Luise. Das Tagebuch vom Jahr 1799, übersetzt und eingel. von Eva
+                            Ziebura, Berlin 2009, S. 293</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf von
+                    (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date when="1799-09-14" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <seg type="comment">
+                  <orig>Ich führe in meinem Haus wieder die alte Ordnung ein.
+                            </orig>
+                  <note xml:id="ni2c_1vf_zdb">Vgl. dazu weitere Ausführungen ebd.,
+                            z. B. am 20. September, S. 297.</note>
+                    </seg>Ich schimpfe und lobe, je nachdem, wie sich jeder geführt hat. Es gibt
+                    viel zurechtzurücken. Ein großer Gutsbesitzer darf sich nicht zu lange von
+                    seinem Land entfernen, sonst funktioniert die Maschine nicht mehr richtig, und
+                    es ist viel Geduld nötig, um die Ordnung der Dinge wiederherzustellen. Besonders
+                    die guten Sitten und der gute Ton gehen verloren. <seg type="comment">
+                  <orig>Ich
+                            kehre zu meiner alten Ansicht zurück, wonach es keinen Unterschied
+                            macht, ob man 50 Leute oder einen der großen Höfe zu regieren
+                            hat.</orig>
+                  <note xml:id="nasf_1wf_zdb">
+                     <quote>Ich nehme am Gespräch mit
+                                meinen Verwaltern, meinen Bauern, meinen Untertanen das gleiche
+                                Interesse, wie ich es in Berlin an der Gesellschaft der Minister,
+                                Generale, Prinzen und Majestäten genommen habe</quote>, ebd., S.
+                            304. </note>
+               </seg> Die Menschen haben die gleichen Vorlieben, das
+                    gleiche Verhalten, einen ebenso intriganten Geist, die gleichen Abneigungen, den
+                    gleichen Wunsch, sich gegenseitig zu schaden, um selbst die Oberhand zu gewinnen
+                    - nur die Wichtigkeit der Dinge, um die es geht, ist verschieden.</p>
+                <p>Die Ernte dieses Jahres wäre ohne den dauernden Regen hervorragend ausgefallen.
+                    Nun wird es sehr schwierig sein, die großen Verluste zu verkraften. Meine
+                    wichtigste Aufgabe ist zur Zeit, einen Überblick über meine Konten zu bekommen.
+                    Ich sehe mit Kummer, das wir drei schlechte Jahre hintereinander gehabt haben.
+                    Dass ist umso einschneidender, weil ich in dieser Zeit durch meine Reise, die
+                    Verheiratung meiner Tochter, die Zahlung der Schulden meines ältesten Sohnes,
+                    die Etablierung meines Juniors fast 100.000 Taler ausgegeben habe. Ich hoffe,
+                    dass der Rückzug auf meine Güter nach und nach diese Lücke schließen wird.</p>
+                <p>Seitdem ich hier bin, <seg type="comment">
+                  <orig>kann ich die politischen
+                            Entwicklungen nur durch die Lektüre der Hamburger Zeitungen
+                            verfolgen.</orig>
+                  <note xml:id="nn33_x5f_zdb">Und aus den Briefen, die
+                            aus Berlin eintreffen, u. a. von seinem Sohn, vgl. ebd., S. 294 ff. -
+                            Die Ankunft der Post verband ihn <quote>mit der großen
+                            Welt</quote>.</note>
+               </seg>
+                    <gap reason="insignificant"/> Zar <persName key="ed_e2y_3yl_cz">Paul</persName>,
+                    der eine wichtige Rolle spielt, wird sich noch in diesem Monat mit dem <seg type="comment">
+                  <orig>Deutschen Kaiser</orig>
+                  <note xml:id="nhvk_kzl_w2b">Franz II.</note>
+               </seg> in <placeName key="ed_fxy_2zl_w2b">Krakau</placeName> treffen. Ich fürchte nur, dass sich ihre Verhandlungen
+                    auch gegen Preußen richten. Die weise Festigkeit und Unparteilichkeit unseres
+                    tugendhaften Herrschers ist bewundernswert - aber ist sie auch klug? Man muss
+                    abwarten.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Ich habe den Justizbürgermeister <persName key="ed_yhb_vzl_w2b">Skopnik</persName> als Justitiar bei
+                            mir.</orig>
+                  <note xml:id="nyjw_dvf_zdb">Dieser sucht Lehndorff auch in
+                            den folgenden Tagen auf. <quote>Die kleinen Dinge der Gutsverwaltung
+                                sind sehr unangenehm, besonders weil das ungebildete Volk nichts
+                                versteht. Der große Fehler der Preußen ist die Trunksucht und alle
+                                Dummheiten, die daraus folgen.</quote> Es geht nochmals um den
+                            Gastwirt, aber auch um einen Schulmeister für <placeName key="ed_epz_y2c_gy">Engelstein</placeName>, ebd., S. 301. - Mit der
+                            Arbeit Skopniks ist Lehndorff nicht zufrieden, so dass er im Oktober den
+                            Justizbürgermeister <persName key="ed_mws_j1m_w2b">Schwartz</persName>
+                            aus <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> zu seinem
+                            Rechtsvertreter macht. - Die Rechtspflege sei in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>, <quote>langsam und
+                                schlecht organisiert</quote>, ebd., S. 313.</note>
+               </seg> Ich spreche
+                    mit ihm über Gerichte und Prozesse. Ich möchte, dass ein schlechter Gastwirt mit
+                    Namen <persName key="ed_zss_yzl_w2b">Uwis</persName> seine Anstellung verliert.
+                    Vor drei Wochen habe ich noch mit der gleichen Beflissenheit mit dem <persName key="ed_tl1_nbf_4y">König</persName> und der <persName key="ed_p34_cnc_tcb">Königin</persName> von Preußen und bedeutenden Männern Europas gesprochen.
+                    So muss ein Mann seinen Standpunkt in verschiedenen Situationen vertreten können
+                    und seien Pflichten jeder Zeit und unter allen Umständen getreulich erfüllen.
+                        <gap reason="insignificant"/>
+            </p>
+                <p> </p>
+            </div>
+        </body>
+    </text>
+</TEI>

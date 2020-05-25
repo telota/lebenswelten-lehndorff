@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_hlz_lnx_rdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin,
+                    August 1764</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_hlz_lnx_rdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">Die <quote>Feier des Ritterschlags</quote> fand am 1. Oktober
+                    statt. Dabei wurde eine Kollekte für verarmte Ritter veranstaltet, deren Erlös
+                    nur 100 Louisdor betrug, vgl. ebd., S. 411 f.</note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 1, Gotha 1910, S. 408</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+               
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date from="1764-08-01" to="1764-08-31" cert="high"/>
+                
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <p>Wir haben eine Anzahl polnischer Herren hier, einen Grafen <persName key="ed_kfq_nz3_tdb">Radziwill</persName>, der als Anhänger der Gegenpartei
+                    des Grafen <persName key="ed_uty_stf_nbb">Poniatowski</persName> nach <placeName key="ed_ust_ky4_dz">Frankreich</placeName> geht, und einen Grafen <persName key="ed_aph_qz3_tdb">Belinski</persName>, begleitet von mehreren anderen.
+                        <gap reason="insignificant"/>
+                </p>
+                <p>Herr <persName key="ed_lpx_q4h_tdb">Mitchell</persName>, der englische Gesandte,
+                    reist auf 6 Monate von hier weg, einige sagen sogar für immer. Die Politiker
+                    knüpfen an seine Abreise tausenderlei Vermutungen.</p>
+                <p>
+            <seg type="comment">
+               <orig>In <placeName key="ed_iky_35l_cz">Russland</placeName>
+                        hat eine Art Revolte zugunsten des ehemaligen Kaisers Iwan stattgefunden.
+                        </orig>
+               <note xml:id="nusd_cst_52b">
+                  <ref target="https://de.wikipedia.org/wiki/Iwan_VI._(Russland)"> Iwan VI.
+                        </ref>Im Alter von zwei Monaten wurde er am 17. Oktober 1740 zum Zaren und
+                        Kaiser inthronisiert, am 25. November 1741 gestürzt und verbrachte den Rest
+                        seines Lebens in Gefangenschaft. </note>
+            </seg>Er befand sich in
+                Schlüsselburg und einer der ihn bewachenden Offiziere hatte sich für ihn
+                interessiert und wollte ihn retten. Als man eben dabei war, die Tore seines
+                Gefängnisses zu erbrechen, töteten zwei der <persName key="ed_ez1_1zl_cz">Kaiserin</persName> ergebene Offiziere Iwan und als sein Freund eintrat,
+                schwamm er bereits in seinem Blute.</p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>Ich habe die Freude, meinen Schwager <persName key="ed_zqm_ymf_hy">Schlieben</persName> aus <placeName key="ed_uvt_4j4_dz">Preußen</placeName>
+                hier zu sehen, den ich seit 14 Jahren nicht mehr gesehen hatte. Er ist ein Mann von
+                Verdienst, der sehr gut zu wirtschaften versteht. Er ist hierher gereist, um das
+                Ritterkreuz des Johanniter-Ordens zu empfangen. Ich gehe mit ihm nach <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> und sehe mit größter Bewunderung, was
+                der <persName key="ed_x2r_52f_cy">König</persName> seit dem Frieden hier alles
+                geschaffen hat. Dieses <placeName key="ed_hgx_f1v_sy">Sanssouci</placeName> ist ein
+                bezaubernder Ort. Man glaubt sich in ein Märchenland versetzt, wenn man diese
+                schönen Promenaden durchwandelt und diese Menge Gold und Marmor und all die Statuen
+                betrachtet. Doch noch überwältigender ist der Eindruck, den man beim Eintritt in die
+                Gemäldegalerie empfängt. Die Hauptwerke aller großen Meister sind hier vereinigt,
+                    <seg type="comment">
+               <orig>Rubens</orig>
+               <note xml:id="nazr_whw_hkb">
+                  <ref target="https://de.wikipedia.org/wiki/Peter_Paul_Rubens">Peter Paul
+                            Rubens</ref>
+               </note>
+            </seg> und <seg type="comment">
+               <orig>Rembrandt</orig>
+               <note xml:id="ndny_f2x_qgb">
+                  <ref target="https://de.wikipedia.org/wiki/Rembrandt_van_Rijn">Rembrandt
+                            Harmenhausen van Rijn</ref>
+               </note>
+            </seg> sind in reichem Maße vertreten.
+                In einem besonderen Kabinett hängt ein wundervoller <seg type="comment">
+               <orig>Raffael</orig>
+               <note xml:id="nuwd_2tt_52b">
+                  <ref target="https://de.wikipedia.org/wiki/Raffael">Raffaello Sanzio da
+                            Urbino</ref>
+                    </note>
+            </seg>. <gap reason="insignificant"/>
+            </p>
+                
+        </body>
+    </text>
+</TEI>

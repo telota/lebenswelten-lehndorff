@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_m42_zs3_wz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Graf von Schlippenbach an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Berlin, 18. März 1840</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_m42_zs3_wz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 378, n. f.</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Akte ist unvollständig foliiert.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wm5_2t3_wz">Schlippenbach, Wilhelm Graf von (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1840-03-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Die Scheidung wurde als Vergleich vollzogen. Den Streit um eine Kuratel für
+                    die gemeinsame Tochter <persName key="ed_f5w_2fm_2y">Magdalena</persName>
+                    entschied das Königliche <orgName key="ed_zsz_nj5_c2b">Appellationsgericht
+                        Insterburg</orgName>, vgl. APO, Bestand 382 FA Lehndorff, Nr. 291 (1850) und
+                    LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 350 (1854). Weiteres zum
+                        <quote>Lehndorffschen Ehezwist</quote> in: APO, Bestand 382 FA Lehndorff,
+                    Nr. 291 (1839-1840, 1850, 1857) und GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                    Lehndorff-Steinort, Nr. 354 und 654. - Die Differenzen bestanden bereits im
+                    Herbst 1839: Lehndorff spricht von einem Missverhältnis zwischen beiden, welches
+                    das Zusammenleben, sogar das Zusammentreffen zu einer <quote>Folter</quote> für
+                    beide Seiten machte. Die <quote>unerfüllbaren und mit meinen
+                        Vermögensverhältnissen durchaus unverträglichen Ansprüche</quote> könne er
+                    nicht befriedigen. Seine Zugeständnisse, Zahlung von 1.000 Taler in monatlichen
+                    Raten incl. des Lohns für Bedienstete, Wohnrecht in Warglitten, Zahlungen aus
+                    den Erträgen, Brennholz und eine Equipage, würden seine Möglichkeiten bereits
+                    übersteigen. <persName key="ed_tcp_g3l_2y">Pauline</persName>, die sich zu
+                    dieser Zeit in <placeName key="ed_hts_ttp_vcb">Warglitten</placeName> aufhielt,
+                    sollte sich aus allen Fragen der dortigen Gutswirtschaft heraushalten. In
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> wollte er sie künftig
+                    nur als <quote>Gast</quote> sehen. Strittig blieb die Erziehung der Kinder in
+                    Steinort, auf die er Anspruch erhob (Bl. 1-2v, Königsberg, 26. Oktober 1839).
+                    Vermittlungsbemühungen zwischen den Eheleuten „von außen‟ schlugen fehl, Bl. 3-6
+                    (9. November 1839). Allgemein zum Thema: Blasius, Dirk, Ehescheidung in
+                    Deutschland im 19. und 20. Jahrhundert, Frankfurt a. M. 1992. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 18. März 1840</dateline>
+					          <salute>Mein Hochgeehrter Graf,</salute>
+                </opener>
+				        <p>Ihren gestern empfangenen Brief beehre ich mich möglichst schnell zu beantworten und Ihnen
+                    bestens für denselben zu danken. In der Tat habe ich Ihr früher an mich
+                    gerichtetes Schreiben leider nicht empfangen, und ich würde des
+                    unverzeihlichsten Leichtsinns, dasselbe nicht sofort zu beantworten, gewiss mich
+                    nicht schuldig gemacht haben. Seit Sie mit <persName key="ed_tcp_g3l_2y">Pauline</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName> verließen, sind allerdings,
+                    nebst den immer wiederholt von dem von Ihnen und uns gleich hoch verehrten
+                    Landstallmeister von <persName key="ed_wgw_p35_ncb">Burgsdorff</persName> und
+                    anderen ausgesprochene Versicherungen von Paulines gänzlicher Wiederherstellung,
+                    die traurigsten Nachrichten uns zugegangen über Ihr gegenseitiges eheliches
+                    Verhältnis. Indes entsprechend meiner Ihnen bekannten Ansicht, dass keinem, und
+                    sei er der nächste, das entfernteste Recht zustehe, in das Heiligtum der Ehe des
+                    anderen sich zu mischen, habe ich mir niemals ein anderes Wort erlauben zu
+                    dürfen mich berechtigt gehalten, als die einfache Beantwortung der Briefe meiner
+                    Schwester und der darin berührten Fragen. Auch in diesem Augenblick und nach
+                    Empfang des von Ihnen vermuteten Schreibens Ihrer Frau an mich steht meine
+                    Ansicht ganz ebenso fest, wie ich früher mich beehrt habe, dieselbe Ihnen, mein
+                    Hochgeehrtester Graf, auszusprechen, und welche ich in Beziehung auf die jetzt
+                    eingetretenen Verhältnisse detaillierter zu wiederholen mir erlaube, nachdem ich
+                    erwähnt, dass ich, Ihrem Wunsche gemäß die <seg type="comment">
+                  <orig>
+                     <gap reason="illegible"/>Frau</orig>
+                  <note xml:id="nclq_z4j_p2b">im Sinne
+                            von Zugehfrau?</note>
+               </seg>
+                    <persName key="ed_jkb_yk5_c2b">Walter</persName> augenblicklich aufgesucht, in
+                    deren Wohnung aber erfahren habe, dass sie eine Kranke nach <placeName key="ed_iw5_fxl_2y">Breslau</placeName> begleitet und von dort in vier
+                    Wochen zurückkehrt. </p>
+            <p>Ich halte jede Scheidung an und für sich für das Unglücklichste, was einer Frau begegnen kann,
+                    den Wunsch danach, wenn nicht gerade Leben und Gesundheit, wie dies in der <seg type="comment">
+                  <orig>Ehe meiner Schwester <persName key="ed_qr1_j2g_4y">Reichenbach</persName>
+                        </orig>
+                  <note xml:id="ngxt_pk5_ncb">Adelheid Constanze Gräfin von
+                            Schlippenbach war seit 1824 mit <persName key="ed_ys3_cl5_c2b">Heinrich
+                                Gustav Gottlob von Reichenbach-Goschütz</persName> verheiratet. 1832
+                            war die Ehe geschieden worden. Mit ihr hielt Pauline Lehndorff sich
+                            1839/40, möglicherweise auch noch später in Dresden auf, vgl. GStA PK,
+                            XX. HA, Rep. 54, Nr. 353 und 444 und den am 16. Juli 1843 ausgestellten
+                            Reisepass für ihren Sohn Carl Meinhard, der in Begleitung des Bruders
+                            Heinrich <quote>in Familienangelegenheiten</quote> nach Dresden reiste,
+                            ebd. in Nr. 555.</note>
+                    </seg> der Fall war, gänzlich auf dem Spiel stehen, für etwas Unnatürliches und
+                    Unverantwortliches von seiten der Frau, und vielfach mehr in einer mit Kindern
+                    gesegneten Ehe. Deshalb auch werde ich für meine Person niemals meiner Schwester
+                    zu solch einem Schritte die Hand bieten. Ist Pauline, wie ich mit Gewissheit
+                    annehmen muss, gänzlich hergestellt, so ist es Gottes Ordnung, dass sie in
+                    Liebe, Sanftmut und Betrieblichkeit dem Willen des Mannes sich füge und dadurch
+                    das Einzige sich bewahre, was eine verständige Frau über alles hoch halten soll:
+                    das ruhige stille Leben für Gatten und Kinder. Und da sie ja doch fünfzehn Jahre
+                    lang Ihnen eine liebende, zärtliche, treue Frau gewesen, und ihren Kindern eine
+                    ähnliche Mutter, so ist es gewiss auch unerlässlich, wenn gleich keine leichte
+                    Pflicht, den etwa in Folge der Krankheit noch zurückgebliebenen Zustand von
+                    Aufregung mit Nachsicht und Duldung zu tragen. Denn man gelobt ja doch in der
+                    Ehe sich nicht nur Beistand und Schutz in glücklichen Tagen, sondern auch
+                    Beistand in Not und Tod. Träte der traurige Fall nun ein, dass Ihre Frau jenes
+                    ihr höchste Gut nicht als solches erkannte, so sagt mir, verzeihen Sie, mein
+                    Hochgeehrter Graf, mein eigenes Gewissen als Ehemann, das überhaupt über
+                    Pflichten der Art in jedem Manne laut und bestimmt spricht, dass es des Mannes
+                    Sache ist, auf jedem ihm angemessen scheinenden Wege die Frau dahin
+                    zurückzuführen. Sollte sie, in falscher und verkehrter Ansicht, gebannt von
+                    ihren Kindern, glücklicher sich fühlen zu können wähnen, so wäre das eine
+                    Meinung, die von meinem Verstande wie von meinem Herzen gleich eisig abgleiten
+                    würde. Wenn Sie, mein geehrter Graf, in Ihrem Schreiben sagen, Pauline habe
+                    Ihnen geäußert, sie habe mich oder meinen Bruder <persName key="ed_fxl_5l5_ncb">Albert</persName> „zu Ihrer Hilfe‟ herbeigerufen, so kann von meiner Seite
+                    solche Hilfe nur bestehen in der flehentlichen Bitte, jede Scheidung ihrerseits
+                    bestimmt zu verweigern, auf alle Weise unter der Bedingung des Zusammenlebens
+                    mit den Kindern Ihrem, des Ehemanns Willen, in jeder Hinsicht mit Sanftmut sich
+                    zu fügen, und jeden Augenblick in wahrer Demut Gott anzuflehen um Beistand zur
+                    Erfüllung ihrer Pflichten. Behilflich sein zu Feststellung einer Scheidung, die
+                    das Heiligste, Mann und Kinder, als Nebensache behandelt, kann keinem Ehemann
+                    zugemutet werden, und meine Hände werden nimmer in solches Werk sich mischen. </p>
+            <p>Käme es, ganz gegen meine allerentschiedenste Ansicht, dennoch zu einer Scheidung zwischen Ihnen
+                    und Pauline, so ist das zarteste Verhältnis gänzlich entheiligt, dasselbe meiner
+                    Meinung nach dann am geeignetsten den königlichen Gerichtsbehörden überwiesen,
+                    und in diesem traurigst denkbaren Falle <seg type="comment">
+                  <orig>müsste ich
+                            meine Schwester selbst für wahnsinnig halten,</orig>
+                  <note xml:id="ng4q_dft_s2b">Vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 655: Korrespondenz des Grafen Lehndorff wegen
+                            Geisteskrankheit seiner Frau Pauline, 1838, Nr. 919: Notizen des Grafen
+                            zu Geschichte und Verlauf, medizinisches Gutachten, ca.
+                        1838.</note>
+               </seg> wenn sie, mehr als auf irgend andere Dinge, nicht fest
+                    und unumstößlich darauf bestände, <hi rendition="#u">beide</hi> Töchter, wie das
+                    Gesetz für gleichschuldige Teile es vorschreibt, sich zugesprochen zu sehen für
+                    immer. </p>
+            <p>Ich habe meinen <seg type="comment">
+                  <orig>Bruder <persName key="ed_fxl_5l5_ncb">Albert</persName>
+                            dringend gebeten, von <placeName key="ed_wy5_tm5_c2b">Sierhagen</placeName> in Holstein, wo er gegenwärtig bei seinem
+                            Schwiegervater, Graf Plessen, sich aufhält,</orig>
+                  <note xml:id="nnpn_4m5_ncb">Schlippenbach war seit 1838 mit <persName key="ed_pmp_xm5_c2b">Emma von Scheel-Plessen</persName>
+                            verheiratet.</note>
+               </seg> nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> sofort zu gehen, und wenn er es verweigern sollte
+                    erklärt, dass ich selbst trotz vieler mich behindernder Verhältnisse bereit sei,
+                    Paulines Wunsch in dieser Hinsicht zu willfahren. Zu welchem Nutzen aber, bei
+                    meinen über den Punkt der Scheidung feststehenden Ansichten, vermag ich nicht
+                    wohl einzusehen. <seg type="comment">
+                  <orig>Dieselben in diesen Zeilen dargetanen
+                            Ansichten spreche ich heute in meinem Schreiben an Pauline aus.
+                            </orig>
+                  <note xml:id="npsj_gzm_2db">Vgl. APO, Bestand 382 FA Lehndorff,
+                            Nr. 374, Schlippenbachsche Briefe, u. a. von Wilhelm Graf von
+                            Schlippenbach, an Pauline (1828-1841).</note>
+                    </seg>Sie dauern mich beide so unaussprechlich in dem so unglücklich gestalteten
+                    ehelichen Verhältnis, während ich in meiner eigenen Ehe unbedingt das einzige
+                    wahre Glück des Lebens erkenne, dass ich keine Worte habe für den Ausdruck
+                    meines Mitgefühls. Möge der Himmel noch Ihren gegenseitigen Sinn leiten zu einer
+                    freundlichen Vereinigung, das ist mein heißester und dringendster Wunsch, in dem
+                    ich heute Ihrem ferneren verwandtschaftlichen Wohlwollen mich empfehle, mein
+                    hochgeehrtester Graf, als </p>
+				        <closer>
+					          <salute>Ihr ergebener Freund und Schwager</salute>
+					          <signed>Wilhelm Gr. Schlippenbach</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

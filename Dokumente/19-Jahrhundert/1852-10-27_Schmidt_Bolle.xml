@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ehb_pmd_py">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Herrmann Schmidt an Christian Ludwig Bolle. Angerburg, 27. Oktober 1852</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ehb_pmd_py</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 543, Bl. 4</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_y1b_xmd_py">Schmid, Herrmann (-)</persName>
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    <date when="1852-10-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gjh_zmd_py">Bolle, Christian Ludwig (-)</persName>
+                </correspAction>
+                <note>Christin Ludwig Bolle hatte 1852 die Vokation als Pfarrer der Filialkirche zu
+                    Doben erhalten, in: GStA PK, X. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                    904. - Der Entwurf einer Schulordnung für die Provinz Preußen war infolge des
+                    Landtagsabschiedes vom 3. Mai 1832 durch den Oberpräsidenten Theodor von
+                        <persName key="ed_q1t_d2f_4y">Schön</persName> unter Mitwirkung der vier
+                    Regierungen und Zuziehung einiger Abgeordneten der Kreisstände (u. a. Lehndorff)
+                    erarbeitet und durch das Kultusministerium wgeprüft worden, vgl. die Drucksache
+                    in: APO, Bestand 382 FA Lehndorff, Nr. 626, Bl. 29 ff. (4. Januar 1834).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/5/543/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Angerburg, 27. Oktober 1852</dateline>
+                </opener>
+                <p>Die Königliche Regierung hat den anliegenden <seg type="comment">
+                  <orig>Schuleinrichtungs-Rezess</orig>
+                  <note xml:id="nuyq_m4h_4cb">
+                     <note xml:id="na4f_b4d_py">Der Rezess <quote>Behufs Einführung der
+                                    Schulordnung vom 11. Dezember 1845 bei der hiesigen
+                                    Schule</quote> vom 8. September 1852 liegt der Akte bei. Am 14.
+                                März 1855 wurde § 7 hinsichtlich des Schulgeldes der Instleute
+                                aufgehoben und bestimmt, <quote>dass das Schulgeld nach wie vor auch
+                                    von <hi rendition="#u">jedem</hi> schulpflichtigen Kind der
+                                    Instleute zu entrichten ist</quote> (Bl.
+                        12).</note>
+                  </note>
+               </seg> von Gr. <placeName key="ed_pxt_cnh_1y">Steinort</placeName> bestätigt und soll derselbe im <seg type="comment">
+                  <orig>Schularchiv</orig>
+                  <note xml:id="nr3x_trt_gfb">Demzufolge gab es
+                            neben dem Familien- und dem Gutsarchiv weitere Teil-Archive in
+                            Steinort.</note>
+               </seg> aufbewahrt werden. Indem ich Euer Hochwürden um
+                    die gefällige Asservation ersuche, erbitte ich mir gleichzeitig eine darüber
+                    sprechende Bescheinigung. Zur Publikation der Bestätigung habe ich auf den 11.
+                    November d. M. 10 Uhr hier Termin anberaumt, und zu demselben auch den <seg type="comment">
+                  <orig>Lehrer <persName key="ed_bc1_knd_py">Puschke</persName>
+                  </orig>
+                  <note xml:id="nhbm_qsl_ngb">Vgl. Angerburger
+                            Landschulen. Dokumentation über die 77 Dorfschulen im Kreis
+                            Angerburg/Ostpreußen, Angerburg 1983, S. 356.</note>
+               </seg> vorgeladen.
+                    Euer Hochwürden bitte ich denselben an diesem Tage zu beurlauben. Gleichzeitig
+                    ersuche ich, den bestätigten und in diesem Termin noch zu verpflichtenden
+                    Ortsschulkassen-Rendanten <persName key="ed_bmk_nnd_py">Laschnick</persName> zu
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> die auf seine Verwendung
+                    Bezug habenden Papiere und Konfigurationen gefälligst zu überweisen.</p>
+				        <closer>
+                    <signed>Der <seg type="comment">
+                     <orig>Landrat Schmidt</orig>
+                     <note xml:id="nbdt_3sl_ngb">Zum Angerburger Landrat Schmidt vgl. <ref target="http://angerburg.net/schmidt.htm">http://angerburg.net/schmidt.htm</ref>
+                     </note>
+                  </seg>
+                        <lb/>An den Herrn Pfarrer Bolle Hochwürden, Rosengarten</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

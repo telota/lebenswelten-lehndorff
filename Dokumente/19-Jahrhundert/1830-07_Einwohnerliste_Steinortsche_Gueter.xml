@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_ojk_td2_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einwohnerliste der Steinortschen Güter. Steinort, Juli 1830</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_ojk_td2_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Weitere Einwohnerlisten in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 52;
+                        Einwohnerlisten und Untertanenverzeichnisse auch in den Wirtschaftsakten des
+                        Gutsarchivs in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                        318 (1743), Nr. 188 (1810), Nr. 215-255 (18./19. Jahrhundert). </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 53, 29 Blatt</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1830-07-01" to="1830-07-30" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <rs type="term" key="ed_dqm_4sf_hy">Seelentabelle</rs> von den Reichsgräflich
+                    Steinortschen Gütern <lb/>
+            </p>
+                <p>gefertigt im Monat Juli 1830 durch den Kassenführer <persName key="ed_thw_lrq_hlb">Rosentreter</persName>
+            </p>
+                <p>
+               <seg type="comment">
+                  <orig>
+                     <gap reason="insignificant"/>
+                  </orig>
+                  <note xml:id="ntb2_psj_p2b">Es folgt ein mehrseitiges namentliches Verzeichnis
+                            der Einwohner der Güter mit Angabe des Alters von Mann und Frau, der
+                            Zahl ihrer Kinder (männlich/weiblich, unter bzw. über 14 Jahre), des
+                            Gesindes und der Gehilfen (männlich/weiblich) und ggf. mit Bemerkungen
+                            über die persönlichen Verhältnisse und physischen
+                    Kräfte.</note>
+               </seg>
+            </p>
+                <table rows="3" cols="3">
+                    <row role="label">
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>I.</cell>
+                        <cell>Groß <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                        </cell>
+                        <cell>230 Seelen</cell>
+                    </row>
+                    <row>
+                        <cell>II.</cell>
+                        <cell>
+                     <placeName key="ed_x4d_jc2_gy">Amalienruh</placeName>
+                  </cell>
+                        <cell>9</cell>
+                    </row>
+                    <row>
+                        <cell>III.</cell>
+                        <cell>Klein <placeName key="ed_hyn_yzd_gy">Steinort</placeName>
+                  </cell>
+                        <cell>68</cell>
+                    </row>
+                    <row>
+                        <cell>IV.</cell>
+                        <cell>
+                     <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                        </cell>
+                        <cell>119</cell>
+                    </row>
+                    <row>
+                        <cell>V.</cell>
+                        <cell>
+                     <placeName key="ed_xzt_112_gy">Ziegelei Stawisken</placeName>
+                  </cell>
+                        <cell>20</cell>
+                    </row>
+                    <row>
+                        <cell>VI.</cell>
+                        <cell>
+                     <placeName key="ed_xpm_112_gy">Labab</placeName>
+                        </cell>
+                        <cell>135</cell>
+                    </row>
+                    <row>
+                        <cell>VII.</cell>
+                        <cell>
+                     <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                  </cell>
+                        <cell>46</cell>
+                    </row>
+                    <row>
+                        <cell>VIII.</cell>
+                        <cell>
+                     <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                  </cell>
+                        <cell>211</cell>
+                    </row>
+                    <row>
+                        <cell>IX.</cell>
+                        <cell>
+                     <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                  </cell>
+                        <cell>134</cell>
+                    </row>
+                    <row>
+                        <cell>X.</cell>
+                        <cell>
+                     <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                  </cell>
+                        <cell>238</cell>
+                    </row>
+                    <row>
+                        <cell>XI.</cell>
+                        <cell>
+                     <placeName key="ed_h1w_jc2_gy">Werder Upalten</placeName>
+                  </cell>
+                        <cell>3</cell>
+                    </row>
+                    <row>
+                        <cell>XII.</cell>
+                        <cell>
+                     <placeName key="ed_hzh_lc2_gy">Werder Sdorkowen</placeName>
+                  </cell>
+                        <cell>6</cell>
+                    </row>
+                    <row>
+                        <cell>XIII.</cell>
+                        <cell>
+                     <placeName key="ed_hcn_kc2_gy">Werder Wittfong</placeName>
+                  </cell>
+                        <cell>4</cell>
+                    </row>
+                    <row>
+                        <cell>XIV.</cell>
+                        <cell>
+                     <placeName key="ed_ohv_kf2_gy">Vorwerk Pristanien</placeName>
+                  </cell>
+                        <cell>547</cell>
+                    </row>
+                    <row>
+                        <cell>XV.</cell>
+                        <cell>
+                     <placeName key="ed_sc5_c12_gy">Dorf Pristanien</placeName>
+                  </cell>
+                        <cell>150</cell>
+                    </row>
+                    <row>
+                        <cell>XVI.</cell>
+                        <cell>
+                     <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                  </cell>
+                        <cell>134</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Summa</cell>
+                        <cell>1.561 Seelen</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

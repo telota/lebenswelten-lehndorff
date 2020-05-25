@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_jr4_nwz_gbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bankhaus Meyer Cohn an Carl Meinhard Graf von Lehndorff. Berlin, 2. Mai
+                    1878</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_jr4_nwz_gbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 302, Bl. 37</idno>
+                    </msIdentifier>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_iml_ywz_gbb">Bankhaus Meyer Cohn, Berlin</orgName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1878-05-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Am 14. Januar 1878 hatte sich <persName key="ed_tbp_tv3_kfb">Adolf von
+                        Kries</persName> an seinen <persName key="ed_zkm_whl_2y">Vetter</persName>
+                    gewandt (Bl. 34-35). Er hätte gehört, dass er <quote>in einzelnen Banken als
+                        Vorsitzender oder Aufsichtsrat oder sonst beteiligt</quote> sei. Er bat ihn
+                    um Rat, da er verschiedene Schulden durch eine Banken-Hypothek ablösen wolle, es
+                    ging um eine Summe von 40-50.000 Mark. Am 30. April hatte er anscheinend bereits
+                    6.000 Mark von Lehndorff erhalten (Bl. 36). Am 22. Juli bedankte sich Kries für
+                    weitere 1.000 Mark und legte <quote>die Zinsen von 44.000 Mark für zwei Monate
+                        mit 366,66 ein</quote>, die er zum 1. Januar 1879 nach <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> einzusenden versprach, wenn
+                    ihm nicht bis dahin ein anderer Ort angegeben werden würde.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 2. Mai 1878</dateline>
+					          <salute>Euer Hochgeboren</salute>
+                </opener>
+				        <p>benachrichtige ich auf das geehrte gestrige Schreiben ergebenst, dass ich mittels der
+                    heutigen Post für Ihre Rechnung </p>
+            <p>Mark 38.000 (achtunddreißigtausend Mark) </p>
+            <p>
+               <hi rendition="#u">                  6,75 Porto </hi>
+                    </p>
+            <p>Mark 38.006,75</p>
+            <p>an <seg type="comment">
+                  <orig>Herrn von Kries</orig>
+                  <note xml:id="nggz_fdx_f2b">
+                     <persName key="ed_tbp_tv3_kfb">Adolf von Kries </persName>war der Cousin
+                                <persName key="ed_wms_mh2_cy">Anna von Lehndorffs</persName>,
+                                <persName key="ed_fmw_cw3_kfb">Leonide von Kries</persName> eine
+                            geb. Gräfin von Schlippenbach, vgl. APO, Bestand 382 FA Lehndorff, Nr.
+                            388 und 389.</note>
+               </seg> nach <placeName key="ed_ryz_22x_f2b">Bangschin</placeName> portofrei abgesandt und Ihr Konto mit dem Betrage
+                    belastet habe. </p>
+            <p>Hinsichtlich der Restsendung
+                    erwarte ich s. Zt. Ihre Ordre. </p>
+            <p>Ich nehme noch Bezug auf die Einlage und
+                    zeichne</p>
+				        <closer>
+					          <salute>Hochachtungsvoll ergebenst</salute>
+					          <signed>Meyer Cohn</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

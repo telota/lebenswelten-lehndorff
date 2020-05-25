@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_q4v_jkg_nbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amalie Caroline Gräfin von Lehndorff an ihren Sohn Carl Friedrich
+                    Ludwig. Königsberg, 2. März 1825</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_q4v_jkg_nbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 386, Bl. 35-35v </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (1751-1830)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1825-03-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, (Christian Friedrich) Carl (Ludwig)
+                        Graf von (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Aus finanziellen Gründen hatte der <quote>Altgraf</quote>
+                    <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich von Lehndorff</persName>
+                    die Verbindung des Sohnes mit einer Hofdame der Königin über viele Jahre
+                    abgelehnt, vgl. Schultze, Lebensbild, S. 79.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 2. März 1825</dateline>
+                </opener>
+				        <p>Ma! Gott sei Lob und Dank für das Kind und Dir für das Ma. Kein passenderes ästhetischeres
+                    Wort hättest Du wählen können, als das alte, etwas frivole Ma. - Ich sah, ich
+                    hörte Dich es aussprechen in dem glücklichen Augenblick. - Ein <seg type="comment">
+                  <orig>Mädchen</orig>
+                  <note xml:id="nax5_h3l_wcb">Am 27.
+                            Februar 1825 war <persName key="ed_mrr_p22_b2b">Pauline</persName> in
+                                <placeName key="ed_uyl_j3c_gy">Danzig</placeName> geboren
+                            worden.</note>
+               </seg> also! aber sie sei willkommen, sie hat die Bahn
+                    gebrochen, Brüder werden nachkommen und gewiss schneller und leichter. Ach wie
+                    wohl tut mir das Mitgefühl der Wonne der lieben <persName key="ed_tcp_g3l_2y">Pauline</persName> nach all der überstandenen Marter. </p>
+            <p>Wolle doch Gott meinen innigen Wunsch und meine sehnlichste Hoffnung erfüllen, <seg type="comment">
+                  <orig>dass von keinen Krämpfen, Ohnmachten und dergleichen
+                            nie mehr die Rede sei.</orig>
+                  <note xml:id="nxnd_txp_1fb">Zur deren
+                            Erkrankung siehe die Briefe <persName key="ed_k4z_jgl_2y">Lehndorffs</persName> an <persName key="ed_uwg_cgv_22b">Cecilie von
+                                Below</persName> in: GStA PK, VIII. HA C Nr. 31, Bd. 4, Bl. 1
+                            ff.</note>
+               </seg> Gestern morgen, als ich Deinen Brief erhielt, liefen
+                    die Kinder gleich zu <persName key="ed_cpm_33y_ydb">Schliebens</persName>, wo
+                    sie mit Jauchzen empfangen wurden und die auch sogleich zu mir kamen und die
+                    innigste Teilnahme bezeugten. <persName key="ed_stk_x3l_wcb">Aurora</persName>
+                    kam auch mehr fröhlich als herzlich. <seg type="comment">
+                  <orig>
+                     <persName key="ed_mvs_2f2_b2b">Borstells</persName>
+                  </orig>
+                  <note xml:id="ncl4_vfr_ddb">Ein hier nicht edierter privater Brief an
+                                <persName key="ed_k4z_jgl_2y">Lehndorff</persName> vom 4. Oktober
+                            1823 in: APO, Bestand 382 FA Lehndorff, Nr. 332, Bl.
+                    23-24.</note>
+               </seg>, <seg type="comment">
+                  <orig>Frau von <persName key="ed_b2n_fn2_b2b">Schön</persName>
+                  </orig>
+                  <note xml:id="nhqr_bjl_wcb">Amalie von Schön, geb. von Langenau</note>
+               </seg>,
+                        <persName key="ed_lvm_4jd_p2b">Hansens</persName> und mehrere ließen
+                    gratulieren, aber keiner kam. Von allen, zu denen ich geschickt habe, hat mir
+                    die Antwort des Professors <persName key="ed_kvh_djl_wcb">Henne</persName> am
+                    besten gefallen. Ich war im Zweifel, ob er die Meldung würde Hoch oder Übel
+                    deuten, <persName key="ed_vqv_qp5_vcb">Tochtermann</persName> aber sagte mir, er
+                    hätte ihn selbst gesprochen, sehr vergnügt ausgesehen und gesagt, er freue sich
+                    noch mehr, als wenn seine eigene Frau entbunden wäre, und heute morgen ist er
+                    schon hier gewesen, Glück wünschen. <seg type="comment">
+                  <orig>Er fragte, ob
+                            schon für eine gute Amme gesorgt wäre, und als ich ihm sagte, dass die
+                            Mutter selbst Amme sein wolle, sah er ein wenig bedenklich dazu
+                            aus.</orig>
+                  <note xml:id="nywt_hnq_hlb">Vgl. Manz, F., Manz, I., Lennert,
+                            T., Zur Geschichte der ärztlichen Stillempfehlungen in Deutschland, in:
+                            Monatsschrift Kinderheilkd 145 (1997), S. 572-587.</note>
+               </seg> Doch
+                    sagte er, sie könne es versuchen, es würde sich bald zeigen, ob sie es leisten
+                    könne oder nicht, auch sagte er, er habe Dir heute schon geschrieben. - Auch zu
+                    Graf <persName key="ed_abw_lg2_b2b">Lottum</persName> habe ich geschickt,
+                    sagend, dass ich ihm als Deinem <hi rendition="#u">Freund</hi> und <hi rendition="#u">Gönner</hi> dies für Dich so frohe Ereignis melde. </p>
+            <p>Ich glaube gewiss, er wird mich kommen gratulieren, denn das ist ein Mann, der da weiß, was sich
+                    schickt. Die anderen, die nicht kommen und nichts schicken, sind mir nur - <hi rendition="#u">Pomade</hi>. Die gute <persName key="ed_tkh_mjl_wcb">Hallmann</persName> hat nun alle Hände voll zu tun. Gottlob, dass sie jetzt
+                    gesünder und stärker ist wie gewöhnlich. Was die Pflege betrifft, hast Du ja
+                    eine recht erfahrene in Frau von <persName key="ed_n1h_qjl_wcb">Almandi</persName>, die ich von vielen habe sehr rühmen hören. </p>
+            <p>
+               <persName key="ed_lq5_jj5_sy">Dönhoff</persName> soll heute hereinkommen und an <persName key="ed_pv1_b4g_hy">Heinrich</persName> habe ich heute geschrieben. Liebe
+                    Kinder, ich bitte Euch alle beide und besonders Dich, lieber Carl, spielt nicht
+                    zu viel mit dem Kinde. Haltet es warm, dass es in derselben Temperatur bleibe
+                    wie im Mutterleibe, weckt es nie aus dem Schlaf, denn Schlaf ist das erste
+                    Bedürfnis der kleinen Kinder, dann gedeihen sie, werden eher weiß und bleiben
+                    nicht solange <hi rendition="#u">Krebs</hi>. <persName key="ed_vqv_qp5_vcb">Tochtermann</persName> hat beliebt, meinen letzten Brief nebst Päckchen
+                    einige Stunden später zur Post zu bringen, als ich ihn abgefertigt hatte, daher
+                    wirst Du ihn wohl erst mit diesem zugleich erhalten. - Sonnabend hoffe ich von
+                    Dir oder von der <persName key="ed_tkh_mjl_wcb">Hallmann</persName> wieder von
+                    dem Fortgang der Gesundheit Nachricht zu erhalten, lasst mir es nur nicht daran
+                    fehlen, wenigstens in der ersten Zeit.</p>
+				        <closer>
+					          <salute>Nun Gottes Segen über Euch! nach dem innigsten Wunsch Eurer treuen Mutter</salute>
+					          <signed>Lehndorff</signed>
+				        </closer>
+            </div>
+            <postscript>
+                <p>Dass das Kindlein Dir gleicht, ist eben kein Fehler für mich, doch weil es ein
+                    Mägdelein ist, hätte es freilich besser getan, dem Mütterlein zu gleichen. <seg type="comment">
+                  <orig>
+                     <persName key="ed_q32_qn2_b2b">Emil</persName>
+                  </orig>
+                  <note xml:id="nonw_qkl_wcb">Graf von
+                            Dönhoff.</note>
+               </seg> wäre schon bei Dir, aber Geschäfte beim
+                    Stadtgericht halten ihn zurück. Sage uns doch etwas vom kleinen <gap reason="illegible"/>, er muss ja jetzt wieder in <placeName key="ed_uyl_j3c_gy">Danzig</placeName> sein.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

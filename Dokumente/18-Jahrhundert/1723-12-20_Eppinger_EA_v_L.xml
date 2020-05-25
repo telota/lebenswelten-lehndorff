@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_bnz_pkg_v1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Carl von Eppingen an Ernst Ahasverus Graf von Lehndorff. Jagodnen, 20.
+                    Dezember 1723</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_bnz_pkg_v1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 684, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_kyc_t45_1bb">Eppingen, Johann Carl von (-)</persName>
+                    <placeName key="ed_z12_c1m_z1b">Jagodnen</placeName>
+                    <date when="1723-12-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wtg_nyl_2y">Lehndorff, Ernst Ahasverus Graf von
+                        (1688-1727)</persName>
+                </correspAction>
+                <note>Der Akte liegt der am 18. April 1724 in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> geleistete Lehnseid des Michael <persName key="ed_p1t_j1m_z1b">Bannasch</persName> in polnischer Sprache bei. Vgl.
+                    auch die Patrimonialgerichtsakten in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                    Lehndorff-Steinort, Nrn. 245 ff. (Entlaufen von Untertanen) und Nr. 701
+                    (Vereidigung von Untertanen). Erst nach einem Reskript vom 23. Februar 1743
+                    waren Bevölkerungslisten zu führen zur <quote>Vermeidung des Weggehens von
+                        Untertanen aus dem Land</quote>, in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                    Lehndorff-Steinort, Nr. 462. Ab 9. Mai 1739 war die Aufnahme entlaufener
+                    Untertanen an anderen Orten ohne Absprache verboten, ebd., Nr. 464 und Nr. 133
+                    (Festnahme des entlaufenen Knechts Michael Schönfeldt).</note>
+            </correspDesc>
+            <abstract>
+                <p>Johann Carl von <persName key="ed_kyc_t45_1bb">Eppingen</persName> bestätigt
+                    Ernst Ahasverus Graf von <persName key="ed_wtg_nyl_2y">Lehndorff</persName> den
+                    Erhalt von 60 Fl. und cediert diesem sein Recht der <rs type="term" key="ed_pvq_cp5_1bb">Erbuntertänigkeit</rs> für Michael <persName key="ed_p1t_j1m_z1b">Bannasch</persName>, Sohn des Radmachers Woiteck
+                        <persName key="ed_kxp_y45_1bb">Bannasch</persName>. Dieser war ihm
+                    entlaufen, hatte sich in königliche Dienste begeben und in der von
+                    Lehndorffschen Kompagnie im Finckensteinschen Regiment gedient. Entsprechend des
+                    königlichen Befehls hätte er danach auf die Güter des Eppingen zurückkehren
+                    müssen, begab sich aber nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Er habe erklärt, würde er zur Rückkehr gezwungen werden,
+                    würde er wieder entlaufen. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

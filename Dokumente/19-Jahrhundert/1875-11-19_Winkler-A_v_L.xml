@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_iqs_rt1_4fb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wojciech Kȩtrzyński an Anna Gräfin von Lehndorff. Lemberg, 19. November
+                    1875</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_iqs_rt1_4fb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Herkunft/Genealogie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 131, Bl. 79-79v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_my4_prj_kfb">Kȩtrzyński, Wojciech (1838-1918)</persName>
+                    <placeName key="ed_vwz_151_4fb">Lemberg</placeName>
+                    <date when="1875-11-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von (Basedow
+                        17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Am 12. März 1876 (Bl. 80-81) dankte er für ihm zugesandte Bücher und
+                    Dokumente. Letztere hätten <quote>manch neues Resultat</quote> ergeben, auch
+                    wenn noch nicht alle Schwierigkeiten beseitigt sind, würden <quote>weitere
+                        Forschungen endlich zum gewünschten Ziele führen</quote>. Dem Brief fügte er
+                    eine <quote>neue Genealogie der Stangonen</quote> bei und bat um Austausch. Anna
+                    Lehndorff sollte ihm schreiben, ob es sinnvoll wäre, nach Königsberg zu kommen,
+                    oder ob Regierungsrat Cramer die Forschungen im Archiv zu einem Ende bringen
+                    könne. Er empfahl <quote>Dr. Franz Schulz in Kulm</quote>, obwohl er ihn für
+                    einen <quote>sehr oberflächlichen und auch nicht sehr gewissenhaften Menschen
+                        halte</quote>, wie sie aus seiner und Dr. Toeppens Replik im letzten Heft
+                    der Altpreußischen Monatsschrift hervorgehe. Sie solle ihn um <quote>Auskunft
+                        über die Legendorf-Stange</quote> bitten, sofern er solche in Archiven oder
+                    Handschriften fände. Zur Genealogie der Stangonen auch dessen Brief vom 28. März
+                    1876 (Bl. 82-83v).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lemberg, 19. November 1875</dateline>
+					          <salute>Gnädigste Frau Gräfin!</salute>
+                </opener>
+				        <p>In meinem letzten Brief, den ich an Sie von Neumark aus richtete, teilte ich Ihnen bereits
+                    mit, dass meine dortigen Forschungen vollständig resultatlos blieben. Dem
+                    gegenüber bin ich nun wieder in der Lage, eine kleine Mitteilung machen zu
+                    können. <note type="editorial">Diese betrifft <persName key="ed_v1z_fdk_hlb">Paul von Logendorff</persName>, der sich 1453 und auch noch 1458 in Rom
+                        befand.</note> Haben Sie, gnädigste Frau Gräfin, <seg type="comment">
+                  <orig>Ledeburs Archiv</orig>
+                  <note xml:id="nzny_bd3_jlb">Ledebur,
+                            Leopold Freiherr von (Hrsg.), Allgemeines Archiv für die Geschichtskunde
+                            des preußischen Staates, Berlin 1830 - 1836.</note>
+               </seg> durchgesehen?
+                    Ich hege noch immer die Hoffnung, dort etwas über <persName key="ed_wtm_b4m_s3b">Jacob von Legendorff</persName> zu finden. Im letzten Heft von <seg type="comment">
+                  <orig>Perlbachs Regesten</orig>
+                  <note xml:id="ns3h_md3_jlb">Perlbach, Max (Hrsg.), Preussische Regesten bis zum Ausgang des 13.
+                            Jahrhunderts, Königsberg 1876.</note>
+               </seg> habe ich nichts gefunden,
+                    was uns anderweit nicht schon bekannt gewesen wäre. </p>
+                <p>An meinen Augen habe ich leider wieder längere Zeit gelitten, bin aber jetzt
+                    vollständig gesund.</p>
+				        <closer>
+					          <salute>Es empfiehlt sich Ihnen Ihr ergebenster</salute>
+					          <signed>Dr. v. Kȩtrzyński </signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

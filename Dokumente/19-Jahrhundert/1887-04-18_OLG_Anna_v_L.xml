@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mqq_bqp_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Königliches Oberlandesgericht an Anna Gräfin von Lehndorff. Königsberg 18. April 1887</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mqq_bqp_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 337, Bl. 64-65v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_vht_pp1_tcb">Königliches Oberlandesgericht zu
+                        Königsberg</orgName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1887-04-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                </correspAction>
+                <note>Am 13. April 1887 hatte <persName key="ed_nml_dw2_cy">Heinrich von
+                        Lehndorff</persName> stellvertretend für Graf <persName key="ed_ik3_ckz_2y">Carol</persName> auf einer Art „Formblatt“ (in: APO, Bestand 382, Nr. 2,
+                    Bl. 1-2) eine vom OLG gewünschte Erklärung abgegeben und die <quote>dem
+                        Fideikommiss <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                        beizufügenden Verzeichnisse</quote> der Bibliothek, Medaillen, Münzen und
+                    Raritäten, die Gutsinventare von Steinort mit den Vorwerken sowie die
+                    Original-Pachtverträge über die Vorwerke <placeName key="ed_hyn_yzd_gy">Klein
+                        Steinort</placeName>, <placeName key="ed_xzt_112_gy">Stawisken</placeName>,
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, <placeName key="ed_xjg_d12_gy">Stobben</placeName>, <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>,
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName> übermittelt. Darin
+                    informiert er auch, dass die Zuschreibung des Grundstücks <placeName key="ed_icf_3tm_zcb">Fürstenau</placeName> zum Fideikommiss durch <persName key="ed_ik3_ckz_2y">Carol von Lehndorff</persName> erfolgen werde. Eine
+                    Abschreibung der Parzelle Rosengarten sei angeordnet, damit diese dem
+                    Fideikommiss einverleibt werden könne. Zudem legte er den
+                        <quote>Familienbeschluss</quote> vor, der die <quote>Indemnität bei Kriegs-
+                        und Aufruhrschädigung der Verzeichnisse 1 bis 3 berührt und dem königlichen
+                        Tribunal zur gütigen Bestätigung unterbreitet wird</quote>. - Am 13. Januar
+                    1888 gab er mit seinem Bruder <persName key="ed_sjx_pfm_2y">Georg von
+                        Lehndorff</persName>f die gewünschten notariell beglaubigten Erklärungen
+                    hinsichtlich der Bibliothek und der Bücherschenkung Anna von Lehndorffs ab, in:
+                    LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 337, Bl. 77-77v.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 18. April 1887</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>In der Graf Lehndorffschen Fideikommisssache finden wir auf die von Euer Hochgeboren an den
+                    unterzeichneten Kanzler und Oberlandesgerichtspräsidenten gerichtete,
+                    ressortmäßig von dem Ersten Senate des Oberlandesgerichts zu erledigende Eingabe
+                    vom 13. April 1887 Folgendes ergebenst zu bemerken: <list>
+                        <item>1. Der Pachtvertrag über <placeName key="ed_s3k_b12_gy">Taberlack</placeName> vom 6. Juli 1854 ist nur bis zum 1. Juli 1864
+                            geschlossen. Ob derselbe verlängert worden oder ein neuer Vertrag
+                            geschlossen worden, konstatiert nicht. Hierüber sehen wir einer
+                            gefälligen Aufklärung entgegen.</item>
+                        <item>2. Die Vorwerke <placeName key="ed_nkz_b12_gy">Stawken</placeName> und
+                                <placeName key="ed_xjg_d12_gy">Stobben</placeName> sind nach dem Tod
+                            des Stifters verpachtet. In § 4 des Pachtvertrages über Stobben hat der
+                            Pächter sich zur Bestellung einer Kaution von 6.000 M in Ostpreußischen
+                            Pfandbriefen verpflichtet. Nach Artikel 28 der Stiftungsurkunde muss die
+                            Kaution den wirtschaftlichen Zustand und stiftungsmäßigen Beilass
+                            sichern und bei der Fideikommissbehörde deponiert werden. Die Kaution
+                            muss ferner nicht nur für den gegenwärtigen Fideikommissbesitzer,
+                            sondern auch zur Sicherstellung seiner Nachfolger bestellt werden.
+                            Demgemäß ersuchen wir Euer Hochgeboren:<list>
+                                <item>a. durch das Gutachten des zuständigen Kreistaxators
+                                    nachzuweisen, dass die Kaution von 6.000 M hinreichend ist, um
+                                    den wirtschaftlichen Zustand und stiftungsmäßigen Beilass von
+                                        <placeName key="ed_xjg_d12_gy">Stobben</placeName> zu
+                                    sichern,</item>
+                                <item>b. die Kaution bei der hiesigen Regierung zu hinterlegen und
+                                    uns die Hinterlegungsquittung einzureichen,</item>
+                                <item>c. die notarielle Erklärung des Pächters herbeizuführen, dass
+                                    er die Kaution in Ergänzung des § 4 des Pachtvertrages auch zur
+                                    Sicherung des etwaigen Fideikommissnachfolgers bestelle.</item>
+                            </list>
+                  </item>
+                    </list>
+            </p>
+                <p>
+                    <list>
+                        <item>Der Pächter von <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                            hatte nach dem Pachtvertrag vom 30. Juni 1856 eine Kaution nicht zu
+                            bestellen. Bei Erneuerung des Vertrages hätte indessen der Artikel 25
+                            der Stiftungsurkunde nicht außer Acht gelassen werden sollen. Nunmehr
+                            muss nachträglich die Bestellung der erforderlichen Kaution veranlasst
+                            werden. <lb/>Übrigens stellen wir zu erwägen anheim, ob es nicht
+                            zweckmäßiger sein dürfte, die beiden Pachtverträge über Stobben und
+                            Stawken der Genehmigung der Herren Anwärter zu unterbreiten, machen auch
+                            darauf aufmerksam dass nach § 4 der Pachtverträge über Stawken,
+                            Pristanien, Serwillen, Stobben und Taberlack die Ehefrauen der Pächter
+                            für die Verpflichtungen ihrer Ehemänner Bürgschaft leisten
+                            sollen.</item>
+                        <item>3. In den <seg type="comment">
+                        <orig>Verzeichnissen der Bibliothek und
+                                    der Karten</orig>
+                        <note xml:id="ndjt_3tm_2bb">Nicht überliefert.
+                                    Einzelne Buchtitel lassen sich aus Quittungsbelegen
+                                    rekonstruieren, beispielsweise Hellwing, Lithographia
+                                    Angerburgica (20 M), Hof-Kalender 1878 (6,60 M), Gräfliches
+                                    Taschenbuch 1878 und 1883 (7,60 und 8 M), mehrere Bände
+                                    Poschinger, Preußen im Bundestag (je 18,50 M), Salings
+                                    Börsenjahrbuch 1882 und 1883 (30 M), Grimm, Michelangelo (289
+                                    M), Rangliste 1883 (8,50 M) etc., LASA, StA L, Bestand 21950 FA
+                                    Lehndorff, FA Lehndorff, Nr. 262. </note>
+                     </seg> hätten auch die
+                            beiden Herren Anwärter die Erklärung, dass bei einem Verlust der Wert im
+                            Buchhandel maßgebend sein solle, unterschreiben müssen, da sie nach
+                            Artikel 33 der Stiftungsurkunde die einzelnen Preise durch ihre
+                            Unterschrift zu genehmigen gehalten sind. Euer Hochgeboren wollen daher
+                            gefälligst die nachträgliche Unterzeichnung der gedachten Erklärung in
+                            beglaubigter Form durch die Herren Anwärter herbeiführen.</item>
+                        <item>4. Wenn endlich Euer Hochgeboren erklärt haben, dass Sie einzelne
+                            Bücher der Fideikommissbibliothek vermachen, so können wir dieser
+                            Erklärung eine Bedeutung nicht beilegen. Denn ein Vermächtnis ist eine
+                            Zuwendung von Todes wegen; die von Euer Hochgeboren augenscheinlich
+                            beabsichtigte Schenkung aber bedarf zu ihrer Gültigkeit der
+                            gerichtlichen Form und Seitens der beschenkten Familie in der Form eines
+                            Familienschlusses der erklärten Annahme derselben. <lb/>
+                     <seg type="comment">
+                        <orig>Die überreichten 7  Pachtverträge und das
+                                    Verzeichnis der Bibliothek erfolgen zurück.</orig>
+                        <note xml:id="nlyj_3sh_h2b">Vgl. die Anmerkung oben, liegen der Akte
+                                    nicht bei.</note>
+                     </seg>
+                  </item>
+                    </list>
+                </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed>Königliches Oberlandesgericht <lb/>I. Civil-Senat <lb/>
+                  <persName key="ed_ykn_l1y_42b">Wolleben</persName>
+               </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

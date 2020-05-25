@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_vqg_kdq_51b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Rhenius an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 26. Mai 1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_vqg_kdq_51b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 379, Bl. 137-138v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bpl_fsj_gy">Rhenius, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1784-05-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Zur Einrichtung der Kreisjustitiarien vgl. APO, Bestand 382 FA Lehndorff, Nr.
+                    570 (1782/83). Siehe auch: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 380, Bl.
+                    49-49v, Schreiben eines Bewerbers um die Justizratsstelle in Angerburg,
+                    Heilsberg, 22. August 1784. - (Johann) George <persName key="ed_sgc_2wf_2y">Leitner</persName> war Justizrat und Landschafts-Syndikus in Angerburg,
+                    Freimaurer der St. Johann-Loge zum Preußischen Adler, vgl. Almanach für
+                    Freymaurer aufs Jahr 580 ¾, Berlin 1805, S. 67. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 26. Mai 1784</dateline>
+					          <salute>Hochwürdiger und Hochgeborener Reichsgraf <lb/>Gnädigster Graf und Herr!</salute>
+                </opener>
+				        <p>Ew. Hochgeboren gnädigstes Schreiben aus <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    hat allhier eine allgemeine Freude verursacht, <seg type="comment">
+                  <orig>da
+                            Höchstderen Reise so glücklich beendiget worden,</orig>
+                  <note xml:id="nc2g_2l2_zdb">Im 23. April hatte Lehndorff mit der ganzen
+                            Familie <placeName key="ed_pxt_cnh_1y">Steinort</placeName> in Richtung
+                                <placeName key="ed_xrv_gwb_by">Berlin</placeName> verlassen, um hier
+                            die Angelegenheiten seiner verstorbene Schwiegermutter zu klären, vgl.
+                            die Beschreibung der Reise in: Schmidt-Lötzen, Nachträge, Bd. 2, S. 353
+                            ff. </note>
+               </seg> der Höchstgütige Gott sei herzinnig gepriesen, der
+                    auch diese Beschwerden so glücklich überstehen helfen. <lb/>Zwei Mal musste nach
+                        <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> reisen, ehe ich Herrn
+                        <persName key="ed_sgc_2wf_2y">Leitner</persName> zuhause gefunden, dahero
+                    nicht im Stande war, anbefohlenermaßen mit rückgehender Post zu antworten. Herr
+                    Probst, dem ich wie auch H. Kaplan die beglückte Ankunft in Berlin meldete,
+                    waren darüber sehr erfreut und versichern den tiefsten untertänigsten Respekt.
+                    <lb/>Dem H. <persName key="ed_sgc_2wf_2y">Leitner</persName> ist zwar der letzte
+                    Kontrakt durch Herrn Regierungsrat <persName key="ed_r3s_ymw_mbb">Glave</persName> nicht dotiert worden, letzterer hat ihn aber doch dahin
+                    vermahnt, dass er einen anderen Kontrakt verfertigen müsse. <seg type="comment">
+                  <orig>Leitner</orig>
+                  <note xml:id="nbsg_smr_bbb">Der
+                            Hofgerichtsreferendar und Angerburger Stadtrichter Johann Georg Leitner
+                            wurde Mitte Oktober 1784 als Interims-Justitiar für die Steinortschen
+                            Güter durch das Insterburger Hofgericht ernannt und bestätigt, vgl.
+                            LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 70; Nr. 387, Bl. 157-157v
+                            (Brief von Rhenius an Lehndorff, 18. Oktober 1784); APO, Bestand 382 FA
+                            Lehndorff, Nr. 54, Bl. 5-6. Zu Leitner: Braumüller, Bernhard, Angerburg
+                            von A-Z. Ein Nachschlagewerk über den Kreis Angerburg, 4. Aufl.,
+                            Rotenburg (Wümme) 2008, S. 448; Pfeiffer, Erich, Der Kreis Angerburg.
+                            Ein ostpreußisches Heimatbuch, 2. Aufl., 1998, S. 93, 516. </note>
+               </seg>
+                    ist wohl nicht abgeneigt, das hiesige Justitiariat auch nach dem ersten Kontrakt
+                    zu übernehmen, zweifelt aber, dass ihn das Hofgericht auf den ersten Kontrakt
+                    bestätigen wird, besonders, da Herr <persName key="ed_r3s_ymw_mbb">Glave</persName> die Einführung des Kreis-Justitiariats noch gar zu gerne
+                    durchzuführen Willens ist, und würde die Bestätigung schwerlich eher zu erhalten
+                    sein, als bis dem <orgName key="ed_myk_cjr_gbb">Hofgericht zu
+                        Insterburg</orgName> durch Ihro Exzellenz dem Herrn Großkanzler aufgegeben
+                    würde, denen hiesigen Gütern ohne Beitritt zum Kreis-Justitariat ein
+                    vorgeschlagenes tüchtiges Subjekt als Justitiarius zu bestätigen, wogegen auch
+                    nichts erhebliches eingewendet werden kann, da das <orgName key="ed_hln_rnw_mbb">Königsbergsche Hofgericht</orgName> dieses in seinem ganzen Briefe
+                    bewilligt hat, und diese Güter mit allem Recht eine gleiche Behandlung als der
+                    Adel des Königsbergschen Departements verlangen können. <seg type="comment">
+                  <orig>Wäre es nur irgend möglich, das Ew. Hochgeboren durch Herrn
+                            Großkanzler Exzellenz eine Verfügung an das Insterburgsche Hofgericht zu
+                            bewirken geruhen möchten,</orig>
+                  <note xml:id="nfyd_k42_zdb">Vgl.
+                            Schmidt-Lötzen, Nachträge, Bd. 2, S. 368.</note>
+               </seg> dass der neue
+                    Richter zu <placeName key="ed_h35_jqh_my">Drengfurth</placeName>, H. <persName key="ed_rzn_5nw_mbb">Prziborowsky</persName>, eine Anweisung erhielt, ad
+                    interim die Justizpflege allhier zu besorgen, bis Hochdieselben returnieren, so
+                    könnte man doch auch diesen Mann kennenlernen. H. <persName key="ed_sgc_2wf_2y">Leitner</persName> scheint mir doch nur wenig Kopf zu haben, und es
+                    ereignen sich doch auch zuweilen Vorfälle, da es sehr nützlich, wenn der
+                    Justitiarius ein Mann von Kopf ist, besonders jetzt, da es so schwer fällt, den
+                    einmal bestätigten Justitiarius wieder los zu werden. Viel besser würde sich ein
+                    Richter zu <placeName key="ed_h35_jqh_my">Drengfurth</placeName> für hiesigen
+                    Hof schicken, weil er als Richter unter dem<orgName key="ed_hln_rnw_mbb">
+                        Königsbergschen Hofgericht </orgName>steht, dahero von dem <orgName key="ed_myk_cjr_gbb">Insterburgschen Hofgericht</orgName> nicht soviel als
+                    dem <placeName key="ed_hz1_4wl_2y">Angerburgschen</placeName> zu befürchten hat.
+                    <lb/>Der blessierte Knecht wird bald besser werden, den anderen, der ihn aus
+                    Mutwillen beschädigt, zur Bestrafung in Fesseln zu legen, habe mir nicht
+                    getrauen wollen, da dieses leicht als eine Irregularität in der Justizpflege
+                    angesehen und Herr <persName key="ed_r3s_ymw_mbb">Glave</persName>, der auf
+                    solche hier sich ereignenden Vorfälle gewiss ein wachsames Auge hat, es zum
+                    Vorwand nehmen könnte, unangenehme und nachteilige Bemerkungen zu machen. <seg type="comment">
+                  <orig>
+                     <lb/>Der Zimmermeister <persName key="ed_rbb_d4w_mbb">Bräse</persName> hat mit mir sehr deutlich und ausführlich über die
+                            großen Türen in dem Speicher gesprochen und mich dringend gebeten, Ew.
+                            Hochgeboren nochmals untertänigst zu befragen, ob solche nicht gewölbt
+                            sein könnten, weil es der Festigkeit des Gebäudes und besonders derer
+                            Balken, die auf den Türen liegen, sehr zuträglich wäre. Die Maurer
+                            sollen nach Pfingsten hier eintreffen, und dann wünschte ich Ew.
+                            Hochgeboren gnädigen Befehl darüber zu erhalten.</orig>
+                  <note xml:id="nhcd_bl2_zdb">Zum Bau des Speichers vgl. Schmidt-Lötzen,
+                            Nachträge, Bd. 2, S. 354 f.</note>
+               </seg>
+                    <lb/>Vorige Woche hatte der gute Herr von der <persName key="ed_sjq_h4w_mbb">Milbe</persName> das Unglück, dass in des Hofmanns Haus und der Speicher in
+                        <gap reason="illegible"/> mit der ganzen Sommersaat, die er nur Tags vorher
+                    aus <placeName key="ed_njt_m4w_mbb">Glubenstein</placeName> holen lassen, wie
+                    auch seinen Vorrat aus anderem Getreide, durch Feuer verloren. Dieses war durch
+                    den schlechten Schornstein in des Hofmanns Haus entstanden, und wenn bei dem
+                    Sturm es der gütigen Gott nicht beschützt, hätte leicht der ganze Ort in Asche
+                    gelegt werden können. Bei solchen Vorfällen vernehme ich mit dankerfüllter Seele
+                    die Güte Gottes, die ähnliche Unglücksfälle, die auch durch das alte Brauhaus
+                    leicht hätten entstehen können, in Gnaden von uns entfernt hat. Die hiesige
+                    Brenn- und Brauerei geht dem Anfänger sehr gut vonstatten, er führt sich dabei
+                    auch recht sehr gut. Vor einigen Tagen hatte er ganz ohne seine Schuld das
+                    Unglück, sich einen Fuß zu verbrühen, es besserte sich aber Gottlob schon jetzt
+                    mit ihm. In der Zeit, da er nicht aus der Stube gehen konnte, hat mein Martin
+                    die Brau- und Brennerei sehr gut in Acht genommen, auch schon ganz allein
+                    vortreffliches Malz gemacht, er erinnerte sich sehr oft an Ew. Hochgeboren, als
+                    Hochdieselben noch auf der Reise waren, und sagte Abends zu mir, wo mögen denn
+                    nun unser lieber Herr Graf schlafen. <lb/>Der Garten ist in solcher schönen und
+                    reinlichen Ordnung, dass es ein Vergnügen ist, ihn zu sehen. Die Gräben habe
+                    durch den <persName key="ed_jf1_djc_tcb">Voss</persName> mit einer Harke reine
+                    machen lassen, beim Hopfen machte er alles verkehrt, ich entdeckte es aber immer
+                    noch früh genug, um es redressieren zu können, und habe ihn jetzt dem Brosch
+                    übergeben. Ew. Hochgeboren geruhten letzthin bei Gelegenheit dero Verlangen zu
+                    äußern, den <seg type="comment">
+                  <orig>Gärtner </orig>
+                  <note xml:id="nlqz_crl_gfb">Kleinbauer ohne Ackerland, nur mit einem Garten. Die Abhängigkeit
+                            reichte bis zur Leibeigenschaft. Siehe hierzu auch Dönhoff, Marion,
+                            Entstehung und Bewirtschaftung eines ostdeutschen Großbetriebes. Die
+                            Friedrichsteiner Güter von der Ordenszeit bis zur Bauernbefreiung,
+                            Königsberg 1935, S. 78 f.</note>
+                    </seg>
+               <persName key="ed_old_v4w_mbb">Brosch</persName> auf eine andere Art
+                    unterzubringen. Jetzt ist dazu eine schickliche Gelegenheit. Schon im Winter
+                    hatte ich für das Vorwerk <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                    mit einem Pachthofmann von der Frau Generalin v. <persName key="ed_tcf_wqw_mbb">Lossow</persName>, der ein Abzugs-Attest mitbrachte, kontrahiert, jetzt
+                    schickt mir die Frau Generalin den Kontrakt zurück und schreibt, dass ihr der
+                    Mann soviel schuldig, dass all sein Vermögen zur Bezahlung nicht hinlänglich
+                    ist, sie könnte ihn also deshalb nicht ziehen lassen. Da nun bis zum 10. Juni
+                    keinen anderen ausmitteln kann, und <persName key="ed_old_v4w_mbb">Brosch</persName> nicht abgeneigt ist, diese Kuhpacht zu übernehmen, werde
+                    Ew. Hochgeboren hohe Genehmigung erwarten. <seg type="comment">
+                  <orig>
+                     <persName key="ed_old_v4w_mbb">Brosch</persName> würde sich für <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> besonders gut schicken, da
+                            dorten Gelegenheit ist, einen hübschen Garten anzulegen, der ihm in der
+                            Folge in Pacht gegeben werden könnte. </orig>
+                  <note xml:id="npgp_zdq_3bb">In seinem Brief vom 26. November 1784 (in der Akte) lobt <persName key="ed_bpl_fsj_gy">Rhenius</persName> dessen Arbeit, er habe den
+                                    <quote>
+                        <placeName key="ed_hrb_hc2_gy">Serwillschen</placeName>
+                                Garten in der kurzen Zeit schon ziemlich verbessert und viele junge
+                                Bäume gepflanzt</quote>.Vgl. die Kauf-, Pacht- und Arbeitsverträge
+                            1744-1893 in: APO, Bestand 382 FA Lehndorff, Nr. 4 bzw. die
+                            Lehndorffschen Kontrakte für die Steinorter Güter, in: APO, Bestand 382
+                            FA Lehndorff, Nr. 47 (1735-1740, 1786-1789). </note>
+               </seg>
+               <lb/>Das
+                        <orgName key="ed_lx1_fpw_mbb">Justizamt Barten</orgName> schickte abermal
+                    einen <seg type="comment">
+                  <orig>Erbpacht-Kontrakt über die Fischerei</orig>
+                  <note xml:id="ntly_c3t_lcb">Vgl. APO, Bestand 382 FA Lehndorff, Nr. 44. Die
+                            beim Steinorter <orgName key="ed_ltz_hdr_gbb">Patrimonialgericht</orgName> bestätigten Fischerei-Kontrakte ebd.,
+                            Nr. 549. </note>
+               </seg> zu Höchstdero Unterschrift, worinnen aber an die
+                    letzte Erhöhung von 3 Rtlr. gar nicht gedacht wird, ich habe darauf geantwortet,
+                    dass diese Erbpacht wegen des letzten Vorfalls aufgekündigt wäre, und ich zuerst
+                    bei Hochdenenselben untertänigst angefragt habe, ob ich den Kontrakt zur hohen
+                    Unterschrift nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> einsenden
+                    dürfte, oder dem Justizamt remittieren und auf die Aufkündigung bestehen soll.
+                    Es ist mir auffallend, dass der Kontrakt von der Kammer noch nicht
+                    unterschrieben ist, und glaube ich, dass dieses sonst gewöhnlich, denn wenn
+                    solcher zuerst mit Höchstderen Unterschrift versehen wird, kann er wieder einige
+                    Jahre im Amte liegen, und nachher wieder neue Forderungen gemacht werden.
+                        <lb/>
+               <note type="editorial">Abschließend bittet Rhenius für den Sohn einer
+                        Magd aus <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> und für
+                        ehemals tüchtige Bauern aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und <placeName key="ed_xzt_112_gy">Stawisken</placeName> um ein</note> Hospital-Teil.</p>
+				        <closer>
+					          <salute>Ich ersterbe mit tiefstem Respekt <lb/>Ew. Hochgeboren untertänigster Diener</salute>
+					          <signed>Rhenius</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

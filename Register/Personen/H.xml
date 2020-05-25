@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_djv_pp3_llb">
+                    <persName type="reg">
+                        <surname>Hammerstein-Loxten</surname>
+                        <forename>Hans Christian Friedrich Freiherr von</forename>
+                    </persName>
+                    <birth>1843</birth>
+                    <death>1905</death>
+                </person>
+                <person xml:id="ed_fhh_s5z_dlb">
+                    <persName type="reg">
+                        <surname>Herrera</surname>
+                        <forename>Vicomtesse</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des spanischen Gesandten in Preußen (1770)</note>
+                </person>
+                <person xml:id="ed_rrz_y3x_clb">
+                    <persName type="reg">
+                        <surname>Hoyer</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hofrat</note>
+                </person>
+                <person xml:id="ed_f4p_nlx_clb">
+                    <persName type="reg">
+                        <surname>Henning</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_rwh_pvn_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/11854411X</idno>
+                    <persName type="reg">
+                        <surname>Haase</surname>
+                        <forename>Hugo</forename>
+                    </persName>
+                    <birth>1863</birth>
+                    <death>1919</death>
+                </person>
+                <person xml:id="ed_nh5_stl_w2b">
+                    <idno type="uri">https://d-nb.info/gnd/116349298</idno>
+                    <persName type="reg">
+                        <surname>Haber</surname>
+                        <forename>Salomon</forename>
+                    </persName>
+                    <birth>1746</birth>
+                    <death>1839</death>
+                </person>
+                <person xml:id="ed_rtw_chj_f3b">
+                    <persName type="reg">
+                        <surname>Haberlandt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1749 Leinweber in Steinort</note>
+                </person>
+                <person xml:id="ed_wfd_bj2_b2b">
+                    <persName type="reg">
+                        <surname>Hacke</surname>
+                        <forename>Adelaide Gräfin von</forename>
+                    </persName>
+                    <birth>1812</birth>
+                    <death>1891</death>
+                    <note>Hofdame der Kaiserin Augusta</note>
+                </person>
+                <person xml:id="ed_v25_yk3_vkb">
+                    <persName type="reg">
+                        <surname>Hacke</surname>
+                        <forename>Elisabeth Louise Ulrike Amalie Gräfin von</forename>
+                    </persName>
+                    <birth>1743</birth>
+                    <death>1761</death>
+                    <note>Heirat: 1759 <persName key="ed_psw_dkd_5db">Georg von Eickstädt</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_fxy_nzt_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/119271133</idno>
+                    <persName type="reg">
+                        <surname>Hacke</surname>
+                        <forename>Grafen von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_k5w_tl2_b2b">
+                    <persName type="reg">
+                        <surname>Hacke</surname>
+                        <forename>Karl Wilhelm Alexander Graf von</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1835</death>
+                    <note>Hofmarschall des Prinzen Friedrich</note>
+                </person>
+                <person xml:id="ed_hrm_vvx_y2b">
+                    <persName type="reg">
+                        <surname>Haebler</surname>
+                        <forename/>
+                    </persName>
+                    <persName type="alt">
+                        <name>Haebeler</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1809 Kaufmann in Königsberg</note>
+                </person>
+                <person xml:id="ed_q3x_pxz_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/119501325</idno>
+                    <persName type="reg">
+                        <surname>Haeften</surname>
+                        <forename>Hans Bernd von</forename>
+                    </persName>
+                    <birth>1905</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_vtd_1ms_52b">
+                    <idno type="uri">https://d-nb.info/gnd/122069099</idno>
+                    <persName type="reg">
+                        <surname>Haeseler</surname>
+                        <forename>Gottlieb (von)</forename>
+                    </persName>
+                    <birth>1701</birth>
+                    <death>1752</death>
+                    <note>Heirat: 1730 <persName key="ed_b2c_mgq_42b">Margarete Elisabeth
+                            Haeseler</persName>; 1733 geadelt</note>
+                </person>
+                <person xml:id="ed_agh_wql_hkb">
+                    <persName type="reg">
+                        <surname>Haeseler</surname>
+                        <forename>Johann Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kauf- und Handelsmann in Braunschweig; Vater von <persName
+                            key="ed_b2c_mgq_42b">Margarete Elisabeth Haeseler</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_b2c_mgq_42b">
+                    <persName type="reg">
+                        <surname>Haeseler</surname>
+                        <forename>Margarethe Elisabeth von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Haeseler, von</name>
+                    </persName>
+                    <birth>1710</birth>
+                    <death>1764</death>
+                    <note>Heirat: <persName key="ed_vtd_1ms_52b">Gottlieb von Haeseler</persName>;
+                        Eltern von <persName key="ed_v52_qng_vz">Marie von Haeseler</persName>,
+                        verh. Gräfin von Lehndorff</note>
+                </person>
+                <person xml:id="ed_gcl_sql_hkb">
+                    <persName type="reg">
+                        <surname>Haeseler</surname>
+                        <forename>Valentin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Magdeburger Großkaufmann und Handelsherr; Vater von <persName
+                            key="ed_vtd_1ms_52b">Gottlieb Haeseler</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_bdv_fyj_f3b">
+                    <persName type="reg">
+                        <surname>Hagen</surname>
+                        <forename>Blanca von</forename>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1916</death>
+                    <note>Ausbildung zur Porträt- und Genremalerin in Dresden und Berlin,
+                        Weiterbildung in München im Atelier von Gyula Benczúr; in Berlin Schülerin
+                        von Karl Gussow; Studienreisen nach Italien und Paris; 1862 und 1870 wurde
+                        sie vom Kloster Stift zum Heiligengrabe in Heiligengrabe beauftragt, zwei
+                        Bilder für das Kloster zu malen, ihr Gemälde „Heimkehr nach der Messe“ wurde
+                        von Kaiser Wilhelm käuflich erworben; Mitglied im Verein der Berliner
+                        Künstlerinnen. https://de.wikipedia.org/wiki/Blanca_von_Hagen</note>
+                </person>
+                <person xml:id="ed_d4w_b1k_f3b">
+                    <persName type="reg">
+                        <surname>Hagen</surname>
+                        <forename>Hilmar Graf vom</forename>
+                    </persName>
+                    <birth>1835</birth>
+                    <death>1900</death>
+                    <note>Studium an der Rheinischen Friedrich-Wilhelms-Universität Bonn, 1855
+                        Mitglied des Corps Borussia Bonn; als Regierungsreferendar a. D.
+                        Fideikommissherr auf Schloss Möckern und Herr auf Deuna; ofmeister und
+                        Erbschenk im Herzogtum Magdeburg sowie Königlich preußischer Kammerherr und
+                        Hofmarschall; gehörte von 1868 bis 1870für die Konservative Partei dem
+                        Preußischen Abgeordnetenhauses an, von 1897 bis 1900 Mitglied des
+                        Preußischen Herrenhauses: Heirat: Martha von der Schulenburg.
+                        https://de.wikipedia.org/wiki/Hilmar_vom_Hagen</note>
+                </person>
+                <person xml:id="ed_or2_yyz_g2b">
+                    <persName type="reg">
+                        <surname>Hagen</surname>
+                        <forename>Karl Friedrich Franz</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rechtsanwalt, Stadtrat, Vertreter der Königsberger Kaufmannschaft, 1904
+                        Ehrenbürger von Königsberg</note>
+                </person>
+                <person xml:id="ed_xjg_fd4_xdb">
+                    <idno type="uri">https://d-nb.info/gnd/139871454</idno>
+                    <persName type="reg">
+                        <surname>Hagen</surname>
+                        <forename>Ludwig Philipp vom</forename>
+                    </persName>
+                    <birth>1724</birth>
+                    <death>1771</death>
+                </person>
+                <person xml:id="ed_cxf_1tc_d2b">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Agnes Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schlippenbach, Gräfin von </name>
+                    </persName>
+                    <birth>1812</birth>
+                    <death>1857</death>
+                    <note>Mutter von <persName key="ed_wms_mh2_cy">Anna Gräfin von
+                            Lehndorff</persName>, <persName key="ed_mhm_32d_d2b">Werner</persName>,
+                            <persName key="ed_vkr_zvw_c2b">Cuno</persName> und <persName
+                            key="ed_at1_zvw_c2b">Max</persName> Grafen von Hahn; mecklenburgische
+                        Spalierobstzüchterin; Ehrenmitglied des Vereins für mecklenburgische
+                        Geschichte und Altertumskunde und Widmungsempfängerin des ersten Bandes der
+                        Hahnschen Geschlechtsgeschichte von Georg Christian Friedrich Lisch (4
+                        Bände, 1844–1856). https://de.wikipedia.org/wiki/Agnes_von_Hahn</note>
+                </person>
+                <person xml:id="ed_hkt_zjt_g2b">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Clemens Graf von</forename>
+                    </persName>
+                    <birth>1880</birth>
+                    <death/>
+                </person>
+                <person xml:id="ed_vkr_zvw_c2b">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Cuno Graf von</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1885</death>
+                    <note>Bruder von <persName key="ed_wms_mh2_cy">Anna Gräfin von Hahn</persName>,
+                        verh. Gräfin von Lehndorff</note>
+                </person>
+                <person xml:id="ed_enz_yk5_22b">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Editha Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Wartensleben, Gräfin von </name>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1895</death>
+                    <note>Heirat: <persName key="ed_vkr_zvw_c2b">Cuno Graf von Hahn</persName>;
+                        Schwägerin <persName key="ed_wms_mh2_cy">Anna von Lehndorffs</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_z2t_hfq_d2b">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Ferdinand Graf von</forename>
+                    </persName>
+                    <birth>1809</birth>
+                    <death>1888</death>
+                    <note>auf Neuhaus/Holstein; dänischer Hofjägermeister; Onkel von <persName
+                            key="ed_wms_mh2_cy">Anna Gräfin von Hahn</persName>, verh. Gräfin von
+                        Lehndorff</note>
+                </person>
+                <person xml:id="ed_qcc_ygv_22b">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Friedrich Franz Graf von</forename>
+                    </persName>
+                    <birth>1859</birth>
+                    <death>1916</death>
+                    <note>1872 Erblandmarschall </note>
+                </person>
+                <person xml:id="ed_e2c_dfd_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/136830358</idno>
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Friedrich Wilhelm Adolf Graf von</forename>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1859</death>
+                    <note>Fideikommissherr (gestiftet 1846) auf Basedow-Pleetz; Heirat: I. Ida
+                        Gräfin von Hahn, II. 15.3.1830 Agnes Gräfin von Schlippenbach; Kinder: I.
+                        Antonie (Toni), II. Anna, Kuno, Werner, Max</note>
+                </person>
+                <person xml:id="ed_bb3_qs1_hfb">
+                    <idno type="uri">https://d-nb.info/gnd/118544918</idno>
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Ida Gräfin von</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1880</death>
+                </person>
+                <person xml:id="ed_icx_fkt_g2b">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Iwan Graf</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1880)</note>
+                </person>
+                <person xml:id="ed_ssn_2wz_zdb">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Kurt</forename>
+                    </persName>
+                    <birth>1901</birth>
+                    <death>1944</death>
+                    <note>Offizier; Widerstandskämpfer des 20. Juli 1944.
+                        https://de.wikipedia.org/wiki/Kurt_Hahn_(Offizier)</note>
+                </person>
+                <person xml:id="ed_at1_zvw_c2b">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Max Graf von</forename>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1903</death>
+                    <note>Bruder von <persName key="ed_wms_mh2_cy">Anna Gräfin von Hahn,</persName>
+                        verh. Gräfin von Lehndorff</note>
+                </person>
+                <person xml:id="ed_k2s_mxg_lfb">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Nikolaus Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1891)</note>
+                </person>
+                <person xml:id="ed_mhm_32d_d2b">
+                    <persName type="reg">
+                        <surname>Hahn</surname>
+                        <forename>Werner Graf von</forename>
+                    </persName>
+                    <birth>1836</birth>
+                    <death>1885</death>
+                    <note>Erblandmarschall; Bruder von <persName key="ed_wms_mh2_cy">Anna Gräfin von
+                            Hahn</persName>, verh. Gräfin von Lehndorff</note>
+                </person>
+                <person xml:id="ed_wqc_k5h_lfb">
+                    <idno type="uri">https://d-nb.info/gnd/116391707</idno>
+                    <persName type="reg">
+                        <surname>Hahnke</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1912</death>
+                </person>
+                <person xml:id="ed_xwz_b35_g2b">
+                    <persName type="reg">
+                        <surname>Hamilton</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1881)</note>
+                </person>
+                <person xml:id="ed_jfs_xzs_kfb">
+                    <idno type="uri">https://d-nb.info/gnd/116442603</idno>
+                    <persName type="reg">
+                        <surname>Hammerstein</surname>
+                        <forename>Wilhelm Joachim von</forename>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1904</death>
+                </person>
+                <person xml:id="ed_lvm_4jd_p2b">
+                    <persName type="reg">
+                        <surname>Hansen</surname>
+                        <forename>Familie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Königsberg</note>
+                </person>
+                <person xml:id="ed_uvr_lxn_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118545906</idno>
+                    <persName type="reg">
+                        <surname>Hardenberg</surname>
+                        <forename>Karl August Fürst von</forename>
+                    </persName>
+                    <birth>1750</birth>
+                    <death>1822</death>
+                </person>
+                <person xml:id="ed_xwb_5ct_kfb">
+                    <idno type="uri">https://d-nb.info/gnd/118546058</idno>
+                    <persName type="reg">
+                        <surname>Harnack</surname>
+                        <forename>Adolf von</forename>
+                    </persName>
+                    <birth>1851</birth>
+                    <death>1930</death>
+                </person>
+                <person xml:id="ed_elr_hl2_b2b">
+                    <idno type="uri">https://d-nb.info/gnd/118828991</idno>
+                    <persName type="reg">
+                        <surname>Harrach</surname>
+                        <forename>Auguste von</forename>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1873</death>
+                </person>
+                <person xml:id="ed_pdg_sj5_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/120266199</idno>
+                    <persName type="reg">
+                        <surname>Hartl</surname>
+                        <forename>Albrecht</forename>
+                    </persName>
+                    <birth>1904</birth>
+                    <death>1982</death>
+                </person>
+                <person xml:id="ed_hq5_crx_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/117503037</idno>
+                    <persName type="reg">
+                        <surname>Hase</surname>
+                        <forename>Karl Alfred von</forename>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1914</death>
+                </person>
+                <person xml:id="ed_msf_n51_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/11651485X</idno>
+                    <persName type="reg">
+                        <surname>Hasse</surname>
+                        <forename>Paul Eduard</forename>
+                    </persName>
+                    <birth>1845</birth>
+                    <death>1907</death>
+                </person>
+                <person xml:id="ed_obl_c2w_mbb">
+                    <persName type="reg">
+                        <surname>Hasse</surname>
+                        <forename>Johann Erdmann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1783 Hof- und Ordensrat </note>
+                </person>
+                <person xml:id="ed_gwf_m1w_scb">
+                    <idno type="uri">http://d-nb.info/gnd/13743488X</idno>
+                    <persName type="reg">
+                        <surname>Hatten</surname>
+                        <forename>Andrzej Stanisław von</forename>
+                    </persName>
+                    <birth>1763</birth>
+                    <death>1841</death>
+                </person>
+                <person xml:id="ed_mlt_qgm_cz">
+                    <idno type="uri">https://d-nb.info/gnd/11750369X</idno>
+                    <persName type="reg">
+                        <surname>Hatzfeld</surname>
+                        <forename>Franz Ludwig Graf von</forename>
+                    </persName>
+                    <birth>1756</birth>
+                    <death>1827</death>
+                    <note>seit 1803 Fürst von Hatzfeld zu Trachenberg</note>
+                </person>
+                <person xml:id="ed_ahx_mht_c2b">
+                    <persName type="reg">
+                        <surname>Hatzfeld</surname>
+                        <forename>Friederike Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schulenburg-Kehnert, von der</name>
+                    </persName>
+                    <birth>1779</birth>
+                    <death>1832</death>
+                    <note>Heirat: <persName key="ed_mlt_qgm_cz">Franz Ludwig Graf (Fürst) von
+                            Hatzfeld zu Trachenberg</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_kzr_fjj_h3b">
+                    <idno type="uri">https://d-nb.info/gnd/116520213</idno>
+                    <persName type="reg">
+                        <surname>Hatzfeld-Trachenberg</surname>
+                        <forename>Maximilian Friedrich Karl Franz Graf von</forename>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1859</death>
+                </person>
+                <person xml:id="ed_x4z_g3v_mbb">
+                    <persName type="reg">
+                        <surname>Hay</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1785 Kaufmann</note>
+                </person>
+                <person xml:id="ed_lcb_kqy_pcb">
+                    <persName type="reg">
+                        <surname>Hecht</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1911-1915 Pfarrer in Rosengarten</note>
+                </person>
+                <person xml:id="ed_mf5_wgd_b2b">
+                    <persName type="reg">
+                        <surname>Heck</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Machnow b. Berlin (1810)</note>
+                </person>
+                <person xml:id="ed_zyv_rv5_ccb">
+                    <idno type="uri">http://d-nb.info/gnd/135932637</idno>
+                    <persName type="reg">
+                        <surname>Hegel</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                    <birth>1849</birth>
+                    <death>1925</death>
+                </person>
+                <person xml:id="ed_lgm_1fb_ycb">
+                    <persName type="reg">
+                        <surname>Heiligendörffer</surname>
+                        <forename>G.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1735 Gerichtsschreiber in Steinort</note>
+                </person>
+                <person xml:id="ed_yp2_hfm_gbb">
+                    <idno type="uri">https://d-nb.info/gnd/1050554205</idno>
+                    <persName type="reg">
+                        <surname>Heim</surname>
+                        <forename>Ludwig</forename>
+                    </persName>
+                    <birth>1844</birth>
+                    <death>1917</death>
+                </person>
+                <person xml:id="ed_iqt_cdb_dy">
+                    <idno type="uri">http://d-nb.info/gnd/116657022</idno>
+                    <persName type="reg">
+                        <surname>Heimann</surname>
+                        <forename>Hugo</forename>
+                    </persName>
+                    <birth>1859</birth>
+                    <death>1950</death>
+                </person>
+                <person xml:id="ed_uyg_gfl_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/1027108822</idno>
+                    <persName type="reg">
+                        <surname>Hein</surname>
+                        <forename>Max</forename>
+                    </persName>
+                    <birth>1885</birth>
+                    <death>1949</death>
+                </person>
+                <person xml:id="ed_ums_g2m_xcb">
+                    <persName type="reg">
+                        <surname>Heinichen</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gläubigerin der Lehndorffs im Konkursverfahren</note>
+                </person>
+                <person xml:id="ed_ur3_4ql_f2b">
+                    <persName type="reg">
+                        <surname>Heinrich</surname>
+                        <forename>Bertha</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>bitte 1874 um Unterstützung</note>
+                </person>
+                <person xml:id="ed_rzz_sr5_c2b">
+                    <persName type="reg">
+                        <surname>Heinrich</surname>
+                        <forename>C. L.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Königsberg; 1840 Abgeordneter zum preußischen Landtag</note>
+                </person>
+                <person xml:id="ed_gc3_fxc_m3b">
+                    <persName type="reg">
+                        <surname>Heinrichs</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter von Taberlack</note>
+                </person>
+                <person xml:id="ed_pm4_l1j_d2b">
+                    <persName type="reg">
+                        <surname>Heinz</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hauptmann und persönlicher Adjutant des Prinzen Friedrich Wilhelm</note>
+                </person>
+                <person xml:id="ed_fq1_kbh_ldb">
+                    <persName type="reg">
+                        <surname>Heldt</surname>
+                        <forename>Ernst Gustav von</forename>
+                    </persName>
+                    <birth>1766</birth>
+                    <death>1851</death>
+                    <note>1780 Kadett in Berlin; 1784 Gefreitenkorporal im I. Bataillon der Garde;
+                        1787 Fähnrich; 1792 Sekondeleutnant; kämpfte bei den Belagerungen von Mainz
+                        und Landau sowie im Gefecht bei Trippstadt; 1805 Kapitän und Kompaniechef im
+                        Infanterieregiment „von Larisch“; erhielt in der Schlacht bei Jena einen
+                        Schuss in den linken Oberschenkel, woraufhin er im November 1806 inaktiv
+                        gestellt wurde; nach dem Krieg 1808 als Major der Infanterie wieder
+                        eingestellt; kämpfte während der Befreiungskriege in den Gefechten bei
+                        Hagelberg und Salke und nahm an der Blockade von Wittenberg und Magdeburg
+                        teil; erwarb er sich das Eiserne Kreuz II. Klasse und den Orden der Heiligen
+                        Anna II. Klasse; 1813 Kommandeur des II. Bataillons im 7. Kurmärkischen
+                        Landwehr-Infanterie-Regiment; 1815 Ernennung zum Regimentskommandeur und
+                        Abschied mit Pension und Charakter als Oberstleutnant; 1815 als Kommandeur
+                        seines alten Regiments reaktiviert und 1816 als Kommandeur in das 4.
+                        Potsdamer Landwehr-Regiment versetzt; 1819 Oberst; 1820 Kommandeur des 24.
+                        Landwehr-Regiments; 1825 seinen Abschied mit Pension als Generalmajor; 1825
+                        Dienstkreuz; 1835 2. Kommandant des Berliner Invalidenhauses; 1837 Roter
+                        Adlerorden IV. Klasse, 1839 III. Klasse mit Schleife, 1844 II. Klasse mit
+                        Eichenlaub; 1846 1. Kommandant des Invalidenhauses; 1848 Generalleutnant;
+                        1848 mit Pension zur Disposition gestellt.
+                        https://de.wikipedia.org/wiki/Ernst_Gustav_von_Held</note>
+                </person>
+                <person xml:id="ed_x4y_2dq_rdb">
+                    <idno type="uri">http://d-nb.info/gnd/100291716</idno>
+                    <persName type="reg">
+                        <surname>Hellen</surname>
+                        <forename>Bruno Freiherr von der</forename>
+                    </persName>
+                    <birth>1718</birth>
+                    <death>1793</death>
+                </person>
+                <person xml:id="ed_nwr_h43_tcb">
+                    <persName type="reg">
+                        <surname>Hellen</surname>
+                        <forename>Konrad von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1809</death>
+                    <note>Regierungsrat zu Königsberg, ab 1788 Chefpräsident des ostpreußischen
+                        Hofgerichts</note>
+                </person>
+                <person xml:id="ed_ccw_sfj_f3b">
+                    <idno type="uri">https://d-nb.info/gnd/130589497</idno>
+                    <persName type="reg">
+                        <surname>Helwing</surname>
+                        <forename>Georg Andreas</forename>
+                    </persName>
+                    <birth>1666</birth>
+                    <death>1748</death>
+                </person>
+                <person xml:id="ed_trm_2dz_4kb">
+                    <persName type="reg">
+                        <surname>Hempel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1817 Tierarzt</note>
+                </person>
+                <person xml:id="ed_stc_n4k_gbb">
+                    <persName type="reg">
+                        <surname>Hempel</surname>
+                        <forename>A. G. E.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1744 Lehrer</note>
+                </person>
+                <person xml:id="ed_p2l_lfh_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/131737198</idno>
+                    <persName type="reg">
+                        <surname>Henckel von Donnersmarck</surname>
+                        <forename>Carl Lazarus</forename>
+                    </persName>
+                    <birth>1772</birth>
+                    <death>1864</death>
+                </person>
+                <person xml:id="ed_bfx_l4l_52b">
+                    <idno type="uri">https://d-nb.info/gnd/116700289</idno>
+                    <persName type="reg">
+                        <surname>Henckel von Donnersmarck</surname>
+                        <forename>Eleonore Maximiliane Ottilie Gräfin von</forename>
+                    </persName>
+                    <birth>1756</birth>
+                    <death>1843</death>
+                </person>
+                <person xml:id="ed_ztz_1xg_2z">
+                    <persName type="reg">
+                        <surname>Henckel von Donnersmarck</surname>
+                        <forename>Helene Karoline Reichsgräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Sydow, von</name>
+                    </persName>
+                    <birth>1722</birth>
+                    <death>1789</death>
+                    <note>Heirat: Georg Sigismund von Sydow</note>
+                </person>
+                <person xml:id="ed_abw_3gb_h2b">
+                    <persName type="reg">
+                        <surname>Hengstenberg</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: Wilhelm von Hengstenberg (1804-1880), evangelischer Geistlicher,
+                        amtierte zuletzt als Oberhofprediger von Kaiser Wilhelm I. am Berliner Dom;
+                        mit seinen Amtskollegen Rudolf Kögel, Wilhelm Baur und Adolf Stoecker
+                        bildete er die sogenannte „Hofpredigerpartei‟.
+                        https://de.wikipedia.org/wiki/Wilhelm_von_Hengstenberg</note>
+                </person>
+                <person xml:id="ed_jvc_t2k_gy">
+                    <persName type="reg">
+                        <surname>Henkel</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bankdirektor der gleichnamigen „Preußischen Hypotheken-, Credit- und
+                        Bank-Anstalt, Commanditgesellschaft auf Actien‟</note>
+                </person>
+                <person xml:id="ed_kvh_djl_wcb">
+                    <persName type="reg">
+                        <surname>Henne</surname>
+                        <forename>Prof. Ernst Ludwig</forename>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1830</death>
+                    <note>außerordentlicher Professor für Entbindungskunde an der
+                        Albertus-Universität zu Königsberg</note>
+                </person>
+                <person xml:id="ed_c5x_cvl_ddb">
+                    <idno type="uri">https://d-nb.info/gnd/117516910</idno>
+                    <persName type="reg">
+                        <surname>Hennig</surname>
+                        <forename>Georg Ernst Sigismund</forename>
+                    </persName>
+                    <birth>1749</birth>
+                    <death>1809</death>
+                </person>
+                <person xml:id="ed_hjq_ttv_scb">
+                    <persName type="reg">
+                        <surname>Henrici</surname>
+                        <forename>Dr. R.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Amtsrat in Barten</note>
+                </person>
+                <person xml:id="ed_y2p_fp4_vcb">
+                    <persName type="reg">
+                        <surname>Henry</surname>
+                        <forename>Charles Guillaume</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>preußischer Legationssekretär, 1805 Geschäftsträger zu Madrid, dann zu
+                        London</note>
+                </person>
+                <person xml:id="ed_o1h_rwq_d2b">
+                    <persName type="reg">
+                        <surname>Hensel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1862 Besitzer von Barten</note>
+                </person>
+                <person xml:id="ed_eyv_jpm_wcb">
+                    <persName type="reg">
+                        <surname>Hensel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1850 Apotheker in Berlin</note>
+                </person>
+                <person xml:id="ed_zc1_nyk_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/161106749</idno>
+                    <persName type="reg">
+                        <surname>Hentschel</surname>
+                        <forename>Walter</forename>
+                    </persName>
+                    <birth>1899</birth>
+                    <death>1970</death>
+                </person>
+                <person xml:id="ed_d11_wr2_cy">
+                    <idno type="uri">http://d-nb.info/gnd/116747021</idno>
+                    <persName type="reg">
+                        <surname>Hermann</surname>
+                        <forename>Emil</forename>
+                    </persName>
+                    <birth>1812</birth>
+                    <death>1885</death>
+                </person>
+                <person xml:id="ed_tbk_psj_kfb">
+                    <idno type="uri">https://d-nb.info/gnd/118896512</idno>
+                    <persName type="reg">
+                        <surname>Hermann</surname>
+                        <forename>Ludimar</forename>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1914</death>
+                </person>
+                <person xml:id="ed_mnw_t1h_1cb">
+                    <persName type="reg">
+                        <surname>Hermanny</surname>
+                        <forename>A.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1882 Redakteur der Budapester Chronik</note>
+                </person>
+                <person xml:id="ed_s4t_2nd_2y">
+                    <idno type="uri">http://d-nb.info/gnd/117520543</idno>
+                    <persName type="reg">
+                        <surname>Herrfurth</surname>
+                        <forename>Ernst Ludwig</forename>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1914</death>
+                </person>
+                <person xml:id="ed_fzb_vvl_wcb">
+                    <persName type="reg">
+                        <surname>Hertefeld</surname>
+                        <forename>Freiherr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Liebenberg; Präsident der Sektion für Pferdezucht der Versammlung
+                        Deutscher Landwirte 1840</note>
+                </person>
+                <person xml:id="ed_xf5_xm4_s3b">
+                    <persName type="reg">
+                        <surname>Hertz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1811 Schlossermeister in Gerdauen</note>
+                </person>
+                <person xml:id="ed_ttb_mkh_h2b">
+                    <persName type="reg">
+                        <surname>Hertz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1887 Bankier in Berlin </note>
+                </person>
+                <person xml:id="ed_xfm_jcy_m2b">
+                    <idno type="uri">https://d-nb.info/gnd/116754974</idno>
+                    <persName type="reg">
+                        <surname>Hertzberg</surname>
+                        <forename>Ewald Graf von</forename>
+                    </persName>
+                    <birth>1725</birth>
+                    <death>1795</death>
+                </person>
+                <person xml:id="ed_mx4_v3r_gbb">
+                    <persName type="reg">
+                        <surname>Hesse</surname>
+                        <forename>H.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Königsberg (1789)</note>
+                </person>
+                <person xml:id="ed_lhm_bwp_tcb">
+                    <persName type="reg">
+                        <surname>Hesse</surname>
+                        <forename>Paul</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Berliner Kaufmann; Mitglied des Berlinischen Bürgerrettungs-Instituts
+                        1796/97-1817</note>
+                </person>
+                <person xml:id="ed_nn4_bys_xdb">
+                    <idno type="uri">https://d-nb.info/gnd/10419345X</idno>
+                    <persName type="reg">
+                        <surname>Hessen-Darmstadt</surname>
+                        <forename>Georg Wilhelm Prinz von</forename>
+                    </persName>
+                    <birth>1722</birth>
+                    <death>1782</death>
+                </person>
+                <person xml:id="ed_h3s_1hn_scb">
+                    <idno type="uri">http://d-nb.info/gnd/118560271</idno>
+                    <persName type="reg">
+                        <surname>Hessen-Darmstadt</surname>
+                        <forename>Karoline Henriette Landgräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Pfalz-Zweibrücken</name>
+                    </persName>
+                    <birth>1721</birth>
+                    <death>1774</death>
+                </person>
+                <person xml:id="ed_d35_14r_52b">
+                    <persName type="reg">
+                        <surname>Hessen-Homburg</surname>
+                        <forename>Hedwig Luise Prinzessin von</forename>
+                    </persName>
+                    <birth>1675</birth>
+                    <death>1760</death>
+                    <note>Heirat: 1718 <persName key="ed_nlp_5nr_52b">Adam Friedrich Graf von
+                            Schlieben-Sanditten</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_j2n_dxg_2z">
+                    <idno type="uri">http://d-nb.info/gnd/136025552</idno>
+                    <persName type="reg">
+                        <surname>Hessen-Kassel</surname>
+                        <forename>Friedrich Erbprinz von</forename>
+                    </persName>
+                    <birth>1747</birth>
+                    <death>1837</death>
+                </person>
+                <person xml:id="ed_r1v_4wb_ydb">
+                    <idno type="uri">https://d-nb.info/gnd/130249424</idno>
+                    <persName type="reg">
+                        <surname>Hessen-Kassel</surname>
+                        <forename>Friedrich II. Landgraf von</forename>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1785</death>
+                    <note>Heirat: <persName key="ed_cs4_jwb_ydb">Philippine Prinzessin von
+                            Preußen</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_ld3_xlk_wcb">
+                    <persName type="reg">
+                        <surname>Hessen-Kassel</surname>
+                        <forename>Luise Karoline Prinzessin von</forename>
+                    </persName>
+                    <birth>1789</birth>
+                    <death>1867</death>
+                    <note>Heirat: 1810 Prinz Wilhelm von Holstein-Beck</note>
+                </person>
+                <person xml:id="ed_knq_dkn_scb">
+                    <persName type="reg">
+                        <surname>Hessen-Kassel</surname>
+                        <forename>Philippine Amalie Landgräfin von</forename>
+                    </persName>
+                    <birth>1745</birth>
+                    <death>1800</death>
+                </person>
+                <person xml:id="ed_yqv_5g5_1bb">
+                    <idno type="uri">https://d-nb.info/gnd/118632914</idno>
+                    <persName type="reg">
+                        <surname>Hessen-Kassel</surname>
+                        <forename>Wilhelm VIII. Landgraf von</forename>
+                    </persName>
+                    <birth>1682</birth>
+                    <death>1760</death>
+                </person>
+                <person xml:id="ed_zc3_xtw_c2b">
+                    <persName type="reg">
+                        <surname>Heuck</surname>
+                        <forename>Johann Friedrich</forename>
+                    </persName>
+                    <birth>1794</birth>
+                    <death>1868</death>
+                    <note>Sekretär des Grafen Friedrich Adolf von Hahn</note>
+                </person>
+                <person xml:id="ed_e5q_qv5_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118550519</idno>
+                    <persName type="reg">
+                        <surname>Heusinger</surname>
+                        <forename>Adolf</forename>
+                    </persName>
+                    <birth>1897</birth>
+                    <death>1982</death>
+                </person>
+                <person xml:id="ed_ygc_jg4_my">
+                    <persName type="reg">
+                        <surname>Heye</surname>
+                        <forename>Laura</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmannstochter aus Bremen (1871)</note>
+                </person>
+                <person xml:id="ed_kmv_rlm_zdb">
+                    <persName type="reg">
+                        <surname>Heyl</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth>um 1867</birth>
+                    <death>1927</death>
+                    <note>Studium der Rechtswissenschaft an der Ruprecht-Karls-Universität
+                        Heidelberg; 1887 Mitglied des Corps Vandalia Heidelberg; 1896 bis 1897
+                        Regierungsreferendariat bei der Regierung in Düsseldorf; Regierungsassessor
+                        bei der Regierung in Breslau; 1904 bis 1915 Landrat des Kreises Angerburg;
+                        Wechsel als Regierungsrat an das Polizeipräsidium Berlin.
+                        https://de.wikipedia.org/wiki/Wilhelm_Heyl</note>
+                </person>
+                <person xml:id="ed_swm_h5z_g2b">
+                    <persName type="reg">
+                        <surname>Heyse</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1883 Pfarrer in Lötzen</note>
+                </person>
+                <person xml:id="ed_et5_kxl_5y">
+                    <idno type="uri">http://d-nb.info/gnd/116813210</idno>
+                    <persName type="reg">
+                        <surname>Hiller von Gaertringen</surname>
+                        <forename>Johann Friedrich August</forename>
+                    </persName>
+                    <birth>1772</birth>
+                    <death>1856</death>
+                </person>
+                <person xml:id="ed_ijg_3y3_mfb">
+                    <idno type="uri">https://d-nb.info/gnd/11855123X</idno>
+                    <persName type="reg">
+                        <surname>Himmler</surname>
+                        <forename>Heinrich</forename>
+                    </persName>
+                    <birth>1900</birth>
+                    <death>1945</death>
+                </person>
+                <person xml:id="ed_ot5_mjm_33b">
+                    <persName type="reg">
+                        <surname>Hindenberg</surname>
+                        <forename>Walter</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>seit 1921 Rendant in Groß Steinort</note>
+                </person>
+                <person xml:id="ed_mq5_xkl_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/118551264</idno>
+                    <persName type="reg">
+                        <surname>Hindenburg</surname>
+                        <forename>Paul von Beneckendorf und von</forename>
+                    </persName>
+                    <birth>1847</birth>
+                    <death>1934</death>
+                </person>
+                <person xml:id="ed_qdb_w4n_v2b">
+                    <idno type="uri">https://d-nb.info/gnd/1043887245</idno>
+                    <persName type="reg">
+                        <surname>Hindersin</surname>
+                        <forename>Johann Kaspar</forename>
+                    </persName>
+                    <birth>1667</birth>
+                    <death>1738</death>
+                </person>
+                <person xml:id="ed_ahy_3bk_d2b">
+                    <persName type="reg">
+                        <surname>Hinz</surname>
+                        <forename>Gustav</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gutsbesitzer von Georgenau, 1861 Wahlmann</note>
+                </person>
+                <person xml:id="ed_yyr_4xw_12b">
+                    <persName type="reg">
+                        <surname>Hippel</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth>1766</birth>
+                    <death>1813</death>
+                    <note>Heirat: um 1800 Aurore von Gossow, Tochter des Präsidenten von Gossow in
+                        Königsberg; Landrat in Suvalki bis nach dem Tilsiter Frieden, dann im
+                        Seehestenschen Kreis; übernahm bei der Formation der Ostpreußischen Landwehr
+                        die Kompagnie seines Kreises, nahm an der Belagerung von Danzig als Adjutant
+                        des Inspektors Ludwig Graf zu Dohna-Brunau teil; 1813 Vertreter des
+                        Köllmischen Standes des Seehestenschen Kreises. Quelle: Bujack, Georg, Zum
+                        Andenken an die Mitglieder des Königsberger Landtags im Februar 1813, an die
+                        Ostpreußischen Landwehr-Bataillone und das Ostpreußische
+                        National-Cavallerie-Regiment anno 1813 und 1814, Königsberg 1890, S.
+                        118</note>
+                </person>
+                <person xml:id="ed_ljf_3zx_hkb">
+                    <idno type="uri">https://d-nb.info/gnd/11855137X</idno>
+                    <persName type="reg">
+                        <surname>Hippel</surname>
+                        <forename>Theodor Gottlieb von</forename>
+                    </persName>
+                    <birth>1741</birth>
+                    <death>1796</death>
+                </person>
+                <person xml:id="ed_slx_3yr_yhb">
+                    <persName type="reg">
+                        <surname>Hippel</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rechtsanwalt und Notar, Königsberg</note>
+                </person>
+                <person xml:id="ed_qng_1kp_tdb">
+                    <persName type="reg">
+                        <surname>Hirsch</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Geßler, von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1767)</note>
+                </person>
+                <person xml:id="ed_mxk_shl_ddb">
+                    <persName type="reg">
+                        <surname>Hirschberg</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kommerzienrat; Verfasser von: Ein Versuch zur Verständigung über die
+                        Wahrheit der konstitutionellen Monarchie, Berlin 1851</note>
+                </person>
+                <person xml:id="ed_zhy_gy4_dz">
+                    <persName type="reg">
+                        <surname>Hirschel</surname>
+                        <forename>Abraham</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Berlin, königlicher Schutzjude; führte mit Voltaire einen
+                        Rechtsstreit</note>
+                </person>
+                <person xml:id="ed_ahr_l2j_d2b">
+                    <persName type="reg">
+                        <surname>Hirschfeld</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kreisphysikus und Wundarzt in Angerburg</note>
+                </person>
+                <person xml:id="ed_dpx_3st_c2b">
+                    <persName type="reg">
+                        <surname>Hirschsohn</surname>
+                        <forename>Israel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Danzig, Konlursverfahren 1831/32</note>
+                </person>
+                <person xml:id="ed_fm5_qtp_tdb">
+                    <persName type="reg">
+                        <surname>His</surname>
+                        <forename>Pierre</forename>
+                    </persName>
+                    <birth>1692</birth>
+                    <death>1760</death>
+                    <note>Bankier und Kaufmann, Hamburg</note>
+                </person>
+                <person xml:id="ed_akd_1bl_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/118551655</idno>
+                    <persName type="reg">
+                        <surname>Hitler</surname>
+                        <forename>Adolf</forename>
+                    </persName>
+                    <birth>1889</birth>
+                    <death>1945</death>
+                </person>
+                <person xml:id="ed_gjh_ggj_f3b">
+                    <persName type="reg">
+                        <surname>Hoffmann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1739 Lehrer in Doben</note>
+                </person>
+                <person xml:id="ed_zpf_tl1_tcb">
+                    <persName type="reg">
+                        <surname>Hoffmann</surname>
+                        <forename>Christoph Ludwig</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1769 Advokat </note>
+                </person>
+                <person xml:id="ed_d31_nw1_vdb">
+                    <persName type="reg">
+                        <surname>Hofmann</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Hofmannin</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1821)</note>
+                </person>
+                <person xml:id="ed_rhd_kpq_hlb">
+                    <persName type="reg">
+                        <surname>Hohenzollern-Hechingen</surname>
+                        <forename>Karoline von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Weiher, von</name>
+                    </persName>
+                    <birth>1779</birth>
+                    <death>1860</death>
+                    <note>Heirat: <persName key="ed_h4n_y42_b2b">Hermann von
+                            Hohenzollern-Hechingen</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_cyn_srh_4cb">
+                    <persName type="reg">
+                        <surname>Hoffmann</surname>
+                        <forename>Heinrich?</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1862 Lehrer in Stawisken</note>
+                </person>
+                <person xml:id="ed_qkz_3vd_py">
+                    <persName type="reg">
+                        <surname>Hoffmann</surname>
+                        <forename>Hugo</forename>
+                    </persName>
+                    <birth>1847</birth>
+                    <death>1897</death>
+                    <note>1877 Lehrer in Wilkowen</note>
+                </person>
+                <person xml:id="ed_mn5_ktx_hhb">
+                    <persName type="reg">
+                        <surname>Hoffmann</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1755 Pächter des Gutes Taberlack (gemeinsam mit Johann Friedrich
+                        Jantzen)</note>
+                </person>
+                <person xml:id="ed_yw5_yv1_vdb">
+                    <persName type="reg">
+                        <surname>Hoffmann</surname>
+                        <forename>Johann Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter von Labab, 1785 Arrendator von Stawisken</note>
+                </person>
+                <person xml:id="ed_zjl_nws_vkb">
+                    <persName type="reg">
+                        <surname>Hoffmann</surname>
+                        <forename>sen.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_n5q_1st_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/1034849514</idno>
+                    <persName type="reg">
+                        <surname>Hoffmann</surname>
+                        <forename>Tassilo</forename>
+                    </persName>
+                    <birth>1887</birth>
+                    <death>1951</death>
+                </person>
+                <person xml:id="ed_k5j_ddq_tdb">
+                    <persName type="reg">
+                        <surname>Hohberg</surname>
+                        <forename>Freiherr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1769 kurfürstlich-sächsischer Kammerherr </note>
+                </person>
+                <person xml:id="ed_sx4_pmb_hkb">
+                    <persName type="reg">
+                        <surname>Hohendorff</surname>
+                        <forename>Georg von</forename>
+                    </persName>
+                    <birth/>
+                    <death>nach 1554</death>
+                    <note>Pristanien</note>
+                </person>
+                <person xml:id="ed_hct_wv3_hfb">
+                    <idno type="uri">https://d-nb.info/gnd/137601093</idno>
+                    <persName type="reg">
+                        <surname>Hohenlohe-Ingelfingen</surname>
+                        <forename>Adolf Prinz zu</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1873</death>
+                </person>
+                <person xml:id="ed_orj_lj3_jfb">
+                    <idno type="uri">https://d-nb.info/gnd/11695518X</idno>
+                    <persName type="reg">
+                        <surname>Hohenlohe-Öhringen</surname>
+                        <forename>Hugo Fürst zu</forename>
+                    </persName>
+                    <birth>1816</birth>
+                    <death>1897</death>
+                </person>
+                <person xml:id="ed_kdh_3mk_z1b">
+                    <idno type="uri">http://d-nb.info/gnd/118706314</idno>
+                    <persName type="reg">
+                        <surname>Hohenlohe-Schillingsfürst</surname>
+                        <forename>Chlodwig Fürst zu</forename>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1901</death>
+                </person>
+                <person xml:id="ed_h4n_y42_b2b">
+                    <persName type="reg">
+                        <surname>Hohenzollern-Hechingen</surname>
+                        <forename>Hermann von</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1827</death>
+                    <note>1825 preußischer Generalmajor </note>
+                </person>
+                <person xml:id="ed_d1b_1vt_c2b">
+                    <idno type="uri">http://d-nb.info/gnd/1017957053</idno>
+                    <persName type="reg">
+                        <surname>Hohenzollern-Hechingen</surname>
+                        <forename>Maria Anna von</forename>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1888</death>
+                </person>
+                <person xml:id="ed_jlc_1lm_33b">
+                    <persName type="reg">
+                        <surname>Hölbüng</surname>
+                        <forename>Gustav?</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bäckerin Rosengarten</note>
+                </person>
+                <person xml:id="ed_v1q_r4h_tdb">
+                    <persName type="reg">
+                        <surname>Holderneffe</surname>
+                        <forename>Lord</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1756)</note>
+                </person>
+                <person xml:id="ed_a45_pl2_3fb">
+                    <persName type="reg">
+                        <surname>Holland</surname>
+                        <forename>Heinrich Ernst P.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1861-1872 Pfarrer in Dönhoffstädt</note>
+                </person>
+                <person xml:id="ed_hss_y3b_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/117528668</idno>
+                    <persName type="reg">
+                        <surname>Holleben</surname>
+                        <forename>Ernst von</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1908</death>
+                </person>
+                <person xml:id="ed_n4q_dfb_h2b">
+                    <persName type="reg">
+                        <surname>Hollen</surname>
+                        <forename>Albrecht von</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1896</death>
+                    <note>Besitzer der Güter Hohenwalde und Bilshöfen, Kreis Heiligenbeil, Heirat:
+                            <persName key="ed_clh_pjs_kfb">Marie von Restorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_clh_pjs_kfb">
+                    <persName type="reg">
+                        <surname>Hollen</surname>
+                        <forename>Marie von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Restorff, von </name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: <persName key="ed_n4q_dfb_h2b">Albrecht von Hollen</persName>
+                        (1885)</note>
+                </person>
+                <person xml:id="ed_lgz_dvh_lfb">
+                    <idno type="uri">https://d-nb.info/gnd/117391514</idno>
+                    <persName type="reg">
+                        <surname>Hollmann</surname>
+                        <forename>Friedrich von</forename>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1913</death>
+                </person>
+                <person xml:id="ed_jbs_trn_s3b">
+                    <persName type="reg">
+                        <surname>Holstein</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth>1779</birth>
+                    <death/>
+                    <note>Fischereipächter in Stobben</note>
+                </person>
+                <person xml:id="ed_c52_zpq_mfb">
+                    <idno type="uri">https://d-nb.info/gnd/11855316X</idno>
+                    <persName type="reg">
+                        <surname>Holstein</surname>
+                        <forename>Friedrich August von</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1909</death>
+                </person>
+                <person xml:id="ed_ok2_3xf_hy">
+                    <persName type="reg">
+                        <surname>Holstein-Sonderburg-Beck</surname>
+                        <forename>Friederike Herzogin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schlieben, Gräfin von</name>
+                    </persName>
+                    <birth>1757</birth>
+                    <death>1827</death>
+                    <note>Heirat: 1780 Friedrich Karl Ludwig von <persName key="ed_yzk_kkg_hy"
+                            >Schleswig-Holstein-Sonderburg-Beck</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_txh_3w5_sy">
+                    <idno type="uri">http://d-nb.info/gnd/100127495</idno>
+                    <persName type="reg">
+                        <surname>Holstein-Sonderburg-Beck</surname>
+                        <forename>Friedrich Karl Ludwig Herzog von</forename>
+                    </persName>
+                    <birth>1757</birth>
+                    <death>1816</death>
+                    <note>Heirat: 1780 <persName key="ed_ok2_3xf_hy">Friederike Gräfin von
+                            Schlieben</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_emb_rnr_42b">
+                    <persName type="reg">
+                        <surname>Holstein-Sonderburg-Beck</surname>
+                        <forename>Friedrich Wilhelm III. Herzog von</forename>
+                    </persName>
+                    <birth>1723</birth>
+                    <death>1757</death>
+                    <note>(1751)</note>
+                </person>
+                <person xml:id="ed_gsw_5lk_wcb">
+                    <persName type="reg">
+                        <surname>Holstein-Sonderburg-Beck</surname>
+                        <forename>Friedrich Wilhelm Paul Leopold Prinz von</forename>
+                    </persName>
+                    <birth>1785</birth>
+                    <death>1831</death>
+                    <note>Heirat: 1810 Prinzessin Luise Karoline von Hessen-Kassel</note>
+                </person>
+                <person xml:id="ed_agl_ynr_42b">
+                    <idno type="uri">https://d-nb.info/gnd/10419331X</idno>
+                    <persName type="reg">
+                        <surname>Holstein-Sonderburg-Beck</surname>
+                        <forename>Karl Ludwig Herzog von</forename>
+                    </persName>
+                    <birth>1690</birth>
+                    <death>1774</death>
+                </person>
+                <person xml:id="ed_av4_s32_b2b">
+                    <persName type="reg">
+                        <surname>Holzendorff</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Leutnant (1824)</note>
+                </person>
+                <person xml:id="ed_zcd_fsy_4kb">
+                    <persName type="reg">
+                        <surname>Holzheimer</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kavallerist (1814)</note>
+                </person>
+                <person xml:id="ed_rj3_k2r_rdb">
+                    <persName type="reg">
+                        <surname>Honig</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1759, 1762 preußischer Kriegsrat, auf Altentreptow</note>
+                </person>
+                <person xml:id="ed_cb2_c5r_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/116981288</idno>
+                    <persName type="reg">
+                        <surname>Hopf</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1873</death>
+                </person>
+                <person xml:id="ed_gjf_4j2_b2b">
+                    <persName type="reg">
+                        <surname>Horn</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Nordenburg; Jurist, Patrimonialgericht Steinort</note>
+                </person>
+                <person xml:id="ed_lzc_qs4_qjb">
+                    <persName type="reg">
+                        <surname>Horn</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Geheimer Rat, 1838 Arzt in Berlin</note>
+                </person>
+                <person xml:id="ed_c2b_cdq_rdb">
+                    <persName type="reg">
+                        <surname>Horn</surname>
+                        <forename>Graf</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>schwedischer Graf (1756)</note>
+                </person>
+                <person xml:id="ed_ys5_pqq_mfb">
+                    <idno type="uri">https://d-nb.info/gnd/116992530</idno>
+                    <persName type="reg">
+                        <surname>Horn</surname>
+                        <forename>Karl von</forename>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1889</death>
+                </person>
+                <person xml:id="ed_csd_q5v_h2b">
+                    <persName type="reg">
+                        <surname>Horn</surname>
+                        <forename>Wilhelm Rudolf von</forename>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1905</death>
+                    <note>seit 22. März 1888 Kommandant der Feste Boyen; Generalmajor </note>
+                </person>
+                <person xml:id="ed_smj_j4j_h3b">
+                    <persName type="reg">
+                        <surname>Hosaeus</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1857)</note>
+                </person>
+                <person xml:id="ed_mbm_gvn_my">
+                    <idno type="uri">http://d-nb.info/gnd/117012017</idno>
+                    <persName type="reg">
+                        <surname>Hosäus</surname>
+                        <forename>Friedrich Wilhelm</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Hosaeus</name>
+                    </persName>
+                    <birth>1827</birth>
+                    <death>1900</death>
+                </person>
+                <person xml:id="ed_mh1_hdk_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/118775103</idno>
+                    <persName type="reg">
+                        <surname>Hoverbeck</surname>
+                        <forename>Leopold von</forename>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1875</death>
+                </person>
+                <person xml:id="ed_y3r_ldb_h2b">
+                    <persName type="reg">
+                        <surname>Höwig</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death>nach 1914</death>
+                    <note>1885 Gutspächter von Stawken</note>
+                </person>
+                <person xml:id="ed_c1g_zgs_d2b">
+                    <persName type="reg">
+                        <surname>Hoyer</surname>
+                        <forename>Otto</forename>
+                    </persName>
+                    <birth/>
+                    <death>nach 1904</death>
+                    <note>1865 Lehrer in Lötzen</note>
+                </person>
+                <person xml:id="ed_gdd_l14_xdb">
+                    <persName type="reg">
+                        <surname>Hoym</surname>
+                        <forename>Antonie Louise</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Dyhern und Schönau, von</name>
+                    </persName>
+                    <birth>1745</birth>
+                    <death>1820</death>
+                    <note>Heirat: <persName key="ed_gll_314_xdb">Karl Georg von Hoym</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_gll_314_xdb">
+                    <idno type="uri">https://d-nb.info/gnd/117028568</idno>
+                    <persName type="reg">
+                        <surname>Hoym</surname>
+                        <forename>Karl Georg von</forename>
+                    </persName>
+                    <birth>1739</birth>
+                    <death>1807</death>
+                </person>
+                <person xml:id="ed_fdz_1m3_ycb">
+                    <persName type="reg">
+                        <surname>Hoyoll</surname>
+                        <forename>August Wilhelm</forename>
+                    </persName>
+                    <birth>1752</birth>
+                    <death>1828</death>
+                    <note>1794 Oberlandesgerichtspräsident und Ritter des roten AdlerOrdens dritter
+                        Klasse; 1813 Direktor der preußischen Regierung in Warschau</note>
+                </person>
+                <person xml:id="ed_fnv_3rv_scb">
+                    <persName type="reg">
+                        <surname>Hube</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784/85 Untertan auf den Steinortschen Gütern</note>
+                </person>
+                <person xml:id="ed_cvt_kx5_zdb">
+                    <persName type="reg">
+                        <surname>Huber</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1944 Feldwebel </note>
+                </person>
+                <person xml:id="ed_kvp_cm1_dy">
+                    <idno type="uri">http://d-nb.info/gnd/118554190</idno>
+                    <persName type="reg">
+                        <surname>Huch</surname>
+                        <forename>Ricarda</forename>
+                    </persName>
+                    <birth>1864</birth>
+                    <death>1947</death>
+                </person>
+                <person xml:id="ed_vfj_g42_3fb">
+                    <persName type="reg">
+                        <surname>Hüllesem</surname>
+                        <forename>Amalie Freiin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Keyserlingk, von</name>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1896</death>
+                    <note>Heirat: <persName key="ed_wrm_fyz_g2b">Otto Karl Freiherr von
+                            Hüllesem-Meerscheid</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_wrm_fyz_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/133362299</idno>
+                    <persName type="reg">
+                        <surname>Hüllessem-Meerscheid</surname>
+                        <forename>Otto Karl Freiherr von</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1902</death>
+                </person>
+                <person xml:id="ed_ht3_yld_2y">
+                    <idno type="uri">http://d-nb.info/gnd/117049107</idno>
+                    <persName type="reg">
+                        <surname>Hülsen</surname>
+                        <forename>Georg von</forename>
+                    </persName>
+                    <birth>1858</birth>
+                    <death>1922</death>
+                </person>
+                <person xml:id="ed_gvb_5rq_mfb">
+                    <idno type="uri">https://d-nb.info/gnd/103079890</idno>
+                    <persName type="reg">
+                        <surname>Hülsen</surname>
+                        <forename>Johann Dietrich von</forename>
+                    </persName>
+                    <birth>1693</birth>
+                    <death>1767</death>
+                </person>
+                <person xml:id="ed_zsd_25j_gz">
+                    <idno type="uri">http://d-nb.info/gnd/118554700</idno>
+                    <persName type="reg">
+                        <surname>Humboldt</surname>
+                        <forename>Alexander von</forename>
+                    </persName>
+                    <birth>1769</birth>
+                    <death>1859</death>
+                </person>
+                <person xml:id="ed_jgl_jbt_ncb">
+                    <idno type="uri">http://d-nb.info/gnd/100295622</idno>
+                    <persName type="reg">
+                        <surname>Hummel</surname>
+                        <forename>Johann Erdmann</forename>
+                    </persName>
+                    <birth>1769</birth>
+                    <death>1852</death>
+                </person>
+                <person xml:id="ed_odj_2bn_zcb">
+                    <idno type="uri">http://d-nb.info/gnd/137645511</idno>
+                    <persName type="reg">
+                        <surname>Hünerbein</surname>
+                        <forename>Friedrich Heinrich Karl von</forename>
+                    </persName>
+                    <birth>1762</birth>
+                    <death>1819</death>
+                </person>
+                <person xml:id="ed_ig4_c45_scb">
+                    <persName type="reg">
+                        <surname>Hurtian</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Untertan auf den Steinortschen Gütern</note>
+                </person>
+                <person xml:id="ed_upg_zrp_tdb">
+                    <persName type="reg">
+                        <surname>Husarzewski</surname>
+                        <forename>Karl Anton (Graf)</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1767 polnischer Kammerherr</note>
+                </person>
+                <person xml:id="ed_q5p_cgv_ldb">
+                    <persName type="reg">
+                        <surname>Hutten Czapski</surname>
+                        <forename>Antoni Graf</forename>
+                    </persName>
+                    <birth>1725</birth>
+                    <death>1792</death>
+                    <note>polnischer Generalmajor</note>
+                </person>
+                <person xml:id="ed_o52_ftz_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/118775375</idno>
+                    <persName type="reg">
+                        <surname>Hutten Czapski</surname>
+                        <forename>Bogdan Graf</forename>
+                    </persName>
+                    <birth>1851</birth>
+                    <death>1937</death>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

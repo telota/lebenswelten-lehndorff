@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_znp_fww_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Burggraf und Graf zu Dohna an Anna Gräfin von Lehndorff. Schlodien, 1.
+                    April 1880</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_znp_fww_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 465, Bl. 6</idno>
+                    </msIdentifier>
+                    <p>-7</p>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iy2_k2t_g2b">Dohna-Schlodien, Carl Burggraf und Graf zu
+                        (1814-1890)</persName>
+                    <placeName key="ed_c3f_wxz_g1b">Schlodien</placeName>
+                    <date when="1880-04-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/465/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Schlodien 1. April 80</dateline>
+					          <salute>Gnädigste Gräfin!</salute>
+                </opener>
+				        <p>Das gnädige Schreiben in Angelegenheit des <orgName key="ed_zxf_yqt_ncb">Provinzial-Siechenhauses</orgName> habe ich mit ehrerbietigem Dank erhalten
+                    und beeile mich, dasselbe gehorsamst zu beantworten.</p>
+                <p>Die Ansicht, dass es zweckmäßig sei, die Pflege der Siechen (vielleicht auch die
+                    ganze Armenpflege) den Kreisen zu übertragen, ist eine sehr verbreitete, wie
+                    denn überhaupt seit der neuen Selbstverwaltung das Streben nach Dezentralisation
+                    in unserer Provinz in sehr entschiedener Weise hervortritt, und ich will es
+                    nicht leugnen, dass auch ich dafür eine gewisse Sympatie habe. Ob diese Tendenz
+                    eine richtige und segensreiche sein wird, dass kann allerdings nur die Zukunft
+                    lehren.</p>
+                <p>So ist auch unser Kreis (<placeName key="ed_jnz_jhp_tdb">Pr. Holland</placeName>)
+                    bereits mit Gründung eines Kreis-Siechenhauses vorgegangen, und zwar mit so
+                    gutem Erfolg, dass das Unternehmen finanziell gesichert ist. </p>
+                <p>Unter dem Einfluss dieser Richtung würde vielleicht auch im Provinziallandtage
+                    eine demselben günstige Entscheidung zu erwarten sein, wenn der Landtag nicht
+                    vor seinen eigenen positiven Beschluss, <seg type="comment">
+                  <orig>zur Feier der
+                            goldenen Hochzeit unseres Herrscherpaares ein Provinzial (also
+                            Central-)Siechenhaus zu begründen,</orig>
+                  <note xml:id="no4l_nbt_g2b">Das
+                                <orgName key="ed_bfw_stj_jlb">Wilhelm-Augusta-Siechenhaus in
+                                Preußisch Eylau</orgName> wurde 1882 eröffnet.</note>
+               </seg> gestellt
+                    wäre.</p>
+                <p>Was meine eigene persönliche Stellung betrifft, so bedaure ich aufrichtig, dass
+                    ich in dieser Sache die Dezentralisation nicht werde so vertreten können, als
+                    ich es wohl möchte, da ich zufällig Referent in derselben bin und als solcher
+                    die Beschlüsse des Provinzial-Ausschusses zu vertreten habe. </p>
+                <p>Aber immerhin ist es <hi rendition="#u">sehr</hi> möglich, dass diese
+                    Angelegenheit auf dem Provinzial-Landtag dilatorisch behandelt und in diesem
+                    Falle würde höchstwahrscheinlich bei dem nächsten Landtage ein der
+                    Dezentralisation günstiger Beschluss zu erwarten sein.</p>
+                <p>Der rückständige Betrag für die <orgName key="ed_bnt_4lz_ny">Stadtmission</orgName> erfolgt mit 10 M durch beigehende Postanweisung ganz
+                    gehorsamst.</p>
+				        <closer>
+					          <salute>Mit wahrer Verehrung habe ich die Ehre mich zu nennen, Gnädigster Gräfin ganz
+                        gehorsamster</salute>
+					          <signed>Dohna-Schlodien</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

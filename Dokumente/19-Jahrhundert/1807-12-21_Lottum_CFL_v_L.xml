@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_n3f_wxj_dbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Graf von Wylich und Lottum an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Memel, 21. Dezember 1807</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_n3f_wxj_dbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 213, Bl. 9</idno>
+                    </msIdentifier>
+                    <p> </p>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 213 f. </bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ayg_r5j_gz">Wylich und Lottum, Carl Friedrich Graf von
+                        (-)</persName>
+                    <placeName key="ed_oxb_txl_5y">Memel</placeName>
+                    <date when="1807-12-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zur Akte im Dokument vom <ref target="lehndorff_jkk_fbk_dbb">20. Januar 1815</ref>. - Im November hatte
+                    Lehndorff um seinen Abschied gebeten, den der König ihm gewährte. Zum 25.
+                    Dezember 1807 schied er aus dem Militärdienst aus, vgl. Schultze, Lebensbild, S.
+                    213. Auf das ihm zustehende halbe Traktament aus dem Heeresdienst verzichtete er
+                    zugunsten der Staatskasse. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Memel, den 21. Dezember 1807</dateline>
+					          <salute>Hochgeborener Graf! <lb/>Insonders Hochgeehrter Herr Major!</salute>
+                </opener>
+				        <p>Die von Euer Hochgeboren mir zugesandte Immediatvorstellung habe ich an die Allerhöchste
+                    Behörde befördert. <persName key="ed_tl1_nbf_4y">Seine Majestät der
+                        König</persName> bedauerten herzlich, Sie aus der Armee zu verlieren, indem
+                    Allerhöchstdieselben Sie persönlich schätzen und Sie gern im Dienst behalten
+                    hätten. Allerhöchstdieselben verkennen indessen die so edlen Beweggründe, die
+                    Ihr Gesuch veranlasst haben, nicht, und <seg type="comment">
+                  <orig>haben daher
+                            Ihrer Verabschiedung nicht weiter entgegen sein mögen</orig>
+                  <note xml:id="nagr_wzj_dbb">Schon im September 1807 hatte Lehndorff wegen
+                            dringender Familienangelegenheiten - der <persName key="ed_csb_mdf_cy">Vater</persName> war am Ende des Jahres 1805 schwer erkrankt -
+                            einen dreimonatigen Urlaub erbeten, der ihm am, 25. September 1807
+                            gewährt wurde. - Auf Lehndorffs Entlassungsgesuch antwortete der König
+                            persönlich am 20. Dezember 1807 aus Memel. Die Abschriften liegen der
+                            Akte bei, Bl. 10.</note>
+               </seg>, umso weniger als Allerhöchst Ihnen die
+                    angenehme Aussicht bleibt, dereinst wieder von Ihnen Diensten Gebrauch machen zu
+                    können, sobald die Umstände es erfordern. Mir geht der Verlust, den die Armee
+                    durch Ihren Austritt erleidet, ebenfalls nahe, wenn aber auch das Verhältnis, in
+                    welchem ich mit Ihnen durch den Dienst stand, getrennt worden ist, so schmeichle
+                    ich mir doch, dass Euer Hochgeboren mir ferner Ihr gütiges Andenken gönnen
+                    werden.</p>
+				        <closer>
+					          <salute>Mit vorzüglichster Hochachtung beharre ich Euer Hochgeboren ganz ergebenst treuer
+                        Freund und Diener</salute>
+					          <signed>Lottum</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

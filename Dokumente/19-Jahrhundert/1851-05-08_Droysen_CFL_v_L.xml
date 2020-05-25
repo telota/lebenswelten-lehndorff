@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hvq_hx3_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Gustav Droysen an Carl Friedrich Ludwig Graf von Lehndorff. Kiel, 8. Mai 1851</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hvq_hx3_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 298-300 </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_dth_4x3_wcb">Droysen, Johann Gustav (-)</persName>
+                    <placeName key="ed_iwp_rx3_wcb">Kiel</placeName>
+                    <date when="1851-05-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Nach dem Original im Archiv in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. - Auf das Schreiben Droysens entwarf Lehndorff eine
+                    knappe Antwort, in der er auf sein Alter und schlechtes Gedächtnis verwies.
+                    Droysen habe aus <quote>so guten Quellen geschöpft</quote>, das Wort authentisch
+                    strich er wieder, dass er wenig hinzufügen könne. Eine Antwort auf dessen Fragen
+                    gab Lehndorff nicht, wohl auch, da der <persName key="ed_tl1_nbf_4y">König</persName> alle Beteiligten an der Konvention von <placeName key="ed_k13_kxp_vcb">Tauroggen</placeName> zum Stillschweigen verpflichtet
+                    hatte. Später machte <persName key="ed_q1t_d2f_4y">Schön</persName> Droysens
+                    Darstellung Yorcks verantwortlich, der auf Schöns Aussagen keinen Wert gelegt
+                    hatte. <quote>Für den Grafen Lehndorff darf ich wohl sagen, dass, wenn der erste
+                        Teil von <persName key="ed_f2c_1mp_vcb">Yorcks</persName> Leben ein treues
+                        Bild gegeben hätte, er alles, was er von Yorck weiß, bereitwillig mitgeteilt
+                        haben würde. Jetzt stellt er nach dem ersten Teil die Yorcksche Biographie
+                        in die Klasse der jetzt modernen Biographien, und mit diesen wolle er nichts
+                        zu tun haben.</quote> Vgl. Rühl, Friedrich, Briefwechsel des Ministers und
+                    Burggrafen von Marienburg Theodor von Schön mit G. H. Pertz und J. G. Droysen,
+                    Leipzig 1896, S. 201 und 227. Der gekränkte Droysen verzichtete daraufhin bei
+                    seiner Anwesenheit in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> auf
+                    eine persönliche Begegnung mit Lehndorff, so Schultze, Lebensbild, S. 298 ff. -
+                    Erst die Veröffentlichungen „Aus den Papieren des Ministers und Oberburggrafen
+                    Theodor von Schön‟ traten der Darstellung Droysens entgegen und hoben Lehndorffs
+                    Rolle hervor; der Briefwechsel zwischen Schön und Droysen erschien erst 40 Jahre
+                    nach Schöns Tod. - Auf Veranlassung <persName key="ed_wms_mh2_cy">Anna von
+                        Lehndorffs</persName> schrieben der frühere Hauslehrer <persName key="ed_zkm_whl_2y">Carl Meinhard von Lehndorffs</persName>, der Geheime
+                    Regierungsrat <persName key="ed_cz1_f3l_ddb">Tyrol</persName> (Danzig, 7.
+                    September 1880) und der langjährige Oberinspektor der Herrschaft Steinort,
+                        <persName key="ed_db2_gvp_dz">Messerschmidt</persName>, (Königsberg, 23.
+                    November 1883) ihre Erinnerungen an 1812, vgl. Schultze, Lebensbild, S. 320. Sie
+                    selbst schrieb an <persName key="ed_fd1_hc1_my">Schultze</persName> am 27. Juni
+                    1893 (ebd.), ihr Schwiegervater habe mehrfach ausgesprochen, dass er vor
+                    Abschluss der Konvention Yorck erreicht und ihn dazu mit bewogen habe; sein
+                    Bericht habe <quote>Yorck den Rücken gedeckt</quote>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Kiel, den 8. Mai 1851</dateline>
+					          <salute>Hochgeborener Herr Graf <lb/>Hochgeehrter Herr Landhofmeister</salute>
+                </opener>
+				        <p>Euer Hochgeboren wollen mir gestatten, mich, nachdem ich bei meiner zu kurzen Anwesenheit in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> mich persönlich Ihnen
+                    vorzustellen vergebens bemüht gewesen bin, mit den Anliegen, welche ich an Sie
+                    hatte, schriftlich an Ihre Güte wende. Ew. Hochgeboren sind einer der wenigen,
+                    die noch Zeugnis geben können von den großen Vorgängen im Januar und Februar
+                    1813, und gerade Sie haben wie wenige in dem Mittelpunkt der wichtigsten
+                    Ereignisse gestanden.</p>
+                <p>Ich würde nicht wagen, Ew. Hochgeboren mit meinen Fragen und Bitten zu
+                    belästigen, wenn es sich nicht um die glorreichste Zeit der Geschichte der
+                    Monarchie und namentlich <placeName key="ed_uvt_4j4_dz">Ostpreußens</placeName>
+                    handelte, die, nachdem sie solange mit halber Wahrheit erzählt und oft in ihren
+                    wichtigsten und großartigsten Momenten verkürzt und geflissentlich abgeschwächt
+                    worden, endlich einmal ihrer vollen Bedeutung nach dargestellt werden muss und
+                    es nur werden kann, wenn das Zeugnis der noch Lebenden dem schriftlich
+                    vorliegenden Material zu Hilfe kommt. Und dem Kundigen mag die Äußerung
+                    verziehen werden, dass Ew. Hochgeboren Namen in wichtigsten Momenten mit zu
+                    nennen ist.</p>
+                <p>Zunächst muss ich mich anklagen, dass in dem schon veröffentlichten Teil der
+                        <persName key="ed_f2c_1mp_vcb">Yorckschen</persName> Biographie der Anteil
+                    nicht erwähnt ist, den Ew. Hochgeboren am 30/31 Dezb. 1812 in <placeName key="ed_olw_h3d_py">Tilsit</placeName> an den Entschließungen <persName key="ed_vhm_mqk_wcb">Massenbachs</persName> gehabt haben. <seg type="comment">
+                  <orig>Erst in den letzten Wochen bei meiner Anwesenheit in
+                                <placeName key="ed_nlz_n3l_ddb">Arnau</placeName> erhielt ich einige
+                            Notizen darüber,</orig>
+                  <note xml:id="nrq2_5cj_wcb">Vgl. Rühl,
+                            Briefwechsel, S. 224. Nach Schultze, Lebensbild, S. 323 f., war Droysen
+                            durch Schön am 22. März 1851 über die Vorgänge 1812 und den Anteil
+                            Lehndorffs in Kenntnis, ignorierte die Berichte Schöns jedoch für seine
+                            Darstellung. </note>
+                    </seg> die mir den Wunsch rege machen, von Ew. Hochgeboren selbst genauere
+                    Angaben zu erhalten. Dies umso mehr, da eine wahrscheinlich bald nötige zweite
+                    Auflage des ersten Teils der Yorckschen Biographie mir Gelegenheit geben würde,
+                    mein Versäumnis zu verbessern.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Über Ew. Hochgeboren Reise nach <placeName key="ed_eby_wkz_ny">Lyck</placeName> um den 20. Jan. zur Begrüßung
+                            des <persName key="ed_m25_tr1_1bb">russischen Kaisers</persName> liegt
+                            mir Dero eigenhändiges und höchst anziehendes Schreiben an Präsident
+                                <persName key="ed_q1t_d2f_4y">Schön</persName> vor. </orig>
+                  <note xml:id="nx45_sll_3lb">Siehe das Dokument vom <ref target="lehndorff_fnt_r1z_wy">18. Januar 1813</ref>. </note>
+               </seg>Im
+                    besonderen Maße wichtig sind mir die Bemerkungen, die dasselbe über Freiherrn
+                    vom <persName key="ed_hcy_qpp_vcb">Stein</persName> und dessen Tendenzen
+                    enthält. Es würde mir von höchstem Interesse sein, wenn Ew. Hochgeboren mir,
+                    vielleicht aus Ihren Korrespondenzen und Tagebüchern jener Zeit sowie aus der
+                    Erinnerung, Genaueres über diese Dinge mitzuteilen vermöchten.</p>
+                <p>Dann folgen jene unvergleichlichen Tage der ständischen Versammlung in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. Ew. Hochgeboren waren bei jedem
+                    bedeutenden Vorgang derselben, bei jeder wichtigsten Kommission unmittelbar
+                    tätig. Dass es doch möglich wäre, genau alle die Vorgänge zu konstatieren, die
+                    damals sich mit durch Sie und unter Ihren Augen machten. Wie wenig reichen da
+                    die öffentlichen Aktenstücke aus. Ja, ihnen gegenüber möchte man sagen, dass das
+                    Wichtigste und Entscheidende außerhalb ihrer ist. Die Privatbesprechungen, die
+                    Bedenken her und hin, die Vermittlung zwischen den scharf gegeneinander
+                    stehenden russischen und preußischen Ansichten, zwischen <persName key="ed_hcy_qpp_vcb">Stein</persName> auf der einen, <persName key="ed_f2c_1mp_vcb">Yorck</persName> und <persName key="ed_zvy_mbj_qhb">Auerswald</persName> auf der anderen Seite, kurz alles das, was die in den
+                    Akten vorliegenden Resultate erst ermöglichte, können nur Ew. Hochgeboren u.
+                    Minister v. <persName key="ed_q1t_d2f_4y">Schön</persName> aufklären. Und jede
+                    weitere Aufklärung mehr zeigt, in wie hohem Grade ehrenhaft, patriotisch und
+                    besonnen damals <placeName key="ed_uvt_4j4_dz">Ostpreußens</placeName> Stände
+                    verfuhren. Ja gestatten Ew. Hochgeboren mir hinzuzufügen: Der Adel <placeName key="ed_uvt_4j4_dz">Ostpreußens</placeName> hat damals eine Hoheit der
+                    Gesinnung und eine Kraft des Handelns bewährt, dass man darauf hinweisen darf,
+                    als auf ein Musterbild wahrer und würdiger Aristokratie. Auf die Gefahr hin, Ew.
+                    Hochgeboren mit zudringlicher Bitte lästig zu werden, wage ich es, Sie inständig
+                    um Erläuterung und Mitteilung vor allem über diese Dinge zu bitten; ich beklage
+                    es, dass mir nicht das Glück geworden, Ew. Hochgeboren persönlich nach diesem
+                    und jenem zu fragen, ich weiß, wie viel leichter und rascher sich erzählen als
+                    schreiben lässt, aber ich wage zu hoffen, dass das große geschichtliche und
+                    patriotische Interesse, welches an den genannten Dingen haftet, meine Bitte bei
+                    Ew. Hochgeboren befürworten wird.</p>
+                <p>Ich brauche nicht erst hinzuzufügen, wie lehrreich und dankenswert mir jede
+                    weitere Nachricht aus dem dann folgenden glorreichen Kriege sein wird, an dem
+                    Ew. Hochgeboren mit dem National-Kavallerie-Regiment einen so glänzenden Anteil
+                    genommen haben. Wenn ich meine Bitte um dero gewogentliche Nachsicht wiederhole,
+                    habe ich die Ehre in aufrichtiger Verehrung und Ergebenheit zu unterzeichnen</p>
+				        <closer>
+					          <salute>Ew. Hochgeboren ganz gehorsamster</salute>
+					          <signed>Joh. Gust. Droysen Prof.</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

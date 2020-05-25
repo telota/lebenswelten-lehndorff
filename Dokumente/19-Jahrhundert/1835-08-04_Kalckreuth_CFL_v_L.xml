@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ckb_bcf_4y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ludwig Ernst Heinrich Graf von Kalckreuth an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Berlin, 24. August 1835</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ckb_bcf_4y</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 333, Bl. 14-15</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_rk2_mmz_ny">Kalckreuth, (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1835-08-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Siehe auch den Brief vom 2. November 1835 (Bl. 16-17) mit einem Bericht über
+                        <placeName key="ed_ctz_tcf_4y">Kalisch</placeName> und weiteren Nachrichten
+                    über den preußischen Hof (Wunsch des Prinzen Friedrich nach einer Scheidung;
+                    Katharinen-Orden für Prinzessin Wilhelm; Reise des Prinzen Albrecht nach Italien
+                    etc.).</note>
+            </correspDesc>
+            <abstract>
+                <p>Antwort auf dessen Brief vom 4. August. - Kalckreuth teilt Lehndorff mit, dass
+                    sein Sohn als Zuschauer nach <placeName key="ed_ctz_tcf_4y">Kalisch</placeName>
+                    reise. Er habe für sein Alter ein <quote>ungemein scharfes und unbefangenes
+                        Auge, so dass wir durch ihn manches interessantes zu erhalten hoffen
+                        können</quote>. Auf Lehndorffs Frage nach den jungen Berliner Höfen
+                    antwortet er, dass die Prinzessinnen <quote>bloß kokette Maulheldinnen</quote>
+                    seien; dies würde sich über die Gesellschaften bis in die Provinz verbreiten. -
+                    Der Polizeipräsident habe behauptet, Ferdinand von <persName key="ed_vrm_zcf_4y">Schlippenbach</persName> sei in den Tumulten vom 3., 4. und 5. geblieben. -
+                    Zur Erkrankung des <persName key="ed_tl1_nbf_4y">Königs</persName>. - Zur
+                    Erkrankung <persName key="ed_zxh_vgr_gz">Wittgensteins</persName>. - Zur
+                    bevorstehenden Revue in <placeName key="ed_ctz_tcf_4y">Kalisch</placeName>. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/333/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

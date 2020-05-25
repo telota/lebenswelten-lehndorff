@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_drj_jxd_sdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 7.
+                    April bis 15. Mai 1769</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_drj_jxd_sdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Heiratskreise</p>
+                </note>
+                <note type="editorial">Mitte September reist Lehndorff nochmals nach <placeName key="ed_tjn_3rc_py">Schlesien</placeName>. Nach Eintreffen des Glogauer
+                    Geistlichen heiratet er <quote>in aller Stille ohne Prunk und Lärm</quote>.
+                    Seine Schwiegereltern sind die <quote>bravsten Leute von der Welt</quote> und
+                    erweisen ihm viele Aufmerksamkeiten. Am 26. September reist er mit seiner Frau
+                    in Begleitung der Schwiegereltern ab. Auf dem Weg werden zahlreiche Verwandte
+                    der Ehefrau besucht. In <placeName key="ed_zrq_mcq_tdb">Herrnhut</placeName>
+                    nehmen die Eheleute von den Schwiegereltern Abschied. Am 15. kommen sie in
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> an. Bevor Lehndorff seine
+                    Frau an den Höfen vorstellt, engagiert er einen Tanzmeister. Der Herbst vergeht
+                    ruhig, er kann sich der Lektüre widmen und das Theater besuchen. Erst im
+                    November mit den bevorstehenden höfischen Geburtstagen muss er seinen
+                        <quote>unnützen Pflichten am Hofe nachkommen</quote>, vgl. ebd. S.
+                    161-167.</note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard,
+                            Dreißig Jahre am Hof Friedrichs des Großen ... Nachträge, Bd. 2, Gotha
+                            1913, S. 146-153</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+               
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date from="1769-04-07" to="1769-05-15" cert="high"/>
+                
+           
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <p>Ich bin in großer Unruhe. In einigen Tagen reise ich nach <placeName key="ed_tjn_3rc_py">Schlesien</placeName>, um die Gräfin von <persName key="ed_gnc_c1m_2y">Schmettau</persName> kennenzulernen, die ich heiraten soll.
+                Wolle Gott, dass sie zu meinem Glück beiträgt. Man hört nur Gutes von ihr.</p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>
+            <hi rendition="#u">7. April</hi>. Ich reise nachmittags ab und komme am 8. um 5
+                Uhr morgens nach <placeName key="ed_s3m_f12_ycb">Frankfurt a. O.</placeName> Hier
+                wechsele ich nur die Pferde und fahre gleich wieder weiter über <placeName key="ed_zcz_scq_tdb">Ziebingen</placeName>. In <placeName key="ed_y2c_lvd_ycb">Crossen</placeName> speise ich zu Mittag, immer voller Unruhe über das Los, das
+                mich erwartet. Da ich die ganze Nacht reisen will, so fahre ich weiter. In dem Wald
+                vor <placeName key="ed_kwj_vcq_tdb">Naumburg</placeName> werde ich erbärmlich
+                umgeworfen. Alle Fenster meines Wagens zerspringen und es ist ein wahres Wunder,
+                dass ich mit heiler Haut davonkomme. In Naumburg verbringe ich eine sehr unangenehme
+                Nacht. Am 9. fahre ich von dort weiter und komme durch Sagan, das dem Fürsten von
+                    <persName key="ed_arx_xcq_tdb">Lobkowitz</persName> gehört, dem wunderlichsten
+                aller Sterblichen, der nur nachts ausgeht und in kurzem eine Prinzessin von Carignan
+                heiraten wird. Zu Mittag bin ich in <placeName key="ed_ujt_zcq_tdb">Sprottau</placeName> und übernachte in <placeName key="ed_abz_1dq_tdb">Bunzlau</placeName>. Am 10. fahre ich nach <placeName key="ed_asn_bdq_tdb">Plagwitz</placeName> zu einem Baron <persName key="ed_k5j_ddq_tdb">Hohberg</persName>, Kammerherr am sächsischen Hofe, wo ich eine Aufnahme finde,
+                wie man sie besser nirgends finden kann. Er ist ein sehr reicher Mann, der ein
+                ausgezeichnetes Haus und eine gute Tafel hält. Er hat viel gesehen und war schon
+                mehrmals in <placeName key="ed_jxm_5vf_4y">England</placeName>. Seine Frau, eine
+                geborene Ziegler, ist eine liebenswürdige Dame; sie hat ihren Bruder und ihre
+                Schwester, eine Stiftsdame, bei sich. Kurz, es gefällt mir hier sehr gut. Der Baron
+                besitzt eine schöne Kupferstichsammlung und prächtige Pferde. Nachdem ich am 11.
+                noch bei ihm auf dem prächtigsten Tafelgeschirr diniert habe, reise ich nachmittags
+                auf einem schrecklichen Wege durch beinahe unzugängliche Berge nach <placeName key="ed_f2c_3dq_tdb">Hirschberg</placeName> weiter, wo ich um 11 Uhr ankomme. Am
+                12. schicke ich einen Extraboten nach <placeName key="ed_wky_11b_kz">Stonsdorf</placeName>, um mich anzumelden, worauf der Graf die
+                Liebenswürdigkeit hat, mir sofort seine Pferde zu schicken und mich durch einen
+                Herrn v. <persName key="ed_ffc_kdq_tdb">Veichel</persName> begrüßen zu lassen.</p>
+                <p>Mittags 12 Uhr treffe ich in <placeName key="ed_wky_11b_kz">Stonsdorf</placeName>
+                    ein und sehe beklommenen Herzens dem Schicksal entgegen, das mich erwartet. Die
+                    Gräfin-Mutter kommt mir entgegen und empfängt mich sehr freundlich. Sie führt
+                    mich in ihr Zimmer und stellt mir ihre beiden Töchter vor, wobei sie mir den
+                    Namen der älteren nennt, die ich anmutig und sehr liebenswürdig finde. Gleich
+                    darauf frage ich nach dem Herrn Grafen, der an Gicht leidet. Ich begebe mich in
+                    sein Zimmer, und er empfängt mich sehr höflich. Dann gehen wir zu Tisch, wobei
+                    indes die Unterhaltung, wie es ja bei solchen erstmaligen Begegnungen zu
+                    geschehen pflegt, nicht recht in Fluss kommen will, obwohl ich bestrebt bin,
+                    mich möglichst ungezwungen zu geben. Ich verbringe den ganzen Nachmittag beim
+                    Grafen, und nach dem Abendessen ziehe ich mich auf mein Zimmer zurück. </p>
+                <p>
+            <hi rendition="#u">13. April</hi>. Es ist eine schöne Gepflogenheit dieses
+                    Hauses, dass morgens jeder auf seinem Zimmer bleibt. Man bringt das Frühstück
+                    herein und lässt einen dann in Ruhe.</p>
+                <p>Ich suche einen älteren Herrn <persName key="ed_lgd_4dq_tdb">v. Logau</persName>
+                auf, der mit dem Grafen <persName key="ed_eyb_g1m_cz">Schmettau</persName> und
+                mehreren anderen jungen Herren Reisen gemacht hat. Er ist 76 Jahre alt und besitzt
+                reiche Kenntnisse; er ist ein zweiter alter <persName key="ed_lgn_53h_scb">Pöllnitz</persName>,</p>
+                <p>Nachdem ich nach Tisch Gottes Beistand erflehe, begebe ich mich mit der Gräfin in
+                ihr Zimmer und erkläre ihr, falls ich den Beifall ihrer Tochter gefunden hätte,
+                würde ich mich glücklich schätzen, ihr Gatte zu werden. Wie sprechen dann mit dem
+                Vater darüber, und die Sache wird in aller Freundlichkeit ins Reine gebracht. Je
+                mehr ich die junge Gräfin kennen lerne, desto besser gefällt sie mir. Sie scheint
+                ein gutes Herz zu haben, und das ist bei einem so ernsten Bunde die Hauptsache. Sie
+                hat eine schön klingende Stimme, besitzt Geist, und ich hoffe, mit ihr glücklich zu
+                werden.</p>
+                <p>Wenige Tage später findet die Verlobung statt. <seg type="comment">
+               <orig>Graf
+                        Schmettau, ein Bruder meines zukünftigen Schwiegervaters, wohnt der Feier
+                        bei. Er ist auch ein sehr würdiger Mann, obgleich er kein guter Ehegatte
+                        gewesen sein muss, da er von seiner Frau, einer Gräfin <persName key="ed_mvr_tdq_tdb">Golowkin</persName>, geschieden wurde.</orig>
+               <note xml:id="nrw4_k5p_v2b">
+                  <persName key="ed_tll_ddf_mjb">Bernhard Friedrich
+                            Wilhelm Graf von Schmettau</persName> (1724-1802) hatte am 26. August
+                        1748 in Den Haag die russische Gräfin <persName key="ed_mvr_tdq_tdb">Natalia
+                            Amalie Helene Golovkina</persName> geheiratet.</note>
+            </seg>
+         </p>
+                <p>Nachdem ich meinen Geist wieder in etwas ruhigere Bahnen gelenkt, beginne ich
+                diese schlesischen Landschaften etwas zu durchstreifen, die einen eigenen Reiz
+                haben, obwohl sie einem anfangs schrecklich vorkommen. Man sieht nur Felsen und
+                Berge, wenn man sie sich aber näher ansieht, findet man reizende Partien. Diese
+                Felsen wechseln mit grünen Flächen ab, und die Täler haben einen prächtigen Boden
+                und wundervolle Wiesen. Das Land ist stark bevölkert mit Arbeitern aller
+                erdenklichen Zweige der Industrie. Läge der Handel nicht so darnieder, wie es
+                gegenwärtig der Fall ist, so wäre das ein ungemein reiches Land. Ich besuche
+                    <placeName key="ed_hsq_xdq_tdb">Warmbrunn</placeName>, <placeName key="ed_wqy_ydq_tdb">Arnsdorf</placeName> und eine Gräfin <persName key="ed_b3b_12q_tdb">Lodron</persName>, drei Sehenswürdigkeiten der hiesigen
+                Gegend.</p>
+                <p>
+            <hi rendition="#u">30. April</hi>. Nachdem ich mich über drei Wochen in
+                    <placeName key="ed_wky_11b_kz">Stonsdorf</placeName> aufgehalten, reise ich
+                wieder ab voll Bedauern, mein liebe <persName key="ed_gnc_c1m_2y">Amalie</persName>
+                zurücklassen zu müssen. Graf <persName key="ed_eyb_g1m_cz">Schmettau</persName>
+                begleitet mich bis <placeName key="ed_f2c_3dq_tdb">Hirschberg</placeName>, wo der
+                Postmeister mir mit einem sehr hübschen Imbiss aufwartet. Dann fahre ich im Wagen
+                des Grafen noch bis <placeName key="ed_mcy_22q_tdb">Hohlstein</placeName> zum Grafen
+                    <persName key="ed_cnm_g2q_tdb">Roedern</persName>, der eine Schwester meines
+                Schwiegervaters zur Frau hat. Ich werde da sehr freundlich aufgenommen und lerne
+                noch eine zweite Schwester kennen, die unverheiratet ist und die <persName key="ed_xbh_32q_tdb">Gräfin von Siebeneichen</persName> genannt wird. Alle
+                behandeln mich mit größter Zuvorkommenheit. Nachdem ich einen Spaziergang in dem
+                prächtigen Garten des Grafen gemacht habe, bekomme ich beim Abendessen heftige
+                Kopfschmerzen, und auch am folgenden Tag habe ich dermaßen das Schnupfenfieber, dass
+                ich den ganzen Tag im Bett bleiben muss. Man ist außerordentlich besorgt um
+                mich.</p>
+                <p>
+            <hi rendition="#u">Mai</hi>. Am anderen Tag befinde ich mich etwas besser, so
+                    dass ich hinuntergehen und in Gesellschaft bleiben kann. Um 9 Uhr ziehe ich mich
+                    zum Schlafen zurück und reise am 2. um 1 Uhr morgens nach <placeName key="ed_x5f_l2q_tdb">Waldau</placeName> in Sachsen ab. Mittags komme ich
+                    nach <placeName key="ed_mds_m2q_tdb">Görlitz</placeName>. Die Gegenden sind
+                    durchweg sehr schön. Nachdem ich <placeName key="ed_c12_42q_tdb">Hochkirch</placeName> und mehrere andere durch den Krieg berühmt gewordene
+                    Orte gesehen, lange ich in <placeName key="ed_hng_q13_tdb">Bautzen</placeName>
+                    an, wo ich übernachte. Bei abscheulichem Wetter fahre ich am 3. weiter und
+                    treffe um 5 Uhr nachmittags in <placeName key="ed_dz5_2kn_4y">Dresden</placeName> ein. Diese Gegend ist prächtig; das Land hat sich seit
+                    dem Krieg wieder sehr gut erholt.</p>
+                <p>Ich nehme im Hotel de Pologne Wohnung, wo es mir sehr gut gefällt. Dann mache ich
+                    gleich einen Spaziergang durch die Stadt und bemerke noch viele durch den Krieg
+                    zerstörte Häuser. Der Hof ist tags zuvor von <placeName key="ed_flc_kyf_hy">Leipzig</placeName> zurückgekehrt. Den ganzen folgenden Tag sehe ich mir
+                    Dresden an, den Zwinger und vor allem die Gemäldegalerie, die meine
+                    Aufmerksamkeit ganz besonders fesselt. Abends besuche ich das Theater, das
+                    ziemlich schlecht ist; jedoch sehe ich bei dieser Gelegenheit das ganze
+                    kurfürstliche Haus. Bei meiner Rückkunft finden ich den preußischen Gesandten in
+                    meinem Gasthaus vor. Er bleibt lange mit mir zusammen und macht mir im Laufe des
+                    Gesprächs den Vorschlag, mich am folgenden Tage am Hofe vorzustellen.</p>
+                <p>Der <persName key="ed_sjc_v2q_tdb">Kurfürst</persName> ist ein sehr freundlicher
+                und liebenswürdiger Herr, die <persName key="ed_cbd_y2q_tdb">Kurfürstin</persName>
+                ungemein groß, außerordentlich lebhaft, keineswegs hübsch, hat dabei aber doch etwas
+                gefälliges in ihrem Wesen. Der Hof macht einen guten Eindruck. Die Mutter des
+                Kurfürsten besitzt viel Geist und hat eine reizende Unterhaltungsgabe. Ich werde den
+                drei Brüdern des Kurfürsten vorgestellt. Der zweite ist ebenso kontrakt wie sein
+                verstorbener Vater es war, die beiden jüngeren dagegen sind prächtig gebaut. Die
+                beiden Prinzessinnen-Schwestern des Kurfürsten sind außerordentlich liebenswürdig
+                und vollkommen gut erzogen. Nachher besuche ich den Prinzen <persName key="ed_hwy_t2q_tdb">Karl</persName>, den man in Dresden Herzog von Kurland
+                nennt. Er ist ein sehr schöner Mann, gibt sich aber wie ein Theaterprinz. Seine
+                beiden Schwestern, die Tanten des Kurfürsten, die Prinzessinnen <persName key="ed_svb_gfq_tdb">Elisabeth</persName> und <persName key="ed_ijb_hfq_tdb">Kunigunde</persName>, sind schrecklich hässlich. Erstere hat eine ziemlich
+                offene Liebschaft mit dem russischen Gesandten, dem Fürsten <persName key="ed_xc4_jfq_tdb">Bjeloschinski</persName>, und es ist wirklich zum Lachen,
+                wenn man im Theater diese hässliche Prinzessin nach ihrem dicken Russen schielen und
+                ihm schmachtende Blicke zuwerfen sieht, die den mutigsten Liebhaber in die Flucht
+                schlagen könnten.</p>
+                <p>
+            <note type="editorial">Lehndorff macht zahlreiche Besuche beim sächsischen Adel,
+                    besucht auch den Fürsten <persName key="ed_nbj_mfq_tdb">Lubomirski</persName>
+                    und wird zu den Feierlichkeiten des Hofes eingeladen. Die am kurfürstlichen Hof
+                    eingeführte Uniform für Damen und Herren, um die Kleiderausgaben zu reduzieren,
+                    erstaunt ihn. Er besucht den <quote>Prinzen Chevalier von Sachsen</quote> und
+                    wohnt vom Hof entfernt in einem Garten. Hier begegnet er einem alten Bekannten,
+                    dem Engländer <persName key="ed_gb5_wnh_tdb">Mackenzie</persName>, der Gräfin
+                        <persName key="ed_ids_b5p_rdb">Moszinska</persName> und dem Engländer von
+                    Sidow, einst <quote>großer Günstling des Königs, meines Herrn</quote>. Am 11.
+                    Mai wohnt Lehndorff der Huldigung des Kurfürsten in <placeName key="ed_shd_tfq_tdb">Freiburg</placeName> und den anschließenden
+                    Feierlichkeiten bei. Nach der Rückkehr nach <placeName key="ed_dz5_2kn_4y">Dresden</placeName> lernt er weitere sächsische und polnische Adlige
+                    kennen. Am 15. Mai kommt er wieder in <placeName key="ed_xrv_gwb_by">Berlin</placeName> an. Wenige Tage später beginnen die Revuen.</note>
+         </p>
+            
+        </body>
+    </text>
+</TEI>

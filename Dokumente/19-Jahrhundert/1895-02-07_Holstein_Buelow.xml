@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_n1p_yrj_z1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich August von Holstein an Bernhard von Bülow. Berlin, 7. Februar
+                    1895</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_n1p_yrj_z1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Philipp Eulenburgs Politische Korrespondenz, Bd. 2: Im
+                            Brennpunkt der Regierungskrise 1892-1895, hrsg. von John C. G. Röhl,
+                            Boppard a. Rh. 1976 ( Deutsche Geschichtsquellen des 19. und 20.
+                            Jahrhunderts, Bd. 52/2), S. 1458 f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_c52_zpq_mfb">Holstein, Friedrich August von
+                        (1837-1909)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1895-02-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_kgl_3sv_g2b">Bülow, Bernhard (seit 1899 Graf, seit 1905 Fürst)
+                        von Bülow (1849-1929)</persName>
+                </correspAction>
+                <note>Siehe hierzu auch den folgenden Brief an Eulenburg vom 28. August 1855, S.
+                    1526 f. - Briefe des Flügeladjutanten Lehndorff in: Landesarchiv
+                    Baden-Württemberg, Außenstelle Hohenlohe - Zentralarchiv Neuenstein, La 140 Bü
+                    107. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 7. Februar 1895</dateline>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/>
+                    </p>
+            <p>Der <persName key="ed_n2s_bcb_dy">Kaiser</persName> regiert mit Kabinetten gegen die
+                    konstitutionellen Regierungsorgane. Zwischen den letzteren und dem Kaiser fehlen
+                    Vermittler, wie das unter <persName key="ed_lwx_y32_cy">Wilhelm I.</persName>
+                    <persName key="ed_o5l_qw5_22b">Wilmowski</persName> und <persName key="ed_nml_dw2_cy">Lehndorff</persName> waren. Wegen Mangels einer solchen
+                    vermittelnden Persönlichkeit wird es zum Krach kommen. Ich verhehle nicht, dass
+                    ich wünschte draußen zu sein, bevor der Krach kommt. Nach dem Krach, d. h. dem
+                    Rücktritt von <persName key="ed_kdh_3mk_z1b">Hohenlohe</persName>, wird der
+                    Kaiser es mit Kraftproben versuchen. Der Versuch wird am Widerstand der größeren
+                    Bundesfürsten, Bayern an der Spitze, scheitern. Damit ist das Prestige des
+                    Kaisers verloren und es fängt für ihn eine lange Periode von Demütigungen an.
+                    Ich kann dem nicht vorbeugen, denn seine Majestät folgt jetzt dem Rat von
+                        <persName key="ed_wqc_k5h_lfb">Hahnke</persName> gegen <persName key="ed_v21_l5h_lfb">Bronsart</persName> (Kriegsministerium), <persName key="ed_tgq_v5h_lfb">von Senden</persName> gegen <persName key="ed_lgz_dvh_lfb">Hollmann</persName> und von <persName key="ed_g5m_hvh_lfb">Lucanus</persName> gegen das ganze Staatsministerium.
+                    Wenn gerade jetzt Lucanus dem Kaiser den neuen Kulturkampf predigt, so arbeitet
+                    er damit wohl bewusst auf den Krach hin. </p>
+            <p>
+               <gap reason="insignificant"/>
+            </p>
+				        <closer>
+					          <salute>Mit herzlichem Gruß</salute>
+					          <signed>Holstein</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

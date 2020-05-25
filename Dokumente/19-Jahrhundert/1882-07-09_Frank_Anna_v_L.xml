@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_sqh_ptx_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand von Strantz an Anna Gräfin von Lehndorff. Berlin, 9. Juli
+                    1882</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_sqh_ptx_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Repräsentation/Geselligkeit</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 481, Bl. 15</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_rd1_c2n_c3b">Stranz, Ferdinand (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1882-07-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Vgl. auch APO, Bestand 382 FA Lehndorff, Nr. 432, Bl. 243-244v (Paula von
+                    Dönhoff an Anna von Lehndorff, 28. Juli 1882: die Zeitungen berichten über den
+                        <persName key="ed_lwx_y32_cy">Kaiser</persName> in <placeName key="ed_avy_p42_cy">Gastein</placeName>).  Dieser war am 18. Juli dort zu
+                    Kur eingetroffen, und verließ Gastein am 8. August 1882, vgl. <ref target="http://zefys.staatsbibliothek-berlin.de/index.php?id=dfg-viewer&amp;set%5Bimage%5D=2&amp;set%5Bzoom%5D=default&amp;set%5Bdebug%5D=0&amp;set%5Bdouble%5D=0&amp;set%5Bmets%5D=http%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP9838247-18820719-0-0-0-0.xml">Provinzial-Correspondenz vom 19. Juli 1882</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/481/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 9. Juli 1882</dateline>
+					          <salute>Hochverehrte Frau Gräfin!</salute>
+                </opener>
+				        <p>Von <placeName key="ed_tjp_yh5_2z">Frankfurt a/M.</placeName>, Homburg und Stuttgart
+                    zurückgekehrt, stehe ich ganz zur Disposition für <placeName key="ed_avy_p42_cy">Gastein</placeName>. Wann wünschen Sie, hochverehrte Frau Gräfin, dass ich
+                    dort eintreffen soll, oder besser gesagt, wann soll eine erste Vorstellung
+                    stattfinden? Danach will ich meine Reise über <placeName key="ed_ztb_bm1_my">Wien</placeName> einrichten, wo ich noch zwei Sängerinnen hören muss. </p>
+                <p>Tageblatt No. 367, Beilage No. 3 habe ich gelesen, und wenn wir 2 Darsteller für
+                    den Fritz und das Knäblein haben, die nur einigermaßen komisch sind, so
+                    verspreche ich mir Erfolg von dem Schwank, da die Situationen wirklich komisch
+                    sind.</p>
+                <p>Hoffentlich kommen die geworbenen Herren nach Gastein und bringen guten Willen
+                    mit, das Übrige wollen wir dann schon wieder fertig bringen.</p>
+                <p>Perücken, Schminke bringe ich auch mit, um nicht wieder in Verlegenheit zu
+                    kommen.</p>
+                <p>Einer freundlichen baldigen Nachricht entgegensehend, mich dem Herrn <persName key="ed_zkm_whl_2y">Grafen</persName>, den <persName key="ed_ggg_cbm_2y">Komtessen</persName>
+                    <persName key="ed_vhr_wjh_cy">ergebenst</persName> empfehlend, habe ich die Ehre
+                    mich zu zeichnen mit vorzüglichster Hochachtung als</p>
+				        <closer>Euer Hochgeboren untertänigster dankbarer <signed>F. Stranz</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

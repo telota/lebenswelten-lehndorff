@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_dkz_th5_sy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Februar bis Oktober 1799</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_dkz_th5_sy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Lehndorff, Ernst Ahasverus Heinrich von, Am Hof der
+                            Königin Luise. Das Tagebuch vom Jahr 1799, übersetzt und eingel. von Eva
+                            Ziebura, Berlin 2009, S. 53, 299 und 306</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf von
+                    (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                <date from="1799-02-27" to="1799-10-08" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <note type="editorial">(27.2.1799) </note>
+                    <seg type="comment">
+                  <orig>Ich schicke Geschenke an meine liebe <persName key="ed_z12_bwf_hy">Pauline</persName>, meine einzige Tochter, die
+                            ich und meine achtenswerte <persName key="ed_gnc_c1m_2y">Frau</persName>
+                            mit unendlicher Sorgfalt erzogen haben und die so vollkommen unsere
+                            Wünsche und Erwartungen erfüllt hat. </orig>
+                  <note xml:id="nngg_lpb_ffb">Bei ihrer Eheschließung mit <persName key="ed_cgy_xtf_4y">August Graf
+                                von Dönhoff </persName>1796 war sie mit einer Mitgift ausgestattet
+                            worden, die neben einem Barvermögen von 500 Rtlr. und 1.500 Rtlr. für
+                            Graf Dönhoff zur Beschaffung der standesgemäßen Mobilien wertvolle
+                            Kleidung, Juwelen und Pretiosen (für 2.050 Rtlr.) enthielt. Das ihr
+                            zugedachte <quote>Silber für tausend Reichstaler</quote> hatte sie
+                                <quote>in natura</quote> bei der Eheschließung noch nicht erhalten,
+                            Lehndorff verzinste es in Courant zu fünf Prozent. GStA PK, XX. HA, Rep.
+                            54 Gutsarchiv Lehndorff-Steinort, Nr. 94, n. f. </note>
+               </seg>Sie war ein
+                    liebenswürdiges, naives und lebhaftes junges Mädchen und ist jetzt, mit 20
+                    Jahren, <seg type="comment">
+                  <orig>Mutter von zwei schönen Jungen</orig>
+                  <note xml:id="nk23_vqp_tcb">
+                     <persName key="ed_cgy_xtf_4y">August</persName>
+                            und <persName key="ed_v43_db1_hy">Louis</persName> von Dönhoff, geboren
+                            1797 und 1799.</note>
+               </seg>, die sie selbst gestillt hat und noch
+                    stillt. Sie ist in jedem Sinne eine vorbildliche und zugleich sehr liebenswerte
+                    Frau.</p>
+                <p>
+               <note type="editorial">(21.9.1799)</note> Meine Post aus <placeName key="ed_xrv_gwb_by">Berlin</placeName> bringt mir interessante Briefe von
+                    meinem <persName key="ed_pv1_b4g_hy">Heinrich</persName> und aus Wust von meiner
+                    Tochter <persName key="ed_xnq_1fm_2y">Dönhoff</persName>. Ihr und ihren beiden
+                    Söhnen geht es gut. Graf <persName key="ed_lq5_jj5_sy">Dönhoff</persName>, ihr
+                    Gatte, nimmt in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> an den großen
+                        <seg type="comment">
+                  <orig>Herbstmanövern</orig>
+                  <note xml:id="nbjg_srp_tcb">Diese fanden ab dem 20. September statt, vgl. das <ref target="http://gaby.huch.berlin/home/kalendarium-des-preu%C3%9Fischen-k%C3%B6nigs-friedrich-wilhelm-iii-neu-1797-bis-1810/">Itinerar Friedrich Wilhelms III.</ref>
+                        </note>
+               </seg> teil. Zu denen sind viele Generale der Armee und viele junge
+                    Offiziere gekommen, weil sie etwas dazulernen und mit dem Ruhm zurückkehren
+                    wollen, dabei gewesen zu sein und den <persName key="ed_tl1_nbf_4y">König</persName> gesehen zu haben.</p>
+                <p>
+               <note type="editorial">(8.10.1799) </note> Ich habe Nachricht erhalten, dass
+                    meine <persName key="ed_xnq_1fm_2y">Tochter</persName> glücklich in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> angekommen und so die Ausgaben
+                    vermeiden konnte, die sie während der großen Revuen hätte machen müsse. Nun sind
+                    alle abgereist. Einige Damen und Offiziere waren aus <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> gekommen, die alle vom Graf
+                        <persName key="ed_lq5_jj5_sy">Dönhoff</persName> gefeiert werden wollten, so
+                    die Generalin <persName key="ed_m2k_mk5_sy">Klinckowström</persName>, geborene
+                    Hausen, die Obristin <persName key="ed_nhj_dl5_sy">Rouquette</persName>,
+                    geborene Unruh und noch mehrere andere. Man ist der Ansicht, dass diese Damen
+                    sich lächerlich gemacht haben.</p>
+                <p>
+               <note type="editorial">(16.10.1799)</note> Gestern kam ein Brief von meinem Sohn
+                        <persName key="ed_k4z_jgl_2y">Carl</persName> aus <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>. Obgleich er der Einzige meiner
+                    Kinder ist, der nicht gern schreibt, ist er doch derjenige, der den besten Stil
+                    hat. Für mich ist das ein Phänomen! Die Revuen haben ihn stark beschäftigt. Auch
+                    er berichtete von dem Besuch mehrere Generale mit ihren Frauen wie den
+                    Klinckowströms und den Rouqettes. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

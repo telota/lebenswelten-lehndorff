@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_ny4_4hg_vbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title>Tagebuchnotiz von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 22. März 1773</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_ny4_4hg_vbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="editorial">
+                    <p>Vgl. Schmidt-Lötzen, Nachträge, Bd. 2, S. 278 (Mara) und S. 283 und 288
+                        ff.(Landgräfin). - In der Akte weitere Einzelblätter aus dem März, April und
+                        Mai zu militärischen, politischen und Angelegenheiten des Hofes, u. a. Bl.
+                        10-11v (2. Mai 1773) zu den Juden und Mennoniten in Westpreußen: <quote>Die
+                            Juden in Westpreußen auf dem platten Lande, welche nicht 1.000 Rtlr.
+                            Vermögen nachweisen können, müssen fort; diejenigen aber in den Städten,
+                            so Kapitalien haben, erhalten Privilegien, wofür sie sogleich 500 Rtlr.
+                            bezahlen müssen; alle fünf Jahre, wenn ihr Privilegium nicht verfallen
+                            sein soll, muss dasselbe mit ebenso viel renovieret werden. Da nun die
+                            Juden über 250.000 Rtlr. denen Untertanen auf dem platten Lande schuldig
+                            sind, so werden solche wohl das ihrige einbüßen. - Die Mennoniten sollen
+                            mit gewissen Einschränkungen und Abgaben nur fernerhin geduldet
+                            werden.</quote>
+               </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 486, Bl. 5-5v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf von
+                    (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date when="1773-03-22" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <seg type="comment">
+                  <orig>Es heißt, dass die <persName key="ed_h3s_1hn_scb">Landgräfin von Darmstadt</persName> mit ihren beiden
+                            Prinzessin-Töchtern eine Reise nach <placeName key="ed_qvp_nnz_2y">Petersburg</placeName> unternehmen werde, wovon der Großfürst eine
+                            zur Gemahlin wählen wird</orig>
+                  <note xml:id="ntpt_khn_scb"> Im Auftrag
+                            der russischen Zarin <persName key="ed_ez1_1zl_cz">Katharina der Großen
+                            </persName>erschien Achatz Ferdinand von der <persName key="ed_n24_3c1_ycb">Asseburg</persName>, der nach einer Braut für
+                            den russischen Thronfolger Ausschau halten sollte, 1772 am <placeName key="ed_jvp_vfn_scb">Darmstädter</placeName> Hof. Landgräfin
+                                <persName key="ed_h3s_1hn_scb">Henriette Karoline</persName> wurde
+                            mit ihren drei Töchtern nach St. Petersburg eingeladen, wo sich Zarin
+                            Katharina angeblich schon beim Eintreffen der Reisegesellschaft für
+                            Wilhelmine entschied. <persName key="ed_x2r_52f_cy">Friedrich der
+                                Große</persName> hatte das Heiratsprojekt unterstützt, das seinen
+                            Thronfolger mit dem russischen Hof verschwägerte. Am 9. Juli 1773
+                            erhielt die Prinzessin den Sankt-Katharinen-Orden und konvertierte am
+                            15. August 1773 unter dem Namen <persName key="ed_ddj_5c1_ycb">Natalia
+                                Alexejewna</persName> zur russisch-orthodoxen Kirche. Am 10. Oktober
+                            1773 heiratete sie in St. Petersburg den nachmaligen Zaren <persName key="ed_e2y_3yl_cz">Paul I.</persName> Das russische Eheprojekt
+                            konsolidierte die maroden Finanzverhältnisse des Landes
+                            Hessen-Darmstadt. Die beiden anderen Töchter wurden nach Baden bzw.
+                            Sachsen-Weimar-Eisenach verheiratet. </note>
+               </seg>, die andere
+                    Prinzessin aber soll sodann 10.000 Rubel jährlich erhalten und ihr frei stehen
+                    werde, entweder nach <placeName key="ed_jvp_vfn_scb">Darmstadt</placeName>
+                    zurückzukehren oder in Russland zu bleiben.</p>
+                <p>Aus <placeName key="ed_zbj_xfn_scb">Kassel</placeName> sind kurz hintereinander
+                    zwei Kuriere mit der unangenehmen Nachricht von der Maladie der <persName key="ed_knq_dkn_scb">Landgräfin</persName> hier angekommen. Sie ist zwar
+                    schon etwas krank von hier abgereist, indem sie öfters mit Krampfungen
+                    akomodiert worden, allein die starken Verkältungen auf der Reise haben das Übel
+                    so verschlimmert, dass sie an Krücken gehen muss. Ihr Leibchirurgus <persName key="ed_olq_3jn_scb">Beyer</persName> von Prinz <persName key="ed_mn5_svg_hy">Ferdinand</persName> ist dieserhalb schleunig mit
+                    Extra-Post nach Kassel abgegangen.</p>
+                <p>Das alles gegen den 1. Juni in vorschrittigem Stande sein soll, deshalb ist die
+                    Ordre an das General-Directorio ergangen.</p>
+                <p>
+               <persName key="ed_b3j_dln_scb">Mons Mara</persName>, der Sohn eines hiesigen
+                    Königl. Kammermusici, den der <persName key="ed_x2r_52f_cy">König</persName> das
+                        <seg type="comment">
+                  <orig>Violoncet</orig>
+                  <note xml:id="no5c_rkn_scb">Violoncello</note>
+               </seg> hat lernen lassen und durch seine darin
+                    erlangte Geschicklichkeit in Dienste des Prinzen <persName key="ed_nvx_wcz_bz">Heinrich</persName> kam, welcher ihn nach Frankreich und Italien reisen
+                    ließ, <seg type="comment">
+                  <orig>er wurde bei diesem Prinzen so gut als ein
+                            Kavalier vom Hofe gehalten, sein hochmütiges grobes Betragen und noch
+                            mehrere Taten brachten ihn aus den Diensten dieses sonst so gnädigen
+                            Prinzen,</orig>
+                  <note xml:id="nmdb_3rs_xdb">1732, vgl. Nachträge, Bd. 2,
+                            S. 231 und 278.</note>
+               </seg> er war der amant déclaré der hiesigen
+                    großen <persName key="ed_bwq_lzl_2y">Königin</persName>. Demois. <persName key="ed_j1v_3ln_scb">Schmeling</persName>, die sich durch seine Gestalt
+                    hatte blenden lassen, die Liebe war vor einiger Zeit wirksam gewesen, und sie
+                    wurde beinahe mit Verlust ihres Lebens mit einem toten Sohn entbunden. Die
+                    ferneren üblen Aufführungen dieses Mara und noch andere Umstände, welche man
+                    befürchtet, haben Sr. <persName key="ed_x2r_52f_cy">Majestät</persName>
+                    veranlasst, ihn durch einen Unteroffizier und 4 Soldaten aus dem Logis der
+                    Königin in der Nacht aufheben zu lassen (wo er in ein Kleiderspind versteckt
+                    war), er ist nunmehr geschlossen nach <placeName key="ed_kcg_55j_gz">Marienburg</placeName> als Rekrut unter dem neuen Krockowschen
+                    Füsilier-Regiment transportiert worden.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

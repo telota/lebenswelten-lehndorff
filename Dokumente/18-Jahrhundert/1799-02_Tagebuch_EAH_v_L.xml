@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_wfm_14t_lcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Februar 1799</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_wfm_14t_lcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="editorial">
+                    <p>Zu den Geschäften <persName key="ed_csb_mdf_cy">Lehndorffs</persName> mit dem
+                        Berliner Bankier Johann Daniel <persName key="ed_isp_dpt_lcb">Broschwitz</persName> vgl. APO, Bestand 382 FA Lehndorff, Nr. 16 und 17
+                        (ab 1792). Ebenso wie Lehndorff unterhielt auch dessen Schwiegersohn, Graf
+                        von <persName key="ed_lq5_jj5_sy">Dönhoff</persName>, mit Broschwitz
+                        Geschäftsbeziehungen. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Lehndorff, Ernst Ahasverus Heinrich von, Am Hof der
+                            Königin Luise. Das Tagebuch vom Jahr 1799, übersetzt und eingel. von Eva
+                            Ziebura, Berlin 2009, S. 38 f., 50, 129 f., 150, 190 f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf von
+                    (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                <date from="1799-02-17" to="1799-06-11" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <note type="editorial">(17.2.199): Lehndorff geht zu</note> Geheimrat <persName key="ed_ywr_w41_tcb">Baumgarten</persName>, um mit ihm über meinen Prozess
+                    wegen des Bankrotts von <persName key="ed_isp_dpt_lcb">Broschwitz</persName> zu
+                    sprechen, bei dem ich 10.000 Taler verlieren könnte.</p>
+                <p>
+               <note type="editorial">(24.2.1799): </note> Herr von <persName key="ed_oct_k1q_tcb">Grunenthal</persName>, Hofrat des <persName key="ed_nvx_wcz_bz">Prinzen Heinrich</persName>, ein tüchtiger und
+                    diensteifriger Mann, hat sich lange bemüht, mir zu einem Gerichtsurteil über den
+                    Bankrott meines ehemaligen Bankier <persName key="ed_isp_dpt_lcb">Broschwitz</persName> zu verhelfen. Von den 10.000 Talern, die ich
+                    eingezahlt hatte, bekomme ich anteilig nur 4.600 Taler zurück. Ich verliere noch
+                    zusätzlich 1.500 Taler durch den Tod meines Neffen <persName key="ed_wmt_g5z_g1b">Schlieben</persName>.</p>
+                <p>
+               <note type="editorial">(21.4.1799):</note> Von den 10.999 Talern, die ich bei dem
+                    Bankrott von <seg type="comment">
+                  <orig>Brosch Witz</orig>
+                  <note xml:id="nyfj_p1q_tcb">Wortspiel für <persName key="ed_isp_dpt_lcb">Broschwitz</persName>
+                  </note>
+               </seg> verloren habe, hat man mir 5.000
+                    Taler gut geschrieben. Jetzt ärgere ich mich über diese Herren, die, wie man
+                    sagt, die Zinsen der Geldanlagen einbehalten, indem sie die Auszahlung an die
+                    Besitzer verzögern. </p>
+                <p>
+               <note type="editorial">(8.5.1799):</note> Ich bereite mich auf eine Reise nach
+                        <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> vor und habe tausend
+                    Sorgen: <persName key="ed_k4z_jgl_2y">Carls</persName> Schulden, <seg type="comment">
+                  <orig>
+                     <persName key="ed_pv1_b4g_hy">Heinrichs</persName>
+                            Einführung</orig>
+                  <note xml:id="nhry_v1q_tcb">Siehe das Dokument vom <ref target="lehndorff_nyv_2lj_dbb">27. April 1799</ref>.</note>
+               </seg>,
+                    die Vorbereitung für meine lange Reise, die Prozesse, die ich gegen meinen
+                    Willen führen muss, die Sorge um die Verwaltung meiner Güter, das begründete
+                    Misstrauen, das ich gegen die Personen hege, bei denen ich Geld hinterlegt habe
+                    angesichts meines Verlustes von 10.000 Talern durch <persName key="ed_isp_dpt_lcb">Broschwitz</persName>, der allgemeines Vertrauen
+                    genoss.</p>
+                <p>
+               <note type="editorial">(11.6.1799): Am Abend hatte er sich mit seinem <persName key="ed_k4z_jgl_2y">Sohn</persName>
+               </note> und dem Wucherer <orgName key="ed_dpm_hbq_tcb">Redern</orgName> verabredet, um mit ihnen über
+                    Geldangelegenheiten zu sprechen. Bei Tisch aber bekomme ich einen Brief meines
+                        <persName key="ed_pv1_b4g_hy">jüngsten Sohnes</persName>, der mir schreibt,
+                    meine Geschäfte mit <persName key="ed_isp_dpt_lcb">Broschwitz</persName>
+                    erfordern unbedingt meine Anwesenheit in <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+               <note type="editorial">, worauf er von <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> abreist.</note>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hk3_f2c_p2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>W. Paulick an Werner Manneberg. Forsthaus Kriebstein, 15. Juli 1946</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hk3_f2c_p2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 20232 Kreistag Döbeln, Nr. 1315, Bl. 10</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zpf_b25_sdb">Paulick, (-)</persName>
+                    <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName>
+                    <date when="1946-07-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_b4z_sqf_p2b">Manneberg, (-)</persName>
+                </correspAction>
+                <note>Am 16. Juli 1946 telegrafierte <persName key="ed_b4z_sqf_p2b">Manneberg</persName> an den Landesmuseumspfleger <persName key="ed_zc1_nyk_gbb">Hentschel</persName>: <quote>Betr. Befehl 177. Burg
+                            <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> Landkreis Döbeln
+                        lagern Kunstgüter aus dem Besitz <persName key="ed_xsd_3mw_22b">Lehndorff</persName>-<persName key="ed_ojz_dql_zdb">Lorck</persName>,
+                        Ostpreußen</quote>, und fragte am 17. Juli 1946 schriftlich an, <quote>ob
+                        das Abtransportieren der Kunstgegenstände im Einverständnis mit der SMA
+                        erfolgt</quote> (Bl. 11 und 12). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Forsthaus Kriebstein, am 15. Juli 1946</dateline>
+					          <salute>An den Herrn Landrat <lb/>- <seg type="comment">
+                     <orig>z. Hd. Herrn
+                                Manneberg</orig>
+                     <note xml:id="nbxx_kb3_xkb">Von 1945 bis 1949
+                                Sekretär des Landrates in Döbeln.  </note>
+                  </seg> -
+                        <lb/>Döbeln</salute>
+                </opener>
+				        <p>Betr. Eingelagerte Kunstgüter in der Burg <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName>
+            </p>
+                <p>Zufolge Ihres heutigen telephonischen Anrufs melde ich Ihnen, dass in der Burg
+                    Kriebstein noch nachstehende Kunstgüter eingelagert sind:</p>
+                <p>
+                    <list>
+                        <item>1.) Gemälde Wert: 547.200.-- RM</item>
+                        <item>2.) Möbel, Teppiche, Gobelins  Wert: 366.600.-- RM</item>
+                        <item>3.) Porzellane, Fayencen, Steingut usw. Wert: 21.560.-- RM</item>
+                        <item>4.) Bücher Wert: 45.940.-- RM</item>
+                        <item>Summe: 981.300.-- RM</item>
+                        <item>(Aus dem Besitz <persName key="ed_eq5_1t1_dy">Lehndorff</persName>-<persName key="ed_b2f_xyf_h1b">Lorck</persName>)</item>
+                    </list>
+                </p>
+                <p>
+               <seg type="comment">
+                  <orig>Diese Kunstgegenstände wurden am 17. und 18. Mai 1946
+                            im Auftrag der Landesverwaltung Sachsen vom Landesmuseumspfleger Herrn
+                            Dr. <persName key="ed_zc1_nyk_gbb">Hentschel</persName>, Dresden und
+                            Kunsthändlerin Frl. Hede <persName key="ed_yk2_pj5_sdb">Schönert</persName>, Dresden auf obigen Marktwert
+                            geschätzt.</orig>
+                  <note xml:id="nf3k_qp4_mfb">Die von Hentschel
+                            aufgestellte <quote>Liste der in Schloss Kriebstein liegenden
+                                Kunstgegenstände aus dem Besitz Graf Lehndorff und v. Lorck</quote>
+                            mit den Schätzpreisen zur <quote>Weiterleitung an die Abteilung
+                                Reparationen</quote> in: HStA Dresden, Bestand 2426, Nr. 234, n. f.
+                            Es handelte sich um 108 Gemälde, Handzeichnungen und Grafiken, zum Teil
+                            gerahmt, 37 Möbelstücke, Teppiche, Gobelins etc. (v. a. Barock und
+                            Rokoko; 1 Gobelin und 1 Teppich gehörten zum Besitz des Schlosses
+                            Kriebstein), 119 Stück Porzellan, Fayencen, Steingut, Gläser etc.),
+                            1.200 Buchbände und <quote>Kisten mit Archivbeständen</quote> ohne
+                            Mengenangabe. </note>
+               </seg>
+            </p>
+                <p>Eigentumsverhältnis: Ehemaliger Graf von <persName key="ed_eq5_1t1_dy">Lehndorff</persName>, Schloss <placeName key="ed_pxt_cnh_1y">Steinort</placeName> (5b) Kreis Angerburg, Ostpreußen, der seinerzeit wegen
+                    Beteiligung am Attentat auf <persName key="ed_akd_1bl_gbb">Hitler</persName>
+                    gehängt und enteignet wurde, desgleichen Graf von <persName key="ed_b2f_xyf_h1b">Lork</persName>, Gut <placeName key="ed_amz_114_zdb">Seehof</placeName>
+                    (5b) Kreis Angerburg, Ostpreußen.</p>
+                <p>Verwahrer: W. <persName key="ed_zpf_b25_sdb">Paulick</persName>, Kriebstein b.
+                    Waldheim/Sa.</p>
+                <p>Wie bereits telephonisch mitgeteilt, werden diese Kunstgüter zur Zeit im Auftrage
+                    der Kommandantur Waldheim zum Abtransport verpackt. Die Kommandantur Waldheim
+                    hat außerdem angeordnet, dass <seg type="comment">
+                  <orig>aus dem Besitz der Burg
+                            Kriebstein</orig>
+                  <note xml:id="noxt_xnj_mfb">also der <persName key="ed_bpc_kw5_12b">Grafen von Arnim</persName>
+                  </note>
+               </seg>
+            </p>
+                <p>
+                    <list>
+                        <item>1 Gobelin Wert: 40.000.--</item>
+                        <item>1 Perserteppich Wert: 10.000.--</item>
+                    </list>
+                </p>
+                <p>außer den oben angeführten Kunstgütern mit verpackt werden sollen.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Die von der Landesverwaltung seinerzeit eingelagerten
+                            Kunstgüter sind restlos abtransportiert worden</orig>
+                  <note xml:id="nrcx_5nj_mfb">Siehe das Dokument vom <ref target="lehndorff_f5d_ybc_31b">23. November 1944</ref>.</note>
+               </seg>
+                    durch Herrn Amtmann <persName key="ed_v1d_fyk_gbb">Gruve</persName> von der
+                    Landesverwaltung.</p>
+                <p>Das Verpacken der eingelagerten Gegenstände ehemals Lehndorff-Lork und
+                    gegebenenfalls des Gobelin-Teppichs aus Kriebstein dürfte sich noch einige Zeit
+                    hinzögern, da es noch an geeignetem Packmaterial fehlt.</p>
+				        <closer>
+                    <signed>Forstverwaltung Kriebstein <lb/>W. Paulick</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

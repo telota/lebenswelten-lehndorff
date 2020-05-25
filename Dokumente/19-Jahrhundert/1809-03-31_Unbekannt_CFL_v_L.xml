@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xgv_yfg_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>N. N. an Carl Friedrich Ludwig Graf von Lehndorff. 31. März 1809</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xgv_yfg_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 142, n. f.</idno>
+                    </msIdentifier>
+                    <p/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date when="1809-03-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Sein Freund <persName key="ed_ctl_wtl_w2b">Oppenheim</persName> will ihn wissen
+                    lassen, ob es eine Gelegenheit zum Verkauf des Silbers gebe; ihm sei die
+                    bevorstehende <seg type="comment">
+                  <orig>Verordnung wegen des Silbers</orig>
+                  <note xml:id="nwsn_lwx_y2b">Am <ref target="https://books.google.de/books?id=pIFDAAAAcAAJ&amp;pg=PA819&amp;lpg=PA819&amp;dq=1809+Verordnung+wegen+Silber&amp;source=bl&amp;ots=mnXsmnES53&amp;sig=w0LwRWB9NVBJx6Jkv4vNyreQZ9A&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjSoviZmpLdAhVJ2qQKHXV0CMoQ6AEwAHoECAMQAQ#v=onepage&amp;q=1809%20Verordnung%20wegen%20Silber&amp;f=false">30. März 1809 </ref>untersagte eine Verordnung das Verbringen von
+                            Gold- und Silbergerät außer Landes. </note>
+               </seg> bekannt, sie werde
+                    aber erst zum 1. April in Kraft treten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

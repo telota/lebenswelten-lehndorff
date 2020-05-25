@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_bpw_2cr_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>N. N. an Anna Gräfin von Lehndorff. Jäcknitz, 20. Januar 1891</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_bpw_2cr_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 623, Bl. 31-31v</idno>
+                    </msIdentifier>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <placeName key="ed_l44_l1v_h2b">Jäcknitz</placeName>
+                    <date when="1891-01-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Zur Idee und Planung des von Generalin von <persName key="ed_m2x_wsf_lfb">Bronsart</persName>, Gräfin <persName key="ed_wms_mh2_cy">Lehndorff</persName> und Frauen des Bürgertumsim Dezember initiierten
+                    Projektes Bl. 28- 29v. Im März 1891 waren die <ref target="https://upload.wikimedia.org/wikipedia/commons/4/40/K%C3%B6nigsberg_Stadtplan_1905.svg">Räume Wrangelstraße/Nachtigallenstieg</ref> fertiggestellt, die Eröffnung
+                    für den April geplant, obwohl Statuten und Hausordnung (die sich an das Haus in
+                        <placeName key="ed_iw5_fxl_2y">Breslau</placeName> anlehnen sollten) noch in
+                    Beratung waren. Der Vorschlag Anna Lehndorffs, die hohen Herrschaften, sollten
+                    je ein Bett stiften, wurde angesichts der Beiträge (50 Mark bis mindestens 20
+                    Mark durch die <quote>Begüterten</quote>, 10 und 6 Mark alle anderen) verworfen
+                    (Bl. 37, Pfarrer <persName key="ed_xkj_ctf_lfb">Runge</persName> an Anna
+                    Lehndorff, Königsberg, 26. April 1892). Als Runge wenig später versetzt wurde,
+                    übernahm Pfarrer <persName key="ed_whr_15t_g2b">Behr</persName> dessen Aufgabe
+                    (Bl. 47, 26. April 1892). - Siehe auch: APO, Bestand 382 FA Lehndorff, Nr. 486,
+                    Bl. 8-9v (Tony v. Bülow, geb. Reichenbach an Anna Lehndorff, 2. Mai 1880) und
+                    GStA PK, I. HA, Rep. 77 B, Nr. 673: Ostpreußisches Magdalenenstift zur Erziehung
+                    verwahrloster Mädchen in Königsberg/Ostpr. (1894-1927).</note>
+            </correspDesc>
+            <abstract>
+                <p>Seine Frau sei durch das Komitee zur Errichtung eines <orgName key="ed_w32_txd_py">Magdalenenstifts</orgName> für <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> nach dem Vorbild Berlins
+                    aufgefordert worden, <quote>im hiesigen Kreise zu wirken</quote>. Ob es ihr
+                    gelingen wird, sei dahingestellt. Auf jeden Fall verhindere es, <quote>dass wir
+                        unsere Beiträge zwischen <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                        und <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> teilen. Es macht
+                        sich in solchem Falle doch der Lokal-Partikularismus geltend.</quote>
+            </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/623/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

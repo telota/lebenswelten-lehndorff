@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ky4_zkj_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Julius Otterski an Anna Gräfin von Lehndorff. Drengfurth, 14. Juli
+                    1856</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ky4_zkj_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 585, Bl. 1</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_jqq_kxj_d2b">Otterski, Ernst Julius (1812-1883)</persName>
+                    <placeName key="ed_h35_jqh_my">Drengfurth</placeName>
+                    <date when="1856-07-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>In der Akte liegt nur dieses Blatt. - Siehe hiezu: Zippel, G., Geschichte des
+                    Königlichen Friedrichs-Kollegiums zu Königsberg Pr. 1698-1898, Königsberg
+                    1898.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/585/str/1/1/10#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Drengfurth, den 14. Juli 1856</dateline>
+                    <salute>Hochgeborene Frau Gräfin, <lb/>Gnädigste Gräfin und Frau!</salute>
+                </opener>
+                <p>Euer Hochgeboren beehre ich mich auf das huldreiche Schreiben vom <gap reason="lost"/> d. M. ehrerbietigst zu benachrichtigen, dass ich an der
+                    Erteilung der Genehmigung seitens der Königlichen Regierung so wenig zweifle,
+                    dass ich keinen Anstand nehme, Ihro Hochgeboren ehrfurchtsvoll zu bitten, die
+                        <orgName key="ed_emc_hnc_d2b">Industrieschule für die männliche Jugend in
+                        Taberlack und Serwillen</orgName> hochgeneigtest ins Leben rufen und die
+                    etwaigen Arrangements in die eigenen fachkundigen Hände nehmen zu wollen. Gott
+                    der Herr aber lege auf dieses Werk, das in seinem Namen begründet wird, seinen
+                    Segen <gap reason="insignificant"/>
+            </p>
+                <p>Mögen <gap reason="insignificant"/> Hochdieselben <gap reason="illegible"/>
+                    gekräftigt zurückkehren können in die liebe Heimat zu den vielen Werken der
+                    Barmherzigkeit! <gap reason="insignificant"/>
+            </p>
+                <closer>
+                    <salute>Ihrer Hochgeboren untertänigster Diener</salute>
+                    <signed>Otterski</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

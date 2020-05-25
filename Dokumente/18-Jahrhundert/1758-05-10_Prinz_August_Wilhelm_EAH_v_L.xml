@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ncz_fkg_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz August Wilhelm von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Oranienburg, 10. Mai 1758</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ncz_fkg_2z</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Volz, Gustav Berthold, Aus dem Briefwechsel des
+                            Prinzen von Preußen August Wilhelm mit dem Kammerherrn Graf Ernst
+                            Ahasverus Lehndorff, in: Masovia 9 (1903), S. 130-171, hier S.
+                            149</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q12_pqy_bz">Preußen, August Wilhelm Prinz von (-)</persName>
+                    <placeName key="ed_oyr_ysm_cz">Oranienburg</placeName>
+                    <date when="1758-05-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_mdx_dk2_2z">11. Dezember 1756</ref>. - Ende April war
+                    Prinz <persName key="ed_q12_pqy_bz">August Wilhelm</persName> nach <placeName key="ed_oyr_ysm_cz">Oranienburg</placeName> abgereist. da der König die
+                    Absicht des Prinzen, <quote>sich zu der unter dem Befehl des Grafen <persName key="ed_w2k_5b3_tdb">Dohna</persName> in <placeName key="ed_jxx_gpv_mbb">Pommern</placeName> stehenden Armee zu begeben, um als Freiwilliger
+                        gegen die Schweden oder die Russen zu kämpfen</quote>, untersagt
+                    hatte.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Oranienburg, 10. Mai 1758, abends</dateline>
+                </opener>
+                <p>Ich habe Ihren Brief, lieber Graf, erhalten und sage Ihnen dafür meinen Dank.
+                    Könnten Sie mir den Besuch der beiden Schweden ersparen, würden Sie mir große
+                    Freude machen; ich bin hier nicht darauf eingerichtet, Fremde zu empfangen, und
+                    sähe ich einen, dürfte ich nicht wagen, die anderen zurückzuweisen, will ich
+                    nicht für einen groben Gesellen gelten. Wenn Sie nach <placeName key="ed_jxx_gpv_mbb">Pommern</placeName> gehen, vergessen Sie nicht, dass
+                    der Weg ebenso gut über <placeName key="ed_oyr_ysm_cz">Oranienburg</placeName>
+                    führt, wie über andere Orte. Was Sie betrifft, <seg type="comment">
+                  <orig>ich
+                            werde Sie mit Vergnügen empfangen.</orig>
+                  <note xml:id="nnnw_fy5_1bb">Er
+                            reiste am 15. Mai nach <placeName key="ed_ysp_f5h_wz">Stargard</placeName>, um dort seine <persName key="ed_q4s_xyl_2y">Mutter</persName> und seine <quote>Schwester Podewils </quote> -
+                                <persName key="ed_y4r_3y4_mbb">Sophie Dorothea von
+                                Lehndorff</persName>, verheiratet mit <persName key="ed_ek1_pw5_vcb">Constantin Guido von Podewils </persName> - zu sehen. Der
+                            Einladung konnte er nicht mehr folgen. Als er vier Wochen später die
+                            Heimreise nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> antrat,
+                            erreichte ihn unterwegs die Nachricht vom Tod des <persName key="ed_q12_pqy_bz">Thronfolgers</persName> am 12. Juni. Lehndorff
+                            schrieb am selben Tag in seinem Tagebuch: <quote>Die Briefe, die er mir
+                                geschrieben hat, werden ewige Denkmäler seiner edlen Gesinnung und
+                                seiner Freundschaft für mich sein.</quote>
+                  </note>
+               </seg>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ajx_zrr_51b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jacob Ludwig Pisanski an Ernst Ahasverus Heinrich Graf von Lehndorff. Angerburg, 19. März 1773</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ajx_zrr_51b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 374, Bl. 17-17v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_uhx_5jq_tcb">Pisanski, Jacob Ludwig (1733-)</persName>
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    <date when="1773-03-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Im Februar war Lehndorff von Berlin aus nach Steinort gereist. Hier hielt er
+                    sich mit Unterbrechungen bis zum 3. Oktober aus, vgl. Nachträge, Bd. 2, S.
+                    274-285. - Vgl. <ref target="https://szukajwarchiwach.pl/42/382/0/3/48/str/1/1/100#tabSkany">APO,
+                        Bestand 382 FA Lehndorff, Nr. 48: Schmiede-, Schlosser- u. a. Rechnungen
+                        1736-1775</ref>, sowie <ref target="https://szukajwarchiwach.pl/42/382/0/3/49/str/1/1/100#tabSkany">Nr.
+                        49: Bauverträge und Kostenanschläge mit Maurern und Zimmermeistern
+                        1737-1794</ref>.</note>
+            </correspDesc>
+            <abstract>
+                <p>Pisanski, Pfarrer und Probst in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, empfiehlt Lehndorff zwei Tischler, Vater und Sohn,
+                        <quote>von denen der erste ein alter und guter Mann und der letztere, der
+                        auch Meister ist, ein wahrer Künstler ist</quote>. Er hat Hoffnung, noch
+                        <quote>auf dem Schlitten nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu kommen</quote>.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

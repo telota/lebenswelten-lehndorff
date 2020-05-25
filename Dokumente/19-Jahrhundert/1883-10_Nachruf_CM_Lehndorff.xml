@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_qdc_xsp_dbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nachruf. Oktober 1883</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_qdc_xsp_dbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="editorial">
+                    <p>
+                  <persName key="ed_zkm_whl_2y">Graf von Lehndorff</persName> war nach der
+                        Todesanzeige u. a. in der Neuen Preußischen Kreuz-Zeitung am 28. Oktober
+                        1883 um 3 Uhr morgens in <placeName key="ed_ip1_5vz_g2b">Riola</placeName>
+                        bei Bologna verstorben, vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr.
+                        262, Bl. 416. Laut Kopie der durch den Standesbeamten von <placeName key="ed_fpj_wlr_kfb">Grizzana</placeName>, Elias <persName key="ed_v5w_bmr_kfb">Savorini</persName>, ausgefertigten Sterbeurkunde
+                        mit einer Übersetzung des deutschen Konsulats (ebd., Nr. 212) trat der Tod
+                        um 2 Uhr 45 Minuten morgens in Savignano, Haus Nr. 96 ein. Zur medizinischen
+                        Vorgeschichte ebd., Nr. 262, Bl. 406, auch APO, Bestand 382 FA Lehndorff,
+                        Nr. 295. - In <placeName key="ed_xrv_gwb_by">Berlin</placeName> fand am 31.
+                        Oktober um 1 Uhr eine Andacht am Sarg statt (LASA, StA L, Bestand 21950 FA
+                        Lehndorff, Nr. 262, Bl. 41, Rechnung des Beerdigungs-Comptoirs,vorm.
+                        Gebrüder Beeskow, Potsdamer Straße ). Am Abend des 2. November um 8 Uhr
+                        erfolgte die Beerdigung auf dem Begräbnisplatz des Elisabeth-Krankenhauses.
+                        Die <quote>Leichenwagen 1. Klasse</quote> waren jeweils mit 2 Pferden
+                        bespannt. Als letzte Adresse des Verstorbenen ist auf der Rechnung
+                            <quote>Unter den Linden Nr. 75</quote> angegeben, für die Abholung der
+                        Leiche wurden vom Beerdigungs-Comptoir 8 Mann a 3 Mark berechnet, die
+                        Kutscher erhielten 4 M Trinkgeld. Auf der über 63 M am 2. November 1883
+                        ausgestellten Rechnung des Beerdigungs-Comptoirs ist auf der Rückseite
+                        notiert: <quote>beides Ende November an Onkel <persName key="ed_nml_dw2_cy">Heinrich Lehndorff</persName> bezahlt. <persName key="ed_ik3_ckz_2y">Graf Lehndorff-Steinort</persName>
+                  </quote>. -
+                        Auf diese Andacht in <placeName key="ed_xrv_gwb_by">Berlin</placeName> geht
+                        v. <persName key="ed_z5s_b5z_g2b">Arnim</persName> in seinem
+                        Kondolenzschreiben ein: <quote>leider erfuhr ich zu spät, dass hier im
+                                <orgName key="ed_dqv_hwz_g2b">Elisabeth-Hospital</orgName> eine
+                            Andacht am Sarg stattgefunden, ich wäre so gerne dabei gewesen</quote>,
+                        ebd., Nr. 394, Bl. 234-235. In Steinort traf der Sarg am 3. November 1883
+                        ein und wurde von Schullehrer <persName key="ed_b43_s4c_mfb">Puschke</persName> mit einem Gebet empfangen. Die Trauerfeier fand am
+                        4. November 1883 statt. Im Anschluss wurde der Sarg in der <orgName key="ed_nnc_rrz_g1b">Familienkapelle</orgName> beigesetzt. Am 5.
+                        November 1883 stellte der Obermeister der Schneiderinnung Grape in
+                        Rastenburg <quote>für den Leichenwagen, die nötigen Intensilien und
+                            Mannschaften dazu, zur Beschaff der Leiche des Herrn Grafen Leohnstorf
+                            (!) vom Bahnhof Steinort</quote> und zum <quote>Herausheben der Leiche
+                            aus dem Wagon und Aufsetzen auf den Leichenwagen</quote> 100 Mark in
+                        Rechnung. - Allein 350 Todesanzeigen waren dem Büro des Herrenhauses
+                        übergeben worden, 350 gingen an den Union-Klub, zu dessen Gründern Lehndorff
+                        1867 gehört hatte, 150 an den Fischerei-Verein; 250 mussten bei dem
+                        Hof-Lithographen Hermann <persName key="ed_hvk_z4r_kfb">Veit</persName> in
+                        Berlin für 213,25 Mark nachbestellt worden, vgl. LASA, StA L, Bestand 21950
+                        FA Lehndorff, Nr. 262, Bl. 421-422. - Siehe auch den Nachruf in: LHA
+                        Sachsen-Anhalt, StA Magdeburg, E 130 George Adalbert v. Mülverstedt, Nr.
+                        36/1 (unverzeichnet). Biographisches in: APO, Bestand 382 FA Lehndorff, Nr.
+                        308 (Militärdienstzeit), GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                        Lehndorff-Steinort, Nr. 555-557 (persönliche Dokumente) und in: Schultze,
+                        Maximilian (Hrsg.), Christian Friedrich Carl Ludwig Reichsgraf
+                        Lehndorff-Steinort ... Ein Lebensbild auf Grund hinterlassener Papiere,
+                        Berlin 1903, S. 650 ff.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 221: Gedächtnis-Reden, Nachrufe und
+                            Lebenslauf weiland des Reichsgrafen Carl Meinhard Lehndorff,
+                            Majoratsherrn auf Steinort, Legationsrat a. D. und Mitglied des
+                            Herrenhauses, geb. 20. Oktober 1826, gest. 28. Oktober 1883, Angerburg
+                            1883. </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>In der Akte weitere Nachrufe aus: Kreuzzeitung, Königsberger Hartungsche
+                            Zeitung, Reichsbote, Ostpreußische Zeitung, Preußischer Volksfreund,
+                            Königsberger Allgemeine Zeitung, Angerburger Kreisblatt, Rastenburger
+                            Kreisblatt, Stadt- und Landbote für Ostpreußen, Ostpreußische
+                            conservative Korrespondenz, Masovia, Der Sporn.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1883-11-04" to="1883-11-10" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>(Königsberger Allgemeine Zeitung)</p>
+                <p>Die Bestattung des verstorbenen Grafen Carl Lehndorff in Steinort.</p>
+                <p>Es war ein langer Zug, der sich in der gestrigen Sonntagfrühe von dem Südbahnhofe
+                    aus nach <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> in Bewegung
+                    setzte. Er führte einundachtzig Personen nach dem Trauerhause in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, wo die Freunde und Verehrer des zu
+                    früh Verstorbenen von allen Seiten sich versammelt hatten, um ihm die letzte
+                    Ehre zu erweisen. Eine lange Wagenreihe brachte die von <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> mit dem Zuge in Rastenburg
+                    Angelangten nach Steinort, wo gegen zwei Uhr die Trauerfeierlichkeiten begannen.
+                    In dem großen Parterresaal des altertümlichen Gebäudes lag der verewigte
+                    Schlossherr aufgebahrt. Der seine irdischen Reste bergende Sarg war vollständig
+                    bedeckt von Palmen, Blumen, Kränzen und Sträußen, der große Saal würde- und
+                    weihevoll mit den Kindern der Flora ausgeschmückt. Eine glänzende Versammlung
+                    umstand den Sarg und füllte den Raum des Saales bis auf den letzten Platz. Außer
+                    den Gutsbesitzern der Umgegend, zum Teil Träger berühmter Namen, waren u. a.
+                    zugegen: der Bruder des Verstorbenen, der Flügeladjutant unseres Kaisers,
+                        <persName key="ed_nml_dw2_cy">Graf Lehndorff</persName>, die mit dem
+                    Lehndorffschen Hause verschwägerte gräflich <persName key="ed_n2h_2xz_g2b">Dohnasche Familie</persName>, ferner der Herr kommandierende General von
+                        <persName key="ed_etf_rxz_g2b">Gottberg</persName>, der Divisions-Kommandeur
+                    Herr von <persName key="ed_lwy_mxz_g2b">Verdy</persName>, der Herr Oberpräsident
+                    von <persName key="ed_kls_v2b_ycb">Schlieckmann</persName>, Herr
+                    Regierungspräsident <persName key="ed_tdh_glh_cy">Studt</persName>, Herr
+                    Polizeipräsident <persName key="ed_ugb_1yz_g2b">Devens</persName>, Herr Landrat
+                    von <persName key="ed_wrm_fyz_g2b">Hüllesem</persName>, Herr Geheimer
+                    Kommerzienrat <persName key="ed_rdd_lyz_g2b">Simon</persName>, der Direktor der
+                    Südbahn Herr <persName key="ed_ljd_wyz_g2b">Wendland</persName>, Herr Stadtrat
+                        <persName key="ed_or2_yyz_g2b">Hagen</persName> als Vertreter des
+                    Vorsteheramtes der Kaufmannschaft, außerdem viele Offiziere der umliegenden
+                    Garnisonstädte und Königsbergs. Speziell seien noch hervorgehoben die
+                    Deputationen des 3. Kürassier-Regiments, der studentischen Verbindung Masovia,
+                    welcher der Verstorbene einst angehörte, und des Personals der Südbahn. Auch die
+                    hiesige Presse hatte ihre Vertreter gesandt. Die <seg type="comment">
+                  <orig>Weiherede im Schloss hielt zu Häupten des Verstorbenen Herr
+                            Superintendent <persName key="ed_v5g_pvf_2y">Braun</persName> aus
+                            Angerburg</orig>
+                  <note xml:id="nctp_rwl_2cb">Siehe das Exemplar mit
+                            Widmung <quote>Meinem lieben Kordack-Taberlack C. Gf. v. Lehndorff
+                                1883</quote> in: EZA 507/5220 </note>
+               </seg>; es war eine ergreifende
+                    Rede, die jedem der Anwesenden tief zu Herzen ging. Vor und nach der Rede
+                    ertönte Gesang mit Orgelbegleitung, in welchen die Trauerversammlung einstimmte.
+                    Der Schlosshof hatte sich mittlerweile mit einer großen Menschenmenge angefüllt;
+                    es waren die Bewohner des Gutes, die ihrem allverehrten und vielgeliebten Herrn
+                    den letzten Abschiedsgruß bringen wollten, es waren ferner die Einwohner der
+                    umliegenden Dörfer, die mit tränenerfüllten Herzen herbeigeeilt waren, denn
+                    allen war der Verstorbene ein Freund und Berater gewesen, der keinen
+                    Hilfesuchenden von seiner Tür gewiesen. <seg type="comment">
+                  <orig>Nach
+                            Beendigung der Feierlichkeit im Schloss wurde der Sarg mit der Hülle des
+                            Entschlafenen nach der Grabkapelle auf der Landzunge des Mauersees
+                            überführt. Dort hielt der Pastor <persName key="ed_nfz_czz_g2b">Ziegler</persName> aus <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> die Grabrede.</orig>
+                  <note xml:id="nshk_j5h_4bb">In seinem Kondolenzschreiben an die Gräfin
+                            schreibt Pfarrer <persName key="ed_ojh_v2m_gbb">Westphal</persName> aus
+                                <placeName key="ed_h35_jqh_my">Drengfurth</placeName>: <quote>Da der
+                                Begräbnistag auf einen Sonntag fiel, konnte ich wegen Amtshandlung
+                                nicht zeitig genug abreisen, traf daher zur Feier erst beim Anfang
+                                des Gesanges ein und vermochte nicht mehr, bis zum Sarg mich
+                                vorzudrängen. Auf dem Wege nach der Kapelle übersah ich erst die
+                                ungeheure Menge der Leidtragenden aus dem Volk, und hätte ich vorher
+                                gewusst, dass diese alle von den Reden nichts hören würden, so hätte
+                                ich mich auf eine Ansprache vorbereitet, die ich von der Treppe der
+                                Kapelle ins Freie gehalten hätte, denn ich sah gar viele weinende
+                                Augen; aber dort an der Stelle war keine Zeit auch nur zu einer
+                                kurzen Sammlung für mich. Am nächsten Sonntage wird auch in hiesiger
+                                Kirche die Danksagung und Fürbitte für den seligen Herrn Grafen und
+                                sein Haus gehalten werden.</quote> LASA, StA L, Bestand 21950 FA
+                            Lehndorff, Nr. 394, Bl. 208-209v.</note>
+               </seg> Die Spitze des langen
+                    Trauerzuges bildete der <seg type="comment">
+                  <orig>Kriegerverein aus
+                            Angerburg</orig>
+                  <note xml:id="nvqx_mwq_2kb">Lehndorff war neben
+                                <persName key="ed_asb_14p_jlb">Hermann Griguscheit sen</persName>.,
+                            Schonsteinfegermeister a. D., <persName key="ed_bfy_c4p_jlb">Gustav
+                                Bartsch</persName>, Kürschnermeister, und <persName key="ed_ydg_h4p_jlb">Heinrich Woitkowitz</persName>, Rentier,
+                            Ehrenmitglied des am 2. September 1874 gegründeten Angerburger
+                            Kriegervereins, vgl. Kriegerverein Angerburg (1874-1927). Festschrift
+                            zur Einweihung des Denkmals für die im Weltkrieg Gefallenen des
+                            Kirchspiels Angerburg am 25. September 1927, Druck: <persName key="ed_kxl_m4p_jlb">Hugo Priddat</persName>, Angerburg 1927, S. 20.
+                            Für die Information danke ich Torsten Woitkowitz.</note>
+               </seg>, ihm
+                    folgten die Forstbeamten des Gutes, dem Sarge mit den Orden und Ehrenzeichen des
+                    Verstorbenen und dem Trauermantel der Johanniter die Angehörigen des Grafen, an
+                    welche sich der lange Zug des Trauergeleites schloss. Gegen halb 4 Uhr
+                    nachmittags waren die Feierlichkeiten beendet. Die Teilnahme an dem Begräbnis
+                    war eine so allgemeine, die Betrübnis über den Hingang des Majoratsherren von
+                    Steinort bei allen eine so aufrichtige, dass auch der Fremde den Eindruck
+                    erhalten musste, in dem Verstorbenen sei ein Biedermann, ein edler Freund der
+                    Menschheit zu Grabe getragen. Friede seiner Asche!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

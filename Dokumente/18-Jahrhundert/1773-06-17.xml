@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_my5_th4_j3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pachtvertrag. Steinort, 17. Juni 1773</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_my5_th4_j3b</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+                <note type="editorial">
+                    <p>Der Akte liegt der anschließende, am 12. Juli 1776 zwischen <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich Graf von
+                            Lehndorff</persName> und dem Pächter <persName key="ed_gc3_fxc_m3b">Carl
+                            Heinrichs</persName> für sechs Jahre (vom 11. Juli 1776 bis 11. Juli
+                        1782) geschlossene Pachtkontrakt über das Vorwerk <placeName key="ed_s3k_b12_gy">Taberlack</placeName> bei.</p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 382, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b. Tilsit
+                    12.10.1696-Königsberg 12.2.1775)</persName>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1773-06-17" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Nachdem sich der Schultze <persName key="ed_ppx_3zw_hkb">Matthis
+                        Waschk</persName> mit seinem Schwiegersohn <persName key="ed_gcn_lzw_hkb">Jan Bartnik</persName> aus <placeName key="ed_syv_qzw_hkb">Gneist</placeName> gemeldet und Ansuchung getan, ihnen mein Vorwerk
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName> zur Arrende zu
+                    überlassen, so sind ihnen sowohl Anschlag als Kontrakt gezeigt, sind auch beide
+                    in Person in bemeldten Vorwerken gewesen und das Besatz-Vieh auch die Felder in
+                    Augenschein genommen. Und da ihnen dieses anständig, so haben sie mich ersucht
+                    um einen Versicherungsschein, dass sie das Vorwerk zur Arrende nach abgeredeten
+                    Konditionen haben könnten.</p>
+                <p>So ist ihnen dieser Schein zu ihrer Nachricht und Gewissheit erteilt, und sie
+                    versprechen den 10. Juli c. a. zur Übergabe sich allhier einzustellen.</p>
+                <p>Gegeben  Steinort den 17. Juni 1773</p>
+                <p>L. M. verwittibte <persName key="ed_q4s_xyl_2y">Reichsgräfin von Lehndorff,
+                        geborene von Wallenrodt</persName>
+            </p>
+                <p>[Siegel mit dem Familienwappen]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

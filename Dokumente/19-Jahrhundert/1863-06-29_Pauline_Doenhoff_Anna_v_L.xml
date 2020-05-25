@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_osl_fwf_4y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pauline Gräfin von Dönhoff an Anna Gräfin von Lehndorff. Friedrichstein, 29. Juni 1863</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_osl_fwf_4y</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 432, Bl. 61-66v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von, geb. Gräfin von
+                        Lehndorff (1823-1889)</persName>
+                    <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName>
+                    <date when="1863-06-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://szukajwarchiwach.pl/42/382/0/4/432/str/1/1/10000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline rend="align(right)">Friedrichstein, den 29. Juni 1863</dateline>
+                </opener>
+                <opener>Meine Herzens Änny!<dateline> </dateline>
+                    <salute>Gestern erhielten wir einen Brief von <persName key="ed_xwr_1qp_mfb">Amelie</persName>, der eine interessante Relation enthält über die
+                        Eindrücke der <seg type="comment">
+                     <orig>Preußischen Reise</orig>
+                     <note xml:id="nymg_sjj_hfb">Siehe das Dokument vom <ref target="lehndorff_exh_4hc_gy">12. Juni 1863.</ref>
+                     </note>
+                  </seg>,
+                        welche die <persName key="ed_fc4_2bb_dy">Kronprinzess</persName> der
+                            <persName key="ed_odq_wwf_4y">Königin Witwe</persName> in lebhaften
+                        Farben geschildert hat.</salute>
+                </opener>
+                <p>Ich habe die betreffenden Stellen wörtlich für Dich abgeschrieben, damit Du
+                    siehst, wie in den Augen der Frau Prinzess <hi rendition="#u">
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               </hi> der Glanzpunkt der ganzen
+                    Preußischen Reise geblieben. Und das mit vollem <hi rendition="#u">Recht</hi>,
+                    denn niemand hat auch nur annähernd Ähnliches geleistet und nach jeder Richtung
+                    hin so viele Mittel aufgeboten, um die Frau Prinzess zu erfreuen und zu
+                    befriedigen, wir Ihr es getan. Es ist doch erfreulich, wie die Anerkenntnis für
+                    so viel Aufopferung, die wir in Steinort öfters vermissten, nun wenigstens
+                    nachträglich bei ihr zum Durchbruch kommt, und ihrerseits laut und rühmend
+                    ausgesprochen wird.</p>
+                <p>Als die Kronprinzess mir in <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>
+                    begegnete, rief sie: Ach wie freue ich mich Sie wiederzusehen, als letzte
+                    Reliquie von Steinort!, wo ich so glücklich gewesen bin. In Gerdauen saß ich der
+                    Kronprinzess vis a vis bei Tisch und sie unterhielt sich fast die ganze Zeit mit
+                    mir laut und lebendig über Steinorter Erinnerungen. Beim Abschied umarmte sie
+                    mich und sagte: Sie werden mir jetzt recht fehlen, Gräfin! Ich habe so frohe
+                    Tage mit Ihnen in Steinort verlebt. Dann fügte sie noch hinzu: Da ihr Aufenthalt
+                    in <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> dies Mal leider
+                    sehr kurz gewesen, werde sie das nächste Mal uns einen längeren Besuch machen. -
+                    Mein Entzücken über diese Aussicht war ein sehr <hi rendition="#u">gemäßigtes</hi>, denn Ihr habt uns in Steinort das Handwerk dermaßen
+                    verdorben, dass hinfüro aller Aufwand von Kräften, den wir in Friedrichstein
+                    machen könnten, der kleinen verwöhnten Frau Prinzess nur schmal und ledern
+                    erscheinen würde. </p>
+                <p>Ich hörte davon sprechen, die Frau Prinzess habe den Wunsch gehabt, <seg type="comment">
+                  <orig>Eugenie</orig>
+                  <note xml:id="nfdx_vbs_d2b">Ein Pferd aus
+                            der Lehndorffschen Zucht</note>
+               </seg> zu kaufen, die ihr so sehr
+                    zusagte. <persName key="ed_khq_xbs_d2b">Schweinitz</persName> aber habe
+                    geglaubt, es nicht über sich nehmen zu können, da, wie mir Gräfin <persName key="ed_x1c_kcs_d2b">Brühl</persName> sagte, <unclear reason="illegible" cert="high">Hemis</unclear> ein sehr strenger Hofmarschall sei und den Hof
+                    sehr knapp mit dem Geld hielte; ein Faktum, welches allerdings <hi rendition="#u">sehr durchscheinend</hi> an diesem Hof ist. Die Brühl
+                    erzählte mir, die Frau Prinzess habe erst in diesem Jahr ein zweites Reitpferd
+                    mit vieler Mühe erlangt und sich bisher mit einem einzigen begnügen müssen. Die
+                    Leistungsfähigkeit dieses Pferdes muss übrigens aller Ehren wert sein. In
+                        <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> hat <persName key="ed_khq_xbs_d2b">Schweinitz</persName> 10 Friedrichsdor Trinkgeld ins
+                    Haus gegeben, was sehr viel ist im Vergleich zu den 25 Schnepflein in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. <note type="editorial">Bald möchte
+                        sie Nachricht geben, wie ihre Gesundheit </note> diese harte Feuerprobe
+                    überstanden hat. <gap reason="insignificant"/>
+                </p>
+                <p>So reizend und amüsant es war, die glanzvollen Festtage in Steinort als
+                    unverantwortlicher Zuschauer zu erleben, so tötend denke ichs mir, der Chevalier
+                        <gap reason="illegible"/> all dieser Herrlichkeit gewesen zu sein. <gap reason="illegible"/>
+            </p>
+                <closer rend="paragraph">
+                    <salute>Deine treue Schwester</salute>
+                    <signed>Pauline Dönhoff</signed>
+                </closer>
+                <closer>
+                    <salute> </salute>
+                </closer>
+            </div>
+            <postscript>
+                <p>Abschrift von <persName key="ed_xwr_1qp_mfb">Amelies</persName> Brief an meinen
+                    Mann, <placeName key="ed_hgx_f1v_sy">Sans Souci</placeName> den 26. Juni
+                    1863</p>
+                <p>Deine Mitteilungen aus der Zeit des Frau Prinzesslichen séjours in Preußen können
+                    wir Dir gar nicht genug danken. So viel aber ist sicher, dass alles, was man für
+                    die Frau Prinzess arrangiert hat, auf dankbaren Boden gefallen ist. - Sie hat
+                    sich <hi rendition="#u">überaus anerkennend</hi> darüber zur Königin
+                    ausgesprochen.</p>
+                <p>Den Sieg aber über alle Etablissements, die sie besuchte, hat doch <hi rendition="#u">
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               </hi>
+                    davongetragen; besonders in Bezug auf den train de vie, der Ihr vollkommen
+                    zugesagt hat. Den séjour in <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName> und <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName> schilderte Sie als zu förmlich und steif, wenn
+                    auch Sie der Grandiosität der Schlösser alle Gerechtigkeit wiederfahren ließ.
+                        <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> habe beides
+                    vereint: Großartigkeit des Etablissements und <gap reason="illegible"/> der
+                    Allüren. <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> hat ihr auch sehr
+                    gefallen, und hob sie besonders die durch und durch neue <unclear reason="illegible" cert="high">Stattlichkeit</unclear> der Einrichtung
+                    hervor. - <hi rendition="#u">Steinort</hi> aber blieb immer der Höhepunkt von
+                    allem, was Sie erzählte.</p>
+                <p>Wüsste ich nur erst, wie <persName key="ed_wms_mh2_cy">Anna</persName> das alles
+                    überstanden, was sich in so kurzer, überhäufter Zeit für sie zusammendrängte an
+                    verschiedensten Aufgaben, Anforderungen, Eindrücken und Emotionen.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

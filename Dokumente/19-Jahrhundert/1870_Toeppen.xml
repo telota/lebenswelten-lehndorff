@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_ocz_nh4_shb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschreibung von Steinort. 1870</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_ocz_nh4_shb</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Toeppen, Max, Geschichte Masurens. Ein Beitrag zur
+                            preußischen Landes- und Kulturgeschichte. Nach gedruckten und
+                            ungedruckten Quellen, Danzig 1870, S. XXVI</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1870-01-01" to="1870-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>... Kehren wir in die Gegend der großen Seen zurück, so zieht uns <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> durch einen ungemein lieblichen
+                    Charakter seiner Umgebung an. Von den Anhöhen des Löwenthin-Sees genießt man
+                    ringsum die lachendsten Aussichten. Eine Fahrt von Lötzen her über den
+                    Angerburger See führt an reizenden Inseln und Halbinseln vorüber, welche schon
+                    im vorigen Jahrhundert von bewundernden Naturfreunden, wie es die Angerburger
+                    Pröpste <persName key="ed_ccw_sfj_f3b">Helwing</persName> und <persName key="ed_ayd_s1v_vz">Pisanski</persName> waren, aus vollem Herzen gepriesen
+                        sind.<note place="mBottom" hand="#author"> Helwing, Lithogr. Angerb. I § 5
+                        p. 5. Pisanski, im preuß. Archiv, 1793, S. 352 ff. und 1796, S. 646 ff.
+                    </note> Die Perle in diesem Kranze der lieblichen Partien bildet die Halbinsel,
+                    auf welcher das Stammmschloss des gräflich v. Lehndorffschen Hauses, <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, liegt, mit ihren Wäldern,
+                    Ortschaften, Gärten und Uferrändern, und weiterhin das Pristanische Werder
+                    (Insel <placeName key="ed_h1w_jc2_gy">Upalten</placeName>) mit seinen
+                    Parkanlagen und Lusthäusern. Auch wer einen großen Teil Europas gesehen hat,
+                    sagt Pisanski mit Recht, wird den Steinortschen Garten mit seinen Umgebungen zu
+                    dem vorzüglichsten rechnen müssen, was man sehen kann. Der Glanzpunkt alles
+                    Schönen in Masuren, sagt Eckert, ein enthusiastischer Bewunderer der
+                    Naturschönheiten dieses Landes, ist der Mauersee mit den daran stoßenden
+                    Eichenwäldern, mit tiefen Einschnitten und Buchten und Inseln, und vor allem der
+                    Park zu Steinort. Der erste Eindruck beim Betreten desselben ist so
+                    überwältigend, dass man gänzlich betäubt wird von der Erhabenheit und Majestät
+                    dieser Eichen. Wenn das Bewusstsein allmählich erwacht, findet man sich
+                    unendlich klein, und der Park wird zum Göttersaal, dessen Säulen die Stämme und
+                    dessem Wölbung die Kronen sind.<note place="mBottom" hand="#author"> Eckert,
+                        Rheinreise in der Masovia, S. 149 f,</note>
+                </p>
+                <p>Weiterhin wechseln die steilen Uferwände der Angerapp, oft von 60 Fuß Höhe, mit
+                    schöner Waldung bestanden, mit zahllosen Tiefschluchten und bilden zu dem
+                    dunklen Nadelholze und dem Silberfaden des Flusses einen herrlichen Kontrast, so
+                    dass man diese wilde Partei in jener Gegen die masurische Schweiz nennt. ...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

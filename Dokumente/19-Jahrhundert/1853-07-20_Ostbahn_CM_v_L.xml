@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_jhm_syh_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Königliche Direktion der Ostbahn an Carl Meinhard Graf von Lehndorff.
+                    Bromberg, 20. Juli 1853</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_jhm_syh_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 901, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_w13_vch_ldb">Königliche Direktion der Ostbahn</orgName>
+                    <placeName key="ed_bp5_xch_ldb">Bromberg</placeName>
+                    <date when="1853-07-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Zum Ostbahnprojekt und der Eröffnung der Ostbahn: <ref target="https://edoc.bbaw.de/frontdoor/index/index/searchtype/authorsearch/author/%22Huch%2C+Gaby%22/docId/2988/start/6/rows/10">Huch, Gaby, Zwischen Ehrenpforte und Inkognito: preußische Könige auf
+                        Reisen. Quellen zur Repräsentation der Monarchie zwischen 1797 und 1871
+                        Berlin 2016</ref>, Bd. 1, S. 154 f. und Dok. Nr. 406 (Juli 1853). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Seine Majestät der König werden die Ostbahnstrecke von Braunsberg nach Königsberg
+                    am 1. August dieses Jahres Allerhöchstselbst eröffnen.</p>
+                <p>Ew. Exzellenz</p>
+                <p>beehren wir uns zur Teilnahme an der Festfahrt durch <seg type="comment">
+                  <orig>beiligende Karte</orig>
+                  <note xml:id="nwkc_3zh_fdb">Die
+                            persönliche Einladungskarte liegt der Akte bei.</note>
+               </seg> ganz
+                    ergebenst einzuladen.</p>
+                <p>Nach der Allerhöchsten Bestimmung erscheinen die Herren, welche zur Tragung von
+                    Uniform berechtigt sind, in Uniform.</p>
+                <closer>
+                    <signed>Königliche Direktion der Ostbahn <lb/>Hübner</signed>
+                    <dateline>Bromberg, den 20. Juli 1853</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

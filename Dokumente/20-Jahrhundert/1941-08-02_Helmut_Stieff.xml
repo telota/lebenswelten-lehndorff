@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_rq1_rrv_rz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hellmuth Stieff an seine Ehefrau Ili Cäcilie. Hauptquartier
+                    Wolfsschanze, 2. August 1941 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_rq1_rrv_rz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword"/>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Dokumentation. Ausgewählte Briefe von Generalmajor
+                            Hellmuth Stieff (hingerichtet am 8. August 1944), in: Vierteljahreshefte
+                            für Zeitgeschichte, 2 (1954), H. 3, S. 291 ff., hier S. 300 f.</bibl> 
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_y1g_1cl_gbb">Stieff, Helmut (-)</persName>
+                    <placeName key="ed_gwl_cbl_gbb">Wolfsschanze</placeName>
+                    <date when="1941-08-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_xxm_3cl_gbb">Stieff, (-)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Samstag, 2.8.1941</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>
+               <note type="editorial">Betrachtungen über die Operationen und die Fehlgriffe des
+                        Russlandfeldzuges</note>
+                </p>
+                <p>
+               <gap reason="insignificant"/> Ein Ausfluss dieser Nervosität an oberster Stelle
+                    ist auch unsere Art der Berichterstattung. Sie ist für meine Begriffe schlimm.
+                    Die Wehrmachtsberichte sind nichts weiter mehr als Mittel der politischen
+                    Propaganda, werden von ihm nur noch persönlich abgefasst ohne Rücksicht auf die
+                    ihm oft vorgetragene Rückwirkung auf die Stimmung und die Erwartung der
+                    kämpfenden Truppe, für die sie das einzige Unterrichtsmittel über den großen
+                    Verlauf der Kämpfe darstellen. Außerdem bauschen sie angebliche Erfolge in einer
+                    geradezu abstoßenden Form auf und sind alles andere als nüchterne
+                    Tatsachenberichte. Mit Fug und Recht kann man ihren Wahrheitsgehalt anzweifeln.
+                    Es ist schade, dass nunmehr auch das letzte Bollwerk des Anstandes in diesem
+                    Staat auf dem Altar eines von korrupten oder irrsinnigen Menschen geleiteten
+                    Systems geopfert wird. Ich bin sehr verbittert wie noch nie in diesem Krieg und
+                    bestimmt wie noch nie im Verlauf eines Feldzuges. </p>
+            <p>Dass die Umbauten des Herrn von <persName key="ed_fq1_zm5_zdb">Ribbentrop</persName> in dieser
+                    Zeit vordringlich sind, ist mir neulich auch zur Kenntnis gekommen, indem ich
+                    vom Auswärtigen Amt einen UK-Stellungsantrag für einen bei mir beschäftigten
+                    Zeichner erhielt mit der Begründung, dass der Führer ihn für den sofortigen <seg type="comment">
+                  <orig>Umbau der Villa des Herrn von Ribbentrop in <placeName key="ed_lx1_3n5_zdb">Dahlem</placeName>
+                        </orig>
+                  <note xml:id="nmmk_lg3_mfb">
+                     <ref target="https://www.europeana.eu/portal/de/record/08535/local__default__FB_040_0008.html">Die Villa befand sich in der Lentzeallee 7-9.</ref>
+                        </note>
+                    </seg>befohlen habe. Meine Antwort war unmissverständlich - das wirst Du Dir
+                    vorstellen können - und selbstverständlich bleibt der Mann hier. </p>
+                <p>Was dieser Kerl aber für ein Parvenü ist, dafür folgendes Beispiel: Herr von
+                    Ribbentrop ist hier in unserer Nähe auf Schloss <placeName key="ed_pxt_cnh_1y">Steinort</placeName> des Grafen L. untergebracht, der selbst als
+                    Ordonnanzoffizier des Feldmarschalls von <persName key="ed_fqn_sxh_4cb">Bock</persName> im Felde steht - eine der besten Familien von ganz
+                        <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>. Da ist diesem <seg type="comment">
+                  <orig>hergelaufenen Weinreisenden</orig>
+                  <note xml:id="ncxp_yg3_mfb">Bezieht sich auf dessen Tätigkeit als
+                            Geschäftsmann und Weinimporteur in Ottawa, vgl. <ref target="https://www.zukunft-braucht-erinnerung.de/joachim-von-ribbentrop/">https://www.zukunft-braucht-erinnerung.de/joachim-von-ribbentrop/</ref>.</note>
+               </seg>
+                    die Unterbringung anscheinend nicht fein genug, und so lässt er zur Freude der
+                        <persName key="ed_y31_rl1_dy">Gräfin</persName> die für ihn bestimmten 7
+                    Zimmer völlig neu herrichten, tapezieren, Badezimmer und Küche pp. einbauen. Sie
+                    war ganz fassungslos und er ebenfalls, wie er neulich mal hier war. - Man
+                    versteht einfach nicht, wie sich ein Mensch aus angeblich guter Familie als Gast
+                    einfach so aufführen kann. Aber unter diesen Umständen wundert es mich nicht,
+                    wenn auch das Schloss <placeName key="ed_ilm_sn5_zdb">Fuschl</placeName> nicht
+                    standesgemäß ist und der Spitzhacke anheim fallen muss! - Wenn man bedenkt, dass
+                    man diesen Kerlen ein Leben lang ausgeliefert ist, wünschte man fast, dass
+                    dieser Orlog entsprechend ausgeht. Nur um des so rührend dumm-anständigen
+                    deutschen Volkes Willen kann man beten, dass wir vor einer erneuten Niederlage
+                    bewahrt bleiben mögen. Aber die Überzeugung hat sich in mir immer tiefer
+                    festgesetzt, dass die Völker am besten regiert und geführt werden, wo die
+                    Regierungsgewalt alte traditionsgebundene Schichten in den Händen haben und
+                    nicht Emporkömmlinge und hemmungslose Autokraten. </p>
+            <p>Ich habe meinem Herzen mal Luft machen müssen. Zeige diesen Brief aber um Gottes Willen keinem
+                    Menschen. Er ist nur für Dich bestimmt. <gap reason="insignificant"/>
+                    <note type="editorial">Es folgen Frontreiseberichte.</note>
+            </p>
+				        <closer>
+                    <salute> </salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

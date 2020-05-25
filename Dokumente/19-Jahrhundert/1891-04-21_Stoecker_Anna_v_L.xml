@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_pv5_gr4_jdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Adolf Stoecker an Anna Gräfin von Lehndorff. Lugano, 21. April 1891</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_pv5_gr4_jdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 521, Bl. 8-8v</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xkb_vvc_gy">Stoecker, Adolf (1835-1909)</persName>
+                    <placeName key="ed_o1s_53v_h2b">Lugano</placeName>
+                    <date when="1891-04-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Am 28. April schrieb er (Bl. 9-9v): <quote>Sehr freue ich mich Ihnen melden zu
+                        können, dass ich zu Pfingsten kommen kann. Nicht auf 8 Tage, aber auf 3 kann
+                        ich mich frei machen. Wenn wir den 19. ein <orgName key="ed_bnt_4lz_ny">Stadtmissionsfest</orgName> bei Ihnen feiern, am 20. die große
+                        Konferenz zu einer Anregung für die sozialen Bestrebungen benutzen, so
+                        bliebe der 21. noch zu irgend etwas frei. Donnerstag aber müsste ich
+                        freilich fort, um Freitag wieder hier zu sein.</quote>
+            </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/521/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lugano, 21. April 1891</dateline> 
+            </opener>
+                    
+                        <p>Ohne meinen in <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                        befindlichen Kalender kann ich nichts fest bestimmen, Doch ist mir, als <gap reason="illegible"/> den dritten Pfingsttag frei. Jedenfalls eile ich
+                        Ihnen, Hochverehrte und teure Frau Gräfin, sofort die Nachricht zu schicken,
+                        dass ich, so Gott will, komme und mich der Zusammenkunft sehr freue. Ein
+                        Fest für die <orgName key="ed_bnt_4lz_ny">Stadtmission</orgName> müsste sich
+                        wohl anschließen. Sobald ich zurück bin schreibe ich definitiv. Bis dahin
+                        Gott befohlen! </p>
+               
+            </div>
+            <closer rend="paragraph">
+                <salute>Herzliche Grüße den <gap reason="illegible"/> und Gemeinschaft von meiner
+                    Frau von Ihrem treu ergebenen</salute>
+                <signed>Stoecker</signed>
+            </closer>
+        </body>
+    </text>
+</TEI>

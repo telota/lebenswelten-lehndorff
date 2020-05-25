@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_tnm_qsc_ydb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort,
+                    Anfang September bis Dezember 1779</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_tnm_qsc_ydb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Karl Eduard, Des Reichsgrafen Ernst
+                            Ahasverus Heinrich Lehndorff Tagebücher nach seiner Kammerherrenzeit, Bd.
+                            1, Gotha 1921, S. 122-128</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <date from="1779-09-01" to="1779-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Ich habe unbeschreibliche Schwierigkeiten, um zu den verschiedenen Arbeiten, die
+                    ich vorhabe, die nötigen Kräfte aufzutreiben. Die dünne Bevölkerung in
+                        <placeName key="ed_uvt_4j4_dz">Preußen</placeName> erschwert alles. Ich hab
+                    dies Jahr eine Brauerei und eine <seg type="comment">
+                  <orig>Mühle</orig>
+                  <note xml:id="nxjm_qrb_r2b">Bereits früher muss es sowohl in Steinort als auch
+                            in Stawisken eine Windmühle gegeben haben, vgl. GStA PK, XX. HA, Rep. 54
+                            Gutsarchiv Lehndorff Steinort, Nr. 48 (Planung und Bau, Vereidigung der
+                            Müller etc. 1716-1733). Weiter Mühlen-Akten sind hier nicht mehr
+                            vorhanden. </note>
+               </seg> aufgeführt, das Dach meines Hauses sowie alle
+                    Fenster und Gesimse neu gemacht, außerdem vier Arbeiterhäuser und sieben
+                    Scheunen erbaut, und alles das in einem so schlechten Jahr. Die diesjährige
+                    Ernte berechtigt zu besseren Hoffnungen, das Unglück ist nur, dass Handel und
+                    Wandel stockt und die Preise für die landwirtschaftlichen Erzeugnisse derart
+                    gefallen sind, dass kein Pächter oder Bauer zahlen kann. Die größten Bankiers in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> haben Bankrott gemacht
+                    und das arme Land leidet furchtbar. Das tägliche Brot hat man ja, aber das bare
+                    Geld ist über alle Begriffe selten.</p>
+                <p>
+               <gap reason="insignificant"/>
+                </p>
+                <p>Vom Morgen bis zum Abend bin ich damit beschäftigt, mein Haus instand zu setzen.
+                    Es ist eine gräuliche Arbeit. Wenn ich einen Augenblick für mich habe, denke ich
+                    an die Verschönerung meines Gartens. Hinter meinem Garten habe ich ein großes
+                    Stück Land urbar gemacht, wovon ich mir viel verspreche.</p>
+                <p>Am 17. feiere ich den Geburtstag meines <persName key="ed_k4z_jgl_2y">Karl</persName>, wozu ich meine Nachbarin <persName key="ed_rcx_cgr_v2b">Queis</persName>, eine große Schwätzerin, Fräulein v. <persName key="ed_krb_dw3_tcb">Borcke</persName> und die beiden Fräulein <persName key="ed_vws_55b_tcb">Klingsporn</persName> eingeladen habe.</p>
+                <p>
+               <hi rendition="#u">Oktober</hi>. Alle meine Nichten Schlieben sind bei mir. Auch
+                    der Graf aus <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> kommt mit
+                    seiner Familie zum Besuch, so dass hier elf <persName key="ed_cpm_33y_ydb">Schlieben</persName> zusammen sind. </p>
+                <p>
+               <lb/>Ich lebe sonst ganz angenehm, aber ich habe große Mühe, meine Leute an Zucht
+                    zu gewöhnen; sie sind ganz verwahrlost. Besonders ein Bierbrauer macht mir viel
+                    Ärger. Er soll aber jetzt eine solche Strafe bekommen, dass die anderen sich ein
+                    Beispiel daran nehmen können.</p>
+                <p>Einen großen Teil des Oktober habe ich noch mit allen meinen Bauten zu tun, die
+                    unter vielen Sorgen und Aufregungen vollendet werden. So liegen die Handwerker
+                    oft im Streit mit meinen Leuten, und wenn sie betrunken sind, geraten sie aus
+                    Rand und Band. Aber mit etwas Geduld kommt man doch allmählich ans Ziel.</p>
+                <p>Zur Rekrutenaushebung schickt man mir zwei sehr liebenswürdige Offiziere, Herrn
+                    v. <persName key="ed_ntc_sgr_v2b">Schöning</persName> und Herrn v. <persName key="ed_vlj_4gr_v2b">Derschau</persName>, welche keinen nehmen.</p>
+                <p>
+               <gap reason="insignificant"/>
+                </p>
+                <p>Mein Garten ist diesen Sommer sehr schön geworden; die Ausblicke sind prächtig,
+                    die Gehölze höher. Nun habe ich ihn noch dermaßen erweitert, dass er, wie ich
+                    glaube, der größte in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> ist. Es
+                    ließe sich hier wirklich ganz gut leben, wenn man eine etwas bessere
+                    Gesellschaft, und besonders wenn man nur einen Pfennig Einnahme hätte. Aber
+                    alles hat einen so niedrigen Preis, dass man nichts verkaufen kann.</p>
+                <p>Mein Briefwechsel mit <placeName key="ed_xrv_gwb_by">Berlin</placeName> geht
+                    seinen Gang weiter; ich bin immer auf dem Laufenden. Ich schicke zwei Vasen aus
+                    einer <seg type="comment">
+                  <orig>Landesfabrik</orig>
+                  <note xml:id="nwg2_hnd_bfb">Wahrscheinlich aus der Königsberger Fabrik der Brüder Collin, vgl.
+                            Mühlpfordt, Herbert Meinhard, Paul Heinrich Collin, in: Preußenland, Jg.
+                            13/1975, Nr. 1-3, S. 43-48 (auch in: GStA PK, XX. HA, Rep. 300 Mühlpfordt Nr.
+                            2). </note>
+               </seg> an den <persName key="ed_mn5_svg_hy">Prinzen von
+                        Preußen</persName> und den Prinzen <persName key="ed_nvx_wcz_bz">Heinrich</persName> und erhalte sehr gnädigen Dank. Das rührt mich zwar,
+                    schmeichelt mir aber nicht mehr. Wenn man dreißig Jahre lang mit den Großen in
+                    steter Berührung gewesen ist, dann kennt man den wahren Wert solcher
+                    Auszeichnungen. Augenblicklich liegt mir an nichts anderem, als meine Wirtschaft
+                    in bester Ordnung und besonders meine Kinder gut erzogen zu sehen. </p>
+                <p>Eine Nachricht macht mir großes Vergnügen, dass nämlich Herr v. Gröben, der meine
+                    Nichte geheiratet hat, eben ein Majorat hier in Preußen geerbt hat, das ihm
+                    4.000 Taler jährlich abwirft.</p>
+                <p>
+               <gap reason="insignificant"/>
+                </p>
+                <p>Dezember. <seg type="comment">
+                  <orig>Ich schaffe mir eine kleine Bibliothek an,
+                            </orig>
+                  <note xml:id="njyz_byd_bfb">Möglicherweise gehörte auch der
+                            Königsberger Buchhändler Johann Jacob Kanter zu seinen Lieferanten, vgl.
+                            zu diesem: Mühlpfordt, Herbert Meinhard, Johann Jacob Kanter,
+                            betriebsamer Königsberger Buchhändler und Fabrikant, in: Preußenland,
+                            Jg. 19/1981, Nr. 1/2, S. 7-18 (auch in: GStA PK, XX. HA, Rep. 300
+                            Mühlpfordt Nr. 2). </note>
+                    </seg>die mir Beschäftigung und Unterhaltung gewährt. </p>
+                <p>
+               <gap reason="insignificant"/>
+                </p>
+                <p>
+               <note type="editorial">Am Ende des Jahres geht er nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, um den <seg type="comment">
+                     <orig>russischen Gesandten Graf <persName key="ed_z31_f3r_v2b">Mussin-Puschkin </persName>zu treffen, den er gut
+                                kennt</orig>
+                     <note xml:id="nlcj_fgc_ffb">Möglicherweise hatte er den
+                                Gesandten über die Keyserlingks kennengelernt. Krasicki schrieb über
+                                ihn am 30. Juli 1777, er sei ein galanter und sehr angenehmer
+                                Mensch. Mikulski, Korespondencja, Bd. 1, S. 292 f. Über
+                                Mussin-Puschkin und den Kommerzienrat Saturgus in Königsberg hatte
+                                Lehndorff 1778 u. a. den Kauf einer landwirtschaftlichen Maschine -
+                                    <quote>eines Eradicator pour arracher les arbres</quote>,
+                                    <quote>mit der man die größte Last in die Höhe bringen
+                                    kann</quote>, aus England abgewickelt. Siehe hierzu auch GStA
+                                PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 299:
+                                    <quote>Schriften wegen meiner Commissione in England durch den
+                                    Russischen Gesandten Mussin-Puschkin</quote>. </note>
+                  </seg> Hier
+                        erfährt er von der Absetzung des Großkanzlers v. <persName key="ed_cs4_2v3_tdb">Fürst</persName>
+                        <quote>wegen schlechter Handhabung der Rechtspflege</quote> und der
+                        Verhaftung von vier Räten, <quote>alles, <seg type="comment">
+                        <orig>weil ein
+                                    Müller sich beklagt hatte</orig>
+                        <note xml:id="nzbf_4wc_ydb">Die
+                                    in deutsch geschriebene Eintragung über den berühmten <ref target="https://de.wikipedia.org/wiki/M%C3%BCller-Arnold-Fall">Müller Arnim</ref> ebd., S. 126-128.</note>
+                     </seg>, dass man
+                            ihn verurteilt habe, seinem Herrn die rückständige Pacht zu zahlen,
+                            obwohl man das Wasser von seiner Mühle abgeleitet habe.</quote> Fürst
+                        wird durch v. <persName key="ed_rwj_n5g_hy">Carmer</persName> ersetzt, den
+                        Lehndorff aus <placeName key="ed_tjn_3rc_py">Schlesien</placeName>
+                        kennt.</note>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

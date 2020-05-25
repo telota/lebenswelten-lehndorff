@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_my3_rxh_llb">
+                    <persName type="reg">
+                        <surname>Rittberg</surname>
+                        <forename>Heinrich Eduard Graf von</forename>
+                    </persName>
+                    <birth>1789</birth>
+                    <death>1866</death>
+                    <note>1827–1850 preußischer Landrat im Kreis Stuhm,1852–1858 im Kreis Deutsch
+                        Krone; Besitzer von Rittergütern in Tangenberg und Baalau; 1849-1850
+                        Mitglied im Preußischen Abgeordnetenhaus.
+                        https://de.wikipedia.org/wiki/Heinrich_Georg_Eduard_Graf_von_Rittberg</note>
+                </person>
+                <person xml:id="ed_p5v_2n5_klb">
+                    <persName type="reg">
+                        <surname>Roloff</surname>
+                        <forename>Anna Alexandra (Lexi)</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Alvensleben, von</name>
+                    </persName>
+                    <birth>1910</birth>
+                    <death>1968</death>
+                    <note>Couisine <persName key="ed_eq5_1t1_dy">Heinrich von Lehndorffs</persName>;
+                        Heirat: Wilhelm Roloff.
+                        https://de.wikipedia.org/wiki/Wilhelm_Roloff_(Widerstandskämpfer) </note>
+                </person>
+                <person xml:id="ed_fyr_t2p_jlb">
+                    <idno type="uri">https://d-nb.info/gnd/118647997</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Alexander III. Kaiser von</forename>
+                    </persName>
+                    <birth>1845</birth>
+                    <death>1894</death>
+                </person>
+                <person xml:id="ed_spm_b3p_jlb">
+                    <idno type="uri">https://d-nb.info/gnd/1068824956</idno>
+                    <persName type="reg">
+                        <surname>Reichenbach-Goschütz</surname>
+                        <forename>Heinrich</forename>
+                    </persName>
+                    <birth>1865</birth>
+                    <death>1946</death>
+                </person>
+                <person xml:id="ed_f1b_z3f_jlb">
+                    <idno type="uri">https://d-nb.info/gnd/118501860</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Alexander II. Kaiser von</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1881</death>
+                </person>
+                <person xml:id="ed_bkr_vzq_clb">
+                    <persName type="reg">
+                        <surname>Rapp</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des verstorbenen Generals von Rapp (1732)</note>
+                </person>
+                <person xml:id="ed_tnn_b45_blb">
+                    <idno type="uri">https://d-nb.info/gnd/115843647</idno>
+                    <persName type="reg">
+                        <surname>Reinbeck</surname>
+                        <forename>Johann Gustav</forename>
+                    </persName>
+                    <birth>1717</birth>
+                    <death>1741</death>
+                </person>
+                <person xml:id="ed_yms_sxy_vkb">
+                    <persName type="reg">
+                        <surname>Rehbinder</surname>
+                        <forename>Luise Gottliebe von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Kalnein, von</name>
+                    </persName>
+                    <birth>1735</birth>
+                    <death>1806</death>
+                    <note>Heirat: 1. Jakob Ernst von der REcke, 2. <persName key="ed_cgl_4fp_tdb"
+                            >Hans Wilhelm von Rehbinder</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_bvs_dht_ncb">
+                    <persName type="reg">
+                        <surname>Raabe</surname>
+                        <forename>August</forename>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1883</death>
+                    <note>1840 Pächter von Stobben</note>
+                </person>
+                <person xml:id="ed_qyx_zkr_mfb">
+                    <persName type="reg">
+                        <surname>Rabe</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1727-1740</note>
+                </person>
+                <person xml:id="ed_qdg_1ts_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/11632158X</idno>
+                    <persName type="reg">
+                        <surname>Rachfahl</surname>
+                        <forename>Felix</forename>
+                    </persName>
+                    <birth>1867</birth>
+                    <death>1925</death>
+                </person>
+                <person xml:id="ed_odj_vh2_b2b">
+                    <persName type="reg">
+                        <surname>Raddatz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1823 Hoffiskal in Steinort</note>
+                </person>
+                <person xml:id="ed_s5k_zdb_dy">
+                    <idno type="uri">http://d-nb.info/gnd/11768600X</idno>
+                    <persName type="reg">
+                        <surname>Radolin</surname>
+                        <forename>Hugo Fürst von</forename>
+                    </persName>
+                    <birth>1841</birth>
+                    <death>1917</death>
+                </person>
+                <person xml:id="ed_x5d_q5c_gy">
+                    <idno type="uri">http://d-nb.info/gnd/11859768X</idno>
+                    <persName type="reg">
+                        <surname>Radowitz</surname>
+                        <forename>Joseph Maria von</forename>
+                    </persName>
+                    <birth>1839</birth>
+                    <death>1912</death>
+                </person>
+                <person xml:id="ed_flz_mc5_h2b">
+                    <persName type="reg">
+                        <surname>Radowitz</surname>
+                        <forename>Marielisa</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Radowitz</surname>
+                        <forename>Marie Elisabeth</forename>
+                    </persName>
+                    <birth>1869</birth>
+                    <death>1932</death>
+                    <note>Heirat: Johannes Graf von Saurma, Freiherr von und zu der Jeltsch</note>
+                </person>
+                <person xml:id="ed_s21_4gm_cz">
+                    <idno type="uri">http://d-nb.info/gnd/115548149</idno>
+                    <persName type="reg">
+                        <surname>Radziwill</surname>
+                        <forename>Anton Fürst</forename>
+                    </persName>
+                    <birth>1775</birth>
+                    <death>1833</death>
+                </person>
+                <person xml:id="ed_msp_bxw_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/139090770</idno>
+                    <persName type="reg">
+                        <surname>Radziwill</surname>
+                        <forename>Anton Wilhelm Fürst</forename>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1904</death>
+                </person>
+                <person xml:id="ed_vdn_bn5_22b">
+                    <idno type="uri">https://d-nb.info/gnd/116323302</idno>
+                    <persName type="reg">
+                        <surname>Radziwill</surname>
+                        <forename>Boguslaus Fürst</forename>
+                    </persName>
+                    <birth>1809</birth>
+                    <death>1873</death>
+                </person>
+                <person xml:id="ed_wgp_mn5_22b">
+                    <persName type="reg">
+                        <surname>Radziwill</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Vater: <persName key="ed_vdn_bn5_22b">Boguslaus Fürst
+                        Radziwill</persName>; preußischer Offizier (1871)</note>
+                </person>
+                <person xml:id="ed_zsy_kd3_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/118812661</idno>
+                    <persName type="reg">
+                        <surname>Radziwill</surname>
+                        <forename>Elisa Prinzessin</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1834</death>
+                </person>
+                <person xml:id="ed_kfq_nz3_tdb">
+                    <persName type="reg">
+                        <surname>Radziwill</surname>
+                        <forename>Graf</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1764)</note>
+                </person>
+                <person xml:id="ed_dvq_2ml_w2b">
+                    <persName type="reg">
+                        <surname>Romminger</surname>
+                        <forename>Adam Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Fabrikeninspektor; 1794 Verkäufer des Hauses am Roßgarten in
+                        Königsberg</note>
+                </person>
+                <person xml:id="ed_cft_fb3_mbb">
+                    <persName type="reg">
+                        <surname>Rapp</surname>
+                        <forename>G. C.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1749 Amtmann, Amt Schaken</note>
+                </person>
+                <person xml:id="ed_fnx_kp5_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/104303778</idno>
+                    <persName type="reg">
+                        <surname>Ratibor</surname>
+                        <forename>Viktor I. Herzog von</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1893</death>
+                </person>
+                <person xml:id="ed_j3x_jtw_f2b">
+                    <persName type="reg">
+                        <surname>Rauch</surname>
+                        <forename>Adolf von</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1877</death>
+                    <note>preußischer Kavallerieoffizier; 1856 Kammerherr und Hofmarschall der
+                        Prinzessin Luise von Preußen.
+                        https://de.wikipedia.org/wiki/Adolf_von_Rauch_(Offizier)</note>
+                </person>
+                <person xml:id="ed_kns_5p5_g2b">
+                    <persName type="reg">
+                        <surname>Rauch</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Obristleutnant; 1881 Tattersaal-Aktionär</note>
+                </person>
+                <person xml:id="ed_ccq_dr5_g2b">
+                    <persName type="reg">
+                        <surname>Rauch </surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rittmeister; 1881 Tattersaal- Aktionär</note>
+                </person>
+                <person xml:id="ed_n3m_dmp_tdb">
+                    <persName type="reg">
+                        <surname>Raucourt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>polnischer General (1767)</note>
+                </person>
+                <person xml:id="ed_dw1_svz_yhb">
+                    <idno type="uri">https://d-nb.info/gnd/119059622</idno>
+                    <persName type="reg">
+                        <surname>Raumer</surname>
+                        <forename>Georg Ludwig von</forename>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1873</death>
+                </person>
+                <person xml:id="ed_qqn_k1v_22b">
+                    <persName type="reg">
+                        <surname>Raupach</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Vaterländischer Bezirks-Frauen-Verein Gumbinnen (1872)</note>
+                </person>
+                <person xml:id="ed_ulx_mnw_f2b">
+                    <persName type="reg">
+                        <surname>Rauschning</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ingenieur <persName key="ed_cws_vm1_my">Strousbergs</persName>
+                        (1877)</note>
+                </person>
+                <person xml:id="ed_ms2_qzc_mfb">
+                    <persName type="reg">
+                        <surname>Rauter</surname>
+                        <forename>Grafen von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Rautter</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>https://de.wikipedia.org/wiki/Rautter_(Adelsgeschlecht)</note>
+                </person>
+                <person xml:id="ed_u34_lf3_tdb">
+                    <persName type="reg">
+                        <surname>Rautter</surname>
+                        <forename>Ernst Ludwig von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Rauter</surname>
+                        <forename>Ernst Ludowich von</forename>
+                    </persName>
+                    <birth>1684</birth>
+                    <death>1738</death>
+                    <note>auf Willkamm; Oberstleutnant</note>
+                </person>
+                <person xml:id="ed_byh_g2x_clb">
+                    <persName type="reg">
+                        <surname>Rabe</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Knecht in Landkeim</note>
+                </person>
+                <person xml:id="ed_q2v_kvd_py">
+                    <persName type="reg">
+                        <surname>Rechow</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1877 Lehrer in Buddern</note>
+                </person>
+                <person xml:id="ed_hrk_ddv_mbb">
+                    <idno type="uri">http://d-nb.info/gnd/104377674</idno>
+                    <persName type="reg">
+                        <surname>Recke</surname>
+                        <forename>Eberhard Friedrich Christoph Ludwig Freiherr von der</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Recke, von der</name>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1816</death>
+                </person>
+                <person xml:id="ed_oyl_2hc_ydb">
+                    <persName type="reg">
+                        <surname>Reclam</surname>
+                        <forename>Pierre Chrétien Frédéric</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1777 Prediger an der Französischen Friedrichstadtkirche</note>
+                </person>
+                <person xml:id="ed_gyk_1hm_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/116374594</idno>
+                    <persName type="reg">
+                        <surname>Redern</surname>
+                        <forename>Friedrich Wilhelm Graf von</forename>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1883</death>
+                </person>
+                <person xml:id="ed_m34_dt1_fz">
+                    <idno type="uri">http://d-nb.info/gnd/117695270</idno>
+                    <persName type="reg">
+                        <surname>Redern</surname>
+                        <forename>Siegismund Ehrenreich Graf von</forename>
+                    </persName>
+                    <birth>1719</birth>
+                    <death>1789</death>
+                </person>
+                <person xml:id="ed_hht_5gv_mbb">
+                    <persName type="reg">
+                        <surname>Rehan</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gärtner (1785)</note>
+                </person>
+                <person xml:id="ed_cgl_4fp_tdb">
+                    <idno type="uri">http://d-nb.info/gnd/1193633435</idno>
+                    <persName type="reg">
+                        <surname>Rehbinder</surname>
+                        <forename>Hans Wilhelm von</forename>
+                    </persName>
+                    <birth>1728</birth>
+                    <death>1779</death>
+                </person>
+                <person xml:id="ed_qr1_j2g_4y">
+                    <persName type="reg">
+                        <surname>Reichenbach-Goschütz</surname>
+                        <forename>Adelheid Constanze Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schlippenbach, Gräfin von</name>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1888</death>
+                    <note>Heirat: <persName key="ed_ys3_cl5_c2b">Heinrich Gustav Gottlob von
+                            Schlippenbach</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_acy_1kc_d2b">
+                    <persName type="reg">
+                        <surname>Reichenbach-Goschütz</surname>
+                        <forename>Bogdan Heinrich Graf von</forename>
+                    </persName>
+                    <birth>1825</birth>
+                    <death/>
+                    <note>Eltern: <persName key="ed_ys3_cl5_c2b">Heinrich Gustav Gottlob von
+                            Reichenbach-Goschütz</persName>, <persName key="ed_qr1_j2g_4y">Adelheid
+                            Constanze Gräfin von Reichenbach</persName>, geb. Gräfin von
+                        Schlippenbach</note>
+                </person>
+                <person xml:id="ed_ys3_cl5_c2b">
+                    <persName type="reg">
+                        <surname>Reichenbach-Goschütz</surname>
+                        <forename>Heinrich Gustav Gottlob Graf von</forename>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1869</death>
+                    <note>auf Schönwalde; Generalerblandpostmeister im Herzogtum Schlesien;
+                        erbliches Mitglied des preußischen Herrenhauses; Heirat: <persName
+                            key="ed_qr1_j2g_4y">Adelheid Constanze Gräfin von
+                            Schlippenbach</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_gmb_zzx_bz">
+                    <persName type="reg">
+                        <surname>Reichenbach-Goschütz</surname>
+                        <forename>Heinrich Leopold Graf von</forename>
+                    </persName>
+                    <birth>1768</birth>
+                    <death>1816</death>
+                    <note>Standesherr, Mitglied der ständischen Selbstverwaltung Schlesiens und
+                        Präsident der Generallandschaft Schlesiens.
+                        https://de.wikipedia.org/wiki/Heinrich_Leopold_von_Reichenbach-Goschütz</note>
+                </person>
+                <person xml:id="ed_hmp_pw5_12b">
+                    <idno type="uri">https://d-nb.info/gnd/125483767</idno>
+                    <persName type="reg">
+                        <surname>Reimer</surname>
+                        <forename>Gottfried</forename>
+                    </persName>
+                    <birth>1911</birth>
+                    <death>1987</death>
+                </person>
+                <person xml:id="ed_ny3_kzp_h1b">
+                    <persName type="reg">
+                        <surname>Rellstab</surname>
+                        <forename>Johann Carl Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death>1786</death>
+                    <note>1784 Prediger, Kirchenrat</note>
+                </person>
+                <person xml:id="ed_pjz_tfx_f2b">
+                    <persName type="reg">
+                        <surname>Remus</surname>
+                        <forename>Carl Traugott</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pfarrer, ab 1860 Superintendent von Ostrowo</note>
+                </person>
+                <person xml:id="ed_pmd_tkz_ny">
+                    <persName type="reg">
+                        <surname>Remus</surname>
+                        <forename>Caroline</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: <persName key="ed_pjz_tfx_f2b">Carl Traugott Remus</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_dwy_swz_g1b">
+                    <persName type="reg">
+                        <surname>Renard</surname>
+                        <forename>G.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Konsistorialrat in Königsberg)</note>
+                </person>
+                <person xml:id="ed_rzv_gwg_hy">
+                    <idno type="uri">http://d-nb.info/gnd/133622797</idno>
+                    <persName type="reg">
+                        <surname>Renard</surname>
+                        <forename>Johannes Maria Graf von</forename>
+                    </persName>
+                    <birth>1829</birth>
+                    <death>1874</death>
+                    <note>Großgrundbesitzer in Groß Strelitz, Oberschlesien; Montanindustrieller;
+                        Mitglied des Reichstages</note>
+                </person>
+                <person xml:id="ed_clj_xmn_my">
+                    <persName type="reg">
+                        <surname>Rendnan</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1916 Lehrer in Stobben</note>
+                </person>
+                <person xml:id="ed_yvk_qv3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/117522619</idno>
+                    <persName type="reg">
+                        <surname>Repnin</surname>
+                        <forename>Nikolaus Wassiljewitsch Fürst</forename>
+                    </persName>
+                    <birth>1734</birth>
+                    <death>1801</death>
+                </person>
+                <person xml:id="ed_odv_fsn_my">
+                    <persName type="reg">
+                        <surname>Reszka</surname>
+                        <forename>Felix</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Makler, Hamburg, Gerhofstraße 9</note>
+                </person>
+                <person xml:id="ed_qqj_fq5_22b">
+                    <idno type="uri">https://d-nb.info/gnd/116453591</idno>
+                    <persName type="reg">
+                        <surname>Reuß</surname>
+                        <forename>Eleonore Gräfin von </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Stolberg, Gräfin von</name>
+                    </persName>
+                    <birth>1835</birth>
+                    <death>1903</death>
+                </person>
+                <person xml:id="ed_hpp_dv3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/1029801568</idno>
+                    <persName type="reg">
+                        <surname>Reuß zu Köstritz</surname>
+                        <forename>Heinrich IX. Graf</forename>
+                    </persName>
+                    <birth>1711</birth>
+                    <death>1780</death>
+                </person>
+                <person xml:id="ed_tn4_1sn_s3b">
+                    <persName type="reg">
+                        <surname>Reuter</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Amtmann (1802)</note>
+                </person>
+                <person xml:id="ed_exr_k1l_zdb">
+                    <persName type="reg">
+                        <surname>Reuters</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Goldstein</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1799 Oberhofmeisterin</note>
+                </person>
+                <person xml:id="ed_n5x_mrg_gcb">
+                    <persName type="reg">
+                        <surname>Reyer</surname>
+                        <forename>Herr</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Potsdam; 1815 Major</note>
+                </person>
+                <person xml:id="ed_nd3_x4c_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/11649915X</idno>
+                    <persName type="reg">
+                        <surname>Rheinbaben</surname>
+                        <forename>Albert Freiherr von</forename>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1880</death>
+                </person>
+                <person xml:id="ed_bpl_fsj_gy">
+                    <persName type="reg">
+                        <surname>Rhenius</surname>
+                        <forename>Wilhelm </forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Rhenius</surname>
+                        <forename>Wilhelm Andreas</forename>
+                    </persName>
+                    <birth>1753</birth>
+                    <death>1833</death>
+                    <note>Verwalter der Herrschaft Steinort, dann Verwalter und Generalpächter der
+                        Bachmannschen Güter; verh. Rosengarten 27.10.1790 <persName
+                            key="ed_blk_dqx_hkb">Sophia Luise Freiin Meerscheidt von
+                            Hüllesem</persName>, verw. v. Gohr (1765-1823)</note>
+                </person>
+                <person xml:id="ed_fq1_zm5_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118600192</idno>
+                    <persName type="reg">
+                        <surname>Ribbentrop</surname>
+                        <forename>Joachim von</forename>
+                    </persName>
+                    <birth>1893</birth>
+                    <death>1946</death>
+                </person>
+                <person xml:id="ed_jbt_qkt_ncb">
+                    <persName type="reg">
+                        <surname>Ribbert</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Knecht in Steinort</note>
+                </person>
+                <person xml:id="ed_p3w_kvr_52b">
+                    <idno type="uri">https://d-nb.info/gnd/118788744</idno>
+                    <persName type="reg">
+                        <surname>Richelieu</surname>
+                        <forename>Louis-François-Armand de Vignerot du Plessis, Herzog
+                            von</forename>
+                    </persName>
+                    <birth>1696</birth>
+                    <death>1788</death>
+                </person>
+                <person xml:id="ed_pxy_jwl_wcb">
+                    <persName type="reg">
+                        <surname>Rieck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1835 Bereiter beim Königlichen Leibreitstall, Potsdam</note>
+                </person>
+                <person xml:id="ed_kgn_ddv_zdb">
+                    <persName type="reg">
+                        <surname>Riedel</surname>
+                        <forename>Fräulein von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1944 Sekretärin des Grafen von Lehndorff-Steinort</note>
+                </person>
+                <person xml:id="ed_bnr_4vl_gfb">
+                    <idno type="uri">https://d-nb.info/gnd/123842069</idno>
+                    <persName type="reg">
+                        <surname>Rische</surname>
+                        <forename>August Dietrich</forename>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1906</death>
+                </person>
+                <person xml:id="ed_wjt_k15_gfb">
+                    <persName type="reg">
+                        <surname>Rische</surname>
+                        <forename>Ida</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Volkening</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: 1851 <persName key="ed_bnr_4vl_gfb">August Dietrich
+                            Rische</persName>, Pfarrer in Schwinkendorf</note>
+                </person>
+                <person xml:id="ed_u3x_4rl_2y">
+                    <idno type="uri">https://d-nb.info/gnd/1027016073</idno>
+                    <persName type="reg">
+                        <surname>Ritz</surname>
+                        <forename>Johann Friedrich</forename>
+                    </persName>
+                    <birth>1755</birth>
+                    <death>1809</death>
+                </person>
+                <person xml:id="ed_vtz_3mb_tcb">
+                    <persName type="reg">
+                        <surname>Riworra</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1785 Gärtner in Klein Steinort</note>
+                </person>
+                <person xml:id="ed_f25_chr_gz">
+                    <idno type="uri">http://d-nb.info/gnd/104245565</idno>
+                    <persName type="reg">
+                        <surname>Rochow</surname>
+                        <forename>Gustav von</forename>
+                    </persName>
+                    <birth>1792</birth>
+                    <death>1847</death>
+                </person>
+                <person xml:id="ed_q5g_5v4_cz">
+                    <persName type="reg">
+                        <surname>Rochow</surname>
+                        <forename>Hans Friedrich von</forename>
+                    </persName>
+                    <birth>1698</birth>
+                    <death>1787</death>
+                    <note>Generalleutnant, Kommandant von Berlin im Siebenjährigen Krieg.
+                        https://de.wikipedia.org/wiki/Hans_Friedrich_von_Rochow</note>
+                </person>
+                <person xml:id="ed_bxm_l3z_g1b">
+                    <persName type="reg">
+                        <surname>Röckner</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1736 Wildnis-Bereiter, Angerburg</note>
+                </person>
+                <person xml:id="ed_qn5_cxm_ngb">
+                    <idno type="uri">https://d-nb.info/gnd/138002347</idno>
+                    <persName type="reg">
+                        <surname>Röder</surname>
+                        <forename>Erhard Ernst von</forename>
+                    </persName>
+                    <birth>1665</birth>
+                    <death>1743</death>
+                </person>
+                <person xml:id="ed_rpz_xcq_rdb">
+                    <persName type="reg">
+                        <surname>Röder</surname>
+                        <forename>Ernst Jakob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>preußischer Leutnant im Regiment Prinz Heinrich</note>
+                </person>
+                <person xml:id="ed_ezj_n15_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/102703957X</idno>
+                    <persName type="reg">
+                        <surname>Röder</surname>
+                        <forename>Eugen Maximilian von</forename>
+                    </persName>
+                    <birth>1782</birth>
+                    <death>1844</death>
+                </person>
+                <person xml:id="ed_cnm_g2q_tdb">
+                    <persName type="reg">
+                        <surname>Roedern</surname>
+                        <forename>Erdmann Karl Graf von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schmettau</name>
+                    </persName>
+                    <birth>1715</birth>
+                    <death>1782</death>
+                    <note>Herr der Herrschaft Holstein; königlich preußischer Justizrat; Heirat:
+                        1739 <persName key="ed_znv_j2b_2lb">Friederike Victorie Sophie Gräfin von
+                            Schmettau</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_znv_j2b_2lb">
+                    <persName type="reg">
+                        <surname>Roedern</surname>
+                        <forename>Friederike Victorie Sophie Gräfin von</forename>
+                    </persName>
+                    <birth>1715</birth>
+                    <death>1776</death>
+                    <note>Heirat: <persName key="ed_cnm_g2q_tdb">Erdmann Karl Graf von
+                            Roedern</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_uwq_fvc_mfb">
+                    <persName type="reg">
+                        <surname>Rogall</surname>
+                        <forename>Franz</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1930 Kaufmann, Kruglanken</note>
+                </person>
+                <person xml:id="ed_qxy_cm1_h2b">
+                    <persName type="reg">
+                        <surname>Rogge</surname>
+                        <forename>Helmut</forename>
+                    </persName>
+                    <birth>1891</birth>
+                    <death>1976</death>
+                    <note>Archivar, Schriftsteller</note>
+                </person>
+                <person xml:id="ed_fcj_xyt_ncb">
+                    <persName type="reg">
+                        <surname>Rohan</surname>
+                        <forename>Fürst</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1883, 1866 Gast in Bad Gastein</note>
+                </person>
+                <person xml:id="ed_jy4_btq_rdb">
+                    <idno type="uri">http://d-nb.info/gnd/140540229</idno>
+                    <persName type="reg">
+                        <surname>Rohd</surname>
+                        <forename>Jakob Friedrich von</forename>
+                    </persName>
+                    <birth>1701</birth>
+                    <death>1784</death>
+                </person>
+                <person xml:id="ed_hyt_mmg_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/104630609X</idno>
+                    <persName type="reg">
+                        <surname>Rohde</surname>
+                        <forename>Alfred</forename>
+                    </persName>
+                    <birth>1892</birth>
+                    <death>1945</death>
+                    <note>(1944)</note>
+                </person>
+                <person xml:id="ed_tjf_ytm_zcb">
+                    <persName type="reg">
+                        <surname>Rohde</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death/>
+                    <note>aus Rastenburg gebürtig, 1814 Kassen- und Wirtschaftsschreiber in
+                        Steinort</note>
+                </person>
+                <person xml:id="ed_wtf_jmg_vdb">
+                    <persName type="reg">
+                        <surname>Rohd</surname>
+                        <forename>Johann Heinrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1749 Pfarrer in Wargen</note>
+                </person>
+                <person xml:id="ed_xrw_s5g_jfb">
+                    <persName type="reg">
+                        <surname>Rohr</surname>
+                        <forename>Herr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rehsau (1885)</note>
+                </person>
+                <person xml:id="ed_fwk_y3p_tdb">
+                    <persName type="reg">
+                        <surname>Rohr</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>preußischer Oberstleutnant (1767)</note>
+                </person>
+                <person xml:id="ed_qlk_tqx_f2b">
+                    <persName type="reg">
+                        <surname>Rohrbach</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stadtmissionar aus Berlin, ab 1878 in Königsberg</note>
+                </person>
+                <person xml:id="ed_fzl_4b5_22b">
+                    <persName type="reg">
+                        <surname>Rohrer</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1870 Kaufmann in Angerburg</note>
+                </person>
+                <person xml:id="ed_e1x_lk1_tcb">
+                    <persName type="reg">
+                        <surname>Rollaz du Rosey</surname>
+                        <forename>Catharine de</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1758)</note>
+                </person>
+                <person xml:id="ed_zgd_wjv_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/119459302</idno>
+                    <persName type="reg">
+                        <surname>Romanow</surname>
+                        <forename>Nikolai Nikolajewitsch </forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1891</death>
+                    <note>Großfürst von Russland</note>
+                </person>
+                <person xml:id="ed_plw_nlg_ccb">
+                    <persName type="reg">
+                        <surname>Romberg</surname>
+                        <forename>Amalie von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Dönhoff, Gräfin von</name>
+                    </persName>
+                    <birth>1789</birth>
+                    <death>1879</death>
+                    <note>Schwester von Sophie Gräfin von Schwerin; Hrsg. von: Vor hundert Jahren.
+                        Erinnerungen der Gräfin Sophie Schwerin geb. Gräfin Dönhoff, Berlin 1909;
+                        Lebensbild der Gräfin Cécile Dönhoff, Jena 1862.</note>
+                </person>
+                <person xml:id="ed_x3g_bng_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/133643085</idno>
+                    <persName type="reg">
+                        <surname>Romberg</surname>
+                        <forename>Maximilian Konrad Joseph Freiherr von</forename>
+                    </persName>
+                    <birth>1824</birth>
+                    <death>1904</death>
+                </person>
+                <person xml:id="ed_px1_yjj_h3b">
+                    <persName type="reg">
+                        <surname>Romberg</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1856 Kavallerie-Attaché in Paris</note>
+                </person>
+                <person xml:id="ed_a2s_czb_t2b">
+                    <persName type="reg">
+                        <surname>Rompel</surname>
+                        <forename>Christoff</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1722 Gutsuntertan, Taberlack</note>
+                </person>
+                <person xml:id="ed_fyt_syb_t2b">
+                    <persName type="reg">
+                        <surname>Rompel</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1722, Gutsuntertan, Steinort; 1739 Taufpate in Labab</note>
+                </person>
+                <person xml:id="ed_iwp_t1h_jfb">
+                    <persName type="reg">
+                        <surname>Ropp</surname>
+                        <forename>Margaretha Baronesse von der</forename>
+                    </persName>
+                    <birth>1893</birth>
+                    <death>1974</death>
+                    <note>https://bremer-frauenmuseum.de/2017/03/24/ropp-margaretha-baronesse-von-der/</note>
+                </person>
+                <person xml:id="ed_o32_g1v_22b">
+                    <persName type="reg">
+                        <surname>Rose</surname>
+                        <forename>Richard</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Vaterländischer Bezirks-Frauen-Verein Gumbinnen (1872)</note>
+                </person>
+                <person xml:id="ed_pmx_wzz_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118602691</idno>
+                    <persName type="reg">
+                        <surname>Rosenberg</surname>
+                        <forename>Alfred</forename>
+                    </persName>
+                    <birth>1892</birth>
+                    <death>1946</death>
+                </person>
+                <person xml:id="ed_elf_n3j_h3b">
+                    <persName type="reg">
+                        <surname>Rosenberg-Gruszczynski</surname>
+                        <forename>Adalbert von</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1880</death>
+                    <note>außerordentlicher Gesandter und bevollmächtigter Minister</note>
+                </person>
+                <person xml:id="ed_tvw_hc5_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/118602721</idno>
+                    <persName type="reg">
+                        <surname>Rosenkranz</surname>
+                        <forename>Karl</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1879</death>
+                </person>
+                <person xml:id="ed_chd_kdq_1fb">
+                    <persName type="reg">
+                        <surname>Rosentreter</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1830 Kassenführer in Steinort</note>
+                </person>
+                <person xml:id="ed_wkp_frv_g2b">
+                    <persName type="reg">
+                        <surname>Röth</surname>
+                        <forename>Paul Freiherr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Eydtkuhnen; Heirat: 1882 Fräulein von Kessler</note>
+                </person>
+                <person xml:id="ed_e31_g15_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/118603256</idno>
+                    <persName type="reg">
+                        <surname>Rother</surname>
+                        <forename>Christian von</forename>
+                    </persName>
+                    <birth>1778</birth>
+                    <death>1849</death>
+                </person>
+                <person xml:id="ed_zzp_rfv_22b">
+                    <persName type="reg">
+                        <surname>Rothschild</surname>
+                        <forename>Baron</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1872 Gast in der Solitude</note>
+                </person>
+                <person xml:id="ed_nhj_dl5_sy">
+                    <persName type="reg">
+                        <surname>Rouquette</surname>
+                        <forename>Albertine Sophie von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Unruh, von</name>
+                    </persName>
+                    <birth>1768</birth>
+                    <death>1839</death>
+                    <note>Heirat: 1791 <persName key="ed_cks_tq4_vcb">Hans Stephan von
+                            Rouquette</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_cks_tq4_vcb">
+                    <persName type="reg">
+                        <surname>Rouquette</surname>
+                        <forename>Hans Stephan von</forename>
+                    </persName>
+                    <birth>1742</birth>
+                    <death>1813</death>
+                    <note>Generalleutnant.
+                        https://de.wikipedia.org/wiki/Hans_Stephan_von_Rouquette</note>
+                </person>
+                <person xml:id="ed_u23_j5p_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/13806072X</idno>
+                    <persName type="reg">
+                        <surname>Rüchel-Kleist</surname>
+                        <forename>Jakob Friedrich von</forename>
+                    </persName>
+                    <birth>1778</birth>
+                    <death>1848</death>
+                </person>
+                <person xml:id="ed_crf_mbz_kfb">
+                    <persName type="reg">
+                        <surname>Rudolph</surname>
+                        <forename>G. C.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1837 Verwalter in Serwillen</note>
+                </person>
+                <person xml:id="ed_bt4_fcd_d2b">
+                    <persName type="reg">
+                        <surname>Rulitzky</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Verwandter der Schlippenbachs? (1856)</note>
+                </person>
+                <person xml:id="ed_x4x_lcp_vcb">
+                    <persName type="reg">
+                        <surname>Rumanzow</surname>
+                        <forename>Nikolaus Graf</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Geheimer Rat (1808)</note>
+                </person>
+                <person xml:id="ed_h5r_gsy_4kb">
+                    <persName type="reg">
+                        <surname>Rummley</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kavallerist (1814)</note>
+                </person>
+                <person xml:id="ed_l15_nfv_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118939327</idno>
+                    <persName type="reg">
+                        <surname>Rundstedt</surname>
+                        <forename>Gerd von</forename>
+                    </persName>
+                    <birth>1875</birth>
+                    <death>1953</death>
+                </person>
+                <person xml:id="ed_xkj_ctf_lfb">
+                    <persName type="reg">
+                        <surname>Runge</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1891 Pfarrer in Königsberg</note>
+                </person>
+                <person xml:id="ed_m25_tr1_1bb">
+                    <idno type="uri">http://d-nb.info/gnd/118501852</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Alexander I. Kaiser von</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1825</death>
+                </person>
+                <person xml:id="ed_qph_dqg_vz">
+                    <idno type="uri">http://d-nb.info/gnd/118688642</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Elisabeth Kaiserin von</forename>
+                    </persName>
+                    <birth>1709</birth>
+                    <death>1762</death>
+                </person>
+                <person xml:id="ed_iy1_vnd_b2b">
+                    <idno type="uri">https://d-nb.info/gnd/118560603</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Katharina Großfürstin von</forename>
+                    </persName>
+                    <birth>1788</birth>
+                    <death>1819</death>
+                </person>
+                <person xml:id="ed_ez1_1zl_cz">
+                    <idno type="uri">http://d-nb.info/gnd/118560565</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Katharina II. Kaiserin von</forename>
+                    </persName>
+                    <birth>1729</birth>
+                    <death>1796</death>
+                </person>
+                <person xml:id="ed_ssb_lgk_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/118864513</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Konstantin Großfürst von</forename>
+                    </persName>
+                    <birth>1779</birth>
+                    <death>1831</death>
+                </person>
+                <person xml:id="ed_nkf_xnd_b2b">
+                    <idno type="uri">https://d-nb.info/gnd/104304219</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Maria Großfürstin von</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1859</death>
+                </person>
+                <person xml:id="ed_hd3_3nd_b2b">
+                    <idno type="uri">https://d-nb.info/gnd/131883119</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Michail Großfürst von</forename>
+                    </persName>
+                    <birth>1798</birth>
+                    <death>1849</death>
+                </person>
+                <person xml:id="ed_ddj_5c1_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/119147793</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Natalia Alexejewna Großfürstin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Hessen-Darmstadt, Wilhelmine Prinzessin von </name>
+                    </persName>
+                    <birth>1755</birth>
+                    <death>1776</death>
+                </person>
+                <person xml:id="ed_dnn_xyq_v2b">
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Elisabeth Alexejewna Großfürstin von</forename>
+                    </persName>
+                    <birth>1760</birth>
+                    <death>1844</death>
+                </person>
+                <person xml:id="ed_otg_2nd_b2b">
+                    <idno type="uri">https://d-nb.info/gnd/118588079</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Nikolaus I. Kaiser von</forename>
+                    </persName>
+                    <birth>1796</birth>
+                    <death>1855</death>
+                </person>
+                <person xml:id="ed_e2y_3yl_cz">
+                    <idno type="uri">http://d-nb.info/gnd/118739549</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Paul I. Zar von</forename>
+                    </persName>
+                    <birth>1754</birth>
+                    <death>1801</death>
+                    <note>1796-1801 Zar von Russland</note>
+                </person>
+                <person xml:id="ed_tkz_yl4_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/118592955</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Peter I. Kaiser von</forename>
+                    </persName>
+                    <birth>1672</birth>
+                    <death>1725</death>
+                </person>
+                <person xml:id="ed_xw5_tw4_cz">
+                    <idno type="uri">http://d-nb.info/gnd/118740180</idno>
+                    <persName type="reg">
+                        <surname>Russland</surname>
+                        <forename>Peter III. Kaiser von</forename>
+                    </persName>
+                    <birth>1728</birth>
+                    <death>1762</death>
+                </person>
+                <person xml:id="ed_frq_53p_tdb">
+                    <persName type="reg">
+                        <surname>Rybinski</surname>
+                        <forename>Joseph Hyacinth de Rybno</forename>
+                    </persName>
+                    <birth>1703</birth>
+                    <death>1782</death>
+                    <note>Abt des Klosters Oliva</note>
+                </person>
+                <person xml:id="ed_mf4_vsp_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/102846235</idno>
+                    <persName type="reg">
+                        <surname>Rzewuski</surname>
+                        <forename>Wacław</forename>
+                    </persName>
+                    <birth>1706</birth>
+                    <death>1779</death>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

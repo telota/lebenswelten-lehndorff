@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_vnq_ptg_5gb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Comité der Ostpreußischen und Litauischen Stände an Friedrich Wilhelm
+                    III. König von Preußen. Königsberg, 22. Februar 1820</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_vnq_ptg_5gb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Aus den Papieren des Ministers und Burggrafen von
+                            Marienburg Theodor von Schön, T. 2 Ergänzungsblätter, Bd. 6, Berlin
+                            1883, S. 624-630</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_jl1_22j_llb">Comité der ostpreußischen und litauischen
+                        Stände</orgName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1820-02-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_tl1_nbf_4y">Preußen, Friedrich Wilhelm III. König von
+                        (1770-1840)</persName>
+                </correspAction>
+                <note>Der König gab am 11. April 1820 sein <quote>ernstliches Missfallen sowohl über
+                        die unehrerbietig tadelnden Urteile, welchen derselbe die allgemeinen
+                        Maßregeln der Regierung zu unterwerfen sich erlaubt, als über die unberufene
+                        Einmischung in die Organisation der Regierungsform zu erkennen</quote>.
+                    Ebd., S. 630 f.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 2. Februar 1820</dateline>
+                    <salute>An des Königs Majestät!</salute>
+                </opener>
+                <p>Euer Königliche Majestät dürfen wir nicht verfehlen, in tiefster Untertänigkeit
+                    und mit herzlicher Offenherzigkeit und Treue kürzlich anzuzeigen, welche
+                    Eindrücke in den großen Provinzen <placeName key="ed_uvt_4j4_dz">Ostpreußens</placeName> und <placeName key="ed_z15_pdp_tcb">Litauens</placeName>, mithin in wesentlichen Teilen des Königreichs, von
+                    welchem die Gesamtheit des Staats den Namen führt, diejenigen Ereignisse
+                    hervorgebracht haben, durch welche die zunächst vergangenen 4 Monate seit
+                    unserer letzten Sitzung denkwürdig geworden sind.</p>
+                <p>In einem im Monat November praet. zur allgemeinen Kunde gekommenen amtlichen
+                    Aufsatze eines hohen Staatsbeamten behauptet derselbe die Existenz einer
+                    revolutionären Partei, „welche ein erkünsteltes Missvergnügen zu unterhalten
+                    bemüht sei, die ihren Ursprung in Wahlverwandtschaften von Meinungen und
+                    Gesinnungen habe, die durch die förmlichen Gesellschaften verstärkt würden,
+                    welche den Umsturz von Deutschland zur Absicht hätten, und an die Stelle seines
+                    jetzigen Zustandes eine einzige unteilbare Republik oder eine solche andere
+                    Chimäre einzuführen, die durch gewaltsame Revolutionen selbst nur versucht
+                    werden könnte, und deren Anfang der Umsturz aller regierenden Dynastien gewesen
+                    wäre usw.‟; ferner heißt es: </p>
+                <p>„Man sieht, dass nicht von einer Verschwörung die Rede war, sondern von der
+                    Vorbereitung einer Revolution nicht bloß von Preußen allein oder hauptsächlich,
+                    sondern von ganz Deutschland nicht im jetzigen Augenblick, sondern in der
+                    Zukunft.‟</p>
+                <p>Gleichzeitig auf dieses Land ausgedehnte höchst außerordentliche Maßregeln setzen
+                    es außer Zweifel, dass man die alleruntertänigst vorstehend erwähnten
+                    Behauptungen auch in Beziehung auf diese Provinz als richtig annehme.</p>
+                <p>Die Eingesessenen dieses Landes, welche die Möglichkeit des wirklichen Bestehens
+                    einer solchen Partei, die der vorstehend angeführten ebenso im höchsten Grade
+                    verruchten, als törichten Pläne fähig wäre, nicht ahnten, sind durch jene
+                    Behauptungen und die darauf gefolgten Maßnehmungen in die höchste Bestürzung und
+                    Bekümmernis versetzt worden.</p>
+                <p>Anschuldigungen von solcher Art und darauf gegründete hemmende und mehrer bisher
+                    vorhandene ehrwürdige und segensreiche rechtliche Verhältnisse auflösende
+                    Anordnungen setzen voraus, dass man sich im vollständigem Besitz zureichender
+                    Beweismittel gegen die Verbrecher befindet. Mit der gespanntesten und
+                    gerechtesten Erwartung harren daher die Einwohner dieses Landes darauf, die
+                    Verbrecher vor ihren natürlichen zuständigen Richter gestellt, dass vor
+                    demselben mit vollkommener Unabhängigkeit die Untersuchung geführt und das
+                    Urteil gefällt werde. Nur allein durch die ungehemmte reine und vollständige
+                    Anwendung der Gerechtigkeitspflege in ihren heiligen Formen kann die heilige
+                    Sache des angestammten Monarchen und die davon so ganz unzertrennliche seiner
+                    getreuen Untertanen würdig und mit segensreichem Erfolg verteidigt werden. </p>
+                <p>„Einem jeden das Seine‟</p>
+                <p>ist der große Wahlspruch unseres Allerhöchsten Herrscherhauses, mithin gerechte
+                    Strafe und volle Schärfe des Gesetzes den Verbrechern oder den Falschklägern und
+                    Lösung des Bannes von dem Volke, welches so oft auf die erhabenste Weise seine
+                    Treue bewährt hat.</p>
+                <p>Denn als ein schwerer Bann lasten auf der Gesamtheit dergleichen Anschuldigungen,
+                    so lange sie bloß allgemein aufgestellt sind, und ein dumpfes Gefühl verbreitet
+                    sich immer weiter, wenn in einer so über jeden Augenblick ernsten Sache gesäumt
+                    wird, der Gerechtigkeit ihren Lauf zu lassen, oder wenn statt des ungebeugten
+                    und unverkürzten Waltens der Gerechtigkeitspflege Maßregeln eintreten, welche im
+                    allgemeinen von Misstrauen zeugen und die geistigen Entwicklungen und
+                    Mitteilungen hemmen. Allerdings findet über den Gang und die Leitung der
+                    öffentlichen Verwaltung durch die obersten Behörden ein sehr tief gefühltes und
+                    sehr allgemein verbreitetes Missvergnügen statt, und oft haben wir seit mehreren
+                    Jahren E. K. M. dieserhalb ehrfurchtsvoll Anzeige gemacht, aber nie hat dieses
+                    Missvergnügen auch in seiner fortschreitenden immer höheren Steigerung irgend
+                    eine Ähnlichkeit mit der behaupteten Existenz jener Partei gehabt, vielmehr
+                    gerade im vollkommensten und schärfsten Gegensatz mit den behaupteten Plänen
+                    einer solchen Partei setzen unsere Landsleute nur allein ihre Hoffnung darauf,
+                    wie wir solches gleichfalls oft alleruntertänigst treu der Wahrheit
+                    auszusprechen Veranlassung gehabt, dass E. K. M. nach vielseitigster und
+                    offenkundigster Beratung durch die unabhängigsten, erprüftesten und
+                    sachverständigsten Landeingesessenen im Wege rechtlicher und den wahren
+                    Bedürfnissen des Landes entsprechenden Reformen huldreichst geruhen werden, in
+                    echt vaterländischem, großartigem, vertrauensvollem Geist diejenigen Grundsätze
+                    aufrecht halten und diejenigen Zusicherungen in Erfüllung bringen zu lassen,
+                    deren Ankündigung die glorreichen Augenblicke Allerhöchst Dero Regierung
+                    bezeichnete.</p>
+                <p>Ganz allgemein herrscht auch in diesem Lande die heißeste Sehnsucht nach einer
+                    gemäßigten bedingten Regierungsform, die der christliche, der angestammte und
+                    edle Monarch selbst zu lieben und zu fördern Ursache hat.</p>
+                <p>Allen vorstehend alleruntertänigst im Namen unserer Landsleute vorgetragenen
+                    Gesinnungen und Wünschen liegt durchaus kein unreiner Einfluss irgend einer viel
+                    bewegten Zeit zum Grunde, es sind vielmehr die Grundtöne, welche ewig in den
+                    Gemütern aller guten und treuen Menschen wiederhallen.</p>
+                <p>Die angedeuteten allgemeinen Grundsätze, welche Vorstehendem zum Grunde liegen,
+                    haben auch im Wesentlichen auf Veranlassung einer in der Preußischen
+                    Regierungsgeschichte denkwürdigen Begebenheit zwei der tugendhaftesten und
+                    weisesten Deutschen, <persName key="ed_p3r_k4j_hlb">Justus Möser</persName> und
+                        <persName key="ed_j4t_h4j_hlb">Friedrich Heinrich Jacobi</persName>, in
+                    Druckschriften bereits vor 38 Jahren mit großer Wahrheit, Klarheit und Würde
+                    ausgesprochen. </p>
+                <p>Der neue <seg type="comment">
+                  <orig>Lobredner <persName key="ed_x2r_52f_cy">Friedrich des Großen</persName> (<persName key="ed_v1h_s4j_hlb">Dohm</persName> in seinen Denkwürdigkeiten Band 4</orig>
+                  <note xml:id="nvwt_52z_4kb">
+                     <ref target="http://ds.ub.uni-bielefeld.de/viewer/toc/382568/0/">Dohm,
+                                Christian Wilhelm von, Denkwürdigkeiten meiner Zeit oder Beiträge
+                                zur Geschichte vom lezten Viertel des achtzehnten und vom Anfang des
+                                neunzehnten Jahrhunderts, 1778 bis 1806</ref>
+                  </note>
+               </seg> pag. 370)
+                    macht wiederholt darauf aufmerksam:</p>
+                <p>„wie unter einem Regenten, der mit so großer Einsicht, so edlem Willen, so
+                    unglaublicher Tätigkeit wie Friedrich 40 Jahre selbst regiert hat, doch so viel
+                    Gutes nicht geschehen ist und so viel Schlechtes dem Regenten unbemerkt hat
+                    einwurzeln können.‟</p>
+                <p>Pag. 393, 395 verstärkt der Verfasser noch jene Bemerkung.</p>
+                <p>Und wie höchst außerordentlich haben sich nicht durch die größten geschichtlichen
+                    Entwicklungen in den seit den verlaufenen 34 Jahren die Gründe für eine
+                    verfassungsmäßige Regierung verstärkt.</p>
+                <p>In der tiefen Bekümmernis, in welche E.K.M. getreue Untertanen dieses Land durch
+                    die in den letzten 4 Monaten erschienenen Gesetze versetzt worden sind, tritt
+                    aber noch die ängstliche Besorgnis hinzu, wenn unter solchen Auspizien von der
+                    bevorstehenden Erscheinung noch mehrerer wichtiger Gesetze, insbesondere auch
+                    von der Kommunal-Ordnung die Rede ist, welche in die innersten und wichtigsten
+                    Verhältnisse eindringend und dieselben auflösend sein dürfte.</p>
+                <p>Wir sind daher verpflichtet, aufs alleruntertänigste und dringendste dahin im
+                    allgemeinen anzutragen, dass E.K.M. Huldreichst geruhen mögen, vor allen
+                    Dingen:</p>
+                <p>die großmütig zugesicherten Maßregeln ergreifen zu lassen, vermöge welcher nur
+                    auf dem Wege wahrhaft rechtlicher, heilsamer Reformen, die alles, was
+                    geschichtlich, edel und tief im Leben des Volkes besteht, schonend behandeln,
+                    bei der Gesetzgebung verfahren werde.</p>
+                <p>Ein solches Verfahren wird aber nur dadurch möglich werden, wenn die öffentliche
+                    Stimme verfassungsmäßig bei der Gesetzgebung gehört wird, und wenn bei den
+                    Beratungen über die Gesetzgebungsgegenstände die vielseitigste und
+                    offenkundigste Beleuchtung durch die unabhängigsten, fachkundigsten und
+                    erprüftesten Landeseingesessenen stattfindet. Ganz im besonderen müssen wir aber
+                    noch auf das alleruntertänigste und dringendste mit ehrfurchtsvoller Bezugnahme
+                    auf die Vorstellung hiesiger Landesdeputierter vom 24. Septembr. v. J. darauf
+                    antragen, dass bei der Bearbeitung der Entwürfe zur Provinzialständischen
+                    Verfassung und zu der demnächst aus der festesten, den innersten Verhältnissen
+                    des Landes vollkommen angemessenen Gründung derselben zu entwickelnden
+                    Reichsständischen Verfassung die weise Bestimmung des § 5 des Gesetzes vom 22.
+                    Mai 1815 im weitesten Umfange zur Ausführung gebracht werde.</p>
+                <p>In der Regierungs-Geschichte E.K.M. wird noch für die späteste Nachwelt jener
+                    höchst eigentümliche Moment stets erhebend sein, in welchem, als Bedrängnisse
+                    aller Art sich häuften, durch Gottes Barmherzigkeit und durch ein großes
+                    Zusammentreffen des edlen, großmütig vertrauenden Willens E. K. M. mit den
+                    treuen und guten Gesinnungen Allerhöchst Dero Volkes alles plötzlich eine
+                    rettende Entwicklung gewann, in solchen Zeichen soll stets die gute Sache
+                    siegen.</p>
+                <p>Die Wiederkehr solcher göttlichen Gnade erflehen wir mit frommem und treuen
+                    Sinne.</p>
+                <closer>
+                    <salute>Wir ersterben E. K. M.</salute>
+                    <signed>Das Comité der Ostpreußischen, Litauischen Stände <lb/>gez. Dohna A. Gr.
+                        v. Dönhoff Farenheid <lb/>von Oldenburg (Reinschrift Gervais) v. Knobloch
+                        <lb/>Jachmann Mahraun Lilienthal</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

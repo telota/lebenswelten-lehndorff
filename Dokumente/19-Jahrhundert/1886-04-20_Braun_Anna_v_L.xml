@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_v3b_ls4_jdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hermann Adalbert Braun an Anna Gräfin von Lehndorff. Angerburg, 20. April
+                    1886</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_v3b_ls4_jdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 521, Bl. 15-16v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_v5g_pvf_2y">Braun, Hermann Adalbert (1854-1931)</persName>
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    <date when="1886-04-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Weitere Briefe  in der Akte. So bedankte sich Braun namens der Lehrer und
+                    Schüler für das „Jahresblatt zum Kaisergeburtstag“, für Geschenke für das
+                    Waisenhaus und für Büchersendungen. Seine Sorge war, dass der Oberkirchenrat ihn
+                    nach <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> versetzt, da das die
+                    Trennung von der Gemeinde bedeutet hätte, andererseits <quote>möchte ich auch
+                        schon meiner Kinder wegen hingehen. Ich möchte sie doch so gern zu Hause
+                        behalten. Wie leicht können sie in der Ferne doch auf Abwege
+                        geraten!</quote> Sein Sohn wurde ebenfalls Pfarrer.</note>
+            </correspDesc>
+            <abstract>
+                <p>Er hoffe in den kommenden Tagen ihr für Ihre <seg type="comment">
+                  <orig>Schwägerin
+                            in Sachsen</orig>
+                  <note xml:id="neqv_w4b_h2b">
+                     <persName key="ed_n5f_vfm_2y">Klara</persName>, die mit ihrem Mann, dem
+                            Oberlandstallmeister <persName key="ed_sjx_pfm_2y">Georg Graf von
+                                Lehndorff </persName>in <placeName key="ed_v2c_gc1_fy">Graditz</placeName> lebte. </note>
+               </seg> Namen von geeigneten
+                    Personen für die Stelle als Waisenmutter und Nähererin empfehlen zu können. –
+                    Die Kollekte sei sehr spärlich ausgefallen. Viele, die sonst 3 Mark gegeben
+                    hätten, „gaben mit Seufzen 1 Mark, Bauern nicht mehr als 10 bis 20 Pf.“ <seg type="comment">
+                  <orig>
+                     <persName key="ed_iqx_1bb_h2b">Fechner</persName> habe
+                            bisher aus den Kreisen <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>
+                            und <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> auch nur 400 M
+                            Einnahmen aus den Kollekten bekommen.</orig>
+                  <note xml:id="nzzk_rxl_ngb">P.O. Fechner war Verwalter des Angerburger Siechenhauses, vgl. LASA,
+                            StA L, Bestand 21950 FA Lehndorff, Nr. 79 und 80 und Dokument vom <ref target="lehndorff_zbj_jtr_bbb">22. Februar 1885</ref>.</note>
+               </seg>
+                    – Die Kirchenkollekte sei noch nicht bewilligt, er zweifle aber nicht daran. Er
+                    könne in der Zeitung unter den „Provinzialnachrichten“ dazu eine Notiz aufnehmen
+                    lassen, eine Annonce wäre zu teuer. - Erkrankung von Frau und Sohn. – Die Bilder
+                    von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> werde er kopieren und in
+                    einer Mappe zurücksenden.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/521/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_asb_14p_jlb">
+                    <persName type="reg">
+                        <surname>Griguscheit</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schonsteinfegermeister, Mitglied des Kriegervereins in Angerburg</note>
+                </person>
+                <person xml:id="ed_j5c_dkj_hlb">
+                    <persName type="reg">
+                        <surname>Gramadis</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter (1820)</note>
+                </person>
+                <person xml:id="ed_tc2_stm_zcb">
+                    <persName type="reg">
+                        <surname>Gaehler</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1814 Pächter von Stawisken</note>
+                </person>
+                <person xml:id="ed_fgj_tkv_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/118520709</idno>
+                    <persName type="reg">
+                        <surname>Galen</surname>
+                        <forename>Christoph Bernhard von</forename>
+                    </persName>
+                    <birth>1606</birth>
+                    <death>1678</death>
+                </person>
+                <person xml:id="ed_xn2_3hy_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/126260788</idno>
+                    <persName type="reg">
+                        <surname>Gallandi</surname>
+                        <forename>Johannes</forename>
+                    </persName>
+                    <birth>1843</birth>
+                    <death>1917</death>
+                </person>
+                <person xml:id="ed_bn1_fnv_pkb">
+                    <idno type="uri">https://d-nb.info/gnd/116442174</idno>
+                    <persName type="reg">
+                        <surname>Gasc</surname>
+                        <forename>Barbara Rosina de</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Gasc</surname>
+                        <forename>Anna Rosina de</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Liesiewska</name>
+                    </persName>
+                    <birth>1713</birth>
+                    <death>1783</death>
+                </person>
+                <person xml:id="ed_u4q_5bw_mbb">
+                    <idno type="uri">https://d-nb.info/gnd/136375464</idno>
+                    <persName type="reg">
+                        <surname>Gaudi</surname>
+                        <forename>Otto Leopold Freiherr von</forename>
+                    </persName>
+                    <birth>1728</birth>
+                    <death>1789</death>
+                </person>
+                <person xml:id="ed_zwy_qnp_1fb">
+                    <persName type="reg">
+                        <surname>Geiger</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1819 Gärtner in Steinort</note>
+                </person>
+                <person xml:id="ed_plm_jfg_l3b">
+                    <persName type="reg">
+                        <surname>Geitzner</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1818 Gärtner im Botanischen Garten Hortus medicus in Amsterdam</note>
+                </person>
+                <person xml:id="ed_mns_vq3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/118538322</idno>
+                    <persName type="reg">
+                        <surname>Gellert</surname>
+                        <forename>Christian Fürchtegott</forename>
+                    </persName>
+                    <birth>1715</birth>
+                    <death>1769</death>
+                </person>
+                <person xml:id="ed_flr_f51_1bb">
+                    <idno type="uri">http://d-nb.info/gnd/116542055</idno>
+                    <persName type="reg">
+                        <surname>Genelli</surname>
+                        <forename>Hans Christian</forename>
+                    </persName>
+                    <birth>1763</birth>
+                    <death>1823</death>
+                </person>
+                <person xml:id="ed_zgk_lbm_w2b">
+                    <persName type="reg">
+                        <surname>Gereminsky</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertan in Steinort, ab 1799 Gastwirt</note>
+                </person>
+                <person xml:id="ed_cpq_vw5_12b">
+                    <persName type="reg">
+                        <surname>Gerhard</surname>
+                        <forename>Paul Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1946-1948 Sachverständiger in der „Schlösser-Aktion‟ für die Kreise Döbeln
+                        und Rochlitz</note>
+                </person>
+                <person xml:id="ed_vlc_dfl_wcb">
+                    <persName type="reg">
+                        <surname>Gericke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1824 Verwalter in Steinort</note>
+                </person>
+                <person xml:id="ed_wgr_fxs_ncb">
+                    <persName type="reg">
+                        <surname>Gerlach</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Regimentsfeldscher</note>
+                </person>
+                <person xml:id="ed_ajz_4hq_mfb">
+                    <persName type="reg">
+                        <surname>Gerlach</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Neffe des Präsidenten (1886)</note>
+                </person>
+                <person xml:id="ed_snz_4xw_f2b">
+                    <persName type="reg">
+                        <surname>Gerlach</surname>
+                        <forename>D.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hauslehrer der Gräfin Anna; 1878 Pfarrer in Garz b. Wildberg</note>
+                </person>
+                <person xml:id="ed_f2w_nhr_gz">
+                    <idno type="uri">http://d-nb.info/gnd/118538705</idno>
+                    <persName type="reg">
+                        <surname>Gerlach</surname>
+                        <forename>Leopold von</forename>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1861</death>
+                </person>
+                <person xml:id="ed_fqc_45l_w2b">
+                    <persName type="reg">
+                        <surname>Gerresheim</surname>
+                        <forename>Carl August</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Auditeur beim Regiment des Prinzen Heinrich; Geheimer Justizrat, seit 1798
+                        1. Direktor am Berliner Stadtgericht</note>
+                </person>
+                <person xml:id="ed_a32_1hv_g2b">
+                    <persName type="reg">
+                        <surname>Gersdorff</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death>vor 1882</death>
+                    <note>(1882)</note>
+                </person>
+                <person xml:id="ed_l2x_jww_h2b">
+                    <persName type="reg">
+                        <surname>Gervais</surname>
+                        <forename>Dr. Hans</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sanitätsrat in Drengfurth; bis 1912 im Besitz des Gutes Borken</note>
+                </person>
+                <person xml:id="ed_t1k_5rn_s3b">
+                    <persName type="reg">
+                        <surname>Gesner</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1802 Amtmann</note>
+                </person>
+                <person xml:id="ed_cbn_wcq_rdb">
+                    <persName type="reg">
+                        <surname>Geuder</surname>
+                        <forename>Karl Wilhelm Freiherr von</forename>
+                    </persName>
+                    <birth>1701</birth>
+                    <death>1759</death>
+                    <note>Hauptmann im Füsilier-Regiment Prinz Heinrich</note>
+                </person>
+                <person xml:id="ed_i4y_pgp_tdb">
+                    <persName type="reg">
+                        <surname>Gibson</surname>
+                        <forename>Archibald von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>englischer Kaufmann (1767)</note>
+                </person>
+                <person xml:id="ed_uby_s5c_mfb">
+                    <persName type="reg">
+                        <surname>Gilgasch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmann; 1930 NSDAP-Bezirksleiter in Insterburg</note>
+                </person>
+                <person xml:id="ed_hpp_2zw_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/118539345</idno>
+                    <persName type="reg">
+                        <surname>Gilly</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1772</birth>
+                    <death>1800</death>
+                </person>
+                <person xml:id="ed_icj_rqp_vcb">
+                    <persName type="reg">
+                        <surname>Gisevius</surname>
+                        <forename>Timotheus</forename>
+                    </persName>
+                    <birth>1756</birth>
+                    <death>1817</death>
+                    <note>Sohn des gleichnamigen Erzpriesters. Besuch der Provinzialschule in Lyck,
+                        Theologie-Studium in Königsberg, 1777 Konrektor in Lyck; heiratete 1778
+                        Charlotte Elisabeth Schachtmeyer; Feldprediger in Goldap, Teilnahme am
+                        bayrischen Erbfolgekrieg; 1781 Erzpriester in Johannisburg, folgte im August
+                        1787 seinem verstorbenen Vater als Erzpriester nach Lyck; 1813
+                        Konsistorialrat, Mitglied der Regierung in Gumbinnen; errichtete 1799 auf
+                        Veranlassung des Generals Freiherr von Günther in Lyck ein
+                        Schullehrerseminar, Minister von Schrötter schrieb darüber: "glaube ich
+                        pflichtgemäß bemerken zu müssen, dass der Erzpriester Gisevius zu Lyck ein
+                        Mann ist, der mit brennendem Eifer und leidenschaftlicher Wärme für die
+                        Sache arbeitet"; wurde bekannt dadurch, dass er den Zaren Alexander am 19.
+                        Januar 1813 mit Vertretern des Amtes und der Stadt Lyck auf der über den
+                        Lyckfluß führenden Brücke begrüßte und ihn zu dessen Quartier geleitete.
+                        https://www.vffow.de/downloads/tutlies-achim-personen-des-kreises-treuburg-ol.pdf</note>
+                </person>
+                <person xml:id="ed_osj_kgq_dz">
+                    <persName type="reg">
+                        <surname>Glach</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death>1852</death>
+                    <note>Gastwirt in Stobben</note>
+                </person>
+                <person xml:id="ed_l3c_rr2_2z">
+                    <persName type="reg">
+                        <surname>Glasow</surname>
+                        <forename>Christian Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1757 Kammerdiener Friedrichs II.</note>
+                </person>
+                <person xml:id="ed_pqd_ff1_4cb">
+                    <persName type="reg">
+                        <surname>Glaubitz</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1820)</note>
+                </person>
+                <person xml:id="ed_r3s_ymw_mbb">
+                    <idno type="uri">https://d-nb.info/gnd/115531726</idno>
+                    <persName type="reg">
+                        <surname>Glave Kobielsky</surname>
+                        <forename>Carl Georg Gottfried</forename>
+                    </persName>
+                    <birth>1750 (1752) </birth>
+                    <death>1831</death>
+                </person>
+                <person xml:id="ed_b41_yfs_t3b">
+                    <persName type="reg">
+                        <surname>Glodkowski</surname>
+                        <forename>Jakob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Prediger a. D., zuletzt in Seehesten; Hospitalit im Löbenicht-Hospital in
+                        Königsberg; 1854 Mitglied im Preußenverein</note>
+                </person>
+                <person xml:id="ed_r3p_g1b_1bb">
+                    <idno type="uri">http://d-nb.info/gnd/118539957</idno>
+                    <persName type="reg">
+                        <surname>Gneisenau</surname>
+                        <forename>August Neidhardt von</forename>
+                    </persName>
+                    <birth>1760</birth>
+                    <death>1831</death>
+                </person>
+                <person xml:id="ed_j5n_jfc_tcb">
+                    <idno type="uri">https://d-nb.info/gnd/116720581</idno>
+                    <persName type="reg">
+                        <surname>Goercke</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth>1750</birth>
+                    <death>1822</death>
+                </person>
+                <person xml:id="ed_gxp_2wh_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/118695797</idno>
+                    <persName type="reg">
+                        <surname>Goerdeler</surname>
+                        <forename>Carl Friedrich</forename>
+                    </persName>
+                    <birth>1884</birth>
+                    <death>1945</death>
+                </person>
+                <person xml:id="ed_olk_vcv_12b">
+                    <idno type="uri">https://d-nb.info/gnd/118540238</idno>
+                    <persName type="reg">
+                        <surname>Goethe</surname>
+                        <forename>Johann Wolfgang von</forename>
+                    </persName>
+                    <birth>1749</birth>
+                    <death>1832</death>
+                </person>
+                <person xml:id="ed_wsd_yh5_g2b">
+                    <persName type="reg">
+                        <surname>Goetz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1881 Pfarrer in Lyck</note>
+                </person>
+                <person xml:id="ed_hyb_zqv_scb">
+                    <persName type="reg">
+                        <surname>Gohr </surname>
+                        <forename>Barbara von</forename>
+                    </persName>
+                    <persName type="alt" subtype="pseudonym">
+                        <name>Fräulein von G.</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784/85 auf Rydzewen</note>
+                </person>
+                <person xml:id="ed_wkz_m4m_scb">
+                    <persName type="reg">
+                        <surname>Göhren</surname>
+                        <forename>Maria Sophie Luise von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1756, 1758 Hofdame</note>
+                </person>
+                <person xml:id="ed_gpd_4hr_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/11674796X</idno>
+                    <persName type="reg">
+                        <surname>Goldbeck und Reinhart</surname>
+                        <forename>Heinrich Julius von</forename>
+                    </persName>
+                    <birth>1733</birth>
+                    <death>1818</death>
+                </person>
+                <person xml:id="ed_ljd_kxk_gcb">
+                    <persName type="reg">
+                        <surname>Goldmann</surname>
+                        <forename>E.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1937 NSDAP-Hauptschriftleiter, Königsberg </note>
+                </person>
+                <person xml:id="ed_omg_r4k_wcb">
+                    <persName type="reg">
+                        <surname>Goldstein</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1812)</note>
+                </person>
+                <person xml:id="ed_mvr_tdq_tdb">
+                    <persName type="reg">
+                        <surname>Golovkina</surname>
+                        <forename>Natalie Amalie (Helene) Gräfin</forename>
+                    </persName>
+                    <birth>1728</birth>
+                    <death>1771</death>
+                    <note>Heirat: von Schmettau, geschieden (1769)</note>
+                </person>
+                <person xml:id="ed_pt3_bjt_g2b">
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Anton Friedrich Ferdinand Leopold Freiherr von der</forename>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1902</death>
+                    <note>Heirat: <persName key="ed_tb2_tht_g2b">Antonie Freiin von der
+                            Goltz</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_vqf_qyv_scb">
+                    <idno type="uri">http://d-nb.info/gnd/136094821</idno>
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Anton Gottlieb Freiherr von der</forename>
+                    </persName>
+                    <birth>1746</birth>
+                    <death>1821</death>
+                </person>
+                <person xml:id="ed_tb2_tht_g2b">
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Antonie Eleonore Caroline Julie Freifrau von der</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Goltz, Freiin von der</name>
+                    </persName>
+                    <birth>1834</birth>
+                    <death>1912</death>
+                    <note>Heirat: <persName key="ed_pt3_bjt_g2b">Anton Friedrich Ferdinand Leopold
+                            Freiherr von der Goltz</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_wxv_sb3_tdb">
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Bernd Henning von der</forename>
+                    </persName>
+                    <birth>1718</birth>
+                    <death>1757</death>
+                    <note>preußischer Major; Flügeladjutant des Königs.
+                        https://de.wikipedia.org/wiki/Henning_Bernd_von_der_Goltz</note>
+                </person>
+                <person xml:id="ed_sqx_wfp_tdb">
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Charlotte Wilhelmine Freiin von der</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Grävenitz, von</name>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1771</death>
+                    <note>Gemahlin des Kammerherrn Georg Konrad Freiherr von der Goltz (1767)</note>
+                </person>
+                <person xml:id="ed_xfz_yfp_tdb">
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Frau von der</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>La Cère</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Wiwe des verstorbenen Gesandten <persName key="ed_xjw_1gp_tdb">Georg
+                            Wilhelm von der Goltz</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_xjw_1gp_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/136094147</idno>
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Georg Wilhelm von der</forename>
+                    </persName>
+                    <birth>1721</birth>
+                    <death>1767</death>
+                </person>
+                <person xml:id="ed_lxt_5cq_1fb">
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Graf von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1830)</note>
+                </person>
+                <person xml:id="ed_ecc_ccc_tcb">
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Helene Luise Gräfin von </forename>
+                    </persName>
+                    <birth>1765</birth>
+                    <death>1845</death>
+                    <note>Heirat: <persName key="ed_a4w_1cc_tcb">Hans Otto Graf von
+                            Podewils</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_xk5_q25_22b">
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Oskar von der</forename>
+                    </persName>
+                    <birth>1852</birth>
+                    <death>1933</death>
+                    <note>Generalleutnant (1870)</note>
+                </person>
+                <person xml:id="ed_sn2_jy2_n2b">
+                    <idno type="uri">https://d-nb.info/gnd/118696297</idno>
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_m3w_lfr_d2b">
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberstleutnant (1862)</note>
+                </person>
+                <person xml:id="ed_bbf_x14_xdb">
+                    <idno type="uri">https://d-nb.info/gnd/136095038</idno>
+                    <persName type="reg">
+                        <surname>Goltz</surname>
+                        <forename>Wilhelm Bernhard von der</forename>
+                    </persName>
+                    <birth>1736</birth>
+                    <death>1795</death>
+                </person>
+                <person xml:id="ed_rfz_j1f_3fb">
+                    <persName type="reg">
+                        <surname>Golzheim</surname>
+                        <forename>Stach von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1870)</note>
+                </person>
+                <person xml:id="ed_z1d_lsv_scb">
+                    <persName type="reg">
+                        <surname>Gonekin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Magd auf den Steinortschen Gütern</note>
+                </person>
+                <person xml:id="ed_shp_pwd_gy">
+                    <persName type="reg">
+                        <surname>Gonzague</surname>
+                        <forename>Louise de</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1871 Klarisse, St. Marie in Amiens</note>
+                </person>
+                <person xml:id="ed_lyv_4vs_d2b">
+                    <persName type="reg">
+                        <surname>Göring</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1868 Gutsbesitzer, Lockstedt</note>
+                </person>
+                <person xml:id="ed_fwy_fxk_gcb">
+                    <idno type="uri">http://d-nb.info/gnd/118540157</idno>
+                    <persName type="reg">
+                        <surname>Göring</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth>1893</birth>
+                    <death>1946</death>
+                </person>
+                <person xml:id="ed_a1n_541_my">
+                    <idno type="uri">http://d-nb.info/gnd/118696475</idno>
+                    <persName type="reg">
+                        <surname>Gortschakow</surname>
+                        <forename>Alexander Michailowitsch Fürst</forename>
+                    </persName>
+                    <birth>1798</birth>
+                    <death>1883</death>
+                </person>
+                <person xml:id="ed_tgh_2ft_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/116788070</idno>
+                    <persName type="reg">
+                        <surname>Goßler</surname>
+                        <forename>Gustav von</forename>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1902</death>
+                </person>
+                <person xml:id="ed_kvs_zhb_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/116788100</idno>
+                    <persName type="reg">
+                        <surname>Goßler</surname>
+                        <forename>Karl Gustav von</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1885</death>
+                </person>
+                <person xml:id="ed_y5r_pmm_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/136975356</idno>
+                    <persName type="reg">
+                        <surname>Gottberg</surname>
+                        <forename>Otto von</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1913</death>
+                </person>
+                <person xml:id="ed_etf_rxz_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/1169615406</idno>
+                    <persName type="reg">
+                        <surname>Gottberg</surname>
+                        <forename>Walter von</forename>
+                    </persName>
+                    <birth>1823</birth>
+                    <death>1885</death>
+                </person>
+                <person xml:id="ed_vww_5r1_tcb">
+                    <persName type="reg">
+                        <surname>Gotter</surname>
+                        <forename>Fräulein von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1799</death>
+                    <note>Steinort (1784)</note>
+                </person>
+                <person xml:id="ed_c1z_hx1_fz">
+                    <idno type="uri">http://d-nb.info/gnd/119258862</idno>
+                    <persName type="reg">
+                        <surname>Gotter</surname>
+                        <forename>Gustav Adolph Graf von</forename>
+                    </persName>
+                    <birth>1692</birth>
+                    <death>1762</death>
+                </person>
+                <person xml:id="ed_hz3_wq3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/118541013</idno>
+                    <persName type="reg">
+                        <surname>Gottsched</surname>
+                        <forename>Johann Christoph</forename>
+                    </persName>
+                    <birth>1700</birth>
+                    <death>1766</death>
+                </person>
+                <person xml:id="ed_h4c_zqm_2cb">
+                    <idno type="uri">http://d-nb.info/gnd/136045065</idno>
+                    <persName type="reg">
+                        <surname>Götz</surname>
+                        <forename>Johann Karl Leopold</forename>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1903</death>
+                </person>
+                <person xml:id="ed_rfd_rcq_rdb">
+                    <persName type="reg">
+                        <surname>Götze</surname>
+                        <forename>Christoph von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1757</death>
+                    <note>1757 Major im Füsilier-Regiment Prinz Heinrich</note>
+                </person>
+                <person xml:id="ed_y3b_dzx_bz">
+                    <idno type="uri">http://d-nb.info/gnd/118827979</idno>
+                    <persName type="reg">
+                        <surname>Gotzkowski</surname>
+                        <forename>Johann Ernst</forename>
+                    </persName>
+                    <birth>1710</birth>
+                    <death>1775</death>
+                </person>
+                <person xml:id="ed_xrr_xqc_hkb">
+                    <persName type="reg">
+                        <surname>Grabowski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Propst in Angerburg</note>
+                </person>
+                <person xml:id="ed_cqh_3tp_rdb">
+                    <persName type="reg">
+                        <surname>Grabowski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1756 Kammerherr am sächsischen Hof</note>
+                </person>
+                <person xml:id="ed_drn_pbj_f3b">
+                    <persName type="reg">
+                        <surname>Grabowski</surname>
+                        <forename>Johann Christoph von</forename>
+                    </persName>
+                    <birth>1692</birth>
+                    <death>1762</death>
+                    <note>1727 Hofgerichtsrat in Königsberg, ab 1730 Amtsverweser des
+                        Amtshauptmannes von Angerburg, 1759-1762 Amtshauptmann von Angerburg,
+                        außerdem Tribunals- und Hofgerichtsrat, zuletzt Vizepräsident beim Landtag
+                    </note>
+                </person>
+                <person xml:id="ed_qqw_3dj_f3b">
+                    <persName type="reg">
+                        <surname>Grabus</surname>
+                        <forename>Caspar</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1739)</note>
+                </person>
+                <person xml:id="ed_vcn_fdj_f3b">
+                    <persName type="reg">
+                        <surname>Grabus</surname>
+                        <forename>Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort, verh. <persName key="ed_w3r_ydj_f3b"
+                        >Janson</persName>(1739)</note>
+                </person>
+                <person xml:id="ed_f1x_gdx_clb">
+                    <persName type="reg">
+                        <surname>Gwiasda</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Magd</note>
+                </person>
+                <person xml:id="ed_g55_ljx_clb">
+                    <persName type="reg">
+                        <surname>Gwiasda</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_mhv_tjx_clb">
+                    <persName type="reg">
+                        <surname>Gelhaar</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_vlk_xyk_gbb">
+                    <idno type="uri">http://d-nb.info/gnd/116809027</idno>
+                    <persName type="reg">
+                        <surname>Graefe</surname>
+                        <forename>Arthur</forename>
+                    </persName>
+                    <birth>1890</birth>
+                    <death>1967</death>
+                </person>
+                <person xml:id="ed_ly4_rgc_ydb">
+                    <idno type="uri">https://d-nb.info/gnd/118697064</idno>
+                    <persName type="reg">
+                        <surname>Graff</surname>
+                        <forename>Anton</forename>
+                    </persName>
+                    <birth>1736</birth>
+                    <death>1813</death>
+                </person>
+                <person xml:id="ed_jjt_kzq_rhb">
+                    <persName type="reg">
+                        <surname>Gramanzki</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gendarm Leibkompanie 1. Garde-Regiment</note>
+                </person>
+                <person xml:id="ed_sfj_bq3_tdb">
+                    <persName type="reg">
+                        <surname>Grappendorff</surname>
+                        <forename>Luise Albertine von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Brandt, von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hofdame der Prinzessin von Preußen</note>
+                </person>
+                <person xml:id="ed_dr2_s5m_zcb">
+                    <persName type="reg">
+                        <surname>Graumann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1814)</note>
+                </person>
+                <person xml:id="ed_wjm_j35_22b">
+                    <persName type="reg">
+                        <surname>Grauvogl</surname>
+                        <forename>Dr. Eduard von</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1877</death>
+                    <note>München, Verfasser eines Lehrbuchs der Homöopathie</note>
+                </person>
+                <person xml:id="ed_ihv_cdk_w2b">
+                    <persName type="reg">
+                        <surname>Grävenitz</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Obristleutnant, 1784 Landrat</note>
+                </person>
+                <person xml:id="ed_bxf_12r_gbb">
+                    <persName type="reg">
+                        <surname>Gregorovius</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1818, 1820 Kassenführer in Steinort</note>
+                </person>
+                <person xml:id="ed_xcm_445_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/118542257</idno>
+                    <persName type="reg">
+                        <surname>Grimm</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth>1785</birth>
+                    <death>1863</death>
+                </person>
+                <person xml:id="ed_izd_r45_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/118542265</idno>
+                    <persName type="reg">
+                        <surname>Grimm</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1859</death>
+                </person>
+                <person xml:id="ed_bm5_jq3_kfb">
+                    <persName type="reg">
+                        <surname>Groddeck</surname>
+                        <forename>Karl August</forename>
+                    </persName>
+                    <birth>1794</birth>
+                    <death>1877</death>
+                    <note>Justizrat</note>
+                </person>
+                <person xml:id="ed_fzc_zxl_w2b">
+                    <idno type="uri">http://d-nb.info/137307586</idno>
+                    <persName type="reg">
+                        <surname>Groeben</surname>
+                        <forename>Friedrich Gottfried Graf von der</forename>
+                    </persName>
+                    <birth>1726</birth>
+                    <death>1799</death>
+                </person>
+                <person xml:id="ed_kjd_3kg_my">
+                    <idno type="uri">http://d-nb.info/gnd/119193825</idno>
+                    <persName type="reg">
+                        <surname>Groeben</surname>
+                        <forename>Grafen von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_dfb_sd5_c2b">
+                    <persName type="reg">
+                        <surname>Groeben</surname>
+                        <forename>Ludwig Graf von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1810 Hofmarschall, 1836 diensttuender Kammerherr des Prinzen Wilhelm von
+                        Preußen; Leutnant der Garde du Corps</note>
+                </person>
+                <person xml:id="ed_bcb_dkp_tdb">
+                    <persName type="reg">
+                        <surname>Groeben</surname>
+                        <forename>Sophie Caroline Gräfin von der</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Truchseß von Waldburg, Gräfin</name>
+                    </persName>
+                    <birth>1740</birth>
+                    <death>1815</death>
+                    <note>Gemahlin des Obermarschalls in Preußen Friedrich Gottfried Graf von der
+                        Groeben</note>
+                </person>
+                <person xml:id="ed_jjl_ysq_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/11756365X</idno>
+                    <persName type="reg">
+                        <surname>Groeben</surname>
+                        <forename>Wilhelm Ludwig von der</forename>
+                    </persName>
+                    <birth>1690</birth>
+                    <death>1760</death>
+                </person>
+                <person xml:id="ed_kgd_wxh_tcb">
+                    <persName type="reg">
+                        <surname>Groeben-Neudörffchen</surname>
+                        <forename>August Otto Heinrich Graf von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: Sophie Luise Wilhelmine Gräfin von Podewils</note>
+                </person>
+                <person xml:id="ed_gpx_gv5_vcb">
+                    <persName type="reg">
+                        <surname>Groeben-Neudörffchen</surname>
+                        <forename>Sophie Luise Wilhelmine Gräfin von der</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Podewils, Gräfin von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: <persName key="ed_kgd_wxh_tcb">August Otto Heinrich Graf von der
+                            Groeben</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_kp3_lp5_vcb">
+                    <idno type="uri">https://d-nb.info/gnd/116863153</idno>
+                    <persName type="reg">
+                        <surname>Grolmann</surname>
+                        <forename>Wilhelm Heinrich von</forename>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1856</death>
+                </person>
+                <person xml:id="ed_ims_yhr_52b">
+                    <idno type="uri">https://d-nb.info/gnd/118538543</idno>
+                    <persName type="reg">
+                        <surname>Großbritannien und Irland</surname>
+                        <forename>Georg II. König von</forename>
+                    </persName>
+                    <birth>1683</birth>
+                    <death>1760</death>
+                    <note>Kurfürst von Braunschweig-Lüneburg (Hannover)</note>
+                </person>
+                <person xml:id="ed_a1y_1qk_w2b">
+                    <idno type="uri">https://d-nb.info/gnd/118716913</idno>
+                    <persName type="reg">
+                        <surname>Großbritannien und Irland</surname>
+                        <forename>Georg III. König von</forename>
+                    </persName>
+                    <birth>1738</birth>
+                    <death>1820</death>
+                    <note>König von Hannover</note>
+                </person>
+                <person xml:id="ed_hsc_msm_zcb">
+                    <idno type="uri">http://d-nb.info/gnd/118690450</idno>
+                    <persName type="reg">
+                        <surname>Großbritannien und Irland</surname>
+                        <forename>Georg IV. König von</forename>
+                    </persName>
+                    <birth>1762</birth>
+                    <death>1830</death>
+                    <note>König von Hannover</note>
+                </person>
+                <person xml:id="ed_hsk_thr_52b">
+                    <idno type="uri">https://d-nb.info/gnd/101335740X</idno>
+                    <persName type="reg">
+                        <surname>Großbritannien und Irland</surname>
+                        <forename>Marie Prinzessin von</forename>
+                    </persName>
+                    <birth>1723</birth>
+                    <death>1772</death>
+                    <note>Heirat: Landgraf <persName key="ed_r1v_4wb_ydb">Friedrich II. von
+                            Hessen-Kassel</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_bjc_q5t_ncb">
+                    <persName type="reg">
+                        <surname>Groscurth</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth>1864</birth>
+                    <death>1931</death>
+                    <note>1884 Eleve und praktischer Landwirt in Ostpreußen, 1916 Vortragender Rat
+                        im Landwirtschaftsministerium, 1919 Oberlandstallmeister, 1928 i. R.;
+                        Verfasser von: Die Preußische Gestütsverwaltung, Hannover 1927 </note>
+                </person>
+                <person xml:id="ed_oct_k1q_tcb">
+                    <persName type="reg">
+                        <surname>Grunenthal</surname>
+                        <forename>Ernst von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1789-1802 Kammerdirektor des Prinzen Heinrich </note>
+                </person>
+                <person xml:id="ed_uqr_4nw_h2b">
+                    <persName type="reg">
+                        <surname>Grunwald</surname>
+                        <forename>Amalie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1894 Diakonisse im Angerburger Siechenhaus</note>
+                </person>
+                <person xml:id="ed_wvh_spz_yhb">
+                    <persName type="reg">
+                        <surname>Grutzek</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death>1860</death>
+                    <note>Lehrer in Stawisken</note>
+                </person>
+                <person xml:id="ed_v1d_fyk_gbb">
+                    <persName type="reg">
+                        <surname>Gruve</surname>
+                        <forename>Karl Albert</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Regierungsamtmann; 1947 in der Verwaltung Staatliche Schlösser und Gärten
+                        Sachsen</note>
+                </person>
+                <person xml:id="ed_wqw_yqx_f2b">
+                    <persName type="reg">
+                        <surname>Grzybowski</surname>
+                        <forename>August</forename>
+                    </persName>
+                    <birth/>
+                    <death>nach 1888</death>
+                    <note>1871-1874 Pfarrer in Rhein, dann in Königsberg</note>
+                </person>
+                <person xml:id="ed_q5p_mtm_scb">
+                    <persName type="reg">
+                        <surname>Gualtieri</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1757/58)</note>
+                </person>
+                <person xml:id="ed_l5h_qfv_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118543156</idno>
+                    <persName type="reg">
+                        <surname>Guderian</surname>
+                        <forename>Heinz Wilhelm</forename>
+                    </persName>
+                    <birth>1888</birth>
+                    <death>1954</death>
+                </person>
+                <person xml:id="ed_ojg_bdg_h1b">
+                    <persName type="reg">
+                        <surname>Gumboldt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1803 Gutsbesitzer, Rosenstein</note>
+                </person>
+                <person xml:id="ed_el4_nkm_33b">
+                    <persName type="reg">
+                        <surname>Guss</surname>
+                        <forename>Familie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

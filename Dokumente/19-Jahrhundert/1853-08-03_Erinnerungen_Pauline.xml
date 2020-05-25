@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_drc_wnj_r2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aufzeichnung von Ida Rische. Faulenrost, 3. August 1853</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_drc_wnj_r2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 52: Kleine
+                            Erinnerungen aus dem Leben der Exzellenz Gräfin Pauline Lehndorff</idno>
+                    </msIdentifier>
+                    
+                    <physDesc>
+                        <p>Typoskript. „Entnommen aus Briefen von Frau Pastorin Volkening -
+                            Jöllenbeck und deren Tochter, Frau Pastorin Rische - Schwinkendorf,
+                            durch die Tochter der Letzteren, Paula, die ein Patenkind der obigen
+                            Gräfin Lehndorff war.‟ </p>
+                    </physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <creation>
+                <persName key="ed_wjt_k15_gfb">Rische, Frau (-)</persName>
+                <placeName key="ed_tn4_fy5_h2b">Faulenrost</placeName>
+                <date when="1853-08-03" cert="high"/>
+            </creation>
+      </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Gestern, Mittwoch, d. 3. August (<persName key="ed_tl1_nbf_4y">Friedrich Wilhelms
+                        III.</persName> Geburtstag) hatten wir Taufe. Sie war auf 3 Uhr angesetzt.
+                    Unsere Gäste waren: die anwesenden Paten: Komtess <persName key="ed_f5w_2fm_2y">Magdalena Lehndorff</persName>, <seg type="comment">
+                  <orig>Frl. <persName key="ed_edk_y5t_gfb">Feddersen</persName>
+                  </orig>
+                  <note xml:id="nzxt_htj_r2b">Deren Eltern erwarben später Gut <placeName key="ed_uqf_bvt_gfb">Gramzow</placeName> für 185.000 Taler, vgl.
+                            ebd. (10. Juli 1857).</note>
+               </seg> und ich; dann Pastor <persName key="ed_rry_fwl_gfb">Werner</persName> und Frau, Frau Baronin <persName key="ed_cnr_fvt_gfb">Kloch</persName> und Pastor <persName key="ed_ddm_hvt_gfb">Tauscher-Zettemin</persName> mit Tochter. <gap reason="insignificant"/> Komtess Magdalena brachte als Patengeschenk ein
+                    herrliches Bukett von Myrthen und Rosen und ein schönes Etui von grünem Saffian
+                    mit Goldrand und den Buchstaben E. R. darauf graviert. Darin lag ein silbernes
+                    Besteck in rotem Samt. Ich zeigte es unserer Kinderfrau, „O, wie schön!‟ sagte
+                    sie, „uns hat die Komtess jeder einen Taler gegeben - sie sah so schön aus, als
+                    sie das Kind zur Taufe hielt, wenn sie doch unsere Frau Gräfin würde!‟</p>
+            </div>
+        </body>
+    </text>
+</TEI>

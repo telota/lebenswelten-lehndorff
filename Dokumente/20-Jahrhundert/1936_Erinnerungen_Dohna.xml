@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_eyk_z2l_gcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erinnerungen. Vor 1936</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_eyk_z2l_gcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Dohna-Schlobitten, Alexander Fürst zu, Erinnerungen eines
+                            alten Ostpreußen, München 1989, 6. Aufl. Würzburg 2014, S. 162
+                            ff.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1936-01-01" to="1936-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <gap reason="insignificant"/> Etwas Außergewöhnliches waren die jährlichen
+                    Entenjagden in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, dem
+                    Stammsitz der Lehndorff in <placeName key="ed_y1h_tpk_wcb">Masuren</placeName>.
+                    Steinort lag auf einer Art Landzunge inmitten des Mauersees, des zweitgrößten
+                    der masurischen Seen. Die Ufer, zum großen Teil mit Schilf bewachsen, waren ein
+                    Eldorado für Wasservögel. Die Entenjagd wurde im Juli veranstaltet, und zwar
+                    immer über ein Wochenende. Am Sonnabend und Montag wurde gejagt, während man den
+                    ganzen Sonntag über „jeute‟, das heißt Skat spielte, denn der Hausherr,
+                        <persName key="ed_ik3_ckz_2y">Carol Lehndorff</persName>, war ein
+                    leidenschaftlicher Skatspieler.</p>
+                <p>Bereits zum Frühstück vor der Jagd füllte der Hausherr, ehe man sichs versah,
+                    mit der kurzen Bemerkung „Du erlaubst wohl‟ die nur halbvolle Kaffeetasse bis an
+                    den Rand mit Schnaps. Das setze sich bei allen Mahlzeiten bis zum Abend fort.
+                    Nach dem Frühstück fuhr die Jagdgesellschaft mit einem Dampfer hinaus auf den
+                    Mauersee. In Abständen stiegen die Schützen dann in kleine Kähne und wurden von
+                    den Treibern in die Schneisen gerudert, die man in das Schilf geschlagen hatte.
+                    Während sich die Damen noch bei ihrer Dampferfahrt vergnügten, erscholl über das
+                    Wasser weithin hörbar das Jagdsignal. Entlang der Ufer erhob sich das laute
+                    Rufen der Treiber, die nun systematisch durch das Schilf wateten, manchmal bis
+                    zur Brust im Wasser, um die Enten aufzuscheuchen. Sobald die Enten die Schneisen
+                    überflogen, begann ein wildes Schießen. Da die Tiere oft sehr niedrig flogen,
+                    musste man sich mitunter flach ins Boot legen, um nicht von dem Schrot der
+                    anderen Flinten getroffen zu werden. Auf diese Weise wurden täglich bis zu
+                    hundert Enten erlegt.</p>
+                <p>Das Schloss, Ende des 17. Jahrhundert im schlichten Stil des frühen Barock
+                    erbaut, war im 19. Jahrhundert durch einige neugotische Anbauten und sonstige
+                    Zutaten verunstaltet worden. <seg type="comment">
+                  <orig>Da Carol Lehndorff
+                            unverheiratet geblieben war und es keine Hausfrau gab, befand sich alles
+                            in einem ungewöhnlich desolaten Zustand. </orig>
+                  <note xml:id="nfvj_3cd_mfb">Vgl. die Erinnerungen von <ref target="lehndorff_ikq_nvl_gcb">
+                        <persName key="ed_uck_v2f_2y">Hans
+                                    Graf von Lehndorff</persName>
+                     </ref>.</note>
+               </seg> Der
+                    Junggeselle legte wenig Wert auf Ordnung und Sauberkeit und hatte fast alles so
+                    belassen, wie es ihm von seinen Eltern vermacht worden war. Wurde ausnahmsweise
+                    einmal ein Schrank verschoben, nahm man sich nicht einmal die Mühe, zuvor die
+                    Bilder umzuhängen, so dass hinter manchem Schrank ein Stück Bilderrahmen
+                    sichtbar war. Defekte Möbel stapelte man in einem Raum, ohne sie zu reparieren.
+                    Ich erinnere mich an Porträts, deren Leinwand am oberen Rand so brüchig geworden
+                    war, dass sie aus dem Rahmen hing und die Ahnen sich gewissermaßen vor einem
+                    verbeugten. Die Landwirtschaft befand sich in ähnlich miserabler Verfassung.</p>
+                <p>Carol Lehndorff war ein wenig schrullig, aber höchst amüsant und mir wohlgesinnt,
+                    vielleicht, weil ich mich für seine riesige <ref target="lehndorff_fzt_gny_g1b">brandenburg-preußische Münzsammlung</ref> interessierte, die in
+                    Münzschränken an den Wänden seines Schlafzimmers aufbewahrt wurde. Andererseits
+                    konnte ich seine Gunst nie ganz erlangen, da ich weder Skat spielte noch die
+                    vielen scharfen Getränke recht zu würdigen verstand. Eines Tages wurde ich nicht
+                    mehr zur Jagd in Steinort eingeladen: Der Jagdherr verübelte mir als
+                    verheiratetem Mann eine harmlose Liebelei mit einem hübschen Mädchen, dass
+                    ebenfalls zur Jagdgesellschaft gehörte. Als Junggeselle urteilte er in diesen
+                    Dingen vielleicht besonders streng.</p>
+                <p>Nach dem Tod von Carol 1936 erbte sein Neffe <persName key="ed_eq5_1t1_dy">Heinrich Lehndorff </persName> den großen Besitz. Angeblich ließ er aus dem
+                    verwahrlosten Schloss sechs vierspännige Wagen Unrat abtransportieren. Dieser
+                    außerordentlich tüchtige Mann brachte nicht nur die Land- und Forstwirtschaft
+                    wieder auf die Höhe, sondern setzte auch das Schloss mit seinem schönen,
+                    größtenteils barocken Inventar in einen hervorragenden Zustand. Da ich Heini
+                    Lehndorff jedoch nur flüchtig kannte - er wurde nach dem 20. Juli 1944
+                    hingerichtet-, habe ich das renovierte Steinort nicht mehr gesehen. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

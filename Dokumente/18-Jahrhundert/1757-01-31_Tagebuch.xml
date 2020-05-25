@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_vld_ns2_ndb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 31.
+                    Januar bis 18. März 1757</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_vld_ns2_ndb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="editorial">Am 7. März erhielt Lehndorff Nachrichten vom Prinzen
+                    Heinrich. Während sich Preußen im Krieg befindet, ging sein Tagesablauf
+                    unverändert weiter. Am 10. März notierte er (ebd., S. 88): <quote>Um 8 Uhr stehe
+                        ich auf und lese bis 10; dann kommt mein Musiklehrer und um 11 Uhr mein
+                        Vorleser. Während des beschäftige ich mich bis 1 Uhr mit
+                    Malen.</quote>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 1, Gotha 1910, S. 82 und 91</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date from="1757-01-31" to="1757-03-18" cert="high"/>
+                
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                
+				     <p>
+            <hi rendition="#u">31. Januar</hi>. <gap reason="insignificant"/> Unsere Besorgnis um
+                    <placeName key="ed_uvt_4j4_dz">Preußen</placeName> wird größer. Wenn ich daran
+                denke, welchen Gang die Dinge nehmen können, zittere ich. Wenn man an die Weisheit,
+                die schöne Armee und das Glück des Königs denkt, darf man wohl auf viel Ruhm und
+                große Ereignisse hoffen, aber wenn man sich andererseits vergegenwärtigt, dass
+                    <placeName key="ed_ust_ky4_dz">Frankreich</placeName>, <placeName key="ed_stc_3k4_dz">Österreich</placeName> und <placeName key="ed_iky_35l_cz">Russland</placeName> samt dem ganzen Reich sich gegen uns vereinigt haben, so
+                sträuben sich einem die Haare. Gott schütze mein armes Vaterland! Alle Welt ist über
+                den <persName key="ed_hjj_lvh_tdb">Markgrafen von Ansbach</persName> entrüstet, der
+                auf dem Reichstag unseren <persName key="ed_x2r_52f_cy">König</persName> im Stich
+                gelassen hat, um sich auf Österreichs Seite zu stellen.</p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>
+            <hi rendition="#u">11. bis 22. Februar</hi>. <gap reason="insignificant"/> Was
+                mich anbetrifft, so sehe ich mich von einem Tage zum anderen in eine immer
+                traurigere Lage versetzt. Die Russen sind an der preußischen Grenze; wenn unsere
+                Truppen nicht die Oberhand behalten, dann bin ich am Bettelstab. Doch das muss man
+                alles der Vorsehung anheimstellen, ruhig weiterleben und den Wunsch auf vollkommenes
+                Glück aus seinem Dasein streichen; ein solcher Zustand ist den elenden Sterblichen
+                nicht beschieden. <gap reason="insignificant"/>
+         </p>
+                <p>
+            <hi rendition="#u">23. Februar</hi>. <gap reason="insignificant"/>
+                <seg type="comment">
+               <orig>Als ich vom <persName key="ed_yg5_szx_bz">Markgrafen
+                            Heinrich</persName> komme,</orig>
+               <note xml:id="nhzk_rkf_ndb">Am 23.
+                        Februar schreibt Lehndorff: <quote>Ich diniere beim Markgrafen Heinrich. Er
+                            führt doch ein zu trauriges Dasein. Während alles im Kriege ist, lässt
+                            der König ihn und seinen Bruder zu Hause, damit sie ihren Kohl pflanzen
+                            Die Prinzen behandeln ihn wie einen Geächteten, und demgemäß wird er
+                            gemieden. Und doch hat er das große Verdienst, dass er seine Kinder aufs
+                            Beste erzieht; es sind zwei junge Prinzessinnen, von denen man das Beste
+                            hoffen kann.</quote> Vgl. Giebel, Tagebücher, S. 310 ff.</note>
+            </seg>
+                finde ich einen sehr traurigen Brief von meiner <persName key="ed_q4s_xyl_2y">Mutter</persName> vor. Alles ist dort in Aufruhr. Die Russen sind an den
+                Grenzen, und wir sehen unseren Ruin vor Augen. Als ich abends an den Hof komme,
+                erfahre ich zur Erhöhung meines Kummers, dass das Regiment des <persName key="ed_nvx_wcz_bz">Prinzen Heinrich</persName> in <placeName key="ed_wwp_ncq_rdb">Ostritz</placeName>, demselben Ort, wo <persName key="ed_ivw_kbh_2z">Blumenthal</persName> gefallen ist, neue Verluste gehabt
+                hat. Die Kroaten haben uns 28 Mann sowie den Major <persName key="ed_rfd_rcq_rdb">Götze</persName> getötet; der Major <persName key="ed_whj_tcq_rdb">Knobelsdorff</persName>, der Hauptmann <persName key="ed_cbn_wcq_rdb">Geuder</persName> und der Leutnant <persName key="ed_rpz_xcq_rdb">Röder</persName> sind gefangen. Die Österreicher waren im ganzen 14.000 Mann
+                stark und hatten sich in verschiedene Korps geteilt, um alle Vorposten auf einmal
+                anzugreifen, damit diese einander nicht zu Hilfe kommen konnten. Trotz dieser
+                numerischen Überlegenheit haben sich unsere Truppen in allen ihren Stellungen
+                behauptet. Ein junger Schwerin vom Regiment v. Münchow hat mit 28 Mann drei Stunden
+                lang 400 Österreichern die Spitze geboten; er hatte sich in eine Mühle
+                zurückgezogen. Die Österreicher haben große Verluste erlitten, aber da sie immer
+                ihre Toten und Verwundeten mitnehmen, kann man deren Zahl nicht feststellen. Ein
+                Prinz <persName key="ed_m1m_fg3_f2b">Liechtenstein</persName> ist an seinen Wunden,
+                die er bei dieser Gelegenheit empfangen hat, gestorben.</p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>
+            <seg type="comment">
+               <orig>
+                  <hi rendition="#u">18. März</hi>. </orig>
+               <note xml:id="nh1r_flf_ndb">Am selben Tag diniert er bei von <persName key="ed_zfc_41q_rdb">Wulfenstjerna</persName>, um <persName key="ed_c2b_cdq_rdb">Graf Horn</persName> vor dessen Abreise nach
+                        Schweden zu sehen, der in der preußischen Armee nicht dienen darf.
+                            <quote>Der Mann hätte unserem König manchen Aufschluss über die
+                            russische Armee geben können, da er sie gründlich kennt.</quote> Vgl.
+                        Giebel, Tagebücher, S. 347. </note>
+            </seg>In <placeName key="ed_uvt_4j4_dz">Preußen</placeName> ist alles ruhig. Die Russen sind zurückgegangen. Man führt
+                dafür mehrere Gründe an, so die Krankheit der <persName key="ed_ez1_1zl_cz">Kaiserin</persName>, Uneinigkeit des Ministeriums, Reibungen zwischen <persName key="ed_m1h_wvh_tdb">Bestushew</persName> und <persName key="ed_scj_xvh_tdb">Boronzow</persName>, Der wirkliche Grund ist indes, wie ich glaube, der, dass
+                ihnen die fünf Millionen Gulden in Holland entgangen sind, mit denen diese Herren
+                den Marsch ihrer Truppen zu bezahlen gehofft hatten, und die unser Resident im Haag,
+                v. d. <persName key="ed_x4y_2dq_rdb">Hellen</persName>, dem König in die Hände
+                gespielt hat.</p>
+				
+            
+        </body>
+    </text>
+</TEI>

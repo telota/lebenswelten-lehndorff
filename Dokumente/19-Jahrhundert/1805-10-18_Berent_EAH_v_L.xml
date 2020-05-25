@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ctr_kks_lcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich August Berent an Carl Friedrich Ludwig Graf von Lehndorff.
+                    Steinort, 18. Oktober 1805</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ctr_kks_lcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 119 f.</bibl> 
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1805-10-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Carl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Im Brief vom 16. Oktober berichtete <persName key="ed_yx5_cbg_nbb">Berent</persName> weiter über die Folgen der Mobilmachung, zu denen sich
+                    das Oberkriegskollegium <quote>alle weitläufigen Anfragen</quote> verbeten
+                    hatte. Er bezifferte die Einquartierung bei jedem Instmann auf 3 bis 4 Mann, und
+                    die des Hofes Steinort auf 21 Mann und 24 Pferde, ohne Offiziere. <quote>Das
+                        Schlimmste ist: die Weg-Reparaturen, da mit militärischer Exekution die Wege
+                        fahrbar zu erhalten sind. Mehr wie 400 Fuder Holz zu Knüppelbrücken sollen
+                        angefahren werden; mit 43 Wagen zwingt man mich Holz nach <placeName key="ed_h35_jqh_my">Drengfurth</placeName> zu fahren</quote>, vgl. ebd.,
+                    S. 120. - Im November 1806 erteilte Lehndorff Berent Anweisungen für den Fall,
+                    dass der Kriegsschauplatz sich bis <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ausdehnen würde. Gemeinsam mit ihm versiegelte er
+                    Schränke und Kommoden im oberen Stockwerk des Schlosses. Der Gärtner erhielt
+                    Anweisungen, wo die in <placeName key="ed_uyl_j3c_gy">Danzig</placeName>
+                    gekauften 50 Obstbäume, die bereits in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> eingetroffen waren, angepflanzt werden sollten,
+                    ebd., S. 132. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, 18. Oktober 1805</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/> Vorgestern wurde in sämtliche Güter ohne vorherige Nachricht
+                    für 5 Compagnien von Kalckreuth-Infanterie und 2 Compagnien von Courbiere
+                    Quartier gemacht. Die sämtlich in unseren Gütern stehende Mannschaft besteht in
+                    1.300 Mann und 380 Pferden. Ich kann die Bestürzung und den Jammer der armen
+                    Menschen nicht genug schildern; bis 24 Mann liegen bei einem Bauern. Die
+                    Lebensmittel herbeizuschaffen und alle Fuhren und Posten herzugeben, übersteigt
+                    all unsere Kräfte. Schon die Lieferung und Wegebesserungen haben die Pferde
+                    schon ganz ruiniert und viele sind schon krepiert; wie das enden wird, weiß ich
+                    nicht, und mein Kopf, alles, was von mit verlangt wird, ist zu schwach, nicht
+                    einmal es zu berechnen, viel weniger, es dahin zu bringen, dass es ausgeführt
+                    wird. Die Fourage müssen wir bis aus <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> für sämtliche Compagnien alle 3 Tage holen, und der
+                    Weg ist gar nicht mehr zu passieren. Bis Weihnachten gebe ich dem Bauern Zeit,
+                    dann hat er kein Brot, auch keine Pferde und Futter mehr. Wären doch lieber die
+                    Russen gekommen, die hätten uns doch wenigstens einen schleunigen Tod sterben
+                    lasen, aber jetzt zwingt man uns an einen langsamen selbst Hand anzulegen. Hier
+                    in <placeName key="ed_pxt_cnh_1y">Gr. Steinort</placeName> habe ich 1/2
+                    Compagnie nebst dem Major von <persName key="ed_enm_cq4_vcb">Wussow</persName>
+                    und 2 Lieutenants, auch 28 Pferde. Meine besten Ställe auf sämtlichen Vorwerken
+                    sind mit königlichen Pferden besetzt und mein Vieh und Pferde weiß ich nirgends
+                    zu lassen. Das bisschen Futter muss ich teils liefern, teils wird es mir
+                    gestohlen. Der Wald wird ruiniert und die Zäune verbrannt, denn der Bauer kann
+                    mit seinen Pferden nicht mehr Holz anfahren. Kurz, den Gütern wird eine Wunde
+                    geschlagen, die vielleicht in 10 Jahren nicht geheilt werden kann. Vielleicht
+                    können Ew. Hochgeboren zur Verminderung dieses grausamen Übels was beitragen,
+                    oder geben Hochdieselben mir wenigstens einen guten Rat, denn sonsten habe ich
+                    ja keinen, der mir solchen erteilt. Das Wirrwarr ist zu groß, um das Detail
+                    denenselben genau zu beschreiben, es soll aber bei der ersten Gelegenheit
+                    geschehen. <gap reason="insignificant"/>
+            </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

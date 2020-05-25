@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_yc3_n3d_sdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. 1. bis 16.
+                    Dezember 1767</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_yc3_n3d_sdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 2, Gotha 1913, S. 91 ff.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <date from="1767-12-01" to="1767-12-16" cert="high"/>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <p>
+            <hi rendition="#u">Dezember</hi>. Ich verabrede mit Herrn <persName key="ed_nzm_jv3_tdb">Stosch</persName> und dem Kapitän <persName key="ed_xnl_flf_blb">Schwerin</persName> eine Reise nach <placeName key="ed_rqx_tnz_2y">Hamburg</placeName>. Wir brechen am 1. um 1 Uhr nachts auf
+                    <gap reason="insignificant"/> und kommen um 2 Uhr nachmittags in Escheburg an.
+                Wir hofften, an diesem Tag noch nach Hamburg zu gelangen, hören hier aber, dass die
+                Tore schon um 4 Uhr geschlossen werden. Wir müssen uns also gedulden und den
+                Nachmittag hier zubringen, was uns umso mehr ärgert, als wir erfahren, dass wegen
+                der Adventsszeit nur zweimal in der Woche Theater ist, denn wir hatten darauf
+                gerechnet, es möglichst oft besuchen zu können. Nachdem wir unseren Ärger durch
+                saftige Flüche über die alten Bräuche der Hamburger Luft gemacht, verbringen wir den
+                Abend noch recht heiter in Gesellschaft unseres Postmeisters, der ein Original ist,
+                wie man ein zweites nicht leicht findet. </p>
+                <p>
+            <hi rendition="#u">4. Dezember</hi>. Um 10 Uhr kommen wir in <placeName key="ed_rqx_tnz_2y">Hamburg</placeName> an und logieren in dem Londoner Gasthof.
+                Wir begeben uns sofort in das <seg type="comment">
+               <orig>Patriotische
+                        Kaffeehaus,</orig>
+               <note xml:id="nkjd_5lp_v2b">Gemeint ist das <ref target="https://www.patriotische-gesellschaft.de/de/unser-haus/das-haus-der-patriotischen-gesellschaft/hausgeschichte.html">Haus der 1765 gegründeten Patriotischen Gesellschaft</ref> in der
+                        Großen Johannisstraße. Es fiel dem Großen Hamburger Stadtbrand zum Opfer und
+                        wurde an der Trostbrücke neu errichtet. </note>
+            </seg> wo alle Kaufleute
+                zusammenkommen, bevor sie zur Börse gehen. Dieses Schauspiel ist für mich noch neu
+                und interessiert mich daher sehr, ebenso auch die Börse, wo man alle diese großen
+                Kaufherren mit bewundernswertem Eifer sich um ihre Interessen wehren sieht. Alle
+                Religionen und Staaten sind hier zusammengewürfelt und die Gewinnsucht ist das
+                einzige Motiv, das die zwei bis dreitausend Menschen beherrscht, die hier beisammen
+                sind. Wir sehen auch den Magistrat in seiner vorweltlichen Tracht. <note type="editorial">Am Nachmittag macht Lehndorff Besuche und geht in Lustspiel und
+                    Operette, am Abend speist man beim preußischen Residenten, einem <quote>wenig
+                        angenehmen Herrn</quote>, ebenso auch beim französischen, englischen und
+                    russischen Gesandten. Lehndorff macht zahlreiche Bekanntschaften. In <placeName key="ed_urn_ktp_tdb">Altona</placeName> besucht er den dänischen
+                    Ministerpräsidenten, der lange in <placeName key="ed_fsn_mtp_tdb">Konstantinopel</placeName> gelebt hat. Eingeladen wird er auch vom Bankier
+                        <persName key="ed_krv_ntp_tdb">Boué</persName>. </note> Kurz, es gefällt mir
+                in Hamburg außerordentlich. Wir besichtigen die große Kauffahrteiflotte und gehen
+                alle Tage auf die Börse. Beim Kaufherrn <persName key="ed_fm5_qtp_tdb">His</persName> sehe ich eine sehr schöne Wohnungseinrichtung, die selbst in
+                einem Königspalast Bewunderung erregen würde. Ich diniere bei einem englischen
+                Kaufmann namens <persName key="ed_f4f_5tp_tdb">Jennings</persName>, dessen reizende
+                Frau eben aus Schottland angekommen ist. Man bewirtet uns ausgezeichnet und mit so
+                echt englischem Schick, dass wir uns danach einen richtigen Begriff von einem
+                wohlhabenden englischen Hause machen können, Ich besuche mehrere Konzerte und finde
+                überhaupt, dass in Hamburg ein reges Leben herrscht, und dass es auf dem Wege ist,
+                eine feine Stadt zu werden. Am 11. treten wir die Rückreise an und treffen am 13.
+                wieder in <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName> ein. <gap reason="insignificant"/>
+                <note type="editorial">Am 16. Dezember kehrt Lehndorff nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> zurück, wo er Genaueres über die
+                    Umwälzungen in <placeName key="ed_vwz_xtp_tdb">Dänemark</placeName> erfährt, von
+                    denen bereits in Hamburg die Rede war. </note>
+         </p>
+            
+        </body>
+    </text>
+</TEI>

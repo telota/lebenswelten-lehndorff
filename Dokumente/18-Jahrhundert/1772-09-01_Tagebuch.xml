@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_wz3_dws_xdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, Ende
+                    August/Mitte September 1772</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_wz3_dws_xdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">
+                    <p>Am 1. Oktober reist Lehndorff für vier Wochen nach <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName> und führt dort ein
+                            <quote>köstliches Leben</quote> mit viel Geselligkeit und Unterhaltung
+                        über Musik, Lektüre und Malerei. Am 1. November kehrt er nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> zurück, vgl. ebd., S. 262 f.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 2, Gotha 1913, S. 258-261</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date from="1772-08-30" to="1772-09-15" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <note type="editorial">Die ganze Ritterschaft versammelt sich in <placeName key="ed_xrv_gwb_by">Berlin</placeName>, um nach <placeName key="ed_o5t_yt4_dz">Sonnenburg</placeName> zu gehen. Auch Lehndorffs
+                        Schwiegereltern treffen ein. Am 29. August reisen alle nach Sonnenburg ab.
+                    </note>
+            </p>
+                <p>
+               <hi rendition="#u">September</hi>. Am 1. ist Ritterschlag. Es sind entsetzlich
+                    viele Menschen da. Man erwartet vor allem den Prinzen von <persName key="ed_nn4_bys_xdb">Darmstadt</persName>, der noch nicht da ist, wie die
+                    Feierlichkeit schon begonnen hat. Endlich, wie alles schon beinahe fertig ist,
+                    tritt er in die Kirche ein und bekommt noch den Ritterschlag. Sein Vater, der
+                    ihn hatte begleiten wollen, kommt erst am folgenden Tage an, wo wir alle schon
+                    im Begriff sind abzureisen. Ich komme recht vergnügt nach Berlin und speise beim
+                    Bankier <persName key="ed_dwn_kys_xdb">Schütze</persName>.</p>
+                <p>
+               <gap reason="insignificant"/>
+            </p>
+                <p>Endlich vollzieht sich die viel besprochene Tatsache, womit sich ganz Europa so
+                    lange beschäftigt hat. <seg type="comment">
+                  <orig>Wir haben Polnisch-Preußen und
+                            einen Teil von <placeName key="ed_f5m_fxv_mbb">Polen</placeName> in
+                            Besitz genommen, und dazu ohne dass auch nur ein Menschenleben dabei
+                            geopfert werden musste.</orig>
+                  <note xml:id="nbtb_yzp_v2b">
+                     <ref target="https://de.wikipedia.org/wiki/Teilungen_Polens">Teilung
+                                Polens 1772</ref>
+                  </note>
+               </seg> General <persName key="ed_gmr_4zs_xdb">Stutterheim</persName>, Staatsminister <persName key="ed_jy4_btq_rdb">Rohd</persName> und Präsident <persName key="ed_thl_lrp_tdb">Domhardt</persName> waren vom <persName key="ed_x2r_52f_cy">König</persName> mit diesem angenehmen Auftrag betraut
+                    worden.</p>
+                <p>
+               <gap reason="insignificant"/>
+            </p>
+                <p>Unsere Besitzergreifung von Polnisch-Preußen ist bereits vollzogen, aber in dem
+                    Augenblick, wo der Friede mit der Türkei gesichert schien, wurde der Kongress
+                    aufgelöst, wie man glaubt infolge einer Intrige Frankreichs, das die Revolution
+                    in Schweden zum Vorwand nahm, <seg type="comment">
+                  <orig>um die ottomanische
+                            Pforte um Fortsetzung des Krieges zu überreden.</orig>
+                  <note xml:id="nx3n_ntv_xdb">
+                     <ref target="https://de.wikipedia.org/wiki/Russisch-T%C3%BCrkischer_Krieg_(1768%E2%80%931774)">Der Frieden wurde 1774 geschlossen</ref> und beschäftigte
+                            Lehndorff: <quote>
+                        <placeName key="ed_iky_35l_cz">Russland</placeName>
+                                hat den Frieden diktiert und es ist nicht bescheiden gewesen, es hat
+                                sich alle möglichen Vorteile gesichert. Diese <persName key="ed_ez1_1zl_cz">Fürstin</persName> wird jeden Tag größer und
+                                bewundernswerter. Unser <persName key="ed_x2r_52f_cy">König</persName> verdient bei diesem Geschäft 500.000 Taler,
+                                die er jährlich als Subsidiengelder bezahlt hat. Am meisten werden
+                                sicherlich die Künste dabei gewinnen, denn da die <persName key="ed_ez1_1zl_cz">Kaiserin</persName> nun diesen Krieg vom
+                                Hals hat, wird sie sich ganz den Künsten widmen.</quote> Ebd., S.
+                            307.</note>
+               </seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

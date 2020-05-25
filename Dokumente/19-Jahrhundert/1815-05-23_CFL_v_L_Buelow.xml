@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_kqb_psm_xz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title>Carl Ludwig Graf von Lehndorff an Hans Graf von Bülow. Berlin, 23. Mai 1815</title>
+               
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_kqb_psm_xz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 151, I A Nr. 6395, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1815-05-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rlb_wx1_1bb">Bülow, Hans Graf von (1774-1825)</persName>
+                </correspAction>
+                <note>Für die 264 Scheffel Weizen zur Verpflegung französischer Truppen 1812 wurde
+                    vom <orgName key="ed_ykj_15y_fjb">Finanzministerium</orgName> die
+                    Staatsschuldentilgungskasse am 29. Mai 1815 zur Teil-Zahlung von 180 Rtlr.
+                    angewiesen. Die Realisierung des Staatsschuldscheins über 1.000 Rtlr. wurde nur
+                    mit 700 Rtlr. erfüllt, da alle Fonds durch Militärzahlungen ausgeschöpft waren.
+                    Am 28. Oktober 1817 bat Lehndorff um die Restzahlung für die Weizenlieferung, am
+                    8. November 1817 wurden ihm 50 Rtlr. in Staatsschuldscheinen zum Nennwert von 14
+                    M 81 Pf. 18 Gr. angeboten. Am 10. Dezember 1817 akzeptierte er das Angebot. Alle
+                    Dokumente in der Akte. - Zur wirtschaftlichen Lage <placeName key="ed_pxt_cnh_1y">Steinorts</placeName> vgl. Schultze, Lebensbild, S. 577.
+                    Dieser erwähnt auch eine Vermögensteuerzahlung in Höhe von 2.000 Talern, die
+                    1815 zu leisten war. Darüber schrieb Lehndorff am 8. Mai 1815: <quote>Auch ich
+                        lebe in der Hoffnung besserer Zeiten, wo <placeName key="ed_pxt_cnh_1y">Steinort</placeName> wieder den alten Ertrag oder doch den ihm nahe
+                        kommenden abwerfen kann; denn Gesetze und Abgaben haben den wirklichen
+                        Status quo der guten Vorzeit unmöglich gemacht. Für den Augenblick bin ich
+                        entschieden der Bedrängteste, da ich der allein zahlende bin, welches
+                        doppelt bitter ist, da ich der avantagierteste sein sollte</quote>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 23. Mai 1815</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>Euer Exzellenz erlaube ich mir vertrauensvoll eine Bitte vorzutragen, deren
+                    Gewährung mir in dem Augenblicke, wo ich mein Vaterland verlasse, um in einem
+                    neu beginnenden entfernten Kriege demselben meine Pflichten zu zollen, wichtig
+                    und sehr erfreulich sein würde; es ist die Auszahlung einer alten Forderung für
+                    ein im Jahr 1812 durch die Staatsbehörde zu <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> in Beschlag genommenes Quantum Weizen, worüber ich
+                    zur näheren Erläuterung das Attestat, so wie es allen denen, welche in dieser
+                    Hinsicht noch Forderungen haben, ausgefertigt worden ist, hier gehorsamst
+                    beifüge, und ferner die Auszahlung eines Staatsschuldscheins von 1.000 Rtlr.,
+                    den ich in Händen habe. </p>
+            <p>Ich würde Euer Exzellenz mit diesem Anliegen nicht behelligen, wenn nicht die Verpflichtung, vor
+                    einer so unbestimmten und ungewissen Entsendung meine Angelegenheiten zu
+                    regulieren und viele Zahlungen zu leisten, welche mein Standpunkt als
+                    Gutsbesitzer nach so vielen unglücksreichen Jahren, welche auch diese Klasse der
+                    Staatsbürger vorzüglich in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> am
+                    nachteiligsten influiert haben, herbeiführt, es mir notwendig machte, mir jede
+                    Hilfe zu benutzen. <gap reason="insignificant"/>
+                </p>
+            <p>
+               <note type="editorial">Er hoffe, </note>dass Exzellenz die Auszahlung seiner Forderungen
+                    veranlassen werden, welches für die Staatskasse doch nur ein sehr geringer, für
+                    meine Verhältnisse aber und unter den obwaltenden Umständen ein sehr bedeutender
+                    Gegenstand ist. Sollte jedoch die gänzliche Auszahlung völlig unstatthaft sein,
+                    so erwarte ich mit Zuversicht <gap reason="insignificant"/> die größtmöglichste
+                    Zahlung auf Abschlag dieses Staatspapiers. </p>
+				        <closer>
+				           <salute>Genehmigen Exzellenz den Ausdruck der vollkommensten Hochachtung <lb/>Exzellenz ganz
+                        gehorsamster treuer Diener</salute>
+					          <signed>Graf Lehndorff <lb/>Oberst der Kavallerie</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

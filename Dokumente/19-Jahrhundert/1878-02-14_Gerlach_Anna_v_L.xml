@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_lqw_ws4_jdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D. Gerlach an Anna Gräfin von Lehndorff. Garz bei Wildberg, 14. Februar 1878</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_lqw_ws4_jdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 521, Bl. 43-44</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_snz_4xw_f2b">Gerlach, D. (-)</persName>
+                    <placeName key="ed_spf_qxw_f2b">Garz b. Wildberg</placeName>
+                    <date when="1878-02-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Weitere undatierte Briefe in der Akte, in denen es um einen früheren Besuch in
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> bzw. (nach dem Tod des
+                    Grafen) um fehlende Nachrichten von der Familie geht. Er habe von <persName key="ed_wms_mh2_cy">Gräfin Anna</persName> manchmal in <placeName key="ed_xrv_gwb_by">Berlin</placeName> gehört, sonst sei er <quote>ohne
+                        Nachricht von den Ereignissen in Ihrem hohen Familienkreise, da ich eine
+                        politische Zeitung nicht halte, da mir zum Lesen die Zeit fehlt, und ich
+                        mich deshalb mit einer täglich hier erscheinenden Zeitung begnüge.</quote>
+                    Er fragt, ob Graf <quote>'<persName key="ed_ik3_ckz_2y">Carolo</persName>'
+                        Schlossherr von Steinort</quote> sei. Seine Frau trage das <quote>Steinorter
+                        Medaillon</quote> noch immer an ihrer Uhr. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/521/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Garz bei Wildberg, 14. Februar 1878</dateline>
+					          <salute>Gnädigste Frau Gräfin!</salute>
+                </opener>
+                <p>Mit der größten Freude habe ich aus Ihrem heut eingehenden Brief ersehen, dass
+                    Sie mir nach so vielen Jahren noch ein so freundliches Andenken bewahrt haben;
+                    mit welch innigster Dankbarkeit ich an die <placeName key="ed_pxt_cnh_1y">Steinorter</placeName> Tage und an die ganze Zeit zurückdenke, da ich durch
+                    Sie vielfache Anregung und Förderung empfing, und des <persName key="ed_zkm_whl_2y">Herrn Grafen</persName> Güte mir so vielfache Freude
+                    verschaffte, brauche ich wohl kaum versichern! <persName key="ed_vhr_wjh_cy">Komtess Anna</persName> war eine Schülerin, wie ich sie mir oft wieder
+                    gewünscht hätte, und ich hoffe, sie hat auch mir etwas von der alten Zuneigung
+                    bewahrt, die ich für sie stets bewahren werde. Wie glücklich es mich also macht,
+                    Ihnen, gnädigste Gräfin, heut schreiben zu dürfen, werden Sie mir deshalb gewiss
+                    glauben; wenn es mir nur möglich wäre, in irgendeiner Weise Ihnen in Beziehung
+                    auf das kunstvolle Werk zu dienen! Bekannt sind mir von kleinen Bildergalerien,
+                    aus denen sich brauchbare Motive entnehmen ließen, nur zwei: 1. etwa 250 Bilder
+                    (historische und biblische Bilder) von großer Innigkeit und Feinheit im Detail à
+                    10 D.; <seg type="comment">
+                  <orig>Verlag von Benziger in Einsiedeln</orig>
+                  <note xml:id="nv12_ycm_zhb">
+                     <ref target="https://de.wikipedia.org/wiki/Benziger">https://de.wikipedia.org/wiki/Benziger</ref>
+                  </note>
+               </seg>, vorrätig
+                    auch in der (kath.) Buchhandlung von <persName key="ed_t1b_5yw_f2b">Schoppmeyer</persName>, Berlin, hinter der Hedwigskirche. Ich erlaube mir
+                    beizulegen, was ich von diesen Bildern noch besitze; andere ansprechende Bilder
+                    dieser Art habe ich vielfach verschenkt. 2) <seg type="comment">
+                  <orig>biblische
+                            Bilder von König und <unclear reason="illegible" cert="low">Thäter</unclear> in München, für die ganze Heilige
+                            Schrift</orig>
+                  <note xml:id="notz_nzw_f2b">Möglicherweise der 1869
+                            gegründete Wilhelm Köhler Theaterverlag in München</note>
+               </seg>. Der
+                    Preis ist mir nicht mehr genau erinnerlich, ich glaube ca. 5 D. pro Stück. Das
+                    einzige Bild, das ich noch vorfinde, lege ich gleichfalls bei, und würden die
+                    Bilder in jeder Kunst- oder Buchhandlung zur Ansicht beschafft werden. Wie weit
+                    diese Sammlungen brauchbares bieten, werden Sie aus den Proben beurteilen
+                    können; heut fällt mir Mehreres nicht ein, doch will ich weiter Umschau halten,
+                    ob ich vielleicht passenderes finde. Ihre gütige Anfrage nach meinem Ergehen
+                    erlaube ich mir dahin zu beantworten, dass ich mich seit 6 Jahren nun hier als
+                    Pfarrer (mit Emeritus) befinde, zu wenig Arbeit bei 450 Seelen und sehr
+                    unangenehme Gemeindeverhältnisse habe, <seg type="comment">
+                  <orig>da mein Herr
+                            Patron mir sehr schroff gegenübertritt. </orig>
+                  <note xml:id="nfm1_g1x_f2b">Garz befand sich seit Beginn des 15. Jahrhunderts
+                            im Besitz der Familie von Quast.</note>
+               </seg> Ich habe deshalb die
+                    Absicht, sobald es sich irgend tun lässt, von hier fortzugehen und mir Arbeit
+                    und Frieden zu suchen. Ich habe mich um <placeName key="ed_mj3_t1x_f2b">Golßen</placeName> (Patron <persName key="ed_wgs_w1x_f2b">Graf
+                        Solms-Baruth</persName>) beworben, leider aber keine Beziehung zu dem Herrn
+                    Grafen, die mich empfehlen könnte. Doch fehlt es auch nicht an Freude im Amt und
+                    Haus; eigene Kinder hat uns der liebe Gott bisher versagt, doch haben wir seit 5
+                    ¼ Jahre eine nun bald 11 Jahre alte Waise aufgenommen, an der wir viel Freude
+                    haben und die uns eine gute Tochter ist. </p>
+				        <closer>
+					          <salute>Meine liebe Frau empfiehlt sich mit mir Ihnen, gnädigste Frau Gräfin, gehorsamst und
+                        bitte ich, dem Herrn Grafen meine herzlichste Empfehlung auszusprechen und
+                        treuen Gruß an Comtes Anna und den jungen Herrn Grafen übermitteln zu
+                        wollen, sowie ferner Ihr gütiges Wohlwollen zu bewahren Ihrem ganz
+                        gehorsamsten</salute>
+					          <signed>D. Gerlach</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

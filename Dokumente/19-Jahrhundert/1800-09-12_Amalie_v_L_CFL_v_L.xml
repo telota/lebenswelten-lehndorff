@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hbb_df1_hy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amalie Caroline Gräfin von Lehndorff an ihren Sohn Carl Friedrich
+                    Ludwig. Steinort, 12. September 1800</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hbb_df1_hy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche  </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 386, Bl. 12-14 </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 74</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (1751-1830)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1800-09-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, 12. September 1800</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>Du hast von mir verlangt, lieber Carl, dass ich Dich wecken soll, sobald ich
+                    merke, dass Du wieder in deine gefährliche Schlafsucht zurückfällst. Da wir nun
+                    seit zwei Posttagen durch andere Deine Ankunft in <placeName key="ed_xrv_gwb_by">Berlin</placeName> und <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>
+                    erfahren, so sehe ich daraus, dass es hohe Zeit ist, Dich zu rütteln und zu
+                    schütteln. Ermanne Dich, ich bitte Dich darum, noch ist es Zeit! Hättest Du
+                    gehört, was noch heute die <persName key="ed_ok2_3xf_hy">Herzogin</persName>
+                    alles gesagt hat über schreibende und nicht schreibende Leute, Du würdest
+                    wahrlich nicht zu der letzten Klasse gehören wollen. Sie hatte aber einen Brief
+                    von ihrer Tochter erhalten (schon den zweiten seitdem sie hier ist), und in dem
+                    Erguss ihrer Freude darüber äußerte sie lebhaft ihre Verachtung für die laue
+                    Freundschaft und Anhänglichkeit derjenigen, für denen Nachricht geben und
+                    erhalten kein Bedürfnis ist, und die da vorgeben, sie könnten herzlich lieben
+                    ohne es zu sagen und ohne Mitteilung zu bedürfen. Auf einmal fiel es ihr ein,
+                    dass Du ein solcher Mann bist. Sie bat mich tausendmal um Verzeihung, diesen
+                    Punkt berührt zu haben. Sie konnte aber und wollte das Gesagte nicht wieder
+                    zurücknehmen. Ich sagte ihr, dass es auch Gottlob auf Dich nicht mehr passend
+                    wäre, indem Du schon seit Deiner Abreise von hier dreimal geschrieben, worüber
+                    sie sich dann herzlich freute und Dir ihre Auffassung zuerkannte. </p>
+            <p>Unsere jetzige Lebensart ist sehr angenehm. Wir frühstücken zusammen um 7 Uhr morgens. Von 8 bis
+                    10 lesen wir die herrlichsten vernünftigsten vortrefflichsten <seg type="comment">
+                  <orig>Predigten von <persName key="ed_ggw_dcq_tcb">Wedack</persName>, einem kürzlich verstorbenen Prediger in
+                                <placeName key="ed_flc_kyf_hy">Leipzig</placeName>, </orig>
+                  <note xml:id="ns2p_lgq_tcb">Vgl. zu diesem Friedrich Carl Gottlob Hirsching's
+                            Historisch-Litterarisches Handbuch berühmter und denkwürdiger Personen,
+                            welche in dem achtzehnten Jahrhundert gelebt haben ..., Bd. 16, 1. Abt.,
+                            Leipzig 1813, S. 39 f. mit einer Übersicht von dessen Werken.</note>
+                    </seg>eine Lektüre, die ich Dir von ganzem Herzen wünsche und empfehle. Noch nie
+                    habe ich solche aufgeklärte und befriedigende Betrachtungen über <rs type="term" key="ed_ayt_qyf_hy">Religion</rs> gehört oder gelesen. Dieser Mann bringt
+                    die Begriffe über diesen Gegenstand recht aufs Reine und kommt jedem Zweifel,
+                    jeder Einwendung entgegen. Viel, sehr viel gäbe ich darum, wenn Du die zwei
+                    Stunden, die wir dieser Lektüre widmen, zugegen sein könntest. Von 10 bis halb 2
+                    tut ein jeder sein Geschäft. <persName key="ed_xnq_1fm_2y">Pauline</persName>
+                    lebt alsdann für ihre <seg type="comment">
+                  <orig>Kinder</orig>
+                  <note xml:id="nsxs_bdq_tcb">Gemeint sind die Söhne August, Louis und der
+                            gerade geborene dritte Sohn Emil; er wurde nur 7 Jahre alt.
+                        </note>
+               </seg>, nachdem der herrliche <persName key="ed_ggw_dcq_tcb">Wedack</persName> sie und einen jeden von uns zu unseren Pflichten gestärkt
+                    hat. Nachmittags wird spazieren gefahren oder gegangen. Das <seg type="comment">
+                  <orig>entre chien et loup</orig>
+                  <note xml:id="nfkg_yyf_hy">Zeit der
+                            Abenddämmerung</note>
+               </seg> wird wieder ganz den Kindern gewidmet und
+                    woran dann die gute <seg type="comment">
+                  <orig>Prinzess Henriette</orig>
+                  <note xml:id="nwpt_4dq_tcb">Wahrscheinlich <ref target="https://st.museum-digital.de/index.php?t=objekt&amp;extern=yes&amp;exWho=17&amp;oges=3584">Henriette Luise von Holstein-Sonderburg-Beck (1783-1803)</ref>. Sie
+                            heiratete 1803 dem Prinzen Ferdinand von
+                        Anhalt-Köthen-Pless.</note>
+               </seg> auch teilnimmt und die Kinder amüsieren
+                    hilft. Denn dies ist die unangenehmste Zeit für die Kinder, weil sie alsdann
+                    schon schläfrig und daher übler Laune sind, bis ihre Suppe und die geliebte
+                    Schlafstunde kommt. Dann kommt für uns wieder eine interessante Epoche, wir
+                    lesen nämlich den übrigen Abend den Journal der <persName key="ed_ok2_3xf_hy">Herzogin</persName>, den sie <seg type="comment">
+                  <orig>während ihrer
+                            Reise</orig>
+                  <note xml:id="nlm2_mbg_hy">Gemeint ist die Herzogin
+                            Friederike von Holstein-Beck, geb. Gräfin von Schlieben. Sie hatte 1799
+                            gemeinsam mit dem <persName key="ed_txh_3w5_sy">Herzog Friedrich Karl
+                                Ludwig</persName> und ihren Töchtern Friederike und Luise Schlesien,
+                            Sachsen und Böhmen bereist.</note>
+               </seg> gemacht, der äußerst belehrend
+                    und angenehm ist. Zur rabouge bleibt gar keine Zeit. Sie wird aber bald wieder
+                    en vogue kommen, denn wir erwarten Sonntag die <seg type="comment">
+                  <orig>Majorin</orig>
+                  <note xml:id="nejj_sgk_kcb">Die verwitwete Gräfin
+                                <persName key="ed_q41_t2q_tcb">Marie Karoline von
+                                Schlieben</persName>, ältere Schwester der Herzogin Friederike und
+                            Witwe von <persName key="ed_hkx_x2q_tcb">Friedrich Wilhelm Ernst Graf
+                                von Schlieben-Birkenfeld</persName>. </note>
+               </seg> und bald darauf
+                        <persName key="ed_pgm_hhk_kcb">Dohna von Lauck</persName>. Dies wird eine
+                    Veränderung in unserer Lebensart machen. Zum Glück endigen wir heute den
+                    Journal, denn es wäre mir höchst unangenehm gewesen, wenn wie diesen den neuen
+                    Gästen hätten opfern müssen. Den <persName key="ed_ggw_dcq_tcb">Wedack</persName> können wir unter allen Umständen fortsetzen, denn wir
+                    lesen ihn zu einer Zeit, wo es für den guten Dohna noch nicht Tag ist. </p>
+            <p>Sonst ist nichts Neues. Der Probst ist gestern hier gewesen um <seg type="comment">
+                  <orig>Pauline
+                            und ihre drei Helden</orig>
+                  <note xml:id="ncsk_wgq_tcb">Siehe die
+                                Erläuterung im vorigen Absatz.</note>
+               </seg> zu sehen. <seg type="comment">
+                  <orig>Wir haben erfahren, dass der <persName key="ed_utb_sz1_t2b">Doktor <persName key="ed_utb_sz1_t2b">Lehndorff</persName>
+                     </persName> schon seit Jahr und Tag bei
+                            seiner Schwester <persName key="ed_cxp_rcg_hy">Fock</persName> in
+                                <placeName key="ed_gcr_vcg_hy">Statzen</placeName> sich aufhält und
+                            immer nach seiner <persName key="ed_q5f_32g_hy">Gräfin
+                                Krockow</persName> seufzt.</orig>
+                  <note xml:id="nytf_dz2_zgb">Vgl.
+                            Sembritzki, Johannes, (Art.) Graf August von Lehndorff in Westpreußen,
+                            in: Mitteilungen des Westpreußischen Geschichtsvereins 11 (1912), S.
+                            4-12.</note>
+               </seg> Dein <persName key="ed_csb_mdf_cy">Vater</persName>
+                    hat an ihn geschrieben, vielleicht, um ihn zu laden. Dies würde mich sehr
+                    amüsieren. Nun lebe wohl, lieber Carl, ich danke Dir für die drei Briefe, die
+                    wir von Dir erhalten, und bitte Dich aus allen Kräften, die Deinigen
+                    anzustrengen und nicht zu ermüden. Die Herzogin grüßt Dich freundlichst wie auch
+                    Prinzess Henriette. Pauline umarmt Dich. Die Kinder küssen Dir die Hände und
+                    sind zwanzigmal am Tage artig und allerliebst und eben so oft unartig und
+                    unausstehlich. Das ist immer die allgemeine Kindergeschichte. </p>
+				        <closer>
+					          <salute>Lebe wohl und schreibe</salute>
+					          <signed>Deine treue Mutter Lehndorff</signed>
+				        </closer>
+            </div>
+            <postscript>
+                <p>Ich verlange keinen Brief für mich insbesondere, sondern nur im allgemeinen.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

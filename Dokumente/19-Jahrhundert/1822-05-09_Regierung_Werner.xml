@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ux2_5k1_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Regierung zu Gumbinnen an Carl Leopold Werner. Gumbinnen, 9. Mai 1822</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ux2_5k1_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 539, Bl. 1</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Die Handakte des Rendanten Werner zum Prozess der Kirchengemeinde
+                            Rosengarten gegen Graf Lehndorff in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 198.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_cyd_wtg_hy">Regierung zu Gumbinnen</orgName>
+                    <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>
+                    <date when="1822-05-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_afr_tvf_2y">Werner, Carl Leopold (-1835)</persName>
+                </correspAction>
+                <note>Siehe in der Akte, Bl. 3-5v, das Verhandlungsprotokoll (in den Aktenfalz
+                    gebunden) der in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> am 28.
+                    Februar 1822 stattgefundenen Verhandlung. Ein weiterer Verhandlungstermin wurde
+                    auf den 19. November 1822 festgesetzt, Bl. 12-12v. - Es kam nur zu einer
+                    Ausbesserung der erheblichsten Schäden der Kirche.</note>
+            </correspDesc>
+            <abstract>
+                <p>
+               <note>
+                        <p>Die <orgName key="ed_cyd_wtg_hy">Regierung zu Gumbinnen</orgName>, Abt.
+                            des Innern, wendet sich an den Generalbevollmächtigten des Patrons der
+                            Kirche in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, Herrn
+                            Rendanten <persName key="ed_afr_tvf_2y">Werner</persName>, Angerburg,
+                            auf dessen <seg type="comment">
+                        <orig>Eingabe vom 2. März wegen des
+                                    Kirchenbaus in Rosengarten</orig>
+                        <note xml:id="npzl_svp_hlb">Bereits am <ref target="lehndorff_kjb_fd5_s3b">26. Januar</ref>
+                                    hatte <persName key="ed_yx5_cbg_nbb">Berent</persName>
+                                    <persName key="ed_k4z_jgl_2y">Lehndorff</persName> mitgeteilt,
+                                    dass die Regierung auf den Kirchenneubau dränge.</note>
+                     </seg>.
+                            Der Patron sei <quote>nach dem Gesetz die Gemeinde mit verbindender
+                                Kraft zu konvozieren nicht befugt</quote>, die <quote>diesfälligen
+                                Maßregeln</quote> haben von der <quote>Aufsichtsbehörde</quote>
+                            auszugehen. Man habe deshalb Landrat von <persName key="ed_vsv_kl1_ycb">Koeller</persName> darüber in Kenntnis gesetzt.</p>
+                    </note>
+            </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/5/539/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

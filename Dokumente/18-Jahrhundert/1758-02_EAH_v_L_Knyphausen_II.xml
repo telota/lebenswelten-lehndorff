@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_r13_b51_fz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an Dodo Freiherr von Knyphausen.
+                    Berlin, nach dem 13. Februar 1758 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_r13_b51_fz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Volz, Gustav Berthold, Aus dem Briefwechsel des
+                            Prinzen von Preußen August Wilhelm mit dem Kammerherrn Graf Ernst
+                            Ahasverus Lehndorff, in: Masovia 9 (1903), S. 130-171, hier S.
+                        166-168</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date notBefore="1758-02-13" cert="high" notAfter="1758-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_kq5_2m2_2z">Inn- und Knyphausen, Dodo Freiherr zu
+                        (-)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, Februar 1758</dateline>
+                </opener>
+                <p>Seit acht oder zehn Tagen sehen wir nur Franzosen hier; sie benehmen sich mit der
+                    möglichsten Bescheidenheit, und ein Österreicher prahlt mehr als Hunderte von
+                    diesen Herren. Trotzdem ich sie der Königin vorgestellt habe, kann ich Ihnen nur
+                    die vier ersten mit Namen nennen, die <seg type="comment">
+                  <orig>Herren <persName key="ed_jj1_pw1_fz">d'Ailly</persName>, <persName key="ed_b2d_qw1_fz">Rougé</persName>, Rouvray und den Vicomte de
+                            Langle</orig>
+                  <note xml:id="nfs2_pwb_pdb">Am 13. Februar nennt Lehndorff
+                            die Brigadegenerale d'Ailly und Rougais, den Brigadier de Rivrai und den
+                            Vivomte de l'Angle. Mit d'Ailly trifft er auch am 15. Februar zusammen
+                            und ist erstaunt über eine Eigenschaft, die er den Franzosen nicht
+                            zugetraut hätte, <quote>nämlich ihr Schwärmen für den alten Adel und
+                                erlauchte Verbindungen</quote>
+                  </note>
+               </seg>. Der Rest figuriert, und
+                    diese Herren führen das Wort. Der Erstgenannte ist der beste Mensch in der Welt,
+                    scheint ein Lebemann zur Zeit <persName key="ed_l2n_dp2_2z">Ludwigs
+                        XIV.</persName> gewesen zu sein, und liebt es trotz seiner 77 Jahre noch,
+                    Fräulein von <persName key="ed_elx_wwg_2z">Forcade</persName> zu sehen, Soupers
+                    zu veranstalten und guten Champagner zu trinken. Der zweite hat die ernste Miene
+                    des Herrn von <persName key="ed_fz3_sw1_fz">Borcke</persName>, der zur Zeit in
+                        <placeName key="ed_ks5_fhg_2z">Torgau</placeName> ist. Ich glaube, er hat
+                    Geist, weil er während der ganzen Zeit, das ich ihn kenne, nicht versucht hat,
+                    welchen zu zeigen. Der Dritte spricht gut, ist heiter und gefällt hier sehr. Der
+                    vierte ist der Liebenswürdigste von allen, ein Verwandter des Herrn von
+                        <persName key="ed_kfz_zw1_fz">Maupertuis</persName>; er besitzt eine
+                    geistreiche Art und ein hübsches Gesicht, das unseren Damen umso rührender
+                    erscheint, weil er einen Arm in der Binde trägt; das erregt Mitleid. Unsere
+                    Gesellschaften sehen augenblicklich ziemlich wie <placeName key="ed_uyx_nvn_my">Pariser</placeName> Spielhäuser aus: Die österreichischen Offiziere halten
+                    die Bank, und die Franzosen setzen. Graf <persName key="ed_c1z_hx1_fz">Gotter</persName> rüstet sich, 12 Diners diesen Herren zu geben, jedes zu
+                    18 Gedecken. Er wird sie regimenterweise einladen, darauf verzichtend, ihre
+                    Namen zu erfahren. Sie sprechen sich sehr verbindlich über uns aus. Einer von
+                    diesen Herren sagte mir gestern Abend: <seg type="comment">
+                        <orig>Es gäbe nur einen König in Europa und das wäre der unsere.</orig>
+                        <note xml:id="nhr4_nx1_fz">Bezieht sich auf die Bewunderung für <persName key="ed_x2r_52f_cy">Friedrich II.</persName> nach der Schlacht bei
+                                <rs type="term" key="ed_t5d_tm4_dz">Roßbach</rs>.</note>
+                    </seg>Ich antwortete ihm lebhaft: Das wüssten wir sehr gut. Darauf sagte er mir:
+                    Es gebe eben soviel Preußen in <placeName key="ed_uyx_nvn_my">Paris</placeName>
+                    wie in <placeName key="ed_xrv_gwb_by">Berlin</placeName>. Gestehen Sie, dass das
+                    alles sehr galant ist! </p>
+            <p>
+               <seg type="comment">
+                  <orig>Aber was es nicht ist, ist der Umstand, dass die Russen in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> uns in den Kirchen für die
+                            dicke <persName key="ed_qph_dqg_vz">Kaiserin</persName>, für die
+                            Missgeburten des <persName key="ed_xw5_tw4_cz">Großfürsten</persName>
+                            beten lassen, als wenn wir ihre Untertanen wären.</orig>
+                  <note xml:id="nbn3_5wc_ffb">Vgl. hierzu GStA PK, XX. HA, Rep. 127, Nrn. 10 ff.
+                            und XX. HA, Rep. 127 Generallandschaft, Nr. 10 ff. zur russischen
+                            Besetzung Ostpreußens.</note>
+               </seg> Man meldet mir: Als man das erste
+                    Mal diese Änderung gemacht hatte, sei das Weinen und Schluchzen dieses armen
+                    Volkes so außerordentlich gewesen, dass der <seg type="comment">
+                        <orig>General <persName key="ed_lkt_jqg_vz">Fermor</persName>
+                  </orig>
+                        <note xml:id="nxcf_vx1_fz">Führer der russischen Armee in Ostpreußen. Siehe
+                            auch die Tagebucheinträge vom 8. bis 12. Januar 1758, Nachträge, ebd. 1,
+                            S. 153.</note>
+                    </seg> selbst gerührt wurde und sagte, er hätte niemals geglaubt, dass man so
+                    sehr um seinen Herrn lieben könne. Ich gestehe, dass mir meine Heimat noch nie
+                    so teuer war wie jetzt; allen Barbaren möchte ich die Augen ausreißen. Sie haben
+                    12 Galatage angesagt, ebenso zu Ehren ihrer Heiligen wie ihrer Prinzen; ich kann
+                    mir ganz die Freude vorstellen, die an diesen Tagen herrschen wird. <gap reason="insignificant"/>
+                    <seg type="comment">
+                  <orig>Fräulein von <persName key="ed_pkd_5wg_2z">Knesebeck</persName> ist unbezahlbar.</orig>
+                  <note xml:id="nofr_wjm_scb">
+                     <note xml:id="nfc2_gy1_fz">Sie war Hofdame der
+                                1757 verstorbenen Königin-Mutter.</note>
+                        </note>
+               </seg>
+                    <seg type="comment">
+                        <orig>Die Reisen nach <placeName key="ed_bqz_1y1_fz">Spandau</placeName>,
+                            nach <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>
+                  </orig>
+                        <note xml:id="nkqx_xx1_fz">Der Hof war im Oktober 1757 nach Spandau
+                            geflüchtet und Ende des Monats nach Magdeburg gegangen.</note>
+                    </seg>, die Vergnügungen in <placeName key="ed_iw5_fxl_2y">Breslau</placeName>,
+                    alle Österreicher, die sie auf der Reise gesehen, die Franzosen, die sie hier
+                    gefunden, und besonders die außerordentliche Güte des <persName key="ed_x2r_52f_cy">Königs</persName>, der <seg type="comment"> dem Hofe
+                    </seg>der hochseligen <persName key="ed_ajb_mly_bz">Königin</persName> die
+                    Pension lässt, verdrehen ihr den Kopf. Sie fügt zu ihrer gewöhnlichen Heiterkeit
+                    eine außerordentliche Lustigkeit hinzu, kurzum sie stellt auf alle Weise eine
+                    glückliche Person dar, sie möchte hundert Zungen haben, um ihr Glück zu singen.
+                        <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

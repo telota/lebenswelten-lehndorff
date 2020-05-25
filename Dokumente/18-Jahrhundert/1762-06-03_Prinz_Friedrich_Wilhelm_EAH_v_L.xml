@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_y4r_1g5_jz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Friedrich Wilhelm von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Bettlern, 3. März 1762</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_y4r_1g5_jz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Die Briefe Friedrich Wilhelms II. an den Kammerherrn
+                            Grafen E. A. H. von Lehndorff, in: Masovia 3 (1897), S. 41-44, hier S.
+                            41 f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_w15_bk5_sy">Preußen, Friedrich Wilhelm II. König von
+                        (1744-1797)</persName>
+                    <placeName key="ed_jh1_1h5_jz">Bettlern</placeName>
+                    <date when="1762-06-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vorbemerkung des Herausgebers der Briefe: <quote>Von Briefen an den
+                        Kammerherrn E. A. H. von Lehndorff liegt im Steinorter Herrenhaus ein großer
+                        Schatz wohlverwahrt. Außer einem großen Bündel Familienbriefe finden sich
+                        hier Schreiben: 1. von Friedrich Wilhelm II., 2. von dessen Vater, dem
+                        Prinzen von Preußen, 3. vom Prinzen Ferdinand von Preußen, 4. vom Prinzen
+                        Heinrich (7 Faszikel, z. T. augenscheinlich von L. noch selbst geheftet,
+                        mehrere von der verstorbenen Gräfin Lehndorff, geb. Gräfin Hahn, mit
+                        Umschlägen und Aufschriften versehen), 5. von anderen Fürstlichkeiten, z. B.
+                        Friedrich dem Großen, dessen Gemahlin Elisabeth Christine, der Prinzessin
+                        Amalie, der Prinzessin Wilhelmine u. a.</quote> - Karl Eduard Schmidt, der
+                    die Abschrift und Übersetzung eines Teils der Briefe Friedrich Wilhelms II.
+                    besorgte, nennt 36 ihm vorliegende Briefe. Die Anzahl der Briefe des Prinzen
+                    Heinrich soll nach Angabe der Gräfin Lehndorff 800 gewesen sein (Schmidt hatte
+                    nach seinen Angaben in Steinort noch 411 vorgefunden), eine Abgabe dieser Briefe
+                    an das Kriegsministerium für die Herausgabe einer Lebensgeschichte des Prinzen
+                    habe der Majoratsherr Carol Graf von <persName key="ed_ik3_ckz_2y">Lehndorff</persName> abgelehnt. - Und das wohl aus gutem Grunde, denn
+                    bereits in den Tagebüchern war die offenbar sehr enge, eifersüchtige Beziehung
+                    des Grafen Lehndorff zu Prinz Heinrich „zensiert‟ worden, erst in den Nachträgen
+                    kamen auch solche Textstellen zum Abdruck, vgl. Schmidt-Lötzen, Nachträge, Bd.
+                    1, passim. Siehe auch: Ziebura, Eva, Prinz Heinrich von Preußen. Biographie,
+                    Berlin 2004. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Hauptquartier Bettlern, 3. Juni 1762</dateline>
+					          <salute>Mein Herr!</salute>
+                </opener>
+                <p>Ich bin entzückt, durch Ihr Schreiben zu erfahren, <seg type="comment">
+                  <orig>dass
+                            Ihre Frau <persName key="ed_v52_qng_vz">Gemahlin</persName> soeben einen
+                            Sohn geschenkt hat.</orig>
+                        <note xml:id="nixk_q35_jz">Lehndorffs erste Gemahlin war eine geborene von
+                            Haeseler. Er hatte sich mit ihr 1759 vermählt. </note>
+               </seg> Ich wünsche
+                    Ihnen Glück und bitte Sie, der Frau Gräfin deswegen meine Komplimente zu machen.
+                    Ich bin gern bereit, dessen Pate zu sein und ihm meinen Namen zu geben, indem
+                    ich mit vieler Hochachtung bin</p>
+				        <closer>
+					          <salute>mein Herr, Ihr Freund und Diener</salute>
+					          <signed>Friedrich Wilhelm</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

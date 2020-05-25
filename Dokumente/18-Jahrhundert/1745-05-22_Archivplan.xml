@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_dh5_xw5_s2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verzeichnis der Akten. Steinort, 22. Mai 1745</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_dh5_xw5_s2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="editorial">
+                    <p>Teil der gebundenen Akte <ref target="lehndorff_dc5_z5h_v2b">
+                     <quote>Consignation der im eysernen Kasten befindlichen Schriften,
+                                die Anno 1793 den 2. July revidieret</quote>
+                  </ref>. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort (unverzeichnet)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Gebundene Akte</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1745-05-22" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <seg type="comment">
+                  <orig>Consignation derer Schriften, welche von mir Ende
+                            Benannten in <orgName key="ed_e3t_l2n_4y">Steinort</orgName>
+                            zurückgelassen worden</orig>
+                  <note xml:id="nox3_t5h_v2b">Nach der
+                            Aufschrift befanden sich diese in einem <quote>kleinen eichenen Schaff
+                                im Saal</quote>.</note>
+               </seg>
+            </p>
+                <list type="ordered">
+                    <item>1) alte Patente, Edikte etc. von 1716 bis Mai 1745</item>
+                    <item>2) Amtsschreiben von 1736 bis Mai 1745</item>
+                    <item>3) <orgName key="ed_ltz_hdr_gbb">Prozesssachen</orgName>, und zwar<list>
+                            <item>No. 1. Sachen, welche der Herr Tribunalsrat v. <persName key="ed_drn_pbj_f3b">Grabowski</persName> an <placeName key="ed_pxt_cnh_1y">Steinort</placeName> abgegeben</item>
+                            <item>No. 2. Acta den strittigen Fischzug betreffend contra H.
+                                Oberamtmann <persName key="ed_a2w_mzw_clb">Mey</persName>
+                     </item>
+                            <item>
+                        <ref target="lehndorff_z43_j5x_d1b">No. 3. Acta wegen des vor
+                                    Bartholomäi in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> geschossenen Elends</ref>
+                     </item>
+                            <item>
+                        <ref target="lehndorff_afl_y3q_pdb">No. 4. Sachen, welche zu dem
+                                    von Dönhoffschen Prozess gehören</ref>
+                     </item>
+                            <item>No. 5. Acta in Sachen Ihro Hochreichsgräflichen Gnaden der Frau
+                                Gräfin contra Herrn Rittmeister <persName key="ed_esh_m1x_clb">Joh.
+                                    Wilhelm v. Podewils</persName> auf <placeName key="ed_emj_l1x_clb">Penken</placeName>
+                     </item>
+                            <item>
+                        <ref target="lehndorff_dks_fcc_f3b">No. 6. Acta in Sachen Ihro
+                                    Hochreichsgräflichen Gnaden der Frau Gräfin contra sel. Hr.
+                                    Obrist-Lieut. <persName key="ed_u34_lf3_tdb">Ernst Ludwig von
+                                        Rautter</persName> auf <placeName key="ed_fv2_b1x_clb">Willkamm</placeName> Kinder Herrn Vormünder</ref>
+                     </item>
+                            <item>No. 7. Acta in der <persName key="ed_btd_2cx_clb">Lorentz
+                                    Willemschen</persName> Sache</item>
+                            <item>No. 8 Wilemsche Liquidationssachen</item>
+                            <item>No. 9 Acta die Huben des <persName key="ed_bg3_jcx_clb">Paul
+                                    Dolenga</persName> in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> betreffend </item>
+                            <item>
+                        <ref target="lehndorff_kbx_ptc_f3b">No. 10 Protokollum wegen der
+                                    alten <gap reason="illegible"/>
+                                    <persName key="ed_vtv_rdj_f3b">Anna
+                                Lissin</persName>
+                        </ref>
+                     </item>
+                            <item>No. 11 Protokollum wegen des verlaufenen Dienstknecht <persName key="ed_zzb_bdx_clb">Barthel Preiß</persName> und Acta
+                                inquisitionalia dieses Preißen und der Magd <persName key="ed_f1x_gdx_clb">Gwiasda</persName>
+                     </item>
+                            <item>No. 12 Acta inquisitionalia <persName key="ed_ux4_rdx_clb">Elisabet Tribelin</persName> in punkto adulterii
+                                simplicis</item>
+                            <item>
+                        <ref target="lehndorff_dks_fcc_f3b">No. 13 Sachen des H. p. v.
+                                        <persName key="ed_u34_lf3_tdb">Rautter</persName>
+                                    gepfändeten Pferdes und Wagen betreffend</ref>
+                     </item>
+                            <item>No. 14 Sachen den gewesenen Amtmann <persName key="ed_yfz_d2x_clb">Nößlin</persName> betreffend</item>
+                            <item>No. 15 Sachen den von <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> entlaufenen Knecht <persName key="ed_byh_g2x_clb">Rabe</persName> betreffend</item>
+                            <item>No. 16 Sachen den verlaufenen <persName key="ed_sxl_m2x_clb">Schönfeldt</persName> betreffend</item>
+                            <item>
+                        <ref target="lehndorff_kbx_ptc_f3b">No. 17 Der alten <persName key="ed_vcn_fdj_f3b">Grabuschin</persName> verlaufene
+                                    Tochter, itzo verehel. <persName key="ed_w3r_ydj_f3b">Jansonin</persName>, in <placeName key="ed_oxb_txl_5y">Memel</placeName> betreffend</ref>
+                     </item>
+                            <item>No. 18 Acta in causa der <persName key="ed_afd_cfx_clb">Masuchin</persName> von <placeName key="ed_xjg_d12_gy">Stobben</placeName> eines von ihr im Schlaf erdrückten
+                                Kindes</item>
+                            <item>No. 19 Acta den in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> inhaftierten Schmied <unclear reason="illegible" cert="low">Kutzing</unclear> betreffend </item>
+                            <item>No. 20 Acta den Spitzbuben-Prozess in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> betreffend</item>
+                            <item>No. 21 Acta in der Sache des in <placeName key="ed_xpm_112_gy">Labab</placeName> gewesenen Arrendators <persName key="ed_td4_tfx_clb">Kurtschen</persName>
+                     </item>
+                            <item>No. 22 Allerhand Schriften von Herrn Dr. <persName key="ed_qyx_zkr_mfb">Rabe</persName> wegen <persName key="ed_tkp_4cg_vdb">Podewilsschen</persName> Geldes und anderer
+                                Sachen</item>
+                            <item>No. 23 Liquidationssachen des in <placeName key="ed_hrb_hc2_gy">Surwillen</placeName> gewesenen Arrendators <persName key="ed_utv_pgx_clb">Wittke</persName>
+                     </item>
+                            <item>No. 24 Liquidationssachen des in der <placeName key="ed_hrb_hc2_gy">Surwillenschen</placeName> Mühle gewesenen
+                                Müllers <persName key="ed_ufx_wcd_d2b">Neumann</persName>
+                     </item>
+                            <item>No. 25 Acta den verlaufenen Krüger <persName key="ed_hq1_rhx_clb">Abraham Chalier</persName> betreffend</item>
+                            <item>No. 26 Journal derjenigen Sachen, welche nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gekommen</item>
+                            <item>No. 27 Journal derjenigen Sachen, welche von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> abgegangen</item>
+                            <item>No. 28 Verschiedene Protokolle</item>
+                            <item>No. 29 Sachen, die <placeName key="ed_jpk_w4f_cy">Rosengartensche</placeName>
+                                <unclear reason="illegible" cert="low">Garten</unclear> Arbeit
+                                betreffend</item>
+                            <item>No. 30 Der Originalkontrakt nebst einer Kopie davon, von denen zum
+                                Amt Barten auf der Labab- und Schildeschen See gehörigen Vorzüge,
+                                nebst deren Quittungen von 1734-1745 </item>
+                            <item>No. 31 Quittungen wegen der drei kölmischen Huben zu <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, 2. des Krügers
+                                daselbst und 3. wegen des Zinses vom Werder bei <placeName key="ed_qr3_qst_ncb">Haarszen</placeName>, und zwar von 1736 bis
+                                1745</item>
+                            <item>No. 32 Quittungen über den an die <placeName key="ed_jpk_w4f_cy">Rosengartensche</placeName> Kirche von <placeName key="ed_pxt_cnh_1y">Groß</placeName> und <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> gezahlten Dezem
+                                von 1736 bis 1745</item>
+                            <item>No. 33 [Quittungen] des wegen des nach <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> aus der Casporschen
+                                Heide anzuweisenden Holzes</item>
+                            <item>No. 34 Sachen den Daniel <persName key="ed_wfj_j3x_clb">Bugnot</persName> von <placeName key="ed_q2v_t3x_clb">Groß
+                                    Strengeln</placeName> betreffend</item>
+                            <item>No. 35 Quittierte Expensen-Consignation des Herrn Hofrat <persName key="ed_rrz_y3x_clb">Hoyer</persName> an der <gap reason="illegible"/>, 2) <placeName key="ed_jpk_w4f_cy">Rosengartenschen</placeName> Kirche und 3) <persName key="ed_btd_2cx_clb">Willemschen</persName> Sache</item>
+                            <item>No. 36 1) 4 Trauscheine 1. des Caspar <persName key="ed_qqw_3dj_f3b">Grabusch</persName>, 2. des Christian
+                                    <persName key="ed_pnr_jqw_mbb">Jerominski</persName>, 3. des
+                                Christian <persName key="ed_upz_2jx_clb">Wilewski</persName>, 4. des
+                                Christian <persName key="ed_g55_ljx_clb">Gwiasda</persName>, 2)
+                                Liste derer aus dem Kantonsbuch ausgestrichenen Leute Steinortscher
+                                Güter, 3) Korrespondenzen mit Herrn Generalltn. v. <persName key="ed_aqv_wch_scb">Buddenbrock</persName>
+                     </item>
+                            <item>No. 37 Avisen und Intelligenz-Quittungen, wie auch Korrespondenz
+                                mit H. p. <persName key="ed_mhv_tjx_clb">Gelhaar</persName>
+                     </item>
+                            <item>No. 38 12 Obligation 1. des <persName key="ed_qrt_yjx_clb">Seelmachers</persName> 500 Rt., 2. des Christoff <persName key="ed_o31_ckx_clb">Stobbe</persName> 100 Rt., 3. der <persName key="ed_ehb_jkx_clb">Bahlin</persName> 100 Rt., 4. des <persName key="ed_c1d_4kx_clb">Borkowski</persName> 100 Rt., 5. des Johann
+                                    <persName key="ed_abd_rkx_clb">Schultze</persName> 100 Rt., 6.
+                                des Postillons <persName key="ed_irh_ykx_clb">Deurkauf</persName>
+                                100 Rt., 7. des seel. Bürgermstr. <persName key="ed_ogv_blx_clb">Anderson</persName> 600 Rt., 8. des Johann <persName key="ed_mzs_3lx_clb">Wietke</persName>, 192 Rt. 20 Gr., 9. des
+                                Daniel <persName key="ed_wfj_j3x_clb">Bugnot</persName> 116 Rt., 10.
+                                des <persName key="ed_ddb_mlx_clb">Bahren</persName> 100 Rt., 11.
+                                des <persName key="ed_f4p_nlx_clb">Hennings</persName> 100 Rt., 12.
+                                des Paul <persName key="ed_bg3_jcx_clb">Dolenga</persName> 451 Rt.
+                                14 Gr. 9 D., dann 13. eine Amtsquittung de d. Angerburg den 26. März
+                                1745, dass das denen Dolengaschen Unmündigen zukommende Kapital von
+                                27 Rtlr. 70 Gr. im <unclear reason="illegible" cert="low">Culmschen</unclear> Amte deponiert worden </item>
+                            <item>No. 39 Dezems-Quittungen von <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, <placeName key="ed_hrb_hc2_gy">Surwillen</placeName>, <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> und <placeName key="ed_nkz_b12_gy">Stawken</placeName>, imgl. des Königs Decisum wegen des von
+                                denen Pristanienschen und Stawkenschen Gütern an die <placeName key="ed_epz_y2c_gy">Engelsteinsche</placeName> Kirche zu
+                                zahlenden Dezem</item>
+                            <item>No. 40. Kontributions-Sachen, dann <ref target="lehndorff_a43_4jn_j3b">Quitbücher, 1. von <placeName key="ed_pxt_cnh_1y">Groß
+                                    Steinort</placeName>
+                        </ref>
+                        <placeName key="ed_pxt_cnh_1y">,</placeName> 2. von <placeName key="ed_hyn_yzd_gy">Klein
+                                    Steinort</placeName>, 3. von <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> Kontribut.., 4. dito Fourage und
+                                Service, 5. Ritterdienst und Allodzins von <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, 6. dito. von
+                                    <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, 7. dito.
+                                von <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                                <lb/>No. 41 Sommer- und Winteraussaat in <placeName key="ed_pxt_cnh_1y">Groß</placeName> und <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> von Anno 1738,
+                                39, 40, 41, 42, 43, 44, imgl. im Durchschnitt von 3 Jahren die
+                                Aussaat zum Ertrag berechnet</item>
+                            <item>No. 42 15 Stück Steinortsche Getreiderechnungen über Einnahme und
+                                Ausgabe von 1736 bis Mai 1745</item>
+                            <item>No. 43 Berechnungen von der Steinortschen, Lababschen und
+                                Pristanienschen Winterfischerei von 1739, 40, 41, 42, 43, 44</item>
+                            <item>No. 44 Unterschiedene Abrechnungen mit denen Einwohnern
+                                Steinortschen Gebiets</item>
+                            <item>No. 45 Rechnung des Herrn Kriegsrats <persName key="ed_qpl_51c_hkb">Adler</persName>
+                     </item>
+                            <item>No. 46 Stempelpapier 1 Lage a 12 Gr. 5 Lagen a 4 Fl.</item>
+                            <item>No. 47 einige alte Rest-Beläge</item>
+                            <item>No. 48 alte abgenommene Kontrakte, Lohn- und Deputat-Zettel</item>
+                            <item>No. 49 einige Steinort betreffende, aber bereits entschiedene
+                                Sachen</item>
+                            <item>No. 50 abgenommene Arrende-Quittungen</item>
+                            <item>No. 51 noch fernere abgenommene Arrende-Quittungen</item>
+                            <item>No. 52 alte Schulmeister-Kontrakte</item>
+                        </list>
+               </item>
+                    <item>dann </item>
+                </list>
+                <p/>
+                <p>1 Schublade mit Steinortschen Sachen</p>
+                <p>1 Schublade mit Rosengartenschen Kirchensachen</p>
+                <p>1 Schublade Lababsche Arrendesachen</p>
+                <p>1 Schublade Surwillsche Arrendesachen</p>
+                <p>1 Schublade Taberlacksche Arrendesachen</p>
+                <p>1 Schublade Pristaniensche und Statzensche Arrendesachen</p>
+                <p>1 Schublade Stawischken dito</p>
+                <p> </p>
+                <p>Steinort den 22. Mai 1745</p>
+                <p>J. C. <persName key="ed_uh3_vc3_t2b">Nagel</persName>
+            </p>
+                <p>
+               <note type="editorial">Die Nummern <lb/>
+               </note>54: Ausgabe des Getreides in Groß
+                    Steinort  <lb/>55: Inventaria von Vorwerken <lb/>56: Einige Quittungen,
+                    insbesondere über Vorschuss <lb/>57: Acta wegen Dieberei, so geschehen d. 17.
+                    Juli 1745 <lb/>58 Fischerei Sachen <note type="editorial">wurden später darunter
+                        nachgetragen.</note>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

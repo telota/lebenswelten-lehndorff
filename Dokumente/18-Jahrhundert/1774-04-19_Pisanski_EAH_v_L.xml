@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_thx_lpx_rz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jacob Ludwig Pisanski an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 19. April 1774</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_thx_lpx_rz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 374, Bl. 140-141v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_uhx_5jq_tcb">Pisanski, Jacob Ludwig (1733-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1774-04-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Frühere Brieffragmente in der Akte, spätere Briefe ebd., Nr. 379 (1784).
+                    Lehndorff empfahl den <quote>vortrefflichen Erzpriester Pisanski als
+                        Konsistorialrat</quote> in einem Brief an Minister <persName key="ed_t3q_3vp_tdb">Thulemeyer</persName>, vgl. Ziebura, Tagebuch, S. 39
+                    (18. Februar 1799). Am 23. April 1799 (S. 131 und 305) bezeichnete er ihn als
+                    seinen Freund und schrieb: <quote>Mein guter Pisanski besucht mich. Er ist der
+                        zuverlässigste, moralischste und würdigste Kirchenfürst, den ich jemals
+                        gekannt habe. Ich sehe ihn mit großer Freude. Er hat viele Kenntnisse und
+                        Empfindungen.</quote> Ein Nachruf in: <ref target="https://books.google.de/books?id=lyFRAAAAYAAJ&amp;pg=PA919&amp;lpg=PA919&amp;dq=Jacob+Ludwig+Pisanski+Konsistorialrat&amp;source=bl&amp;ots=qZ_HGlifJ5&amp;sig=ACfU3U1y1hrQYed12QVZQO4C8tYtSyQ4HA&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjDlOeArdzgAhVN_qQKHTmIBusQ6AEwAXoECAkQAQ#v=onepage&amp;q=Jacob%20Ludwig%20Pisanski%20Konsistorialrat&amp;f=false">Allgemeine Literatur-Zeitung, Nummer 353, 21. Dezember 1810.</ref>
+            </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 19. April 1774</dateline>
+					          <salute>Hochgeborener und Hochwürdigster Herr, <lb/>Höchstgebietender Herr Reichsgraf und
+                        wirklicher Königlicher Kammerherr, <lb/>Gnädigster Graf und Herr. </salute>
+                </opener>
+				        <p>Mit eben der Rührung und Empfindung der Seele, mit der mir die Ehre gegeben, Euer Hochgeboren
+                    zu der Geburt des <seg type="comment">
+                  <orig>neugeborenen Herrn
+                            Grafen</orig>
+                  <note xml:id="nav2_vwv_mbb">Wilhelm, er verstarb kurz nach
+                            der Geburt im März 1774.</note>
+               </seg> im wahren Vergnügen Glück zu
+                    wünschen, vernehme ich jetzt die betrübte Nachricht von Hochdesselben frühen
+                    Übergangs aus der Zeit zu einer hohen Ewigkeit. </p>
+            <p>
+               <note type="editorial">Ebenso habe er Nachrichten von der Erkrankung der Mutter des Grafen,
+                        die</note> Höchstderselbe ohne allen Zweifel von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> werde erhalten haben, und bei denen
+                    ich selbst nicht ganz ruhig bin. <note type="editorial">Sie sei so schwach, dass
+                        sie der </note>Physicus D. <persName key="ed_izs_psz_g1b">Zuske</persName>
+                    aus <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> keinen Augenblick
+                    verlassen kann und darf. Er habe dieselbe, wie ich höre, recht schon
+                    verschiedene Mal bedauert, dass sie Euer Hochgeboren abreisen lassen, und nicht
+                    den Vorschlag befördert, den ich Demselben so oft zu tun mir die Freiheit
+                    genommen. <note type="editorial">Er werde ihr einen Besuch abstatten, den er der
+                    </note>verehrungswürdigen Dame schuldig <note type="editorial">sei, zumal es der
+                        letzte sein könnte.</note>
+                    <gap reason="insignificant"/>
+            </p>
+				        <closer>
+					          <salute>Euer Erlauchten und Hochwürdigsten Exzellenz untertänigster Knecht</salute>
+					          <signed>Pisanski</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

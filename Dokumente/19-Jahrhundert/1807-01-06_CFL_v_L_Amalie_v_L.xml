@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_b53_21t_lcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Braunsberg,
+                    6. Januar 1807</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_b53_21t_lcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 152-153</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Carl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_pgb_5wy_bcb">Braunsberg</placeName>
+                    <date when="1807-01-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (1751-1830)</persName>
+                </correspAction>
+                <note>Im Februar 1807 geriet Lehndorff in französische Kriegsgefangenschaft, vgl.
+                    hierüber u. a. den Brief an die Mutter vom 14. Februar 1807, ebd., S. 167-171
+                    und GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 678. Finanzielle
+                    Unterstützung erhielt er durch Kammerdirektor <persName key="ed_yvk_y45_vcb">Alexander Graf zu Dohna</persName>, <persName key="ed_ev2_dp5_vcb">Otto
+                        Graf von der Gröben</persName> und den Regierungsrat in Marienwerder,
+                        <persName key="ed_kp3_lp5_vcb">Wilhelm von Grolmann</persName>. Er
+                    beauftragte die Mutter, diese Schulden möglichst bald zu bezahlen. Zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName> bemerkte er (S. 170): <quote>Mein
+                        Bedienter <persName key="ed_vqv_qp5_vcb">Tochtermann</persName> ist au fait
+                        von allen meinen Sachen. Ich wünsche, dass Tochtermann in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> bleibt. Il ne vaut rien en
+                        ville, parce qu'il boit [Er ist in der Stadt nichts wert, weil er trinkt.],
+                        aber behalten möchte ich ihn doch. Ich habe ihn seit 14 Jahren, also, liebe
+                        Mutter, nehmen Sie sich doch seiner an. In Steinort wünsche ich, dass alles
+                        an einem recht sicheren Ort zusammengelegt werde, vorzüglich, dass nichts
+                        von meinen Papieren, an die mein Herz hängt, fortkomme. Johann soll davon ja
+                        nichts berühren, sogar das Rechnungsbuch der Eskadron einem anderen in die
+                        Hände geben, es kann daraus niemand klug werden als ich.</quote>
+            </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Braunsberg, den 6. Januar 1807</dateline>
+					          <salute>Teure, liebe Mutter!</salute>
+                </opener>
+				        <p>Auch meine letzte Hoffnung ist vernichtet, so wie fast jede meines traurigen Daseins es
+                    wurde. Mit dem fürchterlichsten Wetter und Wegen kämpfend, waren wir bis hierher
+                    gekommen, und da es unseren Anstrengungen gelungen, durch die forciertesten
+                    Märsche mit den Franzosen, die erst gestern in <placeName key="ed_mqk_11p_vcb">Wormditt</placeName> eingerückt sind, nun in gleicher Höhe zu sein, war es
+                    beinahe gewiss, dass wir heute <placeName key="ed_xjc_ttl_cz">Brandenburg</placeName>, morgen <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> erreichten und höchstens mit ihrer Avantgarde
+                    engagiert werden konnten, deren wir Meister zu werden wohl mit Sicherheit hoffen
+                    durften. Gestern Abend spät bei unserem Einrücken hier in der Stadt kam uns ein
+                    Kurier des <persName key="ed_tl1_nbf_4y">Königs</persName> oder vielmehr des
+                    Generals <persName key="ed_u23_j5p_tcb">Rüchel</persName> entgegen, der uns den
+                    Befehl brachte, unsere Direktion nach <placeName key="ed_uyl_j3c_gy">Danzig</placeName> über <placeName key="ed_ed2_4r1_my">Elbing</placeName>
+                    zu nehmen, unsere Infanterie in die Festung zu werfen <ref target="lehndorff_s14_bts_lcb">und mit der Kavallerie die Fortschritte der
+                        Polnischen Insurrektion zu stören. - Der widerwärtigste Auftrag in jeder
+                        Hinsicht, der uns werden konnte.</ref> Doch vorher sollen wir dem nach
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> rückenden Feinde eine
+                    Demonstration in die linke Flanke machen, die völlig unnütz nach meiner
+                    Überzeugung ist, und leicht mit der Vernichtung des Regiments enden könnte. In
+                    Königsberg, sagt Gen. Rüchel, könnten wir nichts mehr nützen, und unsere
+                    Vereinigung mit dem <persName key="ed_zwp_jq4_vcb">L'Estocqschen</persName>
+                    Corps sei unmöglich! - So ist unser unglückliches Los! Vom Vaterlande
+                    weggerissen, wo man doch unter Befreundeten gelebt, und wenn es das Schicksal
+                    wollte, unter Landsleuten gefallen wäre. Jetzt beständig, wenn nicht vom Feinde,
+                    mit dem wir kriegen, doch mit dem weit grausameren zügellosen Feinde, dem
+                    Nationalhass und alter Rache erbittert, oft unbewusst umringt! - So fahre denn
+                    wohl, Vaterland und Eltern, und alle meine Lieben und alles, was mir teuer und
+                    wert auf Erden! Bitter wird mir diese Trennung, umso bitterer, da die Hoffnung
+                    des Wiedersehens noch gestern so schön mich beseelte. Weiß Gott, ob sie mir je
+                    wieder leuchten wird! ... <ref target="lehndorff_s14_bts_lcb">Vergessen Sie
+                        nicht, liebe Mutter, die Ihnen in meinem letzten Brief getane Bitte wegen
+                        dem Quartiermeister <persName key="ed_gb2_qz4_vcb">Broscovius</persName> und
+                        dem Gelde, wenn es noch Zeit ist.</ref> Wer weiß, ob ich je wieder mit ihm
+                    zusammen komme und was aus ihm wird.</p>
+                <p>
+               <seg type="comment">
+                  <orig>
+                     <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ist
+                            verloren. Nur durch einen besonderen Schutz der Vorsehung könnte es der
+                            Verwüstung entgehen.</orig>
+                  <note xml:id="nkf4_ldt_lcb">Steinort war
+                            bereits seit November durch den Krieg belastet. Die russische Besatzung
+                            und Einquartierung trotz Bundesgenossenschaft steigerte die Belastung
+                            ins Unermessliche, vgl. hierzu die Berichte Berents aus dem
+                            Januar/Februar 1807, ebd., S. 154 f.</note>
+               </seg> Seit mehreren Tagen
+                    ist das Hauptquartier in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>,
+                    der Feind in <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> und also
+                    unsere Güter der Tummelplatz der beiderseitigen Vorposten, welches tausend mal
+                    schlimmer ist, als der Besitz des wirklichen Feindes. Wäre es doch möglich, dass
+                    Sie jemand hinschicken könnten, der Integrität mit Verstand besitzt und
+                    französisch könnte. Eine gute Bewirtung ist, was den ersten Anlauf des Feindes
+                    vorzüglich besänftigt. Man müsste sich mit Wein versehen, an den der Feind
+                    gewöhnt ist, und nach dem er immer zuerst verlangt. Auch muss man kein Geld,
+                    welches die ersten Ankömmlinge, usurpatorisch und unerlaubt zwar, immer
+                    verlangen, sparen, aber doch haushälterisch damit umgehen. Mann kann ordentlich
+                    mit sie handeln. Da wir seit 6 Wochen fast täglich mit ihren Patrouillen und
+                    Vorposten zu tun haben, kenne ich genau ihre Manieren. Doch muss man ihnen kein
+                        <seg type="comment">
+                  <orig>Düttchen</orig>
+                  <note xml:id="nenj_ddt_lcb">Kleinste Silbermünze in Ostpreußen</note>
+               </seg> geben, die sie
+                    verachten. Gold oder wenigstens grob Courant, 10 Louisdor ist der gewöhnliche
+                    Satz, mit dem sie sich abspeisen lassen. Sonst betragen sich manche vorzüglich,
+                    die Offiziere der regulären Linientruppen oft sehr gut. Man müsste gleich
+                    suchen, eine Sauvegarde zu erhalten. Das rate ich auch für <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. Gott! wäre doch <placeName key="ed_pxt_cnh_1y">Steinort</placeName> nur einigermaßen zu retten. Grüßen
+                    Sie doch wenn Sie können <persName key="ed_yx5_cbg_nbb">Berenten</persName>
+                    herzlich von mir. Wenn Berent nur französisch könnte, würde mir weit weniger
+                    bange sein. <gap reason="insignificant"/>
+            </p>
+				        <closer>
+					          <salute>Die Hoffnung, von Ihnen, teure Mutter, geliebt zu sein, erhält Ihren unglücklichen
+                        Sohn</salute>
+					          <signed>C. Lehndorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

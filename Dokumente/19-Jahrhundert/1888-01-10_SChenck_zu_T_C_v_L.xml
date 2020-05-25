@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_z4s_x4j_h3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Freiherr Schenck von Tautenburg an Carol Graf von Lehndorff. Partsch, 10.
+                    Januar 1888</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_z4s_x4j_h3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_p31_2k5_h2b">Schenck zu Tautenburg, IFreiherr von
+                        (-)</persName>
+                    <placeName key="ed_j3v_gk5_h2b">Partsch</placeName>
+                    <date when="1888-01-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ik3_ckz_2y">Lehndorff, Carl Meinhard (Carol) Graf von
+                        (1860-1936)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Partsch, den 10. Januar 1888</dateline>
+                    <salute>Hochgeehrter Herr Graf!</salute>
+                </opener>
+                <p>Beikommend übersende ich Ihnen einen Bericht an die gnädige Frau <persName key="ed_wms_mh2_cy">
+                  <persName key="ed_wms_mh2_cy">Gräfin</persName>
+               </persName> betreffend die Dislozierung der Rüstung und
+                    des Leichensteins des Herrn Reichsgrafen <persName key="ed_n5y_x5p_vcb">Meinhard
+                        von Lehndorff </persName>nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> mit der ergebenen Bitte, denselben der gnädigen Frau
+                    Gräfin übergeben zu wollen. Ich bemerke hierbei noch, dass das Kirchenkollegium
+                    in <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> im Monat Januar
+                    zusammentreten wird, und dass es die Sache fördern würde, wenn Sie, mein
+                    hochgeehrtester Herr Graf, das Eisen schmieden, so lange es noch warm ist, und
+                    Ihren Antrag baldmöglichst stellen.</p>
+                <p>Ferner überreiche ich Ihnen ein Exemplar der<seg type="comment">
+                  <orig> Geschichte
+                            der Schenck von Tautenburg </orig>
+                  <note xml:id="nytv_3sr_1lb"> Kurze
+                            Übersicht der Geschichte der Schenken von Tautenburg, Rastenburg
+                            1857.</note>
+               </seg> und würde mich ganz geehrt fühlen, wenn Sie derselben
+                    ein Plätzchen in Ihrer Bibliothek gönnen wollten.</p>
+                <note type="editorial">Er wollte seinen Bericht ursprünglich in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> selbst abstatten, aber da die <seg type="comment">
+                  <orig>Grippe</orig>
+                  <note xml:id="ne1m_crw_jlb">Im Folgejahr
+                            begann die bis 1895 andauernde weltweite <ref target="https://en.wikipedia.org/wiki/1889%E2%80%931890_flu_pandemic">Influenza-Pandemie</ref>, die seinerzeit in den Zeitungen, später
+                            auch in der Fachliteratur Russische Grippe genannt wurde. </note>
+               </seg>
+                    auch in seiner Familie grassiert, habe er davon Abstand genommen, um das Übel
+                    nicht noch nach Steinort zu tragen.</note>
+                <closer>
+                    <salute>Mit vollkommenster Hochachtung habe ich die Ehre mich zu zeichnen Ihr
+                        treu ergebener </salute>
+                    <signed>Schenck von Tautenburg</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

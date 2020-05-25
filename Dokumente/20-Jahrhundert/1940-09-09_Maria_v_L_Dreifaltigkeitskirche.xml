@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mjp_4yw_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maria Gräfin von Lehndorff an die Kirchengemeinde der Dreifaltigkeitskirche. Berlin, 9. September 1940</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mjp_4yw_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+          
+            
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LA Berlin</institution>
+                     <idno>A Rep. 358-02, Nr. 157319, n. f.</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_s3n_hbt_2y">Lehndorff, Maria Charlotte Elisabeth Karola von,
+                        geb. von Oldenburg (Januschau, 9.7.1886-)</persName>
+               <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1940-09-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_uyf_nyh_mfb">Dreifaltigkeitskirche Berlin</orgName>
+                </correspAction>
+         </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin W 15, den 9. September 40 <lb/>Gräfin Lehndorff
+                        <lb/>Meineckestr. 7 <lb/>Fernspr. 91 55 35</dateline>
+                </opener>
+                <p>Am 26. September begeht Herr Pfarrer <persName key="ed_fjs_yh5_zdb">Bronisch-Holtze</persName> seinen 50. Geburtstag. Auf der Liste der
+                    Kirchgänger der Dreifaltigkeitskirche, die ich mir auf dem Sekretariat erbat,
+                    steht auch Ihre Anschrift. Ich teile Ihnen das Datum mit für den Fall, dass Sie
+                    Herrn Pfarrer gerne einen Glückwunsch schicken möchten. </p>
+            <p>Sollte es Ihnen darüber hinaus eine Freude sein, sich an einem Geschenk zu
+                    beteiligen, das seine Freunde aus allen Kreisen und Ständen ihm machen wollen,
+                    erbitte ich einen Beitrag an meine Adresse. Auch der kleinste Beitrag ist
+                    hochwillkommen.</p>
+                <closer>
+                    <salute>Verbindlichst mit deutschen Gruß</salute>
+                    <signed>
+                  <seg type="comment">
+                     <orig>Gräfin Lehndorff</orig>
+                     <note xml:id="nggb_n35_zdb">handschriftlich</note>
+                  </seg>
+               </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_zbj_jtr_bbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zeitungsmeldung. Angerburg, 20. Februar 1885</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_zbj_jtr_bbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+                <note type="editorial">
+                    <p>Im Oktober 1880 hatte <persName key="ed_wms_mh2_cy">Anna von
+                            Lehndorff</persName> das Haus des Riemermeisters <persName key="ed_iqx_1bb_h2b">Fechner</persName> am Ende der Töpferstraße
+                        erworben und als <orgName key="ed_zxf_yqt_ncb">Siechenhaus</orgName>
+                        eingerichtet; anscheinend wurde Fechner auch der erste Verwalter. Das Haus
+                        nahm Sieche und Kranke aus den Kreisen <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> und <placeName key="ed_omg_5xl_5y">Darkehmen</placeName> auf, die 1885 von 2 Diakonissen und einem Diakon
+                        versorgt wurden. Im Herbst 1884 war es nach Ankauf eines weiteren Gebäudes
+                        um eine Männerstation erweitert worden. - Aufstellungen über Einnahmen- und
+                        Ausgaben 1880-1887, die zuerst handschriftlich geführt, ab 1881 im
+                        Angerburger Kreisblatt veröffentlicht wurden, in der Akte. Berichte des
+                        Verwalters des Angerburger Siechenhauses sowie Antwortkonzepte Lehndorffs
+                        (1880-1888) in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 80. Ebd., Nr.
+                        81: Berichte des Superintendenten <persName key="ed_v5g_pvf_2y">Braun</persName> an Anna von Lehndorff (1880-1889); Nr. 82:
+                        Geschäftspost des Angerburger Siechenhauses (1880-1889); Nr. 88: Bilanz nach
+                        zweijähriger Arbeit. Statut und Hausordnung (1882) sowie
+                        Inventarverzeichnisse (2. Hälfte des 19. Jahrhunderts) in Nr. 89 und 95. -
+                        Weiteres Material in: APO, Bestand 382 FA Lehndorff, Nr. 603-604
+                        (1882-1896). </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 79, Bl. 110: Angerburger Kreisblatt
+                            vom 20. Februar 1885</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Liegt in einer blauen Mappe mit der Aufschrift: Quittungen des
+                            Siechenhauses zu Angerburg.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1885-02-20" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Abschluss über Einnahme und Ausgabe des <orgName key="ed_zxf_yqt_ncb">Angerburger
+                        Siechenhauses</orgName> pro 1884.</p>
+                <p>Geldbeträge für das Siechenhaus<list>
+                        <item>1. <orgName key="ed_xjy_b4n_my">Frauen-Verein (Vaterl.)</orgName>
+                            Berlin 500 M </item>
+                        <item>2. Oberpräsident v. <persName key="ed_u2c_wxz_g2b">Schlieckmann</persName> - Königsberg 150 M </item>
+                        <item>3. Fr. v. <persName key="ed_h1z_tbb_h2b">Bujack</persName> -
+                            Medunischken 50 M </item>
+                        <item>4. Graf <persName key="ed_djk_4gx_f2b">Egloffstein</persName> -
+                            Arklitten 50 M </item>
+                        <item>5. Hr. Dr. Freiherr v. <persName key="ed_qsh_tbg_h1b">Farenheid</persName> - Beynuhnen 200 M </item>
+                        <item>6. Gräfin <persName key="ed_wms_mh2_cy">Lehndorff</persName> -
+                            Steinort <seg type="comment">
+                        <orig>1.500 M</orig>
+                        <note xml:id="nnqs_njm_cbb">Zu deren Engagement: LASA, StA L, Bestand
+                                    21950 FA Lehndorff, FA Lehndorff, Nr. 90, Bl. 1-2v: Kurze
+                                    Geschichte des Angerburger Siechenhauses, verfasst durch den
+                                    Vorstand im Dezember 1885. </note>
+                     </seg>
+                        </item>
+                        <item>7. Fr. von <persName key="ed_snl_v3s_kfb">Neumann</persName> - Weedern
+                            300 M </item>
+                        <item>8. <ref target="lehndorff_s1r_hnn_my">Hr. Buchdruckereibesitzer
+                                    <persName key="ed_czp_znn_my">Priddat</persName> - Angerburg 10
+                                M</ref>
+                        </item>
+                        <item>9. Fr. General-Superintendent <persName key="ed_pmd_tkz_ny">Remus</persName> Gr. Schön-Damerau 35 M </item>
+                        <item>10. Hr. v. <persName key="ed_xrw_s5g_jfb">Rohr</persName> - Rehsau 3 M </item>
+                        <item>11. <persName key="ed_c4p_rlm_ngb">Baron Schenk zu Tautenburg
+                            </persName>- Doben 60 M </item>
+                        <item>12. Hr. Major v. <persName key="ed_imc_2cb_h2b">Wernsdorff</persName>-Truntlack <hi rendition="#u"> 5 M</hi> 2.863 M </item>
+                        <item>13. Fr. v. <persName key="ed_frh_mcb_h2b">Frankenberg</persName> auf
+                            Leibrente 3.600 M </item>
+                        <item>14. Frl. <persName key="ed_sdb_kqw_1bb">Brückhändler</persName> auf
+                            Leibrente 1.500 M </item>
+                        <item>15. Erborgt á 5 % 1.500 M</item>
+                    </list>
+            </p>
+                <p>Naturalabgaben für das Siechenhaus</p>
+                <list>
+                    <item>Hr. <persName key="ed_ndf_ycb_h2b">Albat</persName> - <placeName key="ed_fcn_f3q_42b">Stullichen</placeName> 6 Schfl. Kartoffeln </item>
+                    <item>Hr. <persName key="ed_xpj_zcb_h2b">Altmann</persName> - Engelsteinshöhe 2
+                        Schfl. Kartoffeln </item>
+                    <item>Hr. Superintendent <persName key="ed_v5g_pvf_2y">Braun</persName> -
+                        Angerburg 2 Schfl. Roggen </item>
+                    <item>Hr. <persName key="ed_iqx_1bb_h2b">Fechner</persName> - Angerburg 1 Korb
+                        Gemüse, 2 Ltr. Mohn </item>
+                    <item>
+                  <seg type="comment">
+                     <orig>Fr. v. <persName key="ed_uvy_fw3_d2b">Jaski</persName> - Angerburg 1 Sophatisch 1 Teppich</orig>
+                     <note xml:id="nqgn_vmm_ngb">Emilie von Jaski, Ehefrau des Angerburger
+                                Landrats <persName key="ed_hwn_j15_g2b">Theodor Franz Friedrich Köhn
+                                    von Jaski</persName>, vgl. Braumüller, Bernhard, Angerburg von
+                                A-Z. Ein Nachschlagewerk über den Kreis Angerburg, 4. Aufl.,
+                                Rotenburg (Wümme) 2008, S. 396; Pfeiffer, Erich, Der Kreis
+                                Angerburg. Ein ostpreußisches Heimatbuch, 2. Aufl., 1998, S. 213. -
+                                Emilie von Jaski leitete den Angerburger Frauenverein, vgl.
+                                Zimmermann, Karl, Tabea, oder die Frauenvereine des Evangelischen
+                                Vereins der Gustav-Adolf-Stiftung, Darmstadt/1864.
+                        </note>
+                  </seg>
+               </item>
+                </list>
+            </div>
+            <div>
+                <list>
+                    <item>Fr. Bäckermeister <persName key="ed_kdw_1db_h2b">Klee</persName> -
+                        Angerburg 1/2 Ztr. Weizenmehl </item>
+                    <item>Hr. <persName key="ed_ly2_cdb_h2b">Komoß</persName> - Wessolowen 1 Schfl.
+                        Roggen </item>
+                    <item>Fr. Bauinspektor <persName key="ed_ps5_ddb_h2b">Lauth</persName> -
+                        Angerburg Reis, Erbsen, Blumenkohl </item>
+                    <item>Gräfin <persName key="ed_wms_mh2_cy">Lehndorff</persName> - Steinort 3
+                        Tonnen Bier, 6 Gänse, 12 Servietten, 4 Jacken, 4 Paar Hosen, 12 Halstücher,
+                        12 Schnupftücher, 3 Matratzen, 1 Kaffeekanne, 1 Sahnetopf, 12 Paar Tassen </item>
+                    <item>Graf <persName key="ed_ik3_ckz_2y">Lehndorff</persName> - Steinort 10 rm
+                        Holz </item>
+                    <item>Fr. v. <persName key="ed_zcn_fdb_h2b">Massenbach</persName> - Angerburg 1
+                        Matratze </item>
+                    <item>Fr. Generalsuperintendent <persName key="ed_pmd_tkz_ny">Remus</persName> -
+                        Gr. Schön-Damerau 12 Nachtmützen </item>
+                    <item>
+                  <seg type="comment">
+                     <orig>Fr. Direktor <persName key="ed_ph5_hdb_h2b">Stockmann</persName>
+                     </orig>
+                     <note xml:id="nrn1_wbt_fkb">Ehefrau
+                                von F. W. Stockmann, Direktor der Provinzial-Taubstummen-Anstalt zu
+                                Angerburg</note>
+                  </seg> - Angerburg Zwiebeln, Gries, Backobst, 1 Fl.
+                        Saft </item>
+                    <item>Hr. <persName key="ed_y3r_ldb_h2b">Höwig</persName> - Stawken Anfuhr von
+                        10 rm Holz </item>
+                    <item>Hr. Buchdruckereibesitzer <persName key="ed_czp_znn_my">Priddat</persName>
+                        hat zu Gunsten des Siechenhauses diesen Abschluss als Inserat (Kostenpreis M
+                        27), ebenso diesen Extradruck von 40 Exemplaren unentgeltlich
+                        ausgeführt.</item>
+                </list>
+                <p>Indem allen Wohltätern unseres Haues der innigste Dank hiermit bezeugt wird,
+                    bitten wir ergebenst, unserem Hause Ihr gütiges Wohlwollen auch fernerhin
+                    zuzuwenden. Die bedeutenden Kosten, welche die Erweiterung unserer Anstalt durch
+                    Errichtung einer Männerstation und den Ausbau des dazu angekauften Hauses
+                    verursacht hat, veranlassen uns an alle wohltätig gesinnten Bewohner unseres
+                    Kreises die dringende Bitte zu richten, <seg type="comment">
+                  <orig>uns ihre
+                            hilfreiche Hand zu bieten</orig>
+                  <note xml:id="nrbz_rxr_bbb">Spendenaufrufe für das Angerburger Siechenhaus in: LASA, StA L, Bestand
+                            21950 FA Lehndorff, Nr. 86, 1881-1885.</note>
+               </seg>, damit die
+                    zahlreichen Gesuche armer Siecher um Aufnahme erfüllt werden und die auf unserem
+                    Hause noch ruhenden Schulden getilgt werden können. Helfen Sie mit Ihren
+                    freundlichen Opfern bei diesem edlen Werke echter Humanität, dem siechen Alter
+                    seine Stelle des Friedens für den Lebensabend zu bereiten!</p>
+                <p>Angerburg im Januar 1885.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

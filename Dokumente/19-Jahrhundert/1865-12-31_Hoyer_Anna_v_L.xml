@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_csv_msg_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Otto Hoyer an Anna Gräfin von Lehndorff. Lötzen, 31. Dezember 1865</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_csv_msg_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Herkunft/Genealogie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 484, Bl. 3-3v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_c1g_zgs_d2b">Hoyer, Otto (-)</persName>
+                    <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>
+                    <date when="1865-12-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/484/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lötzen, 31/12 1865</dateline>
+					          <salute>Hochgeborene Frau,  <lb/>Gnädigste Frau Gräfin!</salute>
+                </opener>
+                <p>
+               <lb/>
+               <note type="editorial">Wünsche zum Jahreswechsel und für das neue
+                    Jahr.</note>
+            </p>
+                <p>Ew. Hochgeboren mussten erst die Geschichte vergangener Jahrhunderte
+                    durchforschen, um diejenigen Geschlechter nennen zu können, an welche die
+                    Töchter aus der Familie Ihres Gatten vermählt waren. - Dem entgegen haben die
+                    Frau Gräfin den Namen desjenigen Geschlechts, dessen edelste Tochter der Herr
+                    Graf <persName key="ed_zkm_whl_2y">Lehndorff</persName> zu seiner
+                    Lebensgefährtin erwählte, durch ein selten pflichtgetreues wie
+                    menschenfreundliches Tun, als Gattin, Mutter und Herrin in weiten Kreisen
+                    gerühmt und geliebt, nun allen denen unvergesslich gemacht, welchen der Vorzug
+                    geworden ist, Ew. Hochgeboren zu kennen und zu - erkennen. </p>
+                <p>Dass auch in  dankbarer Verehrung für Hochdieselben verharre, dies auszusprechen
+                    gestatten Ew. Gnaden wohl</p>
+				        <closer>
+					          <salute>Ihrem ergebenen Diener</salute>
+					          <signed>Hoyer</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

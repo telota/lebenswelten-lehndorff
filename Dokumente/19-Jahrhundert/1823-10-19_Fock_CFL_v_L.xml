@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_vp5_skr_ddb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maria Juliana von Fock an Carl Friedrich Ludwig Graf von Lehndorff. Statzen,
+                    19. Oktober 1823</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_vp5_skr_ddb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 332, Bl. 25-25v</idno>
+                    </msIdentifier>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_cxp_rcg_hy">Fock, Juliane von (1772-)</persName>
+                    <placeName key="ed_gcr_vcg_hy">Statzen</placeName>
+                    <date when="1823-10-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Weitere Briefe an Lehndorff in: APO, Bestand 382 FA Lehndorff, Nr. 335.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/332/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Statzen, den 19. Oktober 1823</dateline>
+					          <salute>Hochgeborener Graf! <lb/>Besonders Höchstzuehrender Herr Generalmajor!</salute>
+                </opener>
+				        <p>Mit der innigsten Teilnahme habe ich Ew. Hochgeboren so gütige Zuschrift, vom 18. Aug.
+                    datiert, worin Sie mich von Ihrer vollzogenen Vermählung benachrichtigen,
+                    erhalten. Ich verschob meine Antwort, weil ich Ihrer Ankunft in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> entgegensah.</p>
+                <p>Ich kann es mir lebhaft denken, mit welcher Auswahl Ew. Hochgeboren sich die
+                    schöne Gräfin <persName key="ed_tcp_g3l_2y">Pauline Schlippenbach</persName> zur
+                    Gattin erkoren haben. Bei Ew. Hochgeboren sehr angenehmen Lebensverhältnissen,
+                    Ihrem gefühlvollen, edlen Charakter und <gap reason="illegible"/> Geistesbildung
+                    haben Sie zu gerechte Ansprüche auf eine vollkommene Glückseligkeit. Möchten
+                    Ihnen in Ihrer Ehe täglich neue Freuden erblühen. Niemand kann es aufrichtiger,
+                    herzlicher wünschen als ich!</p>
+                <p>Der Major <persName key="ed_yrm_5qp_vcb">Salzwedel</persName> aus <placeName key="ed_e1j_nh2_b2b">Drosdowen</placeName> besuchte mich am 13. Oktober in
+                        <placeName key="ed_gcr_vcg_hy">Statzen</placeName>. Er erzählte mir, Sie
+                    beim Kaufmann <persName key="ed_ztb_rh2_b2b">Mühlthaler</persName>, woselbst
+                    eine große Gesellschaft gewesen, gesprochen zu haben. Auch benachrichtigte er
+                    mich, dass Sie schon im kommenden Monat November Ihre Rückreise antreten
+                    wollen.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Unsere vorhabende Lehnsaufhebung</orig>
+                  <note xml:id="nn4b_f1f_zgb">Statzen  ging in der Subhastation am 15. August
+                            1826 an die Ostpreußische Landschaft über.</note>
+               </seg> gibt vielleicht
+                    die angenehme Veranlassung, Ew. Hochgeboren nach einem Zeitraum von wenigstens
+                    30 Jahren wiederzusehen, welches mich ganz besonders erfreuen würde.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Gewiesen an Herrn Hof-Fiskal <persName key="ed_odj_vh2_b2b">Raddatz</persName>, habe ich mit ihm mehrere
+                            Briefe wegen der Lehns-Abschiedung gewechselt.</orig>
+                  <note xml:id="nmyh_4qp_1fb">Dessen Handakten in: GStA PK, XX. HA, Rep. 54
+                            Gutsarchiv Lehndorff-Steinort, Nr. 128-131. Nach der <quote>Consignation
+                                derer in dem Kleinen Kasten vorhandenen Dokumente</quote> (ebd.,
+                            unverzeichnet) hatte <persName key="ed_k4z_jgl_2y">Lehndorff</persName>
+                            diese Akten im Herbst 1846 in <placeName key="ed_hts_ttp_vcb">Warglitten</placeName> aufgefunden und dem <orgName key="ed_e3t_l2n_4y">Steinorter Archiv</orgName> einverleibt.
+                        </note>
+               </seg> Ich vermute, dass Ihnen selbige nach seinem Tode ausgeliefert
+                    sein werden.</p>
+                <p>Ich habe den Wunsch ihm zu erkennen gegeben, dass meine Kinder für die
+                    Lehnsentsagung mit 2.000 Rtlr. bar abgefunden werden möchten. Herr <persName key="ed_odj_vh2_b2b">Raddatz</persName> hat in Ew. Hochgeboren Namen jedem
+                    von meinen Kindern 500 Rtlr. offeriert. Nach dieser Zeit starb mein 3.,
+                    16-jähriger Sohn, welcher beim 7. Husarenregiment angestellt war, auf der
+                    Kriegsschule zu <placeName key="ed_ypq_rnn_scb">Posen</placeName>, und ich nahm
+                    Ihren Großmut in Anspruch, diese 500 Rtlr. seines Anteil nicht zu <unclear reason="illegible" cert="low">decouvrieren</unclear>, und meinen 3 noch
+                    lebenden Kindern 2.000 Rtlr. Kapital, welches sie einigermaßen vor Mangel
+                    schützt, zu bewilligen. </p>
+                <p>Meinerseits habe ich das Anbieten einer lebenslänglichen jährlichen Pension von
+                    200 Rtlr. sehr dankbar angenommen, obschon nicht zu erwarten steht, dass ich sie
+                    bei sehr merklichem Schwinden meiner Kräfte lange genießen werde.</p>
+                <p>Ew. Hochgeboren beehren mich Ihrer gütigen Zuschrift und benachrichtigen mich, in
+                    welches Amt ich mich zur Beschleunigung der Lehnsaufhebung hinwenden kann.</p>
+                <p>Auf den Fall, mein <persName key="ed_utb_sz1_t2b">Bruder</persName> die Sache
+                    vielleicht aufhält, so getraue ich mir seine Bedenklichkeiten zu besiegen, da er
+                    schon meinetwegen sich fügen wird. Gott Lob, dass meine Kinder schon <seg type="comment">
+                  <orig>majoren</orig>
+                  <note xml:id="nq3c_5js_bhb">Durch
+                            Reskript vom 22. August 1746 war die Volljährigkeit auf das vollendete
+                            20. Lebensjahr festgelegt. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff, Nr. 587, n. f.</note>
+               </seg> sind, und keine fremde
+                    Einmischung stattfindet!</p>
+                <p>Ew. Hochgeboren verhehle ich nicht, wie durch ein erlittenes Viehsterben und
+                    totale Missernte in denen 2 letzten Jahren ich am 1. Juli dieses Jahres unter
+                    Landschaftliche Sequestration geriet. Jede Zulage für meine Söhne hört nun auf
+                    und wir fühlen alle des Lebens Bürde.</p>
+                <p>Ew. Hochgeboren, nach diesem Geständnis bitte ich sich zu überzeugen, dass durch
+                    die gerichtliche Vollziehung dieses obschwebenden Familien-Arrangements Sie sich
+                    in meinem und dem Herzen meiner 3 Kinder ein dankbares Monument aufrichten. -
+                    Ihrer Güte und Gewogenheit empfehle ich mich und meine Kinder. Ew. Hochgeboren
+                    mit Einschluss Ihrer liebenswürdigen Gemahlin versichere ich meiner größesten
+                    Hochschätzung, mit welcher ich lebenslänglich verbleiben werde</p>
+				        <closer>
+					          <salute>Ew. Hochgeboren gehorsamste Dienerin</salute>
+					          <signed>Julie Fock</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

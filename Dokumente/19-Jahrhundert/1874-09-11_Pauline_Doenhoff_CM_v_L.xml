@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_gcv_4cg_4y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pauline Gräfin von Dönhoff an Carl Meinhard Graf von
+                    Lehndorff. Graditz, 11. September 1874</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_gcv_4cg_4y</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 432, Bl. 179-179v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von, geb. Gräfin von
+                        Lehndorff (1823-1889)</persName>
+                    <placeName key="ed_v2c_gc1_fy">Graditz</placeName>
+                    <date when="1874-09-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_crx_t2m_2y">Lehndorff, Carl Meinhard Heinrich
+                        (1860-)</persName>
+                </correspAction>
+                <note>Briefe von Marie von <persName key="ed_txv_ywp_f2b">Seydewitz</persName> an
+                    Anna von Lehndorff in: APO, Bestand 382 FA Lehndorff, Nr. 503 (1874-1883). Die
+                    Familie von Seydewitz gehört zum meißnischen Uradel und war in Preußen und
+                    Sachsen ansässig. Die ältere Linie war am 10. Juli 1731 in Wien in den
+                    Reichsfreiherrenstand erhoben worden und hatte am 23. Februar 1743 in Frankfurt
+                    am Main den Reichsgrafenstand erhalten. Zu deren Geschichte: <ref target="http://daten.digitale-sammlungen.de/%7Edb/0006/bsb00064959/images/">Seydewitz, Otto Theodor von/Seydewitz, Max, Beiträge zur Geschichte der
+                        Familie von Seydewitz, Bd. 1, den Zeitraum von 1299 bis 1875 umfassend,
+                        Görlitz 1875 (Fortsetzung 1890)</ref>; Bd. 2, den Zeitraum bis 1942
+                    umfassend, 1942.</note>
+            </correspDesc>
+            <abstract>
+                <p>Mit Eifer habe sie den <quote>Zweck meines hiesigen Aufenthalts verfolgt,
+                        Nachforschungen anzustellen über die üblen Gerüchte welche über das
+                        Seydewitzsche Haus seit vielen Jahren unter den Standesgenossen und in der
+                        ganzen Gegend <gap reason="insignificant"/> kursieren.</quote> Sie könne nun
+                    den Nachweis führen, dass diese Gerüchte unbegründet sind. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://szukajwarchiwach.pl/42/382/0/4/432/str/1/1/10000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+                <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

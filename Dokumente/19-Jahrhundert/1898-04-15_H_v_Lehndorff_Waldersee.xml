@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_rtw_bfd_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich Graf von Lehndorff an Alfred von Waldersee. Preyl, 15. April 1898</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_rtw_bfd_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, Nachlass Alfred von Waldersee, B I Nr. 31, Bl. 6-7v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nml_dw2_cy">Lehndorff, (Ahasverus) Heinrich (August Otto
+                        Magnus Ferdinand) Graf von (Königsberg, 1.4.1829-Preyl bei Wargen,
+                        24.4.1905)</persName>
+                    <placeName key="ed_o23_l11_fy">Preyl bei Wargen</placeName>
+                    <date when="1898-04-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_o1b_2bd_gy">Waldersee, Alfred von (1832-1904)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Preyl, 15. April 1898</dateline>
+					          <salute>Lieber Waldersee</salute>
+                </opener>
+                <p>Hier bleibt einem nichts übrig, als sich auch ein bisschen um die innere Politik
+                    zu kümmern, was sonst meine Art nicht ist. Deshalb möchte ich Ihnen sagen, dass
+                    Sie ein gutes patriotisches Werk tun, wenn Sie sich im alten Moltke-Kreis
+                        <placeName key="ed_wvr_tfd_gy">Heidekrug</placeName> zum <rs type="term" key="ed_fvl_p4d_gy">Reichstag</rs> aufstellen lassen, und lege ich das
+                    Telegramm des Präsidenten <persName key="ed_zyv_rv5_ccb">Hegel</persName> bei um
+                    nachzuweisen, dass es nicht umsonst sein würde, während große Besorgnis vor
+                    einer sozialdemokratischen Wahl ist, wenn Sie nicht einwilligen sollten. Ich
+                    denke, unter jetzigen Verhältnissen dürfte Ihnen der Schritt nicht geradezu
+                    unsympathisch sein, und würden Sie uns zu großem Ruhm gereichen und eine ganz
+                    ungeheure Blamage ersparen. Ihnen weitere Vorträge über den Gegenstand zu halten
+                    dürfte überflüssig sein, und möchte ich Sie bitten, die Sache nicht
+                    nebensächlich anzusehen, die in der Tat sehr wichtig ist, und nicht nein zu
+                    sagen, wenn sich dem Ihnen unübersteigliche Hindernisse in den Weg stellen.</p>
+				        <closer>
+					          <salute>Mit herzlichem Gruß</salute>
+					          <signed>Ihr alter Lehndorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

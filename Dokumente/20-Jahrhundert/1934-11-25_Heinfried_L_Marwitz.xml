@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_x1z_2j2_2cb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinfried Graf von Lehndorff an Bodo von der Marwitz. Bingen, 25. November 1934</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_x1z_2j2_2cb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>BLHA</institution>
+                    <idno>Rep. 37 Friedersdorf-Groß Kreutz 388, Bl. 226</idno>
+                    </msIdentifier>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zym_5bt_2y">Lehndorff, Siegfried Heinrich Graf von (Graditz,
+                        28.12.1908-)</persName>
+                    <placeName key="ed_swr_mj2_2cb">Bingen</placeName>
+                    <date when="1934-11-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_nnw_1qf_vdb">Marwitz, Bodo von der (1893-1982)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Bingen, den 25. 11.1934</dateline>
+					          <salute>Sehr verehrter Herr von Marwitz!</salute>
+                </opener>
+                <p>Für die gütige Einladung zur Hasenjagd am 14.XII. danke ich ergebenst. Ich werde
+                    mir die Ehre geben an diesem Tage nach <placeName key="ed_vnn_3lg_hy">Friedersdorf</placeName> zu kommen.</p>
+                <p>Mit Handkuss an gnädige Frau und gehorsamster Empfehlung</p>
+				        <closer>
+					          <salute>Ihr ganz ergebenster</salute>
+					          <signed>Heinfried Lehndorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

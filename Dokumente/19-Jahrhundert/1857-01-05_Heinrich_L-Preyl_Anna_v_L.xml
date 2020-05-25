@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_qlr_q5l_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich (Heinz) Graf von Lehndorff an Anna Gräfin von Lehndorff. Potsdam, 5.
+                    Januar 1857</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_qlr_q5l_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 367, Bl. 1-3</idno>
+                    </msIdentifier>
+                  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nml_dw2_cy">Lehndorff, Heinrich Graf von (Königsberg
+                        1.4.1829-Preyl 24.4.1905)</persName>
+                    <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>
+                    <date when="1857-01-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/367/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Potsdam, den 5. Januar 1857</dateline>
+					          <salute>Meine liebe Anna</salute>
+                </opener>
+				        <p>
+               <note type="editorial">Er dankt für Annas Brief, gratuliert zum neuen Jahr und übermittelt
+                        beste Wünscher für Anna und deren Familie.</note>
+            </p>
+                <p>Zu meiner größten Befriedigung ist es mir gelungen, <seg type="comment">
+                  <orig>mir
+                            im Fall des Krieges</orig>
+                  <note xml:id="nrqg_yv1_hfb">aufgrund der <ref target="https://books.google.de/books?id=SaF1VTbweg8C&amp;pg=PA222&amp;lpg=PA222&amp;dq=1857+Kriegsgefahr+preu%C3%9Fen&amp;source=bl&amp;ots=_ANy8TfNME&amp;sig=mCBVvJfEw1lBqqg-mmIHx_Zbx_Y&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjX4rGrlNvdAhXGDOwKHdj0C3EQ6AEwBHoECAUQAQ#v=onepage&amp;q=1857%20Kriegsgefahr%20preu%C3%9Fen&amp;f=false">Neufchâteller Frage</ref>
+                  </note>
+               </seg> eine Stellung im vordersten
+                    Vordergrunde fest zu sichern, und zwar mit die schönste und nicht unwichtigste,
+                    die man haben kann in meiner untergeordneten Stellung. Indes sehe ich der
+                    Entwicklung getrost entgegen. Dieses ist wirklich eine <gap reason="illegible"/>
+                    Adjutantenstelle beim Kommandierenden des ersten und größten mobilen Corps, dem
+                    General von <persName key="ed_vd2_jdd_d2b">Werder</persName> aus <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, der die betreffenden Truppen in
+                    der Garde und I. Corps unter sich haben wird. Ich habe die Sache vollkommen
+                    geheim betrieben und bis dato auch noch geheim halten können; jedoch hat der
+                    General den <persName key="ed_bg5_tsf_4y">König</persName> bereits persönlich um
+                    mich gebeten und ich stelle die Sache nicht als bestimmtes Faktum hin, nur weil
+                    man nichts so Erwünschtes sicher haben muss. Auch Dich bitte ich unter der
+                    Familie niemanden hierüber etwas erfahren zu lassen. </p>
+                <p>Nun aber hab ich Dir über meine Kriegsgedanken noch gar nicht gedankt für dein
+                    schönes und fast beschämend blendendes Geschenk, was mich ungeheuer gefreut hat
+                    und als fast zu hell glänzender Stern über meiner sonst ziemlich <seg type="comment">
+                  <orig>pauvren</orig>
+                  <note xml:id="npsz_3v1_hfb">armen</note>
+               </seg> Menage leuchtet und mir täglich von neuem Spaß macht.
+                    Vielen vielen Dank dafür, sowie ich Dich bitte, meinen herzlichen Dank in
+                        <placeName key="ed_yps_bwn_my">Basedow</placeName> für die unglaubliche Gans
+                    auszusprechen, die meinen Magen für die ganzen Feiertage unter ihre Fittiche
+                    genommen hat und immer noch mit ihren überströmenden Schmalzgedanken umgaukelt.
+                    Ich habe das ganze Fest als einziger Offizier fest an <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> gekettet ziemlich langweilig
+                    zugebracht, und die Gans bildete ziemlich meinen einzigen Umgang, da alles
+                    ausgeflogen war von meinen hiesigen Bekannten.</p>
+                <p>Auf Euren in Aussicht gestellten hiesigen Aufenthalt freue ich mich von Herzen,
+                    und erwarte hierüber mit Ungeduld nähere Nachrichten. Wenn es bestimmt sein
+                    wird, so lasst mich etwas darüber wissen, denn ich präveniere Dich von der
+                    großen Schwierigkeit, eine Wohnung zu finden. Wir machen also unsere <unclear reason="illegible" cert="low">Visite</unclear> für unser altes <placeName key="ed_pxt_cnh_1y">Steinort</placeName> dann zusammen.</p>
+                <p>Herzliche Grüße für <persName key="ed_zkm_whl_2y">Carl</persName>, <persName key="ed_mhm_32d_d2b">Werner</persName>, <persName key="ed_at1_zvw_c2b">Max</persName>, deine <seg type="comment">
+                  <orig>Babys</orig>
+                  <note xml:id="nnc3_p2d_d2b">Anna, geb. 1853 und Meinhard, geb. 1855, gest.
+                            1858.</note>
+               </seg> und die Basedowsche Herrschaft und Gäste - <persName key="ed_acy_1kc_d2b">Bogdan</persName> besonders.</p>
+				        <closer>
+					          <salute>von Deinem treu unter<gap reason="illegible"/>
+               </salute>
+					          <signed>Heinz</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

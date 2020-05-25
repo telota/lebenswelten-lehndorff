@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_n2j_2fx_rz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der akademische Rektor der Universität Leipzig, D. Christian Gottlieb Ludwig,
+                    und weitere Professoren an Ernst Ahasverus Heinrich Graf von Lehndorff. Leipzig, 1. Januar 1755</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_n2j_2fx_rz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kulturbeziehungen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 370, Bl. 1-4v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ms1_jmz_g1b">Ludwig, Christian Gottlieb (-)</persName>
+                    <placeName key="ed_flc_kyf_hy">Leipzig</placeName>
+                    <date when="1755-01-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wtg_nyl_2y">Lehndorff, Ernst Ahasverus Graf von
+                        (1688-1727)</persName>
+                </correspAction>
+                <note>Siehe auch dessen spätere Ernennung zum <ref target="lehndorff_zn2_c12_wcb">Ehrenmitglied der Preußischen Akademie der Wissenschaften und mechanischen
+                        Künste 1787</ref> sowie zum <ref target="lehndorff_ajw_zqc_rhb">Mitglied der
+                            <orgName key="ed_cgf_4j2_3kb">Märkisch-Oekonomischen
+                            Gesellschaft</orgName> zu Potsdam</ref> 1798, in: GStA PK, XX. HA, Rep.
+                    54 Gutsarchiv Lehndorff-Steinort, Nr. 418. - Als Ehrenmitglied wurde Lehndorff
+                    zu den Festakten der Akademie eingeladen und nahm auch an den Sitzungen der
+                    Oekonomischen Gesellschaft teil, vgl. Schmidt-Lötzen, Tagebücher nach der
+                    Kammerherrenzeit, Bd. 1, S. 303 (1783) und Ziebura, Tagebuch, S. 142 (3.
+                    Mai).</note>
+            </correspDesc>
+            <abstract>
+                <p>Sie wenden sich an Lehndorff als <quote>großen Mäzen und Patron</quote> mit guten
+                    Wünschen zum neuen Jahr. Sie bieten ihm, <quote>hocherlauchter und hochgelehrter
+                        Graf <gap reason="insignificant"/> Phönix des gelehrten Adels <gap reason="insignificant"/> liebenswürdiger Beschützer der teutschen
+                        Musen!</quote> die <quote>Doktor-Prädikate in allen 4
+                        Fakultäten</quote>,<quote> Magister-Titul und Lorbeerkränze, welche bereits
+                        manchen gepuderten Scheitel eines Herrn Von zieren</quote>. Sie verbinden
+                    damit keine Geldabsichten und halten ihn für ein <quote>würdiges Mitglied nicht
+                        nur der Berlinischen, sondern aller anderen schönen Gesellschaften,
+                        Akademien und Sozietäten</quote>, und erhoffen sich Ehre von dessen
+                    Mitgliedschaft. Hinsichtlich der üblichen akademischen Schrift wünschen sie sich
+                    eine <quote>kleine Abhandlung von den Opern der alten Ägypter und
+                        Griechen</quote>.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

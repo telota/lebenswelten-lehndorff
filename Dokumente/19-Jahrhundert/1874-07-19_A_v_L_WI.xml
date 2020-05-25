@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_py4_fxk_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anna Gräfin von Lehndorff an Kaiser Wilhelm I. Gastein, 19. Juli 1874</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_py4_fxk_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 602, Bl. 4-5v</idno>
+                    </msIdentifier>
+                     
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                    <placeName key="ed_avy_p42_cy">Bad Gastein</placeName>
+                    <date when="1874-07-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_lwx_y32_cy">Preußen, Wilhelm I. König von, deutscher Kaiser
+                        (1797-1888)</persName>
+                </correspAction>
+                <note>Vorbilder waren das von <persName key="ed_vfk_4xf_jlb">Emerentia von
+                        Tettau</persName>, geb. von Rumohr, begründete <orgName key="ed_zbv_wvp_f2b">Tettausche Fräuleinstift zu Königsberg</orgName> und das <orgName key="ed_unv_xvp_f2b">Adlige Fräuleinstift Barth</orgName>. Der Schwedenkönig
+                    Friedrich I. hatte 1733 den Grund und Boden der Ritterschaft von Nordvorpommern
+                    und Rügen geschenkt hatte, an Stelle des verfallenen Schlosses entstand das
+                    Adlige Fräuleinstift. Akten dazu in: Stadtarchiv Barth, Rep. 4 XI 1705
+                    (1726-1928), 1706 (1801-1801). - Zum Lehndorffschen Projekt: APO, Bestand 382 FA
+                    Lehndorff, Nr. 599 (Konzepte des Aufrufs und der Briefe an den Adel, 1866-1875),
+                    Nr. 600 (87 Antwortschreiben, 1866-1889), Nr. 601 (Konzepte für das Statut,
+                    Ratschläge, auch von Klosterhauptleuten und aus dem Innenministerium, 1866-1874)
+                    und Nr. 602 (Immediatvorstellung an den Kaiser, Gesuche an Innenminister und
+                    Oberpräsident, deren Antworten, 1874/75). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/602/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>z. Zt. Gastein, den 19. Juli 1874</dateline>
+					          <salute>Großmächtigster Kaiser und König! <lb/>Allergnädigster Kaiser, König und Herr!</salute>
+                </opener>
+				        <p>Euer Kaiserliche und Königliche Majestät wollen allergnädigst gestatten, dass ich eine Bitte
+                    an das Landesväterliche Herz Euer Majestät zu richten wage, welche seit langen
+                    Jahre der brennende Wunsch meiner Seele gewesen ist. </p>
+                <p>Seit den schweren Zeiten, die Eure Majestät in Höchstdero Jugend mit Eurer
+                    Majestät Höchstseligen Eltern in unseren heimischen Provinzen verlebt, wo
+                    dieselben Gut und Blut für König und Vaterland opfern durften, hat sich der Adel
+                    kaum wieder emporarbeiten können, und viele Eltern sind außerstande gewesen,
+                    ihren Töchtern ein sorgenfreies Alter zu sichern. Fast seit fünfzehn Jahren hat
+                    sich die Provinz als solche von den Drangsalen des ersten Viertels dieses
+                    Jahrhunderts zu erholen angefangen, aber für die unversorgten Töchter unseres
+                    Adels konnte nichts geschehen, da unsere Provinz ganz besonders arm an
+                    Fräuleinstiften ist, wie sie die anderen Provinzen der Monarchie besitzen.</p>
+                <p>Darum sann ich seit langen Jahren darüber nach, wie ihnen ein Asyl bereitet
+                    werden könnte, wo sie ein Heim und eine ihrem Stande angemessene Tätigkeit
+                    finden dürften. </p>
+                <p>Der Stiftsgedanke nun, den ich Euer Majestät zu unterbreiten wage, entspricht,
+                    wie ihn ähnlich auch Seine Majestät der Hochselige König für alle Prinzen der
+                    Monarchie ausgeführt zu sehen wünschte, wie ich zu hoffen mich <gap reason="illegible"/>, auch den Landesväterlichen Gedanken Eurer Kaiserlichen
+                    und Königlichen Majestät. </p>
+                <p>Denn diese Stätte soll nicht trägem Genusse, sondern, dem Familienkreise
+                    nachgebildet, allseitiger Tätigkeit der Stiftsfräulein dienen und Eurer Majestät
+                    Edelfräulein der Provinzen Ost- und Westpreußen sollen dem edelsten Motto des
+                    christlichen Adels gemäß: „Ich diene‟ ihr Leben selbstloser Arbeit in Werken
+                    christlicher Barmherzigkeit weihen. </p>
+                <p>Darum wagt mein Herz auf Euer Majestät allergnädigste Genehmigung der Gründung
+                    eines solchen Stiftes zu hoffen, und indem Euer Majestät einen allergnädigsten
+                    Beitrag gewähren, damit zugleich den Adel unserer Provinz angefeuert zu sehen,
+                    diesen Gedanken bald ins Leben zu rufen. </p>
+                <p>Zu meiner dankbarsten Freude erweckt Gott der Herr viele Herzen für diese Idee,
+                    und wenn Euer Majestät Höchstihr Wohlgefallen derselben ausdrücken, dann kann
+                    ich hoffen, dass binnen kurzem der Grund gelegt werden dürfte zu einem Bau, der
+                    zur Ehre Gottes, zur Freude Euer Majestät Landesväterlichem Herzen, zum Segen
+                    unseres Adels und zum Wohle vieler Armer und Verlassener in unserer Provinz
+                    ausgeführt werden würde! Das walte Gott! </p>
+				        <closer>
+					          <salute>Ich ersterbe meines allergnädigsten Kaisers und Königs alleruntertänigste </salute>
+					          <signed>Anna Gräfin Lehndorff <lb/>geb. Gräfin Hahn </signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

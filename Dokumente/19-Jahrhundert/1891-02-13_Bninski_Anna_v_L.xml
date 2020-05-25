@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cws_hnt_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Boleslaw (Bob) Graf Bńinski an Anna Gräfin von Lehndorff. Dombke, 13.
+                    Februar 1891 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cws_hnt_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 492, Bl. 1-2v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_vlp_fgv_h2b">Bninski, Boleslaus (Bob) Graf
+                        (1849-1912)</persName>
+                    <placeName key="ed_k3j_dhv_h2b">Dombke</placeName>
+                    <date when="1891-02-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Bl. 3-4v folgt ein Brief der Mutter, <persName key="ed_p5w_mgv_h2b">Emilie
+                        Gräfin Bńinska</persName>, die sich für den Aufenthalt des Sohnes in
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und <quote>für alles
+                        Gute, was Sie für meinen Sohn getan haben</quote>, bedankt. Noch vor dessen
+                    Abreise hätte sie persönlich nach Steinort kommen wollen, habe aber von der
+                    angegriffenen Gesundheit der Gräfin erfahren. Sobald diese wieder gesund sei,
+                    wolle sie den Besuch nachholen. Sie danke für die Erlaubnis, dass ihr Sohn sich
+                    den Brennereibetrieb in Steinort näher ansehen dürfe, sei nur nicht sicher, ob
+                    dies nicht ein <quote>Missbrauch Ihrer Güte sein würde</quote>, und bittet ihr
+                    zu schreiben, ob sie Bob nach Steinort schicken dürfe. Von Fräulein <persName key="ed_gbz_rc5_22b">Petitpierre</persName> habe sie gehört, dass <quote>die
+                        Genesung gute Fortschritte macht</quote>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/492/str/1/1/10#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Dombke per Netzthal, 13.2.91</dateline>
+					          <salute>Madame la Comtesse</salute>
+                </opener>
+				        <p>Veuillez m'excuser Madame, si je Vous importune de ces lignes, mais on m'a dit que Vous vous
+                    êtes chargée d'arranger les affaires de Monsieur Votre fils - Dans le temps il
+                    est venu à moi me comptant une histoire - que le bonheur de sa vie était en jeu
+                    s'il ne payait pas une dette de dix mille Marks. Il me disait également qu'il
+                    avait trouvé une personne obligeante qui voulait lui prêter cette somme à un
+                    taux minime. Cette personne me connaissant mieux que lui elle désira que je
+                    fusse garant de cette dette. - En souvenir des moments passés dans votre maison
+                    hospitalière je n'ai pas voulu refuser a votre fils ce petit service. - Monsieur
+                    votre fils n'a pas payé cette dette et la personne de qui il a reçcu l'argent
+                    s'est adressé à moi pour le remboursement de cette somme. J'ai écrit à Monsieur
+                    votre fils mai je n'ai pas reçcu de réponse. - La somme due est cinq mille Marks
+                    et c'est Monsieur Stern qui est le créancier. </p>
+                <p>
+               <note type="editorial">Sie möge entschuldigen, dass er sie mit diesen Zeilen
+                        belästige, aber ihm wurde gesagt, dass sie sich um die Angelegenheiten ihres
+                        Sohnes kümmere. Er habe ihm erzählt, dass das Glück seines Lebens auf dem
+                        Spiel stehe, wenn er Schulden von zehntausend Mark nicht bezahle, und eine
+                        hilfreiche Person gefunden hätte, die ihm diese Summe leihen wolle. Er
+                        sollte für diese Summe bürgen. In Erinnerung an sein gastfreundliches Haus
+                        wollte er dies nicht verweigern. Ihr Sohn habe die Schulden nicht bezahlt
+                        und der Gläubiger sich an ihn als Bürgen gewandt. Auf seinen Brief habe ihr
+                        Sohn nicht geantwortet. Die fällige Summe betrage fünftausend Mark und Herr
+                        Stern sei der Gläubiger.</note>
+                </p>
+				        <closer>
+					          <salute>Veuillez agréer, Madame la Comtesse, mes hommages respectueuses et permettez - moi de
+                        baiser vos mains</salute>
+					          <signed>B. Bńinski</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

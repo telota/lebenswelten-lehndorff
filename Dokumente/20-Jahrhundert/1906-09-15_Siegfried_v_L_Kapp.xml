@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ph2_nb1_fy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Siegfried Graf von Lehndorff an Wolfgang
+                    Kapp. Graditz, 15. September 1906</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ph2_nb1_fy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, Nachlass Wolfgang Kapp, Nr. 96, Bl. 1</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Nachlass Kapp gelangte vor 1937 in das GStA gelangt, die Familie
+                            behielt sich die Benutzungsgenehmigung vor, vgl. GStA PK, I. HA, Rep.
+                            178, Nr. 484, Bl. 213 (Korrespondenz der Zentralstelle für
+                            Archivgutschutz mit der Landesstelle Ostpreußen, 13. Oktober 1937). </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_z3m_cbt_2y">Lehndorff, Siegfried Karl Heinrich von (Graditz,
+                        11.4.1869-)</persName>
+                    <placeName key="ed_v2c_gc1_fy">Graditz</placeName>
+                    <date when="1906-09-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_tn1_vb1_fy">Kapp, Wolfgang (1858-1922)</persName>
+                </correspAction>
+                <note>Kapp antwortet am 20. September 1906 aus Königsberg an <quote>Seine Exzellenz,
+                        den Wirklichen Geheimen Rat, Oberlandstallmeister, Vorsitzenden der großen
+                        Schiedsgerichte zur Entscheidung von Regierungsangelegenheiten, Herrn Graf
+                        von Lehndorff Graditz</quote>, dass die Anlagen sogleich in den
+                    Geschäftsgang gegeben worden seien und er die Sache unterstützen werde. Er sei
+                    in der nächsten Woche in Berlin und beabsichtige, <quote>Euer Exzellenz auf dem
+                        Ministerium aufzusuchen, um die Steinorter Angelegenheit mit Ihnen zu
+                        besprechen</quote>. Nach einem Telegramm (Bl. 3) fand die Unterredung am
+                    Dienstag statt. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Graditz, 15. September 1906</dateline>
+					          <salute>Verehrter Herr Generallandschaftsdirektor!</salute>
+                </opener>
+                <p>Mein <persName key="ed_ik3_ckz_2y">Neffe</persName> (Steinort) schreibt mir
+                    soeben, dass Sie liebenswürdigerweise bereit seien sich dafür zu interessieren,
+                    dass <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> für das <rs type="term" key="ed_jfm_1rd_gy">Majorat</rs>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName> angekauft und schon jetzt in
+                    die Drainage-Genossenschaft einverleibt werde. Ohne Dränage wird Rosengarten nie
+                    ein rentables Objekt werden. Ich beeile mich daher, der Generallandschaft den
+                    beiliegenden Brief zu schreiben und der Beschleunigung halber durch Ihre
+                    kräftigen Hände gehen zu lassen, da, wie mein Neffe mir schreibt, die
+                    Drainage-Angelegenheit schon für Mitte September auf der Tagesordnung der
+                    Landschaft steht. Leider war es mir in diesem Jahre wegen Überbürdung mit
+                    anderen Dienstreisen nicht möglich, den Rennen in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> beizuwohnen und Ihnen bei dieser Gelegenheit die
+                    Hand zu schütteln. Für unseren armen Minister waren die letzten Momente auch
+                    nicht gerade sehr erheiternd. Bis auf weiteres scheint das Fahrwasser jetzt aber
+                    wieder klar zu sein.</p>
+				        <closer>
+					          <salute>Stets Ihr ergebenster</salute>
+					          <signed>G. Lehndorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

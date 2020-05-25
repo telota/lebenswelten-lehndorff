@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zd5_jpn_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anna Gräfin von Lehndorff an Kaiser Wilhelm I. Steinort, 10. März 1884</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zd5_jpn_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Heiratskreise</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 294, Bl. 1-1v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1884-03-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_lwx_y32_cy">Preußen, Wilhelm I. König von, deutscher Kaiser
+                        (1797-1888)</persName>
+                </correspAction>
+                <note>Schon aus der Zeit des <persName key="ed_csb_mdf_cy">Kammerherrn
+                        Lehndorff</persName> bestanden enge Beziehungen zur Familie, damals zu dem
+                    Staats- und Finanzminister <persName key="ed_ifh_zd1_hy">Friedrich Leopold
+                        Freiherr von Schrötter</persName>, vgl. Ziebura, Tagebuch 1799, S. 495. Ob
+                    Anna aus Anlass der Verlobungsanzeige vom Kaiser eine <quote>Tasse mit dem
+                        lieblichen Medaillon der holdseligsten Königin</quote> erhielt, die als
+                        <quote>teuerstes Erbstück in unserem Hause verbleiben wird</quote> (Bl.
+                    65-65v) ist unklar, der Briefentwurf ist (wie viele weitere) undatiert.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/294/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, 10. März 1884</dateline>
+					          <salute>Euer Majestät</salute>
+                </opener>
+                <p>tief dankbar durchdrungen von Euer Majestät unwandelbarer Huld und Gnade für mich
+                    und die Meinen treibt es mein Herz, Euer Majestät die allerunteränigste Anzeige
+                    zu machen, dass meine Tochter <persName key="ed_vhr_wjh_cy">Anna</persName> sich
+                    mit dem Premier-Leutnant im 12. Litauischen Ulanenregiment, Freiherrn von
+                        <persName key="ed_s1m_sqn_my">Schrötter</persName>, verlobt hat und mein
+                    liebes Brautpaar es als schönste Krönung ihres Glückes betrachten würde, wenn
+                    Euer Majestät den Bund ihrer Herzen durch Allerhöchst Ihre Genehmigung
+                    besiegelten. </p>
+            <p>Auch drängt es mich, Euer Majestät landesväterliche gnadenspendende Hand zu küssen dafür, dass
+                    mein <persName key="ed_ik3_ckz_2y">Sohn</persName> Euer Majestät die
+                    Orden-Gnadenbezeugungen, die meinem seligen <persName key="ed_crx_t2m_2y">Mann</persName> von Euer Majestät Huld zuteil geworden, zu Füßen legen
+                    durfte, und dass Euer Majestät so gnädige Worte an ihn gerichtet, die lebenslang
+                    in seinem Herzen wiederklingen werden.</p>
+				        <closer>
+				           <salute>Gott segne!, Gott erhalte uns unseren geliebten Kaiser, das erfleht bei dem baldigen
+                        Segen eines neuen Lebensjahres mit doppelter Inbrunst Euer Majestät
+                        alleruntertänigste</salute>
+					          <signed>Anna Gräfin Lehndorff geb. Gräfin Hahn</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

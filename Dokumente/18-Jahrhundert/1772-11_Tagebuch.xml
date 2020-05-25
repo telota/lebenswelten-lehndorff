@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_x4d_41t_xdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin,
+                    November/Dezember 1772</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_x4d_41t_xdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 2, Gotha 1913, S. 264 ff.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date from="1772-11-01" to="1772-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <gap reason="insignificant"/> Wir haben hier den Grafen <persName key="ed_wxg_dct_xdb">Lochocki</persName>, einen neuen Untertanen aus dem neu
+                    erworbenen Preußen. Er ist einer der ersten, der hierher kommt, um seine
+                    Aufwartung zu machen. Der <persName key="ed_x2r_52f_cy">König</persName> hat ihn
+                    gnädig empfangen, er hat beim Prinzen von Preußen soupiert und wird von der
+                    Königin zur Tafel gezogen. Wenn ihn diese Auszeichnung die 90.000 Taler Rente,
+                    die er verliert, verschmerzen lassen, darf er zufrieden sein.</p>
+                <p>Trostlos ist das Schicksal des Grafen <persName key="ed_bxp_z3y_rgb">Keyserlingk</persName>, der mit seiner netten und liebenswürdigen <persName key="ed_jpf_mc4_xdb">Familie</persName> bisher so glücklich in Königsberg
+                    gelebt und jeden Fremden mit Aufmerksamkeiten überhäuft hat; <seg type="comment">
+                  <orig>er verliert mit einem Schlage alles, nämlich 17.000 Taler Rente,
+                            da er eine Starostei hat, und 10.000 Taler an der Danziger Post, was
+                            alles an unseren König gefallen ist. </orig>
+                  <note xml:id="ntcf_cbq_v2b">Vgl. Graf Archibald von Keyserlingk (1759-1829), in: <ref target="http://www.glogauerheimatbund.de/pages/NGA-Artikel/2006/NGA06_02Altsrunz.html">Neuer Glogauer Anzeiger, Nr. 2, Februar 2006</ref>. </note>
+               </seg>Es
+                    ist ihm kaum das tägliche Brot geblieben. Das sind eben solche Ereignisse, die
+                    sich nicht vorhersehen lassen, Alle diese Starosten bildeten sich ein, ebenso
+                    frei zu sein wie der König, und jetzt sind sie mit einem Schlage in größtem
+                    Elend. <gap reason="insignificant"/>
+            </p>
+                <p>
+               <hi rendition="#u">2. Dezember</hi>. <gap reason="insignificant"/> Der König hat
+                    kürzlich jener würdigen Familie v. Keyserlingk einen Gnadenbeweis zuteil werden
+                    lassen, über den ich mich noch ungemein freue. <seg type="comment">
+                  <orig>Seine
+                            Majestät lässt ihr für den Verlust ihres Einkommens infolge unserer
+                            neuen Erwerbungen jährlich 6.000 Taler zuweisen und verspricht, später
+                            noch mehr für sie zu tun. </orig>
+                  <note xml:id="njwt_3bq_v2b"> Der König
+                            erkannte dessen Adel an und erhob ihn und seine Nachkommenschaft am 8.
+                            Februar 1777 zum Grafen. Gleichzeitig übertrug er ihm die Herrschaft
+                            über Neustadt (Wejherowo) in Westpreußen. </note>
+               </seg>
+            </p>
+                <gap reason="insignificant"/>
+                <p>Ein anderer fremder Besuch bringt mich sehr in Verlegenheit. Es ist der <persName key="ed_gbs_p1m_2y">Bischof von Ermeland</persName>, der mir sofort seine
+                    Ankunft melden lässt. Er ist in großer Verlegenheit, wie er sich hier einführen
+                    soll. Ich weiß es ebenso wenig, denn man hat ja immer Angst, es verkehrt zu
+                    machen, und rate ihm schließlich, sich mit dem <persName key="ed_p4z_mdt_xdb">Abbé Bastiani</persName> bekannt zu machen. Das glückt vortrefflich. Der
+                    Abbé begrüßt ihn aufs zuvorkommendste und spricht mit ihm beim Grafen <persName key="ed_hpp_dv3_tdb">Reuß</persName> vor, der ihn morgen dem König
+                    vorstellen wird.</p>
+                <p>
+               <gap reason="insignificant"/>
+                </p>
+                <p>Mein guter Bischof von Ermeland wird nach zwei Tagen endlich durch den Grafen
+                        <persName key="ed_hpp_dv3_tdb">Reuß</persName> dem König vorgestellt. Seine
+                    Majestät sagt ihm viel Verbindliches und ladet ihn sofort zum Diner an der
+                    großen Tafel mit dem ganzen Königshaus ein. Ich laufe den ganzen Nachmittag mit
+                    ihm umher, um Besuche zu machen. Er ist ein sehr liebenswürdiger Mann, der nicht
+                    nur beim König, sondern auch beim Publikum allgemeinen Beifall findet, und ich
+                    wünschte ihm nur, dass er auch an seinen geschäftlichen Angelegenheiten solchen
+                    Erfolg hat. Doch darüber ist er noch sehr im Ungewissen. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

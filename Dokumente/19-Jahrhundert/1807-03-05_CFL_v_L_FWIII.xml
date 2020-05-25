@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_nyf_lhv_vcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Friedrich Wilhelm III. König von Preußen. 
+                    Berlin, 5. März 1807</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_nyf_lhv_vcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                        <msDesc rend="concept">
+                            <msIdentifier>
+                                <institution>GStA PK</institution>
+                                <collection/>                               
+                                    <idno type="shelfmark">XX. HA, Rep. 54 Gutsarchiv
+                                        Lehndorff-Steinort, Nr. 678: Verwundung und Gefangennahme
+                                        Carl Friedrich Ludwig von Lehndorffs während des Gefechts in
+                                        Marienwerder 1807</idno>                                
+                            </msIdentifier>
+                            <physDesc>
+                  <p>
+                                Die Dokumente befinden sich in einem sehr schlechten Erhaltungszustand.</p>
+               </physDesc>
+                            
+                        </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 213 f. </bibl>
+                    </witness>
+                </listWit>
+                     
+                    
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Carl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1807-03-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_tl1_nbf_4y">Preußen, Friedrich Wilhelm III. König von
+                        (1770-1840)</persName>
+                </correspAction>
+                <note>Nach Schultze, dem das Original zur Verfügung stand, hatte der <persName key="ed_tl1_nbf_4y">König</persName> mit Rotstift Hervorhebungen im Text
+                    vorgenommen. - Eine Auswechslung Lehndorffs schlug fehl. Am 19. März 1807 war er
+                    in <placeName key="ed_tjp_yh5_2z">Frankfurt a. M. </placeName>und spätestens am
+                    4. April 1807 im französischen <placeName key="ed_okj_snv_vcb">Nancy</placeName>, vgl. dessen Brief an die Mutter vom selben Tag, ebd., S.
+                    177-180. Auch in einem Brief an Generalfeldmarschall Graf <persName key="ed_xv5_rbq_vcb">Kleist von Nollendorff</persName>, Nancy, 24. April
+                    1807, ging es um die Auswechslung, S. 180 f. Am 25. Mai reiste Lehndorff aus
+                    Nancy ab und traf am 28. Mai in <placeName key="ed_uyx_nvn_my">Paris</placeName>
+                    ein, wo er im Hôtel Grange Batelière Quartier nahm. Hier begegnete er u. a. Graf
+                        <persName key="ed_ryf_z3g_xdb">Truchseß zu Waldburg</persName>, später
+                    preußischer Gesandter in Turin. Das Tagebuch der Zeit in Paris ebd., S. 184-189.
+                    Er schreibt u. a.: <quote>Cette passion des Français pour les amusements est
+                        unique.</quote> - <quote>La nation, ou mieux dit, les employés dans la
+                        nation, ainsi la partie cultivée et éduquée est toujours détestable, et il y
+                        a encore plus de révolutions qu'on ne pense. Le peuple est facile, léger,
+                        prend soir pour rien, mais bon et enthousiaste pour le bien, comme il est
+                        facile de le mener à l'infâme, en le faisant apercevoir d'une manière ou
+                        brillante ou touchante.</quote> [„Diese Leidenschaft der Franzosen für
+                    Vergnügungen ist einzigartig.“ – „Die Nation, oder besser gesagt, die
+                    Bediensteten in der Nation, also der kultivierte und gebildete Teil, ist immer
+                    noch verabscheuungswürdig, und es gibt immer noch mehr Revolutionen, als man
+                    denkt. Das Volk ist einfach, leichtherzig, kümmert sich um nichts, aber gut und
+                    begeistert für das Gute; es ist aber ebenso leicht, es zu Niederträchtigkeiten
+                    anzuhalten, wenn man es dazu bringt, sie auf glänzende oder rührende Weise
+                    wahrzunehmen.” Übersetzung: Dorothea Wagner, BBAW] - Nach Schultze fand
+                    Lehndorff Wege, um die Gefangenschaft früher zu beenden. <quote>Seine
+                        Bekanntschaft mit dem preußischen Gesandten am Pariser Hofe, Generalmajor v.
+                            <persName key="ed_whj_tcq_rdb">Knobelsdorff</persName>, die noch von
+                        seiner Dienstzeit in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>
+                        herrührte, brachte ihm dessen Auftrag, mit Depeschen als Kurier an den
+                            <persName key="ed_tl1_nbf_4y">König</persName> nach <placeName key="ed_oxb_txl_5y">Memel</placeName> zu gehen, der natürlich ebenso
+                        dankbar wie eifrig angenommen wurde.</quote> Am 28. August verließ er Paris,
+                    am 30. August war er in Nancy und am 31. August zurück auf deutschem
+                    Boden.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 5. März 1807</dateline>
+					          <salute>Allerdurchlauchtigster Allergroßmächtigster König <lb/>Allergnädigster König und
+                        Herr!</salute>
+                </opener>
+				        <p>Eure Königliche Majestät werden durch die eingegangenen Rapporte den Erfolg des Tages bei
+                        <placeName key="ed_d31_lxj_gy">Marienwerder</placeName> am 11. Februar und
+                    das unglückliche Los, gefangen zu werden, welches mich dabei mit noch mehreren
+                    Offiziers getroffen, allergnädigst zu ersehen geruht haben. Durch mein Gewissen
+                    überzeugt, an diesem Tage nur nach meiner Pflicht gehandelt und keine
+                    Veranlassung zu meinem Unglück gegeben zu haben, als welche diese mir gebot,
+                    wage ich es, Ew. Königl. Majestät um meine möglichst baldige Auswechslung
+                    alleruntertänigst zu bitten. Ew. Königl. Majestät vermögen es, die schmerzhaften
+                    Gefühle zu beurteilen, die in einem Augenblicke wie der jetzige, dessen Brust
+                    erfüllen müssen, der Ew. Majestät Dienst, sein Vaterland und seine Pflicht
+                    liebt, und doch alles verlassend aus der Ferne untätig einem Kampf zusehen muss,
+                    der nur um deswillen geführt wird. Genötigt, nach Frankreich zu gehen, ist meine
+                    einzige Hoffnung in Ew. Königl. Majestät Gnade; möge ich bald durch Sie
+                    errettet, zu Ew. Königl. Majestät Füßen den ehrfurchstvollsten Dank darbringen
+                    können, der alsdann zu neuem Eifer ewig beseelen wird</p>
+				        <closer>
+					          <salute>Ew. Königl. Majestät alleruntertänigsten treu gehorsamsten</salute>
+					          <signed>Lehndorff <lb/>Major im Dragoner-Rgm. v. Rouquette</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

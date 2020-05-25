@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_akl_wff_jbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Rhenius an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 16. März 1785</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_akl_wff_jbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 382, Bl. 70-71v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bpl_fsj_gy">Rhenius, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1785-03-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Bereits in seinem Brief vom 12. März (Bl. 66-67v) hatte Rhenius um seine
+                    Entlassung gebeten, für die es viele Gründe gäbe. <quote>Es ist die hiesige
+                        Wirtschaft, wenn ich solcher nach meinen Grundsätzen (und anders zu handeln
+                        bin ich gänzlich unfähig) mit unbegrenzter Treue vorstehen soll, so äußerst
+                        beschwerlich, dass, wenn ich noch länger darinnen diene, es geschehen
+                        könnte, dass ich für alle Geschäfte in kurzer Zeit und vor dem Ziele meines
+                        Lebens mich untüchtig machte und Ew. Hochgeboren auch in einigen Jahren
+                        gänzlich unbrauchbar werden könnte. Auch diesen Winter bin oft kränklich und
+                        eben jetzt nicht recht gesund. Dabei kann nicht unbemerkt lassen, dass ich
+                        aus einer Familie abstamme, die zur Melancholie geneigt ist. Meine Mutter
+                        hat viele beschwerliche Anfälle davon gehabt, mein ältester Bruder ist sogar
+                        darinnen gestorben, und ich habe ein solch empfindsames Gemüt und starke
+                        heftige Einbildungskraft, welche eben durch die Religion allezeit zu
+                        beruhigen suchte, und dieser habe allein zu verdanken, dass ich hier und in
+                        allen denen Lagen, worinnen ich mich durch meinen Diensteifer gesetzt habe,
+                        ausdauern können. Auch beruhigte mich oft die angenehme schmeichelhafte
+                        Hoffnung, dass mit der Länge der Zeit es hierin solchen Gang nehmen würde,
+                        dass ich mit mehrerer Gemütsruhe meinem Dienst würde vorstehen können,
+                        allein nach meinem Ideal muss ich hierzu alle Hoffnung gänzlich aufgeben.
+                        Hinzu kommt noch, dass ich, bei allem guten Willen, den ganzen Umfang meiner
+                        Pflichten nicht so, wie ich wünsche, zu erfüllen imstande bin. Es bleibt
+                        also nichts übrig, als um meine gnädige Entlassung meines Dienstes
+                        untertänig zu bitten.</quote> Er sei wegen dessen <quote>unbeschränkten
+                        Vertrauens</quote>
+                    <persName key="ed_csb_mdf_cy">Lehndorff</persName> zur Dankbarkeit verpflichtet
+                    und wolle ihm Vorschläge zur Besetzung seiner Stelle machen: <persName key="ed_ejx_t2c_tcb">Bötticher</persName>, dessen <quote>Anhänglichkeit für
+                            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, die Landwirtschaft
+                        und das Landleben</quote> er kenne, würde die Stelle wohl übernehmen, wenn
+                    er nicht schon andere <quote>Engagements</quote> habe, denn er habe ihm
+                    geschrieben, er wolle sich einer <quote>Pensions-Anstalt in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+               </quote> widmen. An zweiter
+                    Stelle schlägt er den Schreiber <persName key="ed_swq_dsz_g1b">Schultz</persName> vor, der zwar nicht die <quote>Geistesfähigkeit</quote>
+                    des ersten habe, sich jedoch mit den Gütern hervorragend auskenne,
+                        <quote>praktische ökonomische Kenntnis</quote> besitze und den er bereits
+                    mit jedem Geschäft betrauen konnte. Er sei bereit, noch ein Jahr in seinem Amt
+                    zu bleiben, um seinen Nachfolger mit allem vertraut zu machen, auch habe er über
+                    sein Entlassungsgesuch noch mit niemandem gesprochen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

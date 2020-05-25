@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_aw5_z4s_51b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title>Philipp Otto Graf von Dönhoff an Ernst Ahasverus Heinrich
+                    Graf von Lehndorff. Quittainen, 4. Juli 1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_aw5_z4s_51b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 380, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_shm_g3w_mbb">Dönhoff, Philipp Otto Graf von
+                        (1710-1787)</persName>
+                    <placeName key="ed_ehn_vv2_g1b">Quittainen</placeName>
+                    <date when="1784-07-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Dönhoff dankt Lehndorff für dessen Brief aus Berlin, für den er <quote>einige
+                        Stunden früher aufgestanden</quote> sei, um ihn <quote>durch ein so
+                        angenehmes Schreiben nebst interessanten Nachrichten zu erfreuen</quote>. Er
+                    sei sehr erfreut darüber, dass der König anlässlich der letzten <seg type="comment">
+                  <orig>Revue </orig>
+                  <note xml:id="njyw_1n2_zdb">Vgl.
+                            Schmidt-Lötzen, Nachträge, Bd. 2, S. 368.</note>
+               </seg> von
+                        <quote>unserem lieben Patria zufrieden</quote> gewesen sei und nicht so
+                        <quote>übel, als zu anderen Zeiten, von uns gesprochen, auch deklarieret,
+                        dass, <seg type="comment">
+                     <orig>wenn er künftig Jahr in das Land käme, er
+                                die Revue bei Königsberg halten werde</orig>
+                     <note xml:id="nd4j_mlv_scb">Dazu kam es nicht mehr. 1785 nahm Friedrich
+                                II. bereits geschwächt die Truppenrevue in Pommern ab, siehe <ref target="https://archive.org/details/bub_gb_ojY3AAAAYAAJ/mode/2up">Pfeiffer, Ernst F. G., Die Revuereisen Friedrichs des Großen,
+                                    besonders die Schlesischen nach 1763 und der Zustand Schlesiens
+                                    von 1763 -1785, Berlin 1904</ref>. Er verstarb am 17. August
+                                1786 in Potsdam.</note>
+                  </seg>
+               </quote>, was ihn und <quote>alle
+                        redlich Denkenden herzlich freute</quote>. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

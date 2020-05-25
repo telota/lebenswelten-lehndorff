@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="http://www.w3.org/XML/1998/namespace" xmlns:telota="http://www.telota.de" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="tei:TEI">
+      <attribute name="telota:doctype">
+        <data type="NCName"/>
+      </attribute>
+      <optional>
+        <attribute>
+          <name>id</name>
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute>
+          <name>lang</name>
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <element name="tei:teiHeader">
+        <element name="tei:fileDesc">
+          <element name="tei:titleStmt">
+            <element name="tei:title">
+              <text/>
+            </element>
+            <element name="tei:editor">
+              <ref name="persName"/>
+            </element>
+            <oneOrMore>
+              <element name="tei:respStmt">
+                <element name="tei:resp">
+                  <text/>
+                </element>
+                <choice>
+                  <ref name="orgName"/>
+                  <ref name="persName"/>
+                </choice>
+              </element>
+            </oneOrMore>
+          </element>
+          <element name="tei:editionStmt">
+            <element name="tei:edition">
+              <text/>
+            </element>
+          </element>
+          <element name="tei:publicationStmt">
+            <element name="tei:publisher">
+              <ref name="orgName"/>
+              <element name="tei:address">
+                <element name="tei:addrLine">
+                  <text/>
+                </element>
+                <element name="tei:country">
+                  <data type="NCName"/>
+                </element>
+              </element>
+            </element>
+            <element name="tei:pubPlace">
+              <data type="NCName"/>
+            </element>
+            <element name="tei:date">
+              <attribute name="type">
+                <data type="NCName"/>
+              </attribute>
+              <data type="date"/>
+            </element>
+            <element name="tei:availability">
+              <element name="tei:licence">
+                <attribute name="target">
+                  <data type="anyURI"/>
+                </attribute>
+                <ref name="p"/>
+              </element>
+            </element>
+            <ref name="idno"/>
+          </element>
+          <element name="tei:sourceDesc">
+            <ref name="p"/>
+          </element>
+        </element>
+      </element>
+      <element name="tei:text">
+        <element name="tei:body">
+          <choice>
+            <element name="tei:list">
+              <oneOrMore>
+                <element name="tei:item">
+                  <attribute>
+                    <name>id</name>
+                    <data type="NCName"/>
+                  </attribute>
+                  <element name="tei:label">
+                    <attribute name="type">
+                      <data type="NCName"/>
+                    </attribute>
+                    <text/>
+                  </element>
+                </element>
+              </oneOrMore>
+            </element>
+            <element name="tei:listOrg">
+              <oneOrMore>
+                <element name="tei:org">
+                  <attribute>
+                    <name>id</name>
+                    <data type="NCName"/>
+                  </attribute>
+                  <ref name="orgName"/>
+                </element>
+              </oneOrMore>
+            </element>
+            <element name="tei:listPerson">
+              <oneOrMore>
+                <element name="tei:person">
+                  <attribute>
+                    <name>id</name>
+                    <data type="NCName"/>
+                  </attribute>
+                  <optional>
+                    <ref name="idno"/>
+                  </optional>
+                  <oneOrMore>
+                    <ref name="persName"/>
+                  </oneOrMore>
+                  <element name="tei:birth">
+                    <text/>
+                  </element>
+                  <element name="tei:death">
+                    <text/>
+                  </element>
+                  <optional>
+                    <ref name="note"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+            <element name="tei:listPlace">
+              <oneOrMore>
+                <element name="tei:place">
+                  <attribute>
+                    <name>id</name>
+                    <data type="NCName"/>
+                  </attribute>
+                  <oneOrMore>
+                    <ref name="placeName"/>
+                  </oneOrMore>
+                  <optional>
+                    <ref name="idno"/>
+                  </optional>
+                  <optional>
+                    <ref name="note"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </choice>
+        </element>
+      </element>
+    </element>
+  </start>
+  <define name="persName">
+    <element name="tei:persName">
+      <optional>
+        <attribute name="key">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="ref">
+          <data type="anyURI"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="subtype">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="type">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <element name="tei:forename">
+            <text/>
+          </element>
+          <element name="tei:name">
+            <text/>
+          </element>
+          <element name="tei:surname">
+            <text/>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="orgName">
+    <element name="tei:orgName">
+      <optional>
+        <attribute name="type">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <text/>
+    </element>
+  </define>
+  <define name="p">
+    <element name="tei:p">
+      <text/>
+    </element>
+  </define>
+  <define name="idno">
+    <element name="tei:idno">
+      <optional>
+        <attribute name="type">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="idno"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="placeName">
+    <element name="tei:placeName">
+      <optional>
+        <attribute name="key">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="type">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <text/>
+    </element>
+  </define>
+  <define name="note">
+    <element name="tei:note">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="persName"/>
+          <ref name="placeName"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+</grammar>

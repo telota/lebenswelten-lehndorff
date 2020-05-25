@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_mpg_tnl_3lb">
+                    <persName type="reg">
+                        <surname>Voss</surname>
+                        <forename>Felix Graf von</forename>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1881</death>
+                    <note>Erbherr der Lehngüter Klein- und Groß-Gievitz und Minenhof sowie der
+                        AllodialgüterAlt- und Neu-Schönau, Carlsruh und Johannishof; Ehrenritter des
+                        Johanniterordens; Großherzoglich-Mecklenburgischer Landrat für das Herzogtum
+                        Schwerin</note>
+                </person>
+                <person xml:id="ed_npw_545_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/118640445</idno>
+                    <persName type="reg">
+                        <surname>da Vinci</surname>
+                        <forename>Leonardo</forename>
+                    </persName>
+                    <birth>1452</birth>
+                    <death>1519</death>
+                </person>
+                <person xml:id="ed_j52_qwg_2z">
+                    <persName type="reg">
+                        <surname>Valory</surname>
+                        <forename>Guy Louis Henri Marquis de</forename>
+                    </persName>
+                    <birth>1692</birth>
+                    <death>1774</death>
+                    <note>1756/57 französischer Generalleutnant, bevollmächtigter Minister.
+                        https://fr.wikipedia.org/wiki/Louis_Guy_Henri_de_Valori</note>
+                </person>
+                <person xml:id="ed_csj_l5p_tdb">
+                    <persName type="reg">
+                        <surname>van Verelst</surname>
+                        <forename>Dietrich Hubert (Graf)</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1786 holländischer Gesandter in Berlin</note>
+                </person>
+                <person xml:id="ed_ffc_kdq_tdb">
+                    <persName type="reg">
+                        <surname>Veichel</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1769 im Dienst des Grafen von Schmettau</note>
+                </person>
+                <person xml:id="ed_hvk_z4r_kfb">
+                    <persName type="reg">
+                        <surname>Veit</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1883 Hof-Litograph in Berlin</note>
+                </person>
+                <person xml:id="ed_yh1_nj2_qz">
+                    <persName type="reg">
+                        <surname>Veltheim</surname>
+                        <forename>Anton von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1933 Rittergutsbesitzer in Veltheimsburg bei Alvensleben, Kreis
+                        Neuhaldensleben</note>
+                </person>
+                <person xml:id="ed_s5c_g3t_zdb">
+                    <persName type="reg">
+                        <surname>Veltheim-Veltheimsburg </surname>
+                        <forename>Elisabeth von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Alvensleben (1931)</note>
+                </person>
+                <person xml:id="ed_rc4_thm_ngb">
+                    <persName type="reg">
+                        <surname>Venediger</surname>
+                        <forename>Hugo Friedrich von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1722-1734 Verweser der Amtshauptmannschaft Memel</note>
+                </person>
+                <person xml:id="ed_lwy_mxz_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/123435471</idno>
+                    <persName type="reg">
+                        <surname>Verdy du Vernois</surname>
+                        <forename>Julius von</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1910</death>
+                </person>
+                <person xml:id="ed_ekx_h4q_ybb">
+                    <persName type="reg">
+                        <surname>Vernière</surname>
+                        <forename>Madememoiselle</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erzieherin des <persName key="ed_wtg_nyl_2y">Ernst Ahasverus Graf von
+                            Lehndorff</persName> (1706)</note>
+                </person>
+                <person xml:id="ed_qlw_fgp_vcb">
+                    <persName type="reg">
+                        <surname>Vesemeier</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1808/09 Ökonomie-Kommissar</note>
+                </person>
+                <person xml:id="ed_r2k_4w3_tdb">
+                    <persName type="reg">
+                        <surname>Viereck</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1763 Staatsminister im Justizdepartement</note>
+                </person>
+                <person xml:id="ed_gdf_wxg_1cb">
+                    <idno type="uri">https://d-nb.info/gnd/133158292</idno>
+                    <persName type="reg">
+                        <surname>Vieregg</surname>
+                        <forename>Gustav von</forename>
+                    </persName>
+                    <birth>1845</birth>
+                    <death>1906</death>
+                </person>
+                <person xml:id="ed_zdk_mch_ldb">
+                    <persName type="reg">
+                        <surname>Vischer-Ihingen</surname>
+                        <forename>Adolf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1849 auf Gut Ihingen</note>
+                </person>
+                <person xml:id="ed_y4y_fhz_ny">
+                    <idno type="uri">http://d-nb.info/gnd/1012714470</idno>
+                    <persName type="reg">
+                        <surname>Vogel</surname>
+                        <forename>Lorenz</forename>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1902</death>
+                </person>
+                <person xml:id="ed_t1f_mgr_gbb">
+                    <persName type="reg">
+                        <surname>Vogt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1812, 1814 Landbaumeister in Angerburg</note>
+                </person>
+                <person xml:id="ed_nl1_hl2_3fb">
+                    <persName type="reg">
+                        <surname>Voigt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1868 Pfarrer</note>
+                </person>
+                <person xml:id="ed_p4x_2mw_12b">
+                    <persName type="reg">
+                        <surname>Voigt</surname>
+                        <forename>Erna</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1950 Mitarbeiterin der Abteilung Kunst und Literatur im Ministerium für
+                        Volksbildung des Landes Sachsen</note>
+                </person>
+                <person xml:id="ed_kyp_clr_gz">
+                    <idno type="uri">http://d-nb.info/gnd/117472387</idno>
+                    <persName type="reg">
+                        <surname>Voigt</surname>
+                        <forename>Johannes</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1863</death>
+                </person>
+                <person xml:id="ed_ipz_jyl_gfb">
+                    <persName type="reg">
+                        <surname>Volkening</surname>
+                        <forename>Clara</forename>
+                    </persName>
+                    <birth/>
+                    <death>1870</death>
+                    <note>Heirat: 1864 <persName key="ed_bnr_4vl_gfb">August Dietrich
+                            Rische</persName> (1819-1906), lutherischer Pastor, Komponist und
+                        Liederdichter, seit 1852 Pfarrer in Schwinkendorf</note>
+                </person>
+                <person xml:id="ed_rkf_1vl_gfb">
+                    <persName type="reg">
+                        <surname>Volkening</surname>
+                        <forename>Elisabeth</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Jacobs</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Pfarrers Johann HeinrichVolkening (1796-1877) in
+                        Jöllenbeck</note>
+                </person>
+                <person xml:id="ed_ct4_dvl_gfb">
+                    <persName type="reg">
+                        <surname>Volkening</surname>
+                        <forename>Werner</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn von Johann Heinrich und <persName key="ed_rkf_1vl_gfb">Elisabeth
+                            Volkening</persName>, Jöllenbeck</note>
+                </person>
+                <person xml:id="ed_qfc_3vv_vkb">
+                    <idno type="uri">https://d-nb.info/gnd/118769103</idno>
+                    <persName type="reg">
+                        <surname>Volkening</surname>
+                        <forename>Johann Heinrich</forename>
+                    </persName>
+                    <birth>1796</birth>
+                    <death>1877</death>
+                </person>
+                <person xml:id="ed_wcr_pdy_bz">
+                    <idno type="uri">http://d-nb.info/gnd/118627813</idno>
+                    <persName type="reg">
+                        <surname>Voltaire</surname>
+                        <forename/>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Arouet</surname>
+                        <forename>François-Marie </forename>
+                    </persName>
+                    <birth>1694</birth>
+                    <death>1778</death>
+                </person>
+                <person xml:id="ed_lms_hvc_hkb">
+                    <idno type="uri">https://d-nb.info/gnd/115819940</idno>
+                    <persName type="reg">
+                        <surname>Volz</surname>
+                        <forename>Gustav Berthold</forename>
+                    </persName>
+                    <birth>1871</birth>
+                    <death>1938</death>
+                </person>
+                <person xml:id="ed_i42_43y_ydb">
+                    <persName type="reg">
+                        <surname>Vorhoff</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Geheimer Kriegsrat, 1774 Regierungspräsident Marienwerder</note>
+                </person>
+                <person xml:id="ed_jf1_djc_tcb">
+                    <persName type="reg">
+                        <surname>Voss</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death>1788</death>
+                    <note>„der alte Voss‟, 1785 Untertan auf den Steinortschen Gütern</note>
+                </person>
+                <person xml:id="ed_ykm_p1w_gkb">
+                    <persName type="reg">
+                        <surname>Voss</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>„der jüngste Voss‟</note>
+                </person>
+                <person xml:id="ed_mln_t3t_ncb">
+                    <persName type="reg">
+                        <surname>Voss</surname>
+                        <forename>Ahasverus</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1784/85)</note>
+                </person>
+                <person xml:id="ed_sc1_sgv_12b">
+                    <idno type="uri">https://d-nb.info/gnd/117450502</idno>
+                    <persName type="reg">
+                        <surname>Voss</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth>1884</birth>
+                    <death>1969</death>
+                </person>
+                <person xml:id="ed_cr3_yw3_kfb">
+                    <persName type="reg">
+                        <surname>Voß</surname>
+                        <forename>Eugen Georg von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>österreichischer Kämmerer und Rittmeister (1878)</note>
+                </person>
+                <person xml:id="ed_kmc_3bh_2z">
+                    <idno type="uri">https://d-nb.info/gnd/123005582</idno>
+                    <persName type="reg">
+                        <surname>Voß</surname>
+                        <forename>Johann Ernst Graf von</forename>
+                    </persName>
+                    <birth>1726</birth>
+                    <death>1793</death>
+                </person>
+                <person xml:id="ed_ez2_fxg_2z">
+                    <idno type="uri">http://d-nb.info/gnd/118805754</idno>
+                    <persName type="reg">
+                        <surname>Voß</surname>
+                        <forename>Sophie Marie Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Pannwitz, von</name>
+                    </persName>
+                    <birth>1729</birth>
+                    <death>1814</death>
+                    <note>Heirat: 1751 <persName key="ed_kmc_3bh_2z">Johann Ernst Graf von
+                            Voß</persName>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

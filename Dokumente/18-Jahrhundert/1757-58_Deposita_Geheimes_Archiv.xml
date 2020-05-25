@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_cxy_d3m_xz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verzeichnis der Deposita im Geheimen Archiv in Königsberg. 1757 bis 1758</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_cxy_d3m_xz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="editorial">
+                    <p>Erst am 19. April 1758 regelte ein Zirkular, dass ein <quote>Depositen-Kasten
+                            in jedem Amte angeschafft und gehalten werden soll</quote>. Am 9. Juli
+                        folgte ein Reskript an das Kammergericht <quote>wegen des Depositen-Wesens
+                            bei den Untergerichten, Magistraten und Beamten</quote>, vgl. <ref target="https://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/NCCT2SUPPL/start.html">Novum Corpus Constitutionum Prussico Brandenburgensium praecipue
+                            Marchicarum ..., Supplementum zu Bd. 2, Nr. 13 und 14</ref>. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, EM, Tit. 19 c I, Nr. 54, Bl. 1-2 </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1757-07-04" notAfter="1758-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Verzeichnis derer auf Königlichen allergnädigsten Befehl anno 1757 in das
+                    Geheimte Archiv zur verwahrlichen Aufbehaltung angenommenen Depositorum 
+                    <list>
+                        <item>1. <seg type="comment">
+                        <orig>Von des Herrn General-Lieutenants Grafen
+                                    von <persName key="ed_qv5_zdq_mbb">Dohna</persName> Exz. ein
+                                    versiegeltes, an Seine Königliche Majestät höchste Person
+                                    adressiertes Kästchen</orig>
+                        <note xml:id="nlmr_gdq_mbb">Vgl.
+                                    GStA PK, XX. HA, EM, Tit. 19 c III, Nr. 14: Die vom
+                                    General-Lieutenant Graf von Dohna in dem Archiv in einem
+                                    versiegelten Paket deponierten Geheimschriften, 1757.
+                                </note>
+                     </seg>
+                            <note place="right" hand="#author">
+                                <hi rendition="#u">p. m. </hi>den 11. Octobr. 1757 haben der Herr
+                                General-Lieut. Graf v. Dohna Exz. dieses Kästchen zurückfordern
+                                lassen </note>
+                            <note place="right" hand="#author">
+                        <lb/>auf mündliche Ordre des Herrn
+                                Ober-Sekretarii Hofrat <persName key="ed_lbs_sdq_mbb">Nicolovius</persName> im April 1757</note>
+                            <lb/>
+                  </item>
+                        <item>2. Von des Herr General-Lieutenants von <persName key="ed_vj1_vdq_mbb">Schorlemer</persName> Exz. ein versiegeltes Kästchen mit
+                            Königlichen Sachen <lb/>gemäß Königlicher Ordre vom 29. April 1757
+                            <lb/>
+                  </item>
+                        <item>3. Von der verwitweten Obrist-Lieutenantin Gräfin von <persName key="ed_q4s_xyl_2y">Lehndorff</persName> ein großer, mit schwarzem
+                            Wachstuch emballierter versiegelter Korb mit Dokumenten <note place="right" hand="#author">
+                        <hi rendition="#u">p. m.</hi> Diesen
+                                Korb mit Dokumenten hat der Herr Konsistorialrat <persName key="ed_hnm_yxy_3fb">Dörffer</persName> als Mandatarius der Frau
+                                Obrist-Lieutenantin Gräfin von Lehndorff den 19. Januar 1758
+                                zurückgenommen</note>
+                            <lb/>gemäß Königlicher Ordre vom 4. Juli 1757<lb/>
+                  </item>
+                        <item>4. Von dem Herrn Rittmeister <persName key="ed_apx_myj_w2b">Grafen von
+                                Schlieben,</persName> Administrator von Gerdauen und Nordenburg, ein
+                            versiegeltes, mit schwarzem Wachstuch emballiertes Paket, worin das
+                            Original-Diploma des Grafenstandes der Gräflich von Schliebenschen
+                            Familie befindlich sein soll <lb/>gemäß Königlicher Ordre vom 15. Juli
+                            1757 </item>
+                    </list>
+                    </p>
+                
+                <p>[Bl. 2] <lb/>Weilen die zum Geheimbten Archiv unlängst gelieferte Deposita,
+                    nämlich <list>
+                        <item>1. das von des Herrn General-Lieutenants von Schorlemer Exzellenz
+                            abgegebene Kästchen mit Schriften</item>
+                        <item>2. die Gräflich von Lehndorffschen Dokumente, und</item>
+                        <item>3. das Gräflich von Schliebensche Grafen-Diploma</item>
+                    </list>
+            </p>
+            <p>noch nicht zurückgenommen sind, so habe untertänigst anfragen wollen, ob die vorgemeldete
+                    Deposita ferner in dem Archive verwahrlich aufbehalten werden müssen. <note place="left" hand="#author">
+                  <hi rendition="#u">p. m. </hi>Eodem ist hierauf
+                        von dem Herrn Ober-Sekretario Hofrat Nicolovius durch den Herrn
+                        Kommissions-Sekretarius <persName key="ed_lr5_l2q_mbb">Engelschmidt</persName> die mündliche Antwort erteilt worden, dass die
+                        neben-spezifizierten Deposita noch ferner in dem Archiv und an einem
+                        verborgenen Orte asserviert werden sollen, soviel es füglich geschehen
+                        kann.</note>
+               <lb/>
+               <persName key="ed_ulv_tnz_g1b">Klinggraff</persName>
+                    <lb/>den 10. Januar 1758 </p>
+            </div>
+        </body>
+    </text>
+</TEI>

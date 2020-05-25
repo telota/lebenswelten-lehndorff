@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hgd_vhj_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>(Oberst-Wachtmeister?) Schwarzbach an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Szozin, 18. Juli 1795</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hgd_vhj_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 73, Bl. 1</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_s1d_kkj_gy">Schwarzbach, (-)</persName>
+                    <placeName key="ed_hpn_5kj_gy">Szozin</placeName>
+                    <date when="1795-07-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die <orgName key="ed_ltz_hdr_gbb">Patrimonialgerichtsakten</orgName> in:
+                    GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 688 ff., hier Nr.
+                    692: Verfahren gegen entlaufene Gutsuntertanen. Demnach war Johann <persName key="ed_mkg_rml_w2b">Masuch</persName> aus Steinort 1735 entlaufen, Gärtner
+                    Michel <persName key="ed_hd4_tml_w2b">Masuch</persName> aus Steinort 1755
+                    unerlaubt nach <placeName key="ed_h35_jqh_my">Drengfurth</placeName> gereist und
+                    1756 entlaufen, Maria Charlotta <persName key="ed_cqs_vml_w2b">Masuch</persName>, geb. Puschke aus Steinort 1771 entlaufen. Der Bauer
+                        <persName key="ed_mbc_flj_gy">Pallasch</persName> war 1772 erst als
+                    Erbuntertan vereidigt worden, ebd., Nr. 701. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Szozin, 18. Juli 1795</dateline>
+					          <salute>Hochwürdiger und Hochgeborener <lb/>Insonders Höchstzuverehrender Herr Graf!</salute>
+                </opener>
+                <p>Euer Hochgeboren werden aus <seg type="comment">
+                  <orig>dem beiliegenden Schreiben
+                            des Weihbischofs Herrn Grafen von <persName key="ed_bk5_ckj_gy">Puzyna</persName>
+                  </orig>
+                  <note xml:id="nhnq_h3j_gy">Liegt der Akte
+                            bei, Bl. 2.</note>
+               </seg> als Besitzer der Philipowen und
+                    Preroschkenschen Güter zu entnehmen geruhen, <seg type="comment">
+                  <orig>dass die
+                            von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> entwichenen <rs type="term" key="ed_mdr_hvj_gy">Untertanen</rs>
+                            <persName key="ed_h5p_2lj_gy">Masuch</persName> und <persName key="ed_mbc_flj_gy">Pallasch</persName> nicht haben ausgemittelt
+                            werden können</orig>
+                  <note xml:id="nbmy_nfp_tcb">Vgl. hierzu das Dokument
+                            vom 15. Oktober 1796.</note>
+               </seg>, und dass sogar das Dorf <seg type="comment">
+                  <orig>Turteln</orig>
+                  <note xml:id="nib1_slj_gy">Der Ortsname
+                            ist verschrieben.</note>
+               </seg>, woselbst sich diese Leute aufhalten
+                    sollen, in dieser Gegend ganz unbekannt ist. </p>
+            <p>Bei diesen Umständen ist es mir also unmöglich, Euer Hochgeboren durch die
+                    Extradition dieser Untertanen einen Beweis von meiner schuldigen
+                    Dienstbeflissenheit abzulegen, so gern ich solches mit dem größten Vergnügen
+                    getan haben würde; indessen werde ich dennoch nicht aufhören, mit Ausforschungen
+                    dieser Leute fortzufahren. Nur geruhen Hochdieselben womöglich den eigentlichen
+                    Aufenthaltsort derselben auszumitteln, alsdann die schleunige Aushebung und
+                    Auslieferung gewiss das wenigste sein wird, so ich zu dieser Sache beitragen
+                    werde. </p>
+				        <closer>
+					          <salute>Nichts ist übrigens so vollkommen als der Respekt, mit welchem ich mich zu meiner Ehre
+                        nenne <lb/>Euer Hochgeboren ganz gehorsamster treuer Diener</salute>
+					          <signed>Schwarzbach</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

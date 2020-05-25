@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_lb3_nhy_bz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Nach dem 17. August 1753</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_lb3_nhy_bz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Leben am Hof</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie:
+                    Beziehungen zum preußischen Hof</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                              <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750-1804), in: Masovia 11 (1906), S. 118-154, hier S. 128
+                            f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <date notBefore="1753-08-17" notAfter="1753-08-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750.</ref> Zur Datierung vgl. den
+                    Tagebucheintrag vom 10. August 1753. Die durch Meusel edierten Briefe des
+                    Prinzen Ferdinand an Lehndorff sind unvollständig, die Briefe des Prinzen
+                    Heinrich fehlen vollständig; sie werden in den Tagebucheintragungen jedoch
+                    mehrfach erwähnt (u. a. 20. Juli, 16. Juli, 10. August 1753).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/> Ich gestehe, dass das, was Sie aus <placeName key="ed_xrv_gwb_by">Berlin</placeName> schreiben, mir keine Lust gibt, mich
+                    dorthin zu begeben; <seg type="comment">
+                  <orig>die Langweile</orig>
+                  <note xml:id="nl1y_4jy_bz">bei den <rs type="term" key="ed_wzd_r34_dz">Hoffestlichkeiten</rs>.</note>
+               </seg> muss außerordentlich groß
+                    sein; es gibt nichts langweiligeres als Diners zu dreißig Couverts, zumal bei
+                        <seg type="comment">
+                  <persName key="ed_isx_vcp_zkb">
+                     <orig>la
+                            Touche</orig>
+                  </persName>
+                  <note xml:id="nq3q_rjy_bz">Es gab eine
+                            persönliche Abneigung des Prinzen gegenüber dem französischen Gesandten
+                        </note>
+               </seg>, der, <seg type="comment">
+                  <orig>wenn man ihn hört, der Vater
+                            der Langeweile zu sein scheint. <gap reason="insignificant"/>
+                  </orig>
+                  <note xml:id="nlrd_zwj_nz">Die Feierlichkeiten beschreibt
+                            Lehndorff in seinem Tagebuch, die Gesellschaft bei <persName key="ed_qg3_ljy_bz">la Touche</persName> fand am 17. August 1753
+                            statt.</note>
+               </seg>
+                </p>
+            <p>Ich billige Ihre Verbindung mit <gap reason="insignificant"/> Herrn Achard, vielleicht wird
+                    dieser die Gabe haben, <seg type="comment">
+                  <orig>Sie wieder auf den guten Weg zu
+                            führen, indem er Sie zum <rs type="term" key="ed_ayt_qyf_hy">Christen</rs> macht. Es ist besser, sobald wie möglich dahin
+                            zurückzukehren, denn bevor man stirbt, legt man doch jene Art zu denken
+                            ab,</orig>
+                  <note xml:id="nvlm_5yp_mbb">
+                     <note type="editorial">In seinem
+                                Brief aus <placeName key="ed_cjc_z34_dz">Leitmeritz</placeName> vom
+                                28. Juni 1757 schrieb Prinz Ferdinand: </note>
+                     <quote>Ich bin Ihnen
+                                von Herzen für die Worte verpflichtet, die Sie mir bei Gelegenheit
+                                des Todes dieser gütigen und würdigen <persName key="ed_ajb_mly_bz">Mutter</persName> sagen; die Unterhaltung mit Herrn <persName key="ed_gfw_vjy_bz">Achard</persName>, deren Sie in ihren
+                                Briefen erwähnen, verdiente der fernsten Nachwelt erhalten zu
+                                bleiben; ich finde sie Ihrer und der Überzeugungen würdig, von denen
+                                sie sich nie während ihres ganzen Lebenslaufes entfernt hat.</quote>
+                            Nach Meusel, S. 128, hätten die drei prinzlichen Brüder bei
+                            Unterhaltungen über Religion Lehndorff gegenüber eingestanden,
+                                <quote>sie hätten keine</quote>; demnach scheint sich bei <persName key="ed_mn5_svg_hy">Prinz Ferdinand</persName> nach 1753 ein
+                            Umschwung vollzogen zu haben.</note>
+               </seg> oder man macht sich
+                    unglücklich für die Zukunft und hat später vor der Welt die Unannehmlichkeit,
+                    einen Widerruf auf sich genommen zu haben und denen zum Gespött geworden zu
+                    sein, die dies prophezeit haben. Glauben Sie nicht, dass ich scherze, ich
+                    spreche dies Mal im Ernst; teilen Sie mir bitte mit, aber wahrheitsgemäß, ob Sie
+                    mir recht geben oder was Sie sonst darüber denken. <gap reason="insignificant"/>
+                </p>
+            <p>Wir haben jetzt beide eine ganz verschiedene Lektüre, <seg type="comment">
+                  <orig>Sie stecken in
+                            den Alten</orig>
+                  <note xml:id="navg_4yt_vz">Lehndorff setzte sich u. a.
+                            mit den Aussagen von <ref target="https://de.wikipedia.org/wiki/Polybios">Polybios</ref> zur
+                            Wahrheit und Geschichte und mit den Staatsformen der Antike auseinander,
+                            vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 4532 und 501 sowie
+                            dessen Katalog wichtiger Literatur ebd., Nr. 499. Siehe auch den
+                            Tagebucheintrag vom 10. September 1853.</note>
+               </seg>, ich in den
+                    Modernen, <gap reason="insignificant"/> ich mache Auszüge aus den Memoiren <seg type="comment">
+                  <orig>Sullys</orig>
+                  <note xml:id="nazs_1ky_bz">
+                     <ref target="https://de.wikipedia.org/wiki/Maximilien_de_B%C3%A9thune,_duc_de_Sully">Sully (1560-1641)</ref> war Finanzminister, Großmeister der
+                            Artillerie und Oberaufseher der Befestigungen Frankreichs unter Heinrich
+                            IV. Dessen Memoiren erschienen zuerst 1634 und 1662, 1745 in einer
+                            Überarbeitung des Abbé L'Eccluse. Sie befanden sich auch in der
+                            Lehndorffschen Bibliothek, vgl. das Bibliotheksinventar 1731, in: LASA,
+                            StA L, Bestand 21950 FA Lehndorff, Nr. 320, Bl. 27, ein Konzept in: GStA
+                            PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort (unverzeichnet).
+                        </note>
+               </seg> und könnte Ihnen davon etwas zeigen, weil dieses Buch mir
+                    lehrreich erscheint und solche Lektüre den Stil verbessert und man gut schreiben
+                    lernt. <gap reason="insignificant"/> Melden Sie mir bitte, ob man <seg type="comment">
+                  <orig>viele Fremde im Lager</orig>
+                  <note xml:id="ngvz_jky_bz">
+                     <rs type="term" key="ed_ffg_m3g_my">Manöverlager bei Spandau.</rs>
+                            Fremden war der Zutritt streng verboten. Zum Manöver vgl. Lehndorffs
+                            Tagebuchaufzeichnungen ab 24. August 1753. Demnach waren auch die Grafen
+                                <persName key="ed_q5p_cgv_ldb">Czapski</persName> und <persName key="ed_b2j_dgv_ldb">Sulkowski</persName> anwesend. Czapski, ein
+                                <quote>Pole</quote>, war am 4. August am Hof vorgestellt worden, am
+                            31. August begegnete Lehndorff ihm und Sulkowski am Hof der Königin.
+                            Sulkowski, <quote>seit 14 Tagen Fürst</quote>, war eingetroffen,
+                                <quote>um die Lagerübung nicht zu sehen. Man spricht nur
+                                hiervon.</quote>
+                        </note>
+               </seg> erwartet, ob sich Berliner hinbegeben werden und ob man nicht
+                    mehr auf die Ankunft des Prinzen <persName key="ed_f3y_dnm_cz">Ludwig</persName>
+                    und des Grafen <persName key="ed_vz4_pky_bz">Lieven</persName> gespannt ist. Ich
+                    zweifle, ob wir Frauen in unserem Lager sehen werden, da man gesagt hat, dass
+                    nur Grisetten sich hinbegeben würden. Sie verstehen wohl, dass keine Frau wird
+                    kommen wollen; und sie tun recht daran, denn es würde nicht der Mühe wert sein,
+                    die geringsten Strapazen auf sich zu nehmen. <gap reason="insignificant"/>
+            </p>
+                <p/>
+				        <closer>
+                    <salute> </salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

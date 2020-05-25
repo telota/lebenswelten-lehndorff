@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_osk_c3g_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Friedrich Heuck an Carl Meinhard Graf von Lehndorff. Basedow, 11. Mai
+                    1855</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_osk_c3g_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 430/1, n. f.</idno>
+                    </msIdentifier>
+                 
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zc3_xtw_c2b">Hauck, (-)</persName>
+                    <placeName key="ed_yps_bwn_my">Basedow</placeName>
+                    <date when="1855-05-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Basedow, den 11. Mai 1855</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Den Wunsch der gnädigsten Frau <persName key="ed_wms_mh2_cy">Gräfin</persName>, die von <persName key="ed_ik2_g5w_c2b">Nevermann</persName> aufgefasste hochgräfliche <seg type="comment">
+                  <orig>Familiengeschichte</orig>
+                  <note xml:id="nk5c_1rz_gfb">Auf die sog. „Nevermann-Chronik" von 1816 nimmt Lisch Bezug.
+                        </note>
+               </seg> unverweilt zu übersenden, habe ich bedauerlichst nicht
+                    erfüllen können, <seg type="comment">
+                  <orig>weil der Archivar <persName key="ed_i41_j5w_c2b">Lisch</persName> in Schwerin solche in Händen
+                            hat. </orig>
+                  <note xml:id="nqph_45w_c2b">Für seine „<ref target="http://wiki-de.genealogy.net/Geschichte_und_Urkunden_des_Geschlechts_Hahn_(Lisch)">Geschichte und Urkunden des Geschlechts Hahn‟</ref>, erschienen in
+                            4 Bänden, Schwerin 1844–1856.</note>
+                    </seg>Derselbe schrieb mir unterm 26. v. M. wörtlich:</p>
+                <p>„Ich beantworte Ihren Brief sogleich, da ich zugleich mit Ihrem Briefe einen
+                    zweiten Brief der Frau Gräfin <persName key="ed_wms_mh2_cy">Anna von Lehndorff
+                    </persName>zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName> erhalten habe.
+                    Die Frau Gräfin wünscht Biographien zu den 5 Statuen im Saal. Ich habe sie ihr
+                    alle gesandt. Da ich die Handschrift von Nevermann im ersten Brief erwähnt
+                    hatte, so schreibt mir die Frau Gräfin, sie werde sich diese von <placeName key="ed_yps_bwn_my">Basedow</placeName> kommen lassen. Die Handschrift ist
+                    aber in meinen Händen, und<seg type="comment">
+                  <orig> ich habe der Frau Gräfin
+                            bereits alles abschreiben lassen und geschickt, was sie
+                            wünscht.“</orig>
+                  <note xml:id="nbtd_55w_c2b">In den Archivalien des
+                            Familienarchivs nicht überliefert,</note>
+               </seg>
+            </p>
+                <p>Der Archivar Lisch meldete zugleich seine Überkunft zur Durchsicht aller im
+                    Archiv hierselbst befindlichen alten Familienakten. Es hat derselbe dabei 6 Tage
+                    zugebracht und war erfreut über den so reich ausgefallenen Fund zur näheren
+                    Aufklärung über Familienangelegenheiten.</p>
+                <p>
+                    <note type="editorial">Im Folgenden zur Schafzucht in Basedow, „Spekulation“ mit
+                        Wolle 1834 und Auslagen für Graf <persName key="ed_vkr_zvw_c2b">Cuno</persName> und dessen Aufenthalt in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>.</note>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

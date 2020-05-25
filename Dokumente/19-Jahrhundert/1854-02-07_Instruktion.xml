@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_h4j_csn_xcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Instruktion. Steinort, nach dem 7. Februar 1854</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_h4j_csn_xcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Hierzu gehören auch Instruktionen für das Schlosspersonal, jetzt in: APO,
+                        Bestand 382 FA Lehndorff, Nr. 118, verfasst von <persName key="ed_tcp_g3l_2y">Pauline von Lehndorff </persName>und <persName key="ed_wms_mh2_cy">Anna von Lehndorff </persName>(1836, 1854), mit
+                        detaillierten Angaben über die Speisung der Bedienten in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> sowie Instruktionen für die
+                        Haushälterin, in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort,
+                        Nr. 757. - Siehe auch: APO, Bestand 382 FA Lehndorff, Nr.153: Promemoria der
+                        Gräfin Anna Lehndorff betr. Wirtschaftsausgaben (Belege 1855-1893), Nr. 278:
+                        Schriftliche Arbeitsbefehle der Gutsherrschaft an Angestellte (1734-1910)
+                        sowie Nr. 296: Küchenzettel, Speisenverzeichnisse etc. (1797, 1824-1837,
+                        1887, 1890). </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 148, Bl. 1-3</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                    (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date notBefore="1854-02-08" notAfter="1854-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/3/148/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <hi rendition="#u">Instruktion für die Wirtschafterin in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               </hi>
+            </p>
+                <p>Da es bei dem Eintritt in einen neuen Wirtschaftskreis nötig und wünschenswert
+                    ist, mit den Pflichten und Anforderungen desselben möglichst bekannt zu sein, um
+                    sich mannigfache Unannehmlichkeiten zu ersparen, die aus Unkenntnis des
+                    Verhältnisses entstehen, so habe ich hier meine Wünsche und Bestimmungen
+                    niedergeschrieben mit dem tiefsten Vertrauen, dass die Wirtschafterin solche
+                    recht beherzigen und sich bemühen werde, ihre Stellung zu meiner Zufriedenheit
+                    auszufüllen.</p>
+                <p>Den Zeitpunkt des Aufstehens für die Wirtschafterin und die ihr untergebenen
+                    Mädchen setze ich für den Sommer um 4 Uhr, für den Winter um 5 Uhr fest.</p>
+                <p>Während jedes der Mädchen ihren bestimmten Arbeiten nachgeht, sorgt die
+                    Wirtschafterin für das herrschaftliche Frühstücksgedeck und die Ausgabe für den
+                    ganzen Tag.</p>
+                <p>Gegen 9 Uhr früh versammelt sich die Wirtschafterin mit ihren Mädchen oben im
+                    Schlosse zur Morgenandacht, nach der sie zu etwaigen Besprechungen sich bei mir
+                    melden kann.</p>
+                <p>Die Wirtschafterin hat 5 Tische zu besorgen</p>
+                <p>1. den herrschaftlichen Tisch gewöhnlich um 5 Uhr, Sonntags aber um 3 Uhr</p>
+                <p>2. den Offiziantentisch um 12 Uhr</p>
+                <p>3. den 1. Kammertisch</p>
+                <p>4. den 2. Kammertisch und Beitisch ebenfalls um 12 Uhr. Auf letzteren kommt
+                    Donnerstags und Sonntags Fleisch und alle Sonntage ein halber Liter Bier pro
+                    Mann, alle Feiertage eine Vorspeise und Braten und 1 Topf Bier pro Mann, 1/2
+                    Topf Bier pro Mädchen, am Feiertag-Abend erhalten alle Tische kaltes Essen und
+                    1/2 Bier. </p>
+                <p>Die Mädchen erhalten alle 1. und 2. Feiertage Kaffee von 1/Lot a Person, mit
+                    Milch und Honig angemacht, und Strietzel zugeschnitten. Die Männer erhalten <seg type="comment">
+                  <orig>Warmbier von Bier, Milch, Brot und Mehl</orig>
+                  <note xml:id="nygp_drf_nlb">Warme Biersuppe war auf dem Land ein häufiges
+                            Frühstück für Erwachsene wie für Kinder, wobei Dünnbier verwendet wurde;
+                            sie wurde durch die neue Mode verdrängt, morgens Kaffee zu trinken und
+                            dazu Brot zu essen.  </note>
+               </seg> mit Striezel und etwas Schmalz.
+                    Außerdem hat niemand Anspruch auf Frühstück oder Essen ohne meine spezielle
+                    Erlaubung, und die Waschfrauen erhalten an den Waschtagen Frühstück und
+                    Vesperbrot.</p>
+                <p>Alle Freitag ist Backtag für das Leute-Brot von 2 1/2 Scheffel Roggen und am
+                    Sonnabend für das feinere Tischbrot von 1 Scheffel.</p>
+                <p>Von dem Schwarzbrot werden auf die Woche jedem Mann 12 Pfund, jedem Mädchen 7
+                    Pfund ungebacken zugewogen.</p>
+                <p>Außerdem erhält der Rechnungsführer, der Wirtschafter und der Gärtner wöchentlich
+                    ein Tischbrot und täglich zum Frühstück für alle drei 1/2 Topf unabgerahmte
+                    Milch, wie solches letztere auch für das Schlosspersonal, Wirtschafterin, Damen,
+                    Kastellanin, Jäger, Bediente gegeben wird.</p>
+                <p>Von Ostern bis Michaelis in den langen Tagen bekommen die Leute Vesperbrot,
+                    bestehend aus 1/2 Quart saurer Milch für jeden.</p>
+                <p>Alle Vierteljahr ist große Wäsche und muss daher alles vorher gründlich von der
+                    Wirtschafterin nachgesehen und von ihr und ihren Mädchen ausgebessert werden.
+                    Auch muss sie die Wäsche selbst persönlich beaufsichtigen, damit nicht
+                    Unordnungen und Verschwendung von Seife usw. vorkommen, was ohne Aufsicht so oft
+                    einreißt. An Wäsche hat die Wirtschafterin zu verteilen:</p>
+                <p>A. An Bettwäsche</p>
+                <p>Den Offizianten und der Wirtschafterin, Köchin und Stubenmädchen alle 4
+                    Wochen</p>
+                <p>dem Jäger und Bedienten alle 6 Wochen</p>
+                <p>den Stallleuten Knechten und Mädchen alle 1/6 Jahr</p>
+                <p>B. Handtücher</p>
+                <p>Den Offizianten, der Wirtschafterin, dem Jäger, Bedienten, Köchin und
+                    Stubenmädchen wöchentlich, jedoch dem Rechnungsführer 2</p>
+                <p>den Mädchen je zwei wöchentlich 1</p>
+                <p>den Stallleuten, Knechten alle 14 Tage 1</p>
+                <p>C. Tischtücher und Servietten</p>
+                <p>Für den Offizianten und 1. Kammertisch alle 14 Tage ein Tischtuch und alle 8 Tage
+                    Servietten</p>
+                <p>D. Wischtücher</p>
+                <p>Dem unteren Stubenmädchen 4 lange und 4 kurze zum Reinigen, in der Küche 2 lange
+                    und 2 kurze und dem Gärtner 1 langes</p>
+                <p>Alle Frauen, die beim Heckseln, beim Gänse- und Schweineschlachten und Kuhmist
+                    machen, beim Seife kochen oder großen Wäsche und <gap reason="illegible"/>
+                    gebraucht werden, hat die Wirtschafterin stets in das dazu bestimmte <unclear reason="illegible" cert="low">Dienste</unclear>buch einzutragen, mir zur
+                    Genehmigung vorzulegen und dem <gap reason="illegible"/> Oberinspektor mit
+                    Angabe der Zeit, wann sie gebraucht worden, <gap reason="illegible"/> zu lassen. </p>
+                <p>Für möglichst frühzeitige Ablieferung des Flachses muss die Wirtschafterin sorgen
+                    und es dann genau im Gespinstbuch verzeichnen. Mitte November lässt sie dann
+                    durch den Wirtschafter alle Hospitaliten, die 1 Kuh haben und auf den selbst
+                    administrierten Gütern verpflichtet sind, 10 Pfund Grob-<gap reason="illegible"/> oder 6 Pfund Fein-<gap reason="illegible"/> oder 4 Pfund Flachs unentgeltlich
+                    spinnen kommen, und gibt ihnen das Gespinst, welches sie zum Heil. Dreikönigstag
+                    abzuliefern haben, und zur besseren Übersicht für die Wirtschafterin füge ich
+                    auch die Leistungen der ihr untergebenen Mädchen bei.</p>
+                <p>Alle täglichen Geschäfte als Reinigen der Hausflure, Treppen, Wirtschafterin-,
+                    Offizianten-, Jungfern- und Bedienten- und Ess-Stuben, darin das Essen
+                    aufgetragen, und Reinigen der Geschirre für den Offizianten- und den 1.
+                    Kammertisch, das Heizen der Öfen pp. hat das untere Stubenmädchen (zur Zeit
+                    Maria <persName key="ed_zp3_3kl_ddb">Knopke</persName>) zu besorgen und in der
+                    übrigen Zeit zu spinnen, zu nähen oder auszubessern.</p>
+                <p>Alle Verrichtungen in der Küche als Holz und Wassertragen, die Küche selbst und
+                    alles Geschirr darinnen zu reinigen und in bester Ordnung zu halten sowie auch
+                    das Leute-Kochen und Brotteigkneten hat die Köchin (zur Zeit Jette <persName key="ed_jdc_lkl_ddb">Schaffran</persName>) zu verrichten.</p>
+                <p>Das tägliche Reinigen des Federviehstalls, das Füttern und Beaufsichtigen des
+                    Federvieh selbst, das Mästen der Gänse und Enten pp. liegt der <gap reason="illegible"/>-Frau (zur Zeit Sand) ob, außerdem hat sie der Köchin
+                    beim Kartoffeln reinigen, Fisch schrapen, Gemüse putzen und beim Brot backen zu
+                    helfen, dem 2. Kammertisch und Beitisch das Essen aufzutragen, das Geschirr zu
+                    reinigen und in der übrigen Zeit zu spinnen. Sie hat auch die Abtritte im
+                    Schlosse täglich zu reinigen.</p>
+                <p>Das Milchen dreimal des Tages, im Sommer schon um 2 Uhr Morgens vor dem
+                    Austreiben der Kühe, wie auch das Füttern der Kälber, das Reinigen der
+                    Milchgeschirre hat das Milchmädchen (zur Zeit Auguste <persName key="ed_evv_4kl_ddb">Scheumann</persName>) zu verrichten, außerdem zu
+                    buttern, zu nähen, zu spinnen und zu weben.</p>
+                <p>Das Füttern der Schweine und das Reinigen des Stalles hat zur Zeit die Luise
+                        <persName key="ed_prt_skl_ddb">Pollaschke</persName> zu besorgen und
+                    außerdem in der Küche und beim Buttern pp zu helfen.</p>
+                <p>Das Spinnmädchen Lotte <persName key="ed_eyw_vkl_ddb">Soyan</persName> hat außer
+                    dem Spinnen beim Milchen zu helfen und bei großen Reinigungen.</p>
+                <p>Die 6 Waisenkinder, welche ich hier im Schlosse erziehe, lege ich meiner
+                    Wirtschafterin noch recht besonders an das Herz, dass sie dieselben mit
+                    mütterlicher Liebe und Ernst überwache und sie zu Reinlichkeit, Ordnung und
+                    Fleiß anhalte. Sie müssen, wenn sie nicht in der Schule sind, zu häuslichen
+                    Arbeiten als Gemüse putzen, Geschirr reinigen, Spinnen und Spulen angehalten
+                    werden, damit sie beizeiten lernen, in den Verhältnissen, darin sie geboren,
+                    tätig und tüchtig zu werden. Näheres werde ich mündlich noch darüber mit der
+                    Wirtschafterin besprechen. Im Reinigen ihrer Stube haben sie sich so wie auch
+                    die Wirtschaftsmädchen in der ihren abzuwechseln. Es hat die Wirtschafterin
+                    täglich solches zu kontrollieren, dass es ordentlich geschehe, die Betten
+                    täglich saubergemacht werden, wie sie überhaupt das ganze untere Personal
+                    ernstlich zur Ordnung, Reinlichkeit und Pünktlichkeit anzuhalten hat, auch auf
+                    deren Anzug zu sehen, dass er stets sauber und ordentlich und alle Mädchen und
+                    Kinder stets <unclear reason="illegible" cert="high">Käppel</unclear>
+                    tragen.</p>
+                <p>Im allgemeinen ist es mein Wunsch, dass die Wirtschafterin überall auf
+                    größtmögliche Ordnung und Sauberkeit achte auf den Fluren, Treppen, in der
+                    Küche, dass Kasserollen, Töpfen und Geschirre nach jedesmaligen Gebrauch
+                    sogleich gereinigt werden und Tische und Bänke in reinlichstem Zustand erhalten
+                    werden.</p>
+                <p>Zur Erleichterung des Reinigens bestimme ich, dass auf dem hinteren Hausflur, in
+                    der Küche und Gesindestube täglich Sand gestreut werde.</p>
+                <p>Am Sonnabend haben alle Mädchen beim Scheuern und Putzen zu helfen und hat die
+                    Wirtschafterin zu überwachen, dass es nicht oberflächlich oder schlecht
+                    geschehe, ganz besonders gilt dieses von dem vierteljährlichen großen Scheuern
+                    des Hauses pp.</p>
+                <p>Im Winter haben die Mädchen der Köchin beim Holz und Wasser tragen zum Sonntag zu
+                    helfen und soll Sonntag abends an allen Tischen nur kaltes Abendbrot gegeben
+                    werden, damit die Köchin auch den Ruhetag genieße.</p>
+                <p>Sonntags hat die Wirtschafterin die Mädchen zu ermahnen, abwechselnd in die
+                    Kirche zu gehen, etwaige Besuche derselben bei ihren Verwandten hat sie mir zu
+                    melden, doch dürfen die Mädchen nie länger wie bis 9 Uhr abends fortbleiben. Zum
+                    Tanz dürfen die Mädchen nie ohne meine Spezial-Erlaubnis gehen. Es ist mein
+                    entschiedener Wille, dass sich niemand in der Mädchenstube umhertreibe,
+                    namentlich Männer, die dort nie etwas zu suchen haben, deshalb hat die
+                    Wirtschafterin streng darauf zu sehen, dass weder Boten, Bettler noch Juden sich
+                    dort aufhalten.</p>
+                <p>Von Ostern bis Michaelis haben die Mädchen nach dem Abendbrot frei. Im Winter sie
+                        <unclear reason="illegible" cert="low">Klunkern</unclear> mit 1 Sgr. 5 D
+                    bezahlt bekommen. Im Sommer haben alle Hospitaliten ohne Ausnahme auf 2-3 Tage
+                    herzukommen und die herrschaftlichen Federn zu reißen, wo sie denn auch Mittag
+                    und Vesper bekommen.</p>
+                <p>Das ab- und wieder eingelieferte Garn hat die Wirtschafterin recht pünktlich
+                    stets in das Gespinstbuch einzutragen, jeden Mangel am Gespinst mir gleich zu
+                    melden, sich selbst aber die guten und schlechten Spinnerinnen zu merken für
+                    künftige Austeilungen. Über die Verwendung des Garns werde ich stets persönlich
+                    verfügen.</p>
+                <p>Auch in den übrigen Buchführungen hoffe ich auf die Gewissenhaftigkeit und
+                    Pünktlichkeit der Wirtschafterin. In dem Fischbuch sind die wöchentlichen
+                    Fischlieferungen genau einzutragen. In dem Wildbuch sind die jedesmaligen
+                    Lieferungen der einzelnen Jäger zu bezeichnen. In dem Schlachtbuch ist alles an
+                    die Wirtschaft gelieferte Schlachtvieh zu bemerken, in dem Milchbuch nach
+                    jedesmaligem Melken der Ertrag und später der Verbrauch anzuführen. In dem
+                    Viehbuch sind die Lieferungen der Leute und des eigenen Federviehs sowie auch
+                    der tägliche Verbrauch einzutragen, in dem Lichtbuch der Zugang und Abgang genau
+                    anzunotieren und endlich in dem Ausgabenbuch alle kleineren laufenden
+                    Wirtschaftsausgaben einzutragen.</p>
+                <p>Diese Bücher werden mir von der Wirtschafterin alle 1. des Monats zur Durchsicht
+                    vorgelegt.</p>
+                <p>Die Inventarien hat die Wirtschafterin mit größtmöglichster Treue und Wachsamkeit
+                    zu beaufsichtigen und alle 1/4 Jahre sämtliche Sachen durchzugehen, die nötig
+                    auszurangierenden Stücke mir vorzulegen und Ab- und Zugang stets pünktlich im
+                    Inventarienbuch, welches ich ihr übergeben, einzutragen.</p>
+                <p>Auf die Betten des Inventariums hat die Wirtschafterin ihr besonderes Augenmerk
+                    zu richten, dieselben hier in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> öfters zu revidieren, für ihr fleißiges Lüften im
+                    Sommer Sorge zu tragen und alle 1/4 Jahr die Betten auf den Vorwerken zu
+                    revidieren, um nötige Umschüttungen pp. beizeiten vornehmen zu lassen und
+                    überhaupt gute Ordnung unter den Betten zu halten.</p>
+                <p>Alle Frühjahr muss die Wirtschafterin mit dem Gärtner besprechen, was für die
+                    Wirtschaft im herrschaftlichen Küchengarten zu pflanzen und zu sähen nötig sei.
+                    Im Oktober ist dann das Gemüse pünktlich abzufordern, um in die Keller gebracht
+                    zu werden.</p>
+                <p>Bei dem Obstpflücken muss sie zugegen sein, dasselbe in Empfang nehmen, um für
+                    die Erhaltung des Tafelobstes wie für die beste Bereitung des Backobstes zu
+                    sorgen.</p>
+                <p>Auch beim Honigausbrechen muss die Wirtschafterin zugegen sein, ihn in Empfang
+                    nehmen und tätig und umsichtig die Läuterung desselben besorgen. </p>
+                <p>Die sorgsamste, beste Behandlung des Fleisches und Einteilung und sparsame
+                    Verwendung desselben hoffe ich zuversichtlich von der Wirtschafterin, da ich
+                    daran festhalte, dass jedem das seine gut und ordentlich zukomme, aber auch das
+                    geringste nicht verkomme oder vergeudet werde.</p>
+                <p>Den Schlüssel zum Eiskeller führt die Wirtschafterin allein und dürfen die Leute
+                    allein nie dort hingeschickt werden, da solch ein nur allzu leicht zur
+                    Gewohnheit werdendes Schicken die Leute allmählich zu Veruntreuungen führt und
+                    zu Unordnungen aller Art Anlass gibt.</p>
+                <p>Auch hat die Wirtschafterin zur Vermeidung von Durchstechereien und Schleppereien
+                    nach jedesmaliger Mahlzeit alle Essensüberreste in Empfang zu nehmen und zum
+                    anderen Tage zu verwenden oder Armen, denen ich es erlaube, zu verabreichen.</p>
+                <p>Das tägliche Beaufsichtigen in der Zeit der Gänsemästung, des Fütterns und des
+                    regelmäßigen Austeilens desselben erwarte ich bestimmt von der Wirtschafterin,
+                    damit durch große Pünktlichkeit und Ordnung auch dieser Zweig der Wirtschaft dem
+                    Ganzen Ehre mache.</p>
+                <p>Ebenso wünsche ich, dass die Wirtschafterin recht oft dem Melken der Kühe
+                    beiwohne und das gehörige Ausmilchen derselben beaufsichtige, da durch Faulheit
+                    der Mädchen so viel Milcherträge verloren gehen können. Auch die öftere
+                    Inspizierung der Kälber und Schweine verlange ich von der Wirtschafterin, damit
+                    in allen Dingen Ordnung herrsche.</p>
+                <p>Wenn Vorräte in der Wirtschaft ausgegehen, so hat die Wirtschafterin mir solches
+                    rechtzeitig zu melden, damit ich dieselben mit Muße ergänzen kann.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

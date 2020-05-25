@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_nyv_2lj_dbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich Julius von Goldbeck an den Magistrat von Berlin. Berlin, 27. April 1799 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_nyv_2lj_dbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 204, Bl. 2</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_gpd_4hr_gbb">Goldbeck, Heinrich Julius von
+                        (1733-1818)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1799-04-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_v3n_jfm_gbb">Berliner Magistrat</orgName>
+                </correspAction>
+                <note>Abschrift des Prüfungsbescheides in: Ziebura, Tagebuch, S. 138. - Lehndorff
+                    schreibt: <quote>Die ersten Schritte eines jungen Mannes in der großen Welt sind
+                        immer von tausend Schwierigkeiten begleitet, und meine Entscheidung, in
+                            <placeName key="ed_xrv_gwb_by">Berlin</placeName> zu bleiben, um ihm bei
+                        diesen ersten Schritten zu helfen, erweist sich als unbedingt
+                        notwendig.</quote> In den kommenden Tagen besuchte er mit ihm <quote>alle
+                        hohen Justizbeamten</quote> und versuchte, ihn <quote>dem ganzen
+                        Richterstand von Berlin zu empfehlen</quote>. Letztendlich brachte er ihn
+                    beim Geheimrat <persName key="ed_fqc_45l_w2b">Gerresheim</persName>, Präsident
+                    des <orgName key="ed_pj4_1tp_tcb">Berliner Stadtgerichts</orgName>, unter, womit
+                    er <quote>in die Justizlaufbahn, die er selbst gewählt hat, eingeführt</quote>
+                    war. Am 4. Mai 1799 legte er seinen Eid ab, vgl. ebd., S. 109 ff. und
+                    144.</note>
+            </correspDesc>
+            <abstract>
+                <p>Nachdem <quote>
+                  <persName key="ed_pv1_b4g_hy">Graf von Lehndorff</persName> in dem
+                        mit ihm abgehaltenen Examina eine ganz vorzügliche gründliche Theorie der
+                        Rechte an den Tag gelegt hat</quote>, erteilte <persName key="ed_tl1_nbf_4y">Friedrich Wilhelm III. König von Preußen</persName> den
+                        <quote>Spezial-Befehl</quote>, dass Lehndorff als Auskultator am <orgName key="ed_pj4_1tp_tcb">Berliner Stadtgericht </orgName>angestellt wird. Er
+                    sollte <quote>unverzüglich</quote> vereidigt werden. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

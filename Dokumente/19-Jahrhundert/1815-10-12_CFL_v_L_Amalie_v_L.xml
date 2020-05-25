@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_os2_fmm_bdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Evreux, 12. Oktober 1815</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_os2_fmm_bdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 598-600</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_lwx_4jr_bdb">Evreux</placeName>
+                    <date when="1815-10-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (Hirschberg 9.4.1751-Königsberg, Roßgärter Markt
+                        12.11.1830)</persName>
+                </correspAction>
+                <note>Lehndorff hatte sich eine neue militärische Aufgabe in Preußen erhofft, hatte
+                    aber eine Kavalleriebrigade bei der Okkupationsarmee in <placeName key="ed_ust_ky4_dz">Frankreich</placeName> erhalten. In finanzieller
+                    Hinsicht war das vorteilhaft, da die Armee in Frankreich über größere Etats
+                    verfügte. <quote>Dies ist, wie Sie wissen, liebe Mutter, ein Hauptargument für
+                        mich, da meine finanziellen Verhältnisse doch eigentlich das alleinige und
+                        notgedrungene Mobil meines Dienstes sind, gerne vertausche ich sonst,
+                        glauben Sie es mir, das Schwert mit dem Spaten</quote>, vgl. Schultze,
+                    Lebensbild, S. 601.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Evreux, den 12. Oktober 1815</dateline>
+					          <salute>Teuerste Mutter!</salute>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/> Ich sage Ihnen nichts über die großen Ereignisse der Zeit. Die
+                    große Posaune der Zeitungsblätter stellt wenigstens die Hauptresultate richtig
+                    dar, wenn sie auch in den Ursachen und Ereignissen, die sie herbeiführen, oft
+                    sehr falsche Töne heraus stößt. Meine kleine Lebensgeschichte ist mit manchen
+                    Widerwärtigkeiten begleitet gewesen. Nach spät erhaltener Bestimmung zum 1.
+                    Armeekorps und einigen Negationen wegen Gewissheit der versprochenen Brigade,
+                    welche meinen Aufenthalt in <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    mehr als es sonst der Fall gewesen verlängert hatten, ging ich der leidigen
+                    Ökonomie halber mit eigenen Pferden und der Etappenstraße nach zur Armee ab. Ich
+                    wählte umso mehr diesen Weg, weil es sehr unangenehm ist, ohne Pferde bei der
+                    Armee zu sein, dort es sehr schwer gehalten hätte und sehr kostspielig, welche
+                    zu akquirieren, und endlich damals für ganz gewiss anzunehmen war, dass die
+                    Operationen vor eingetretener Ernte nicht beginnen würden. <persName key="ed_xzh_bgg_h1b">Napoleons</persName> Tollheit änderte alles. Unterwegs
+                    erhielt ich die Nachricht von den begonnenen Feindseligkeiten. Ich ließ meine
+                    Pferde im Stich und eilte zur Armee. Die großen Tage und die großen Taten des
+                        <seg type="comment">
+                  <orig>15., 16. und 18. Juni </orig>
+                  <note xml:id="ndqr_br4_1fb">
+                     <ref target="https://de.wikipedia.org/wiki/Schlacht_bei_Waterloo">Schlacht bei Belle-Alliance</ref>
+                  </note>
+                    </seg>aber waren vorbei und wie alles Vergangene unwiderruflich. Alles, was noch
+                    geschah, war mehr fatigue als Kampf, außer die Tage vor <placeName key="ed_uyx_nvn_my">Paris</placeName>. <gap reason="insignificant"/>
+            </p>
+                <p>General <persName key="ed_xyh_mfr_gbb">Zieten</persName> ist gegen mich von einer
+                    gesuchten Zuvorkommenheit, Freundschaft und Güte; auch favorisiert er mich in
+                    manchem militärischen Verhältnis soviel er kann. So habe ich die Einschließung
+                    von <placeName key="ed_qbf_xgs_bdb">Laon</placeName> geführt, die Kapitulation
+                    abgeschlossen, die französischen Truppen geleitet etc., ein ziemlich bedeutendes
+                    Remonte-Geschäft für die Armee in der Normandie besorgt etc. Dieses alles hat
+                    mich 2 Monate in steter Bewegung erhalten und mich doch des eigenen Vorwurfs
+                    entledigt, nicht das meinige zur allgemeinen Pflicht beizutragen und mein Gehalt
+                    und Standpunkt ohne Nutzen zu bekleiden. - Was jetzt nach erfolgtem Frieden aus
+                    mir und überhaupt aus allen Teilen und Individuen der Armee werden wird, weiß
+                    der Himmel. Wie vorzüglich die Verhältnisse in und mit Frankreich zu stehen
+                    kommen werden, wie lange dieses von tausend Leidenschaften und Fraktionen im
+                    Inneren zerrissene und unglückliche Land seine momentane Ruhe und Verfassung
+                    erhalten wird, ob die hier zu befürchtenden Stürme nicht wieder einen
+                    entscheidenden Einfluss auf Europa haben werden, sind unzubeantwortende
+                    Fragen.</p>
+                <p>Sie wissen, liebe Mutter, welche Gründe mich - eigentlich sehr gegen meine
+                    Neigung - noch im Dienst erhalten. Da ich diesen Zustand aber als temporär
+                    betrachte, weiß ich selber nicht recht, was ich für mich suchen und wünschen
+                    soll. Der Soldat in Friedenszeiten ist entweder ein sehr geplagtes oder sehr
+                    unnützes Geschöpf. Beides ist mir nicht wünschenswert. Gern hätte ich eine
+                    angemessene Stellung in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>,
+                    weil das mein dienstliches Verhältnis mit meinem häuslichen vereinbar machen
+                    würde - welche aber? Und wie sollte sich das gerade so fügen? Die Landwehren
+                    sind in rein militärischer Hinsicht höchst fatal, zum Regimentskommandeur bin
+                    ich beinahe zu hoch rauf in der Armee. Doch wäre mir das noch das liebste, wenn
+                    es nur ein recht gutes, altes und bewährtes Regiment wäre. Denn im Organisieren
+                    und Formen habe ich ein Haar gefunden. Nun Gott wird es lenken!</p>
+                <p>Denken Sie sich, liebe Mutter, eine sonderbare Bestimmung, die ich bei einem Haar
+                    gehabt hätte. <seg type="comment">
+                  <orig>
+                     <persName key="ed_xzh_bgg_h1b">Napoleon</persName> sollte und soll durch Kommissarien von allen
+                            gegen ihn koalisierten Mächten auf der <placeName key="ed_wqc_khs_bdb">Insel Helena</placeName> bewacht werden. </orig>
+                  <note xml:id="nbv4_4s4_1fb">Am <ref target="https://www.br.de/radio/bayern2/sendungen/kalenderblatt/0808-napoleon-st-helena-verbannung100.html">8. August 1815</ref> war Napoleon auf die kleine Insel in der
+                            Südsee gebracht worden.</note>
+               </seg>Lange hat man in der Armee nach
+                    jemandem gesucht, der zu diesem Geschäfte vermöge des militärischen Grades,
+                    Sprache, Denkart etc. passlich wäre. Auch mir hat man die Proposition gemacht,
+                    und wirklich, einige Jahre jünger, und wenn die Kondition, wenigstens auf zwei
+                    Jahre sich zu verpflichten dort zu bleiben nicht dabei gewesen wäre, so weiß ich
+                    nicht, ob ich nicht der Sonderbarkeit der Geschichte halber und um diesen doch
+                    immer noch außerordentlichen Vogel genauer kennenzulernen, mich dazu pretiert
+                    hätte. So aber habe ich es doch zu viel gefunden, von den sparsam zugemessenen
+                    Lebensjahren 2 so gut als wegzustreichen, nicht gerechnet das Jahr, welches auf
+                    der Reise hin und zurück drauf geht.</p>
+                <p>Ich habe vor einigen Tagen zu <placeName key="ed_uyx_nvn_my">Paris</placeName>
+                    bei Gelegenheit einer Revue über das 3. Armeekorps <seg type="comment">
+                  <orig>meine lieben Kinder gesehen</orig>
+                  <note xml:id="nfcm_kjr_bdb">Seine Neffen <persName key="ed_cgy_xtf_4y">August</persName> und
+                                <persName key="ed_v43_db1_hy">Louis</persName> Grafen von Dönhoff. -
+                            In einem Brief an die Mutter vom 10. August 1816 geht er ebenfalls
+                            darauf ein. Zuvor war Stanislaus Graf von <persName key="ed_fkf_dk1_r2b">Dönhoff</persName> im Duell erschossen worden. Emil Graf von
+                                <persName key="ed_q32_qn2_b2b">Dönhoff</persName> war nach Jahren
+                            der Abwesenheit in einem schlesischen Brüderpensionat in das Elternhaus
+                            zurückgekehrt. <quote>Wenn ihn seine Vorliebe der Landwirtschaft
+                                zuteilt</quote>, solle ihn der Vater nicht davon abhalten, zumal
+                            August und Louis <quote>nicht dazu gestimmt scheinen.</quote> - Briefe
+                            der Dönhoff-Söhne, in: APO, Bestand 382 FA Lehndorff, Nr. 434, 437 und
+                            439. Siehe auch: APO, Archiwum rodziny Dönhoff z Drogoszy pow.
+                            Kętrzyński, Nr. 231 (Familienerinnerungen, niedergeschrieben von Cecilie
+                            Gräfin von Dönhoff). </note>
+               </seg> und diese Begegnung hat mir eine
+                    unbeschreibliche Freude gemacht. August ist noch hübscher geworden, als er war,
+                    er und auch Louis so gut geblieben und rein, als sie aus dem elterlichen Hause
+                    gingen. Ich sage es immer: die Race ist untrüglich. <gap reason="insignificant"/> Der vernünftige, gute, liebe August ist seinem Entschluss, seine Studien
+                    fortzusetzen, treu geblieben, und wünscht sehr, bald nach Hause zu gehen. Louis
+                    dem seinen, als Soldat dem Vaterland seine Pflichten zu weihen. <gap reason="insignificant"/>
+            </p>
+				        <closer>
+					          <salute>Gott segne und beglücke Sie meine Mutter!</salute>
+					          <signed>Carl</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

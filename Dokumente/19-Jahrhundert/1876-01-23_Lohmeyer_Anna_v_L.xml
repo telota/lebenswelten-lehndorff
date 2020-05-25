@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hqc_v2v_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Lohmeyer an Anna Gräfin von Lehndorff. Königsberg, 23. Januar
+                    1876</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hqc_v2v_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Herkunft/Genealogie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 496, Bl. 8-8v</idno>
+                    </msIdentifier>
+                     
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_kkv_g5l_gbb">Lohmeyer, Karl (1878-1957)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1876-01-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Am 15. Oktober 1879 (Bl. 9-10) übersandte Lohmeyer den ersten Teil seiner
+                        <quote>Geschichte unserer Provinz</quote> [Ost- und Westpreußen, Bd. 1: Bis
+                    1411, erschienen bei Perthes, Gotha 1880] und hoffte, die Schlusshälfte bis
+                    Ostern nachliefern zu können. Das Buch sei eine <quote>für einen größeren
+                        Leserkreis berechnete Zusammenstellung der seit Joh. Voigt gewonnenen
+                        Resultate der wissenschaftlichen Forschung, eigener wie fremder</quote>, er
+                    beabsichtige darüber hinaus <quote>die Ordensgeschichte noch einmal einer
+                        eigenen Untersuchung zu unterziehen und in einem mehr wissenschaftlich
+                        gehaltenen Werk zu veröffentlichen</quote>, falls seine Kräfte ausreichen. -
+                    Nach einem Fehlschlag habe er sich nun auch endlich am letzten Sonnabend
+                    verlobt, seine Braut sei Lehrerin an einer städtischen Schule in Berlin, Bertha
+                        <persName key="ed_ur3_4ql_f2b">Heinrich</persName> aus Arys, die Anna
+                    Lehndorff wohl kenne, und bei der sie <quote>gütigst dargeliehene Bücher
+                        rechtzeitig abzuliefern versäumt hat</quote>, was sie nachzuholen
+                    verspreche. - Im Mai 1886 erhielt Lohmeyer die Erlaubnis, aus den Steinorter
+                        <quote>Schätzen eine Auswahl für unsere Ausstellung an Ort und Stelle
+                        treffen zu dürfen</quote>, wozu er am 27. Mai persönlich <quote>mit dem
+                        Vormittagszug der Südbahn bis <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName>
+               </quote> reisen wollte. Bei seiner Anwesenheit in
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> hoffte er zu erfahren,
+                        <quote>ob nicht etwa in der Nachbarschaft noch sonstwo Schätze für uns zu
+                        heben sind, wo etwa dort noch anzuklopfen wäre</quote> (Bl. 11, Königsberg,
+                    2. Mai 1886).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/496/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 23. Januar 1876</dateline>
+					          <salute>Gnädigste Frau Gräfin!</salute>
+                </opener>
+				        <p>Ew. Hochgeboren beeile ich mich für die geneigte Berücksichtigung, welche Sie meinem
+                    neulichen Gesuch haben zuteil werden lassen, meinen wärmsten Dank abzustatten.
+                    Wenn ich auch bei der lebhaften Teilnahme, welche die Durchforschung der älteren
+                    Geschichte unserer Provinz stets bei Ihnen gefunden hat, nicht einen Augenblick
+                    überhaupt an einem Erfolge meiner ergebensten Bitte zweifeln durfte, so habe ich
+                    mir doch auf eine so bereitwillige und wohlwollende Unterstützung meines Werkes,
+                    die ja ohne jede Belästigung nicht gut angehen kann, kaum Hoffnung zu machen
+                    gewagt. Von der freundlichst geneigten Einladung, mit welcher Sie mich beehren,
+                    werde ich sehr gern Gebrauch machen, nur sehe ich mich durch meine amtliche
+                    Tätigkeit in der Wahl der Zeit etwas beschränkt. Die Sache bis zum September
+                    hinauszuschieben, würde mir, fürchte ich, für meine ganze Arbeit eine sehr
+                    unangenehme Verzögerung bereiten, von Ende April aber bis Ausgang Juli wären die
+                    Vorlesungen, die nur durch die achttägigen Pfingstferien unterbrochen werden,
+                    und für diese freie Woche, <seg type="comment">
+                  <orig>die ja für meinen Zweck
+                            sonst wohl ausreichen würde</orig>
+                  <note xml:id="nl2g_gg3_jlb">Es ging um
+                            die Vorarbeiten zu: Herzog Albrecht von Preußen. Eine biographische
+                            Skizze. Festschrift zum 17. Mai 1890, Danzig 1890. </note>
+               </seg>, <seg type="comment">
+                  <orig>habe ich mich bereits der hiesigen K. <orgName key="ed_ewq_4lq_f2b">physikalisch-ökonomischen Gesellschaft
+                            </orgName>gegenüber zur Vornahme einer archäologischen Untersuchung
+                            verpflichtet,</orig>
+                  <note xml:id="nppt_yd2_kfb">Am Ende des Jahres nimmt
+                            die physikalisch-ökonomische Gesellschaft Carl Meinhard von Lehndorff
+                            zum auswärtigen Mitglied auf, siehe das Dokument vom <ref target="lehndorff_xkw_w4z_3fb">4. Dezember 1876</ref>.</note>
+               </seg>
+                    es würde mir also nichts erübrigen, als innerhalb der Osterferien den mir
+                    freundlichst gestatteten Besuch in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> auszuführen, und da das Osterfest in diesem Jahr auf
+                    den 16. April fällt, würde mir unmittelbar nach demselben gewiss noch
+                    ausreichende Zeit dazu verbleiben. Ich darf es kaum erwähnen, dass ich sofort
+                    bereit bin, eine andere mir freistehende Zeit zu wählen, wenn die eben
+                    bezeichnete Ew. Hochgeboren aus irgendwelchen Rücksichten nicht zusagen
+                    sollte.</p>
+				        <closer>
+					          <salute>Ich verbleibe, Hochverehrte Frau Gräfin, in schuldigster Ehrerbietung und Dankbarkeit
+                        <lb/>Ew. Hochgeboren ganz ergebenster</salute>
+					          <signed>Lohmeyer</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

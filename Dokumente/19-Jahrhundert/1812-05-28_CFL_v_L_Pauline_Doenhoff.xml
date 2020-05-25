@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xqv_tkd_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Pauline Gräfin von Dönhoff. Steinort, 28. Mai 1812</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xqv_tkd_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 270 </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1812-05-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von, geb. Gräfin von
+                        Lehndorff (1823-1889)</persName>
+                </correspAction>
+                <note>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName> musste von Ende Mai bis
+                    Mitte Juli die von Lehndorff angekündigte Einquartierung versorgen, vgl. hierzu
+                    den Brief an die <persName key="ed_gnc_c1m_2y">Mutter</persName> vom 15. Juli
+                    1812, ebd. S. 271-273. Der Brief endet: <quote>Das Herzbrechendste ist der
+                        Zustand der Unglücklichen, deren Anblick auch mich unglücklich macht. Kinder
+                        sterben effektiv vor Hunger, ohne dass es mir möglich wird, sie alle zu
+                        retten. Meine kleinen Vorräte sind längst aufgezehrt, und leider setzt die
+                        kalte Witterung die Ernte immer weiter hinaus. Der letzte Ruck ist der
+                        schlimmste, denn jeder Tag der Subsistenz ist von den Armen schon auf die
+                        neue Frucht berechnet. Ich habe an <persName key="ed_pkh_3gv_mbb">Poltzien</persName> geschrieben, um genau die Preise der Getreide in
+                            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu erfahren, und
+                        werde wahrscheinlich nach Königsberg ein paar Wagen schicken müssen, um Korn
+                        zu holen, welches hier gar nicht mehr zu haben ist. Glücklich noch, dass
+                            <placeName key="ed_pxt_cnh_1y">Steinort</placeName> selbst seiner
+                        günstigen Lage halber und - ich kann es ohne Ruhmredigkeit sagen - durch
+                        meine getroffenen Maßregeln ziemlich verschont durchgekommen ist. Ich bin
+                        zwar selbst hier 2 Mal durch Kommandos von 20 und 30 Mann fouragiert worden,
+                        doch geschah es, wirklich recht glücklicher Weise, durch ein paar rechtliche
+                        Menschen, die ich der Sache angemessen behandelte und welche ihre Pflicht
+                        mit Menschlichkeit und Rechtlichkeit verbanden. Es war zu Anfang dieser
+                        Krisis und wäre es mir da so gegangen, wie einigen meiner Nachbarn, so wäre
+                        das Unglück meiner armen Bauern noch weit ärger geworden, denn ich hätte sie
+                        müssen verhungern sehen, ohne sie retten zu können</quote> Zusätzlich
+                    verwüstete ein Orkan mit Hagelschlag einen Teil des Winterfeldes von <placeName key="ed_xpm_112_gy">Labab</placeName> und zerstörte die einzige Scheune des
+                    Vorwerks und den halben Viehschuppen, Wagen und Gerätschaften. - Zu den durch
+                    das französische Militär angerichteten Schäden: GStA PK, XX. HA, Rep. 54
+                    Gutsarchiv Lehndorff-Steinort, Nr. 282 (Beantragung von Retablissementsgeldern
+                    1806/07) und Nr. 187 (1812/13).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>
+               <note type="editorial">Er teilt ihr seine Ankunft in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> mit.</note> Hier in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> habe ich ganz gegen meine kühnsten Erwartungen noch
+                    alles Gottlob im Frieden gefunden. Das habe ich gewiss meinen Vorstellungen
+                    alles möglichen zu erwartenden Ungemachs, welche ich mir unterwegs gemacht, zu
+                    danken. Denn es war, unserm bekannten System gemäß, keine Branche der Fatalität,
+                    die ich mir nicht gedacht. So habe ich denn alles noch leidlich gefunden, außer
+                    der wahren Verheerung, welche der Frost hier auf den Wiesen und bei der jungen
+                    aufgegangenen Erbsen- und Gerstensaat gemacht. Es ist doch recht auffallend,
+                    welchen Unterschied die geringe Distanz von Dir bis hierher im Klima macht.
+                    Unsere wehrten Alliierten stehen ziemlich gedrängt in <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName>, <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, <placeName key="ed_sz3_kqp_tcb">Thiergarten</placeName> und <placeName key="ed_icf_3tm_zcb">Fürstenau</placeName>, also wie Du siehst, mir höllisch auf die Nägel, und
+                    gewiss habe ich es nur meinen finsteren Vorstellungen zu danken, dass ich sie
+                    nicht hier gefunden. Täglich ziehen neue Truppen durch die Güter, doch bisher
+                    noch keine Franzosen. <seg type="comment">
+                  <orig>Die benannten Nachbarn sind
+                            Württemberger und ich kann wirklich dem Himmel nicht genug danken, in
+                            Frieden haben zusehen können.</orig>
+                  <note xml:id="nw2r_p4k_wcb">So
+                            unklar in der Vorlage.</note>
+               </seg> Außer einigen Transportfuhren der
+                    durchziehenden Truppen, wobei der arme alte <persName key="ed_omg_r4k_wcb">Goldstein</persName>, der impertinent geworden, gestern einige Püffe
+                    erhalten, und einigen Magazinfuhren von <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> nach <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> sind wir bisher selbst von bedeutenden Fuhren
+                    verschont geblieben. Doch ich will meinem avouierten Aberglauben gemäß mein
+                    Glück nicht verschreien. Denn drohend zieht sich ein neues Ungewitter über dem
+                    Rastenburgschen Kreis, von welchem ich einen Teil ausmache, zusammen. Die
+                    Division St. Germain, welche in der Gegend von <placeName key="ed_ub5_v4k_wcb">Osterode</placeName> fast verhungert und aus 3 Regimentern Kürassiers und 2
+                    Dragoner besteht, ist diesem Kreis zur Einquartierung und Verpflegung angesagt,
+                    und dazu 27.000 Zentner Heu, 18.000 Scheffel Hafer, 3.000 Scheffel Weizen,
+                    unerhört viel Stroh und 24.000 Scheffel Roggen ausgeschrieben. Das das leere
+                    Worte sind, kannst Du Dir denken! - Aber das Fouragieren des grünen Getreides
+                    ist eine natürliche Folge! <gap reason="lost"/>
+            </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

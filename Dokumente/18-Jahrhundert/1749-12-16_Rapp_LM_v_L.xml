@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xxg_ys5_cbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>G. C. Rapp an Maria Louisa Gräfin von Lehndorff. Schaken, 16. Dezember
+                    1749</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xxg_ys5_cbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                                    907, n. f.</idno>
+                    </msIdentifier>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_cft_fb3_mbb">Rapp, (-)</persName>
+                    <placeName key="ed_ofb_m4r_gbb">Schaken</placeName>
+                    <date when="1749-12-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q4s_xyl_2y">Lehndorff, Marie Louise Henriette Gräfin von, geb.
+                        Gräfin von Wallenrodt (Ragnit, 12.10.1697-Ragnit, 12.11.1776)</persName>
+                </correspAction>
+                <note>1736 war ihr das mütterliche Erbe zugefallen, vgl. LASA, StA L, Bestand 21950 FA
+                    Lehndorff, Nr. 321. Zur Nachlassregulierung ebd., Nr. 329.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Schaken, den 16. Dezember 1749</dateline>
+					          <salute>Hochgeborene Frau Reichsgräfin <lb/>Hochgeehrte Frau Obrist-Lieutenantin!</salute>
+                </opener>
+				        <p>Ihro Gnaden haben sich zwar engagiert, mit dem <seg type="comment">
+                  <orig>Pfarrer von
+                            Wargen</orig>
+                  <note xml:id="nkrl_wkp_mbb">Johann Heinrich <persName key="ed_wtf_jmg_vdb">Rohd</persName>, Amtszeit 1746 bis 1750. Zum
+                            Kirchspiel <placeName key="ed_ifh_ldl_gbb">Wargen</placeName> gehörten
+                            neben anderen Orten auch <placeName key="ed_enz_4vz_g1b">Landkeim</placeName>, <placeName key="ed_ypr_tzz_ncb">Laserkeim</placeName>, <placeName key="ed_pxt_cnh_1y">Lehndorff</placeName>, <placeName key="ed_o23_l11_fy">Preyl</placeName>, <placeName key="ed_mbv_pyz_ncb">Strittkeim</placeName>, <placeName key="ed_ifh_ldl_gbb">Wargen</placeName>, <placeName key="ed_hts_ttp_vcb">Warglitten</placeName>, vgl. Hubatsch, Walter, Geschichte der
+                            evangelische Kirche Ostpreußens, Bd. 3, Dokumente, Göttingen 1968, S.
+                            455.</note>
+               </seg> wegen der ausstehenden Kalende zu vergleichen und
+                    ratione saturi sich jedesmal prompte abzufinden, auch bereits etwa eine Tonne
+                        <gap reason="illegible"/> Bier dem Pfarrer ad rationem überschicket. Wenn
+                    aber Hochgeehrte Frau Reichsgräfin den rechten Schluss in dieser Sache nicht
+                    fassen, so bin von Denenselben a dato innerhalb einer halben <seg type="comment">
+                  <orig>sächsischen Frist</orig>
+                  <note xml:id="npxz_2kp_mbb">Nach früherem
+                            sächsischen Recht ein Zeitraum von 6 Wochen und 3 Tagen, erwachsen aus
+                            der üblichen Verdreifachung der gewöhnlichen Gerichtsfrist von 14
+                            Tagen.</note>
+               </seg> gewärtig, was Sie ratione preateriti dem Pfarrer zu
+                    vergüten resolvieren wollen, und ratione der currenden Kalende bei gleichfalls
+                    Ihrer Resolution gewärtig, ob Sie solche in natura oder an Gelde bezahlen
+                    wollen. </p>
+            <p>Hochverehrte Frau Reichsgräfin sind gewiss die einzige des ganzen Wargischen Kirchspiels, so dem
+                    Pfarrer dasjenige entziehen, so ihm von Rechts wegen zukommt, welches gewiss
+                    Denenselben kaum Reputation, noch weniger Segen bringen kann, in welcher
+                    Erwägung von Ihro Hochgräflichen Gnaden einer resonablen Resolution mich
+                    gewärtigen will </p>
+				        <closer>
+					          <salute>Der ich sonst beharre Ihro Hochgeboren p. ergebenster Diener </salute>
+					          <signed>Rapp</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

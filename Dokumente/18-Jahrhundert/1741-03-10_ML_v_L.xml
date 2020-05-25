@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_afl_y3q_pdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maria Louisa Gräfin von Lehndorff an Friedrich II. König von Preußen.
+                    Königsberg, 10. März 1741</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_afl_y3q_pdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA EM, Tit. 61 f, Nr. 279, Bl. 3-3v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q4s_xyl_2y">Lehndorff, Marie Luise Eleanor Gräfin von, geb.
+                        Gräfin von Wallenrodt (Ragnit 12.10.1696-Königsberg 12.11.1775)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1741-03-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_x2r_52f_cy">Preußen, Friedrich II. König von
+                        (1712-1786)</persName>
+                </correspAction>
+                <note>Der Gerichtsschreiber <persName key="ed_g52_q2h_tdb">Salomon</persName> wurde
+                    noch am selben Tag mit der Aufnahme der Vermögenswerte beauftragt. Nachdem sich
+                    herausgestellt hatte, dass der Verstorbene ein Testament deponiert hatte, wurde
+                    dieses am 21. März 1741 im Hauptamt zu <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> eröffnet. Darin hatte der Verstorbene Stiftungen für die
+                    Armen in Lötzen, die dortige Kirche und die Hospitäler in <placeName key="ed_l4b_52h_tdb">Milken</placeName>, <placeName key="ed_d31_sqv_scb">Rydzewen</placeName> und <placeName key="ed_qbg_v2h_tdb">Groß
+                        Stürlack</placeName> und darüber hinaus <persName key="ed_mbr_lzz_scb">Gerhard Stanislaus Graf von Dönhoff</persName> zum Universalerben bestimmt.
+                    Die Rechtskräftigkeit des Testament wurde von Maria Louisa von <persName key="ed_q4s_xyl_2y">Lehndorff</persName> als Vormund ihrer Kinder
+                    bestritten. Es kam zu einem langjährigen Erbstreit zwischen ihr und dem durch
+                        <persName key="ed_m5q_z52_vz">Boguslaw Friedrich Reichsgraf von Dönhoff
+                    </persName>als Kurator seines noch unmündigen Sohnes Gerhard Stanislaus von
+                        <persName key="ed_mbr_lzz_scb">Dönhoff</persName> bestimmten Tribunalsrat
+                        <persName key="ed_pg5_z2h_tdb">Christoff Boltz</persName>. Eine Einigung kam
+                    nicht zustande, der Streit wurde vor dem Oberappellationsgericht ausgetragen.
+                    Letztendlich anerkannte das Hofgericht das Testament als gültig und entschied
+                    zugunsten Dönhoffs, vgl. GStA PK, XX. HA, EM, Tit. 61 f, Nr. 280 und 281
+                    (Abschrift des Testaments Bl. 78-91v) sowie GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                    Lehndorff-Steinort, Nr. 3 (Vermögensangelegenheiten Maria Eleonora von
+                    Lehndorff, geb. von Dönhoff), Nr. 5 (Mitgift), Nr. 22 (Rechtsstreit). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 10. März 1741</dateline>
+					          <salute>Allerdurchlauchtigster, Großmächtigster König! <lb/>Allergnädigster Herr!</salute>
+                </opener>
+				        <p>Ew. Königl. Majestät muss ich alleruntertänigst vorstellen, wie der Generalmajor und
+                    Amtshauptmann zu Lötzen <persName key="ed_swz_dbp_mbb">Graf von
+                        Lehndorff</persName> diesen letzten Sonntag d. 5. huius mit Tode
+                    abgegangen.</p>
+                <p>Wenn nun meine gesamte Kinder bei dessen Nachlass höchst interessiert, und zwar,
+                    weil sie 1) mit diesem ihrem sel. Vetter in einem sehr importanten und gar viele
+                    Tausende importierenden Prozess wegen des großen <seg type="comment">
+                  <orig>Nachlass des sel. General-Lieutenant <persName key="ed_krw_hfh_tdb">Boguslaw Ernst Grafen von Dönhoff</persName>
+                            annoch stehen, also ein sehr wachsames Auge auf dessen nunmehrige
+                            Verlassenschaft haben müssen, so mehr, als selbige lediglich in
+                            Mobilibus und Papieren besteht, die zu leicht unvermerkt vermindert
+                            werden können,</orig>
+                  <note xml:id="ndqx_dmg_jfb">Vgl. APO, Archiwum
+                            rodziny Dönhoff z Drogoszy pow. Kętrzyński, Nr. 4-16.</note>
+               </seg> zudem
+                    2) meine Kinder des gedachten seligen Generalmajor nächste Freunde zunebst dem
+                    Gräflich Dönhoffstädtschen Hause sein, so ab intestato sich des Nachlasses wegen
+                    wohl bekümmern mögen, als bitte Ew. Königl. Majestät mich als die natürliche
+                        <unclear reason="illegible" cert="high">Justiziarin</unclear> meiner Kinder
+                    alleruntertänigst zur nötigen Präparation auf alle Fälle vor der Hand nur die
+                    Obsignation und sichere Verwahrsache des ganzen Nachlasses, worin selbiger nur
+                    immer mehr besteht, nachzugeben, und diese Obsignierung und Verwahrsache vor der
+                    Hand dem zur Stelle im Amt sich befindenden adlichen Gerichtsschreiber <persName key="ed_g52_q2h_tdb">Salomon</persName> per Reskriptum zu befehlen.</p>
+                <p>Ew. Königliche Majestät ersehen aus dem mit Wenigem angeführten das genügsame
+                    Interesse meiner Kinder und zugleich <seg type="comment">
+                  <orig>periculum in
+                            mora</orig>
+                  <note xml:id="nnpc_2yh_t2b">Gefahr im Verzug</note>
+               </seg>, so
+                    getröste mich allergnädigster und baldiger Erhörung, mit aller Treue beharrend </p>
+				        <closer>
+					          <salute>Ew. Königl. Majestät alleruntertänigste treu gehorsamste Vasallin</salute>
+					          <signed>Maria Louisa verwittibte Obrist-Lieutenantin Gräfin von Lehndorff, geborene von
+                        Wallenrodt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

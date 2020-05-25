@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_awf_s1z_ny">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Agnes von Weiß an Anna Gräfin von Lehndorff. Königsberg, 26. Juli 1870</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_awf_s1z_ny</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 323, Bl. 9-10v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_erc_wyy_ny">Weiß, Agnes von (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1870-07-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/323/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 26. Juli 1870</dateline>
+					          <salute>Sehr wertgeschätzte, gnädige Frau Gräfin</salute>
+                </opener>
+                <p>Unaussprechlich erfreut über Frau Gräfin sehr gütiges und liebevolles Schreiben
+                    sage ich Ihnen meinen innigsten und ergebensten Dank dafür. Es hat mich sehr
+                    beruhigt und unendlich beglückt, aus demselben zu ersehen, dass Frau Gräfin mir
+                    nicht zürnen und ihre gütige und freundliche Meinung von mir nicht geändert
+                    haben. Auch freut es mich außerordentlich, dass Sie mich nicht falsch
+                    beurteilen, wenn Frau Gräfin annehmen, dass ich auch nicht im Entferntesten
+                    darauf gerechnet habe, diesmal wieder von Ihnen eingeladen zu werden. Ich glaube
+                    wohl, Frau Gräfin kennen mich in dieser Beziehung schon hinlänglich, dass ich
+                    nicht so unverschämt bin, eine so große Güte, wie wir beide dieselbe im
+                    vergangenen Jahr genossen, wieder anzunehmen. </p>
+            <p>Leider ist jetzt eine so ernste und schwere Zeit über unser geliebtes Vaterland hereingebrochen,
+                    dass wohl jeder davon berührt wird und mit banger Besorgnis in die Zukunft
+                    blickt. Und so sind wir beide auch recht besorgt, wie es Ihnen allen in
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> geht. <seg type="comment">
+                  <orig>Gewiss macht Herr <persName key="ed_zkm_whl_2y">Graf</persName> auch den <rs type="term" key="ed_o1d_r5d_gy">Feldzug</rs> mit</orig>
+                  <note xml:id="na4m_44q_bbb">Auf sein
+                            Immediatgesuch vom 16. Juli 1870 wurde Lehndorff zum 2.
+                            Garde-Dragoner-Regiment eingezogen, siehe das Dokument vom <ref target="lehndorff_zkr_ztd_gy">26. Juli 1870</ref>.</note>
+               </seg> und
+                    sicher sind aus Ihren Gütern auch recht viele von Ihrem Dienstpersonal zum
+                    Militärdienst ausgehoben worden, was jetzt bei der Ernte wohl fast allen
+                    Gutsbesitzern viele Sorgen bereitet. </p>
+            <p>Gott schütze unsere tapferen Vaterlandsverteidiger und gebe uns durch dieselben einen ruhmvollen
+                    Sieg. <seg type="comment">
+                  <orig>Wir beide</orig>
+                  <note xml:id="nakf_hbz_ny">Agnes
+                            von Weiß und Rosalie <persName key="ed_qvh_kbz_ny">Dörn</persName>, ihre
+                            Freundin und Lebenspartnerin, vgl. deren Brief an Anna von Lehndorff vom
+                            22. Dezember 1866 in: APO, Bestand 382 FA Lehndorff, Nr. 578, Bl.
+                            4.</note>
+                    </seg> sind jetzt sehr damit beschäftigt, für die lieben Krieger von alter
+                    Leinwand Scharpien zu zupfen und Kompressen zu schneiden. Herrn Geheimrat
+                        <persName key="ed_lny_lc5_22b">Burow</persName> und dessen Schwiegersohn,
+                    welche beide nächsten Sonnabend ausrücken, geben wir schon ein Paket mit. <gap reason="insignificant"/>
+            </p>
+                <p>Frau Gräfin sind so außerordentlich gütig und liebevoll, mir Ihre Hilfe
+                    anzubieten; ich danke Ihnen zwar unendlich für die große Güte, will mich aber
+                    für jetzt lieber aufs äußerste einschränken, als dieselbe in Anspruch zu nehmen.
+                    Ich leugne zwar nicht, dass mir für den Herbst große Sorge und Ausgaben
+                    bevorstehen, wie z. B. der Umzug, Wohnungsmiete, Heizmaterial und wer weiß was
+                    sonst noch die Folgen des Krieges mit sich bringen. Sollte ich also vielleicht
+                    später in zu große Verlegenheit geraten, so würde ich dann so frei sein, Frau
+                    Gräfin freundliches Anerbieten in Anspruch zu nehmen.</p>
+                <p>In den ersten Tagen des September können wir, so Gott will, wieder hierher
+                    zurück; sollten Frau Gräfin dann etwas von hier gebrauchen, so bitte ich mir das
+                    Vertrauen zu schenken und mich mit einem Auftrag zu erfreuen. </p>
+            <p>
+                    <note type="editorial">
+                  <lb/>Sie grüßt</note> Komtess <persName key="ed_vhr_wjh_cy">Anna</persName>, die lieben Kinder, <seg type="comment">
+                  <orig>Fräulein Petit-Pierre</orig>
+                  <note xml:id="nmns_mwq_ddb">Später
+                            verheiratete Schumacher, Gouvernante der Lehndorffs, vgl. APO, Bestand
+                            382 FA Lehndorff, Nr. 316.</note>
+               </seg>, Herrn <persName key="ed_xgf_h1g_vdb">Pfeiffer</persName> und <persName key="ed_bzc_xc5_22b">Dunkerchen</persName>. </p>
+				        <closer>
+					          <salute>Ihre  Ihnen stets dankbar ergebenste</salute>
+					          <signed>Agnes v. Weiß</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

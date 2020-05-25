@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cj4_ghr_bbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Meinhard Graf von Lehndorff an Friedrich Wilhelm I. König von
+                    Preußen. Ende November 1862</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cj4_ghr_bbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 55, Bl. 1-1v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1862-11-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_lwx_y32_cy">Preußen, Wilhelm I. König von, deutscher Kaiser
+                        (1797-1888)</persName>
+                </correspAction>
+                <note>Carl Meinhard von Lehndorff war von 1859 bis 1861 Mitglied des Preußischen
+                    Abgeordnetenhauses (siehe das Dokument vom <ref target="lehndorff_tdw_bz4_fdb">9. Dezember 1861</ref>) und von 1866 bis zu seinem Tod 1883 Mitglied des
+                    Preußischen Herrenhauses. Er saß im konstituierenden Reichstag des Norddeutschen
+                    Bundes. Im Reichstag (Deutsches Kaiserreich) vertrat er bis 1874 als
+                    Abgeordneter den Wahlkreis Gumbinnen 5 (Angerburg-Lötzen). Im Parlament schloss
+                    er sich der Fraktion der Konservativen Partei (Preußen) an. - Die Adresse wurde
+                    am <ref target="lehndorff_cpf_znn_5bb">15. Dezember 1862</ref> übergeben.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Kreis Angerburg im <seg type="comment">
+                     <orig>November</orig>
+                     <note xml:id="nfn1_4hr_bbb">Der Platz für ein Datum war freigelassen
+                                worden. </note>
+                  </seg> 1862 </dateline>
+                    <salute>Allerdurchlauchtigster Großmütigster König, <lb/>Allergnädigster König
+                        und Herr!</salute>
+                </opener>
+                <p>Die alleruntertänigst unterzeichneten Untertanen Euer Königlichen Majestät legen
+                    hiermit die ehrfurchtsvollste Versicherung unwandelbarer Treue und Hingebung
+                    sowie ihren ebenmäßigen Dank für die große, das Land vieler Lasten enthebende
+                    und für die Machtstellung und Verteidigung Preußens unentbehrliche Schöpfung der
+                    Armee-Dispensation Allerhöchst Denenselben zu Füßen, </p>
+            <p>Wir missbilligen als treue Untertanen auf das Tiefste die <seg type="comment">
+                  <orig>unpatriotischen Beschlüsse der irregeleiteten Majorität des
+                            Abgeordnetenhauses </orig>
+                  <note xml:id="nz2p_wmm_2cb">Das von den
+                            Liberalen dominierte Abgeordnetenhaus verweigerte dem <persName key="ed_lwx_y32_cy">König</persName> die zur Reorganisation der
+                            preußischen Armee und der Landwehr notwendigen Mittel. Der König löste
+                            am 11. März 1862 das erst im Januar gewählte Parlament auf, nachdem
+                            dieses beschlossen hatte, die provisorische Finanzierung der
+                            Militärreformen zu beenden. Drei Tage später entließ er die liberalen
+                            Mitglieder des Ministeriums und setzte eine neue konservative Regierung
+                            unter Adolf zu <persName key="ed_hct_wv3_hfb">Hohenlohe-Ingelfingen</persName> ein. Im Mai ging die liberale
+                            Deutsche Fortschrittspartei erneut als klarer Sieger aus den Wahlen
+                            hervor. Im September 1862 scheiterte ein weiterer Lösungsversuch, worauf
+                            Wilhelm I. die Abdankung erwog. Am 22. September 1862 beauftrage er
+                                <persName key="ed_atc_ls2_cy">Otto von Bismarck </persName>mit der
+                            Übernahme der Regierung. Er beendete den Konflikt dadurch, dass er eine
+                            Lücke in der damaligen preußischen Verfassung feststellte: sie schreibe
+                            nicht vor, was bei Uneinigkeit zwischen Kabinett und Parlament passieren
+                            solle, so könne der König seinen Willen durchsetzen. Sein Ende erreichte
+                            der Konflikt 1866/1867 damit, dass die Rechten der Liberalen eine neue
+                            Partei gründeten und die Indemnitätsvorlage Bismarcks annahmen.
+                        </note>
+               </seg>und bitten Euer Königliche Majestät alleruntertänigst, mit der
+                    Allerhöchst Ihnen von Gott verliehenen Macht die Rechte und das Ansehen der
+                    Königlichen Krone zum wahren Heil und Wohl des Landes auch ferner unverkürzt den
+                    kommenden Geschlechtern zu erhalten und uns und unseren Kindern die alten
+                    Grundpfeiler des Preußischen Staats zu bewahren. </p>
+            <p>Das preußische Volk verehrt nach wie vor in Euer Königlichen Majestät
+                    seinen besten Vertreter.</p>
+				        <closer>
+					          <salute>In tiefster Ehrfurcht ersterben wir als Euer Königlichen Majestät alleruntertänigst
+                        treu gehorsamste</salute>
+					          <signed>Graf Lehndorff Legat. Rat Steinort <lb/>
+                        <table rows="2" cols="3">
+                            <row role="label">
+                                <cell>Name</cell>
+                                <cell>Stand</cell>
+                                <cell>Wohnort</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                            </row>
+                        </table>
+               </signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

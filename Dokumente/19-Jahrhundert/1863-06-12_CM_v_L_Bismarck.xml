@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_exh_4hc_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Meinhard Graf von Lehndorff an Otto von Bismarck. Königsberg, 12. Juni
+                    1863</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_exh_4hc_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke </p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, Nachlass Karl Ludwig Zitelmann, Nr. 107, Bl. 10-11</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1863-06-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_atc_ls2_cy">Bismarck, Otto Fürst von (1815-1898)</persName>
+                </correspAction>
+                <note>Nach Besuchen bei den Dohnas auf <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName>, den Dönhoffs auf <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> und den Keyserlingks auf Schloss <placeName key="ed_omp_ls5_vcb">Rautenburg</placeName> traf das Kronprinzenpaar am 17.
+                    Juni in <placeName key="ed_rdg_jkc_gy">Insterburg</placeName> ein. Die <persName key="ed_fc4_2bb_dy">Kronprinzessin</persName> begab sich von dort nach
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, der <persName key="ed_yzt_s1b_dy">Kronprinz</persName> folgte nach den
+                    Truppenbesichtigungen am Nachmittag des 19. Juni: <quote>Graf <persName key="ed_zkm_whl_2y">Lehndorff</persName> erwartete mich diesseits des
+                        Sees und setzte mich über. <gap reason="insignificant"/> Gräfin <persName key="ed_wms_mh2_cy">Lehndorff</persName> empfing mich im
+                        Puder-Marquisenkostüme!</quote> Auf die Truppenbesichtigung in <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> am 20. Juni folgte ein Ruhetag in
+                    Steinort: <quote>Kirche in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>; schwülstige Ansprache des Geistlichen,
+                        schwülstige pietistische Predigt. (Die hochgräfliche Gräfin im
+                        Kirchengebet!)</quote> Vgl. Meisner, Heinrich Otto (Hrsg.), Kaiser Friedrich
+                    III. Tagebücher von 1848–1866, Leipzig 1929, S. 201 f.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 12. Juni 1863</dateline>
+					          <salute>Vertraulich <lb/>Hochwohlgeboren <lb/>Hochverehrter Herr Ministerpräsident.</salute>
+                </opener>
+                <p>Euer Exzellenz wollen mir geneigtest gestatten, vertraulichst einige Worte über
+                    die Reise I. I. K. K. H. H. in unserer Provinz an Sie zu richten. Dass dieselbe,
+                    die von der segensreichsten Wirkung hätte werden können, durch den Besuch bei
+                        <persName key="ed_ekw_b4c_gy">Winter</persName> und die Rede in <placeName key="ed_uyl_j3c_gy">Danzig</placeName> in das Gegenteil umgeschlagen ist,
+                    wissen Sie natürlich besser, als ich es Ihnen sagen kann; aber wenn auch der
+                    Schaden kaum wieder gut gemacht werden kann, so kann doch der Eindruck gemildert
+                    werden, wenn während des Rests der Fahrt S. K. H. eine Haltung vermeiden
+                    wollten, die zum Encouragement der Fortschrittspartei gereicht. Es versteht sich
+                    von selbst, dass ein direktes Zurückrudern auf die <seg type="comment">
+                  <orig>Danziger Rede</orig>
+                  <note xml:id="ngpk_3lc_gy">Am 31. Mai 1863
+                            hatte der <persName key="ed_yzt_s1b_dy">Kronprinz</persName> eine
+                            militärische Inspektionsreise nach Westpreußen angetreten. Am 1. Juni
+                            erschien die Verordnung über die Aufhebung der Pressefreiheit. Schon vor
+                            der Reise hatte der Kronprinz seinen Vater schriftlich gebeten, jede
+                            Oktroyierung zu vermeiden. Nach dem Presserlass bedauerte er in einem
+                            zweiten Schreiben an den König vom 4. Juni die Maßregel der Regierung
+                            und teilte auch Bismarck seinen Einspruch mit. Am 5. Juni wurde er in
+                            Danzig von Oberbürgermeister <persName key="ed_ekw_b4c_gy">Winter</persName>, einem „überzeugten Liberalen", empfangen, der
+                            ihm mitteilte, dass er ihn im Rathaus öffentlich begrüßen wolle. In
+                            seiner Rede bedauerte Winter, „dass es die Verhältnisse nicht gestatten,
+                            der Freude der Stadt ihren vollen lauten Ausdruck zu geben‟. Darauf
+                            erwidert der Kronprinz:„Auch ich beklage, dass ich in einer Zeit
+                            hergekommen bin, in welcher zwischen Regierung und Volk ein Zerwürfnis
+                            eingetreten ist, welches zu erfahren mich in hohem Grade überrascht hat.
+                            Ich habe von den Anordnungen, die dazu geführt haben, nichts gewusst.
+                            Ich war abwesend. Ich habe keinen Teil an den Ratschlägen gehabt, die
+                            dazu geführt haben. Aber wir alle und ich am meisten, der ich die edlen
+                            und landesväterlichen Intentionen und hochherzigen Gesinnungen Seiner
+                            Majestät des Königs am besten kenne, wir alle haben die Zuversicht, dass
+                            Preußen unter dem Zepter Seiner Majestät des Königs der Größe sicher
+                            entgegengeht, die ihm die Vorsehung bestimmt hat.‟ Vgl. Kaiser Friedrich
+                            III. Tagebücher, S. 198. </note>
+               </seg> etwa in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>, mit der Erklärung, es sei ein
+                    entschiedenes Missverständnis, dass S. K. H. die Maßregeln missbillige, von
+                    denen Er gesagt, dass Er sie damals nicht gekannt habe – er sei einig mit der
+                    Regierung pp – für die hiesige Lage das Zweckmäßigste wäre, ob dies aber, nach
+                    allgemeinen Rücksichten, S. K. H. zugemutet werden kann, steht mir nicht zu zu
+                    beurteilen, auch weiß ich nicht, was <persName key="ed_b5f_t4c_gy">Lucadou</persName> mitgebracht hat. Dass schon in <seg type="comment">
+                  <orig>
+                     <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName> eine
+                            erste Allerhöchste Missbilligung eingetroffen, glaubt man,</orig>
+                  <note xml:id="ngyz_bpc_gy">Am 7. Juni war das Kronprinzenpaar von Danzig über
+                            Marienburg nach Schlobitten gereist, bei der Abreise von Danzig traf die
+                            Missbilligung des Königs ein, vgl. Kaiser Friedrich III. Tagebücher, S.
+                            199.</note>
+               </seg> aber dem größeren Publikum macht das nicht
+                    hinreichenden Eindruck. Jedenfalls aber möchte doch für den Rest der Reise eine
+                    entschiedene, der Umgebung bekannte Allerhöchste Instruktion ergehen. Die
+                    militärische Umgebung, politisch korrekt gesinnt, kann gegenwärtig gar nichts
+                    bei S. K. H. durchsetzen. Mit einer Instruktion würde es gehen! Es ist z. B.
+                    fortan den 1. eine Reise von <placeName key="ed_rdg_jkc_gy">Insterburg</placeName> nach <unclear reason="illegible" cert="high">Luisen</unclear>felde, <seg type="comment">
+                  <orig>contre vent et
+                            marée</orig>
+                  <note xml:id="nh1y_djj_hfb">gegen heftigsten
+                            Widerstand</note>
+               </seg>, 3 Meilen <unclear reason="illegible" cert="low">abseits</unclear> der Tour, befohlen! <persName key="ed_ej2_1rg_hy">Saucken</persName>, wie Sie wissen kein ganzer Fortschrittsmann, ist durch
+                    die alten Sachen für die ganz liberale Partei der Provinz! Er hat den Prinzen
+                    nicht eingeladen, sondern S. K. H. sich privat angesagt. Er bewohnt ein
+                    Bauernhäuschen in christlicher Gegend. Er ist Vorstand des <rs type="term" key="ed_arv_cpd_gy">Landwirtschaftlichen Vereins</rs>, der vor einigen Tagen
+                    ablehnte, den Kronprinzen, seinen Protektor und Wohltäter, zu begrüßen, und ist
+                    es geblieben; das alles weiß jedermann von hier; kurz, dieser Besuch in <unclear reason="illegible" cert="low">Luisen</unclear>felde ist gewiss ein Koller
+                    und wird hier entschieden als Demonstration angesehen. Suchen Euer Exzellenz ihn
+                    um alles in der Welt zu verhindern. Der sehr brave <persName key="ed_hl4_kld_gy">Sperber</persName> – <placeName key="ed_cxv_tld_gy">Kleszowen</placeName>,
+                    konservativ, der bei eben erwähntem Vorgang im Landwirtschaftlichen Verein
+                    sofort austrat, bemühte sich vergebens aufs Dringendste um einen <seg type="comment">
+                  <orig>höchsten Besuch.</orig>
+                        <note xml:id="nstp_g5q_rhb"> „Nach dem Empfang in Königsberg am 12. Juni
+                            nahm das Kronprinzenpaar den Tee in Tauerlauken unter der lieben Eiche
+                            beim Gutsbesitzer Sperber; litauische Bauern und Bäuerinnen reitend
+                            begrüßten uns in bekannter Art und machten Geschenke.‟ Ebd.</note>
+               </seg>
+                    - I. I. K. K. H. H. unterhielten Sich entschieden freundlicher und vertraulicher
+                    mit Liberalen als mit Konservativen: Kurz, diese Reise wird, fürchte ich, der
+                    Regierung keine Wirkung bringen! </p>
+                <p>Ach, verehrte Exzellenz, suchen Sie vor allem jetzt das Herz und den Geist des
+                    Thronerben zu gewinnen, sonst arbeiten Sie (und wir alle an unserem bescheidenen
+                    Teil) sowohl für die Gegenwart umsonst – als wir selbst bei gegenwärtigem
+                    Gelingen, doch die nahe Zertrümmerung des Königtums in Preußen nicht abwenden
+                    würden.</p>
+                <p>Einen Rückfall in eine dritte Neue Ära übersteht unsere politische und soziale
+                    Konstitution nicht. Vor allem tut aber jetzt eine entschieden <unclear reason="illegible" cert="low">weise</unclear> Instruktion Not.</p>
+				        <closer>
+                    <salute>Erlauben Exzellenz mir, mich zu nennen <lb/>Ihren treu ergebenen
+                        gehorsamsten</salute>
+                    <signed>Graf Lehndorff-Steinort</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>P. S. Verzeihen Exzellenz, dass ich verkehrt diese Zeilen angefangen, ich finde
+                    nicht mehr Zeit neu zu schreiben. [Paraphe]</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

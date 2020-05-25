@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_kxz_y3t_xz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kaiser Wilhelm I. an Otto Graf zu Stolberg. Berlin, 29. Dezember 1884</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_kxz_y3t_xz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>BPH, Rep. 59 II, Nr. 2, Bl. 38</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_lwx_y32_cy">Preußen, Wilhelm I. König von, deutscher Kaiser
+                        (1797-1888)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1884-12-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_g15_r1m_gbb">Stolberg-Wernigerode, Otto Freiherr zu
+                        (-)</persName>
+                </correspAction>
+                <note>Am 8. November 1886 bat <persName key="ed_sjx_pfm_2y">Georg von
+                        Lehndorff</persName> um Verabschiedung seiner Tochter <persName key="ed_ucl_jlt_zdb">Paula</persName> aus dem Hofdienst aus gesundheitlichen
+                    Gründen. Der Kammerherr der Prinzessin wandte sich deshalb am 12. November 1886
+                    an den Oberstkämmerer <persName key="ed_g15_r1m_gbb">Otto Freiherr zu
+                        Stolberg-Wernigerode</persName> mit der Bitte um Allerhöchste Genehmigung,
+                    die der <persName key="ed_lwx_y32_cy">Kaiser</persName> am 22. November 1886
+                    erteilte (alle Schriftstücke in der Akte, Bl. 40-44). Ein undatierter Entwurf
+                    einer <quote>Visiten-Liste</quote> in: APO, Bestand 382 FA Lehndorff, Nr. 297,
+                    Bl. 1-2, eine Art Tagebuch der Berliner Gesellschaft (undatiert) Bl. 23-28v
+                    sowie eine Liste der (wahrscheinlich von Pauline von Lehndorff und ihrer Mutter
+                        <persName key="ed_n5f_vfm_2y">Klara</persName>) getragenen Kleider
+                    anlässlich eines Ordensfestes und der nachfolgenden Hoffeierlichkeiten
+                    (undatiert) Bl. 49-50. - Die Entwürfe sind im APO Anna von Lehndorff zugeordnet,
+                    gehören aber zum Nachlass der Gräfin Pauline von Lehndorff.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 29. Dezember 1884</dateline>
+                </opener>
+                <p>Auf <seg type="comment">
+                  <orig>Ihren Bericht vom 24. d. Mts.</orig>
+                  <note xml:id="nf2b_qjt_xz">Liegt der Akte bei, Bl. 35-36v.</note>
+               </seg>
+                    genehmige Ich, dass dem Wunsch Ihrer Königlichen Hoheiten des <persName key="ed_rb3_nr1_h2b">Prinzen</persName> und der Prinzessin Friedrich Karl
+                    von Preußen gemäß an Stelle der ausgeschiedenen Hofdame von <persName key="ed_ufk_jr1_h2b">Woyna</persName> die Gräfin <persName key="ed_ucl_jlt_zdb">Pauline von Lehndorff</persName>, Tochter des Majors a.
+                    D. und Landstallmeisters <persName key="ed_sjx_pfm_2y">Grafen von
+                        Lehndorff</persName> als Hofdame Ihrer Königlichen Hoheit der Frau <persName key="ed_jg4_sr1_h2b">Prinzessin</persName> eintrete.</p>
+				        <closer>
+                    <signed>Wilhelm</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

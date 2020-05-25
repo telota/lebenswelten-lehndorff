@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_yn5_gyl_5y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Regierungsrat Schulz an Theodor von Schön. Tilse, 3. Januar 1813</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_yn5_gyl_5y</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                
+                    <listWit>
+                        <witness select="#this">
+                  <bibl type="print">Briefe und Aktenstücke zur
+                            Geschichte Preußens unter Friedrich Wilhelm III. vorzugsweise aus dem
+                            Nachlass von F. A. Stägemann hrsg. von Franz Rühl, Bd. 1, Leipzig 1899,
+                            S. 256-258</bibl>
+               </witness>
+                    
+                
+                
+                    <witness>
+                        <bibl type="print">Droysen, Johann Gustav, Das Leben des Feldmarschalls
+                            Grafen Yorck von Wartenburg, 7. Aufl., Berlin 1875, Bd. 1, S. 385
+                            f.</bibl>
+                    </witness>
+                    </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yy1_cyl_5y">Schulz, (-)</persName>
+                    <placeName key="ed_jyd_ryl_5y">Tilse</placeName>
+                    <date when="1813-01-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q1t_d2f_4y">Schön, Theodor von (1773-1856)</persName>
+                </correspAction>
+                <note>Im Brief an <persName key="ed_f2c_1mp_vcb">Yorck</persName> aus Memel, 18.
+                    Januar 1813 heißt es: <quote>
+                  <placeName key="ed_y1h_tpk_wcb">Masuren</placeName>, der südlichste Teil der Provinz <placeName key="ed_z15_pdp_tcb">Litauens</placeName>, enthält herrliche, wackere
+                        Männer in den gemeinen und höheren Ständen, welche bereit sind, für den
+                        König und das Vaterland alles daran zu setzen; es kommt nur darauf an, dass
+                        Euer Exzellenz, der Sie jetzt den König und Preußen und die Sache der
+                        Menschheit repräsentieren, auf diesen kraftvollen Teil der Provinz
+                        einwirken.</quote> Er habe sich im Sommer 1812 mit <persName key="ed_dlv_cjv_mbb">Farenheid</persName> in <placeName key="ed_jng_zqk_wcb">Angerapp</placeName>, Graf <persName key="ed_k4z_jgl_2y">Lehndorff</persName> in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, Gutsbesitzer Oberamtmann <persName key="ed_nly_hpk_gbb">Bergau</persName> in Kopicken bei <placeName key="ed_eby_wkz_ny">Lyck</placeName>, Oberamtmann <persName key="ed_vkb_2rk_wcb">Stenzler</persName> in <placeName key="ed_r2g_drk_wcb">Stradauen</placeName> und Superintendent <persName key="ed_icj_rqp_vcb">Gisevius</persName> in <placeName key="ed_eby_wkz_ny">Lyck</placeName>
+                    <quote>auf Leben und Sterben für die Sache der Menschheit und unsere Befreiung
+                        von Sklavenketten verbündet</quote>, und diese Freunde in <placeName key="ed_y1h_tpk_wcb">Masuren</placeName> beschworen, zu handeln. <persName key="ed_f2c_1mp_vcb">Yorck</persName> solle auf Masuren seinen besonderen
+                    Blick richten, <quote>durch die treuen Patrioten, die ich Euer Exzellenz genannt
+                        habe, außer den Krümpern und Beurlaubten</quote>, könne Masuren <quote>zwei
+                        bis dreitausend Streiter</quote> aufstellen und werde, <quote>wenn auch
+                        anfangs nur kümmerlich bewaffnet, doch einiges werde wirken und helfen
+                        können.</quote> Auch Landrat <persName key="ed_ehk_krk_wcb">Lyncker</persName> in <placeName key="ed_olw_h3d_py">Tilsit</placeName> und
+                    Ober-Landesgerichtsrat <persName key="ed_qvw_nz4_tcb">Friccius</persName> in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> verdienen dessen
+                    Vertrauen, vgl. Beihefte zum Militär-Wochenblatt 1846. Errichtung der Landwehr
+                    und des Landsturms in Ostpreußen, Westpreußen am rechten Weichselufer und in
+                    Litauen, S. 5 f. - Zu den Ereignissen am Ende des Jahres 1812/Anfang 1813 vgl.
+                    Schultze, Lebensbild, S. 291 ff. und Dönhoff, August Friedrich Philipp
+                    Reichsgraf, Königsberg und Ostpreußen zu Anfang 1813. Ein Tagebuch vom 1. Januar
+                    bis 25. Februar 1813, hrsg. von Maximilian Schultze, Berlin 1901 (Bausteine zur
+                    preußischen Geschichte, 1, 2), S. 72 ff. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Tilse, 3. Januar 1813</dateline>
+                </opener>
+				        <p>Und setzt Ihr nicht das Leben sein,  <lb/>Nie kann Euch das Leben gewonnen sein.</p>
+            <p>
+               <seg type="comment">
+                  <orig>
+                     <persName key="ed_f2c_1mp_vcb">Yorck</persName> hat mehr als das Leben
+                            eingesetzt. Schon den 29. hat er, noch ehe <persName key="ed_nhh_fmp_vcb">Seydlitz</persName> kam, den Entschluss zur
+                            großen Tat gefasst. Seydlitz hat ihm keine Königliche Willensmeinung
+                            überbracht, er steht ganz allein mit seinem freilich nicht ruinierten,
+                            aber doch sehr, sehr angegriffenen Corps. </orig>
+                  <note xml:id="nqch_kkd_ycb">Das Yorcksche Corps hatte im Juli 1812 zwei seiner
+                            Kavallerieregimenter (Husarenregiment Nr. 2, bestehend aus
+                            brandenburgischen und pommerschen Husaren, und Ulanenregiment, bestehend
+                            aus schlesischen und brandenburgischen Ulanen) und an die französische
+                            Hauptarmee abtreten müssen. Beide teilten das Schicksal der Armee 1812.
+                            Ersatz konnte Yorck nicht schaffen und sorgte deshalb vorerst dafür,
+                            dass die Kavallerieregimenter, die noch zu seinem Korps gehörten, auf
+                            501 Pferde in 4 Schwadronen und ein Ersatzschwadron von 125 Pferden
+                            ergänzt wurden. Der Landwehrentwurf, den er am 5. Februar 1813 dem
+                            „Komitee des Landtages‟ vorlegte, enthielt noch keine Forderung nach
+                            Reiterei, wohl aber in § 5 die Idee eines Ersatzes: <quote>Die Landwehr
+                                besteht größtenteils aus Fußvolk, aus den Fleischergewerken aller
+                                Städte kann indes auch eine allerdings nicht überflüssige Kavallerie
+                                formiert werden.</quote>Vgl. Schultze, Lebensbild, S. 341.
+                            Lehndorffs Entwürfe und Notizen über die Mängel der preußischen
+                            Landwehrkavallerie und deren Abhilfe 1807-1818 sowie Aufsätze:
+                                <quote>Grundsätze über die richtige Verwendung der Jahreszeiten
+                                behufs einer zweckmäßigen und vollendeten Ausbildung der Kavallerie
+                                in allen Teilen</quote>und <quote>Ursachen für das Misslingen von
+                                Angriffen der preußischen Kavallerie während der Kriegsjahre
+                                1813-1815</quote>, in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 511 und 512. </note>
+               </seg>Wie er schon durch p.
+                        <persName key="ed_k4z_jgl_2y">Lehndorff</persName> Euer Hochwohlgeboren
+                    geäußert, bittet er auch jetzt Sie dringendst, wenn auch nur auf einige Stunden
+                    herzukommen, mit ihm den Bund zu schließen, mit ihm wegen der Erhaltung seines
+                    Corps, wegen der Auffrischung desselben, wegen eines etwa nötigen Aufgebots in
+                    der <placeName key="ed_uvt_4j4_dz">Provinz</placeName>, wegen hundert anderer
+                    Sachen zu verabreden, was die wichtigen Augenblicke fordern. Dass Macdonald
+                    vernichtet, davon ist noch immer keine Nachricht, die Russischen Corps sind
+                    nicht so stark, als sie ausgegeben werden, heute ging das Lewissche Corps hier
+                    durch, es sollte 10.000 Mann sein, ich habe zählen lassen, es waren nicht viel
+                    über 5 1/2 Tausend Mann, die russische Armee geht nicht geschwinde vor, über
+                    Österreich weiß er nichts Gewisses. Yorck bedarf Euer Hochwohlgeboren Mitwirkung
+                    für den Augenblick, aber mehr bedarf er Ihrer stützenden Kraft, die Schweiz
+                    ruhte auf drei Säulen und Yorck ist kein Atlas. Die Stimmung des Corps, soweit
+                    ich sie schon kenne, ist nicht, wie man sie wünschen muss, und Yorck hat wohl
+                    Recht, dass aus dem Vaterlande rückwärts seine Leute ihm nicht folgen würden,
+                    und diesen Fall denkt er sich doch als möglich. Er will alle Leidenschaft
+                    ausschließen und auch für den Fall eines echecs einen Weg offen behalten. </p>
+            <p>Yorck wünscht vor allen Dingen möglichst genau zu wissen, wie viel russische Truppen <placeName key="ed_z15_pdp_tcb">Litauen</placeName> schon passiert oder noch drin sind?
+                    wo Tshitshakoff und wie stark steht? wo Platow und wie stark? - auch von
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> hat er keine
+                    Nachricht. </p>
+            <p>Gestern war es mein Vorsatz, heute ganz zeitig in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> zu sein, Yorck wünschte, dass ich hier bleiben und
+                    Sie abwarten möchte, jetzt eben wollte ich von ihm Abschied nehmen, um morgen
+                    früh in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> zu sein. Er hat
+                    mich aber wieder aufgefordert, hier zu bleiben und wenigstens soviel als mein
+                    Schreiben in G. habe ich heute auch hier genützt. General <persName key="ed_xv5_rbq_vcb">Kleist</persName> geht morgen früh nach <placeName key="ed_ztb_bm1_my">Wien</placeName> zu Kaiser <persName key="ed_m25_tr1_1bb">Alexander</persName>, ich habe ihm 600 Rtlr. Reisegeld
+                    zusammenbringen müssen, nämlich: <list>
+                        <item>25 Luisdor von meinem Mitgenommenen</item>
+                        <item>150 Rtlr. aus der Salzkasse</item>
+                        <item>300 Rtlr. aus der Kontributionskasse.</item>
+                    </list>
+            </p>
+            <p>Dem Direktor <persName key="ed_yy1_cyl_5y">Schulz</persName> sagen Euer Hochwohlgeboren gütigst,
+                    dass ich Herrn <unclear reason="illegible" cert="low">Goebler</unclear> und die
+                        <unclear reason="illegible" cert="low">Lag.</unclear> Entrepreneurs gehörig
+                    zusammenreite; es tut Not darum. </p>
+            <p>Sie waren gestern schon bei p. Siehr angemeldet, ich schrieb daher <seg type="comment">
+                  <orig>den
+                            anliegenden Brief</orig>
+                  <note xml:id="nxnb_m2m_5y">Vgl. Nr. 180; darin
+                            schrieb Schulz an Schön am 3. Januar 1813: <quote>Ich habe heute an
+                                meine Treuen in <placeName key="ed_y1h_tpk_wcb">Masuren</placeName>
+                                geschrieben und ich hoffe, dass Masuren mehr tun wird, als Herrn von
+                                    <persName key="ed_f2c_1mp_vcb">Yorck</persName> bloß Krümper und
+                                Beurlaubte geben, vielleicht gelingt es auch p. <seg type="comment">
+                           <orig>
+                              <persName key="ed_ehk_krk_wcb">Lynker</persName>
+                           </orig>
+                           <note xml:id="nr4c_gnp_vcb">Landrat</note>
+                        </seg> in seiner Gegend etwas mehr zu
+                                bewirken. Stände Herr von <persName key="ed_f2c_1mp_vcb">Yorck</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> nur nicht so verlassen
+                            da!</quote>
+                  </note>
+               </seg>, um ihn gleich bei der Ankunft Euer
+                    Hochwohlgeboren abgeben zu lassen. - <seg type="comment">
+                  <orig>Der
+                            Zettel</orig>
+                  <note xml:id="nrbg_n2m_5y">Nr. 181.</note>
+               </seg> geht mir
+                    ganz von Herzen, die Sache ist so groß, Yorcks Tat in unsern Tagen so selten
+                    kühn, und es ist Gottes Wille, dass ich an ihn gekommen bin. </p>
+            <p>Jeder Tropfen mehrt das Meer, so erlauben Sie, Herr Geheimer Staatsrat, dass neben Yorck auch ich
+                    noch Sie dringend bitte schleunig herzukommen.</p>
+				        <closer>
+                    <signed>Schulz</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

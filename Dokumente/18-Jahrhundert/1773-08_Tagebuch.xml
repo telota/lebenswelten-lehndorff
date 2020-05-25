@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_awl_pjt_xdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff.
+                    Dönhoffstädt, August/September 1773</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_awl_pjt_xdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">
+                    <p>Die Manöver in Schlesien dauerten vom 16. August bis 5. September 1773. Siehe
+                        hierzu: GStA PK, XI. HA, A 50475: Manöverkarten, sowie  Beschreibung der
+                        Manöver in Schlesien im August und September 1773.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 2, Gotha 1913, S. 280 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName>
+                <date from="1773-08-16" to="1773-09-15" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Hier in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> ist jetzt überall nur
+                    von der Ankunft des <persName key="ed_x2r_52f_cy">Königs</persName> die Rede.
+                    Seine ganze Armee zittert davor, weil seine Majestät in den vergangenen Jahren
+                    nicht zufrieden zu sein schien. Die Überraschung ist deshalb umso größer, als
+                    seine Majestät sie mit erstaunlicher Güte behandelt, alles billigt und ihnen
+                    sogar Liebenswürdigkeiten sagt. Eine besonders rührende Szene spielte sich beim
+                    Regiment <persName key="ed_p4g_34l_ngb">Tettenborn</persName> ab. <seg type="comment">
+                  <orig>Seine Majestät war aus einem besonderen Grund noch vom
+                            Krieg her mit diesem Regiment unzufrieden gewesen </orig>
+                  <note xml:id="nkgp_ch1_2lb">Am 20. November 1759 hatte  das gesamte Regiment
+                            bei  Maxen kapituliert. Zur Regimentsgeschichte siehe <ref target="https://de.wikipedia.org/wiki/Altpreu%C3%9Fisches_Infanterieregiment_No._11_(1806)#Regierungszeit_K%C3%B6nig_Friedrich_II._(1740%E2%80%931786)">hier</ref>. </note>
+               </seg>und hatte es ihnen bei jeder Gelegenheit,
+                    sogar in demütigender Weise, zu fühlen gegeben. Diesmal nun haben alle ihre
+                    Leiden ein Ende genommen. Der König sprach zunächst seinen Beifall zu den
+                    Manövern aus, versammelte dann die Offiziere um sich und sagte ihnen wiederholt,
+                    es sei alles vergessen und er sei jetzt sehr zufrieden mit ihnen. Sämtliche
+                    Offiziere stürzten sich hierauf auf ihn und küssten ihm unter Tränen Hände und
+                    Füße, worüber der König und sein Gefolge sehr gerührt waren. Das ganze Lager
+                    segnet den König, und ich, der ich dies in einem Zimmer in <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName> niederschreibe, vermag kaum
+                    meine Tränen zurückzuhalten. Holde Menschlichkeit, welch Entzücken vermagst du
+                    einer fühlenden Seele zu bereiten!</p>
+                <p>Ich habe noch eine andere lebhafte Freude. Wie ich nämlich erfahre, hat Seine
+                    Majestät meinen liebenswürdigen <persName key="ed_gbs_p1m_2y">Bischof von
+                        Ermeland</persName> besonders gnädig behandelt. Er erwartet den König in
+                        <placeName key="ed_ed2_4r1_my">Elbing</placeName>, begleitet vom Bischof von
+                    Kulm, der vor lauter Angst, diesem so berühmten und so gefürchteten Manne
+                    vorgestellt zu werden, fast gestorben ist. Als der König, der in zweimal 24
+                    Stunden 50 deutsche Meilen zurückgelegt hatte, aus dem Wagen stieg, sagte er zum
+                    Bischof, er sei entzückt, ihn zu sehen, worauf dieser erwiderte: „Ihre Majestät
+                    müssen von einer so langen Reise sehr ermüdet sein.‟ „Keineswegs‟, entgegnete
+                    der König, „wenn Sie Musik da hätten, würde ich noch tanzen.‟ Das ist gewiss
+                    viel in einem Alter von 61 Jahren. Seine Majestät begab sich hierauf ins Zimmer,
+                    ließ sich umkleiden und kam dann heiter zur Tafel, an der er vier Stunden
+                    aushielt. <note type="editorial">Auch während des weiteren Aufenthaltes habe er
+                        gern mit dem Bischof gespeist und gesprochen und habe ihm bei seiner Abreise
+                        12.000 Taler geschenkt, da er wisse, dass der Bischof Schulden habe, für die
+                        er aufkommen wolle. - Lehndorff hat derweil Probleme mit seiner <persName key="ed_d3h_sy4_mbb">Schwester</persName>, denen er durch eine Reise
+                        nach <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName> aus dem Weg
+                        geht. Von hier aus macht er verschiedene Besuche, u. a. in <placeName key="ed_l4n_vxc_py">Bartenstein</placeName> und bei der Witwe <persName key="ed_udb_tmg_ccb">Tettau-Tolks</persName>, wo er alle
+                            <quote>Denkmäler aus der Glanzzeit dieser Familie</quote> findet, und
+                        zum Bischof von Heilsberg. Aufgrund der Erkrankung seines <persName key="ed_k4z_jgl_2y">Sohnes</persName> unterbricht er den dortigen
+                        Aufenthalt, kommt aber Ende Juli zurück. Am 25. August besucht ihn der
+                        Bischof von Ermland in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>.
+                        Zu dessen Ehren ist das ganze Haus erleuchtet. Gemeinsam reisen sie nach
+                            <placeName key="ed_qrj_lkp_tdb">Bialystok</placeName> zur Schwester des
+                        Königs von Polen und Gemahlin des Großhetmanns Branicki. </note>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

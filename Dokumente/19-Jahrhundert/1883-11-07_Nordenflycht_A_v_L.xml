@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cyr_thk_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gustav Freiherr von Nordenflycht an Anna Gräfin von Lehndorff. Preußisch
+                    Holland, 7. November 1883</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cyr_thk_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 589, Bl. 42</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_on4_3jn_my">Nordenflycht, Gustav Freiherr von
+                        (1846-1921)</persName>
+                    <placeName key="ed_jnz_jhp_tdb">Preußisch-Holland</placeName>
+                    <date when="1883-11-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Fünf Jahre später, am 7. April 1887, wurde Johanna <persName key="ed_hvb_z11_h2b">Losch</persName> durch den Landesdirektor der Provinz
+                    Ostpreußen <quote>zur Zwangserziehung</quote> dem Waisenhaus zugewiesen (Bl.
+                    45-45v). Der Magistrat Königsberg hatte dafür zu sorgen, dass das Kind mit der
+                    durch das Reglement vorgeschrieben Ausstattung, <quote>2 Kleider, 1 wollener
+                        wattierter Unterrock, 2 Untertaillen, 2 Schürzen, 1 warme Mütze, 1 warme
+                        Unterziehjacke, 1 paar Schuhe und 1 paar Pantoffel, 1 paar wollene
+                        Handschuhe, 3 Hemden, 2 paar wollene Strümpfe, 3 Taschentücher, 2
+                        Halstücher, 2 enge und 1 weiter Kamm</quote>, eingeliefert wurde.Weitere
+                    Beispiele für Zwangseinweisungen in: APO, Bestand 382, FA Lehndorff, Nr.
+                    596.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/589/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Pr. Holland, den 7. November 1883</dateline>
+					          <salute>Der Kreisausschuss beabsichtigt, die Kreiswaise Louise <persName key="ed_wlz_3b1_h2b">Neubert</persName>, geboren den 14. Juni 1868, welche sich seit dem 1.
+                        Mai 1878 in dem hiesigen Waisenhaus befindet und dasselbe nach nunmehr
+                        erfolgter Konfirmation statutenmäßig verlassen soll, aber noch nicht als
+                        nachhaltig gebessert anzusehen ist, in einer Erziehungsanstalt
+                        unterzubringen.</salute>
+                </opener>
+                <p>Den Vorstand erlaube ich mir daher ergebenst anzufragen, ob und unter welchen
+                    Bedingungen die p. Neubert dort Aufnahme finden kann und namentlich wieviel die
+                    Pflegekosten betragen? </p>
+				        <closer>
+                    <signed>Der Vorsitzende des Kreisausschusses <lb/>Landratsamt-Verwalter
+                        <lb/>Frhr. v. Nordenflycht </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

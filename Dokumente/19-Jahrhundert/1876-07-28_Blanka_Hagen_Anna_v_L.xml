@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_gxv_tmc_py">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Blanca von Hagen an Anna Gräfin von Lehndorff. Berlin, 28. Juli 1876</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_gxv_tmc_py</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kulturbeziehungen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 489, Bl. 5-6v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bdv_fyj_f3b">Hagen, Blanca von (1842-1916)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1876-07-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>In deinem undatiertes Schreiben (Bl. 13-13v) geht es um eine Kopie und ein
+                    Pastellbild für die <persName key="ed_wms_mh2_cy">Gräfin</persName>. Aus einem
+                    weiteren Brief vom 26. Mai 1778 (Bl. 7-10v) geht hervor, dass <persName key="ed_bdv_fyj_f3b">Blanca von Hagen</persName> erst durch einen Brief
+                    Annas erfahren habe, dass diese <quote>Mitglied des Künstlerinnenvereins, sogar
+                        schon seit 2 Jahren</quote> sei. Gemeint ist der <orgName key="ed_onn_wlq_f2b">Verein der Berliner Künstlerinnen</orgName>, dem auch
+                    von Hagen angehörte. Mitgliedsangelegeheiten in: APO, Bestand 382 FA Lehndorff,
+                    Nr. 587; Korrespondenz zu Angelegenheiten des Kunstvereins:  ebd., Nr. 637. Zum
+                    Kunst- und Gewerbeverein Königsberg und zum Künstler-Unterstützungsverin
+                    Königsberg auch: GStA PK, I. HA, Rep. 76 V<hi rendition="#sup">e</hi> Sekt. 2
+                    Abt. IV, Nr. 1, Bd. 1 und 2, und Nr. 2. - Zur Porträt- und Genremalerin Blanka
+                    von Hagen: <ref target="https://de.wikipedia.org/wiki/Blanca_von_Hagen">https://de.wikipedia.org/wiki/Blanca_von_Hagen</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/489/str/1/1/10#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 28. Juli 1876</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Noch immer war ich so töricht zu hoffen, dass mein
+                    so sehr erhoffter Ausflug nach ihrem schönen <placeName key="ed_avy_p42_cy">Gastein</placeName>, wenn auch spät, so doch noch realisieren sich könnte,
+                    und bei allen Arbeiten, die ich täglich abzuwickeln hatte, hing doch mein Herz
+                    in heller Freude an dem Gedanken eines Zusammenseins mit Ihnen, innigst verehrte
+                    Frau Gräfin, und dem lieben gräflichen <persName key="ed_vhr_wjh_cy">Komtesschen</persName> – aber ich musste ganz standhaften Herzens die
+                    Möglichkeit mehr und mehr schwinden sehen, je mehr sich <seg type="comment">
+                  <orig>mein Bild in die Länge zieht (an dem ich noch arbeite, und das
+                            ich erst Anfang August abliefern kann).</orig>
+                  <note xml:id="nedz_gnc_py">Es handelte sich um ein Auftragswerk, dass ein <quote>Pendant zu dem
+                                der Komtess <persName key="ed_ggg_cbm_2y">Agnes</persName> sein
+                                sollte</quote> (Bl. 3-4v, 4. Januar1875). </note>
+               </seg>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

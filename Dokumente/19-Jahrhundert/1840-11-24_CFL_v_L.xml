@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_evw_lgm_2bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an N. N. Steinort, 24. November
+                    1840</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_evw_lgm_2bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 252, Bl. 2</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1840-11-24" cert="high"/>
+                </correspAction>
+                <note>Siehe in der Akte, Bl. 10-16, das Promemoria über die <quote>Notwendigsten
+                        Bauten und Reparaturen in der Steinorter Administration für das Jahr
+                        1841</quote>, hier auch zu Raabes Bauvorhaben. Zu den Baumaßnahmen in der
+                    Gutslandwirtschaft (Scheune, Waldgraben, Gebäude, Ställe) 1840-1852 eine weitere
+                    Akte in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 752.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 24. November 1840</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>Da Herr Pächter <persName key="ed_bvs_dht_ncb">Raabe</persName> aus <placeName key="ed_xjg_d12_gy">Stobben</placeName> einen Stall und Heugelass-Bauten an
+                    der Scheune in Stobben zu haben wünscht und darum ersucht hat, so will ich unter
+                    nachstehenden Bedingungen seinem Wunsche genügen: </p>
+            <p>Ich gebe zu diesem Bau alles Material an Holz, Ziegel, Stein, Kalk und die Hälfte des zum Decken
+                    nötigen Mooses, bezahle auch die Handwerker als Maurer und Zimmermann, insofern
+                    solche selber die Arbeiten vollführen, die Handlanger für beide Handwerker
+                    stellt Herr <persName key="ed_bvs_dht_ncb">Raabe</persName>, sowie er auch die
+                    andere Hälfte des erforderlichen Dachmoses hergibt und alle und jede Anfuhr der
+                    zu diesem Bau erforderlichen Materialien und sonstigen Bedürfnisse übernimmt.
+                    Sobald der Bau vollendet, verpflichtet sich Herr <persName key="ed_bvs_dht_ncb">Raabe</persName> das Vieh aller seiner Instleute zur Ausfütterung nach dem
+                    Vorwerk zu nehmen sowie die Unterbringung der etwaigen Kühe der bei ihm in
+                    Dienst stehenden Tischler und anderer Handwerker oder anderer Leute seine Sache
+                    bleibt.</p>
+				        <closer>
+                    <salute> </salute>
+                    <signed>Gf. v. Lehndorff</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

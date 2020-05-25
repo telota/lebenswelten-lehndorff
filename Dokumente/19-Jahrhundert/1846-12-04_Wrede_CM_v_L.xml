@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_oxq_rrh_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Freiherr von Wrede an Carl Meinhard Graf von Lehndorff. Bonn, 4. Dezember
+                    1846</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_oxq_rrh_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 901, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_esz_wbh_ldb">Wrede, (-)</persName>
+                    <placeName key="ed_l55_lzt_2cb">Bonn</placeName>
+                    <date when="1846-12-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 555, n. f.
+                    (v. Salomon an Lehndorff, Bonn, 2. Mai 1847, wegen nicht zurückgezahlter
+                    Schulden).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Bonn, den 4. 12.46</dateline>
+					          <salute>Lieber Lehndorff!</salute>
+                </opener>
+				        <p>Dein Brief von gestern hat mich eigentlich nicht in Erstaunen gesetzt, indem ich schon
+                    vermutet habe, dass Du Dich in dieser Sache noch einmal an mich wenden würdest.
+                    Um Dir die Sache klar vor Augen zu legen, will ich Dir noch einmal, was ich Dir
+                    mündlich gesagt, auseinandersetzen.</p>
+                <p>Schon lange, wie Du wissen wirst, war die Meinung gegen Dich, schon oft, das
+                    weißt Du auch, warst Du in Reibung mit unseren Freunden; so früher mit <seg type="comment">
+                  <orig>Moltke, wenn ich nicht irre auch mit Uechtritz, dann
+                            zweimal mit Frentz.</orig>
+                  <note xml:id="nphy_gdv_c2b">Vgl. <ref target="http://digitale-sammlungen.ulb.uni-bonn.de/content/pageview/740530">Biographisches Corpsalbum der Borussia Bonn.</ref>
+                  </note>
+               </seg> Die
+                    Sachen waren beigelegt und abgemacht. Diese letzten Geschichten mit Lenep und
+                    Waldow wärmten indes das frühere wieder auf, und die Meinung gegen Dich wurde,
+                    wie Du selbst fühlen musst, dadurch nicht besser. Wir sind aber zunächst dem
+                    Rufe unseres Corps schuldig, dasselbe vorzugsweise frei zu halten von Streit und
+                    Zwistigkeit zwischen seinen Angehörigen. <seg type="comment">
+                  <orig>Dass Dir der
+                            Umgang mit dem Corps resp. seinen Angehörigen eben nicht von großem
+                            Interesse war, dass Du nicht die Vorzüge dabei sahst, dass hast Du
+                            aufgezeigt; hierin liegt aber natürlich nichts entehrendes für Dich,
+                            wohl aber Vorwurf für Dich als Corps-Burschen.</orig>
+                  <note xml:id="ncw4_g55_c2b">Nach dem Abitur studierte Lehndorff von 1844 bis
+                            1848 an der Albertus-Universität Königsberg, der Rheinischen
+                            Friedrich-Wilhelms-Universität Bonn und der
+                            Friedrich-Wilhelms-Universität Berlin Rechtswissenschaft. Ostern 1844
+                            war er Mitglied des Corps Borussia Bonn geworden, das ihn im Sommer 1845
+                            recipierte und Michaelis 1846 inaktivierte. Im Wintersemester 1844/45
+                            war er im Corps Masovia Königsberg aktiv.</note>
+               </seg> Da Du heute
+                    geradezu <seg type="comment">
+                  <orig>abgesalt</orig>
+                  <note xml:id="nlwn_4w2_3lb">salen, absalen, versalen (rheinisch) - schlagen, prügeln</note>
+               </seg>
+                    hast, das will ich nicht behaupten, dass Du sie eben hättest <seg type="comment">
+                  <orig>lau</orig>
+                  <note xml:id="nlcw_mw2_3lb">interesselos,
+                            gleichgültig</note>
+               </seg> machen können, dafür führe ich einen Beleg an,
+                        <seg type="comment">
+                  <orig>indem Du <gap reason="illegible"/> beim letzten R.
+                            C. gesagt,</orig>
+                  <note xml:id="njbs_g4y_kfb">Der Name ist nicht
+                            lesbar.</note>
+               </seg> er brauche nicht hinzugehen, er könne es nachher
+                    lernen etc. Dieses sind zwar Kleinigkeiten, aber für einen unerfahrenen <seg type="comment">
+                  <orig>Renoncen</orig>
+                  <note xml:id="npmd_j52_3lb">Von
+                            "verzichten". Bezeichnung für Studenten, aus denen ein Corps seine
+                            Mitglieder wählte, woraus sich der Fuxenstatus entwickelte. Später wurde
+                            dafür der Begriff Fux üblich und Renoncen waren Mitglieder ohne volle
+                            Rechte und Pflichten.</note>
+               </seg> von Wichtigkeit, es von einem
+                    früheren Corps-Burschen zu hören. Alles dieses entehrt Dich nicht, und wie ich
+                    Dir mündlich gesagt, habe ich speziell wie jeder andere nichts entehrendes gegen
+                    Dich; wir haben aber auch nichts entehrendes gegen Dich beschlossen, und es
+                    fällt uns nicht im geringsten ein, Dich in Verruf zu setzen. Nur um Einigkeit zu
+                    haben, um dem vorzubeugen, dass einer von den Renoncen abgesalt werden könnte
+                    von sein Pflichten, wenn auch nicht mittelbar, haben wir den Renoncen
+                    anbefohlen, sich möglichst viel des Umgangs mit Dir zu enthalten. Franz I.
+                    wünscht, dass ich Dir bemerke, dass er sich bei dieser Sache nicht beteiligt
+                    hat, wie er Dir früher versprochen hat. Dass Du Dich nicht selbst verteidigt
+                    hast, das hätte Dir nicht angenehm sein können, und zudem war es nicht
+                    notwendig, da Du nicht mittelbar wegen dieser letzten Geschichte dieses hören
+                    musstest, sondern wegen Deines Gesamtbenehmens im Corps. </p>
+                <p>Auf Deinen Wunsch werde ich die Renoncen, falls sie es missverstanden, dahin
+                    verständigen, dass Du nicht in Verruf bist. Übrigens musst Du einsehen, dass
+                    dieses das gelindeste Mittel war, unser Corps vor neuen Unannehmlichkeiten zu
+                    sichern. Wie Du überhaupt so etwas sehr Hartes in dieser Maßregel finden kannst,
+                    begreife ich nicht, da Du, wie gesagt, meiner Meinung nach nie viel Spaß an dem
+                    Corps-Leben gehabt hast. Gut wäre es allerdings, wenn Du mit <persName key="ed_jdn_r52_3lb">Philipp Lange</persName> in Korrespondenz trätest,
+                    damit wir alle die Gewissheit, dass Du in dieser Sache Dir nicht diese große
+                        <unclear reason="illegible" cert="low">Judelikatesse</unclear> hast
+                    zuschulden kommen lassen.</p>
+                <p>Dass es natürlich keinem verboten ist, mit Dir zu sprechen etc. an einem dritten
+                    Ort oder sonst in Gesellschaften, das versteht sich von selbst, nur den näheren
+                    Umgang aufzugeben haben wir bezweckt.</p>
+                <p>Hierdurch wirst Du hoffentlich beruhigt sein und in unserem Verfahren keine
+                    Ungerechtigkeit finden können.</p>
+				        <closer>
+					          <salute>Dein</salute>
+					          <signed>Fh. von Wrede</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_iqm_nmb_kz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Urkunde über das Familienfideikommiss Steinort. 5. Februar 1870</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_iqm_nmb_kz</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Siehe auch: GStA PK, I. HA, Rep. 84 a, Nr. 45150: Das Familienfideikommiss
+                        des Legationssekretärs Grafen von Lehndorff auf Steinort, 1855-1929. Zur
+                        rechtlichen Situation:  LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 337,
+                        Bl. 108-122. </p>
+                    <p>Am 22. Juli 1855 hatte sich Lehndorff mit der Bitte an den Justizminister
+                        gewandt, dieser möge sich für dessen Immediateingabe wegen Erlass der
+                        Stempelsteuer für die Begründung eines Fideikommisses verwenden (Bl. 2-2v
+                            (<ref target="lehndorff_qqy_fzf_j1b">Konzept im Familienarchiv</ref>),
+                            <ref target="lehndorff_dyc_wc5_h1b">Anschreiben Bl. 1</ref>). Der
+                            <persName key="ed_bg5_tsf_4y">König</persName> forderte daraufhin am 11.
+                        August 1855 Justiz- und Finanzminister zum Bericht auf (Bl. 5). Nach der
+                        Kabinettsordre vom 18. Juli 1845 unterlagen Fideikommiss-Stiftungen der
+                        Stempelsteuer von drei von hundert des Gesamtwertes der denselben gewidmeten
+                        Gegenstände, ohne Abzug etwaiger Schulden. Lehndorff hatte seine
+                        Vermögensverhältnisse nicht dargelegt, sondern lediglich mitgeteilt,
+                            <quote>dass er sich zur Zeit außer Stande befinde, diese Wertangabe zu
+                            machen</quote>. Daraufhin schätzte ein Regierungsreferent die
+                        Finanzverhältnisse (Bl. 8-10). Am 15. Oktober 1855 schrieb der
+                        Finanzminister an den König, es handle sich <quote>unzweifelhaft um ein
+                            bedeutendes Vermögen. Annäherungsweise lässt sich der
+                            Fideikommissstempel zu 3 % v. H. auf etwa 10.000 Rtlr. berechnen,
+                            wogegen das jährliche Einkommen des Bittstellers zu etwa 9 bis 10.000
+                            Rtlr. angenommen werden kann</quote>, deshalb gäbe es in den
+                        persönlichen und Vermögensverhältnissen keinen Grund für den Erlass der
+                        Stempelsteuer. Der König habe jedoch in anderen Fällen Stiftungen zur
+                        Befestigung des Grundbesitzes durch eine Ermäßigung der Stempelabgabe
+                        unterstützt, weshalb eine Reduktion auf ½ angemessen erscheine (Bl. 11-11-v,
+                        Voten der Minister Bl. 6-7). Am 29. Oktober 1855 erging eine <ref target="lehndorff_ppm_bf5_h1b">Kabinettsorde</ref> an den Justiz- und an
+                        den Finanzminister: <quote>Auf ihren gemeinschaftlichen Bericht vom 15.
+                            Oktober d. J. bestimme Ich, dass der Legationssekretär Graf von
+                            Lehndorff auf Steinort im Kreise Angerburg, wenn er die in seiner
+                            Vorstellung vom 22. Juli d. J. ausgesprochene Absicht, mit seinen
+                            Grundbesitzungen in den Kreisen Angerburg und Rastenburg ein
+                            Familienfideikommiss zu gründen zur Ausführung bringt, den Stempel dafür
+                            nicht zu drei sondern nur zu einem pro Cent entrichten soll. Die
+                            Vorstellung vom 22. Juli d. J. erfolgt nebst dem beigefügten Entwurf der
+                            Fideikommiss-Urkunde zurück.</quote> - Zu einer <ref target="lehndorff_hpz_vtk_l1b">Familienfideikommiss-Stiftung kam es
+                            wegen Mängeln an der Urkunde in den nächsten Jahren nicht</ref>. Erst am
+                        12. Juli 1870 befürwortete das Appellationsgericht Insterburg als
+                        zuständiges Fideikommissgericht die Gründung, die der <persName key="ed_lwx_y32_cy">König</persName> aus <placeName key="ed_pvh_k2d_gy">Versailles</placeName> am 26. Oktober 1870 konfirmierte (Bl. 18, 48).
+                        Nach dem Tod des Grafen fiel das Fideikommiss an dessen <persName key="ed_ik3_ckz_2y">Sohn</persName>. In seinem Testament hatte Lehndorff
+                        verfügt, dass auch das von ihm erworbene <placeName key="ed_icf_3tm_zcb">Fürstenau</placeName> (Kreis Rastenburg) als Legat an denselben
+                        übergehe und dem Fideikommiss zugeschlagen werden solle. Die kaiserliche
+                        Bestätigung erfolgte am18. Juni 1887, vgl. den Bericht des
+                        Oberlandesgerichts an den Justizminister vom 18. Mai  1887, ebd., Bl.
+                        55.</p>
+                    <p>Zur <ref target="lehndorff_hzm_wxm_xz">Auflösung und Umwandlung in ein Wald-
+                            und Landgut </ref>siehe die weiteren Dokumente unter dem Datum 1922.</p>
+                </note>
+                <note type="editorial">
+                    <p>Für die Linie Lehndorff-Preyl begann 1913 auf den testamentarischen Willen
+                        des am 24. April 1905 verstorbenen Grafen <persName key="ed_nml_dw2_cy">Heinrich Ahasverus von Lehndorff</persName> unter dessen Nachfolger,
+                        Dr. jur. <persName key="ed_obs_b5s_2y">Manfred Graf von
+                        Lehndorff</persName>, die Stiftung eines Gräflich Lehndorffschen
+                        Familienfideikommiss Preyl, das aus dem adligen Gut <placeName key="ed_hts_ttp_vcb">Warglitten</placeName>, <placeName key="ed_d3m_2zz_ncb">Regitten</placeName>, <placeName key="ed_d3p_frp_tdb">Greibau</placeName> und Wassermühle Greibau
+                        bestehen sollte, vgl. GStA PK, I. HA, Rep. 84 a, Nr. 45151. Regierungsrat
+                        Graff aus dem Landwirtschaftsministerium befürwortete gegenüber dem
+                        Innenminister die Bildung nachdrücklich: <quote>Gegen die Errichtung des
+                            Familienfideikommisses sind keine Bedenken geltend zu machen. Wenngleich
+                            das Deutschtum im Kreise <placeName key="ed_k51_n4g_hy">Fischhausen</placeName> bis jetzt noch nicht gefährdet ist, so
+                            dürfen doch die Wirkungen des Besitzbefestigungsgesetzes auf die nicht
+                            geschützten Kreise mit der Zeit dahin führen, das sie in besonderem Maße
+                            dem Einmarsch polnischer Besitzer ausgesetzt sind. Die Festlegung des
+                            Besitzes in deutscher Hand dürfte daher im Kreise Fischhausen begünstigt
+                            werden müssen. In agrarpolitischer Beziehung ist zu bemerken, dass der
+                            größere Grundbesitz in jenem Kreise nicht übermäßig hervortritt. Das
+                            Verhältnis zwischen größeren und kleinerem Grundbesitz ist vielmehr ein
+                            durchaus gesundes. Aufteilung der zu dem Besitz des Grafen Lehndorff
+                            gehörenden Güter kommt zwar nicht in Frage. Immerhin ist bei der
+                            vorhandenen Mobilität des Grundbesitzes seine dauernde Befestigung durch
+                            Fideikommissbildung nur zu begrüßen.</quote> Aufgrund von
+                        Unstimmigkeiten hinsichtlich des Ertrages zog sich der Vorgang hin. Nachdem
+                        um eine landesherrliche Bestätigung der Stiftungsurkunde im Oktober 1916
+                        nachgesucht worden war, meinte das Landwirtschaftsministerium <quote>in die
+                            Bindung der früher bäuerlichen Grundstücke</quote> nur einwilligen zu
+                        können, <quote>wenn der Stifter aus dem zum Fideikommiss bestimmten
+                            Grundbesitz 60 ha Acker- und Wiesenland für Siedlungszwecke möglichst in
+                            der Nähe einer Gemeinde zur Verfügung stellt. Ferner halten wir die
+                            Aufnahme der Residenzpflicht in die Stiftungsurkunde für
+                            erforderlich.</quote> Nach § 1 Abs. 2 der Verordnung über Familiengüter
+                        vom 10. März 1919 wurde die Errichtung neuer Familiengüter untersagt, die
+                        Genehmigung des durch die am 22. Oktober 1917 verlautbarte und am 23.
+                        Oktober bestätigte Stiftungsurkunde war somit obsolet, ein
+                        Familienfideikommiss Lehndorff-Preyl wurde nicht errichtet. </p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 337, Bl. 1-41 (zweite Abschrift Bl.
+                            42-63v)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                    20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date when="1870-02-05" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <hi rendition="#u">Abschrift</hi>
+            </p>
+                <p>Urkunde des Gräflich Lehndorffschen Familienfideikommiss <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            </p>
+                <p>
+               <hi rendition="#u">Einleitung</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Wie die Herren und Grafen von Lehndorff in den Besitz der
+                        Begüterung gekommen und dieselbe vergrößert haben</hi>
+            </p>
+                <p>Die in der Provinz <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>
+                    belegenen Steinorter Güter mit ihren gegenwärtigen Vorwerken Groß <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, Klein <placeName key="ed_hyn_yzd_gy">Steinort</placeName>, <placeName key="ed_xpm_112_gy">Labab</placeName>, <placeName key="ed_xzt_112_gy">Stawisken</placeName>,
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, <placeName key="ed_xjg_d12_gy">Stobben</placeName> und <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> sind mit hoher Wahrscheinlichkeit in der ersten Hälfte
+                    des fünfzehnten Jahrhunderts unter dem Namen der Steinorter Wildnis meinem
+                    Vorfahren, dem <seg type="comment">
+                  <orig>Herrn von Lehndorff </orig>
+                  <note xml:id="nxls_skl_2bb">Noch am 5. Februar 1536 hatte <persName key="ed_j2r_xp3_d2b">Fabian von Lehndorff</persName> als <quote>auf
+                                Maulen p. Erbgesessen</quote> gezeichnet, vgl. GStA PK, Adelsarchiv,
+                            Nr. 662, Bd. 1, Bl. 1. Am 8. Februar 1547  verschrieb <ref target="lehndorff_txh_r1g_s3b">
+                        <persName key="ed_kpr_rhp_vcb">Markgraf Albrecht</persName>
+                                <persName key="ed_m2f_swp_vcb">Caspar von Lehndorff</persName> das
+                                Amt <placeName key="ed_zg3_qps_d2b">Preußisch Eylau</placeName>,
+                                ebd., Bl. 3-7v</ref>, hierin auch das Insert der Verschreibung für
+                            den ehrbaren <quote>Rat und lieben getreuen <persName key="ed_j2r_xp3_d2b">Fabian von Loendorff</persName>
+                                selig</quote> von 1521 für dessen <quote>willigen Dienst</quote>,
+                            den er im <quote>preußischen Kriege treulich geleistet</quote>.
+                        </note>
+               </seg>verliehen. </p>
+            <p>Die älteste vorhandene <ref target="lehndorff_trv_w1g_s3b">Verleihungsurkunde des Markgrafen
+                            <persName key="ed_kpr_rhp_vcb">Albrecht des Älteren zu
+                            Brandenburg</persName> de dato </ref>
+               <seg type="comment">
+                  <orig>
+                     <ref target="lehndorff_trv_w1g_s3b">Königsberg den 6. April 1554</ref>
+                        </orig>
+                  <note xml:id="nsbm_mkl_2bb">Hierin wird die <quote>Verschreibung der
+                                    <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Wildnus
+                                und das halbe Dorf <placeName key="ed_s3k_b12_gy">Taberlauken</placeName>
+                     </quote>, die <quote>in verschiedenen
+                                Kriegen abhändig worden</quote>, konfirmiert. - <ref target="lehndorff_qc4_33c_43b">Am 26. November 1565 verkaufte
+                                    <persName key="ed_zkw_3rm_s3b">Wilhelm Schenk von
+                                    Tautenburg</persName>
+                                <persName key="ed_m2f_swp_vcb">Caspar von Lehndorff</persName> im
+                                Beisein von <persName key="ed_qf5_d4j_kjb">Jonas zu
+                                    Eulenburg</persName> und <persName key="ed_hdy_14j_kjb">Melchior
+                                    Kannacher</persName> weitere 13 Hufen Land und seinen Anteil am
+                                Krug im Dorf <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </ref> (GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 114 (Pergamenturkunde) und Nr. 290
+                            (Pergamenturkunde ), so dass Lehndorff bereits am 26. Mai 1566
+                            Schulzenamt, kleine Gerechtigkeit und 5 Hufen Land in Taberlack
+                            verpachten konnte (ebd., Nr. 115; Papierurkunde). - Die Urkunden vom 16.
+                            April 1554, 20. Dezember 1560, 29. Mai 1565, 20.Oktober 1570 und 20.
+                            August 1572 waren bei Revision des <orgName key="ed_e3t_l2n_4y">Steinorter Archivs</orgName> 1745 noch vorhanden und gehörten zu
+                            den <quote>im eysernen Kasten befindlichen Schriften</quote>, vgl. GStA
+                            PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort (unverzeichnetes
+                            Material). Abschriften in: GStA PK, XX. HA Adelsarchiv, Nr. 662, Bd. 1,
+                            Bl. 43-45; LASA, StA L Bestand 21950 FA Lehndorff, Nr. 238, Bl. 1-8.,
+                            auf der Rückseite der handschriftliche Quellenvermerk: Staatsarchiv
+                            Königsberg, Ostpreußische Folianten 919, Bl. 149-153.  Der Lehnsbrief
+                            für <persName key="ed_qvc_tlm_s3b">Melchior Lehndorff in
+                                Maulen</persName> aus dem Jahr 1572 befand sich nach Carl von Lorck
+                            (Hrsg.), Die Schröttersche Chronik aus Wohnsdorf, Limburg/Lahn 1969, S.
+                            45 neben anderen Maulen betr. Akten als Einzelakte im Schrötterschen
+                            Archiv (<quote>Rotulus der Archivalien</quote>). </note>
+               </seg>
+                    konfirmierte den Brüdern <persName key="ed_m2f_swp_vcb">Caspar</persName>,
+                        <persName key="ed_zyp_m3q_t3b">Fabian</persName> und <persName key="ed_qvc_tlm_s3b">Melchior</persName> von Lehndorff, ihren Erben und
+                    Nachkömmlingen dieses Besitztum von neuem, da es schon ihren Voreltern
+                    verschrieben, deren Urkunden in verschiedenen Kriegen „abhändig worden‟ seien. </p>
+            <p>Aus der Teilung der gesamten väterlichen Güter zwischen diesen drei Brüdern erhielt demnächst der
+                    Hauptmann zu Pr. Eylau, Rat, Kämmerer <persName key="ed_m2f_swp_vcb">Caspar von
+                        Lehndorff</persName> diesen Besitz durch die Konfirmationsurkunde desselben
+                    Fürsten vom <seg type="comment">
+                  <orig>29. Mai 1560</orig>
+                  <note xml:id="nmpr_hm3_yz">GStA PK, XX. HA, EM, Tit. 103 d, Nr. 1090,
+                            beglaubigte Abschriften (1724) der Teilungsurkunde vom 28. Mai 1557, der
+                            Konfirmation der Urkunde durch Markgraf Albrecht vom 29. Dezember 1560
+                            und Extrakt des Privilegs vom 29. Mai 1560 über die an <quote>unseren
+                                Hauptmann in Preußisch Eylau, Rat und lieben Getreuen Caspar von
+                                Lehndorff</quote> gefallene <quote>Steinortsche Wildnis und das
+                                halbe Dorf Taberlaucken</quote>
+                  </note>
+               </seg>, jedoch ausdrücklich zu
+                    Magdeburgischen Rechten und beiden Kindern bestätigt, welche <seg type="comment">
+                  <orig>Verbriefungen durch die ebenfalls noch vorhandenen Urkunden des
+                            Markgrafen <persName key="ed_ikm_hb1_jlb">Albrecht Friedrich zu
+                                Brandenburg</persName> vom 20. Oktober 1570 und 20. August
+                            1572</orig>
+                  <note xml:id="nctj_mnz_xz"> GStA PK, XX. HA Adelsarchiv, Nr.
+                            662, Bd. 1, Bl. 72-75v (Vergleich ), Bl. 77-79v (Caspar von Lehndorff an
+                            Markgraf Albrecht, 12. April 1561), Bd. 3, Bl. 33-41v (Verschreibung für
+                            Caspar von Lehndorff <quote>über seine erbliche Güter</quote>, 20.
+                            August 1572; auch in: LASA, StA L Bestand 21950 FA Lehndorff, Nr. 238,
+                            Bl. 9 ff. (Kopie mit fehlerhafter Blattzählung, auf der Rückseite :
+                            Staatsarchiv Königsberg, Ostpreußische Folianten 925, Bl. 87v-95).
+                        </note>
+               </seg> erneuert worden sind. </p>
+            <p>Schon in diesen Privilegien wurde die Fischerei auf dem Mauersee und in seinen Winkeln, jedoch
+                    mit Beschränkung des Gezeuges und zur Tischesnotdurft verliehen, bis durch das
+                        <seg type="comment">
+                  <orig>Fischerei-Privilegium des Markgrafen <persName key="ed_qlc_zb1_jlb">Johann Sigismund von Brandenburg</persName> de
+                            dato den 1. Februar 1613</orig>
+                  <note xml:id="nugd_yy2_3fb">Die Urkunde
+                            vom 1. Februar 1613 war bei Revision des <orgName key="ed_e3t_l2n_4y">Steinorter Archivs</orgName> 1745 vorhanden und gehörte zu den
+                                <quote>im eysernen Kasten befindlichen Schriften</quote>, GStA PK,
+                            XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort (unverzeichnetes
+                            Material); </note>
+               </seg> den Besitzern von Steinort die unbeschränkte
+                    Fischerei gestattet und dem Königlichen Fiskus nur die Vorzüge der <seg type="comment">
+                  <orig>Winterfischerei</orig>
+                  <note xml:id="nffd_kx5_cbb">GStA
+                            PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 907, Abschrift
+                            eines Reskripts der Königlich Preußisch-Litauischen Kriegs- und
+                            Domänenkammer, Gumbinnen, 2. Mai 1797. Es bezieht sich wortgetreu auf
+                            dieses Privileg der Familie. </note>
+               </seg> vorbehalten blieben, die mein
+                    Herr Vater, der verstorbene Graf <persName key="ed_k4z_jgl_2y">Carl Ludwig
+                        Friedrich Christian von Lehndorff</persName> durch <seg type="comment">
+                  <orig>Kaufkontrakt vom 10. Februar 1834</orig>
+                  <note xml:id="nant_sz2_3fb">Konnte bisher nicht aufgefunden
+                        werden.</note>
+               </seg> an sich gebracht hat, nachdem zuvor durch dessen
+                    Vorbesitzer, den Grafen <persName key="ed_csb_mdf_cy">Ahasverus Heinrich von
+                        Lehndorff</persName> durch Erbpacht-Kontrakt vom 14. Oktober 1784 von der
+                    Ostpreußischen Kriegs- und Domänenkammer die Vorzüge auf dem Labab- und
+                    Schülzen-See und die gänzliche Fischerei auf dem Drengfurther Oberteich zu
+                    Erbpachtrechten erworben waren. </p>
+            <p>Am <seg type="comment">
+                  <orig>13. April 1703 erkauften meine Vorfahren das Lehngut <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> von dem Kapitän Stach von
+                                <persName key="ed_rfz_j1f_3fb">Golzheim</persName>. </orig>
+                  <note xml:id="ng5b_yz2_3fb">GStA PK, XX. HA Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 120ff. (Akten zu Serwillen). </note>
+               </seg>
+            </p>
+            <p>Durch Allodial-Verträge apropriierten meine Vorfahren am 27. September 1683 eine früher zu den
+                    Schliebenschen Gütern gehörige Waldparzelle, die <seg type="comment">
+                  <orig>Bajohrsche Heide</orig>
+                  <note xml:id="nsbq_2zl_2bb">GStA PK, XX.
+                            HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 67: Erwerb und Verwaltung
+                            der Güter aus dem Besitz der von Schlieben durch Ahasverus von Lehndorff
+                            (1664-1689, 1717); LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 233:
+                            Verzeichnis sämtlicher Privilegien und Dokumente zu den Gütern Rehsau,
+                            Groß-Guja, Klein Bajohren, Engelstein und Rosenstein (1426-1803), Nr.
+                            227: Vergleich zwischen den Grafen von Schlieben und von Lehndorff zu
+                            einem Grundstückskauf in der „Marschallheide‟ und Änderung des
+                            Grundbucheintrags. </note>
+               </seg> oder Marschallheide. </p>
+            <p>Unter Oberlehnsherrlicher Genehmigung des Königs <persName key="ed_syp_mzf_h1b">Friedrich des
+                        Ersten</persName> haben ferner meine Vorfahren mittels Kaufkontrakt vom 16.
+                    April 1703 von dem Obersten <persName key="ed_m1m_bbf_3fb">Christoph von
+                        Packmohr</persName> die <seg type="comment">
+                  <orig>adeligen Mannlehne
+                                <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                  </orig>
+                  <note xml:id="nclt_kbf_3fb">GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort (unverzeichnetes Material). Zu den <quote>im eysernen
+                                Kasten befindlichen Schriften</quote> gehörte als Nr. VI
+                            Pristaniensche und Stawsche Sachen.</note>
+               </seg> käuflich erstanden, mit
+                    welchen sie durch die Lehnsurkunde desselben Fürsten vom 25. Oktober 1703
+                    belehnt worden. </p>
+            <p>Durch die <seg type="comment">
+                  <orig>Ausführung des Edikts vom 14. September 1811 in den Jahren
+                            1819 bis 1821 schied aus dem vorhandenen beschriebenen Besitz durch
+                            Ablösung der vorhandenen Bauern auf Rente ein Areal von circa 2.530
+                            Morgen aus,</orig>
+                  <note xml:id="nnst_dcf_3fb">siehe das Dokument von
+                                <ref target="lehndorff_g4f_gfg_j1b">1811</ref> und GStA PK, XX. HA,
+                            Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 856
+                            (Regulierungsverhandlungen) und Nr. 857
+                            (Auseinandersetzungsverhandlungen).</note>
+               </seg> das demnächst
+                    sukzessive bis in die nächste Zeit hierin durch Verträge mit den einzelnen
+                    bäuerlichen Besitzern <seg type="comment">
+                  <orig>mit Ausnahme von circa 150
+                            Morgen in <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                  </orig>
+                  <note xml:id="nfvm_mcf_3fb">Ebd., Nr. 857. </note>
+               </seg> in das Eigentum
+                    meines verstorben Herrn <persName key="ed_k4z_jgl_2y">Vaters</persName>
+                    zurückgekehrt ist. Ferner sind teils durch meinen Herrn Vater und teils durch
+                    mich einige andere Allodien erworben, deren später Erwähnung geschehen wird. </p>
+            <p>Diese durch meine Vorfahren während eines Zeitraums von fast vierhundert Jahren erworbenen und
+                    besessenen Besitzungen und Besitztümer sind mir durch das Testament meines in
+                    Gott ruhenden Herrn Vaters, des weiland General-Lieutenants a. D. Landhofmeister
+                    und Ritter des schwarzen Adlerordens, Herrn<persName key="ed_ik3_ckz_2y"> Carl
+                        Ludwig Friedrich Christian Graf von Lehndorff</persName> vom <seg type="comment">
+                  <orig>11. Februar 1854 vererbt.</orig>
+                  <note xml:id="nay4_tcf_3fb">GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 18 (Testament, Erbteilung). Hier auch die
+                            Handakten des Rechtsanwaltes von Hippel zur Nachlassregulierung, Nr. 17
+                            und 20.</note>
+               </seg>
+                </p>
+            <p>Dem durch die ökonomischen Verhältnisse gebotenen Zusammenhang dieser mir vererbten Güter droht
+                    aus der Verschiedenheit der rechtlichen Judalität derselben bei jeder
+                    Besitzveränderung die Gefahr der Zerstückelung. Diese Gefahr nach Kräften
+                    abzuwenden und mit Aufopferung aller persönlichen Vorteile dahin zu trachten,
+                    den uns von unseren Vorfahren hinterlassenen Steinortschen Grundbesitz unserer
+                    Familie ungetrennt zu bewahren und diese dadurch bis zu ihrem, so Gott es gnädig
+                    geben will, fernen Erlöschen in Unabhängigkeit und Ansehen zu erhalten, finden
+                    wir, meine Geschwister und ich, in der Dankbarkeit und Verehrung gegen unsere
+                    Vorfahren und namentlich in dem ausdrücklichen Wunsche meines genannten Herrn
+                    Vaters und in der dankbaren Erinnerung an dessen hohe Verdienste um unsere
+                    Familie und ihren Grundbesitz die heilige Pflicht. </p>
+            <p>Eingedenk dieser Pflicht stelle ich, <persName key="ed_zkm_whl_2y">Carl Meinhard Graf von
+                        Lehndorff</persName>, im Einverständnis mit meinen beiden Brüdern, den
+                    Herren Grafen <persName key="ed_pv1_b4g_hy">Heinrich</persName> und <persName key="ed_sjx_pfm_2y">Georg</persName> von Lehndorff, aus den nachbenannten
+                    Liegenschaften und Gerechtsamen ein wahres und beständige Familienfideikommiss
+                    her, das unter dem namen Gräflich Lehndorffsches Familienfideikommiss Steinort
+                    in der Familie meines vorgenannten Herrn Vaters vererbt werden und mit dem Tage
+                    seiner endgültigen Bestätigung in Kraft treten soll.</p>
+                <p>
+               <hi rendition="#u">Abschnitt I</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Gegenstand des Fideikommisses</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Artikel 1</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Grundstücke</hi>
+            </p>
+                <p>Das Fideikommiss Steinort wird gebildet aus <list>
+                  <item>I. den adeligen Lehngütern <placeName key="ed_pxt_cnh_1y">Groß</placeName> und <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> und deren Vorwerken </item>
+                  <item>
+                     <list>
+                        <item>1. <placeName key="ed_xpm_112_gy">Labab</placeName>,</item>
+                        <item>2. <placeName key="ed_xzt_112_gy">Stawisken</placeName> nebst den dazu
+                                    geschlagenen <seg type="comment">
+                              <orig>sieben bäuerlichen
+                                            Grundstücken Stawisken</orig>
+                              <note xml:id="nq12_kdf_3fb">GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort
+                                            Nr. 856, intus: Verwendung der durch die Separation mit
+                                            den Bauern in Stobben, Taberlack, Stawisken erworbenen
+                                            Grundstücke.</note>
+                           </seg> No. Eins bis Sieben
+                                    inklusive,</item>
+                        <item>3. <placeName key="ed_s3k_b12_gy">Taberlack</placeName> nebst den dazu
+                                    geschlagenen <seg type="comment">
+                              <orig>elf bäuerlichen
+                                            Grundstücken Taberlack No. Eins bis Elf
+                                            inklusive,</orig>
+                                        <note xml:id="nwx4_c2f_3fb">Vgl. wie zu Nr. 2.
+                                    </note>
+                           </seg>
+                        </item>
+                        <item>4. <placeName key="ed_xjg_d12_gy">Stobben</placeName> nebst den dazu
+                                    geschlagenen drei <seg type="comment">
+                              <orig>bäuerlichen
+                                            Grundstücken</orig>
+                              <note xml:id="nulx_h1m_2bb">Vgl. wie
+                                            zu Nr. 2  und GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                                            Lehndorff-Steinort, Nr. 63 sowie  LASA, StA L, Bestand 21950
+                                            FA Lehndorff, Nr. 235 (1856).</note>
+                           </seg> Stobben No.
+                                    Zwei, Vier und Fünf,</item>
+                        <item>5. <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>,</item>
+                        <item>6. <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>,</item>
+                    </list>
+                  </item>
+                  <item>II. den <seg type="comment">
+                        <orig>Lehngütern <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, letzteres mit den zugeschlagenen
+                                    elf bäuerlichen Grundstücken Pristanien No. Eins bis Elf
+                                    inklusive,</orig>
+                        <note xml:id="nbrh_p2f_3fb">Vgl. wie zu Nr.
+                                    2.</note>
+                     </seg>
+                  </item>
+                  <item>III. <seg type="comment">
+                        <orig>den Allodien in dem Dorfe <placeName key="ed_qr3_qst_ncb">Haarszen</placeName>
+                        </orig>
+                        <note xml:id="nl1x_wmt_lcb">Siehe hierzu die Grundbuchabschrift in: APO, Bestand 382 FA
+                                    Lehndorff, Nr. 15 und GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                                    Lehndorff-Steinort, Nr. 66.</note>
+                     </seg>, namentlich dem
+                            Bauerngut Haarszen No. Fünf, dann dem Grundstücke <placeName key="ed_mxw_c1k_gy">Sdorkowen</placeName>, </item>
+                  <item>IV. <seg type="comment">
+                        <orig>dem kölmischen Gute <placeName key="ed_frm_cwd_py">Buddern</placeName> Nr. Zwei mit dem Wiesenabschnitt XII
+                                    der Rade-Buddernschen Wiese, </orig>
+                        <note xml:id="nepp_wcc_r2b">
+                                    GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 64
+                                    (Kaufkontrakt) und Nr. 197 (Handakte des Rendanten Werner betr.
+                                    den Ankauf der Rade-Buddernschen Wiese
+                            1830-1833).</note>
+                     </seg>
+                  </item>
+                  <item>V. der bei der Stadt <placeName key="ed_h35_jqh_my">Drengfurth</placeName> belegenen
+                            Waldparzelle <placeName key="ed_op5_ngz_g1b">Marschallheide</placeName>
+                            oder Bajohrsche Heide genannt.</item>
+               </list>
+            </p>
+                <p>
+               <hi rendition="#u">Artikel 2 </hi>
+            </p>
+            <p/>
+            <p>
+               <hi rendition="#u">Gerechtigkeiten</hi>
+            </p>
+            <p/>
+                <p>Die den vorstehenden Gütern zustehenden Gerechtsame werden dem Fideikommisse
+                    gleichfalls einverleibt, insonderheit die Fischereirechte auf dem Großen Mauer-,
+                    Labab-, Kirsaiten- und Dargeiner See sowie die Fischerei auf dem Schülzen-See
+                    und Drengfurther Mühlenteich, genannt Oberteich, und die Rohrnutzungen auf
+                    diesen Gewässern.</p>
+                <p>
+               <hi rendition="#u">Artikel 3</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Vorbehalt zur Vergrößerung des Fideikommisses</hi>
+            </p>
+                <p>Dem Stifter und seinen Nachfolgern ist es gestattet, das Fideikommiss durch
+                    Hinzufügung von Grundstücken, durch Dispositionen unter Lebenden oder
+                    letztwillige Verfügungen zu vergrößern,<seg type="comment">
+                  <orig> doch muss dazu
+                            die landesherrliche Genehmigung in denjenigen Fällen nachgesucht werden,
+                            in welchen es derselben nach den Gesetzen bedarf.</orig>
+                  <note xml:id="nch4_dff_3fb">In seinem Testament hatte der Stifter verfügt,
+                            dass das von ihm erworbene <placeName key="ed_icf_3tm_zcb">Fürstenau</placeName> als Legat an den Sohn gehe, der er dem
+                            Fideikommiss einverleiben sollte. Die landesherrliche Bestätigung
+                            erfolgte am 18. Juni 1887 (Bl. 52-55)</note>
+               </seg>
+            </p>
+                <p>
+               <hi rendition="#u">Artikel 4</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Unbeweglicher Beilass</hi>
+            </p>
+                <p>Alle auf den vorgenannten Fideikommissgütern befindlichen Gebäude, baulichen
+                    Anlagen und Einrichtungen sind Pertinenz des Fideikommisses, und soll ein <seg type="comment">
+                  <orig>Verzeichnis </orig>
+                  <note xml:id="nh2c_nff_3fb">Konnte
+                            bisher nicht aufgefunden werden.</note>
+                    </seg>darüber nebst Beschreibung bei meinem Ableben aufgenommen und der
+                    Fideikommissbehörde eingereicht werden. </p>
+            <p>Neue Gebäude, welche zu
+                    landwirtschaftlichen Zwecken errichtet werden, werden durch ihre Errichtung
+                    Pertinenz des Fideikommisses. Neue Gebäude zu gewerblichen Zwecken unterliegen
+                    den im Artikel 31 in Ansehung der Meliorationen getroffenen Bestimmungen, jedoch
+                    mit der Maßgabe, dass der Fideikommissfolger dergleichen Gebäude wider seinen
+                    Willen nicht zu übernehmen braucht, sondern den Allodialerben des ersten
+                    Erbauers oder desjenigen Nachfolgers, der das Eigentum daran bereits erworben
+                    hat, zur Veräußerung überlassen kann.</p>
+                <p>
+               <hi rendition="#u">Artikel 5</hi>
+            </p>
+                <p>
+               <seg type="comment">
+                  <orig>
+                     <hi rendition="#u">Beweglicher Beilass</hi>
+                  </orig>
+                        <note xml:id="nugv_2gf_3fb">LASA, StA L, Bestand 21950 FA Lehndorff, Nr.
+                            339: Inventarium des Allodialnachlasses des am 28. Oktober 1883
+                            verstorbenen Grafen Carl Meinhard von Lehndorff (1883). Ein
+                            vollständiges Inventar konnte bisher nicht nachgewiesen werden,
+                            lediglich Dissoluta von Inventarienresten der Bibliothek, der Wohn- u.
+                            Hauswirtschaftsräume der Schlösser in Steinort und Warglitten und der
+                            Vorwerke (1880) in: APO, Bestand 382 FA Lehndorff, Nr. 154.
+                        </note>
+               </seg>
+            </p>
+                <p>Das sämtliche bewegliche lebende und tote Gebrauchs- und Nutzinventarium sowie
+                    sämtliche Mobilien und Gerätschaften, Maschinen und Werkzeuge, zu welchem Behufe
+                    dieselben auch im Gebrauch oder angeschafft sein mögen, ferner alle für die
+                    Landwirtschaft oder zum Betriebe anderer Gewerbe erforderlichen Gebrauchsvorräte
+                    und Bestände, nicht minder aber auch die in den Wohngebäuden befindlichen
+                    Mobilien, Möbel, Hausrat, Gerätschaften, Weiß-, Bett- und Tischzeug, Gold,
+                    Silber, Juwelen, Schmuck und Geschmeide, die Bibliothek, Karten, Familienbilder,
+                    Münzen, Medaillen und Raritäten, endlich die Equipage und sämtliche Wagen,
+                    Sättel und Geschirre werden in dem Umfange und der Anzahl, wie sie sich bei
+                    meinem Tod auf den Fideikommissgütern befinden, als Beilass dem Fideikommisse
+                    einverleibt und gehen auf den jedesmaligen Fideikommissnachfolger als zum
+                    Fideikommiss gehörig über.</p>
+                <p>
+               <hi rendition="#u">Artikel 6</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Schulden des Fideikommisses</hi>
+            </p>
+                <p>Die jetzt <seg type="comment">
+                  <orig>auf den Fideikommissgütern haftenden
+                            Hypothekenschulden</orig>
+                  <note xml:id="nonw_ttt_lcb">APO, Bestand 382 FA
+                            Lehndorff, Nr. 17 bis 23; GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 17. </note>
+               </seg> im Betrag von 95.000 Tlr. -
+                    Fünfundneunzigtausend Taler - sollen von meinen Besitznachfolgern niemals
+                    vermehrt werden, jedoch behalte ich mir als Stifter des Fideikommisses vor, die
+                    Substanz des Fideikommissgutes noch mit einem Betrag von zwanzigtausend Talern
+                    zu verschulden.</p>
+                <p>
+               <hi rendition="#u">Abschnitt II</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Artikel 7</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Sukzessionsberechtigte</hi>
+            </p>
+                <p>Hinsichts der Erbfolge wird mein verstorbener Herr Vater, der Generalleutnant,
+                    Landhofmeister und Ritter des Schwarzen Adlerordens <persName key="ed_k4z_jgl_2y">Carl Ludwig Friedrich Christian Graf von
+                        Lehndorff</persName> als der Stifter, <persName key="ed_zkm_whl_2y">ich</persName> aber als sein erster Nachfolger in dem Fideikommiss
+                    angesehen, so dass die ganze eheliche Deszendenz desselben zu der richtigen
+                    Sukzession in das Fideikommiss berufen ist. Die männliche Deszendenz desselben
+                    besteht außer mir, seinem ältesten Sohn, in seinem zweiten Sohn <persName key="ed_nml_dw2_cy">Heinrich Emil</persName> und seinem jüngsten Sohn
+                        <persName key="ed_sjx_pfm_2y">Georg Herrmann</persName>, die weibliche
+                    Deszendenz in seiner Tochter <persName key="ed_z12_bwf_hy">Pauline Louise
+                        Amalie, vermählte Gräfin von Dönhoff-Friedrichstein</persName> und seiner
+                    jüngeren Tochter <persName key="ed_f5w_2fm_2y">Magdalena, verehelichte Gräfin
+                        Borcke</persName>.</p>
+                <p>
+               <hi rendition="#u">Artikel 8</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Erbfolge der Männer</hi>
+            </p>
+                <p>Die Erbfolge im Fideikommiss soll diejenigen sein, welche das jetzt in Preußen
+                    geltende Allgemeine Landrecht im zweiten Teil vierten Titel § 149 und folgende
+                    vorschreibt.</p>
+                <p>
+               <hi rendition="#u">Artikel 9</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Erbfolge der Weiber</hi>
+            </p>
+                <p>Bei dem Aussterben der männlichen Deszendenz meines Herrn Vaters soll dessen
+                    weibliche Deszendenz zum Besitz der Fideikommissgüter nach den §§ 191 und
+                    folgenden des vierten Titels zweiten Teils des Allgemeinen Landrechts gegebenen
+                    Vorschriften berufen werden und dasselbe auf ihre Nachkommen vererben.</p>
+                <p>
+               <hi rendition="#u">Artikel 10</hi>
+            </p>
+                <p>
+               <hi rendition="#u">In Ansehung der Graf von Dönhoffschen Linie</hi>
+            </p>
+                <p>Kommt die von meiner Schwester <persName key="ed_mrr_p22_b2b">Pauline Louise
+                        Amalie, verehelichte Gräfin von Dönhoff-Friedrichstein</persName>
+                    abstammende Linie dereinst zur Sukzession in das Fideikommiss, so soll dasjenige
+                    Glied dieser Familie von der Sukzession ausgeschlossen sein, welches das
+                        <placeName key="ed_igr_4kd_gy">Friedrichsteinsche</placeName> Fideikommiss
+                    in Besitz hat und die Erbfolge so stattfinden, als ob diese
+                    Fideikommiss-Stiftung zum Besten der nachgeborenen Linie meiner Schwester, der
+                    Gräfin von Dönhoff, errichtet wäre, und bei Vererbung derselben diejenigen
+                    Grundsätze zur Anwendung kommen, welche im § 166 bis 177 des vierten Titels
+                    zweiten Teils des Allgemeinen Landrechts vorgeschrieben sind. </p>
+            <p>Die im § 178 desselben Titels aufgestellte
+                    Vergünstigung der Wahl des hiernach ausgeschlossenen Fideikommissinhabers von
+                    Friedrichstein findet nicht statt, sondern das Steinorter Fideikommiss fällt
+                    immer auf die nächste nach der im Besitz von Friedrichstein befindliche
+                    Linie.</p>
+                <p>
+               <hi rendition="#u">Artikel 11</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Verpflichtung der Sukzessoren, die nicht den Namen und das
+                        Wappen der Grafen von Lehndorff führen</hi>
+            </p>
+                <p>Jeder Nachfolger im Fideikommiss oder Ehemann einer Fideikommissnachfolgerin, der
+                    den Namen Graf von Lehndorff und das Wappen desselben (Mittelschild mit dem
+                    entsprechenden Helmschmuck genügt im Sinne dieser Urkunde überall) noch nicht
+                    führt, soll bei Verlust des Fideikommisses für ihn und seine Ehefrau gehalten
+                    sein, den Landesherrn um Verleihung des Namens eines Grafen von Lehndorff und
+                    des Wappens desselben für sich, seinen ältesten Sohn, seine von ihm abstammenden
+                    Nachfolger in dem Fideikommiss und den ältesten Sohn jedes Fideikommissbesitzers
+                    aus seiner Nachkommenschaft geziemend zu bitten; unterlässt er dieses durch
+                    zwölf Monate, nachdem er oder seine Gemahlin in den unbestrittenen Besitz des
+                    Fideikommisses gelangt ist, so verlieren er und seine Gemahlin und seine
+                    Deszendenz den Besitz und Genuss des Fideikommisses. </p>
+            <p>Wird ihm dieses Gesuch
+                    abgeschlagen, so bleibt er resp. seine Gemahlin dennoch im Besitz des
+                    Fideikommisses.</p>
+                <p>
+               <hi rendition="#u">Artikel 12</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Berufung Fremder durch den Landesherrn</hi>
+            </p>
+                <p>Ist die ganze eheliche Deszendenz meines Herrn Vaters erloschen, so ist von der
+                    Fideikommissbehörde der Landesherr zu bitten, einen geeigneten Nachfolger für
+                    das Fideikommiss unter Verleihung des Namens und Wappens eines Grafen von
+                    Lehndorff für ihn selbst, seinen ältesten Sohn sowie seinen von ihm abstammenden
+                    Nachfolger im Fideikommiss und deren ältesten Sohn zu bestimmen, und zwar
+                    zunächst aus der männlichen Deszendenz der Schwester meines verstorbenen Herrn
+                    Vaters, der Gräfin <persName key="ed_z12_bwf_hy">Pauline von
+                        Lehndorff</persName>, geboren den 21. Juni 1776, vermählt gewesen mit dem
+                    Grafen <persName key="ed_lq5_jj5_sy">August Friedrich Philipp von
+                        Dönhoff-Friedrichstein</persName>, Landhofmeister von Preußen; falls diese
+                    Deszendenz aber schon erloschen sein sollte einem anderen um das Vaterland
+                    wohlverdienten Mann.</p>
+                <p>
+               <hi rendition="#u">Abschnitt III</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Verlust der Fideikommissrechte</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Artikel 13</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Gründe der Ausschließung</hi>
+            </p>
+                <p>Uneheliche Kinder, auch die per <seg type="comment">
+                  <orig>subsequens
+                            matrimonium</orig>
+                  <note xml:id="njlb_qhf_3fb">Legitimatio per
+                            matrimonium subsequens –  Legitimation durch nachfolgende Ehe – bedeutet
+                            die Anerkennung eines unehelichen Kinder durch die spätere Heirat der
+                            Mutter.</note>
+               </seg> oder sonst legitimierten, Rasende, Wahnsinnige,
+                    Blödsinnige und gerichtlich erklärte Verschwender bleiben nicht nur von der
+                    Sukzession ausgeschlossen, sondern verlieren auch den bereits übernommenen
+                    Besitz und Genuss des Fideikommisses von der Zeit des Eintritts einer der ihre
+                    Persönlichkeit beeinträchtigenden, vorstehend aufgeführten Zustände oder
+                    Ereignisse. </p>
+            <p>Dasselbe gilt von ledigen Fräuleins, Witwen und Frauen, die unehelich geboren haben, von Frauen
+                    und Witwen, wenn sie nicht an einen Mann von ererbtem Adel vermählt sind oder
+                    vermählt waren, von Fräuleins oder Witwen, wenn sie sich nach erlangtem
+                    Fideikommissbesitz in der bei den Frauen gedachten Art verheiraten sollten.</p>
+                <p>
+               <hi rendition="#u">Artikel 14</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Umfang der Ausschließung</hi>
+            </p>
+                <p>Der Verlust der Sukzessions- und erworbenen Besitzrechte auf das Fideikommiss
+                    bezieht sich auch auf die Deszendenz der davon Betroffenen; nur den Deszendenten
+                    der Rasenden, Wahnsinnigen, Blödsinnigen und der Verschwender verbleiben ihre
+                    Sukzessionsrechte.</p>
+                <p>
+               <hi rendition="#u">Artikel 15</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Sustentation der Ausgeschlossenen</hi>
+            </p>
+                <p>Rasende, Wahnsinnige, Blödsinnige und Verschwender erhalten von dem
+                    Fideikommissnachfolger, welcher an ihrer Stelle das Fideikommiss übernimmt, und
+                    zwar von dem Tage der Übergabe des Fideikommisses an ihn, zu ihrem Unterhalt
+                    eine jährliche Rente von 1.000 Rtlr. - Eintausend Taler -, die in
+                    vierteljährlichen Raten an sie bezahlt wird. Diese Rente steigert sich bei den
+                    Rasenden, Wahnsinnigen und Blödsinnigen auf 2.000 Rtlr. - Zweitausend Taler -
+                    jährlich, sobald ihre Heilung im gesetzlichen Wege § 815 sqq. Tit. 18 Teil II A.
+                    L. R. nachgewiesen ist.</p>
+                <p>
+               <hi rendition="#u">Abschnitt IV</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Über die Beaufsichtigung des Fideikommisses im
+                        Allgemeinen</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Artikel 16</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Im Allgemeinen</hi>
+            </p>
+                <p>Dem jedesmaligen Fideikommissinhaber gebührt das nutzbare Eigentum, der
+                    Lehndorffschen Familie aber das Obereigentum des Fideikommisses; die beiden
+                    nächsten Anwärter des Fideikommisses üben im Namen der Familie das Recht und die
+                    Pflicht, mit der Fideikommissbehörde darauf zu sehen, dass die Substanz der
+                    Fideikommissgüter und der ihnen zugewiesenen Beilass konfirmiert und die mit dem
+                    Besitz des Fideikommisses verbundenen Pflichten seitens des Inhabers erfüllt
+                    werden, wie dieses in Nachfolgendem näher erörtert werden wird. </p>
+                <p>
+               <hi rendition="#u">Artikel 17</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Die beiden nächsten Anwärter</hi>
+            </p>
+                <p>Die beiden nächsten Anwärter, welchen die Beaufsichtigung des Fideikommisses mit
+                    den ihnen in den folgenden Bestimmungen bewilligten Rechten und auferlegten
+                    Pflichten zusteht, sollen diejenigen Anwärter sein, welche nach den gesetzlichen
+                    Bestimmungen § 87 folg. Tit. 4 Teil II Allg. Landrechts und § 16 des Gesetzes
+                    vom 17. Februar 1840 bei der Verschuldung des Fideikommisses und sonstigen
+                    Verfügungen über dasselbe zugezogen werden müssen.</p>
+                <p>
+               <hi rendition="#u">Artikel 18</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Verpflichtung der Anwärter</hi>
+            </p>
+                <p>Die zu diesem Familienamt berufenen Anwärter haften wie Kuratoren und werden bei
+                    der Fideikommissbehörde durch Handschlag an Eides statt verpflichtet. Wer diese
+                    Verpflichtung verweigert oder der erhaltenen Vorladung zuwider zu dem
+                    Verpflichtungstermin sich wiederholentlich, ohne sein Ausbleiben zu
+                    entschuldigen, nicht stellt, wird übergangen.</p>
+                <p>
+               <hi rendition="#u">Artikel 19</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Bevormundete und weibliche Anwärter</hi>
+            </p>
+                <p>Bevormundete Anwärter werden durch ihre Vormünder vertreten, die zu diesem Behuf
+                    nach Artikel 18 von der Fideikommissbehörde zu verpflichten sind. Stehen beide
+                    Anwärter unter einem Vormund, so sind beiden besondere Kuratoren zu bestellen.
+                    Weibliche Anwärter müssen sich durch männliche Bevollmächtigte vertreten lassen,
+                    welche ebenfalls zu diesem Amt durch Handschlag verpflichtet werden. </p>
+                <p>
+               <hi rendition="#u">Artikel 20</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Präsentation der Anwärter</hi>
+            </p>
+                <p>Der jedesmalige Inhaber des Fideikommisses hat die Pflicht, nach Fortfall eines
+                    Anwärters den zu diesem Amt zunächst Berechtigten unter Nachweisung dieses
+                    seines Rechtes durch Stammbaum und Taufschein der Fideikommissbehörde zu
+                    präsentieren und zugleich den Abgang des Fortgefallenen durch Totenschein,
+                    dessen Verzicht oder Angabe und Bescheinigung des verwandtschaftlichen
+                    Verhältnisses zum Fideikommissinhaber nachzuweisen, welches demselben etwa die
+                    Fortführung des Familienamtes rechtlich unmöglich macht. Übrigens ist jeder zu
+                    diesem Familienamt zunächst berechtigte Anwärter zur eigenen Präsentation und
+                    Legitimation befugt und kann sein Recht dazu gegen den Fideikommissbesitzer und
+                    zur Ungebühr eingesetzte Anwärter im Wege des Prozesses geltend machen.</p>
+                <p>
+               <hi rendition="#u">Artikel 21</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Wenn nur ein Anwärter vorhanden ist</hi>
+            </p>
+                <p>Weist der Fideikommissinhaber der Fideikommissbehörde nach, dass außer seinen
+                    eigenen Deszendenten nur ein nach den Gesetzen berechtigter Anwärter vorhanden
+                    ist, so ist dieser berechtigt, dieses Amt allein mit voller stiftungsmäßiger
+                    Wirkung auszuüben Ist nur noch Deszendenz des zeitigen Fideikommissinhabers
+                    vorhanden, so treten die Bestimmungen der §§ 92 und 93 Titel 4 Teil II Allg.
+                    Landrechts ein.</p>
+                <p>
+               <hi rendition="#u">Artikel 22</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Ausschließung</hi>
+            </p>
+                <p>Alle diejenigen, welche von der Sukzession bei Anfall des Fideikommisses
+                    ausgeschlossen sind, sind auch vom Amt der Anwärter ausgeschlossen.</p>
+                <p>
+               <hi rendition="#u">Artikel 23</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Pflichten der Anwärter</hi>
+            </p>
+                <p>Die installierten Anwärter haben, wenn es erforderlich scheint, besonders aber im
+                    Jahr nach jedem Besitzwechsel über den Zustand der Fideikommissgüter und des
+                    Beilasses an die Fideikommissbehörde zu berichten und derselben nicht nur alle
+                    statutenwidrigen Dispositionen und Deliberationen zur Anzeige zu bringen,
+                    sondern auch Kenntnis davon zu geben, in welcher Beziehung der Inhaber des
+                    Fideikommisses seinen ihm aus dem Besitz obliegenden Pflichten, z. B. Zahlung
+                    zur Schuldentilgung, Eintreibung oder Zahlung von Summen zum
+                    Fideikommissrepräsentationsfonds etwa nicht genügt hat.</p>
+                <p>
+               <hi rendition="#u">Artikel 24</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Pflichten des Fideikommissinhabers</hi>
+            </p>
+                <p>Zu diesem Behuf ist der Fideikommissinhaber verpflichtet, ihnen alle Mittel, die
+                    erforderlich sind, um sich sachlich über den von ihnen festzustellenden Befund
+                    zu informieren, z. B. Einsicht in Forst- und Wirtschaftsrechnungen und Betrieb
+                    bereitwillig zu gewähren. Übrigens sind die Anwärter berechtigt, sich auf eigene
+                    Kosten durch Bevollmächtigte, die sie jedoch zu diesem Behufe mit einer in einer
+                    öffentlichen Urkunde gefassten Vollmacht zu versehen haben, vertreten zu
+                    lassen.</p>
+                <p>
+               <hi rendition="#u">Artikel 25</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Zwangsmittel gegen den Fideikommissinhaber</hi>
+            </p>
+                <p>Die Fideikommissbehörde ist befugt, in allen Fällen, wo der Fideikommissinhaber
+                    seinen Obliegenheiten in Ansehung der Konservation des Fideikommisses und des
+                    Beilasses oder seinen aus dem Fideikommiss entspringenden Pflichten nicht
+                    nachkommt, sofern es noch erforderlich ist, eine gerichtliche Untersuchung
+                    anzuordnen und den Fideikommissbesitzer anzuweisen, in einer bestimmten
+                    angemessenen Zeit die Restitution zu bewirken und die Erfüllung seiner Pflicht
+                    nachzuweisen. </p>
+            <p>Leistet er in dieser ihm bestimmten Frist der erhaltenen
+                    Anweisung nicht Folge, so sollen die Anwärter gegen den Besitzer auf Erfüllung
+                    zur Vermeidung der Sequestration des Fideikommisses klagen und diese demnächst
+                    einleiten lassen.</p>
+                <p>
+               <hi rendition="#u">Abschnitt V</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Von den Rechten und Pflichten des Fideikommissbesitzers in
+                        Ansehung des Fideikommisses</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Artikel 26</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Substanz</hi>
+            </p>
+                <p>Die Substanz des Fideikommisses ist unveräußerlich, jedoch ist der
+                    Fideikommissinhaber befugt, einzelne Parzellen der Fideikommissgüter aus
+                    Rücksicht der vorteilhaften Bewirtschaftung oder besseren Arrondierung gegen
+                    andere Grundstücke von gleichem oder höherem Wert in Tausch zu geben. Hierzu
+                    haben jedoch die beiden nächsten Anwärter ihre Zustimmung zu erteilen.</p>
+                <p>
+               <hi rendition="#u">Artikel 27</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Tilgung der Fideikommissschuld und Ansammlung eines
+                        Fideikommisskapitals</hi>
+            </p>
+                <p>Die nach mir, dem Stifter des Fideikommisses, eintretenden Fideikommissnachfolger
+                    haben die Verpflichtung, die nach meinem Absterben auf dem Fideikommiss noch
+                    haftenden Hypothekenschulden sukzessive zu tilgen und nach erfolgter Tilgung
+                    noch ein Fideikommisskapital von Dreißigtausend Talern allmählich aufzusammeln. </p>
+            <p>Zu diesem Behufe sind am 1. Juli jeden Jahres Eintausend Taler ad deposita der
+                    Fideikommissbehörde oder der von ihr zu substituierenden Gerichtsbehörde in
+                    ostpreußischen Pfandbriefen oder anderen zinstragenden Papieren, in denen
+                    gesetzlich <seg type="comment">
+                  <orig>Pupillengelder</orig>
+                  <note xml:id="ncjz_nmf_zdb">Mündelsichere Anlagen</note>
+               </seg> belegt werden
+                    können, einzuzahlen. Bleibt jemand mit der Zahlung im Verzug, so hat er dem
+                    einzuzahlenden Betrag noch sechs Prozent Verzugszinsen bis zum Zahlungstage
+                    beizufügen. Sobald der auf diese Weise aufgekommene Fonds inkl. der dazu
+                    geschlagenen Zinsen hinreicht, um eine eingetragene Post zu decken, so ist der
+                    Fideikommissbesitzer und die Anwärter zu veranlassen, dieselbe zu kündigen; sie
+                    wird dann aus dem vorhandenen Bestand berichtigt und im Hypothekenbuch gelöscht,
+                    worauf dann der Fideikommissbesitzer die Zinsen dieser Post nicht mehr zu
+                    bezahlen hat. Wenn nun auf diese Weise die sämtlichen Hypothekenschulden des
+                    Fideikommisses zur Löschung gelangt sind, läuft die Zahlung der Eintausend Taler
+                    jährlich nur noch so lange fort, bis der intendierte Fideikommissfonds von
+                    30.000 Talern vorhanden ist. Erleidet dieser auf irgend eine Weise Verlust, so
+                    muss derselbe sofort in der früher beschriebenen Art von dem zeitigen
+                    Fideikommissinhaber ergänzt werden. Die Fideikommissinhaber haben das Recht, aus
+                    diesem Fideikommissfonds in Kriegsnöten oder bei großen Unglücksfällen, welche
+                    die Güter betreffen, Anlehne mit Bewilligung der beiden Anwärter zu
+                    beanspruchen, die jedoch in höchstens zehn gleichen Jahresraten, nicht unter
+                    1.000 Talern jährlich, zurückgezahlt werden müssen. Die Abzahlungen beginnen ein
+                    Jahr nach Aufnahme des Darlehens.</p>
+                <p>
+               <hi rendition="#u">Artikel 28</hi>
+            </p>
+                <p>
+               <hi rendition="#u">In Ansehung der Verpachtung</hi>
+            </p>
+                <p>Jeder Inhaber des Fideikommisses ist befugt, die Fideikommissgüter mit Ausnahme
+                    von <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName> auf die Dauer
+                    seiner Besitzzeit zu verpachten. Seine Nachfolger sind zur Anerkennung der von
+                    ihm geschlossenen Verträge in ihre Besitzzeit hinein nur dann verpflichtet, wenn
+                    die beiden nächsten Anwärter die diesfälligen Verträge genehmigt haben. </p>
+            <p>Die Anwärter müssen die Genehmigung
+                    erteilen, wenn solche Verträge nicht nachweisbar zur Begünstigung des Besitzers
+                    unter Benachteiligung der Nachfolger abgeschlossen sind. </p>
+            <p>Die Anwärter sind
+                    auch befugt, die Ausübung von solchen Pachtverträgen herbeizuführen, welche zwar
+                    nur auf die Lebenszeit des Besitzers geschlossen sind, jedoch nachweisbar
+                    Verabredungen enthalten, welche den Vorteil des Besitzers zum Nachteil des
+                    Fideikommisses bezwecken. </p>
+            <p>Bei allen Verpachtungen muss der Pächter eine den wirtschaftlichen Zustand und stiftungsmäßigen
+                    Beilass sichernde Kaution bestellen, welche in sicheren Dokumenten,
+                    Staatschuldscheinen oder Pfandbriefen bei der Fideikommissaufsichtsbehörde
+                    deponiert werden müssen. </p>
+            <p>Die Kaution muss nicht bloß für den Fideikommissbesitzer, sondern auch zur Sicherstellung seiner
+                    Nachfolger bestellt werden und die Kautionsbestellung hierauf ausdrücklich
+                    ausgedehnt werden.</p>
+                <p>
+               <hi rendition="#u">Artikel 29</hi>
+            </p>
+                <p>
+               <hi rendition="#u">In Ansehung der Waldungen</hi>
+            </p>
+                <p>Die zum Fideikommiss gehörigen Waldungen muss der Fideikommissbesitzer nach den
+                    forstwirtschaftlichen Grundsätzen, welche in den nächsten Königlichen Forsten
+                    angewendet werden, nutzen und konservieren. </p>
+            <p>Holzverkäufe und Holzungen, welche diesen Grundsätzen zuwider sind, müssen die Anwärter
+                    inhibieren, und wenn sie bereits geschehen sind, muss der Fideikommissbesitzer,
+                    welcher sie bewirkt hat, angehalten werden, das empfangene Kaufgeld, mindestens
+                    aber den Wert des verkauften Holzes nach der Forsttaxe an die
+                    Fideikommissbehörde zum Fideikommissrepräsentationsfonds einzuzahlen, auch die
+                    Wiederherstellung der beschädigten Waldungen auf forstwirtschaftlichem Wege auf
+                    seine Kosten zu bewirken. Dagegen ist die Rodung einzelner, auch größerer
+                    Waldteile und ihre Verwandlung in Acker mit Genehmigung der beiden nächsten
+                    Anwärter und der Fideikommissbehörde gestattet, wenn dieselbe den Einkünften des
+                    Fideikommisses oder der Bewirtschaftung desselben überwiegende Vorteile gewährt.
+                    In einem solchen Fall müssen jedoch die wegzuräumenden Holzbestände durch einen
+                    königlichen Oberförster abgeschätzt und der ermittelte Geldwert nach Abzug des
+                    Schlagelohnes, nicht aber der Rodungskosten, zum
+                    Fideikommissrepräsentationsfonds eingezahlt werden. </p>
+            <p>Bei <seg type="comment">
+                  <orig>Walddeteriorationen</orig>
+                  <note xml:id="nflj_c51_jlb">Waldverschlechterungen</note>
+               </seg>, die durch höhere Gewalt oder
+                    Zufall herbeigeführt und nach forstwirtschaftlicher Pflege und Einschränkung der
+                    Nutzungen allmählich retabliert werden müssen, ist eine Vergütung an den
+                    Fideikommissrepräsentationsfonds nicht zu erlegen. </p>
+            <p>Im allgemeinen wünsche ich, dass eine Verminderung des Waldterritoriums nur aus den
+                    überwiegendsten Gründen der Nützlichkeit vorgenommen wird und niemals den
+                    eigenen Bedarf beeinträchtigen darf, weil ein gewisser Reichtum an Wald und
+                    Waldprodukten einer begüterten Familie wohl ansteht und ihr Ansehen erhöht.</p>
+                <p>
+               <hi rendition="#u">Artikel 30</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Der Fideikommissrepräsentationsfonds</hi>
+            </p>
+                <p>Der Fideikommissrepräsentationsfonds steht mit dem zu gründenden
+                    Fideikommisskapital in keiner Beziehung, und sollen zu demselben außer den
+                    Geldvergütungen für Walddeteriorationen auch alle diejenigen Vergütungen
+                    fließen, die der Fideikommissfondsbesitzer oder dessen Allodialerben für solche
+                    Verringerungen der Substanz oder Beilasses zu zahlen hat, die in natura nicht
+                    wiederhergestellt werden können. Es fließen demselben daher auch alle
+                    Abfindungen für etwaige Expropriationen und Ablösungen von Gerechtsamen zu,
+                    nicht minder die nach der Urkunde festgestellten Konventionalstrafen. Die Zinsen
+                    dieses Fonds bezieht der Fideikommissbesitzer. Die Bestände desselben können
+                    nicht nur in Staatsschuldscheinen und Pfandbriefen, sondern auf Veranlassung des
+                    Fideikommissbesitzers auch auf pupillarisch sichere Hypothek durch die beiden
+                    Anwärter für das Steinorter Fideikommiss belegt werden, und gilt von seiner
+                    Sicherstellung dasselbe, was § 28 über die Pachtkautionen festgesetzt ist. </p>
+                <p>
+               <hi rendition="#u">Artikel 31</hi>
+            </p>
+                <p>
+               <hi rendition="#u">In Ansehung der Meliorationen</hi>
+            </p>
+                <p>Meliorationen der Fideikommissgüter werden von dem Fideikommissübernehmer an den
+                    Allodialnachlass seines Besitzvorgängers nur dann erstattet, wenn sie ohne
+                    Verschuldung der Revenuen ausgeführt und auch sonst keine Meliorations-Darlehen
+                    zu erstatten sind (Artikel 34) und wenn die beiden Anwärter die Melioration, und
+                    zwar vor ihrer Einrichtung auf Grund einer speziellen technischen
+                    Veranschlagung, von welcher die Kosten für die Hand und- Spanndienste und das
+                    auf den Gütern selbst gewonnenen Material abzusetzen sind, in einer öffentlichen
+                    Urkunde genehmigt und nach Ausführung derselben in derselben Weise erklärt
+                    haben, dass dieselbe anschlagmäßig ausgeführt sei. </p>
+            <p>In keinem Falle ist der
+                    neue Fideikommissübernehmer aber verbunden, mehr als Zehntausend Taler für
+                    Meliorationen an den Allodialnachlass seines Besitzvorgängers zu erstatten, auch
+                    ist er berechtigt, diese Erstattungen nur in Abschlagszahlungen von Eintausend
+                    Talern jährlich ohne Zinsverpflichtung zu berichtigen. Liegt zwischen der
+                    Ausführung der Melioration und dem Wechsel im Fideikommissbesitz ein Zeitraum
+                    von mehr als zwanzig Jahren, so sind die Allodialerben eine Erstattung zu
+                    verlangen nicht berechtigt.</p>
+                <p>
+               <hi rendition="#u">Artikel 32</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Im Ansehung des unbeweglichen Beilasses</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Zu Artikel 4</hi>
+            </p>
+                <p>Die Gebäude und baulichen Einrichtungen auf den Fideikommissgütern hat der
+                    jedesmalige Inhaber des Fideikommisses in gutem baulichen und Gebrauchszustand
+                    zu erhalten und ist ihm nicht gestattet, Gebäude und bauliche Einrichtungen, die
+                    er auf den Fideikommissgütern bereits vorgefunden, ohne Genehmigung der beiden
+                    Anwärter fortzunehmen. </p>
+            <p>Die bei jeder Besitzerledigung sich ermittelnden
+                    Baumängel und Defekte an ganzen Gebäuden oder baulichen Einrichtungen haben die
+                    Allodialerben nach Abzug der Hand- und Spanndienste sowie der aus den Gütern zu
+                    erlangenden Materialien dem eintretenden Fideikommissnachfolger zu vergüten.
+                    </p>
+            <p>Zum Zweck dieser Feststellung sollen nach meinem Tod die Anwärter von der Fideikommissbehörde
+                    veranlasst werden, ein spezielles <seg type="comment">
+                  <orig>Verzeichnis der auf
+                            den Fideikommissgütern vorhandenen Gebäude und baulichen Einrichtungen
+                            nebst Beschreibung</orig>
+                  <note xml:id="nujr_fjf_3fb">Konnte bisher nicht
+                            aufgefunden werden.</note>
+               </seg> der Fideikommissbehörde einzureichen,
+                    was bei jedem Besitzwechsel zu wiederholen ist. </p>
+                <p>
+               <hi rendition="#u">Artikel 33 </hi>
+            </p>
+                <p>
+               <hi rendition="#u">In Ansehung des beweglichen Beilasses </hi>
+            </p>
+                <list>
+               <item>
+                  <p>I. Den beweglichen Beilass von Gutsinventarien, den mein erster Nachfolger in dem Fideikommiss in
+                            dem Umfang und in der Beschreibung des Artikel 5 ohne Beziehung auf ein
+                            spezielles Verzeichnis übernimmt, hat derselbe zu konservieren und nach
+                            den Bedürfnissen des Betriebes der Landwirtschaft und der sonstigen auf
+                            den Gütern bereits vorhandenen oder neu von ihm eingerichteten Gewerbe
+                            zu vermehren und zu verbessern, so dass den Gütern unausgesetzt ein
+                            vollständiges Betriebs- und Nutzungsinventarium und die zum Betrieb der
+                            vorhandenen Gewerbe erforderlichen Gerätschaften und Einrichtungen in
+                            guter Qualität zu Gebote resp. auf verpachteten Gütern durch Kaution
+                            sichergestellt bleiben. </p>
+                  <p>Insbesondere hat aber jeder nach mir neu eintretende Fideikommissinhaber die Pflicht dafür Sorge
+                            zu tragen, dass <seg type="comment">
+                        <orig>auf den einzelnen Gütern
+                                    Vorwerken und Grundstücken das darauf befindliche resp. vom
+                                    Pächter durch Kaution sichergestellte Inventarium</orig>
+                        <note xml:id="np4w_kjf_3fb">Inventarlisten von Gütern und Vorwerken in
+                                    GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 739
+                                    enden 1854. Aktuelle Inventare müssen vorhanden gewesen sein,
+                                    vgl. APO, Bestand 382 FA Lehndorff, Nr. 2: Sendung von
+                                    Verzeichnissen und Akten für die Fideikommissakten von Steinort,
+                                    13. April 1887, die Antwort Heinrich von Lehndorffs auf einem
+                                    „Formblatt“ des Tribunals (Konzept, undatiert). Er hatte die
+                                    Gutsinventare von Steinort mit den Vorwerken Labab, Kittlitz,
+                                    Buddern, Wiesengrün sowie die <hi rendition="#u">Original</hi>-Pachtverträge über die Vorwerke Klein Steinort,
+                                    Stawisken, Taberlack, Serwillen, Stobben, Pristanien, Stawken –
+                                    Buddern war nicht verpachtet – mit der Bitte um Rückgabe und
+                                    Verbleib der Abschriften bei den Fideikommissakten übermittelt.
+                                </note>
+                     </seg> nachstehende Minima in Geldwert repräsentiert: </p>
+               </item>
+               <item>
+                  <list>
+                        <item>1. für <placeName key="ed_xpm_112_gy">Labab</placeName> 5.500
+                                Rtlr.</item>
+                        <item>2. für <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> 2.000
+                                Rtlr.</item>
+                        <item>3. für <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> 4.000
+                                Rtlr.</item>
+                        <item>4. für <placeName key="ed_xzt_112_gy">Stawisken</placeName> 3.000
+                                Rtlr.</item>
+                        <item>5. für <placeName key="ed_s3k_b12_gy">Taberlack</placeName> 7.500
+                                Rtlr.</item>
+                        <item>6. für <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> 4.000
+                                Rtlr.</item>
+                        <item>7. für <placeName key="ed_xjg_d12_gy">Stobben</placeName> 3.000
+                                Rtlr.</item>
+                        <item>8. für <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> 4.000
+                                Rtlr.</item>
+                        <item>9. für <placeName key="ed_nkz_b12_gy">Stawken</placeName> 4.000
+                                Rtlr.</item>
+                        <item>10. für <placeName key="ed_frm_cwd_py">Buddern</placeName> 500
+                                Rtlr.</item>
+                    </list>
+               </item>
+               <item>
+                  <p>endlich 11. für <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName>, jedoch mit Ausschluss
+                            der unter Nummer II. III. IV. benannten Gegenstände, aber mit Einschluss
+                            sämtlicher sonst auf diesem Gute befindlichen Mobilien, der Fabrikgeräte
+                            und Maschinen und der etwa auf den Gütern vorhandenen Schafpepiniere
+                            oder Stammherde vorzüglicher Rasse, die auf anderen Vorwerken, auf
+                            welchen sie etwa steht, nicht in Betracht gezogen werden soll, 12.000
+                            Taler. Nicht minder sollen zur Erfüllung dieses Minimalbetrages die
+                            Inventarien und Sachen zugerechnet werden, welche sich auf den kleinen,
+                            aber nicht aufgeführten Pertinenzen und Etablissements befinden oder zum
+                            Waldbetrieb gehören. </p>
+                  <p>Dieses Minimum hat jeder Fideikommissbesitzer bei Übergabe des Fideikommisses auf jedem der
+                            genannten Fideikommissgrundstücke, unbeschadet des ihm zustehenden
+                            Nachweises, dass veränderte Zeitumstände größere Wertgebote notwendig
+                            machen, zu fordern, und ist der Allodialnachlass zu dessen Gewährung
+                            verbunden. Das Plus verbleibt dem Fideikommissnachfolger und darf ein
+                            etwaiges Plus auf dem einen Gute niemals auf ein Minus auf dem anderen
+                            zur Ausgleichung gestellt werden. </p>
+               </item>
+               <item>II. <seg type="comment">
+                     <orig>Familienpapiere und Urkunden, Familienbilder und Karten, Bücher,
+                                Juwelen, Schmuck und Geschmeide, Münzen, Medaillen und Raritäten
+                                werde ich seiner Zeit in spezielle Verzeichnisse aufnehmen und der
+                                Fideikommissbehörde mit Bestimmung des Wertes oder der auf den
+                                Verlust einzelner Gegenstände den Allodialnachlass treffender
+                                Konventionalstrafen einreichen.</orig>
+                     <note xml:id="nas5_tjf_3fb">
+                                <p>Vgl. die Anmerkung zu I. Lehndorff hatte neben den o. g. Akten
+                                    auch ein Verzeichnis der Bibliothek sowie Verzeichnisse der
+                                    Medaillen, Münzen und Raritäten übermittelt. In Nr. 740 ist nur
+                                    ein Inventar der 3. und 4. Abteilung der Lehndorffschen
+                                    Bibliothek (medizinische Bücher bzw. Autoren der römischen
+                                    Antike) o. D., in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr.
+                                    339 das Inventar des Allodialnachlasses des am 28. Oktober 1883
+                                    verstorbenen Grafen Carl Meinhard von Lehndorff (1883)
+                                    übrliefert, diese Akte ist stark beschädigt. </p>
+                            </note>
+                  </seg>Sollte dieses Verzeichnis aber von mir nicht eingereicht
+                        werden, so sind bei meinem Ableben diese Verzeichnisse von den beiden
+                        Anwärtern und dem Fideikommissnachfolger mit Bestimmung der Preise
+                        einzureichen. worauf die Fideikommissbehörde zu dringen haben wird. </item>
+            </list>
+                <p>
+                    <list>
+                        <item>III. Alles Silber und Gold, was sich auf dem Schloss in Groß Steinort
+                            und sonst in den Wohngebäuden befindet, das mein Nachfolger ohne
+                            Verzeichnis und Taxe zu übernehmen hat, ist mindestens Sechstausend
+                            Taler wert und soll mit dem Fideikommiss auf den späteren Nachfolger
+                            übertragen und das Fehlende aus dem Allodialnachlass prästiert werden. </item>
+                    </list>
+                </p>
+                <p>
+                    <list>
+                        <item>IV. Alle übrigen Mobiliargegenstände, im Gegensatz des ad I erwähnten
+                            Gutsbesitzes, welche zum persönlichen Gebrauch des Fideikommissbesitzers
+                            und seiner Familie bestimmt sind und sich in dem Schloss und den
+                            sonstigen Wohngebäuden, Kutschställen und Wagenremisen von <placeName key="ed_pxt_cnh_1y">Groß Steinort </placeName>befinden, haben eine
+                            Wert von mindestens 8.000 Rtlr. und sollen in diesem Wertbetrage
+                            mindestens bei jeder Besitzveränderung vorhanden sein und dem neuen
+                            Fideikommissübernehmer gewahrt werden.</item>
+                    </list>
+                </p>
+                <p>
+                    <list>
+                        <item>V. Der Fideikommissbesitzer soll befugt sein, über die Beilass-Stücke
+                            ad I. III. und IV. unter Lebenden wie auch von Todes wegen zu verfügen,
+                            soweit dadurch nur nicht eine Verminderung des Werts unter die
+                            vorgeschriebenen Minimalsätze herbeigeführt wird. </item>
+                    </list>
+                </p>
+                <p>
+               <hi rendition="#u">Artikel 34</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Verschuldung der Revenuen</hi>
+            </p>
+                <p>Jeder Fideikommissbesitzer kann unter Verpfändung der Revenuen des Fideikommisses
+                    Darlehen aufnehmen, will er indes auch seinen Nachfolger zur Rückzahlung
+                    derselben haftbar machen, so dürfen diese Verbindlichkeiten nur zur Restitution
+                    des Beilasses, sofern er durch Unglücksfälle gestört oder verkümmert ist, oder
+                    zur Einrichtung von Meliorationen auf den Fideikommissgütern unter
+                    ausdrücklicher Genehmigung der beiden Anwärter eingezogen werden, auch muss die
+                    Rückzahlung in zwölf Jahren, und zwar in jährlichen Ratenzahlungen von gleichem
+                    Betrage, erfolgen und gleich nach Restitution des Unglücksfalls resp. Vollendung
+                    der Melioration beginnen. </p>
+            <p>Die Darlehen zu Meliorationen dürfen den Betrag von 10.000 Talern nicht überschreiten. Die
+                    Anwärter haben ihre Einwilligung zu derartigen Restitutions-Darlehen zu
+                    verweigern, wenn die Unglücksfälle, welche die Zerstörung des Beilasses
+                    herbeigeführt, in der Besitzzeit des Darlehnssuchers sich ereigneten und er
+                    ihnen nicht binnen Jahresfrist davon Anzeige gemacht oder wenn die unter dem
+                    Vorbesitzer stattgehabten Verringerungen aus dem Allodialnachlass desselben
+                    beigetrieben werden konnten. Ist letzteres nicht der Fall, so hat der
+                    darlehenssuchende Fideikommissbesitzer den Anwärtern die Insolvenz des
+                    Allodialnachlasses glaubhaft darzutun und speziell die Gegenstände der
+                    Restitution zu bezeichnen. </p>
+            <p>Die Bewilligung von
+                    Darlehen zu Meliorationen darf nur auf Grund einer technischen Veranschlagung,
+                    in welcher die Kosten für Hand- und Spanndienste und der aus den Gütern zu
+                    beschaffenden Materialien anzusetzen sind, und dann geschehen, wenn keine
+                    Meliorationserstattungen an den Allodialnachlass vorliegen, die mit dem zu
+                    demselben Zweck aufzunehmenden Darlehen zusammengenommen den Betrag von 10.000
+                    Talern übersteigen. </p>
+            <p>Die über die Konsentierung der Darlehen auszufertigenden gerichtlichen Urkunden sind mit den
+                    Verzeichnissen und technischen Gutachten über den Umfang der Restitutionen und
+                    Meliorationen in beglaubigter Abschrift von den Anwärtern der
+                    Fideikommissbehörde zu überreichen, welcher innerhalb einer von ihr
+                    festzusetzender Frist die wirkliche Herbeiführung der angeblichen Restitutionen
+                    und Meliorationen von dem Fideikommissinhaber durch ein Abnahme-Attest der
+                    beiden Anwärter nachgewiesen werden müssen. Wird dieses Attest nicht beschafft,
+                    so kann die Fideikommissbehörde nach vorheriger Untersuchung die Anwärter
+                    anweisen, auf die Herbeiführung der Restitutionen und Meliorationen in der
+                    angeschlagenen Weise gegen den Fideikommissbesitzer zur Vermeidung der
+                    Sequestration zu klagen und selbige demnächst einleiten lassen. </p>
+            <p>Gibt der Gläubiger wegen der bestimmten Rückzahlungstermine Nachsicht, so geschieht dieses auf
+                    seine Gefahr. Wenn der Fideikommissinhaber auf Restitutions-Darlehen jährlich
+                    2.000 Rtlr. oder mehr außer den Zinsen zu amortisieren hat, so soll er während
+                    dieser Abschlagszahlung von den Einzahlungen zum Fideikommissfonds befreit sein.
+                    Auch kann er für den Fall, dass die auf dem Fideikommiss gegenwärtig bestandenen
+                    Substanzschulden gedeckt sind, diese Darlehen zunächst aus dem anzusammelnden
+                    Fideikommissfonds von 30.000 Rtlr. beanspruchen.</p>
+                <p>
+               <hi rendition="#u">Artikel 35</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Form, in welcher die Anwärter ihre Erklärungen abzugeben
+                        haben</hi>
+            </p>
+                <p>Alle von den beiden Anwärtern abzugebenden Erklärungen und Genehmigungen müssen,
+                    um Effekt zu haben, in einer öffentlichen Urkunde gefasst sein, die in jedem
+                    Falle der Fideikommissbehörde in beglaubigter Abschrift von ihnen oder dem
+                    Fideikommissbesitzer überreicht werden muss, da dieselbe alle diese Geschäfte
+                    nach ihrer formellen Richtigkeit, und wenn sie es für notwendig hält ihrer
+                    materiellen Angemessenheit, zu prüfen hat.</p>
+                <p>
+               <hi rendition="#u">Artikel 36</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Prozesse</hi>
+            </p>
+                <p>Bei Prozessen, welche die Substanz betreffen, bewendet es bei den gesetzlichen
+                    Bestimmungen.</p>
+                <p>
+               <hi rendition="#u">Artikel 37</hi>
+            </p>
+                <p>Im Falle ein Minorenner zum Besitzer des Fideikommisses gelangt, so soll es bei
+                    den in der Vormundschaftsanordnung enthaltenen gesetzlichen Bestimmungen sein
+                    Bewenden haben. Wird die Vormundschaft über den miniorennen Fideikommisserben
+                    bei einem außerhalb der Provinz Ostpreußen belegenen Gerichte geführt, so soll
+                    dem Fideikommissbesitzer ein besonderer Vormund in dieser Provinz in betreff des
+                    Fideikommisses bestellt werden. </p>
+                <p>
+               <hi rendition="#u">Artikel 38</hi>
+            </p>
+                <p>
+               <hi rendition="#u">In Ansehung des Stammbaums</hi>
+            </p>
+                <p>Jeder Fideikommissbesitzer ist verpflichtet, den Stammbaum seiner Familie
+                    vollständig und mit den nötigen Beweisen über die Todes- und Geburtsfälle belegt
+                    zu erhalten, insoweit als die Familienmitglieder durch Männer von meinem Herrn
+                    Vater oder einem Fideikommissbesitzer abstammen. </p>
+            <p>Außer den Kosten der Legitimation der beiden nächsten Anwärter muss jedes andere Familienglied
+                    die Kosten seiner Legitimation für den Stammbaum selbst tragen, auch ist jedes
+                    Mitglied, auch solche, die nur vermittels der Abstammung durch Weiber zu der
+                    berechtigten Familie gehören, berechtigt, seine Anrechte auf das Fideikommiss im
+                    Hypothekenbuch vermerken zu lassen.</p>
+                <p>
+               <hi rendition="#u">Abschnitt VI</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Übernahme des Fideikommisses und Auseinandersetzung mit den
+                        Allodialerben</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Artikel 39</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Übernahme</hi>
+            </p>
+                <p>Mit dem Absterben des Fideikommissbesitzes gelangt das Fideikommiss unmittelbar
+                    in den Besitz und die Verwaltung seines Nachfolgers, der die Verwaltung dessen
+                    für sich und die Allodialerben bis zum Schluss des Jahres zu übernehmen, über
+                    die Revenuen des letzten Wirtschaftsjahres den Allodialerben innerhalb
+                    Jahresfrist Rechnung zu legen und dabei alle diejenigen Anforderungen
+                    aufzustellen hat, welche er gegen den Allodialnachlass nach dem Inhalt dieser
+                    Urkunde aufzustellen berechtigt ist und beabsichtigt.</p>
+                <p>
+               <hi rendition="#u">Artikel 40</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Auseinandersetzung mit den Allodialerben</hi>
+            </p>
+                <p>Bei der Auseinandersetzung mit den Allodialerben werden die Revenuen des letzten
+                    Wirtschaftsjahres, das vom 1. Juli bis 30. Juni läuft, pro rata temporis geteilt
+                    und müssen bei Berechnung derselben alle vorhandenen Früchte und Vorräte an
+                    Gutserzeugnissen, sofern sie zur Wirtschaft erforderlich, als unverkäuflich von
+                    der Einnahme abgesetzt werden und von dem vorhandenen lebenden
+                    Verkaufsinventarium nicht mehr, als im Betrieb der Viehzucht liegt, zur Einnahme
+                    gebracht werden, was alles eventuell durch sachverständige Gutachter
+                    festgestellt werden muss.</p>
+                <p>
+               <hi rendition="#u">Artikel 41</hi>
+            </p>
+                <p>Besonders ist bei der Auseinandersetzung darauf Bedacht zu nehmen, dass die von
+                    dem Besitzvorgänger vereinnahmten Pachtkautionen dem Nachfolger ausgehändigt
+                    werden, während andererseits den Allodialerben die ihnen zu erstattenden
+                    Meliorationen zugute zu rechnen sind. Nicht minder sind die Rückstände der
+                    Zahlungen, welche dem Fideikommissbesitzer nach dieser Urkunde obliegen, sowie
+                    etwaige Defekte an dem unbeweglichen und beweglichen Beilass dem
+                    Allodialnachlass in Rechnung zu stellen und der Goldwert etwaiger Beilassdefekte
+                    durch Sachverständige zu ermitteln.</p>
+                <p>
+               <hi rendition="#u">Artikel 42</hi>
+            </p>
+                <p>Der über diese Auseinandersetzung zwischen dem Fideikommissbesitzer und den
+                    Allodialerben abzuschließende Auseinandersetzungsrezess ist der
+                    Fideikommissbehörde zu überreichen und hat die Folge, dass nunmehr der
+                    Übernehmer für alle diejenigen Defekte  mit seinem Allodialvermögen haftet, die
+                    er in dem Rezess nicht liquidiert und geltend gemacht hat oder später von dem
+                    Allodialerben beizutreiben unterlässt. </p>
+            <p>Wird dieser Rezess nicht eingereicht
+                    oder abgeschlossen, so haftet der Übernehmer seinem Nachfolger für alle
+                    demnächst sich herausstellenden Defekte mit seinem Allodialvermögen.</p>
+                <p>
+               <hi rendition="#u">Abschnitt VII</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Austattungen der Witwen, Töchter, nachgeborenen Söhne des
+                        Fideikommissinhabers</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Artikel 43</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Witwen</hi>
+            </p>
+                <p>Jede Witwe des Fideikommissinhabers erhält aus den Fideikommissrevenuen eine
+                    jährliche Sustentation von 1.000 Talern vierteljährlich vorausgezahlt. Ist mehr
+                    als eine Witwe vorhanden, so erhalten die späteren nur 500 Rtlr. jährlich in
+                    gleicher Weise. Auch hat die Witwe des letzten Besitzers das Recht, während der
+                    Minorität des Nachfolgers mit den bei ihr lebenden minorennen Kindern den Genuss
+                    eines vollständig freien standesgemäßen Unterhalts auf den Fideikommissgütern zu
+                    verlangen, welchenfalls sie dann aber nur die Hälfte der ihr ausgesetzten baren
+                    Revenuen beanspruchen kann. Dieses Recht kann die Witwe des Vorbesitzers jedoch
+                    nur dann prätendieren, wenn sich die Mutter des minorennen Fideikommissbesitzers
+                    nicht auf den Gütern befindet. </p>
+            <p>Die Witwe erhält ihre Wohnung in dem Schloss zu <placeName key="ed_pxt_cnh_1y">Groß
+                        Steinort</placeName> selbst, in dem jedoch auch der minorenne
+                    Fideikommissbesitzer Aufnahme finden muss.</p>
+                <p>
+               <hi rendition="#u">Artikel 44</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Töchter und Söhne</hi>
+            </p>
+                <p>Jede unvermögende Tochter erhält aus den Fideikommiss-Revenuen eine jährliche
+                    Unterstützung von höchsten 200 Rtlr., jeder unvermögende Sohn eine jährliche
+                    Unterstützung von höchstens 300 Rtlr. vierteljährlich pränumerando gezahlt. </p>
+            <p>Für unvermögend wird eine Tochter angesehen, die nicht durch Kapitalzinsen
+                    oder rechtlich ihr zustehende Renten, zum Beispiel Pensionen, mindestens 300
+                    Rtlr. jährliches Einkommen bezieht, ebenso jeder Sohn des verstorbenen
+                    Fideikommissbesitzers, der nicht ein jährliches Einkommen von 500 Rtlr. durch
+                    Kapitalzinsen, Renten oder festes Gehalt bezieht. </p>
+            <p>Die Renten von 200 Rtlr.
+                    und 300 Rtlr. an Töchter und Söhne ermäßigen sich um den Betrag, den diese
+                    Personen aus den genannten anderen Quellen oder sonst als jährlich feste
+                    Einnahme beziehen, so dass der Fideikommissbesitzer nur immer so viel zuzulegen
+                    hat, dass die genannten Berechtigten ein jährliches Einkommen von 300 Rtlr.
+                    resp. 500 Rtlr. wirklich beziehen. </p>
+            <p>Die Renten erlöschen bei Töchtern und Söhnen durch ihre Verheiratung, nicht minder aber auch
+                    dann, wenn die Töchter und Söhne eine jährliche sichere und dauernde Einnahme
+                    von 300 Rtlr. resp. 500 Rtlr. einmal erhalten haben. Der ganze oder teilweise
+                    Verlust dieses Einkommens verpflichtet demnächst den Fideikommissherrn nicht
+                    mehr zu ferneren Unterstützungen.</p>
+                <p>
+               <hi rendition="#u">Artikel 45</hi>
+            </p>
+                <p>Geschiedene Ehefrauen erlangen durch diese Urkunde überall keine höheren Rechte
+                    als ihnen sonst gesetzlich zustehen.</p>
+                <p>
+               <hi rendition="#u">Artikel 46</hi>
+            </p>
+                <p>Jedem Fideikommissinhaber müssen mindestens 2.000 Taler reine Revenuen aus dem
+                    Fideikommisse zur eigenen Verwendung frei bleiben, und sind diejenigen, welche
+                    aus dem Fideikommiss Unterstützungen zu erhalten haben verpflichtet, wenn dem
+                    Fideikommissherrn diese Rente nicht übrig bleibt, sich verhältnismäßig die ihnen
+                    konstituierten Unterstützungssummen insoweit kürzen zu lassen, dass sich die
+                    legierte Revenue von 2.000 Rtlr. für den Fideikommissinhaber erübrigt. Eben
+                    dieselbe Kürzung trifft in dem gedachten Falle auch die nach Artikel 15 zu
+                    zahlenden Vergütungen.</p>
+                <p>
+               <hi rendition="#u">Abschnitt VIII</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Schlussbestimmungen</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Artikel 47</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Eintragung ins Hypothekenbuch</hi>
+            </p>
+                <p>Die Eintragung des von mir gestifteten Fideikommisses in die Hypothekenbücher der
+                    demselben einverleibten Grundstücke wird hierdurch ausdrücklich bewilligt und
+                    beantragt.</p>
+                <p>
+               <hi rendition="#u">Artikel 48</hi>
+            </p>
+                <p>Da es mein entschiedener Wille ist, nicht bloß das Fideikommiss, sondern auch die
+                    Ehre und das Ansehen der Familie zu erhalten, so lege ich jedem
+                    Fideikommissbesitzer eine gewisse diskretionäre Gewalt über seine Deszendenz
+                    bei, vermöge derer er befugt sein soll, diejenigen von seinen Deszendenten,
+                    durch welche mein angegebener Wille ernstlich gefährdet erscheint, von der
+                    Sukzession auszuschließen. Ich bin überzeugt, dass kein Fideikommissbesitzer
+                    ohne dringende Veranlassung von diesem Recht Gebrauch machen wird, wünsche aber,
+                    dass von den durch Geburt zur Sukzession Berufenen das Nachfolgerecht nicht als
+                    ein vollkommen unbedingtes, sondern als ein solches betrachtet wird, welches
+                    ihnen von ihren Deszendenten entzogen werden kann, wenn sie durch selbst
+                    verschuldete geistige oder körperliche Verkommenheit, skandalösen, die
+                    Standesehre verletzenden Lebenswandel oder unpassende, gegen den Willen des
+                    Fideikommissbesitzers geschlossene Heirat die Erhaltung des Fideikommisses oder
+                    das Ansehen der Familie gefährden. </p>
+            <p>Die Ausschließung erfolgt auf
+                    Provokation des betreffenden Fideikommissbesitzers durch schiedsrichterlichen
+                    Ausspruch ohne Zulassung des Rechtsweges. </p>
+            <p>Der Provokant und der Provokat erwählen jeder einen Schiedsrichter. Ist der Provokat minoren und
+                    nicht schon bevormundet, so soll ihm von der zuständigen Vormundschaftsbehörde
+                    ein Kurator bestellt werden, der den Schiedsrichter wählt. Wird die Wahl von dem
+                    Provokaten oder dessen Vormund länger als drei Monate nach der ihm durch die
+                    Fideikommissbehörde zugegangenen Aufforderung verzögert oder verweigert, so
+                    ernennt die Fideikommissaufsichtsbehörde den zweiten Schiedsrichter. </p>
+            <p>Können sich die beiden Schiedsrichter über den Spruch nicht vereinigen, so tritt der jedesmalige
+                    Kanzler des Königreichs Preußen oder, wenn diese Charge unbesetzt oder
+                    aufgehoben sein sollte, der erste Präsident des höchsten Gerichtshofes zu
+                    Königsberg in Preußen als Obmann ein. Verweigert derselbe seinen Ausspruch, so
+                    ernennt die Fideikommissaufsichtsbehörde den Obmann. Den Ausschuss dieses
+                    Schiedsgerichts müssen beide Teile ohne Widerrede gelten lassen und behält es
+                    dabei lediglich sein Bewenden, es sei denn, dass der Fideikommissbesitzer durch
+                    neue Gründe zu einer neuen Provokation bewogen wird. </p>
+            <p>Die Ausschließung erstreckt sich auch auf die Deszendenz des in dieser Art Ausgeschlossenen. Der
+                    Fideikommissbesitzer kann jedoch derselben die Erbfolge vorbehalten, was jedoch
+                    alsdann ausdrücklich in dem Schiedsrichterspruch bemerkt werden muss. Geschieht
+                    dies, so erhält der Ausgeschlossene eine Rente von Eintauend Talern jährlich von
+                    dem Zeitpunkte ab, wo ihm das Fideikommiss angefallen wäre; geschieht dies aber
+                    nicht, so hat er nur das Recht, eine Abfindung von Fünfhundert Talern jährlich
+                    von diesem Zeitpunkte ab zu fordern. </p>
+            <p>Diese Abfindung wird vierteljährlich zum Voraus berichtigt. </p>
+            <p>Der Spruch der Schiedsrichter muss zum gerichtlichen Protokoll erklärt und die Ausfertigung zu
+                    den Fideikommissakten von dem Fideikommissinhaber selbst in Person
+                    protokollarisch übergeben werden, wenn er rechtlichen Effekt haben soll. </p>
+            <p>Übrigens kann derjenige Fideikommissinhaber, welcher die Ausschließung veranlasst hat, dieselbe
+                    auch wieder zurücknehmen, was ebenfalls in gerichtlicher Form geschehen muss,
+                    aber sofort durch seine alleinige Erklärung Geltung erhält ohne dass die
+                    Einreichung der Urkunde an die Fideikommissbehörde hinzukommen darf.</p>
+                <p>
+               <hi rendition="#u">Artikel 49</hi>
+            </p>
+                <p>
+               <hi rendition="#u">Vorbehalte des Fideikommiss-Stifters</hi>
+            </p>
+                <p>Als Stifter und erster Besitzer des Fideikommisses schließe ich für meine
+                    Lebenszeit die den nächsten beiden Anwärtern in dieser Urkunde erteilten
+                    Befugnisse hierdurch aus, so dass in allen Fällen, in denen ihre Mitwirkung oder
+                    Genehmigung sonst einzutreten haben würde, zu meinen Dispositionen nur allein
+                    die Genehmigung der Fideikommissbehörde genügen soll. Insbesondere behalte ich
+                    mir bis zu meinem Tod das Recht zur Verpachtung der Güter und Empfangnahme der
+                    von den Pächtern zu bestellenden Kautionen und das Recht zum Umtausch von
+                    Gutsparzellen gegen andere sowie die Erhebung der für Rentenablösungen und
+                    Expropriationen bewilligten Entschädigungsgelder und die freie Disposition über
+                    selbige vor. </p>
+            <p>Ferner behalte ich mir bis zu meinem Tod das Recht vor, etwaige Zweifel dieser Urkunde in dem
+                    Text der gegenwärtigen Bestimmungen durch Interpretation zu beseitigen,
+                    vorhandene Lücken der Fideikommissurkunde nach den in derselben ausgesprochenen
+                    Grundsätzen zu ergänzen, imgleichen die Bestimmungen über den beweglichen
+                    Beilass für den ersten sowie für die ferneren Sukzessionsfälle zu ändern, die
+                    Abfindungen meiner Witwe und Töchter und sonstige Änderungen dieser Urkunden
+                    anzuordnen, und sollen alle derartigen von mir getroffenen Verfügungen zu ihrer
+                    Gültigkeit nur der Genehmigung der Fideikommissaufsichtsbehörde bedürfen, welche
+                    nur in dem Falle versagt werden darf, wenn meinen Dispositionen klare
+                    gesetzliche Vorschriften entgegenstehen. </p>
+                <p>
+               <hi rendition="#u">Artikel 50</hi>
+            </p>
+                <p>Von meinen Nachfolgern im Besitz dieses Fideikommisses erwarte und verlange ich,
+                    dass sie nächst der Furcht Gottes und der Treue gegen den Landesherrn es als die
+                    höchste Aufgabe ihres Lebens und Wirkens erkennen, den Zweck dieser Stiftung,
+                    wie er in den Eingangsworten dargelegt ist, zu erfüllen. </p>
+            <p>Ich halte es auch für angemessen, jeden Fideikommissbesitzer an die heilige Pflicht zu erinnern,
+                    für die Zukunft seiner nicht zur Erbfolge in das Fideikommiss gelangenden
+                    Deszendenz von seinem Besitzantritt oder spätestens von seiner Verheiratung an
+                    durch Güterankauf oder <seg type="comment">
+                  <orig>Einkauf in eine
+                            Lebensversicherungsgesellschaft</orig>
+                  <note xml:id="nts3_jlb_ycb">APO,
+                            Bestand 382 FA Lehndorff,Nr. 573 und 574: Geschäftsverkehr von
+                            Generalagenturen der Lebens- und Feuerversicherungsgesellschaften und
+                            deren Agenten mit den Versicherten, 1863-1897. </note>
+               </seg>oder sonst
+                    zweckmäßige Weise, besser als in dieser Stiftung hat geschehen können, zu
+                    sorgen. Ich zweifle nicht, dass jeder von meinen Nachfolgern im Besitz in dieser
+                    seiner Stellung als Haupt einer ehrenwerten alten Familie das ganze Gewicht der
+                    Verpflichtung zu untadelhaftem Wandel und ehrenwerten adeligen Gesinnungen
+                    erkennen wird. Damit aber auch jedes Glied dieser Familie in ihm nicht nur ihr
+                    geachtetes Haupt, sondern auch einen festen Halt und Stütze finde, sei es dem
+                    Fideikommissherrn stets eine werte Pflicht, so viel es in seinen Kräften steht
+                    die äußere Lebensstellung der Familie und der einzelnen Familienglieder
+                    befestigen zu helfen, und um dazu imstande zu sein, von Luxus und Verschwendung
+                    fern, die ihm ererbten Güter recht zu halten, zu pflegen und zu heben. Die
+                    Frucht solchen Strebens wird zugleich mit Gottes Hilfe eine unabhängige,
+                    sorgenfreie Stellung und mancherlei Lebenserfahrung sein, und welcher von meinen
+                    Fideikommissnachfolgern diese erworben hat, der wird, so vertraue ich, nicht
+                    lässig sein, dieselbe durch eifrige Vertretung gemeinnütziger Interessen und
+                    öffentlicher Angelegenheiten in den Dienst des Vaterlandes zu stellen. </p>
+                <p>So wolle denn der allmächtige Gotte dieses Fideikommiss und die Familie, zu deren
+                    Gunsten es gestiftet ist, in seinen heiligen und gnädigen Schutz nehmen.</p>
+                <p>Gerichtlich vollzogen</p>
+                <p>Berlin, den 5. Februar 1870</p>
+                <p>
+               <persName key="ed_zkm_whl_2y">Carl Meinhard Heinrich Friedrich Wilhelm August
+                        Graf von Lehndorff</persName>, Königlicher Legationsrat zur Disposition,
+                    Mitglied des Herrenhauses</p>
+                <p>
+               <persName key="ed_nml_dw2_cy">Ahasverus Heinrich August Otto Magnus Ferdinand
+                        Graf von Lehndorff</persName>, Oberstleutnant und Flügeladjutant Seiner
+                    Majestät des Königs</p>
+                <p>
+               <persName key="ed_sjx_pfm_2y">Georg Herrmann Albrecht Graf von
+                        Lehndorff</persName>, Königlicher Landstallmeister</p>
+                <p>a. u. s.</p>
+                <p>
+               <unclear reason="illegible" cert="low">Zentrzyzki </unclear>Kosubek</p>
+                <p>Assessor                                 Pfr.</p>
+                <p>Verhandelt Berlin, den 5. Februar 18170</p>
+                <p>Infolge der Requisition des Königlichen <orgName key="ed_zsz_nj5_c2b">Appellationsgerichts zu Insterburg</orgName> vom 27. v. M. in Sachen
+                    betreffend die Graf Lehndorffsche Familienfideikommiss-Stiftung Steinort
+                    erschienen vorgeladen:<list>
+                        <item>1) der Königliche Legationsrat und Mitglied des Herrenhauses Herr
+                                <persName key="ed_zkm_whl_2y">Carl Meinhard Heinrich Friedrich
+                                Wilhelm August Graf von Lehndorff</persName>,</item>
+                        <item>2) der Königliche Oberstleutnant und Flügeladjutant Seiner Majestät
+                            des Königs Herr <persName key="ed_nml_dw2_cy">Ahasverus Heinrich August
+                                Otto Magnus Ferdinand Graf von Lehndorff</persName>,</item>
+                        <item>3) der Königliche Landstallmeister Herr <persName key="ed_sjx_pfm_2y">Georg Herrmann Albrecht Graf von Lehndorff</persName>.</item>
+                    </list>Comparenten sind sämtlich dispositionsfähig und persönlich bekannt. </p>
+            <p>Herr Comparent ad 1 erklärte: </p>
+            <p>Der Entwurf betreffend die Urkunde des Gräflich Lehndorffschen Familienfideikommiss Steinort
+                    Blatt 125 bis 142 ist mir soeben vorgelesen worden. </p>
+            <p>Ich mache den Inhalt dieser Urkunde zum Gegenstand meiner gegenwärtigen Erklärung und will jene
+                    Urkunde hiermit ihrem ganzen Wortlaut nach an dieser Stelle zum gerichtlichen
+                    Protokoll gegeben haben. </p>
+            <p>Als Nachtrag zur vorgelesenen Fideikommiss-Urkunde erkläre ich noch
+                    Folgendes: <list>
+                        <item>1. Zu Artikel VII. <lb/>Zur Deszendenz meines verstorbenen Herrn
+                            Vaters gehören ferner vom heutigen Tage:</item>
+                        <item>
+                            <list>
+                                <item>I. meine Kinder:</item>
+                                <item>
+                                    <list>
+                                        <item>a. <persName key="ed_ik3_ckz_2y">Carl Meinhard
+                                                Friedrich Heinrich Max Georg</persName>, geboren 7.
+                                            August 1860,</item>
+                                        <item>b.<persName key="ed_vhr_wjh_cy"> Anna Pauline
+                                                Agnes,</persName> geboren 26. Juli 1853,</item>
+                                        <item>c. <persName key="ed_ggg_cbm_2y">Agnes Wanda Pauline
+                                                Adelheid Therese Amalie</persName>, geboren 20.
+                                            Dezember 1863,</item>
+                                    </list>
+                                </item>
+                                <item>II. die Kinder meines Bruders <persName key="ed_sjx_pfm_2y">Georg Herrmann Albrecht</persName>:</item>
+                                <item>
+                                    <list>
+                                        <item>a. <persName key="ed_z3m_cbt_2y">Siegfried Heinrich
+                                                Karl</persName>, geboren 11. April 1869,</item>
+                                        <item>b. <persName key="ed_u4w_m1t_2y">Nancy Magdalena
+                                                Julia</persName>, geboren 25. Juli 1858,</item>
+                                        <item>c. <persName key="ed_nsh_r1t_2y">Emmy Anna
+                                                Amalie</persName>, geboren 31. März 1861,</item>
+                                    </list>
+                                </item>
+                                <item>III. die Kinder meiner Schwester <persName key="ed_mrr_p22_b2b">Pauline, verehelichte Gräfin
+                                        Dönhoff-Friedrichstein</persName>:</item>
+                                <item>
+                                    <list>
+                                        <item>a. <persName key="ed_gmh_w2s_d2b">August
+                                                Carl</persName>, geboren 26. Januar 1845,</item>
+                                        <item>b. <persName key="ed_g1t_3wt_22b">Carl
+                                                Ludwig</persName>, geboren 26. Januar 1845,</item>
+                                        <item>c. <persName key="ed_gwr_4wt_22b">Friedrich
+                                                Heinrich</persName>, geboren 4. Januar 1850,</item>
+                                    </list>
+                                </item>
+                                <item>IV. die Kinder meiner Schwester <persName key="ed_f5w_2fm_2y">Magdalena, verehelichte Gräfin
+                                    Borcke-Stargard</persName>:</item>
+                                <item>
+                                    <list>
+                                        <item>a. <persName key="ed_gdt_5wt_22b">Henning Adrian
+                                                Eugen</persName>, geboren 18. August 1864,</item>
+                                        <item>b. <persName key="ed_wfb_2xt_22b">Carl Matthias
+                                                Bernhard</persName>, geboren 31. Oktober
+                                            1861,</item>
+                                        <item>c. <persName key="ed_rkl_fxt_22b">Ulrich
+                                                Henry</persName>, geboren im Januar 1870.</item>
+                                    </list>
+                                </item>
+                            </list>
+                        </item>
+                        <item>2. Zu Artikel 13, 14 und 15 bestimme ich abändernd: dass Rasende und
+                            Wahnsinnige, wenn sie nach bereits angetretenem Besitz des
+                            Fideikommisses ausgeschlossen worden sind und ihre auf gesetzlichem Wege
+                            nachgewiesene Heilung innerhalb zweier Jahre nach dem Verluste des
+                            Fideikommisses eintritt, den Besetz desselben wieder erlangen
+                            sollen.</item>
+                        <item>3. Zu Artikel 28 bestimme ich: dass das Alinea 3, welches beginnt:
+                            „die Anwärter sind auch befugt‟ und welches schließt: „zum Nachteil des
+                            Fideikommisses bezwecken‟, gestrichen werden soll.</item>
+                    </list>
+            </p>
+                <p>Es erklärten sodann ferner die Herren Comparenten ad 2 und 3: </p>
+            <p>Wir sind mit dem Inhalt der uns vorgelesenen Urkunde überall einverstanden sowie auch mit den
+                    heutigen Erklärungen des Comparenten ad 1. </p>
+            <p>Wir genehmigen die Umwandlung der darin genannten Lehne und Allodien in ein beständiges
+                    Familien-Fideikommiss für uns und unsere Linien laut Gesetz vom 23. März 1857
+                    sowie auch für die ganze sukzessionsberechtigte Deszendenz unseres Herrn
+                    Vaters.</p>
+                <p>Die Herren Comparenten haben hierauf die Urkunde durch eigenhändige
+                    Namens-Unterschrift vollzogen. </p>
+            <p>w. g. u.</p>
+                <p>Meinhard Heinrich Friedrich Wilhelm August Graf Lehndorff </p>
+            <p>Ahasverus Heinrich
+                    August Otto Magnus Ferdinand Graf Lehndorff </p>
+            <p>Georg Herrmann Albrecht Graf
+                    von Lehndorff</p>
+                <p>Es wird noch registriert, dass der Herr Comparant ad 1 am Schluss des Artikels
+                    VII bei dem Namen Magdalena zugesetzt hat „verehelichte Gräfin Borcke‟.</p>
+                <p>g. w. v.</p>
+                <p>gez. <unclear reason="illegible" cert="low">Zentzytzki</unclear> Kosubek </p>
+            <p>Assessor
+                    qua Pfr.</p>
+                <p>Urkunden sind beweisender Form mit dem Bemerken aufgesetzt, dass diese
+                    Verhandlung vor dem <orgName key="ed_pj4_1tp_tcb">Königlichen Stadtgericht zu
+                        Berlin</orgName> auf Requisition des unterzeichneten Gerichts stattgefunden
+                    hat. </p>
+            <p>Insterburg, den 6. September 1870 </p>
+            <p>(L. L.)
+                    </p>
+            <p>
+               <orgName key="ed_zsz_nj5_c2b">Königliches Apellationsgericht</orgName>
+                </p>
+            <p>gez. Morgenbesser</p>
+                <p>Von dem unterzeichneten Königlichen Apellationsgericht als der zuständigen
+                    Fideikommissbehörde wird die zur vorstehenden Verhandlung vom 5. Februar d. Js.
+                    gerichtlich verlautbarte, dieser Verhandlung vorgeheftete Urkunde der Stiftung
+                    des Gräflich Lehndorffschen Familien-Fideikommisses Steinort mit den in der
+                    vorbezeichneten Verhandlung enthaltenen Abänderungen und Ergänzungen unter
+                    Vorbehalt der Allerhöchsten Genehmigung Seiner Majestät des Königs hierdurch
+                    bestätigt. </p>
+            <p>Urkundlich und in beweisender Form ausgefertigt </p>
+            <p>Insterburg, den 6. September 1870 </p>
+            <p>(L. L.) </p>
+            <p>Königliches
+                    Apellationsgericht </p>
+            <p>gez. Morgenbesser</p>
+                <p>Wir Wilhelm von Gottes Gnaden König von Preußen, Markgraf zu Brandenburg,
+                    souverainer und oberster Herzog von Schlesien wie auch der Grafschaft Glatz,
+                    Großherzog vom Niederrhein und von Posen, Herzog zu Sachsen, Engern und
+                    Westphalen, in Geldern, zu Magdeburg, Cleve, Jülich, Berg, Stettin, Pommern, der
+                    Cassuben und Wenden, zu Mecklenburg und Crossen, Burggraf zu Nürnberg, Landgraf
+                    zu Thüringen, Markgraf der Ober- und Nieder-Lausitz, Prinz von Oranien,
+                    Neuenburg und Valandis, Fürst zu Rügen, Paderborn, Halberstadt, Münster, Minden,
+                    Cammin, Wenden, Schwerin, Ratzeburg, Mörs, Eichsfeld und Erfurt, Graf zu
+                    Hohenzollern, gefürsteter Graf zu Henneberg, Graf zu Ruppin, der Mark zu
+                    Ravensburg, Hohenstein, Tecklenburg, Schwerin, Lingen, Sigmaringen und Veringen,
+                    Pyrmont, Bütow, zu Haigerloch und Warstein etc. etc.  </p>
+            <p>urkunden und bekennen hiedurch, dass Wir auf Ansuchen des Legationsrates und Mitgliedes des
+                    Herrenhauses, Grafen <persName key="ed_zkm_whl_2y">Carl Meinhard Heinrich
+                        Friedrich Wilhelm August von Lehndorff</persName>, zu dem aus seinen in
+                        <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> belegenen Lehngütern
+                        <placeName key="ed_pxt_cnh_1y">Groß</placeName>- und <placeName key="ed_hyn_yzd_gy">Klein-Steinort</placeName> nebst Zubehör, <placeName key="ed_nkz_b12_gy">Stawken</placeName>, <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> nebst mehrerer Allododialgrundstücke errichteten,
+                    unterm 5. Februar 1870 verlautbarten und von dem <orgName key="ed_zsz_nj5_c2b">Apellationsgerichte zu Insterburg</orgName> als dem zugehörigen
+                    Fideikommissgericht unterm 6. September 1870 bestätigten Gräflich von
+                    Lehndorffschen Familienfideikommiss Unsere landesherrliche Genehmigung in
+                    Gemäßheit des § 56 Titel 4 Teil II Allgemeinen Landrechts zu erteilen geruht
+                    haben. </p>
+            <p>Wir genehmigen und bestätigen die gedachte Fideikommiss-Stiftung hierdurch vorbehaltlich Unserer
+                    und der Rechte jedes Dritten und haben zu dessen Beurkundung die gegenwärtige
+                    landesherrliche Genehmigungs-Urkunde Höchsteigenhändig vollzogen und Unser
+                    Königliches Insiegel beifügen lassen.</p>
+                <p>Gegeben im Hauptquartier </p>
+            <p>
+               <placeName key="ed_pvh_k2d_gy">Versailles</placeName>, den 26. Oktober 18170 </p>
+            <p>(L. L.) (gez.) <persName key="ed_lwx_y32_cy">Wilhelm</persName>
+                </p>
+            <p> (gez.) A. Leonhardt </p>
+                <p>Allerhöchste Genehmigung </p>
+            <p>des von dem Legationsrat und Mitglied des Herrenhauses, Grafen Carl Meinhard Heinrich Friedrich
+                    Wilhelm August von Lehndorff errichteten Gräflich von Lehndorffschen
+                    Familienfideikommisses Steinort</p>
+                <p>Urkundlich und in beweisender Form ausgefertigt. </p>
+            <p>Insterburg, den 18. April
+                    1871 </p>
+            <p>(L. L.) </p>
+            <p>Königliches Apellationsgericht </p>
+            <p>Unterschrift</p>
+            </div>
+        </body>
+    </text>
+</TEI>

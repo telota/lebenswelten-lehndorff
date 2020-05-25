@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_v2y_5g4_5bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liste vorhandener und anzuschaffender historischer Literatur. 19.
+                    Jahrhundert</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_v2y_5g4_5bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="editorial">Die Literatur ergänzte die bereits seit dem 18. Jahrhundert
+                    zusammengetragenen Veröffentlichungen über Preußen, darunter verschiedene mit
+                    Widmungen für die Bibliothek in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> versehene Manuskripte wie Lucak, N. N., Der Staat von
+                    Preußen, Manuskript 1736 (ebd., Nr. 416) oder Beiträge zur Kunde Preußens,
+                    Königsberg 1819. Hiervon befinden die 1944 aus Steinort nach Kriebstein
+                    gelangten und resitutuierten Bände 2 bis 5 heute ebenso als Stiftung des
+                    Deutschen Historischen Museums im Ostpreußischen Landesmuseum in Lüneburg wie
+                    Johann Heinrich Voß, Geschichte der Teutschen für Schulen und den
+                    Selbstunterricht, Elberfeld 1819, Johannes Voigt, Geschichte der
+                    Eidechsen-Gesellschaft in Preußen, Königsberg 1823 oder Thomas Carlyle,
+                    Friedrich der Große, Berlin 1905. Wohl das „jüngste‟ überlieferte Buch ist:
+                    Unter vier Augen mit Napoleon. Denkwürdigkeiten des Generals Coulaincourt in der
+                    Übersetzung von Friedrich Matthaesius, Bielefeld/Leipzig 1937. </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 471, Bl. 1</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                    <date notBefore="1857-01-01" notAfter="1894-03-13" cert="high"/>
+                
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <p>Zur Bibliothek!</p>
+            <p>Übersicht der vorhandenen <hi rendition="#u">neueren</hi> historischen Werke</p>
+            <p>
+                <list>
+                    <item>1. <seg type="comment">
+                     <orig>Raumer, Geschichte der
+                                Hohenstaufen</orig>
+                     <note xml:id="npjh_zkd_d2b">Raumer, Friedrich
+                                von, Geschichte der Hohenstaufen und ihrer Zeit, 3. Aufl., Leipzig
+                                1857-1858</note>
+                  </seg>.</item>
+                    <item>2. <seg type="comment">
+                     <orig>Rotteck, Allgemeine Geschichte (6
+                                Bände)</orig>
+                     <note xml:id="njqq_mld_d2b">Allgemeine Weltgeschichte
+                                für alle Stände, von den frühesten Zeiten bis zum Jahr 1840, mit
+                                Zugrundelegung seines größeren Werkes bearb. und hrsg. von Dr. Karl
+                                von Rotteck, 5 Bde., Stuttgart 1846.</note>
+                  </seg>
+               </item>
+                    <item>3. <seg type="comment">
+                     <orig>Boettiger, Geschichte des deutschen
+                                Volkes</orig>
+                     <note xml:id="na4n_vld_d2b">Boettiger, K. W.,
+                                Geschichte des deutschen Volkes und des deutschen Landes, Stuttgart
+                                1845. </note>
+                  </seg>
+               </item>
+                    <item>5. <seg type="comment">
+                     <orig>W. Menzel, Geschichte der
+                                Deutschen</orig>
+                     <note xml:id="nkbm_dmd_d2b">Menzel, Wolfgang,
+                                Geschichte der Deutschen bis auf die neuesten Tage, 5. umgearbeitete
+                                Ausgabe in 5 Bden. (5 Bde. in 3 Büchern), Stuttgart/Augsburg
+                                1855-1856. </note>
+                  </seg>
+               </item>
+                    <item>6. <seg type="comment">
+                     <orig>Zimmermann, Preußische Geschichte</orig>
+                     <note xml:id="nx4g_tmd_d2b">Zimmermann, A., Geschichte des Brandenburgisch
+                                preußischen Staates. Ein Buch für Jedermann, Berlin 1851.
+                            </note>
+                  </seg>
+               </item>
+                    <item>7. <seg type="comment">
+                     <orig>Dahlmann, Französische Revolution</orig>
+                     <note xml:id="nlgb_xmd_d2b">Dahlmann, Friedrich Christoph, Geschichte der
+                                französischen Revolution bis auf die Stiftung der Republik, Leipzig
+                                1845.</note>
+                  </seg>
+               </item>
+                </list>
+            </p>
+            <p>Übersicht der noch fehlenden neueren Geschichtswerke:<list>
+                    <item>1. <seg type="comment">
+                     <orig>
+                        <hi rendition="#u">Ranke</hi>, Geschichte der
+                                Römischen Päpste, ihrer Kirchen und ihres Staats;</orig>
+                     <note xml:id="nkrz_lpd_d2b">Ranke, Leopold von, Die römischen Päpste in
+                                den letzten vier Jahrhunderten (1834–1836), 3 Bde., Berlin
+                                1834-1836. Beide Bände aus der Lehndorffschen Bibliothek sind
+                                erhalten und befinden sich ebenso wie Rankes Deutsche Geschichte im
+                                Zeitalter der Reformation, 5 Bde., 3. Aufl., Berlin 1852, heute als
+                                Stiftung des Deutschen Historische Museums im Ostpreußischen
+                                Landesmuseum, Lüneburg. </note>
+                  </seg> wie</item>
+                    <item>
+                  <seg type="comment">
+                     <orig>
+                        <hi rendition="#u">Rankes</hi> übrige Werke,
+                                namentlich der italienischen und französischen
+                                Geschichte</orig>
+                     <note xml:id="np34_tpd_d2b">Siehe <ref target="https://de.wikipedia.org/wiki/Leopold_von_Ranke#Werke">https://de.wikipedia.org/wiki/Leopold_von_Ranke#Werke</ref>.
+                            </note>
+                  </seg>
+               </item>
+                    <item>2. <seg type="comment">
+                     <orig>
+                        <hi rendition="#u">Dittmar</hi>, Geschichte
+                                der Welt (6 Bände)</orig>
+                     <note xml:id="nhbz_xpd_d2b">Dittmar,
+                                Heinrich, Die Geschichte der Welt vor und nach Christus mit
+                                Rücksicht auf die Entwicklung des Lebens in Religion, Handel und
+                                Industrie der welthistorischen Völker. Für das allgemeine
+                                Bildungsbedürfniß dargestellt, Heidelberg 1853. </note>
+                  </seg>
+               </item>
+                    <item>3. <seg type="comment">
+                     <orig>
+                        <hi rendition="#u">Leo's</hi>
+                                Weltgeschichte</orig>
+                     <note xml:id="nrtl_sqd_d2b"> Siehe <ref target="https://de.wikipedia.org/wiki/Heinrich_Leo#Werke_(Auswahl)">https://de.wikipedia.org/wiki/Heinrich_Leo#Werke_(Auswahl)</ref>.</note>
+                  </seg>
+               </item>
+                    <item>4. <seg type="comment">
+                     <orig>
+                        <hi rendition="#u">Raumers</hi> übrige
+                                Werke</orig>
+                     <note xml:id="nmqg_vqd_d2b"> Siehe <ref target="https://de.wikipedia.org/wiki/Friedrich_von_Raumer#Werke">https://de.wikipedia.org/wiki/Friedrich_von_Raumer#Werke</ref>.</note>
+                  </seg>
+               </item>
+                    <item>5. <seg type="comment">
+                     <orig>
+                        <hi rendition="#u">Menzel</hi>, neueste
+                                Geschichte</orig>
+                     <note xml:id="nrcj_1rd_d2b">Menzel, Karl Adolf,
+                                Neuere Geschichte der Deutschen von der Reformation bis zur
+                                Bundes-Akte, Breslau 1833. </note>
+                  </seg>
+               </item>
+                    <item>6. <seg type="comment">
+                     <orig>
+                        <hi rendition="#u">Droysens</hi>
+                                Werke</orig>
+                     <note xml:id="nr3j_drd_d2b"> Siehe <ref target="https://de.wikipedia.org/wiki/Johann_Gustav_Droysen#Werke_(Auswahl)">https://de.wikipedia.org/wiki/Johann_Gustav_Droysen#Werke_(Auswahl</ref>).</note>
+                  </seg>
+               </item>
+                </list>
+         </p>
+            <div>
+                <head>.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

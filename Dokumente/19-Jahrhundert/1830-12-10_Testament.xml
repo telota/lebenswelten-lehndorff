@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_wqj_rhr_yhb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Deklaration über das Testament. Königsberg, 10. Dezember 1830</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_wqj_rhr_yhb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_pv1_b4g_hy">Lehndorff, Heinrich Emil August Graf von
+                    (28.07.1777-Warglitten 1.5.1835)</persName>
+                <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf von
+                    (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg 7.2.1854)</persName>
+                <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                <date when="1830-12-10" cert="high"/>
+            </creation>
+            <abstract>
+                <p>Sie erklären, das Testament vom 13. April 1828 nebst seinen Nachträgen und
+                    Codices nicht anerkennen zu können. Sie gehen davon aus, dass ihre <persName key="ed_gnc_c1m_2y">Mutter</persName> bei der Abfassung dieses Testaments
+                    nicht mehr zurechnungsfähig war.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Deklaration der beiden Gebrüder <seg type="comment">
+                  <orig>Grafen
+                            Lehndorff</orig>
+                  <note xml:id="nvkc_3sq_hlb">
+                     <persName key="ed_k4z_jgl_2y">Carl Friedrich Ludwig</persName> und <persName key="ed_pv1_b4g_hy">Heinrich Grafen von
+                        Lehndorff</persName>
+                  </note>
+               </seg> an den <persName key="ed_cgy_xtf_4y">Graf
+                        Dönhoffschen</persName> Erbzweig</p>
+            </div>
+        </body>
+    </text>
+</TEI>

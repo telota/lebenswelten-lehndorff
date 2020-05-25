@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_fvs_nsz_xz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich August Emil Graf von Lehndorff an Johann Wilhelm Lombard. Den Haag,
+                    18. September 1804</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_fvs_nsz_xz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 34, Nr. 7234, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_pv1_b4g_hy">Lehndorff, Heinrich August Graf von
+                        (28.07.1777-Warglitten, 1.5.1835)</persName>
+                    <date when="1804-09-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_xlk_3tp_tcb">Lombard, Johann Wilhelm (1767-1812)</persName>
+                </correspAction>
+                <note>Als Anlage folgt der Bericht <quote>Souvenir de mon séjor à
+                        Aix-la-Chapelle</quote> über die Anwesenheit <persName key="ed_xzh_bgg_h1b">Napoleons I</persName>. in <placeName key="ed_icq_ggg_h1b">Aachen</placeName> vom 2. bis 7. September1804. - <quote>Die Aachenreise
+                        Napoleons (2. bis 11.9.1804) mit dem Besuch von Kirche, Thron und Grab Karls
+                        des Großen (am 7. September) erweckte den Eindruck, als wolle er damit seine
+                        Herrschaft legitimieren und das karolingische Reich erneuern. Napoleons
+                        Karlskult mit seinen stark propagandistischen Zügen hatte bis etwa 1810/1811
+                        eine positive Wirkung. Der Kaiser erließ während seines Aufenthalts mehrere
+                        Dekrete, die vorteilhaft für die Stadt waren; so nahm er ihr den Charakter
+                        einer „ville de guerre‟ und überließ der Mairie die Verwaltung und den
+                        Nutzen der alten Befestigungsanlagen. Das erlaubte die Verschönerung des
+                        Stadtbildes und des Louisberges. Napoleon ordnete auch den Bau einer Straße
+                        von Aachen über Kornelimünster nach Monschau mit einem Abzweig nach Stolberg
+                        an. Am 17. November 1804 wurde Aachen aus der Liste der Festungen
+                        gestrichen.</quote> Vgl. <ref target="http://www.rheinische-geschichte.lvr.de/">wwww.rheinische-geschichte.lvr.de</ref>
+            </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>La Haye le 18 Septembre 1804</dateline>
+					          <salute>Monsieur le Baron!</salute>
+                </opener>
+				        <p>J'ai cru devoir attendre une occasion favorable, pour oser me rappeler à Votre précieux
+                    souvenir et Vous supplier Monsieur le Baron de daigner m'accorder Votre
+                    bienveillance. Que je me félicite d'avoir trouvé cette occasion à mon retour
+                    d'Aix-la-Chapelle, dans l'ordre que Votre Excellence m'a fait parvenir de Lui
+                    rendre compte de mon petit voyage. Cette faveur m'a remplie de la plus grande
+                    satisfaction, et de la plus respectueuse reconnaissance. Que Votre Excellence
+                    daignez en agréer l'expression et qu'Elle veuille jeter avec indulgence un coup
+                    d'œil sur l'insignifiant rapport que je mets à Ses pieds. Bien des
+                    considérations, et surtout l’ancien précepte, ne sutor ultra crepidam, m'ont
+                    engagés à en exclure ce qui aurait pu lui valoir un autre titre que celui d'un
+                    simple rapport de cour. Je sens vivement toute sa nullité, mais j'ose m’ouvrir
+                    l'espoir que Votre Excellence voudra y reconnaître le zèle qui m'anime de
+                    mériter Ses bonnes grâces. J’ai l'honneur d'être avec les sentiments du respect
+                    le plus illimité </p>
+				        <closer>
+					          <salute>Monsieur le Baron de Votre Excellence le très humble et très obéissant
+                        serviteur</salute>
+					          <signed>Lehndorff</signed>
+				        </closer>
+            </div>
+            <postscript>
+                <p>Herr Baron! </p>
+                <p>Ich habe geglaubt, auf eine günstige Gelegenheit warten zu müssen, um es zu
+                    wagen, mich wieder in Ihre kostbare Erinnerung zu bringen und Sie inständig zu
+                    bitten, Herr Baron, zu geruhen, mir Ihr Wohlwollen zu gewähren. Wie bin ich
+                    glücklich, diese Gelegenheit bei meiner Rückkehr von <placeName key="ed_icq_ggg_h1b">Aachen</placeName> gefunden zu haben, indem Eure
+                    Exzellenz mir die Aufforderung hat zukommen lassen, Ihnen über meine kleine
+                    Reise zu berichten. Diese Gunst hat mich mit der größten Zufriedenheit und
+                    respektvollsten Erkenntlichkeit erfüllt. Mögen Eure Exzellenz geruhen, diesen
+                    Ausdruck günstig aufzunehmen und einen nachsichtigen Blick auf den unbedeutenden
+                    Bericht werfen, den ich Ihnen zu Füßen lege. Sehr viele Erwägungen und besonders
+                    der alte Grundsatz <seg type="comment">
+                  <orig>ne sutor ultra crepidam</orig>
+                  <note xml:id="nwxy_rbg_2fb">Schuster bleib bei deinem Leisten</note>
+               </seg>
+                    haben mich dazu veranlasst, das auszuschließen, was ihm einen anderen Titel als
+                    den eines einfachen Hofberichts hätte einbringen können. Zutiefst empfinde ich
+                    seine Nichtigkeit, aber ich wage es, mir die Hoffnung zu machen, dass Eure
+                    Exzellenz darin den Eifer erkennen mögen, der mich antreibt, Eure Gunst zu
+                    verdienen. Ich habe die Ehre, mit meinen uneingeschränkten respektvollsten
+                    Gefühlen zu sein, </p>
+                <p>Herr Baron, der sehr untertänige und sehr gehorsame Diener <seg type="comment">
+                  <orig>
+                     <lb/>Lehndorff </orig>
+                  <note xml:id="nj5v_5bg_2fb">Übersetzung:
+                            Dorothea Wagner, BBAW</note>
+               </seg>
+            </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

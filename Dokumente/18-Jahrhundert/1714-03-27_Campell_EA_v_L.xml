@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_of3_1jr_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A. von Campbell an Ernst Ahasverus Graf von Lehndorff. Ramiona, 27. März 1714</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_of3_1jr_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>Kategorie: Herkunft/Genealogie
+                        <p>Kategorie: Räume/Europa</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 368, Bl. 8-8v</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_n4d_lp2_vz">Campbell, A. von (-)</persName>
+                    <placeName key="ed_cv3_gq2_vz">Ramiona</placeName>
+                    <date when="1714-03-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wtg_nyl_2y">Lehndorff, Ernst Ahasverus Graf von
+                        (1688-1727)</persName>
+                </correspAction>
+                <note>Zur Auseinandersetzung um <placeName key="ed_pxt_cnh_1y">Steinort</placeName>:
+                    GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 102: Testament des
+                    Boguslaw von Lehndorff, 1657; Nr. 79: Briefe an Elisabeth von Packmohr, geb. von
+                    Eulenburg, verw. von Lehndorff, v. a. von den Kindern Boguslav, Botho,
+                    Elisabeth, Fabian und Albrecht Sebastian von Lehndorff, 1643-1675; Nr. 99:
+                    Briefe und Unterlagen von Ahasverus Gerhard von Lehndorff und Elisabeth von
+                    Lehndorff, verh. von Auer betr. den Jesuitenpriester Boguslav von Lehndorff,
+                    1652-1693; Nr. 940: Briefe der <persName key="ed_tmz_tkg_ldb">Elisabeth von
+                        Tiesenhausen</persName>, Witwe des Grafen Boguslaw von Lehndorff, an die
+                    Familie ihres Mannes, v. a. an Ahasverus Gerhard von Lehndorff (z. T. in
+                    polnischer Sprache), 1666, 1669, 1682, 1686; Nr. 612: Klage des Franciscus von
+                    Tiesenhausen gegen Maria Louisa von Lehndorff, geb. von Wallenrodt auf
+                    Herausgabe der Hälfte der Steinortschen Güter aus dem Erbe seines Vaters Michael
+                    von Tiesenhausen, Bruder des Jesuitenpaters Boguslav von Lehndorff (gest. 1696),
+                    1755. Vgl. auch: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 97:
+                    Angelegenheiten der russischen Güter der Familie von Lehndorff (1620) 1629-1652
+                    (1667). Zu untersuchen wären die Briefe in: APO, <ref target="http://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/PL-42/type/fa/id/PL-42-380_SLASH_0/search/0/Lehndorff">Archiwum rodziny Dönhoff z Drogoszy pow. Kętrzyński</ref>, Nr. 210: Antonie
+                    von Tiesenhausen an Baronin Romberg, geb. Gräfin von Dönhoff, 1872-1878, auf
+                    einen Zusammenhang. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Ramiona, den 27. März 1714</dateline>
+            </opener>
+            <p>
+               <seg type="comment">
+                  <orig>
+                     <gap reason="lost"/>
+                  </orig>
+                  <note xml:id="nsmx_fjk_gbb">Der Anfang des
+                            Briefes fehlt. </note>
+               </seg>selbst ich hätte gleichfalls die Gelegenheit
+                    haben können, <seg type="comment">
+                  <orig>den Herrn von <persName key="ed_nhd_mmm_3gb">Lehndorff</persName> zu sehen, wenn nicht die
+                            ihm zugestoßene Krankheit hätte im Wege gestanden.</orig>
+                  <note xml:id="nfyd_2qm_3gb">Möglicherweise der im <ref target="lehndorff_o3c_lkz_xz">Verzeichnis der Lehndorff-Vettern
+                            </ref>genannte <persName key="ed_scx_vxb_hkb">Johannes von
+                                Lehndorff,</persName> Starost in Mscislaw und Litauen.</note>
+               </seg>
+                    Er ist anitzo Premier-Minister bei dem Herrn <persName key="ed_e4k_ws2_vz">Pociey</persName>, Groß-Feldherr von Litauen, ein alter betagter Herr,
+                    dessen Güter man auf zwei bis dreimal Hunderttausend Gulden schätzt, hat gar
+                    keine Kinder, den Namen seiner Eltern habe ich nicht erfahren können, dieses
+                    soll er aber selbst gestehen, dass er aus <placeName key="ed_uvt_4j4_dz">Preußen</placeName> herstamme. Er hat sowohl in der <placeName key="ed_l4l_zlv_mbb">Nowogrodischen Wojewodschaft</placeName> als auch im
+                        <placeName key="ed_myx_bmv_mbb">Lidschen Powiat</placeName> seine <rs type="term" key="ed_q3c_x3t_vz">Güter</rs>, die er teils erblich, teils als
+                    Pfandschilling besitzt. Ich bin selbst auf einem von seinen Gütern gewesen,
+                    allwo ich den Herrn Großfeldherrn habe suchen müssen. Nach gegebener Gelegenheit
+                    will ich weiter Anfrage tun und Seiner Exzellenz dero Gnädigen <seg type="comment">
+                  <orig>
+                     <persName key="ed_wwb_gcm_2y">Mama</persName>
+                  </orig>
+                  <note xml:id="nqbh_dq4_mbb">
+                     <persName key="ed_wwb_gcm_2y">Marie Eleonore Gräfin von Lehndorff</persName>,
+                            geb. Gräfin von Dönhoff</note>
+               </seg> selbst mündliche Nachricht geben. </p>
+            <p>Im Übrigen, sobald ich von seiner Exzellenz dem Herrn Unterfeldherrn abgefertigt werde, will ich
+                    ungesäumt mich bei der Kompagnie einfinden, Euer Hochgräfliche Gnaden aber
+                    unterdessen gehorsamst bitten, mein Gnädiger Herr allemal zu sein und dabei
+                    festiglich glauben, dass ich lebenslang verharren werde </p>
+                <closer>
+                    <salute>Hochgeborener Graf <lb/>Meines Hochzuehrenden Herrn Hauptmanns und
+                        Gnädigen Herrn <lb/>dienstschuldigster Knecht</salute>
+                    <signed>A. v. Campbell</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

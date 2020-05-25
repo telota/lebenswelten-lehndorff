@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zcf_wpg_jbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Ernst von Kunheim an Ernst Ahasverus Heinrich Graf von Lehndorff.
+                    Elbing, 27. Oktober 1785 (Auszug)</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zcf_wpg_jbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 383, Bl. 81-81</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eww_lhp_tdb">Kunheim, Johann Ernst Graf von (-)</persName>
+                    <placeName key="ed_ed2_4r1_my">Elbing</placeName>
+                    <date when="1785-10-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Über <persName key="ed_lrq_xcl_rbb">Kunheim</persName>, königlich-preußischer
+                    Offizier und in zweiter Ehe 1768 vermählt mit Charlotte Sophie von <persName key="ed_ezp_nmc_tcb">Kanitz-Podangen,</persName> schreibt Lehndorff in
+                    seinem Tagebuch: Er habe bei ihm am 29. März 1799 einen <quote>riesengroßen
+                        Ball</quote> besucht. <quote>Seine Frau ist sehr stolz, weil sie nun allen
+                        Tanten und Cousinen in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>
+                        schreiben kann, dass die <persName key="ed_p34_cnc_tcb">schöne Königin
+                        </persName>bei ihr gewesen sei, während die Öffentlichkeit sich über sie,
+                        die Art ihres Empfangs und die schlechte Organisation ihres Haushalts
+                        mokiert. Mir tut immer ihr Gatte leid, der ein so ehrenhafter, tapferer Mann
+                        ist, aber keine Lebensart hat.</quote> Vgl. Ziebura, Tagebuch, S. 100 </note>
+            </correspDesc>
+            <abstract>
+                <p>Der <persName key="ed_x2r_52f_cy">König</persName> habe <quote>gewiss nicht
+                        unrecht, wenn Er den Leichtsinn der Jugend der jetzt vorherrschenden
+                        Erziehungs-Art zuschreibt.</quote> Es werde kein guter Grund mehr durch die
+                    Religion gelegt, so dass <quote>brausende Jugend-Torheit, Leichtsinn und
+                        Gottes-Vergessenheit</quote> überhand nähmen und die <quote>christlichen
+                        Tugenden verdrängen</quote>. Die meisten Eltern würden sich begnügen, den
+                    Kindern den <quote>Katechismus <seg type="comment">
+                     <orig>taliter
+                                qualiter</orig>
+                     <note xml:id="nkqj_zgf_n2b">so gut es eben
+                                geht</note>
+                  </seg>
+               </quote> beizubringen, dann würde der <quote>junge
+                        Windbeutel eingesegnet</quote>. Ab da sei die Ausübung der Religion
+                    Nebensache. <quote>O! möchte doch eine wahre Gottesfurcht in allen Ständen
+                        herrschend werden!</quote>
+            </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

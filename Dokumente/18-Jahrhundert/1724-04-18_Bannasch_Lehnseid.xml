@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_fpj_rmg_v1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lehnseid. Steinort, 18. April 1724</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_fpj_rmg_v1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">Übersetzung. Darunter folgt der Text in polnischer Sprache
+                    und die Versicherung, dass <persName key="ed_p1t_j1m_z1b">Bannasch</persName>
+                    den Eid in Gegenwart des Steinorter Hofmanns <persName key="ed_fy5_kp5_1bb">Matthias</persName> und des Schmieds <persName key="ed_acr_qp5_1bb">Friedrich</persName> in polnischer Sprache geleistet habe. In der Akte
+                    folgt eine weitere Cedierung aus dem Jahr 1723 für Michel <persName key="ed_fj3_np5_1bb">Schemock</persName>, <quote>sein Weib und
+                        Kinder</quote> (ehemals Untertan von <persName key="ed_ahs_ksm_ngb">Georg
+                        Dietrich von Tettau</persName> und Soldat im Finckensteinschen Regiment).
+                    Siehe auch die Erbuntertänigskeitserklärung des verschuldeten Friedrich
+                        <persName key="ed_nrq_sdp_mbb">Braunfeld</persName> unter die Oberburggräfin
+                    Maria Eleonora von <persName key="ed_wwb_gcm_2y">Lehndorff</persName>, geb. von
+                    Dönhoff aus dem Jahr 1689 in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 67,
+                    sowie Protokolle über Verhöre entlaufener Untertanen aus dem Jahr 1722 in Nr.
+                    69; für 1735 in: APO, Bestand 382 FA Lehndorff, Nr. 547. Auch in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gab es Gerichtsentscheidungen auf
+                    Suppliken unmenschlich behandelter Untertanen, so der Untertanen Christian und
+                    Martin Gelischen (1734), in: APO, Bestand 382 FA Lehndorff, Nr. 545. </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 684, n.
+                                f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_p1t_j1m_z1b">Bannasch, Michael (-)</persName>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1724-04-18" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <opener>
+                    <dateline>Steinort, den 18. April 1724</dateline>
+                </opener>
+                <p>Ich, Michael <persName key="ed_p1t_j1m_z1b">Bannasch</persName>, gelobe und
+                schwöre bei Gott dem Allmächtigen einen körperlichen Eid, dass weilen mir Ihro
+                Hochgeboren der Herr Graf und Obristleutenant <persName key="ed_wtg_nyl_2y">von
+                    Lehndorff</persName> auf mein Ansuchen von Herrn Capitain von <persName key="ed_kyc_t45_1bb">Eppingen</persName> auf <placeName key="ed_z12_c1m_z1b">Jegodnen</placeName> durch einen Kaufschilling von meiner Untertänigkeit
+                losgemachet, mir auch von dem Soldatenstande befreiet, ich gelobe und versichere,
+                dass ich Ihro Hochgeboren dem Herrn Grafen Ernst Ahasverus von <persName key="ed_csb_mdf_cy">Lehndorff</persName>, Erbherrn der <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Güter, und seinen Erben künftighin
+                erblich <rs type="term" key="ed_pvq_cp5_1bb">Untertan</rs> verbleiben will, auch
+                nicht <rs type="term" key="ed_mdr_hvj_gy">weglaufen</rs>, sondern mich treu und
+                ehrlich als ein rechtschaffender Untertan verhalten will. So wahr mir Gott helfe und
+                sein heiliges Wort durch Jesum Christum Amen. </p>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_uty_hvc_pdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 12. Dezember
+                    1759</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_uty_hvc_pdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Heiratskreise</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Giebel, Wieland (Hrsg.), Die Tagebücher des Grafen
+                            Lehndorff. Die geheimen Aufzeichnungen des Kammerherrn der Königin
+                            Elisabeth Christine, Berlin 2007, S. 469</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1759-12-12" cert="high"/>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+               
+				     <p>Wegen meines kranken Fußes gehe ich nicht aus. Da kommt eines Tages ein Kaufmann <persName key="ed_c43_r2r_rdb">Schultz</persName>, der mit meiner <persName key="ed_f3s_h4g_vz">Schwiegermutter</persName> entfernt verwandt ist, und bittet
+                mich mit gefalteten Händen, den Abend bei ihm zu verleben. Ich muss ihm versprechen
+                hinzukommen. Ich finde dort mehr als vierzig Personen, lauter reiche Kaufleute und
+                Geheimräte. Die ganze bürgerliche Herrlichkeit ist in ihrem Glanz zu sehen; überall
+                Reichtum, prächtige Kleider und Edelsteine. Eine Frau<seg type="comment">
+               <orig>
+                        <persName key="ed_hcb_j33_tdb">Wagelin</persName>
+               </orig>
+               <note xml:id="nlsd_c3j_f2b">Wahrscheinlich Wegely, Ehefrau des Berliner Kaufmanns
+                            <persName key="ed_cv5_xms_52b">Wilhelm Kaspar
+                    Wegely</persName>
+               </note>
+            </seg> überstrahlt alles, sie ist in einem einer Königin
+                würdigen Geschmack gekleidet. Sie erklärt mir, sie könne keinen Putz leiden, sobald
+                sie wüsste, dass eine andere ihn früher habe als sie, und spricht von tausend Talern
+                wie wir von einem Goldstück. Kurz, ich fühle mich gedemütigt und ich bin überzeugt,
+                wollten wir gegen ihre reellen Vorzüge alle unsere alten Pergamente und
+                Familiendokumente nebst Stammbäumen von zweiunddreißig Ahnen ausspielen, so würden
+                sie uns auslachen.</p>
+				
+        </body>
+    </text>
+</TEI>

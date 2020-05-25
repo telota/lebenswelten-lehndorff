@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_spl_hb5_c2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Gemeinsame_Normdatei</idno>
+                    <persName type="reg">
+                        <surname>d'Orlèans</surname>
+                        <forename>Ferdinand-Philippe duc de Chartres, duc d’Orléans</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1842</death>
+                </person>
+                <person xml:id="ed_tsm_g22_3fb">
+                    <persName type="reg">
+                        <surname>Oberkunreuth</surname>
+                        <forename>Junker von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>https://de.wikipedia.org/wiki/Georg_Ulrich_Juncker_von_Oberkunreuth</note>
+                </person>
+                <person xml:id="ed_ycw_4ky_ny">
+                    <persName type="reg">
+                        <surname>Oberlechner</surname>
+                        <forename>Jakob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1887 Badediener in Bad Gastein</note>
+                </person>
+                <person xml:id="ed_a34_3w3_tdb">
+                    <persName type="reg">
+                        <surname>Oemken</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1763 Bankier? in Berlin</note>
+                </person>
+                <person xml:id="ed_okv_q55_22b">
+                    <idno type="uri">http://d-nb.info/138335761</idno>
+                    <persName type="reg">
+                        <surname>Oertzen</surname>
+                        <forename>Bertha von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Pentz, von</name>
+                    </persName>
+                    <birth>1812</birth>
+                    <death>1885</death>
+                </person>
+                <person xml:id="ed_oxx_vgc_ydb">
+                    <idno type="uri">https://d-nb.info/gnd/118697064</idno>
+                    <persName type="reg">
+                        <surname>Oeser</surname>
+                        <forename>Adam Friedrich</forename>
+                    </persName>
+                    <birth>1717</birth>
+                    <death>1799</death>
+                </person>
+                <person xml:id="ed_cmr_cgh_scb">
+                    <idno type="uri">http://d-nb.info/gnd/136033636</idno>
+                    <persName type="reg">
+                        <surname>Oesfeld</surname>
+                        <forename>Gottheld Friedrich</forename>
+                    </persName>
+                    <birth>1735</birth>
+                    <death>1801</death>
+                </person>
+                <person xml:id="ed_a2l_sz2_hy">
+                    <idno type="uri">http://d-nb.info/137565143</idno>
+                    <persName type="reg">
+                        <surname>Offenberg</surname>
+                        <forename> Heinrich von</forename>
+                    </persName>
+                    <birth>1752</birth>
+                    <death>1872</death>
+                </person>
+                <person xml:id="ed_p1j_42q_rdb">
+                    <persName type="reg">
+                        <surname>Ogilvy</surname>
+                        <forename>Esther Anna Regina Gräfin</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Weltz-Eberstein, Gräfin</name>
+                    </persName>
+                    <birth>1692</birth>
+                    <death>1781</death>
+                    <note>Heirat: Hermann Carl Graf von Ogilvy (1679-1751); 1757 Oberhofmeisterin
+                        der Königin von Polen</note>
+                </person>
+                <person xml:id="ed_rmx_ssp_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/118736094</idno>
+                    <persName type="reg">
+                        <surname>Oginski</surname>
+                        <forename>Michael Kasimir Fürst</forename>
+                    </persName>
+                    <birth>1732</birth>
+                    <death>1799</death>
+                </person>
+                <person xml:id="ed_esl_ywl_ddb">
+                    <persName type="reg">
+                        <surname>Ohlen</surname>
+                        <forename>Freiherr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1856 Geheimer Obertribunalsrat (1856)</note>
+                </person>
+                <person xml:id="ed_u1d_22s_d2b">
+                    <persName type="reg">
+                        <surname>Oldenberg</surname>
+                        <forename>Friedrich Salomo</forename>
+                    </persName>
+                    <birth>1829</birth>
+                    <death>1894</death>
+                    <note>Prediger; in den1870er Jahren geschäftsführender Sekretär des
+                        Central-Ausschusses für Innere Mission; unternahm 1864 im Auftrag der
+                        Inneren Misssion der evangelischen Kirche eine Reise nach Masuren; sein
+                        Reisebericht vermittelt Einblicke in die Lebensumstände der Bewohner
+                        Masurens und wurde in: „Fliegende Blätter aus dem Raujhen Haus‟, der
+                        Publikation der Inneren Mission, gedruckt und erschien im Jahre 1866 in den
+                        Ausgaben 10 und 11 (Oktober, November).
+                        http://www.analyse-it.de/rb2012_kundemasurens_1.html</note>
+                </person>
+                <person xml:id="ed_azg_gxf_ccb">
+                    <persName type="reg">
+                        <surname>Oldenburg</surname>
+                        <forename>Marie </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1883 Hauslehrerin</note>
+                </person>
+                <person xml:id="ed_r2c_jqb_hfb">
+                    <idno type="uri">https://d-nb.info/gnd/115745270</idno>
+                    <persName type="reg">
+                        <surname>Oleschinski</surname>
+                        <forename>Brigitte</forename>
+                    </persName>
+                    <birth>1955</birth>
+                    <death/>
+                </person>
+                <person xml:id="ed_kyz_dvd_b2b">
+                    <persName type="reg">
+                        <surname>Ompteda</surname>
+                        <forename>Christiane von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schlippenbach, Gräfin von</name>
+                    </persName>
+                    <birth>1767</birth>
+                    <death>1843</death>
+                    <note>Heirat: I. Graf zu Solms-Sonnenwalde-Rhaesa, II. Ludwig Karl Georg von
+                        Ompteda (1817)</note>
+                </person>
+                <person xml:id="ed_o4b_fqm_ngb">
+                    <persName type="reg">
+                        <surname>Oppeln-Bronikowski</surname>
+                        <forename>Johann-Sigismund von</forename>
+                    </persName>
+                    <birth>1736</birth>
+                    <death>1796</death>
+                    <note>Erbherr der Sorquittischen Güter (1776), 1788-1796 Landschaftsdirektor des
+                        ostpreußisch-litauischen Departements Angerburg</note>
+                </person>
+                <person xml:id="ed_ctl_wtl_w2b">
+                    <persName type="reg">
+                        <surname>Oppenheim</surname>
+                        <forename>Moses Itzig</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Oppenheimer</name>
+                    </persName>
+                    <birth/>
+                    <death>1783</death>
+                    <note>Bankier in Berlin.
+                        https://de.wikipedia.org/wiki/Oppenheimer_(Familie)#Weitere_Namensträger</note>
+                </person>
+                <person xml:id="ed_vmd_3pd_py">
+                    <persName type="reg">
+                        <surname>Orandt</surname>
+                        <forename>J. J.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Verfasser von: Der Hofprediger Stöcker. Seine Feinde und sein Prozess,
+                        Berlin 1885</note>
+                </person>
+                <person xml:id="ed_skm_yrc_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/119357550</idno>
+                    <persName type="reg">
+                        <surname>Oranien</surname>
+                        <forename>Wilhelm V. Prinz von Oranien</forename>
+                    </persName>
+                    <birth>1748</birth>
+                    <death>1806</death>
+                    <note>Erbstatthalter der Niederlande</note>
+                </person>
+                <person xml:id="ed_b4j_vml_ngb">
+                    <persName type="reg">
+                        <surname>Ossoliński</surname>
+                        <forename>Franciszek Maxymilian von </forename>
+                    </persName>
+                    <birth>1676</birth>
+                    <death>1756</death>
+                    <note>polnischer Graf, Politiker und Kunstsammler.
+                        https://de.wikipedia.org/wiki/Franciszek_Maksymilian_Ossoliński</note>
+                </person>
+                <person xml:id="ed_grx_cb3_tcb">
+                    <persName type="reg">
+                        <surname>Ostau</surname>
+                        <forename>Julius Wilhelm von</forename>
+                    </persName>
+                    <birth>1738</birth>
+                    <death>1808</death>
+                    <note>Quanditten; Heirat: 1786 Johanna Sophie Caroline von <persName
+                            key="ed_q3p_fb3_tcb">Tiedemann</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_sp3_lzb_t2b">
+                    <persName type="reg">
+                        <surname>Ostau</surname>
+                        <forename>L. von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1722 Regierung Königsberg</note>
+                </person>
+                <person xml:id="ed_eqm_2fv_22b">
+                    <idno type="uri">https://d-nb.info/gnd/118529897</idno>
+                    <persName type="reg">
+                        <surname>Österreich</surname>
+                        <forename>Elisabeth Kaiserin von</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1898</death>
+                </person>
+                <person xml:id="ed_vty_mk4_dz">
+                    <idno type="uri">http://d-nb.info/gnd/118577867</idno>
+                    <persName type="reg">
+                        <surname>Österreich</surname>
+                        <forename>Maria Theresia Kaiserin von</forename>
+                    </persName>
+                    <birth>1717</birth>
+                    <death>1780</death>
+                </person>
+                <person xml:id="ed_jqq_kxj_d2b">
+                    <persName type="reg">
+                        <surname>Otterski</surname>
+                        <forename>Ernst Julius</forename>
+                    </persName>
+                    <birth>1812</birth>
+                    <death>1883</death>
+                    <note>1839-1883 Pfarrer in Drengfurth</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

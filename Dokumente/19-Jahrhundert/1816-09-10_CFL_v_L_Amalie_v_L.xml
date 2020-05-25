@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_a5p_xzb_cdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Berlin, 10. September 1816</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_a5p_xzb_cdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 612 f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1816-10-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (Hirschberg 9.4.1751-Königsberg, Roßgärter Markt
+                        12.11.1830)</persName>
+                </correspAction>
+                <note>Zu den Berliner Geschäften gehörte auch der Verkauf des Hauses hinter dem
+                    Gießhaus. Es hatte von 1806 bis 1815 wegen der darauf lastenden Abgaben nichts
+                    eingebracht und <persName key="ed_k4z_jgl_2y">Lehndorff</persName> legte keinen
+                    Wert auf das Haus. Das Preußische <orgName key="ed_ykj_15y_fjb">Finanzministerium</orgName> hatte Interesse und Minister von <persName key="ed_rlb_wx1_1bb">Bülow</persName> erwarb es für den vergleichsweise
+                    geringen Preis von 260.000 Taler, da sich keine anderen Käufer fanden. Mit dem
+                    in zwei Teilen gezahlten Kaufpreis löste Lehndorff eine Vielzahl von
+                    Verbindlichkeiten ab, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                    Lehndorff-Steinort, Nr. 732 und 732, 735 (Verwaltung, Einnahmen und Ausgaben),
+                    Nr. 733 (Verkauf), Nr. 734 (Inventar). - Am 26. September 1816 traf er in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> ein und reiste am 1.
+                    Oktober nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ab, Mitte
+                    Januar 1817 kehrte er nach <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    zurück. Vgl. hierzu den Brief vom 17. September 1817, ebd., S. 615-618.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline rend="align(right)">Berlin, 10. September 1816</dateline>
+                </opener>
+                <opener>
+                    <salute> </salute>
+                </opener>
+                <p>Damit Sie nicht müde werden, mich zu erwarten, teuerste Mutter, richte ich auch
+                    diese Zeilen an Sie, ehe ich selber erscheine. Ich bin schon seit 14 Tagen hier
+                    und <seg type="comment">
+                  <orig>habe der unangenehmen Geschäfte eine Unzahl
+                            gefunden.</orig>
+                  <note xml:id="nely_2yq_r2b">Vgl. zu dessen finanziellen
+                            Geschäften 1813-1816: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 131. </note>
+               </seg> Der Tod von <persName key="ed_vhq_1tg_gcb">Schröder</persName>, mit dem ich seit einer so langen
+                    Reihe von Jahren in Berechnungen aller Art gestanden, macht mir vorzüglich
+                    Verdruss und Mühe. Er hat alle seine Papiere in einer entsetzlichen Konfusion
+                    gelassen, die Hausrechnungen so verworren, dass sich kein Mensch herausfinden
+                    kann. Mehrere Sachen, die ich früher und bei meinem letzten Hiersein bezahlt
+                    habe, sind nicht beglaubigt, viele Sache doppelt notiert. Seine Erben sind wie
+                    die Raben, und ich, wie sie wissen, ein sehr schlechter homme d'affair. Ich habe
+                    einen Justiz-Kommissarius angenommen, der nicht von Fleck kommt. Ich mache dabei
+                    einen bedeutenden Verlust, das ist klar. Doch hoffe ich, in ein par Tagen aus
+                    dem Gröbsten zu kommen und eile dann gewiss zu Ihnen. Dabei miserable
+                    Nachrichten aus <placeName key="ed_uvt_4j4_dz">Preußen</placeName>, wovon ich
+                    Ihnen in anliegendem Briefe von <persName key="ed_yx5_cbg_nbb">Berent</persName>, den ich vor ein paar Tagen erhalten, ein échantillon zum
+                    Model überschicke. So sehr ich das gute <placeName key="ed_pxt_cnh_1y">Steinort</placeName> liebe, so graut mich fast, dahin zu kommen. </p>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

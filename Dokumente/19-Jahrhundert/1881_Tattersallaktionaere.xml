@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_q55_vqk_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aktionäre der Tattersall-Gesellschaft. Ca. 1881/1882</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_q55_vqk_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="editorial">
+                    <p>Auf der Rückseite: Bureau der Tattersall-Gesellschaft, zu Händen des Herrn R.
+                        Wagner in Berlin, Mauerstraße 36</p>
+                </note>
+                <note type="editorial">
+                    <p>1880 zahlte Lehndorff für <quote>Futterungs- und Wartungsgelder</quote>
+                        436,30 Mark, vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 262, Bl. 223
+                        und 225. - Zum Verkauf der <orgName key="ed_nzz_jsk_gy">Tattersall</orgName>
+                        Reitbahn in der Berliner Georgenstraße und der Stallungen an der
+                        Dorotheen-/Neustädtische Kirchstraße im Juni 1882 an die Stadt Berlin ebd.,
+                        Nr. 237, Bl. 3-4. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 303, Bl. 1</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1881-01-01" notAfter="1882-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Liste der Zeichnungen zu neuen <orgName key="ed_nzz_jsk_gy">Aktien</orgName> der
+                        <orgName key="ed_nzz_jsk_gy">Tattersall</orgName> Gesellschaft à 200 Taler: </p>
+            <p>
+                    <list>
+                        <item>Johannes Graf <persName key="ed_rzv_gwg_hy">Renard</persName> zu Groß
+                                <placeName key="ed_hj2_jwg_hy">Strelitz</placeName> (30
+                            Aktien)</item>
+                        <item>J. von <persName key="ed_rnh_kwg_hy">Tresckow</persName>,
+                            Rittergutsbesitzer, <placeName key="ed_wzc_mwg_hy">Grocholin</placeName>
+                            (20)</item>
+                        <item>Rittmeister H. Graf <persName key="ed_nml_dw2_cy">Lehndorff</persName>, <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> (9)</item>
+                        <item>R. <persName key="ed_wlc_cwg_hy">Wagner</persName>,
+                            Verlagsbuchhändler, <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                            (6)</item>
+                        <item>O. von <persName key="ed_ug2_y45_g2b">Kahlden</persName>,
+                            Rittergutsbesitzer, Iden (5)</item>
+                        <item>Seine Durchlaucht der <persName key="ed_fnx_kp5_g2b">Herzog von
+                                Ratibor</persName>, Brandenburg a. d. H. (24)</item>
+                        <item>Obristlieutenant von <persName key="ed_kns_5p5_g2b">Rauch</persName>,
+                            Brandenburg a. d. H. (4)</item>
+                        <item>von <persName key="ed_kp3_1q5_g2b">Arnim</persName>,
+                            Rittergutsbesitzer, Criewen (4)</item>
+                        <item>von <persName key="ed_rj1_kq5_g2b">Zacha</persName>,
+                            Rittergutsbesitzer, Strelitz (9)</item>
+                        <item>Georg Graf <persName key="ed_sjx_pfm_2y">Lehndorff</persName>,
+                            Charlottenburg (3)</item>
+                        <item>
+                     <seg type="comment">
+                        <orig>F. <persName key="ed_cdb_4q5_g2b">André</persName>, Redakteur, Berlin (15)</orig>
+                        <note xml:id="nom2_bmn_cbb">Die folgenden Namen wurden handschriftlich
+                                    ergänzt.</note>
+                     </seg>
+                  </item>
+                        <item>von <persName key="ed_ck3_rq5_g2b">Muschwitz</persName>, <placeName key="ed_iw5_fxl_2y">Breslau</placeName> (3)</item>
+                        <item>Graf <persName key="ed_fxl_5l5_ncb">Schlippenbach</persName>, Arrendsee
+                            (10) </item>
+                        <item>Graf <persName key="ed_zkm_whl_2y">Lehndorff</persName>-<placeName key="ed_pxt_cnh_1y">Steinort</placeName> (5)</item>
+                        <item>Graf <persName key="ed_hpy_zq5_g2b">Schaffgotsch</persName> (4)</item>
+                        <item>Rittmeister von <persName key="ed_ccq_dr5_g2b">Rauch</persName>
+                            (2)</item>
+                        <item>Gräfin <persName key="ed_qr1_j2g_4y">Reichenbach</persName> (2)</item>
+                        <item>Graf <persName key="ed_php_rqg_hy">Borcke-Stargord
+                            </persName>(4)</item>
+                        <item>von <persName key="ed_olj_nr5_g2b">Bethmann-Hollweg-Burow</persName>
+                            (12)</item>
+                        <item>von Bethmann-Hollweg-Hohenfinow (12)</item>
+                        <item>von <persName key="ed_jm2_vr5_g2b">Nathusius</persName> (10)</item>
+                    </list>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

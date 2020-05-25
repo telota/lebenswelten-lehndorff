@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dhx_p4l_l1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Wilhelm von Hessen an Ernst Ahasverus Graf von Lehndorff. Berlin, 24. September 1714</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dhx_p4l_l1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, FA v. Lehndorff (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yqv_5g5_1bb">Hessen, Wilhelm Prinz von (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1714-09-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wtg_nyl_2y">Lehndorff, Ernst Ahasverus Graf von
+                        (1688-1727)</persName>
+                </correspAction>
+                <note>Möglicherweise der im Briefverzeichnis in: LASA, StA L, Bestand 21950 FA
+                    Lehndorff, Nr. 398, Bl. 1, Nr. 11 aufgeführte Brief (ohne Datum). Weitere
+                    Militaria ebd., darunter Nr. 16: Schlachtordnung der Hessischen Truppen unter
+                    dem Prinzen Wilhelm am 15. Juli 1729, sowie in: GStA PK, XX. HA, Rep. 54
+                    Gutsarchiv Lehndorff-Steinort, u. a. Nr. 621. Siehe auch: LA NRW, Abt.
+                    Westfalen, Gesamtarchiv von Landsberg-Velen (Dep.), Akten, Nr. 34632: Bericht
+                    über das Zusammentreffen der Reiterei unter dem Grafen Erbach mit dem Feind,
+                    Gefangennahme des Grafen, Angriff des Feindes auf das Lager, Gefangennahme des
+                    preußischen Generals Borck und des Obersten Graf Lehndorff, September 1711. - In
+                    der Zeit zwischen der Thronbesteigung des Soldatenkönigs (1713) und dem Beginn
+                    der militärischen Beteiligung Preußens am Großen Nordischen Krieg (Mai 1715) war
+                    man zwar „neutral“, achtete aber darauf, dass Schweden seine Armee in
+                    Norddeutschland nicht durch Truppen aus Hessen (der Landgraf von Hessen-Kassel
+                    war mit Karl XII. von Schweden verwandt), neu geworbene Truppen oder durch das
+                    in Zweibrücken (hier war Karl XII. Landesherr) stehende Infanterie-Regiment von
+                    Leuthrum verstärken konnte. Man verwehrte den schwedischen Truppen den
+                    Durchmarsch und traf Vorbereitungen, einen gewaltsamen Marsch in Richtung
+                    Ostseeküste zu verhindern, vgl. https://www.kussaw.de.</note>
+            </correspDesc>
+            <abstract>
+                <p>
+               <persName key="ed_yqv_5g5_1bb">Prinz Wilhelm</persName> warnt den Oberst
+                            <quote>
+                  <persName key="ed_wtg_nyl_2y">Graf von
+                        Löhndorff</persName>
+               </quote> vor einem Durchmarsch
+                            des Schwedischen Regiments nach <placeName key="ed_jx5_hmv_mbb">Vorpommern</placeName>. Es befänden sich viele seiner
+                    Untertanen darunter und er werde von seinem Recht Gebrauch machen, diese
+                        <quote>bei einem Durchmarsch meiner Lande als Prisonniers</quote> festsetzen
+                    zu lassen. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

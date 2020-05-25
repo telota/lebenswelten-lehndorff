@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_ikq_nvl_gcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erinnerungen. Ca. 1920 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_ikq_nvl_gcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Lehndorff, Hans Graf von, Menschen, Pferde, weites Land.
+                            Kindheits- und Jugenderinnerungen, München 1980, 6. Aufl. 1990, S. 182
+                            ff.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920-01-01" notAfter="1924-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <gap reason="insignificant"/>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, der Stammsitz meiner
+                    Familie im Bereich der masurischen Seen, stand zu meiner Kinder- und Jugendzeit
+                    ganz im Zeichen seines damaligen Besitzers, meines Patenonkels <persName key="ed_ik3_ckz_2y">Carol Lehndorff</persName>, eines Vetters meines
+                        <persName key="ed_z3m_cbt_2y">Vaters</persName>. Er war Junggeselle und
+                    hatte schon von früher Jugend an durch seine Streiche von sich reden gemacht. </p>
+                <p>Nach dem verhältnismäßig frühen Tod seines <persName key="ed_zkm_whl_2y">Vaters</persName>, der <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    vor ihm besaß, hatte seine <persName key="ed_wms_mh2_cy">Mutter</persName> ihre
+                    liebe Not mit ihm gehabt und immer wieder versucht, sein Leben in geordnete
+                    Bahnen zu lenken. Dass ihr das nicht gelungen ist, beweisen die <seg type="comment">
+                  <orig>Abenteuer, die er sich in den verschiedensten Ländern
+                            der Erde geleistet hat.</orig>
+                  <note xml:id="nlyr_mc4_zdb">Vgl.
+                            Klootboom, Klaus, Der Carol. Ein halbes Schock schockierender Schwänke
+                            aus dem Leben des Carol Sassenburg, Würzburg 2004; Ders., Der neue
+                            Carol. Ein Halbschock neuer schockierender Schwänke aus dem Leben des
+                            Grafen Carol Sassenburg,Würzburg 2005. </note>
+               </seg>
+            </p>
+                <p>
+               <gap reason="insignificant"/>
+                </p>
+                <p>Da die <seg type="comment">
+                  <orig>Idee mit dem Extrazug</orig>
+                  <note xml:id="nadz_nc4_zdb">Ebd., S. 26 ff.</note>
+               </seg>, auf die er später
+                    noch öfter zurückkam, nur einer von vielen Geistesblitzen war, die Onkel Carol
+                    in die Tat umsetze, steckte er begreiflicherweise tief in Schulden, für die auch
+                    ein Besitz wie Steinort auf die Dauer nicht geradestehen konnte, und der
+                    Familienrat musste immer wieder zusammentreten um zu überlegen, wie man seinen
+                    Tatendrang zügeln könnte. Das ist nur unvollständig gelungen. Vielmehr taten
+                    sich bis in sein Alter hinein in seiner Umgebung lauter Dinge, die man anderswo
+                    nicht zu erleben pflegte. Wir Kinder haben noch manches davon mitbekommen.
+                    Selbst wenn er uns in <placeName key="ed_v2c_gc1_fy">Graditz</placeName>
+                    besuchte, brachte er in den sonst so akkurat und pünktlich funktionierenden
+                    Haushalt einen Wirbel, der sich erst nach Tagen wieder legte. Jedesmal wurden
+                    wir reich beschenkt mit Genüssen, die wir sonst nur zu Weihnachten zu sehen
+                    bekamen, und seine Unterhaltungen waren geeignet, jede elterliche Autorität zu
+                    untergraben. Dabei hatte er - das merkten wir genau - große Hochachtung für
+                    meine <persName key="ed_s3n_hbt_2y">Mutter</persName>. Aber es lockte ihn, jeden
+                    erwachsenen Menschen auf die Probe zu stellen, ihn sozusagen auf die Palme zu
+                    bringen und zu verunsichern. Nur mit meinem <persName key="ed_z3m_cbt_2y">Vater</persName>, der ihn von Jugend auf kannte und nicht viel jünger war
+                    als er, versuchte er das nicht, weil der sich nicht scheute, ihm gehörig eins
+                    draufzugeben.</p>
+                <p>Als ich zehn war, fuhr mein Vater mit <persName key="ed_zym_5bt_2y">Heinfried</persName> und mir zum ersten Mal nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Onkel Carol war verreist, aber
+                    sein Haus mit allem Drum und Dran war ein Abbild seiner Persönlichkeit. Schon
+                    die Fahrt dorthin hatte mich tief beeindruckt. Wir wurden in der Kreisstadt
+                        <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> von der Bahn abgeholt
+                    und hatten von dort fast zwei Stunden mit dem Wagen zu fahren. Die Beine der
+                    Pferde waren bis zu den Knien mit Lehm beschmiert, woraus wir Rückschlüsse auf
+                    den Zustand der Wege ziehen konnten, die vor uns lagen. Zuerst ging es lange auf
+                    einer festen Straße durch hügeliges Gelände, von dessen Höhen man immer wieder
+                    die riesige Fläche des Mauersees mit seinen Inseln und Buchten überblicken
+                    konnte. Dann bog die Straße um den nördlichen Ausläufer des Sees herum nach
+                    Süden ab und führte durch den Ort <placeName key="ed_xzt_112_gy">Stawisken</placeName>, der schon zu Steinort gehörte. Trotzdem hatten wir
+                    noch eine gute Stunde Fahrt vor uns, zunächst lange Zeit durch Wald. Himmelhohe
+                    Fichten, unter deren Schirmdach sich fast nächtliches Dunkel ausbreitete,
+                    wechselten ab mit Eichenbeständen, Erlenbrüchen und schmalen Lichtungen, auf
+                    denen gelegentlich ein Reh oder ein Stück Damwild zu sehen war. Auf den
+                    ungepflasterten Wegen sanken die Wagenräder bis zur Mitte in den Lehm ein, und
+                    mehr als einmal drohte der Wagen umzukippen. Immer wieder lehnte man sich
+                    instinktiv nach der entgegengesetzten Seite, um ihn ins Gleichgewicht zu
+                    bringen. Wir passierten die Orte <placeName key="ed_xjg_d12_gy">Stobben</placeName> und <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                    und fuhren dann noch ein langes Wegstück durch die vielen Löcher bis zu einer
+                    kleinen Anhöhe. Dort begann eine schnurgerade Allee alter Eichen, an deren Ende
+                    die roten Dächer von <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    zwischen den Baumkronen schimmerten. Wieder auf festem Boden angekommen,
+                    entschlossen sich die Pferde noch ein letztes Mal zu schnellerer Gangart, bis
+                    das Dorf erreicht war, das sich zu beiden Seiten der Straße hinzog. Nochmal kam
+                    eine kleine Anhöhe, oben wendete der Wagen nach links und hielt vor einem
+                    langgestreckten, grauen, schmucklosen Gebäude, das einen wenig gepflegten
+                    Eindruck machte. Uns Kindern erschien es sogar etwas düster. Die Haustür öffnete
+                    sich, und wir traten zu ebener Erde in eine große Halle mit einem Fußboden aus
+                    riesigen, schon ziemlich abgenutzten Dielen. An den Wänden hingen
+                    Familienporträts aus früheren Zeiten, dazwischen ausgestopfte Elchköpfe. Rechts
+                    und links führte je eine breite Holztreppe mit sanfter Steigung bis zur halben
+                    Höhe der unteren Raumhälfte. Dort bildeten beide einen Absatz, wandten sich
+                    einander zu und vereinigten sich zu einer einzigen, in entgegengesetzter
+                    Richtung hochführenden Treppe. Wenn Onkel Carol zu Hause war, stand er oben auf
+                    dem Podest, an ein <seg type="comment">
+                  <orig>Billard</orig>
+                  <note xml:id="nvtw_r1c_mfb">Diese stammte bereit aus dem Anfang des 19.
+                            Jahrhunderts, siehe das Dokument vom <ref target="lehndorff_d11_hzy_bdb">12. Oktober 1808</ref>.</note>
+               </seg> gelehnt, und empfing die
+                    heraufkommenden Gäste mit einem Zuruf, der sie zugleich darauf aufmerksam
+                    machte, dass die oberste Stufe wesentlich höher sei als die übrigen. Das konnte,
+                    wenn man, den Blick nach oben gerichtet, hinaufstieg, leicht übersehen werden
+                    und zu einem unbeabsichtigten Kniefall führen. Oben angekommen, bekam jeder
+                    Gast, ganz gleich welchen Alters, ein Glas Portwein und eine Schachtel
+                    Streichhölzer in die Hand. Auch wir Kinder bildeten keine Ausnahme von dieser
+                    Regel, was sehr zur Hebung unseres Selbstbewusstseins beitrug.</p>
+                <p>Da das Haus schon jahrzehntelang keine verantwortliche Hausfrau mehr unter seinem
+                    Dach gehabt hatte, befand es sich in einem abenteuerlichen Zustand. Wir Kinder
+                    wohnten in einem riesigen Raum rechts neben der Eingangshalle, den wir die
+                    Reitbahn nannten. Darin standen mindestens vier Betten einfachster Machart mit
+                    entsprechenden Nachttischen, auf jedem ein Leuchter mit Kerze. Die Matratzen
+                    waren hart, die Decke so fest gestopft, dass sie wie ein Brett auf einem lag und
+                    der Wind auf beiden Seiten durchpfiff. Nachts rutschte sie dauernd aus dem Bett.
+                    Wir dachten uns alles mögliche aus, um sie festzuhalten, kamen aber nie richtig
+                    zum Schlafen. Auf dem Fußboden lagen mehrere Pferdefelle, eins von einer
+                    Fliegenschimmelstute, die einmal ein gute Rennpferd gewesen war. An den Wänden,
+                    von denen sich die Tapeten ablösten, hingen Bilder, meist eingerahmte
+                    Photographien, in merkwürdiger Anordnung. Wenn man sie anhob, sah man dahinter
+                    ein Loch in der Wand, aus dem einem Spinnen entgegentaumelten. Die Nachttöpfe
+                    waren nicht immer leer. In der Dönhoffstube im ersten Stock, in der mein Vater
+                    wohnte, hatte das alte Mahagonibett nur zwei Füße. Die beiden anderen waren
+                    durch eine Steinsäule ersetzt, die Onkel Carol aus Ägypten mitgebracht hatte.
+                    Neben dieser Stube lag ein schönes großes Eckzimmer, die Bischofsstube. Dort
+                    hing an der Wand über den Betten ein riesiges <seg type="comment">
+                  <orig>Gemälde,
+                            das einen typisch Lehndorffisch aussehenden <persName key="ed_v1z_fdk_hlb">Bischof</persName> im Ornat mit Krummstab
+                            darstellte.</orig>
+                  <note xml:id="nbrn_2bc_mfb">Es war 1866 gemalt worden,
+                            siehe das Dokument vom <ref target="lehndorff_vbm_bzy_ny">22. Dezember
+                                1866</ref>.</note>
+               </seg> Den hatte es im 16. Jahrhundert tatsächlich
+                    gegeben. Da man aber nicht wusste, wie er aussah, war er nach den genauen
+                    Angaben und Wünschen von Onkel Carols <persName key="ed_wms_mh2_cy">Mutter</persName> gemalt worden. Angeblich spukte er auch im Hause, wir
+                    haben ihn aber nie gesehen. Als mein Vater und ich einmal in sehr heißen
+                    Sommertagen in Steinort nächtigten, wachten wir bei Tagesanbruch von einem
+                    eigentümlichen Klopfen auf. Es war aber nicht der Bischof, der dieses Geräusch
+                    verursachte, sondern es saßen Puten auf den äußeren Fensterbrettern und pickten
+                    die Fliegen von den Scheiben. Das große Esszimmer, ein langgestreckter Raum,
+                    hatte nur an der Schmalseite ein Fenster, das man nicht öffnen konnte, weil im
+                    Fensterrahmen ein Baumpilz wuchs. An der Längswand neben dem Fenster hing ein
+                    herrliches Bild meiner <persName key="ed_tcp_g3l_2y">Urgroßmutter Lehndorff,
+                        geb. Schlippenbach</persName>, in einer überdachten Gondel in Venedig, und
+                    an der Wand gegenüber ein Portät ihres <persName key="ed_k4z_jgl_2y">Mannes</persName> in Generalsuniform, im freien Feld auf einem Baumstumpf
+                    sitzend. In den Wohnzimmern hingen andere schöne Familienbilder, daneben
+                    hervorragende zeitgenössische Porträts von Mitglieder der preußischen
+                    Königsfamilie, von der Mutter Friedrichs des Großen, von Königin Luise, <seg type="comment">
+                  <orig>Prinz Louis Ferdinand von Preußen, der mit meinem
+                            Urgroßvater eng befreundet war.</orig>
+                  <note xml:id="narc_3ck_kcb">Siehe
+                            hierzu Schultze, Lebensbild, S. 60 ff.</note>
+               </seg> Mit den Porträts
+                    konkurrierten in aufregender Weise die Gobelins an den Wänden, alles Szenen aus
+                    der alttestamentlichen Simson-Geschichte. In dem Zimmer, in dem man nach den
+                    Mahlzeiten zu sitzen pflegte, fiel der Blick auf Simson, dem die Augen
+                    ausgestochen werden. Neben diesen Gobelins stand eine Uhr, die alle Stunde das
+                    Lied von sich gab „Üb immer Treu und Redlichkeit bis an dein kühles Grab, und
+                    weiche keinen Finger breit von Gottes Wegen ab.‟ Einmal war ein Gast da, der
+                    sich für solche alten Uhren besonders interessierte. Als niemand im Zimmer war,
+                    sah er sich die Standuhr genau an und fand heraus, dass sie noch elf andere
+                    Lieder spielen konnte, was offenbar niemandem bekannt war. Um Onkel Carol zu
+                    überraschen, stellte er die Uhr auf ein anderes Lied ein. Der war aber gar nicht
+                    für solche Scherze zu haben. Er ließ den Mann umgehend seinen Koffer packen und
+                    schickte ihn zum sechs Kilometer entfernten Bahnhof Groß Steinort, von wo nur
+                    selten ein Personenzug verkehrte.</p>
+                <p>
+               <gap reason="insignificant"/>
+                </p>
+                <p>
+               <note type="editorial">Einer der größten Räume im Obergeschoss war das zur
+                        Parkseite gelegene hintere Turmzimmer.</note>
+            </p>
+                <p>
+               <seg type="comment">
+                  <orig>Die schönsten Zimmer in Steinort lagen parterre auf der
+                            Parkseite.</orig>
+                  <note xml:id="nhgj_1dc_mfb">Über das Innere von
+                            Steinort ist nur wenig überliefert, vor allem durch Carl von <persName key="ed_b2f_xyf_h1b">Lorck</persName>, der mit <persName key="ed_ms2_tyf_h1b">Anni</persName> von Schrötter, der Enkelin
+                                <persName key="ed_wms_mh2_cy">Anna von Lehndorffs</persName>
+                            verheiratet war und <placeName key="ed_amz_114_zdb">Seehof</placeName>-Steinort bewohnte, Vgl. Lorck, Carl E. v., Die
+                            Deutschen Herrenhäuser, Bd. 1: Herrenhäuser Ostpreußens, Bauart und
+                            Kulturgehalt, Königsberg 1933; Ders., Groß Steinort. Der Bauvorgang
+                            eines Barockschlosses im deutschen Osten, Pillkallen 1937; Ders., Neue
+                            Forschungen über die Landschlösser und Gutshäuser in Ost- und
+                            Westpreußen, Frankfurt am Main 1969 (Schriften des Norddeutschen
+                            Kulturwerk). </note>
+               </seg> Sie hatten wunderbare Parkettböden aus
+                    verschiedenfarbigem Holz und waren mit vergoldeten Empire-Möbeln eingerichtet,
+                    Stühlen, Sesseln, Sofas, Schränken, Spiegeln, Kommoden und Etageren für Blumen
+                    und Porzellan. An den Zimmerdecken hingen venezianische Kronleuchter, vor den
+                    Fenstern gestickte Vorhänge. <seg type="comment">
+                  <orig>Die anschließende
+                            Bibliothek hatte Glasschränke im gleichen Stil.</orig>
+                  <note xml:id="ntts_4cc_mfb">
+                     <persName key="ed_csb_mdf_cy">Ernst Ahasverus
+                                Heinrich von Lehndorff</persName> hatte nach seiner Rückkehr von
+                                <placeName key="ed_xrv_gwb_by">Berlin</placeName> nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> mit deren Aufbau begonnen.
+                            Auf <persName key="ed_k4z_jgl_2y">Carl Friedrich Ludwig von
+                                Lehndorff</persName> gehen <ref target="lehndorff_wnf_cjs_t3b">Entwürfe für die Einrichtung</ref> zurück. Ein Umbau erfiolgte <ref target="lehndorff_uht_wz2_j1b">1856</ref>.</note>
+               </seg> Diese Räume
+                    waren aber seit Jahrzehnten nicht mehr benutzt worden und daher völlig
+                    verstaubt, die Vorhänge und Möbelbezüge von Motten zerfressen, die Spiegel
+                    blind, die Porzellanstücke zerschlagen <seg type="comment">
+                  <orig>oder von
+                            Besuchern als Andenken mitgenommen.</orig>
+                  <note xml:id="ndjr_tbc_mfb">Oder im Zuge der Zwangsverwaltung verpackt und nach Königsberg an die
+                            Generallandschaft gebracht worden, vgl. das darüber aufgestellte
+                            Inventar vom <ref target="lehndorff_tyz_frr_wcb">5. Januar
+                            1897.</ref>
+                  </note>
+               </seg> Es war bedrückend, sich beim Anblick dieser
+                    Zimmer auszumalen, wie herrlich man früher darin gelebt haben mochte. Hin und
+                    wieder warfen wir heimlich einen Blick hinein. Onkel Carol selber bewohnte zwei
+                    kleine Zimmer im südlichen Teil des Haues. Dort durften wir ihn gelegentlich
+                    besuchen, was wir mit einigem Bangen taten, weil es uns drinnen eng und stickig
+                    war. Er war aber immer sehr nett zu uns und behandelte uns wie Erwachsene.
+                    Meistens lag er im Bett, einen Kneifer auf der Nase, las, oder besah Münzen und
+                    Münzkataloge. Die Schränke, zwischen denen man hindurchgehen musste, um an sein
+                    Bett zu gelangen, enthielten eine der größten Münzsammlungen, die es damals gab,
+                    zweihundertachtzigtausend Stück, alle brandenburgisch-preußischen Ursprungs. Er
+                    hatte sie im Laufe seines Lebens gesammelt und dabei großes Fachwissen erworben.
+                        <seg type="comment">
+                  <orig>Ständig korrespondierte er mit Numismatikern und
+                            hatte fast immer einen oder mehrere über Wochen und Monate bei sich zu
+                            Gast.</orig>
+                  <note xml:id="njft_rg1_ycb">Vgl. APO, Bestand 382 FA
+                            Lehndorff, Nr. 173: Korrespondenz mit der Münzhandlung A. Riemann &amp;
+                            Co., ca. 1915.</note>
+               </seg>
+                    <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_fg4_2pd_py">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>J. J. Orandt an Carol Graf von Lehndorff. Berlin, 27. September 1885</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_fg4_2pd_py</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 621, Bl. 1-1v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_vmd_3pd_py">Orandt, J. J. (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1885-09-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ik3_ckz_2y">Lehndorff-Steinort, Carl Meinhard (Carol) Graf von
+                        (1860-1936)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/621/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, <gap reason="illegible"/> Nr. 30 auf dem Hof im Keller, 27.
+                        September 1885</dateline>
+					          <salute>Hohzuverehrender Herr! <lb/>Hochwohlgeborener Herr!</salute>
+                </opener>
+                <p>Euer Hochwohlgeboren wollen Hochgeneigtest verzeihen, dass ich mir erlaube, Ihnen
+                    beigehend unter Kreuzband Exemplar einer vor mir verfassten kleinen Schrift:
+                    „Hofprediger Stoecker - seine Feinde und sein Prozess“ zur geneigten Einsicht
+                    zuzusenden. </p>
+            <p>Ich bin Mitglied der christlich-sozialen <rs type="term" key="ed_g3c_5qd_py">Partei</rs> und des
+                    Deutschen <rs type="term" key="ed_b2r_5qd_py">Antisemitenbundes</rs>. Von vielen
+                    Seiten dazu angeregt, habe ich diese Broschüre zu dem Zwecke geschrieben, um
+                    dieselbe an Glaubensgenossen und an die Verehrer und Freunde des Herrn <persName key="ed_xkb_vvc_gy">Stoecker</persName> zu verkaufen, um damit eine
+                    Kleinigkeit verdienen zu können. Ich bin durch jüdische Wucherer um mein
+                    erworbenes kleines Vermögen gekommen und bin nun schon längere Zeit ohne Erwerb
+                    und Stellung. </p>
+            <p>Wenn Euer Hochwohlgeboren die Güte haben, mir ein Exemplar
+                    abzukaufen und mir gütigst den kleinen Betrag (60 Gr.) in Briefmarken senden
+                    würden, so würden Sie damit meiner armen Familie, der es früher sehr wohl ging,
+                    aber durch die Wucht der Verhältnisse in eine schwierige Lage gekommen, eine
+                    Wohltat erweisen. </p>
+            <p>Der Herr Stadtverordnete <gap reason="illegible"/> in <placeName key="ed_xrv_gwb_by">Berlin</placeName> würde gern über mich und meine Verhältnisse Auskunft
+                    erteilen. </p>
+            <p>Das Büchlein sollte von jedem Verehrer des Herrn Hofprediger und von jedem Gesinnungs- und
+                    Parteigenossen empfohlen und gekauft werden, da das Schriftchen alle von
+                    jüdisch-fortschrittlicher Seite gegen Herrn Hofprediger Stoecker erhobene
+                    Beschuldigungen widerlegt. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Bis dat quic cito dat!</orig>
+                  <note xml:id="nfy4_fqd_py">Zweimal gibt, wer schnell gibt.</note>
+               </seg>
+                    </p>
+            <p>Vielleicht hätten Herr Hochwohlgeboren die Güte, mir den kleinen Betrag,
+                    wenn es möglich sein würde, bis Donnerstag den 1. Oktober zu senden. Nur bis zu
+                    diesem Tage hat mir mein Hauswirt Frist gegeben, da ich die Miete von zwei
+                    Monaten wegen Stellenlosigkeit nicht entrichten konnte. Ich könnte das Äußerste
+                    für meine Familie verhüten.</p>
+				        <closer>
+					          <salute>Es zeichnet Euer Hochwohlgeboren gehorsamster Diener</salute>
+					          <signed>J. J. Orandt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

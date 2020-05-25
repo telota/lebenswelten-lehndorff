@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_qph_p3b_mdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. 18. Juni bis 4. August
+                    1756</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_qph_p3b_mdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="editorial">
+                    <p>Zu den Kriegsvorbereitungen vgl. Schmidt-Lötzen, Nachträge, Bd. 1, S. 69 ff.
+                        (ab 13. Juli 1756). - Am 5. August reiste Lehndorff mit dem Chevalier
+                            <persName key="ed_wdc_zwp_rdb">Thynne</persName> unter dem „Deckmantel‟
+                        einer Reise nach <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> nach
+                            <placeName key="ed_nc5_wng_2z">Zerbst</placeName>. Er schreibt:
+                            <quote>Ich liebe diesen [Fürsten] trotz seiner Dummheit; er hat ein
+                            gutes Herz und die kleine Zahl der Untertanen, die unter seinem Zepter
+                            leben, ist glücklich. Er gehört zu den Fürsten, welche in den Zerbster
+                            Annalen werden mehr gesegnet als gerühmt werden.</quote> Lehndorff
+                        spöttelt über den <quote> Prunk und die Etikette der kleinen deutschen
+                            Höfe</quote>, aber der Adel, <quote>der hierbei in Wirksamkeit tritt,
+                            würde in Verzweiflung sein, wenn diese alten Bräuche abgeschafft werden
+                            sollten.</quote> Anschließend (ab 11. August) besuchte er den <placeName key="ed_cky_bxp_rdb">Braunschweiger</placeName> Hof und erfuhr auf der
+                        Rückreise am 21. August in <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>, dass sich am Folgetag alle Regimenter in Marsch
+                        setzen werden. Da die Stadttore bereits geschlossen waren, konnte er
+                        Magdeburg nicht mehr verlassen. Er machte die Bekanntschaft des Domherrn von
+                            <persName key="ed_rk1_qxk_gcb">Hardenberg</persName>, den er als
+                            <quote>Allerweltsmann</quote> schildert, und von Frau von <persName key="ed_f3s_h4g_vz">Haeseler</persName>: <quote>Sie hat eine sehr reiche
+                                <persName key="ed_v52_qng_vz">Tochter</persName>, und ich könnte sie
+                            wohl eines Tages um deren Hand bitten.</quote> - Am 22. August rückten
+                        die Regimenter unter Befehl des <persName key="ed_mn5_svg_hy">Prinzen
+                            Ferdinand</persName> aus. Der Prinz hatte <quote>für alle Offiziere, die
+                            ihre Kriegsausrüstung nicht bezahlen können</quote>, gebürgt.
+                            <quote>Seine edle Handlungsweise hat ihm aber auch alle Herzen in der
+                            ganzen Stadt gewonnen, und die Bürger sehen ihn mit Tränen in den Augen
+                            ausziehen, so wohl fühlten sie sich unter seinem Regiment, das von dem
+                            der anhaltischen Fürsten so ganz verschieden war.</quote> - Lehndorff
+                        verband den Aufenthalt mit einem Besuch von <placeName key="ed_e44_fxr_tcb">Kloster Berge</placeName> am 23. August. Hier traf er Abt <persName key="ed_kfq_k4k_gbb">Steinmetz</persName>, den er <quote>achte und ehre
+                            wie meinen Vater</quote>, und der ein <quote>hochachtbarer Mann
+                            sei</quote>, der <quote>durch die Erziehung, die er so vielen jungen
+                            Leuten gibt, auch zum Wohle des Vaterlandes beiträgt</quote>, bevor er
+                        am selben Tag über <placeName key="ed_xjc_ttl_cz">Brandenburg</placeName>
+                        nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> zurückkehrte, wo er
+                            <quote>von nichts anderem als von Krieg und von den Vorbereitungen zum
+                            Abmarsch</quote> hörte. - Am 26. August war der Krieg sicher, am 27.
+                        August wurden die Stadttore geschlossen. Am 1. September erhielt Lehndorff
+                        einen Brief des <persName key="ed_nvx_wcz_bz">Prinzen Heinrich</persName>,
+                        der mit seinem Regiment Berlin verlassen hatte.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Giebel, Wieland (Hrsg.), Die Tagebücher des Grafen
+                            Lehndorff. Die geheimen Aufzeichnungen des Kammerherrn der Königin
+                            Elisabeth Christine, Berlin 2007, S. 310 ff.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <placeName key="ed_nwt_jdz_bz">Schönhausen</placeName>
+                    <date from="1756-06-18" to="1756-08-04" cert="high"/>
+                
+             
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+              
+				     <p>
+            <seg type="comment">
+               <orig>
+                  <hi rendition="#u">18./19. Juni</hi>. </orig>
+               <note xml:id="nx55_hm2_ndb">In den Nachträgen ist ergänzt: <quote>Man sagt, dass
+                            die Kriegsvorbereitungen den König allein schon eine Million Taler zu
+                            stehen kommen, abgesehen davon, was es den einzelnen kostet. Ach, was
+                            sind meine Mitmenschen für Narren!</quote>
+               </note>
+            </seg> In <placeName key="ed_nwt_jdz_bz">Schönhausen</placeName>. Die freie Zeit widme ich der
+                Lektüre. - Fortwährend gehen und kommen Kuriere von den verschiedenen Höfen. Wir
+                stehen am Vorabend großer Ereignisse.</p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>
+            <hi rendition="#u">21./22. Juni</hi>. Ich war nach <placeName key="ed_uzd_5c3_ycb">Landsberg</placeName> gereist, einem zerstörten, einst
+                meinen Ahnen gehörenden Schloss, das von <persName key="ed_syp_mzf_h1b">Friedrich I.
+                </persName>angekauft und verschönert, von <persName key="ed_nyn_ffz_g1b">Friedrich
+                    Wilhelm I.</persName> aber teilweise niedergerissen wurde. <seg type="comment">
+               <orig>Man hatte mir gesagt, dass mein Ahnherr noch ganz unversehrt im Sarg
+                        läge. Ich wollte ihn nun sehen, aber die Familie Schwerin hat vor drei
+                        Jahren die Grabgewölbe vermauern lassen. </orig>
+               <note xml:id="ncmv_1zp_rdb">Dessen Großvater <persName key="ed_zyw_ncf_2y">Gerhard Ahasverus
+                        </persName>hatte 1678 mit <persName key="ed_cxz_rzp_rdb">Luise
+                            Wilhelmine</persName>, Tochter des kurbrandenburgischen Staatsministers
+                            <persName key="ed_xy2_4zp_rdb">Otto Freiherr von Schwerin</persName>,
+                        die (zweite) Ehe geschlossen. Zur Geschichte des Schlosses <ref target="https://books.google.de/books?id=ctBPAAAAcAAJ&amp;pg=PA604&amp;lpg=PA604&amp;dq=Schloss+Landsberg+Familie+Schwerin&amp;source=bl&amp;ots=CbwJvgxzXq&amp;sig=ACfU3U0QNmryDs5cyDNwyPZpuYPCKDkUiw&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwiB-c_GjbHoAhWDw6YKHQaUDI0Q6AEwEnoECAgQAQ#v=onepage&amp;q=Schloss%20Landsberg%20Familie%20Schwerin&amp;f=false">hier</ref>. </note>
+            </seg>So konnte ich meine Neugierde nicht
+                befriedigen, und ich kehrte in der Nacht nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> zurück.</p>
+                <p>
+            <hi rendition="#u">23. Juni</hi>. Ich diniere bei <persName key="ed_lpx_q4h_tdb">Mitchell</persName>, wo nur vom Krieg gesprochen wird. Unsere Regimenter
+                marschieren nach <placeName key="ed_jxx_gpv_mbb">Pommern</placeName>,
+                augenscheinlich weil wir die Russen fürchten, die sich, wie es heißt, wider des
+                Königs Erwarten mit den Franzosen verbünden wollen. Ich zittere für mein armes
+                Vaterland <placeName key="ed_uvt_4j4_dz">Preußen</placeName>. Man behauptet, dass
+                    <placeName key="ed_ust_ky4_dz">Frankreich</placeName> in einem geheimen Artikel
+                    <placeName key="ed_stc_3k4_dz">Österreich</placeName> die Wiedervereinigung
+                    <placeName key="ed_tjn_3rc_py">Schlesiens</placeName> zusichert.</p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>
+            <hi rendition="#u">26. Juni</hi>. Der <persName key="ed_x2r_52f_cy">König</persName> kommt an. Es gibt viele Leute, die eigens an den Hof
+                    kommen in der Erwartung, dass Lord <persName key="ed_v1q_r4h_tdb">Holderneffe</persName> vom König in Audienz empfangen werden wird. Die
+                    Leute lassen den Gesandten herkommen, während er ruhig in <placeName key="ed_cst_hsm_zcb">London</placeName> lebt, und senden ihn, nachdem er
+                    hier seine Angelegenheiten erledigt hat, nach <placeName key="ed_qvp_nnz_2y">Petersburg</placeName>, um den dortigen Hof an seine alten Zusagen zu
+                    erinnern. Fest steht für alle Fälle, dass unsere ganze Armee in Bewegung ist,
+                    dass die Offiziere ihre Kriegsrüstung besorgen und die Geldnot groß ist.</p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>
+            <hi rendition="#u">1. bis 6. Juli</hi>. <gap reason="insignificant"/> Der
+                Kriegslärm legt sich etwas; ich glaube eher, dass man es satt hat, davon zu reden,
+                als dass man den Krieg wirklich nicht mehr befürchten sollte. Die Offiziere fahren
+                fort, ihre Kriegsausrüstung zu besorgen und die Regimenter ihre Garnisonen in
+                    <placeName key="ed_jxx_gpv_mbb">Pommern</placeName> zu wechseln. Kurzum, das
+                Ganze ist ein Rätsel, das sich bald lösen muss. Viele alte Generale nehmen ihren
+                Abschied, weshalb es in der Armee ein bedeutendes Avancement gibt. </p>
+            <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>
+            <hi rendition="#u">9. Juli</hi>. <gap reason="insignificant"/> Die Zeitläufe sind
+                recht sonderbar; wir rüsten uns immer auf den Krieg, ohne in Wahrheit unsere Feinde
+                zu kennen. Nach der öffentlichen Meinung haben wir mit Ausnahme von <placeName key="ed_jxm_5vf_4y">England</placeName> so ziemlich ganz Europa zum Feinde. Ich
+                glaube aber doch, dass wir das Reich auf unserer Seite haben werden, da der Wiener
+                Hof durch sein Bündnis mit Frankreich den Leuten doch zu sehr vor den Kopf gestoßen
+                hat. - Ich mache mit dem englischen Gesandten bei dem Kaufmann <persName key="ed_h5r_dd5_2z">Jordan</persName> ein außergewöhnliches Diner mit; mehrere
+                Kaufleute nämlich und Diener des Wortes Gottes sind dabei. Jordans Frau war meine
+                Erzieherin, die ich immer in dankbarem Andenken behalten werde. Solche
+                Gesellschaften, die so verschieden von denen sind, die ich für gewöhnlich mitmache,
+                haben für mich einen besonderen Reiz, da ich so gerne die verschiedenen menschlichen
+                Charaktere kennen lerne.</p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>13. Juli. <gap reason="insignificant"/> Die Kriegsaussichten verursachen den
+                Offizieren schreckliche Ausgaben, während sie nicht einen Heller besitzen. Es ist
+                trostlos zu sehen, welche Mühe sie sich geben, jemand zu finden, der ihnen Geld
+                vorschießt. <gap reason="insignificant"/> Jetzt gibt es nur Auszeichnungen für die
+                Engländer, was natürlich alle von der französischen Allianz heftig verschnupft. Der
+                alte <persName key="ed_j52_qwg_2z">Valory</persName>, der französische Gesandte, ist
+                ganz fassungslos; er, der so lange der Lieblingsgesandte war, sieht sich plötzlich
+                von dem englischen ganz in den Hintergrund gedrängt.</p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>15. Juli. <gap reason="insignificant"/> Alle Welt beschäftigt sich mit der
+                Revolution in <placeName key="ed_m1k_nh4_dz">Schweden</placeName>. Eine Zeitlang
+                fürchtete man, dass die gute Königin <persName key="ed_uph_l1q_rdb">Ulrike</persName> sehr leicht zu ihren heimischen Penaten zurückgeschickt
+                werden könnte, aber man gibt sich im schwedischen Senat den Anschein, als wüsste man
+                nicht, dass der Hof in die Verschwörung mit verwickelt ist. Alle vernünftigen Leute
+                finden auch die Haltung des schwedischen Hofes unberechtigt und undankbar. Ein
+                kleiner holsteinischer Prinz, den man, weil er gefiel, gewählt hat, und der noch
+                nichts getan hat, um den Dank der Nation zu verdienen, lässt sich es plötzlich
+                einfallen, sich zum Alleinherrscher machen zu wollen. Ich glaube wohl, dass die
+                Königin das meiste dabei getan hat, und ich fürchte sehr, dass sie es ihr Leben lang
+                bereuen wird, umso mehr, als man ihr bis dahin die größte Achtung bewiesen hat. </p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>24. Juli. Bei <persName key="ed_zfc_41q_rdb">Wulfenstjerna</persName> mit
+                mehreren Gesandten. Die Herren schauen alle so unruhig und bedenklich drein,
+                natürlich wegen unserer Kriegsrüstungen. Der französische und der österreichische
+                Gesandte versichern, dass der Teufel sie holen solle, wenn ihre Herren irgendwelche
+                Absichten auf ein Stück von Deutschland hätten. Alle unsere Vorbereitungen werden
+                aber doch in der Annahme getroffen, dass diese beiden Mächte uns angreifen wollen.
+                Nun, die Zeit wird unsere Zweifel lösen. </p>
+            <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>26. Juli. Der <persName key="ed_x2r_52f_cy">König</persName> kommt an, erteilt
+                dem französischen Gesandten eine Audienz von drei Minuten und dem englischen eine
+                von 1 3/4 Stunden. Es ist noch nicht ein halbes Jahr her, dass man einen Engländer
+                nicht einmal ansah. <gap reason="insignificant"/>
+         </p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>4. August. Beim schwedischen Gesandten. Man hat Nachrichten aus Schweden, dass
+                    die Hinrichtung der Männer, die sich gegen die Freiheit des Vaterlandes
+                    verschworen hatten, vollzogen ist. Zu dumm, sich für die Großen zu opfern. - Der
+                    Kriegslärm geht immer weiter. <gap reason="insignificant"/>
+         </p>
+			
+            
+        </body>
+    </text>
+</TEI>

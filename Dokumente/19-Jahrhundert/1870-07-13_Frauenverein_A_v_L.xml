@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_bsq_tfj_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorstand des Frauenvereins zur Untersützung hilfsbedürftiger alter Frauen an
+                    Anna Gräfin von Lehndorff. Angerburg, 13. Juli 1870</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_bsq_tfj_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 578, Bl. 6</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_e5f_zfj_ycb">Frauenverein zur Unterstützung hilfsbedürftiger
+                        alter Frauen, Angerburg</orgName>
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    <date when="1870-07-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Anna von Lehndorff würde mit großem Wohlwollen <quote>jedes Vorhaben zur
+                        Linderung der Notleidenden in edelster Weise unterstützen</quote>,
+                    attestierte ihr am 2. Februar 1870 das <orgName key="ed_txv_k1k_ycb">Seminar in
+                        Angerburg</orgName>, in dessen Aula ein Konzert <quote>zum Besten der im
+                        Feld verwundeten und erkrankten Krieger Deutschlands</quote> stattfinden
+                    sollte, in seiner Einladung, vgl. APO, Bestand 382 FA Lehndorff, Nr. 587, Bl. 3.
+                    Im Gegenzug unterstützte der Vorstand des <orgName key="ed_xjy_b4n_my">Vaterländischen Frauen-Vereins</orgName> die Waisenhäuser in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> und <placeName key="ed_h35_jqh_my">Drengfurth</placeName> und das Siechenhaus in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> mit kleineren Beiträgen, ebd., Nr.
+                    596. Zum Vaterländischen Frauen-Verein: Braumüller, Bernhard, Angerburg von A-Z.
+                    Ein Nachschlagewerk über den Kreis Angerburg, 4. Aufl., Rotenburg (Wümme) 2008
+                    S. 758. </note>
+            </correspDesc>
+            <abstract>
+                <p>Der Vorstand des Frauenvereins zur Unterstützung hilfsbedürftiger alter Frauen
+                    bedankt sich für eine Geldsendung von 10 Talern. Die milde Gabe sei ein
+                        <quote>Helfer in der Not, da die Beiträge zum Verein sich in letzter Zeit
+                        vermindert </quote>, die Hilfsbedürftigkeit von derzeit 54 Frauen sich
+                    dagegen vermehrt habe.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/578/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

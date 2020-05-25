@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_imr_pxn_j3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hermann Thulke an Carl Meinhard Graf von Lehndorff. Dönhoffstädt, 20. April
+                    1854</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_imr_pxn_j3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 403, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mqp_c14_j3b">Thulke, (-)</persName>
+                    <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName>
+                    <date when="1854-04-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+                </correspAction>
+                <note>Auch G. C. <persName key="ed_ljn_xlc_43b">Rudolph</persName> aus
+                    Wolkramshausen, den <persName key="ed_zkm_whl_2y">Lehndorff</persName> aus
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> kannte, war an den
+                    Vorwerken interessiert. Auf der Grundlage der Administrationsrechnungen war für
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> ein Ertrag von 2.383
+                    Talern, für <placeName key="ed_s3k_b12_gy">Taberlack</placeName> von 5.9.19
+                    Talern anzunehmen, wovon die Ausgaben abzuziehen waren. Demnach hatte Serwillen
+                    eine Pachtwert von 1.300 Talern, Taberlack von 3.200 Talern, und auf dieser
+                    Grundlage gab er sein Angebot ab, zog es aber später zurück. Die von <persName key="ed_zkm_whl_2y">Lehndorff</persName> im Mai 1854 genannte Summe für die
+                    Verpachtung von Taberlack ließ auch Thulke zurückschrecken. - Am 14. Juni 1854
+                    wurde erst einmal der Pachtvertrag für <placeName key="ed_xzt_112_gy">Stawisken</placeName> und <placeName key="ed_hyn_yzd_gy">Klein Steinort
+                    </placeName>mit dem bisherigen Pächter <persName key="ed_qkh_mbk_d2b">Carl
+                        Werner</persName>, dessen Pachtvertrag von 1850 noch bis 1856 gültig war,
+                    auf weitere sechs Jahre, also bis 1862 verlängert. Am 25. Juli 1854 wurde für
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> der Vertrag mit
+                        <persName key="ed_ljn_xlc_43b">Rudolph</persName> geschlossen, für
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName> erhielten Herrmann
+                        <persName key="ed_mqp_c14_j3b">Thulke</persName> und seine Ehefrau Elise,
+                    geborene von Lepel, die dafür bürgte, am 6. Juli den Zuschlag. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Dönhoffstädt, den 20. April 54</dateline>
+					          <salute>Hochgeborener <lb/>Hochzugebietender Herr Graf! <lb/>Gnädigster Herr!</salute>
+                </opener>
+				        <p>Ew. Hochgeboren wollen es nicht ungnädig aufnehmen, wenn ich Hochdieselben mit nachstehender
+                    Bitte behellige.</p>
+                <p>Es ist mir bekannt geworden, dass die Vorwerke <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, welche Ew. Hochgeboren an Herrn Amtmann Badow
+                    verpachten wollten, jetzt von demselben ausgeschlagen worden sind, weil ihm die
+                    jetzigen Zeitverhältnisse zur Übernahme einer Pachtung nicht geeignet
+                    erscheinen.</p>
+                <p>Ich selbst bin Landwirt von Jugend auf und befinde mich schon seit vier Jahren in
+                    der hiesigen Begüterung, woselbst ich ein Vorwerk bewirtschafte und dürfte über
+                    meine Wirtschaftsführung meine Frau Prinzipalin sowie deren Bruder, Herr
+                    Geheimer Regierungsrat Graf von Dönhoff, und der jetzige Wirtschaftsvorstand,
+                    Inspektor Satzig, die erforderliche Auskunft erteilen.</p>
+                <p>Auch glaube ich die Mittel zu besitzen, welche zur Übernahme einer Pachtung in
+                    Hochderen Begüterung erforderlich sein dürften.</p>
+                <p>Aus diesen Gründen und falls es sich bewahrheiten sollte, dass der p. Badow eine
+                    Pachtung ausgeschlagen hätte, erlaube ich mir Ew. Hochgeboren alleruntertänigst
+                    zu bitten, mir die gedachten Vorwerke gnädigst verpachten zu wollen. Sollte Ew.
+                    Hochgeboren aber über diese beiden Vorwerke bereits anderweit entschieden haben
+                    und Hochdieselben andere Vorwerke der Steinorter Begüterung zu verpachten
+                    beabsichtigen, so bitte ich ganz gehorsamst dabei auf mich hochgeneigtest
+                    rücksichtigen zu wollen.</p>
+				        <closer>
+					          <salute>Einer hochgeneigten Bescheidung entgegensehend, erdreiste ich mich mit tiefster
+                        Ehrfurcht zu zeichnen als Ew. Hochgeboren untertänigster Diener</salute>
+					          <signed>[Unterschrift]</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

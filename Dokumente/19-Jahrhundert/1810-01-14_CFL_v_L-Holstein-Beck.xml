@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_t25_x3c_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Friedrich Karl Ludwig Herzog von
+                    Holstein-Beck. Möglin, 14. Januar 1810</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_t25_x3c_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 244-246 </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_lpt_52g_hy">Möglin</placeName>
+                    <date when="1810-01-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_txh_3w5_sy">Holstein-Beck, Friedrich Karl Ludwig Herzog von
+                        (1757-1816)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Möglin, den 14. Januar 1810</dateline>
+					          <salute>Gnädigster Herzog!</salute>
+                </opener>
+				        <p>
+               <note type="editorial">Der Brief beginnt mit Ausführungen zu der bevorstehenden Hochzeit des
+                        Prinzen <persName key="ed_gsw_5lk_wcb">Wilhelm von Holstein-Beck</persName>
+                        mit der Prinzessin <persName key="ed_ld3_xlk_wcb">Luise von
+                            Hessen-Kassel</persName> am 26. Januar 1810. </note>
+            </p>
+                <p>Sie geben mir den Auftrag, Gnädigster Herr, Ihnen noch die Ackerinstrumente zu
+                    bestellen und einige Sämereien zu besorgen. Ersteres habe ich vorläufig getan
+                    und werde die Sämereien mitbringen, wenn Sie sie noch befehlen, da ich zur Zeit
+                    ihrer Einsaat bestimmt wieder in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> sein werde. Sagen Sie mir aber, ob es noch dabei
+                    bleibt, oder ob die Reisepläne auch vielleicht einen Einfluss auf Ihre
+                    wirtschaftlichen Operationen haben werden, und Sie nun keinen Wert mehr auf neue
+                    Anwendungen legen.</p>
+                <p>
+               <note type="editorial">
+                  <seg type="comment">
+                     <orig>
+                        <persName key="ed_tkl_kvp_vcb">Thaers</persName> Werk</orig>
+                     <note xml:id="nzp3_t5t_glb">Grundsätze der rationellen Landwirthschaft. 4 Bde., Berlin
+                                1809–1812.</note>
+                  </seg> wurde kurz nach Erscheinen <seg type="comment">
+                     <orig>in <placeName key="ed_ztb_bm1_my">Wien</placeName>
+                                preiswert nachgedruckt,</orig>
+                     <note xml:id="npsj_hvt_glb">Thaer,
+                                A(lbrecht), Grundsätze der rationellen Landwirthschaft, 7 Bde.,
+                                Wien, Gassler „Für die Oesterreichischen Staaten bearbeitete einzig
+                                rechtmäßige Ausgabe" 1810/13.,</note>
+                  </seg> in Lehndorffs Augen ein
+                        Diebstahl. </note> Ich wünschte, dass unsere Buchhändler sich nicht mit dem
+                    Debit dieses Nachdrucks befassten. Doch das wird wohl nicht zu vermeiden
+                    sein.</p>
+                <p>
+               <gap reason="insignificant"/>
+            </p>
+                <p>Sie wissen wahrscheinlich schon, dass <placeName key="ed_rbt_cmk_wcb">Aweyden</placeName> mit seinen Dependenzen vom Staat erkauft werden soll,
+                    um dort eine <orgName key="ed_fn5_gmk_wcb">Model- und Experimental -</orgName>
+                    und sozusagen eine Pepinière-Wirtschaft unter der Direktion des jetzigen
+                    Besitzers <persName key="ed_fy4_2mk_wcb">Eichler</persName> zu etablieren. Die
+                    Idee macht dem Gouvernement Ehre, ich zweifle aber, dass der Erfolg das Werk
+                    krönen werde, und dass der Zweck erreicht werden wird. Ich habe den Plan zu der
+                    ganzen Sache gelesen und mit dem <persName key="ed_tkl_kvp_vcb">Staatsrat</persName> so recht analysiert. Er ist um sein Gutachten darüber
+                    gefragt worden, und hat es nach seiner Herzensgüte und Nachsicht vorteilhaft für
+                        <persName key="ed_fy4_2mk_wcb">Eichler</persName> gegeben, doch ist er
+                    meiner Meinung über den schwerlich erfüllten Zweck. Nach dem eingereichten und
+                    detaillierten Plan des Besitzers scheint es mir nicht der Mann zu sein, der ein
+                    so wichtiges Werk dirigieren könnte, und nach meinem Glauben scheint es mir eine
+                    Finanzoperation von ihm zu sein, um sein Gut vorteilhaft zu verkaufen, für das
+                    man ihm durch Vermittlung von <persName key="ed_zvy_mbj_qhb">Auerswald</persName> 170.000 Tlr. geben will. Doch ist es besser, dass doch
+                    etwas zum Guten geschehe als gar nichts, und es ist wenigstens ein eröffnetes
+                    Feld für die Zukunft, und was die Direktion anbetrifft, muss man sich mit dem
+                    Sprichwort trösten: <seg type="comment">
+                  <orig>au royaume des aveugles, les
+                            borgnes sont rois</orig>
+                  <note xml:id="ng45_2yx_y2b">Unter Blinden ist
+                            der Einäugige König.</note>
+               </seg>. Das wäre so recht ein Unternehmen für
+                    den Staatsrat, verbunden mit einem Institut nach dem hiesigen Fuß eingerichtet.
+                    Welcher Segen könnte daraus für unser Vaterland entsprungen, und <persName key="ed_tkl_kvp_vcb">Thaer</persName> wäre nicht abgeneigt zu dieser
+                    Versetzung. Doch dieses alles unter uns, Gnädigster Herr!</p>
+                <p>In <placeName key="ed_xrv_gwb_by">Berlin</placeName> ist - eine rasende
+                    Wirtschaft! Eine Menge <seg type="comment">
+                  <orig>Faiseurs</orig>
+                  <note xml:id="nrs3_3yx_y2b">Schwätzer</note>
+               </seg>, Anstellungen und Pensionen
+                    regnen, und man sollte glauben, unser kleiner Staatsbeutel wäre der Ölkrug von
+                    Sarepta geworden. Neue Hofetiketten, Kuren, neue Orden, Neuerungen aller Art
+                    beschäftigen Hof und Stadt. Das alles aber greift nicht ein und will nicht
+                    passen. Es kommt mir vor, als jemand, der eine neue Wechselwirtschaft etablieren
+                    will, und weder Dünger noch Viehstapel hat, und den Übergang nicht versteht. Ich
+                    will wünschen, dass der Staat nicht das Schicksal solcher Wechselwirte teilen
+                    möge.</p>
+                <p>
+               <gap reason="insignificant"/>
+            </p>
+				        <closer>
+                    <salute> Carl Lehndorff</salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

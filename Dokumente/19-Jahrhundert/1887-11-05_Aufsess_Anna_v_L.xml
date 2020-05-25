@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dnh_5g2_3db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hermann Rudolf Wilhelm Freiherr von und zu Aufseß an Anna Gräfin von
+                    Lehndorff. Regensburg, 5. November 1887</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dnh_5g2_3db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 515, Bl. 4-5v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_rgw_kyh_h2b">Aufseß, Hermann Freiherr von und zu
+                        (-)</persName>
+                    <placeName key="ed_udz_kkz_g2b">Regensburg</placeName>
+                    <date when="1887-11-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Da sie nicht wusste, ob Anna von Lehndorff die Zeitschrift „Blätter für
+                    Elektrohomöopathie‟ bezog, sandte <persName key="ed_cqr_3ys_kfb">Ernestine von
+                        und zu Aufseß</persName> ihr die Ausgabe 12/1888 mit einer<quote>Vielzahl
+                        von Belegen für die Wirksamkeit</quote> zu (Bl. 6-7). Anna Lehndorff war
+                    auch persönlich daran interessiert (Bl. 9, 20. September 1891) und hatte Kontakt
+                    zu dem Homöopathen S. <persName key="ed_gzn_mss_s2b">Schmidt</persName> in
+                        <placeName key="ed_ip1_5vz_g2b">Riola</placeName> in Spanienüber, dessen
+                    Brief über Elektrohomöopathie vom18. Mai 1883 in: GStA PK, XX. HA, Rep. 54
+                    Gutsarchiv Lehndorff-Steinort, Nr. 591, n. f. Er hatte Anna von Lehndorff einen
+                    Aufenthalt <persName key="ed_zkm_whl_2y">Carl Meinhards</persName> in Viareggio,
+                        <quote>höchsten 20 Kilometer von Pisa an der Bahn nach Genova
+                        gelegen</quote>, vorgeschlagen.</note>
+            </correspDesc>
+            <abstract>
+                <p>Er bitte sie um Unterstützung gegen die neuen gegen die <seg type="comment">
+                  <orig>Elektrohomöopathie</orig>
+                  <note xml:id="niqc_yys_kfb">Vgl. <ref target="http://www.zeno.org/Meyers-1905/A/Elektrohom%C3%B6opathie">http://www.zeno.org/Meyers-1905/A/Elektrohomöopathie</ref>
+                        </note>
+               </seg> gerichteten Angriffe. Nachdem im vergangen Frühjahr im
+                    Reichstag aufgrund von Petitionen an Fürst <persName key="ed_atc_ls2_cy">Bismarck</persName>
+                    <quote>wenigstens kein Gesetz gegen die Geheimmittel</quote> verabschiedet
+                    worden sei, versuche die ärztliche Bürokratie der Elektrohomöopathie <quote>auf
+                        dem Wege kaiserlicher Verordnungen</quote> beizukommen, wozu im Berliner
+                    Gesundheitsamt bereits eine Kommission zusammengetreten sei. Sie möge
+                        <quote>auch diesmal Ihren hohen Einfluss</quote> geltend machen, um das
+                        <quote>Unheil</quote> abzuwenden.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/515/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

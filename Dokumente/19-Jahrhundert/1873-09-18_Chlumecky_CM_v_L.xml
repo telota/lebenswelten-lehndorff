@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_vbg_x52_j1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einladung. 18. September 1873</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_vbg_x52_j1b</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Räume/Europa</p>
+            </note>
+                <note type="editorial">
+                    <p>Der Kongress fand in <placeName key="ed_ztb_bm1_my">Wien</placeName> statt.
+                        Siehe hierzu:  <ref target="https://www.zobodat.at/pdf/MON-LF_0002_0001-0078.pdf">Meitzen
+                            August, Die Internationale Land- und Forstwirthschaftliche Statistik.
+                            Denkschrift für den internationalen Congress der Land- und Forstwirthe
+                            zu Wien, Berlin 1873</ref>.</p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 513, Bl. 7</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1873-09-18" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <seg type="comment">
+                  <orig>Einladung </orig>
+                  <note xml:id="nxwx_ylv_22b">gerichtet
+                            an <persName key="ed_zkm_whl_2y">Carl Meinhard Graf von
+                                Lehndorff</persName>
+                  </note>
+               </seg>
+               <lb/>zu der am 18. September 1873
+                    abends 8 Uhr in den Sälen des n. ö. Gewerbevereins, Eschenbachgasse Nr. 11, 2.
+                    St., stattfindenden geselligen Zusammenkunft der Mitglieder des internationalen
+                    Congresses der Land- und Forstwirte.</p>
+                <p>Der Präsident<persName key="ed_bzt_xlm_gbb"> Joh. Ritter von
+                    Chlumecky</persName>, k. k. Ackerbauminister</p>
+            </div>
+        </body>
+    </text>
+</TEI>

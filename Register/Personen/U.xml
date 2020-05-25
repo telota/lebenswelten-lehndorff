@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_xjj_2qs_gbb">
+                    <persName type="reg">
+                        <surname>Uber</surname>
+                        <forename>Johann Gottlieb</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1799 Notariatsdirektor und Hofrat in Breslau</note>
+                </person>
+                <person xml:id="ed_djw_dsc_mfb">
+                    <idno type="uri">https://d-nb.info/gnd/117249661</idno>
+                    <persName type="reg">
+                        <surname>Uckeley</surname>
+                        <forename>Alfred</forename>
+                    </persName>
+                    <birth>1874</birth>
+                    <death>1955</death>
+                </person>
+                <person xml:id="ed_swm_gfr_d2b">
+                    <persName type="reg">
+                        <surname>Ueding</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1862 Direktor des Kreisgerichtes Lötzen (1862)</note>
+                </person>
+                <person xml:id="ed_omz_5lw_12b">
+                    <persName type="reg">
+                        <surname>Uhlmann</surname>
+                        <forename>Curt</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1948 im Kriminalamt Chemnitz</note>
+                </person>
+                <person xml:id="ed_a2b_dgw_c2b">
+                    <persName type="reg">
+                        <surname>Uhrich</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <birth>1802</birth>
+                    <death/>
+                    <note>Landbaumeister in Königsberg</note>
+                </person>
+                <person xml:id="ed_ktq_xl2_3fb">
+                    <persName type="reg">
+                        <surname>Unger</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1868 Rittergutsbesitzer von Lardoyen</note>
+                </person>
+                <person xml:id="ed_e5p_c2s_d2b">
+                    <persName type="reg">
+                        <surname>Ungewitter</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1864 Kantor in Gumbinnen</note>
+                </person>
+                <person xml:id="ed_jdm_zy1_tcb">
+                    <persName type="reg">
+                        <surname>Unruh</surname>
+                        <forename>Christoph von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Major (1785)</note>
+                </person>
+                <person xml:id="ed_rhw_nyh_tcb">
+                    <persName type="reg">
+                        <surname>Unruh</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Fähnrich (1786)</note>
+                </person>
+                <person xml:id="ed_zss_yzl_w2b">
+                    <persName type="reg">
+                        <surname>Uwis</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1799 Wirt in Taberlack</note>
+                </person>
+                <person xml:id="ed_pr4_jy5_ldb">
+                    <persName type="reg">
+                        <surname>Ursinus</surname>
+                        <forename>Erhard</forename>
+                    </persName>
+                    <birth>1706</birth>
+                    <death>1785</death>
+                    <note>königlich-preußischer Geheimer Kriegs-, Domänen- und Oberfinanzrat.
+                        https://de.wikipedia.org/wiki/Erhard_Ursinus</note>
+                </person>
+                <person xml:id="ed_rsp_fv3_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/117321516</idno>
+                    <persName type="reg">
+                        <surname>Usedom</surname>
+                        <forename>Guido von</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1884</death>
+                </person>
+                <person xml:id="ed_jj1_xkm_33b">
+                    <persName type="reg">
+                        <surname>Uwis</surname>
+                        <forename>Emil</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmann in den Steinortschen Gütern, nachweisbar bis 1914, geboren in
+                        Rosengarten</note>
+                </person>
+                <person xml:id="ed_j31_mkm_33b">
+                    <persName type="reg">
+                        <surname>Uwis</surname>
+                        <forename>Familie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>seit dem 18. jahrhundert in Steinort nachweisbar.
+                        http://www.datenbank-nord-masuren.besaweb.de</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

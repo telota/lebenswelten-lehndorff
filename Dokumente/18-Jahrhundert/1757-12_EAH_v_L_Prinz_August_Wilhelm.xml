@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_iyy_zbh_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an Prinz August Wilhelm von
+                    Preußen. Magdeburg, Ende Dezember 1757 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_iyy_zbh_2z</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Volz, Gustav Berthold, Aus dem Briefwechsel des
+                            Prinzen von Preußen August Wilhelm mit dem Kammerherrn Graf Ernst
+                            Ahasverus Lehndorff, in: Masovia 9 (1903), S. 130-171, hier S.
+                            157–160</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>
+                    <date notBefore="1757-12-22" cert="high" notAfter="1757-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q12_pqy_bz">Preußen, August Wilhelm Prinz von (-)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_mdx_dk2_2z">11. Dezember 1756</ref>. - Lehndorff schreibt,
+                    dass seit der Abreise von <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>
+                    und über den Januar, sein <quote>Denken auf den Prinzen von Preußen
+                        gerichtet</quote> war, <quote>ich war von früh bis spät immer um ihn, so
+                        dass ich selbst mein Tagebuch zu führen verabsäumte. Ich hatte eigentlich
+                        Sorgen genug, einmal, weil die Russen von Preußen Besitz ergriffen hatten,
+                        und dann, weil ich an meine Verheiratung mit Fräulein v. <persName key="ed_v52_qng_vz">Haeseler</persName> dachte. Als ich hierüber zu ihm
+                        sprach, sagte er: „Sie tun recht, mein lieber Lehndorff, daran zu denken,
+                        sich einen Hausstand zu gründen, der sie vor manchen Fährlichkeiten behüten
+                        wird ich denke in diesem Augenblick wirklich nur an ihr Glück, und solange
+                        ich einen Taler habe, werde ich ihn mit Ihren teilen. Ich stehe aber für
+                        nichts ein, wenn ich König sein werde, denn alsdann fährt der Teufel in
+                        uns.</quote> Vgl. Giebel, Tagebücher, S. 411.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Magdeburg, Ende Dezember 1757</dateline>
+                </opener>
+                <p>Wir sprechen nur von <placeName key="ed_iw5_fxl_2y">Breslau</placeName>. <seg type="comment">
+                        <orig>Gestern Abend hat uns eine Estafette die Nachricht von seiner Einnahme
+                            gebracht.</orig>
+                        <note xml:id="nqmm_v2h_2z">Die Wiedereroberung durch den König geschah am
+                            20. Dezember.</note>
+                    </seg> Aber Euer Königliche Hoheit sind in <placeName key="ed_xrv_gwb_by">Berlin</placeName> und werden das alles besser wissen, als ich es Ihnen
+                    schreiben kann; so verlasse ich diesen Gegenstand, um Sie von den Verhältnissen
+                    unseres bürgerlichen Lebens zu unterhalten, die sicher nicht die des Krösus
+                    sind. Alle Welt sagt sich vertraulich ins Ohr, dass man nicht einen Heller aus
+                    seinen Gütern zieht, und dass man nicht 4 Dukaten in seiner Tasche hat. Der
+                    Baron <persName key="ed_vp2_x2h_2z">Müller</persName> liegt wirklich zu Bett,
+                    weil er nichts anzuziehen hat, und ich fürchte, wenn diese Dinge sich nicht
+                    ändern, werden wir alle bald dieselbe Krankheit haben. Sie merken wohl,
+                    Monseigneur, nach dieser kleinen Vorrede, dass das Lachen und Spiel hier nicht
+                    die Herrschaft führen; man kann unmöglich ein frohes Fest mit leeren Taschen
+                    haben. Aber da fast jedermann sich in der gleichen Lage befindet, sucht man sich
+                    zu trösten. </p>
+            <p>Die Prinzessinnen geben kleine Soupers, die man amüsant findet; man spielt gegenwärtig <seg type="comment">
+                  <orig>Commerce</orig>
+                  <note xml:id="ncrv_pdm_scb">Kartenspiel</note>
+               </seg>, aus guten Gründen hat man das <seg type="comment">
+                  <orig>Pharao</orig>
+                  <note xml:id="nrxy_ldm_scb">Glücksspiel
+                            mit französischen Karten</note>
+               </seg> aufgegeben. Wir haben auch jeden
+                    Mittwoch ein Picknick bei der <seg type="comment">
+                        <orig>Marschallin <persName key="ed_gbc_dfh_2z">Schmettau</persName>
+                  </orig>
+                        <note xml:id="ngx1_nx5_1bb">Witwe des 1751 gestorbenen Feldmarschalls Graf
+                            Samuel Schmettau</note>
+                    </seg>, die keine Soupers mehr gibt, seit die Pension nur in Papier gezahlt
+                    wird. Graf <seg type="comment">
+                        <orig>Finck</orig>
+                        <note xml:id="ng12_qx5_1bb">Staats- und Kabinettsminister</note>
+                    </seg>, Herr von <persName key="ed_kq5_2m2_2z">Knyphausen</persName>, <persName key="ed_kmc_3bh_2z">Herr</persName> und Frau von <persName key="ed_ez2_fxg_2z">Voß</persName>, Fräulein von <persName key="ed_pkd_5wg_2z">Knesebeck</persName>, Louise <persName key="ed_zpt_ywg_2z">Cocceji</persName>, <seg type="comment">
+                        <orig>Frau von <persName key="ed_bjv_nfh_2z">Fürst</persName>
+                  </orig>
+                        <note xml:id="nxl4_sx5_1bb">Gemahlin des Senatspräsidenten im Kammergericht,
+                            nachmaligen Großkanzler von Fürst</note>
+               </seg>, ich und Frau von
+                        <persName key="ed_btx_rfh_2z">Kraut</persName> sind dabei. Der <seg type="comment">
+                        <orig>Gatte der Letzteren</orig>
+                        <note xml:id="nl2s_5fh_2z">Baron Karl Friedrich Kraut war Hofmarschall des
+                            Prinzen Heinrich</note>
+               </seg>, verrückter und extravaganter denn je, hat
+                    zu unserer großen Freude nicht dabei sein wollen; er nennt diese Partie: das
+                    Spielhaus im vierten Stock, weil die Marschallin oben im Hause von Busch wohnt.
+                    Jeder bringt seine Mahlzeit und Wein mit, und so werden wir allem Anschein nach
+                    den Karneval verleben. </p>
+            <p>Urteilen Sie, Monseigneur, nun über unser klägliches Dasein nach unseren Vergnügungen und nach
+                    unseren traurigen Lustbarkeiten, so verschieden von denen, an die wir vor zwei
+                    Jahren gewöhnt waren, und die Ihre Güte so heiter und angenehm zu machen
+                    verstand. Ich verbringe oft ganze Abende bei der Frau Prinzessin im Gespräch
+                    über <placeName key="ed_oyr_ysm_cz">Oranienburg</placeName>, Ihr Palais und über
+                    all das uns zuteil gewordene Gute und Glückliche. Wir denken mit Bedauern sogar
+                        <seg type="comment">
+                  <orig>an das <seg type="comment"> vergangene Jahr
+                            </seg>und die 14 Tage, wo sie die Gicht hatten</orig>
+                  <note xml:id="ngv4_22m_scb">
+                     <note xml:id="nd15_wx5_1bb">Prinz August Wilhelm
+                                war im Januar 1757 mit dem <persName key="ed_x2r_52f_cy">König</persName> nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> gekommen und durch einen Gichtanfall einige
+                                Wochen dort aufgehalten worden.</note>
+                  </note>
+               </seg>: wenigstens
+                    hatte man das Glück, Sie zu sehen, und das in Ihrem Kamin gebratene Hähnchen war
+                    viel mehr wert, als die großen Gastmäler, die uns die Domherren hier geben, wo
+                    die schweren Rheinweine und die Langeweile abwechselnd herrschen.<gap reason="insignificant"/>
+                </p>
+            <p>Der Oberst <persName key="ed_pqy_mtr_52b">Kretschmar</persName> ist hier seit einigen Tagen; man
+                    hält ihn für einen ganzen Ehrenmann, findet ihn aber so langweilig, dass unsere
+                    Damen behaupten, man müsse eine Heilige sein, um diese Tugend zu lieben. </p>
+            <p>Das Französische steht auch nicht mehr in so hoher
+                    Verehrung und ich sehe zu meinem großen Erstaunen, dass man anfängt, zu uns
+                    guten Deutschen zurückzukehren. </p>
+            <p>Unsere <persName key="ed_bwq_lzl_2y">Königin</persName> ist sehr gekränkt, dass sie keinen Kurier
+                    aus Anlass von <placeName key="ed_iw5_fxl_2y">Breslau</placeName> bekommen hat,
+                    während Prinz <persName key="ed_nvx_wcz_bz">Heinrich</persName> einen erhielt.
+                    Wir behaupten alle, es sei ein Missverständnis, weil der <persName key="ed_x2r_52f_cy">König</persName> sicher nicht diese Aufmerksamkeit
+                    unterlassen haben würde, und so bemühen wir uns als gute Höflinge, die Pille zu
+                    versüßen. Prinzessin <persName key="ed_x11_dgn_fz">Amalie</persName> war heute
+                    auf dem heiligen Christmarkt. Das ist alles Bemerkenswerte, das sich hier
+                    begibt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cfs_rs2_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Zwischen Weimar und Erfurt, 28. Oktober 1813</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cfs_rs2_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 497-499</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_hdc_kl3_tcb">Weimar</placeName>
+                    <date when="1813-10-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (Hirschberg 9.4.1751-Königsberg, Roßgärter Markt
+                        12.11.1830)</persName>
+                </correspAction>
+                <note>Zwischen August 1813 und 25. Oktober 1813 fehlen jegliche Nachrichten. Am 25.
+                    Oktober 1813 antwortete <persName key="ed_k4z_jgl_2y">Lehndorff</persName> auf
+                    20 Quartseiten auf Briefe <persName key="ed_yx5_cbg_nbb">Berents</persName>,
+                    ebd., S. 493 ff. Am 28. Oktober 1813 schrieb er an <persName key="ed_yx5_cbg_nbb">Berent</persName>, in Gedanken bei der künftigen
+                    Bewirtschaftung <placeName key="ed_pxt_cnh_1y">Steinorts</placeName>: <quote>Mit
+                        den Bauern werden wir uns in der Folge ganz zufrieden geben müssen. Glauben
+                        Sie mir, lieber Berent, das Verhältnis geht auf die Länge nicht mehr. Der
+                        Sinn der Zeit ist dem ganz zuwider, und die Landwehren, Landsturm etc.
+                        machen der Sache ganz den Garaus. Man muss von jetzt ab schon danach
+                        trachten, die Vorwerker auf eigenen Betrieb zu reduzieren und allmählich
+                        alle Bauern eingehen zu lassen.</quote> Gemeint waren die zins- und
+                    hofpflichtigen Bauern, die Lehndorff auf seinen Gütern bald abschaffte, vgl.
+                    ebd., S. 500.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Auf einem Scheunflur zwischen <placeName key="ed_hdc_kl3_tcb">Weimar</placeName> und <placeName key="ed_r4l_hl3_tcb">Erfurt</placeName>, den 28. Oktober 13</dateline>
+                </opener>
+				        <p>Ich kann Ihnen nicht beschreiben, teuerste Mutter, mit welcher Freude ich Ihren Brief vom 18.
+                    September aus <placeName key="ed_pxt_cnh_1y">Steinort</placeName> erhalten habe.
+                    Sie dort zu wissen, in dem alten Asyl meiner Väter, auf dem stillen und
+                    zurückgezogenen Eilande, das emblême der Ruhe und des Friedens, gewährt mir ein
+                    wohltuendes und beruhigendes Gefühl voraus in dem unfriedlichen Gewühl, in dem
+                    ich hier lebe. Möge Ihr Aufenthalt dort Ihnen nicht gar zu langweilig und allzu
+                    sehr lästig werden.</p>
+                <p>Ich habe mich recht gemüht, beste Mutter, Ihren mir so lieben Brief eher
+                    beantworten zu können. Dieser Scheunflur ist aber wahrlich das erste Obdach,
+                    welches ich seit mehreren Wochen ergattern konnte. Keine Worte drücken das Leben
+                    aus, welches wir führen, und käme die Kraft nicht von oben herab, so wären wir
+                    längst der Mühe und Not unterlegen. Seit dem 14. August hat die Armee noch kein
+                    Obdach gesehen. Wie mir abgesagtem Feinde des Bivouacquirens das tut, können Sie
+                    sich denken, liebe Mutter. Gewiss ist seit Alexander dem Großen her noch kein
+                    Krieg mit dieser Energie, mit diesen Opfern geführt worden, als der jetzige.
+                    Aber auch nie war ein größeres Mobil vorhanden. Freund und Feind schlägt sich
+                    vortrefflich, unsere Armee besteht wahrlich aus Helden. Mit solcher Resignation,
+                    solchem Edelmut, solcher kalten Verachtung des Lebens wie dieser gemeine Mann
+                    ficht, hat noch nie eine Nation gekämpft. Für uns Offiziere ist dieses
+                    unerreichbar. Ehre, Pflicht, Belohnungen sind uns Schadloshaltungen genug für
+                    Leben. Was hat der gemeine Mann? Kämen uns unsere Alliierten nur entfernt bei,
+                    so existierte von <persName key="ed_xzh_bgg_h1b">Napoleon</persName> und seiner
+                    Armee wahrlich kein Überbeibsel mehr. Das sind aber zum Teil betrübte Helden. -
+                    Gott ist mit uns, Gott tut alles, Gott gibt den Geist der Nation, Gott verdirbt
+                    Napoleon und seine schändliche Regierung, Gott leitet nach seinem Willen das
+                    Kleine und das Große. Das glauben Sie, liebe Mutter, davon seien Sie überzeugt,
+                    wie ich es jetzt bin, den ich sehe täglich die unleugbaren Beweise davon.</p>
+                <p>Ich will Sie nicht mit politischen und kriegerischen Neuigkeiten unterhalten,
+                    liebe Mutter, es ist zu viel für einen Brief. Sie erfahren alles besser und eher
+                    durch die Zeitungen, welche jetzt nicht zu lügen brauchen, denn es geht alles so
+                    überaus gut und glücklich, dass die Wahrheit schon des Lobes genug enthält,
+                    schade nur (oder auch nicht schade!) für die vielen Opfer, welche fallen! Ohne
+                    Mühe und Opfer wird ja nichts Großes errungen! Wir hatten bei <placeName key="ed_flc_kyf_hy">Leipzig</placeName> 3 fürchterliche Tage geschlagen und
+                    keine Beschreibung drückt das aus, was meine Augen gesehen. Deshalb einst
+                    mündlich darüber, wenn Gott mir das Leben erhält. Das Resultat dieser Tage
+                    werden Sie aus den Zeitungen wissen. Seitdem sind wir schon im ewigen Verfolgen
+                    und täglichen Gefechten bis hierher nahe an <placeName key="ed_r4l_hl3_tcb">Erfurt</placeName> gekommen. Es war zu vermuten, dass <persName key="ed_xzh_bgg_h1b">Napoleon</persName> hier neue Positionen nehmen und
+                    eine letzte Schlacht wagen würde. Heute scheint es aber, als wenn er auch diese
+                    vortreffliche Stellung verlassen wolle. Ich glaube, dass er schon zu sehr
+                    geschwächt ist, und dann macht der Abfall der Bayern ihm eine gar zu mächtige
+                    Diversion in seinem Rücken. Die Sachsen, welche vor 8 Tagen noch gegen uns
+                    fochten, machen jetzt einen Teil unserer Armee aus. Ich habe selber ein
+                    Sächsisches Landwehr-Regiment unter meiner Brigade und habe schon vorgestern ein
+                    kleines Gefecht mit diesen neuen Verbündeten gehabt, welche sich recht gut
+                    schlagen.</p>
+                <p>Was mein Individuum betrifft, so hat Gott bisher gnädig sich meiner angenommen,
+                    mir geholfen, wenn es galt, mich beschirmt in sehr kritischen Momenten. Ich
+                    stehe mit meinem Regiment und jetzt mit noch 2 anderen, die ich führe, bei der
+                    Avantgarde unter <seg type="comment">
+                  <orig>General <persName key="ed_ixm_njw_c2b">Katzeler</persName>
+                  </orig>
+                  <note xml:id="nhnj_2z2_ycb">Nach Schultze führte zu dieser Zeit Oberst von
+                                <persName key="ed_elh_zlv_glb">Jürgaß</persName> die Avantgarde.
+                            Oberst von <persName key="ed_ixm_njw_c2b">Katzeler</persName> war bei
+                            Möckern verwundet worden und kehrte erst im Dezember zur Armee zurück,
+                            vgl. ebd., S. 498.</note>
+               </seg>, profitiere daher von jedem Gefecht,
+                    welches Gott gibt, und führe wenn auch nicht ein sehr bequemes und angenehmes,
+                    doch ein sehr tätiges Leben. Ich betraure schon viele der mir anvertrauten
+                    Kinder meines Vaterlandes. Mögen die Väter nicht mir die Schuld ihres Todes
+                    beimessen. Ich sowie sie taten nur unsere Pflicht, und ich habe mir nicht
+                    vorzuwerfen, sie unnütz geopfert zu haben. Auch habe ich mir schon das Eiserne
+                    Kreuz verdient, es freut mich, weil ich es wirklich verdient habe, und nicht so
+                    à la douzaine erhalten. Ich habe bei <placeName key="ed_flc_kyf_hy">Leipzig</placeName> 7 Kanonen mit einer Eskadron des Regiments genommen,
+                    auch einen russischen Orden habe ich erhalten, auf den ich nicht viel Wert lege.
+                        <seg type="comment">
+                  <orig>Ach warum sollte meine verklärte <persName key="ed_z12_bwf_hy">Pauline</persName> diese schönen Tage nicht mehr
+                            erleben!</orig>
+                  <note xml:id="nh2d_bz2_ycb">Seine Schwester <persName key="ed_z12_bwf_hy">Pauline</persName> war am 2. März 1813
+                            verstorben</note>
+               </seg> Gott hat es nicht gewollt. Vielleicht sieht sie
+                    aus des Himmels Höhen den Werken der Erde zu und betrachtet sie aus einem
+                    anderen Gesichtspunkte als wir. Doch hätte ich es sehr gewünscht, wie gerne
+                    hätte ich sie wiedergefunden - wenn mich Gott zurückführt, ihr gesagt, wie alles
+                    war, mich mit ihr gefreut, noch diesen wichtigsten aller Momente erlebt zu
+                    haben, nach dem wir uns im Leben so oft sehnten - es sollte nicht so sein. Gott
+                    wollte es nicht und gewiss ist es nicht ohne Grund, so wie ihr Scheiden bitter,
+                        <seg type="comment">
+                  <orig>und das der Friederike und der Obermarschallin
+                            ihres süß war,</orig>
+                  <note xml:id="nckf_lz2_ycb">Die verwitwete
+                            Obermarschallin <persName key="ed_scl_bdz_bz">Charlotte Amalie Gräfin
+                                von Dönhoff</persName> war 1813 nach langer Krankheit in Königsberg
+                            verstorben. </note>
+               </seg> vielleicht büßte sie dadurch eine leichte
+                    Schuld des Lebens ab, und thront nun rein und verklärt im Firmament auf einer
+                    Stufe, die andere noch nicht erreicht haben.</p>
+                <p>Die Beschreibung Ihrer Reise, die Ihres Seins und Treibens im häuslichen
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> hat mir einen recht
+                    süßen Augenblick gewährt. Vielleicht gewährt mir das Schicksal einst und
+                    vielleicht bald das Glück, selber Sie dort bewirten, dienen, lieben zu können.
+                    Ich hoffe, dass <persName key="ed_yx5_cbg_nbb">Berent</persName> und alle
+                    Bewohner von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> alles anwenden
+                    werden, um Ihnen ihren dortigen Aufenthalt erträglich zu machen. <seg type="comment">
+                  <orig>...</orig>
+                  <note xml:id="nazr_gx2_ycb">So in der
+                            Vorlage</note>
+               </seg> Dass <persName key="ed_g2r_w33_ycb">Moreau</persName> tot ist, wissen Sie. Der <persName key="ed_qqv_tf3_ycb">Kronprinz von Schweden</persName> entspricht keineswegs den Hoffnungen,
+                    welche man auf ihn setzte. Einige wollen ihn geradehin des Verrats anklagen. Ich
+                    glaube es nicht, und fürchte eher, dass er die Schwäche so vieler Generale
+                    teilt, welche sich einen Ruf erworben haben und fürchten, ihn zu verlieren. Sie
+                    wagen nichts, und da freilich sticht er gegen die ab, welche alles wagen, um
+                    alles zu gewinnen. Unser Armeekorps zog mit 48.000 Mann zu Felde. Heute sind wir
+                    noch 12.000 stark. So geht es freilich keinem anderen, aber auch keins hat das
+                    geleistet. - Ich fürchte, teure Mutter, dass Sie an mich absenden, denn ich habe
+                    auf mehrere Artikel meiner Briefe von Ihnen keine Antwort erhalten. Ich bitte
+                    Sie daher, die Briefe, welche Sie mir künftig adressieren, zu nummerieren, so
+                    wie ich es tun werde, und fange mit diesem an, damit ich weiß, ob ich nicht
+                    einen verliere. Denn ich bin geizig auf jede Zeile, die ich von Ihnen
+                    erhalte.</p>
+                <p>Ein beinahe noch hartnäckigerer Feind als unsere Gegner mit den Waffen in der
+                    Hand ist die abscheuliche Witterung, gegen die wir zu kämpfen haben, ein ewiger
+                    Regen, Wind, Nebel et tous les frimas quälen uns Tag und Nacht. - Alles währt ja
+                    nur eine Zeit und Gottes Liebe in Ewigkeit, das ist mein Trost. Endlich muss
+                    denn doch auch dieses Leben enden und wir einmal wieder Kantonierungen beziehen,
+                    und sollte es auch erst sein, wenn wir den Erbfeind vom deutschen Boden herunter
+                    haben. Denn dieses Leben hält auf die Länge keiner aus, weder Freund noch Feind.
+                    Der Ruin, die Verheerungen, die Gräuel dieses armen, unglücklichen Landes sind
+                    ein anderer Grund des Kummers für mich. Könnte ich meinen guten Berent, der
+                    immer so klagt, nur eine Viertelstunde dieses Elend sehen lasen, so würde er
+                    getröstet nach Hause gehen! </p>
+                <p>Gott mit Ihnen, meine himmlische Mutter und mit uns allen!</p>
+				        <closer>
+					          <salute>Ihr ewig treuer Sohn</salute>
+					          <signed>Carl</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

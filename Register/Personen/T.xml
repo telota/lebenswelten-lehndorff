@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_e22_nb5_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/118620606</idno>
+                    <persName type="reg">
+                        <surname>de Talleyrand-Périgord</surname>
+                        <forename>Charles-Maurice</forename>
+                    </persName>
+                    <birth>1754</birth>
+                    <death>1838</death>
+                </person>
+                <person xml:id="ed_yqp_bky_ydb">
+                    <idno type="uri">http://d-nb.info/136876161</idno>
+                    <persName type="reg">
+                        <surname>Tarrach</surname>
+                        <forename>FRiedrich Wilhelm </forename>
+                    </persName>
+                    <birth>1718</birth>
+                    <death>1786</death>
+                    <note/>
+                </person>
+                <person xml:id="ed_ics_5yz_scb">
+                    <persName type="reg">
+                        <surname>Tassitzky</surname>
+                        <forename>Herr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1733 Pächter, Pristanien und Stawken </note>
+                </person>
+                <person xml:id="ed_esy_5gc_t2b">
+                    <persName type="reg">
+                        <surname>Taubenheim</surname>
+                        <forename>Helena Dorothea von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Creytzen, von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: Karl Eduard von Taubenheim (gest. 1745), Erbherr auf Grunenfeld
+                        und Gertlack</note>
+                </person>
+                <person xml:id="ed_tmt_z2c_t2b">
+                    <persName type="reg">
+                        <surname>Tauch</surname>
+                        <forename>Fräulein</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Händlerin in Königsberg (1727)</note>
+                </person>
+                <person xml:id="ed_bnj_c3s_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/117247391</idno>
+                    <persName type="reg">
+                        <surname>Tauchnitz</surname>
+                        <forename>Christian Bernhard Baron von</forename>
+                    </persName>
+                    <birth>1860</birth>
+                    <death>1895</death>
+                </person>
+                <person xml:id="ed_djc_yyp_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/117247448</idno>
+                    <persName type="reg">
+                        <surname>Tauentzien</surname>
+                        <forename>Bogislav Friedrich Emanuel Graf von</forename>
+                    </persName>
+                    <birth>1760</birth>
+                    <death>1824</death>
+                </person>
+                <person xml:id="ed_cdr_1zk_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/117250686</idno>
+                    <persName type="reg">
+                        <surname>Tauentzien</surname>
+                        <forename>Friedrich Bogislav von</forename>
+                    </persName>
+                    <birth>1710</birth>
+                    <death>1791</death>
+                </person>
+                <person xml:id="ed_ddm_hvt_gfb">
+                    <persName type="reg">
+                        <surname>Tauscher</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1853 Pfarrer in Zettemin</note>
+                </person>
+                <person xml:id="ed_s4r_2l2_3fb">
+                    <persName type="reg">
+                        <surname>Tecklenburg</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hauptmann (1868)</note>
+                </person>
+                <person xml:id="ed_p5m_qj2_qz">
+                    <persName type="reg">
+                        <surname>Teichert</surname>
+                        <forename>Margarete</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1933 Wirtschafterin des Landstallmeister <persName key="ed_r5w_fpv_ccb"
+                            >Meinhard Graf von Lehndorff</persName> in Potsdam, Neue Königstraße
+                        13a</note>
+                </person>
+                <person xml:id="ed_rvp_z2m_gbb">
+                    <persName type="reg">
+                        <surname>Teschner</surname>
+                        <forename>Ernst Theodor</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1878-1883 Pfarrer in Rosengarten</note>
+                </person>
+                <person xml:id="ed_udb_tmg_ccb">
+                    <idno type="uri">https://d-nb.info/gnd/13344984X</idno>
+                    <persName type="reg">
+                        <surname>Tettau</surname>
+                        <forename>Alfred Freiherr von</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1893</death>
+                </person>
+                <person xml:id="ed_hgp_zrm_ngb">
+                    <persName type="reg">
+                        <surname>Tettau</surname>
+                        <forename>Carl Dietrich von</forename>
+                    </persName>
+                    <birth>1690</birth>
+                    <death>1770</death>
+                    <note>Kapitän im hessen-kasselschen Kriegsdienst, 1720 Verweser der
+                        Amtshauptmannschaft Memel</note>
+                </person>
+                <person xml:id="ed_txx_5fz_g1b">
+                    <idno type="uri">http://d-nb.info/gnd/1028603045</idno>
+                    <persName type="reg">
+                        <surname>Tettau</surname>
+                        <forename>Dietrich von</forename>
+                    </persName>
+                    <birth>1654</birth>
+                    <death>1730</death>
+                </person>
+                <person xml:id="ed_ddw_zdg_xdb">
+                    <persName type="reg">
+                        <surname>Tettau</surname>
+                        <forename>Elise Freiin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schlieben, Gräfin von</name>
+                    </persName>
+                    <birth>1828</birth>
+                    <death/>
+                    <note>Heirat: 1849 Hugo Hermann Freiherr von Tettau (1816-1903)</note>
+                </person>
+                <person xml:id="ed_vfk_4xf_jlb">
+                    <persName type="reg">
+                        <surname>Tettau</surname>
+                        <forename>Emerentia von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Rumohr, von</name>
+                    </persName>
+                    <birth>1650</birth>
+                    <death>1713</death>
+                    <note>Heirat: Julius Ernst von Tettau (1644-1711)</note>
+                </person>
+                <person xml:id="ed_pqy_zsq_rdb">
+                    <persName type="reg">
+                        <surname>Tettau</surname>
+                        <forename>Ernst Dietrich von</forename>
+                    </persName>
+                    <birth>1716</birth>
+                    <death>1766</death>
+                    <note>1730 Studium der Philosophie und Rechtswissenschaften an der Universität
+                        Königsberg; 1736 bis 1740 Reisen durch Deutschland, Frankreich, England;
+                        Mitglied des Tribunals; 1743 Heirat mit Albertine Gräfin von Dönhoff (verst.
+                        1764), Tettau erbte das bedeutende Vermögen; 1751 Mitglied des Hofgerichts;
+                        1753 Kanzler und Präsident, Geheimer Etats- und Kriegsminister.
+                        http://www.vontettau.de/ernst_dietrich_01.html</note>
+                </person>
+                <person xml:id="ed_ahs_ksm_ngb">
+                    <persName type="reg">
+                        <surname>Tettau</surname>
+                        <forename>Georg Dietrich von</forename>
+                    </persName>
+                    <birth>1682</birth>
+                    <death>1738</death>
+                </person>
+                <person xml:id="ed_ezb_5d1_h2b">
+                    <persName type="reg">
+                        <surname>Tettau</surname>
+                        <forename>Johann Otto von</forename>
+                    </persName>
+                    <birth>1836</birth>
+                    <death>1916</death>
+                </person>
+                <person xml:id="ed_ohx_mk1_tcb">
+                    <persName type="reg">
+                        <surname>Tettau</surname>
+                        <forename>Katharina von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Dönhoff, Gräfin von</name>
+                    </persName>
+                    <birth>1669</birth>
+                    <death>1752</death>
+                    <note>Heirat: Oberburggraf <persName key="ed_txx_5fz_g1b">Dietrich von
+                            Tettau</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_f1w_fc1_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/117275875</idno>
+                    <persName type="reg">
+                        <surname>Tettau</surname>
+                        <forename>Wilhelm Johann Albert von</forename>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1894</death>
+                </person>
+                <person xml:id="ed_iz4_mq5_zdb">
+                    <persName type="reg">
+                        <surname>Tettenborn</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kornett 17. Jh. (1941)</note>
+                </person>
+                <person xml:id="ed_p4g_34l_ngb">
+                    <persName type="reg">
+                        <surname>Tettenborn</surname>
+                        <forename>Hans von</forename>
+                    </persName>
+                    <birth>1708</birth>
+                    <death>1799</death>
+                    <note>preußischer Generalleutnant und Chef des Infanterie-Regiments Nr. 11
+                        (Grenadier-Regiment Nr. 3), Regimentschef 1. Oktober 1763 bis 29. Juni 1776,
+                        die Garnisonen lagen 1765–1772 in Rastenburg, Angerburg und
+                        Nordenburg</note>
+                </person>
+                <person xml:id="ed_rrk_33s_d2b">
+                    <persName type="reg">
+                        <surname>Thadden</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1866 Gast in Gastein</note>
+                </person>
+                <person xml:id="ed_ep3_hcq_v2b">
+                    <persName type="reg">
+                        <surname>Thadden</surname>
+                        <forename>General von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Elbing (1773)</note>
+                </person>
+                <person xml:id="ed_uhc_x1j_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/133649377</idno>
+                    <persName type="reg">
+                        <surname>Thadden</surname>
+                        <forename>Gerhard von</forename>
+                    </persName>
+                    <birth>1829</birth>
+                    <death>1873</death>
+                </person>
+                <person xml:id="ed_r3p_n2b_hfb">
+                    <persName type="reg">
+                        <surname>Thadden</surname>
+                        <forename>Reinhold August von</forename>
+                    </persName>
+                    <birth>1825</birth>
+                    <death>1903</death>
+                    <note>Bruder von <persName key="ed_uhc_x1j_d2b">Gerhard von Thadden</persName>
+                        (1858)</note>
+                </person>
+                <person xml:id="ed_tkl_kvp_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/118621513</idno>
+                    <persName type="reg">
+                        <surname>Thaer</surname>
+                        <forename>Albrecht Daniel</forename>
+                    </persName>
+                    <birth>1752</birth>
+                    <death>1828</death>
+                </person>
+                <person xml:id="ed_iwm_j11_2lb">
+                    <idno type="uri">https://d-nb.info/gnd/122269071</idno>
+                    <persName type="reg">
+                        <surname>Therbusch</surname>
+                        <forename>Anna Dorothea</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Lisiewska</name>
+                    </persName>
+                    <birth>1721</birth>
+                    <death>1782</death>
+                </person>
+                <person xml:id="ed_l3z_j25_2z">
+                    <idno type="uri">http://d-nb.info/gnd/129836842</idno>
+                    <persName type="reg">
+                        <surname>Thiele</surname>
+                        <forename>Carl Gottfried von</forename>
+                    </persName>
+                    <birth>1706</birth>
+                    <death>1793</death>
+                </person>
+                <person xml:id="ed_az3_2q5_22b">
+                    <persName type="reg">
+                        <surname>Thiele</surname>
+                        <forename>Fräulein</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hauslehrerin (1871)</note>
+                </person>
+                <person xml:id="ed_pqv_cxz_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/1053156413</idno>
+                    <persName type="reg">
+                        <surname>Thiele</surname>
+                        <forename>Fritz</forename>
+                    </persName>
+                    <birth>1894</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_fbd_zmh_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/118801937</idno>
+                    <persName type="reg">
+                        <surname>Thiers</surname>
+                        <forename>Louis Adolphe</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1877</death>
+                </person>
+                <person xml:id="ed_hyg_xgv_mbb">
+                    <persName type="reg">
+                        <surname>Thiesen</surname>
+                        <forename>Dr. Gottfried</forename>
+                    </persName>
+                    <birth>1705</birth>
+                    <death>nach 1785</death>
+                    <note>1705 Student der Medizin in Königsberg; Reisen durch Deutschland, England,
+                        Holland; 1727 Dr. med.; 1730 extraord. prof.; 1741 Ordinarius Quintus, 1747
+                        O. Quartus</note>
+                </person>
+                <person xml:id="ed_u4b_45j_gz">
+                    <idno type="uri">http://d-nb.info/gnd/117341037</idno>
+                    <persName type="reg">
+                        <surname>Thile</surname>
+                        <forename>Ludwig Gustav von</forename>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1852</death>
+                </person>
+                <person xml:id="ed_qt1_vkw_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/119183501</idno>
+                    <persName type="reg">
+                        <surname>Thimme</surname>
+                        <forename>Friedrich Wilhelm Karl</forename>
+                    </persName>
+                    <birth>1868</birth>
+                    <death>1938</death>
+                    <note/>
+                </person>
+                <person xml:id="ed_t3q_3vp_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/117359602</idno>
+                    <persName type="reg">
+                        <surname>Thulemeyer</surname>
+                        <forename>Friedrich Wilhelm von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Thulemeier</name>
+                    </persName>
+                    <birth>1735</birth>
+                    <death>1811</death>
+                </person>
+                <person xml:id="ed_mqp_c14_j3b">
+                    <persName type="reg">
+                        <surname>Thulke</surname>
+                        <forename>Herrmann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>ab 1854 Pächter von Taberlack</note>
+                </person>
+                <person xml:id="ed_xzz_hgh_scb">
+                    <idno type="uri">https://d-nb.info/gnd/117359661</idno>
+                    <persName type="reg">
+                        <surname>Thulmeyer</surname>
+                        <forename>Wilhelm Heinrich von</forename>
+                    </persName>
+                    <birth>1683</birth>
+                    <death>1740</death>
+                </person>
+                <person xml:id="ed_wdc_zwp_rdb">
+                    <persName type="reg">
+                        <surname>Thynne</surname>
+                        <forename>Charles Chevalier</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1756)</note>
+                </person>
+                <person xml:id="ed_q3p_fb3_tcb">
+                    <persName type="reg">
+                        <surname>Tiedemann</surname>
+                        <forename>Johanna Sophie Caroline von</forename>
+                    </persName>
+                    <birth>1767</birth>
+                    <death>1852</death>
+                    <note>Heirat: 1786 Julius Wilhelm von <persName key="ed_grx_cb3_tcb"
+                            >Ostau</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_tmz_tkg_ldb">
+                    <persName type="reg">
+                        <surname>Tiesenhausen</surname>
+                        <forename>Helene Elisabeth von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: <persName key="ed_jzb_g2k_5cb">Boguslaw von Lehndorff </persName>
+                        (1632-1658)</note>
+                </person>
+                <person xml:id="ed_cpg_3vz_g1b">
+                    <idno type="uri">http://d-nb.info/gnd/118622897</idno>
+                    <persName type="reg">
+                        <surname>Tischbein</surname>
+                        <forename>Johann Heinrich Wilhelm</forename>
+                    </persName>
+                    <birth>1751</birth>
+                    <death>1829</death>
+                </person>
+                <person xml:id="ed_vqv_qp5_vcb">
+                    <persName type="reg">
+                        <surname>Tochtermann</surname>
+                        <forename>Johannes</forename>
+                    </persName>
+                    <birth>1768</birth>
+                    <death>1846</death>
+                    <note>Groß Steinort; Kammerdiener von <persName key="ed_k4z_jgl_2y">Carl
+                            Friedrich Ludwig Graf von Lehndorff</persName>.
+                        http://www.datenbank-nord-masuren.besaweb.de/</note>
+                </person>
+                <person xml:id="ed_dtx_xmx_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/1025874803</idno>
+                    <persName type="reg">
+                        <surname>Todesco</surname>
+                        <forename>Sophie Freiin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Gompertz</name>
+                    </persName>
+                    <birth>1825</birth>
+                    <death>1895</death>
+                </person>
+                <person xml:id="ed_jfv_xkt_whb">
+                    <idno type="uri">https://d-nb.info/gnd/124603718</idno>
+                    <persName type="reg">
+                        <surname>Toeppen</surname>
+                        <forename>Max</forename>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1893</death>
+                </person>
+                <person xml:id="ed_rxb_hpp_vcb">
+                    <persName type="reg">
+                        <surname>Tolstoi</surname>
+                        <forename>Graf </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1813 Oberkammerherr des russischen Kaisers</note>
+                </person>
+                <person xml:id="ed_oxg_x1h_ldb">
+                    <persName type="reg">
+                        <surname>Toulouse-Lautrec</surname>
+                        <forename>Pierre Alexander de</forename>
+                    </persName>
+                    <birth>1769</birth>
+                    <death>ca. 1835</death>
+                    <note>(1810)</note>
+                </person>
+                <person xml:id="ed_yzx_1bk_hlb">
+                    <persName type="reg">
+                        <surname>Toussaint</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1820)</note>
+                </person>
+                <person xml:id="ed_zrv_hzp_f2b">
+                    <persName type="reg">
+                        <surname>Trachenberg</surname>
+                        <forename>Baron von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter von Borken (1874)</note>
+                </person>
+                <person xml:id="ed_cm2_ksv_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/118623761</idno>
+                    <persName type="reg">
+                        <surname>Treitschke</surname>
+                        <forename>Heinrich von</forename>
+                    </persName>
+                    <birth>1834</birth>
+                    <death>1896</death>
+                </person>
+                <person xml:id="ed_oss_x4h_xkb">
+                    <persName type="reg">
+                        <surname>Trenck</surname>
+                        <forename>Friedrich Ludwig von der</forename>
+                    </persName>
+                    <birth>1731</birth>
+                    <death>1797</death>
+                    <note>1749 Gefreitenkorporal im Infanterieregiment „Lehwaldt“, dann als Junker
+                        im Husarenregiment „Ruesch“, 1752 Kornett; nahm während des Siebenjährigen
+                        Krieges an den Schlachten bei Groß-Jägersdorf, Kay und Kunersdorf sowie am
+                        Feldzug in Pommern teil; 1758 Sekondeleutnant, 1760 Premierleutnant, 1762
+                        Stabsrittmeister, 1763 Rittmeister und Eskadronchef, 1773 Major im
+                        Husarenregiment Nr. 5; kämpfte im Bayrischen Erbfolgekrieg, 1778 Orden Pour
+                        le Mérite; 1786 Oberstleutnant, 1788 Oberst, 1788 Kommandeur des
+                        Husarenregiments Nr. 5, 1792 zum Chef des Husarenregiments Nr. 7 in
+                        Schneidemühl; 1793 Generalmajor; kämpfte 1794/95 während des
+                        Kościuszko-Aufstands in Polen; 1796 wurde er Chef des Husarenregiments
+                        „Koehler“; erlitt im Frühjahr 1796 einen Schlaganfall, der seinen linken Fuß
+                        lähmte, und von dem er sich nicht wieder erholte; 1797 Demission und
+                        jährliche Pension von 1.000 Talern; starb am 13. November 1797 in Oletzko.
+                        https://de.wikipedia.org/wiki/Friedrich_Ludwig_von_der_Trenck</note>
+                </person>
+                <person xml:id="ed_fnm_sqw_mbb">
+                    <persName type="reg">
+                        <surname>Trenck</surname>
+                        <forename>von </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1767 Offizier im Kavallerie-Regiment des verst. Prinzen Heinrich (1767,
+                        1784)</note>
+                </person>
+                <person xml:id="ed_rnh_kwg_hy">
+                    <persName type="reg">
+                        <surname>Tresckow</surname>
+                        <forename>Carl Julius von</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1894</death>
+                    <note>preußischer Rittergutsbesitzer und Politiker.
+                        https://de.wikipedia.org/wiki/Julius_von_Treskow</note>
+                </person>
+                <person xml:id="ed_yn5_myh_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/118623834</idno>
+                    <persName type="reg">
+                        <surname>Tresckow</surname>
+                        <forename>Henning von</forename>
+                    </persName>
+                    <birth>1901</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_mmz_n4x_f2b">
+                    <persName type="reg">
+                        <surname>Tresckow</surname>
+                        <forename>Hermann von</forename>
+                    </persName>
+                    <birth>1849</birth>
+                    <death>1933</death>
+                    <note>General der Kavallerie.
+                        https://de.wikipedia.org/wiki/Hermann_von_Tresckow_(General_der_Kavallerie)</note>
+                </person>
+                <person xml:id="ed_csq_v3d_gy">
+                    <idno type="uri">http://d-nb.info/gnd/117414301</idno>
+                    <persName type="reg">
+                        <surname>Tresckow</surname>
+                        <forename>Hermann von</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1900</death>
+                </person>
+                <person xml:id="ed_kvr_kxt_gfb">
+                    <persName type="reg">
+                        <surname>Triat</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>ca. 1853 Hauslehrer in Basedow</note>
+                </person>
+                <person xml:id="ed_ux4_rdx_clb">
+                    <persName type="reg">
+                        <surname>Tribel</surname>
+                        <forename>Elisabeth</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_cnv_4jx_f2b">
+                    <persName type="reg">
+                        <surname>Tribukait</surname>
+                        <forename>Theophil Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1877-1879 Pfarrer in Angerburg</note>
+                </person>
+                <person xml:id="ed_iy2_gv2_n2b">
+                    <persName type="reg">
+                        <surname>Triczewski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Pfarrer in Angerburg</note>
+                </person>
+                <person xml:id="ed_ydq_tkv_mbb">
+                    <persName type="reg">
+                        <surname>Triebel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Besitzer eines Hauses auf dem Roßgarten in Königsberg (1702)</note>
+                </person>
+                <person xml:id="ed_jqq_r2v_mbb">
+                    <persName type="reg">
+                        <surname>Trieczewski</surname>
+                        <forename>J.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1785 Knecht in Steinort</note>
+                </person>
+                <person xml:id="ed_apf_ggs_d2b">
+                    <persName type="reg">
+                        <surname>Trinius</surname>
+                        <forename>Caroline</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Pfarrers TRinius aus Voigtstedt; wirkte für die Innere Mission
+                        (1865)</note>
+                </person>
+                <person xml:id="ed_nh1_xqt_s3b">
+                    <persName type="reg">
+                        <surname>Truchseß zu Waldburg</surname>
+                        <forename>Amalie Gräfin</forename>
+                    </persName>
+                    <birth>1753</birth>
+                    <death>1793</death>
+                    <note>Heirat: <persName key="ed_p44_fqt_s3b">Ludwig Burggraf zu
+                            Dohna-Lauck</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_vgm_ylm_s3b">
+                    <persName type="reg">
+                        <surname>Truchseß zu Waldburg</surname>
+                        <forename>Friedrich Ludwig Graf</forename>
+                    </persName>
+                    <birth>1711</birth>
+                    <death>1777</death>
+                    <note>preußischer Generalmajor, Chef des Dragonerregiments „von Schönaich“ und
+                        Erbherr auf Bestendorf; erwarb 1746 Wundlacken.
+                        https://de.wikipedia.org/wiki/Friedrich_Ludwig_I._Truchseß_von_Waldburg</note>
+                </person>
+                <person xml:id="ed_gkr_d2z_g1b">
+                    <idno type="uri">https://d-nb.info/gnd/12301350X</idno>
+                    <persName type="reg">
+                        <surname>Truchseß zu Waldburg</surname>
+                        <forename>Karl Ludwig </forename>
+                    </persName>
+                    <birth>1685</birth>
+                    <death>1738</death>
+                </person>
+                <person xml:id="ed_kzh_z13_tcb">
+                    <persName type="reg">
+                        <surname>Truchseß zu Waldburg-Capustigall</surname>
+                        <forename>Friedrich Ludwig II. </forename>
+                    </persName>
+                    <birth>1741</birth>
+                    <death>1807</death>
+                    <note>preußischer Major und Kammerherr aus dem Haus Waldburg-Capustigall;
+                        Heirat: 1786 Amalie Pauline Gräfin von <persName key="ed_dxn_bb3_tcb"
+                            >Kalnein</persName>.
+                        https://de.wikipedia.org/wiki/Friedrich_Ludwig_II._Truchseß_zu_Waldburg</note>
+                </person>
+                <person xml:id="ed_ryf_z3g_xdb">
+                    <idno type="uri">https://d-nb.info/gnd/117117587</idno>
+                    <persName type="reg">
+                        <surname>Truchseß zu Waldburg-Capustigall</surname>
+                        <forename>Friedrich Ludwig III. </forename>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1844</death>
+                </person>
+                <person xml:id="ed_e4m_3vt_q2b">
+                    <persName type="reg">
+                        <surname>Turowski</surname>
+                        <forename>Christian Gotthold</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>um 1800 Kaufmann in Königsberg</note>
+                </person>
+                <person xml:id="ed_jkj_gzx_bz">
+                    <persName type="reg">
+                        <surname>Tyrconnell</surname>
+                        <forename>Richard Talbot Lord</forename>
+                    </persName>
+                    <birth/>
+                    <death>1752</death>
+                    <note>1751 Französischer Gesandter</note>
+                </person>
+                <person xml:id="ed_cz1_f3l_ddb">
+                    <persName type="reg">
+                        <surname>Tyrol</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Geheimer Regierungsrat (1851)</note>
+                </person>
+                <person xml:id="ed_isz_vsw_f2b">
+                    <persName type="reg">
+                        <surname>Tyszka</surname>
+                        <forename>Charlotte Marie von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Koskull, von</name>
+                    </persName>
+                    <birth>1836</birth>
+                    <death>1885</death>
+                    <note>Heirat: <persName key="ed_mk5_zrw_f2b">Heinrich von
+                            Tyszka-Ribben</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_gxt_kbv_s3b">
+                    <persName type="reg">
+                        <surname>Tyszka</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1821)</note>
+                </person>
+                <person xml:id="ed_mk5_zrw_f2b">
+                    <persName type="reg">
+                        <surname>Tyszka-Ribben</surname>
+                        <forename>Heinrich von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1885</death>
+                    <note>Major; Heirat: <persName key="ed_isz_vsw_f2b">Charlotte Marie von
+                            Koschkull</persName>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

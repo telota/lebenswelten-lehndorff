@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mk1_2cp_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pauline Gräfin von Dönhoff an Anna Gräfin von Lehndorff. Friedrichstein, 20. November 1862</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mk1_2cp_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 432, Bl. 51-52v</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von Lehndorff
+                        (1823-1889)</persName>
+                    <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName>
+                    <date when="1862-11-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Bl. 53 folgt ein Brief vom 14. Dezember 1862 mit Geburtstagswünschen für Anna.
+                    Sie habe erfahren, dass <quote>
+                  <persName key="ed_zkm_whl_2y">Carl</persName> am
+                        15. an der Spitze einer <ref target="lehndorff_cj4_ghr_bbb">Loyalitätsadressen-Deputation</ref> vor dem Könige erscheinen werde; es
+                        wird dies also wohl auf seiner Rückreise von <placeName key="ed_jxm_5vf_4y">England</placeName> geschehen, und zum 17. kann er dann gerade wieder
+                        in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> sein.</quote> Sie
+                    wisse nicht, ob <persName key="ed_f5w_2fm_2y">Magdalena</persName> mit nach
+                    England gegangen sei, vermute es aber. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://szukajwarchiwach.pl/42/382/0/4/432/str/1/1/10000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Friedrichstein, den 20. November 1862</dateline>
+                    <salute>Meine teuerste Änny!</salute>
+                </opener>
+                <p>
+               <note type="editorial">Sie bedankt sich für einen Brief, den sie über <persName key="ed_nml_dw2_cy">Heinrich</persName> erhielt, sowie für einen
+                        weiteren mit Glückwünschen zum Hochzeitstag.</note>
+            </p>
+                <p>In diesem Jahr der vielfachen Trennungen hatte ich mich schon drauf gefasst
+                    gemacht, auch unseren Hochzeitstag getrennt von meinem guten Mann verleben zu
+                    müssen, da am 16. der Provinzial-Landtag in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> eröffnet wurde, zu dessen Marschall mein <persName key="ed_cgy_xtf_4y">Mann</persName> vom <persName key="ed_lwx_y32_cy">König</persName> ernannt war. Gerade zur rechten Zeit stellte sich aber bei
+                    meinem Mann eine Entzündlichkeit der Augen ein, welchen Anlass er benutzte, um
+                    den Minister von <persName key="ed_lzd_zhr_d2b">Jagow</persName> zu bitten, beim
+                    König dahin zu wirken, dass an seiner Stelle der Vizemarschall, Schwager
+                        <persName key="ed_mx4_p3r_d2b">Eulenburg</persName>, zum Landtagsmarschall
+                    ernannt werden möchte, da mein Mann aus Gesundheitsrücksichten von dem ihm durch
+                    des Königs Gnaden zugedachten Posten zurücktreten müsse. </p>
+                <p>Dieser Schritt hatte den gewünschten Erfolg, Eulenburg macht seine Ernennung
+                    große Freude und mein guter Mann, der keinen Ehrgeiz mehr besitzt, kann in
+                    seiner häuslichen Ruhe ungestört verbleiben, was ihm und mir umso mehr zu
+                    wünschen ist, als er ja schon den größten Teil des Sommers vom Hause entfernt
+                    war, um sich den öffentlichen Angelegenheiten zu widmen. In anderen Provinzen
+                    mag der Landtagsmarschall noch eine schöne und ehrenvolle Stellung sein, in
+                    unserem Landtage aber ist die überwiegende Mehrheit eine so vollständig
+                    demokratische, dass jeder königstreue Aristokrat sich mit <hi rendition="#u">dieser</hi> Gesellschaft schwarz ärgern muss.</p>
+                <p>Eulenburg schreibt: dass er den Antrag auf eine Ergebenheitsadresse an den König
+                    von vornherein unterdrückt habe, um die gehässigen Diskussionen darüber zu
+                    vermeiden, da sie keinesfalls durchgegangen wäre. <gap unit="pages" quantity="1" reason="lost"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

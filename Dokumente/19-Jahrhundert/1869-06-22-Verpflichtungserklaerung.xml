@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_t3b_nm4_j3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verpflichtungserklärung. St. Petersburg 4. Juli/22. Juni 1869</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_t3b_nm4_j3b</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 294, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_qvp_nnz_2y">St. Petersburg</placeName>
+                <date when="1869-07-04" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Als Bevollmächtigter der Ostpreußischen Südbahn-Gesellschaft und im Namen
+                    derselben verpflichte ich mich, dem Herrn <persName key="ed_n4c_rnc_43b">Adolph
+                        Wentzell</persName> zu St. Petersburg, respektive demjenigen, an den dieser
+                    Schein von demselben cediert wird, die Summe von <seg type="comment">
+                  <orig>1.000
+                            R.S.,</orig>
+                  <note xml:id="ntbz_jn4_j3b">geändert aus 5.000
+                        R.S.</note>
+               </seg> zehntausend Rubel Silber, in dem Fall zu zahlen, das bis
+                    zum <seg type="comment">
+                  <orig>31. Dezember </orig>
+                  <note xml:id="nec3_mn4_j3b">geändert aus 15. Oktober</note>
+               </seg> dieses Jahres alten Stils der
+                    Ostpreußischen Südbahn-Gesellschaft die Konzession der Lyck-Brester Bahn erteilt
+                    und Allerhöchst bestätigt wird.</p>
+                <p>Die Auszahlung dieser Summe erfolgt zur Hälfte vier Wochen nach der Allerhöchsten
+                    Bestätigung der Konzession und zur anderen Hälfte bei Beendigung des Baus.
+                    Voraussetzung dabei ist, dass Herr Wentzell bis zum Schluss des Baus für ein
+                    wohlwollendes und gefälliges Verhalten der Presse und gerechte und kulante
+                    Behandlung der Konzessionäre seitens aller bei dem Bau beteiligten und
+                    beschäftigten Personen sorgen wird.</p>
+                <p>St. Petersburg den 4. Juli/22. Juni 1868</p>
+                <p>Der Bevollmächtigte des Verwaltungsrats der Ostpreußischen Südbahn</p>
+                <p>[Siegel] Graf Lehndorff</p>
+                <p>Den Termin der Gültigkeit vorstehenden Verpflichtungsscheins verlängere ich bis
+                    zum 15. Dezember 1869. </p>
+                <p>St. Petersburg den 26./14. Juli 1869</p>
+                <p>G. v. Lehndorff</p>
+            </div>
+        </body>
+    </text>
+</TEI>

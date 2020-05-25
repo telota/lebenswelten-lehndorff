@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_l1r_xjv_qhb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verhandlungsprotokoll. Königsberg, 11. September 1816</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_l1r_xjv_qhb</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 130, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                <date when="1816-09-11" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <note type="editorial">Verhandlungsprotokoll des <orgName key="ed_fw4_kdc_rhb">Königsberger Stadtgerichts</orgName>, </note>verhandelt in der Wohnung
+                    der Frau Landhofmeisterin <persName key="ed_gnc_c1m_2y">Gräfin von
+                        Lehndorff</persName> den 11. September 1816. </p>
+                <p>
+               <note type="editorial">In einem Termin in loco war eruiert worden, welche Gründe
+                        in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> der Gräfin von
+                        Lehndorff gehören. Nach den Aussagen von <persName key="ed_abj_ndc_rhb">Maria Elisabeth Borowsky</persName> und <persName key="ed_qvk_pdc_rhb">Samuel Heinrich Schmidt</persName>
+                  <note type="editorial">, Kommerzien-
+                            und Admiralitätsrat und seit 1791 Mandatarius des Grafen Lehndorff,
+                        </note>
+               </note>
+               <note type="editorial">stellte das Stadtgericht am 11.
+                        September 1816 fest:</note> „1. das große Wohnhaus auf dem Roßgartenschen
+                    Markt, welches die alte No. 41 führt, ist jetzt mit der neuen No. 5 bezeichnet;
+                    2. das Grundstück No. 43, welches jetzt Kaufmann <persName key="ed_itv_gkr_v2b">
+                  <persName key="ed_itv_gkr_v2b">Siericke</persName>
+               </persName> bewohnt,
+                    ist jetzt mit der neuen No. 6 bezeichnet; 3. das Grundstück in der
+                    Roßgartenschen Hintergasse nach der alten No. 39, welches nach der Aussage der
+                        <persName key="ed_abj_ndc_rhb">Borowsky</persName> wirklich dasjenige ist,
+                        <ref target="lehndorff_qmr_zg1_r2b">welches von dem p. <persName key="ed_rr4_fzl_3gb">Romminger</persName> erkauft ist</ref>, führt die
+                    neue Nr. 12 und sind an diesem Hause beide Nummern, sowohl die alte als neue,
+                    angeheftet, so dass über die Identität kein Zweifel stattfindet; 4. die No. 40
+                    nach der alten Numeration ist das Gebäude, welches nach der Aussage der Witwe
+                        <persName key="ed_abj_ndc_rhb">Borowsky</persName> vom 12. Juli 1812 jetzt
+                    vor ohngefähr 20 Jahren abgebrochen ist und ist der leere Platz zu dem Hof des
+                    großen Wohnhaus gezogen. Auch diese Angabe findet sich dort völlig bestätigt,
+                    denn auf der Stelle, wo das Gebäude gestanden, welchen die Witwe Borowsky
+                    angezeigt, findet sich jetzt in der Hintergasse ein Zaun, woran die neue Nr. 13
+                    befindlich ist, mithin ist es außer allen Zweifel, dass dieser leere Platz das
+                    ehemalige Gebäude No. 40 gewesen.“ <note type="editorial">Wegen des
+                        Rommingerschen Hauses in der Hinterstraße sei eine nochmalige Erklärung
+                        erforderlich, dass nach der <seg type="comment">
+                     <orig>Abtretungsurkunde der
+                                Erben vom 11. Mai 1812</orig>
+                     <note xml:id="nwlh_g2c_rhb">Siehe das
+                                Dokument vom <ref target="lehndorff_z4z_4bf_nfb">5. Mai
+                                1812</ref>.</note>
+                  </seg> der Witwe sämtliche Königsberger
+                        Grundstücke, die zum Nachlass gehörten, überlassen worden seien.</note>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

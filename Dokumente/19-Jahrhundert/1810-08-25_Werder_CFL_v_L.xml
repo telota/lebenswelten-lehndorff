@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_nj2_jb2_p3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Wilhelm von Werder an Carl Friedrich Ludwig Graf von Lehndorff.
+                    Rogäsen, 25. August 1810</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_nj2_jb2_p3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 863, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_vt4_rl4_s3b">Werder, (-)</persName>
+                    <placeName key="ed_lrc_5l4_s3b">Rogäsen</placeName>
+                    <date when="1810-08-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rogäsen bei Brandenburg a. d. Havel, den 25. August 1810</dateline>
+					          <salute>Mein bester Graf!</salute>
+                </opener>
+				        <p>Fest entschlossen, meine väterlichen Provinzen, und hätte sich irgend die Möglichkeit zu
+                    einem Handel mit meinem Bruder herausfinden lassen, doch nicht die väterlichen
+                    Güter zu verlassen, konnte ich nie glauben, dass Ihr mir jetzt so lieber
+                    Vorschlag, Ihnen in Preußen eines ihrer Güter abzupachten, noch von mir als
+                    freudevolle Ressource würde ergriffen werden. Sie geliebter Major, kennen mich
+                    sehr lange, schon früher, ehe ich die Ehre genoss, einige Jahre unter Ihnen zu
+                    dienen; Sie wissen, was ich in Ihrer väterlichen Provinz verlor - ich verachtete
+                    damals die ausgesprengten Neuigkeiten niederer neidischer Seelen und wollte
+                    nichts mehr gewinnen, wo mir alles verloren ging. Diese Leiden gaben mir eine
+                    solche Bitterkeit gegen Preußen, dass ich es noch vor einem halben Jahr für
+                    unmöglich hielt, zu ergreifen, was Sie mir in <placeName key="ed_xrv_gwb_by">Berlin</placeName> vorgeschlagen - ein Gut von Ihnen zu pachten und auf
+                    diesem, wie auf denen anderen, Ihnen durch den Austausch unserer Ideen zu
+                    Einführung des Fruchtwechsel-Systems behilflich zu sein - ich zog es vor, auf
+                    dem Gute meines gastfreundlichen Bruders zu bleiben und durch Einrichtung der
+                    hiesigen Wirtschaft nach meinen Grundsätzen seine liebevolle Aufnahme zu
+                    vergelten, bis mir die Zeiten es zuließen, selbst etwas zu kaufen oder zu
+                    pachten.</p>
+                <p>Doch die mich ewig neckende Neigung zum sogenannten schönen Geschlecht hörte
+                    nicht auf, mich zu foppen, <seg type="comment">
+                  <orig>und so wurde ich der
+                            Beschwängerer eines ihrem Range nach honetten Mädchens; gern habe ich
+                            ihr die Tragung meines Namens zugestanden,</orig>
+                  <note xml:id="nw5x_lm4_s3b">Henriette Schöndorfer</note>
+               </seg> doch mir ist
+                    seit der Zeit die sonst liebe Gegend verhasst, mit unwiderstehlicher Gewalt
+                    drängt mich mein Inneres nach jener, wo ich so unschuldsvoll reine Freuden
+                    genoss.</p>
+                <p>Wie aber könnte ich dies besser erfüllen, wie gütiger aufgenommen, wo mehr meinen
+                    Wunsch erreichen, nützlich zu werden, als wenn ich Sie an den vielleicht längst
+                    vergessenen Plan erinnere und bei Ihnen anfrage, wie jetzt Ihre Meinung über
+                    unsere Wirtschaftsart, wie die über meine ökonomische Person und über jenen Plan
+                    ist?</p>
+                <p>Sollten Sie, wie ich hoffe, noch in Berlin sein, so werde ich Sie bald sprechen,
+                    da ich binnen 8 Tagen hinkomme und Sie dann in jedem Fall aufsuche; wären Sie in
+                        <placeName key="ed_lpt_52g_hy">Möglin</placeName>, so ersuche ich Sie, wenn
+                    Sie meinen Vorschlag nicht annehmen, <persName key="ed_tkl_kvp_vcb">Thaer</persName> nichts davon zu sagen, da ich in dieser unglücklichen Zeit
+                    schon mehrere Pläne mit ihm beraten und ein alter abstrakter Gelehrter sich
+                    nicht so in das peinliche meiner Lage zu setzen vermag, und ich von ihm - der
+                    stets so sehr gütig für mich war - nicht gern für einen Projektemacher gehalten
+                    sein möchte. Sind Sie aber in Preußen, so ersuche ich Sie, Ihre gütige Antwort
+                    hierher zu adressieren und mir einiges über die Art und den Ort wie und wo mein
+                    gemeinnütziger Plan auszuführen ist, gütigst zu schreiben.</p>
+                <p>Mein Herz ist zu voll, um jetzt noch viele Worte zu machen, besonders, da ich nur
+                    wünsche, dass die Sache sich und nicht jene sie empfiehlt - ich warte daher
+                    ruhig Ihre gütige Antwort ab und bin mit den besten Wünschen für Ihr Wohl und
+                    der vorzüglichsten Hochachtung, mein bester Major,</p>
+				        <closer>
+					          <salute>Ihr gehorsamster Freund und Diener</salute>
+					          <signed>Werder <lb/>Rittmeister der Armee</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

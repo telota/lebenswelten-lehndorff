@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_kp3_r4c_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Pauline Gräfin von Dönhoff. Steinort, 1. Juli 1811</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_kp3_r4c_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 255 f. </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1811-07-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von, geb. Gräfin von
+                        Lehndorff (1823-1889)</persName>
+                </correspAction>
+                <note>Das Unglück des Dorfes <placeName key="ed_xpm_112_gy">Labab</placeName>
+                    veranlasste Lehndorff, <quote>die sämtlichen Bauernwirtschaften an sich zu
+                        bringen, und die einzelnen Wirte angemessen zu entschädigen</quote>; dadurch
+                    wurde Labab sein Eigentum und später Bestandteil des Fideikommisses <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, vgl. ebd., S. 257.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 1. Juli 1811</dateline>
+					          <salute>
+                  <gap reason="insignificant"/>
+               </salute>
+                </opener>
+				        <p>ich war gerade auf der Brandstätte des in Flammen stehenden Dorfes <placeName key="ed_xpm_112_gy">Labab</placeName>, welches leider fast ganz ein Raub des
+                    verheerenden Blitzes geworden, und suchte durch Trost und Versprechung die
+                    Tränen der Verunglückten zu stillen <gap reason="insignificant"/>. </p>
+                <p>Die dürren und zusammengedrängten hölzernen Häuser entzündeten sich so rasch,
+                    dass es den erschrockenen Einwohnern gänzlich unmöglich ward, auch nur das
+                    Allergeringste von ihrer Habe zu retten, und 10 Familien mit einer großen Menge
+                    Kinder haben nichts erhalten als das, was sie gerade auf dem Leib hatten. Auch
+                    einiges Vieh und mehrere Pferde, welche gerade zu Hause waren, sind verbrannt.
+                    Doch ist der größte Teil desselben gerettet, da es auf der Weide war. Manche
+                    Zufälle, an denen es bei einer solchen unglücklichen Gelegenheit nie fehlt,
+                    konkurrieren noch, um den Schaden zu vergrößern. Die mehrsten Wirte waren der
+                    Heuernte wegen noch im Felde nebst ihren Knechten und Weibern. Was nicht zur
+                    Arbeit taugte, eben daher aber auch gar keines Entschlusses oder Hilfe fähig
+                    war, hütete zu Hause die Kinder. Die bevorstehende schlechte Ernte hatte die
+                    Leute bewogen, so viel Getreide zu ersparen und (nächst dem Argument der
+                    schlechten Preise) so viel als möglich zu künftigem Jahre zu verwahren, so dass
+                    über 300 Scheffel Getreide mit verbrannten. Die durch die Dürre schlecht
+                    gewordene Weide hatte die Leute bewogen, ihr Jungvieh im Stall zu füttern, da
+                    sie vom vorigen herrlichen Jahre noch Futter übrig hatten, und so ist manches
+                    umgekommen, was vielleicht unter anderen Umständen hätte gerettet werden können.
+                        <gap reason="insignificant"/> Es sind zusammen 16 Gebäude aller Art
+                    vernichtet, und es gereicht mir zum Troste, ohne Egoismus mir selbst sagen zu
+                    können, dass ich und <persName key="ed_yx5_cbg_nbb">Berent</persName> die
+                    übrigen und das Vorwerk gerettet haben. Denn denke Dir, dass, als wir kaum 15
+                    Minuten nach ausgebrochenem Brande hingeeilt kamen, alles dem Brande zusah, der
+                    im Begriff war, auch die vor dem Winde gelegenen Häuser anzugreifen, ohne retten
+                    zu wollen, weil sie behaupteten, dass Feuer, von Gott gesandt, niemand retten
+                    dürfe! </p>
+                <p>Ich weiß nicht, ob ich nicht lieber das sehr baufällige und jetzt leere Vorwerk
+                    verloren hätte, welches doch in wenigen Jahren ausgebaut werden muss und
+                    höchsten aus 5-6 Gebäuden besteht, als diese Bauern-Etablissements. Es hätte die
+                    Wirtschaft, welche hier so sehr auf Bauerndienste berechnet ist, weniger
+                    derangiert. <gap reason="insignificant"/> Es hört sich so leicht an, wenn man
+                    sagt: „Es ist ein Bauerndorf abgebrannt!‟ Alle Fatalitäten und Umstände, welche
+                    ein solcher Unfall mit sich bringt, fühlt eben nur der, welchem es geschieht.
+                    Noch habe ich keinen rechten Beschluss gefasst, wo ich die Menge Menschen mit
+                    allen Kindern und Dienstleuten, jetzt ohne Brot und Bekleidung, unterbringe. Ich
+                    werde mein Ross besteigen und Anstalten treffen.</p>
+                <p>Deine Berliner Nachrichten, meine Pauline, sind sehr wichtig und interessant. Ich
+                    hoffe, dass die Märker mehr Blut in den Adern haben werden, als die Preußen.
+                    Künftig mehr darüber. <gap reason="insignificant"/>
+            </p>
+				        <closer>
+					          <salute>Dein treuer Bruder</salute>
+					          <signed>Carl</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

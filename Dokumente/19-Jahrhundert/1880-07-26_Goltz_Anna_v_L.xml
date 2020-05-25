@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_q2v_wfn_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antonie Freifrau von der Goltz an Anna Gräfin von Lehndorff. Kallen, 26. Juli
+                    1880</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_q2v_wfn_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 487, Bl. 12</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_tb2_tht_g2b">Goltz, Antonie Eleonore Caroline Julie von der
+                        Goltz, geb. von der Goltz (1834-1912)</persName>
+                    <placeName key="ed_rjy_23t_g2b">Kallen</placeName>
+                    <date when="1880-07-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Zuvor hatte sie von <persName key="ed_wms_mh2_cy">Anna von
+                        Lehndorff</persName> Missionsbücher erhalten, vgl. das Schreiben vom 14.
+                    August 1878 in der Akte. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/487/str/1/1/10#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Kallen, den 26. Juli 1880</dateline>
+					          <salute>Geehrte Frau Gräfin!</salute>
+                </opener>
+				        <p>Ihr freundliches Schreiben habe ich erhalten und bin durch dasselbe tief beschämt, denn ich
+                    muss gestehen, dass ich vor einigen Wochen bereits eine Aufforderung erhalten,
+                    aber durch die weiteren Ereignisse in der Familie so in Anspruch genommen war,
+                    dass ich bis jetzt noch nichts habe unternehmen können, und Ihnen, meine liebe
+                    Frau Gräfin, gern gleich ein Resultat mitgeteilt hätte.</p>
+                <p>Im Ganzen findet man wenig Verständnis für die <orgName key="ed_bnt_4lz_ny">Mission</orgName>, gleichfalls für das <orgName key="ed_w32_txd_py">Magdalenenstift</orgName>, und ich bin ein sehr schwaches, unbeholfenes
+                    Werkzeug, doch will ich unter Ihrer Leitung, meine liebe Gräfin, versuchen, auch
+                    etwas für die gute Sache zu erzielen, deren segensreiches Wirken nicht
+                    abzuleugnen ist.</p>
+                <p>Von bürgerlichen geeigneten Persönlichkeiten weiß ich vorläufig nur eine: Herr
+                        <persName key="ed_urv_43t_g2b">Negeborn</persName> auf <gap reason="illegible"/> bei <placeName key="ed_x12_zb4_xdb">Pillau</placeName>
+                    oder besser <gap reason="illegible"/> ist ein aufrichtig konservativer Mann,
+                    Mitglied der Provinzial-Synode, und glaube ich wohl, dass derselbe durch Ihre
+                    Aufforderung veranlasst - da Sie, meine liebe Gräfin viel wärmer und
+                    verständnisvoller für die Sache sprechen können - ein tätiges Mitglied werden
+                    könnte. </p>
+                <p>Für Ihren freundlichen Glückwunsch meinen herzlichen Dank. Mein <persName key="ed_pt3_bjt_g2b">Mann</persName>, welcher mir seine Empfehlung an Sie
+                    und Ihren lieben <persName key="ed_zkm_whl_2y">Mann</persName> aufgetragen, ist
+                    augenblicklich nicht zu Hause, er ist zur Konsultation eines Arztes nach
+                        <placeName key="ed_wms_sgc_gy">Hannover</placeName> gefahren und begibt sich
+                    von dort nach dem von demselben geratenen Kurort.</p>
+                <p>Nochmals mit der Bitte, mir wegen meiner verspäteten Antwort nicht zu zürnen, und
+                    mit den besten Empfehlungen für Sie, meine liebe Gräfin, und Ihr Haus, bleibe
+                    ich in aufrichtiger Verehrung</p>
+				        <closer>
+					          <salute>Ihre Sie sehr schätzende</salute>
+					          <signed>Antonie v. d. Goltz <lb/>geb. v. d. Goltz</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

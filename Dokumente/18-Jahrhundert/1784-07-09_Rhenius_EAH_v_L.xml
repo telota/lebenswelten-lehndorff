@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_wdk_bvq_w1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Rhenius an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 9. Juli 1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_wdk_bvq_w1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 380, Bl. 3-5v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bpl_fsj_gy">Rhenius, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1784-07-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Spätestens seit Lehndorffs Abwesenheit in Berlin im Mai 1784 wurde <placeName key="ed_pxt_cnh_1y">Steinort</placeName> durch Rhenius verwaltet. Weitere
+                    Briefe von Rhenius aus dem Jahr 1784 ebd., Nr. 380. Mehrfach kommt er hier auf
+                    den „Fall <persName key="ed_hm2_g3t_ncb">Strugull</persName>‟ zu sprechen,
+                    ebenso auf das Entlaufen von Gutsuntertanen, z. B. von zwei Knechte aus den
+                        <placeName key="ed_enz_4vz_g1b">Landkeimschen</placeName> Gütern, die in den
+                        <placeName key="ed_ijp_zjc_gy">Schlobittenschen</placeName> Gütern
+                    aufgegriffen worden waren, Bl. 45-46 (14. August 1784). Akten zu Untersuchungen
+                    gegen acht Untertanen <quote>wegen Komplott und attestierter Entweichung</quote>
+                    für 1772 in: APO, Bestand 382 FA Lehndorff, Nr. 548.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 9. Juli 1784</dateline>
+					          <salute>Hochwürdiger und Hochgeborener Reichsgraf <lb/>Gnädigster Graf!</salute>
+                </opener>
+				        <p>Ew. Hochgeboren habe zwar nichts Wichtiges zu melden, auf meinen letzten Brief ist auch noch
+                    kein gnädiges Rückschreiben angekommen. Da aber Hochdieselben mir gnädigst
+                    aufzugeben geruht, alle 14 Tage zu schreiben, so habe dieses hiermit ganz
+                    gehorsamst befolgen wollen. </p>
+            <p>
+               <note type="editorial">Er berichtet über die Auswirkungen der Witterung auf die Landwirtschaft.
+                        Wie bereits im Brief vom 18. Juni schreibt er über den Brunnen und vermutet,
+                        der Graf werde <note type="editorial">
+                     <note type="editorial">
+                        <quote>den
+                                    reichlichen Vorrat dieses schönen Wassers zur Brau- und
+                                    Brennerei benutzen lassen <gap reason="insignificant"/>, welches
+                                    mit einigen Kosten wohl einzurichten ist</quote>
+                     </note>
+                  </note>,
+                        jedoch müsse der Brunnen wegen Baufälligkeit im Herbst <quote>von Grund auf
+                            neu gemacht werden</quote>. - Er muss dem Grafen über entlaufene Knechte
+                        und Mägde aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und
+                            <placeName key="ed_nkz_b12_gy">Stawken</placeName> berichten. Damit es
+                        nicht zu weiteren Fällen käme, habe er <quote>14 sichere Leute</quote>
+                        ausgeschickt, die sie auf den Landstraßen verfolgten und zurückzubringen
+                        hatten. Einen Knecht und eine Magd, die bereits mehrfach desertiert seien,
+                        habe er <quote>in Eisen gelegt</quote>, einen anderen Knecht habe er
+                            <quote>beim Maurer als Handlanger verdungen, um durch dessen Tagelohn
+                            die Kosten zu ersetzen, die durch das Nachsetzen dieses mutwilligen
+                            Deserteurs anstehend sind</quote>. Wenn alle, die sich mit ähnlichen
+                        Pläne tragen, sehen, <quote>dass ich alle Deserteure wieder zurückbekommen
+                            habe, werden sie von ihrem Vorhaben wohl abstehen</quote>. Es sei für
+                        ihn sehr kränkend, da die <quote>hiesigen Leute jetzt ganz väterlich
+                            behandelt werden und doch so sehr undankbar sind</quote>. Die
+                        Kreis-Justiz-Kommission habe ihn aufgefordert, die Leute nach <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> zum Verhör zu bringen. Er
+                        werde bei Ablieferung der Leinwand versuchen, die Angelegenheit mündlich zu
+                        klären, doch müsse man mit <quote>Herr <persName key="ed_r3s_ymw_mbb">Glave</persName>, der das ganze dirigiert, <gap reason="insignificant"/> sehr behutsam</quote> umgehen. - Nach einem
+                        Schreiben des Grafen, dass ihm während der Abfassung des Briefes zugeht, ist
+                        der <placeName key="ed_h35_jqh_my">Drengfurther</placeName> Richter bestellt
+                        und wird sich der Angelegenheit annehmen. - Bei der Kirchenvisitation sei
+                        mit dem Probst verabredet worden, dass der Rektor <seg type="comment">
+                     <orig>
+                        <persName key="ed_hm2_g3t_ncb">Strugull</persName>
+                     </orig>
+                     <note xml:id="nrlr_qg4_cbb">Strugull
+                                hatte in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> ein
+                                Mädchen geschwängert, vgl. LASA, StA L, Bestand 21950 FA Lehndorff,
+                                Nr. 380 (Ostpreußisches Konsistorium an Lehndorff, Königsberg, 21.
+                                September 1784; Rhenius an Lehndorff, 29. September 1784). An die
+                                Verfügung des Konsistoriums hielt sich Strugull nicht und war noch
+                                im November im Amt. Bei einer gerichtlichen Untersuchung des neuen
+                                Justitiars <persName key="ed_sgc_2wf_2y">Leitner</persName> in
+                                    <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> stellten
+                                sich weitere Amtsverfehlungen heraus, auch hatte Strugull zahlreiche
+                                Schulden. Ihm wurde der Dienst untersagt und er wurde verpflichtet,
+                                bis zum 3. Dezember die Schulwohnung zu räumen. Den Unterricht
+                                übernahm der Pfarrer in Rosengarten, vgl. ebd., Nr. 380, Bl.
+                                128-131v (Rhenius an Lehndorff, 26. November 1784). </note>
+                  </seg>
+                        entlassen werde und binnen drei Wochen aus dem Amt scheide.</note>
+                </p>
+                <p>Übrigens befindet sich alles wohl und empfiehlt sich zu Gnaden. Ich aber ersterbe
+                    in tiefster Treue </p>
+				        <closer>
+					          <salute>Ew. Hochgeboren untertänigster Diener</salute>
+					          <signed>Rhenius</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

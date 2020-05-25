@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zvv_ssg_gcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Verwalter Schröder.
+                    Böchingen, 30. November 1793</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zvv_ssg_gcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 54 ff.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Carl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_ads_ctg_gcb">Böchingen</placeName>
+                    <date when="1793-11-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_vhq_1tg_gcb">Schröder, (-)</persName>
+                </correspAction>
+                <note>Nach dem Brief vom 21. Juni 1794, ebd., S. 63 f., war die Einlösung der Sachen
+                    gelungen, aber das Geld nicht an Lehndorff gelangt. Zum Kriegsverlauf schreibt
+                    er: <quote>Für <placeName key="ed_uvt_4j4_dz">Preußen</placeName> ist
+                        hoffentlich wohl nichts zu fürchten, denn in <placeName key="ed_f5m_fxv_mbb">Polen</placeName> geht ja alles gut.</quote> - Erst am 11. Juni 1795,
+                    nach fast 2 1/2 jähriger Abwesenheit, rückte Lehndorffs Bataillon wieder in
+                    seine Garnison <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> ein. - Vgl.
+                    auch GStA PK, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 731: Briefe der
+                    Charlotte Sophie <persName key="ed_n5g_bzj_tcb">Schröder</persName>, geb. Pfundt
+                    in <placeName key="ed_xrv_gwb_by">Berlin</placeName> an denselben wegen
+                    Verwaltung des Lehndorffschen Hausbesitzes in Berlin (1793) und Nr. 890 und 891:
+                    Briefe an Carl Friedrich Ludwig von Lehndorff aus dessen Militärzeit
+                    (1792-1794). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Kantonierung zu Böchingen, den 30. Nov. 93</dateline>
+					          <salute>Mein lieber Schröder!</salute>
+                </opener>
+				        <p>Endlich haben wir einmal unsere Kantonierung bezogen und das abscheuliche Lager verlassen.
+                    Obgleich wir uns nicht sehr verbessert haben, indem wir vier und fünf Offiziere
+                    in der Stube liegen, so ist doch ein merklicher Unterschied unter einem nassen,
+                    fast verfaulten Zelt zu liegen und nie einen trockenen Faden auf dem Leib zu
+                    haben und jetzt doch wenigstens, unter Dach und Fach zu sein.</p>
+                <p>Ich benutze die Gelegenheit, <seg type="comment">
+                  <orig>mein lieber
+                            Schröder</orig>
+                  <note xml:id="nd4q_scx_qkb">Schröder war der Verwalter
+                            des Lehndorffschen Hauses in <placeName key="ed_xrv_gwb_by">Berlin</placeName>.</note>
+               </seg>, um Ihnen zu schreiben, denn bis
+                    jetzt ist es mir fast unmöglich gewesen, eine Feder anzusetzen. Wir haben seit 2
+                    1/2 Monaten ein Leben geführt, welches ich meinem Feinde nicht wünschen mag.
+                    Vorzüglich sind mir die letzten drei Wochen sehr sauer geworden. Die Schwäche
+                    des Belagerungskorps, die ewige Besorgnis, in der wir eines Ausfalls wegen
+                    standen, und das Bombardement der Festung nötigte uns fast unaufhörlich, unter
+                    dem Gewehr zu stehen, welches die raue und nasse Witterung um desto unangenehmer
+                    machte. Der Dienst war sehr schwer, und hatte man auch einmal das Glück, von
+                    einer durchwachten Nacht gegen Morgen ins Zelt zu kommen, so war da auch nicht
+                    viel Trost zu finden. Entweder hatte der Wind das Zelt angegriffen und musste
+                    ein halber Tag gearbeitet werden, ehe man es wieder in Stand setzen konnte, und
+                    kaum war man fertig, so entstand oft ein Platzregen, der von denen ungeheuren
+                    Bergen, die uns von allen Seiten umgeben, mit so einer Wucht herunterkam, dass
+                    er sich schließlich einen Weg ins Zelt machte, und nun musste man aus dem
+                    halbnassen Bette raus und stand bis an die Knie im Wasser, und dann ging die
+                    Arbeit von neuem wieder los, um unser armes kleines durchsichtiges Haus wieder
+                    etwas in Stand zu setzen. Wer mir aber jetzt wieder von der Glückseligkeit des
+                    Soldatenstandes etwas sagt, dem will ich auch gerade ins Gesicht sagen, dass er
+                    nicht weiß, was er spricht, und ich versichere Euch, Ihr Leute zu Hause, dass
+                    Ihr alle von dem Wert eines guten Soldaten gar keinen Begriff habt. So ist es
+                    uns Offizieren gegangen; nun können Sie sich denken, was der arme gemeine Mann
+                    ausgestanden hat. Unser vortrefflicher guter <persName key="ed_tl1_nbf_4y">Kronprinz</persName>, der das Blockadekorps kommandiert, hat alle unsere
+                    Mühseligkeiten mit uns geteilt und so manche Nacht mit uns gewacht. Prinz
+                        <persName key="ed_mw2_lgm_cz">Louis</persName> wäre vor 14 Tagen beinahe
+                    verbrannt; er konnte es im Zelt nicht mehr aushalten und ließ sich eine Hütte in
+                    die Erde graben und mit Stroh bedecken. Von dem beständigen Feuer, das er
+                    brannte, geriet das Ding einmal des Nachts in Flammen, und er konnte sich nur
+                    mit geraumer Not retten. Alle seine Sachen verbrannten aber, und er hat sich den
+                    anderen Tag einen Rock vom <persName key="ed_tl1_nbf_4y">Kronprinz</persName>
+                    leihen müssen.</p>
+                <p>Nun mein lieber Schröder, müssen wir etwas von Affairen sprechen, die ich seit
+                    zwei Monaten auch ganz aus den Augen gesetzt habe. Wenn ich von unseren
+                    Mühseligkeiten spreche, bin ich immer länger, als ich will, denn es ist eine Art
+                    von Trost, wenn man es jemandem erzählen kann, der Anteil daran nimmt. Ich habe
+                    Ihnen schon in meinem vorigen Briefe, glaube ich, von den bei meiner Abreise
+                    versetzten Meubles gesprochen. Das Jahr des Kontrakts ist nun bald verflossen,
+                    und die Hauptsache ist, sie wieder einzulösen. Zu dem Ende, lieber Schröder,
+                    müssen Sie mir behilflich sein, und nun hören Sie mich recht an, wie wir dies
+                    machen wollen, denn wenn wir länger warten, ist der infame Jude im Stande, die
+                    Sachen zu verkaufen. Ich habe mich vorgenommen, mein überschlagenes Geld von
+                    diesem Jahre, welches ich erspart habe, weil wir seit der Kampagne keine
+                    gestickten Röcke zu tragen brauchen, dazu anzuwenden. Dieses besteht, da ich es
+                    mit allem, was wir bekommen, überschlage, aus 163 Rtlr. Deshalb schicke ich
+                    Ihnen dabei eine Assignation an <persName key="ed_hyp_sxj_tcb">Mendel</persName>, der Ihnen das Geld drauf geben wird. Doch aber bitte Sie,
+                    ihm dieselbe nicht eher in die Hände zu geben, bis er das Geld ausgezahlt; denn
+                    einem Juden ist nie zu trauen, und er würde sicher etwas abrechnen wollen. -
+                    Hierbei ist noch ein Brief an den jungen <persName key="ed_mq2_wxj_tcb">Alvensleben</persName> von den Gens d'armes, von dem ich 6 Louis d'or
+                    bekomme. Ich hoffe wohl, dass er sie Ihnen drauf geben wird. Dies alles beträgt
+                    195 Rtlr. - 50 Louis d'or habe ich auf die Sachen genommen und 10 Louis d'or bin
+                    ich dem Juden noch aus Anderem schuldig. Wenn Sie ihm nun vors erste die 195
+                    Rtlr. geben und ihm dabei ernstlich anreden, so kann und muss er die Sachen
+                    dafür wieder rausgeben, vorzüglich, da er bei der Auszahlung der 50 Louis d'or
+                    sich wohl vorgesehen hat, und seine guten Interessen sich vorbehalten, worauf
+                    also jetzt nichts mehr zu bezahlen. Im März oder April ist auch das Scherfengeld
+                    fällig. Dieses beträgt 40 Rtlr., und die will ich ihm auch geben; das können Sie
+                    ihm versprechen. Denn ich kann allenfalls auch mit der <seg type="comment">
+                  <orig>Scherfe</orig>
+                  <note xml:id="nhdj_wzg_gcb">Schärpe</note>
+               </seg>
+                    überschlagen, da ich noch zwei Scherfen habe, und sie gut sind, besser als
+                    irgend eine im Bataillon. Mit dem Übrigen muss der Mensch warten und kann es
+                    auch, denn ich werde ihn gewiss ehrlich bezahlen. Nun, bester Schröder, machen
+                    Sie nur, dass ich erst die Sachen wiederhabe; die liegen mir sehr am Herzten.
+                    Über alle diese Punkte erbitte ich mich sobald als möglich recht genau und gute
+                    Nachricht. <seg type="comment">
+                  <orig>Die Spezifikation der versetzten Sachen
+                            werden Sie, bester Schröder, hierbei finden.</orig>
+                  <note xml:id="nfkp_k3l_w2b">Liegt dem Brief nicht bei.</note>
+               </seg> Ehe Sie
+                    sie aber dem Juden zeigen, lassen sie sich erst die, welche er von mir in den
+                    Händen hat, geben. Sie ist von meiner Hand geschrieben und untersiegelt, damit
+                    der Mensch uns nicht etwa anführt, im Fall ich etwas in der hierbei angeführten
+                    vergessen hätte.</p>
+                <p>Nun, mein bester Schröder, bitte ich Sie noch, mir, wenn Sie mir antworten
+                    werden, recht viel anderes aus <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    zu schreiben. Sie können nicht glauben, wie mich das interessiert, vorzüglich
+                    hier in diesem abscheulichen Loch, wo vier schmutzige Wände und unübersehbare
+                    Berge unsere ganze Aussicht, unsere ganze Freude ausmachen. Wenn Sie mich recht
+                    erfreuen wollen, so erzählen Sie mir etwas von der Gräfin <persName key="ed_ux3_xmm_scb">Dönhoff</persName>; ihr Schicksal interessiert mich
+                    noch immer aus alter Bekanntschaft.</p>
+                <p>Meinem <persName key="ed_csb_mdf_cy">Vater</persName> habe ich schon vor 6 Wochen
+                    geschrieben, aber keine Antwort erhalten; weiß Gott, wie das zugeht. <seg type="comment">
+                  <orig>Den Brief muss er doch bekommen haben</orig>
+                  <note xml:id="nrpg_yzg_gcb">Nach einem ebenfalls bei Schultze abgedruckten
+                            Brief der <persName key="ed_gnc_c1m_2y">Mutter</persName> war der Brief
+                            nicht angekommen.</note>
+               </seg> und so böse hoffe ich doch wohl nicht,
+                    dass er auf mich sein wird, dass er nicht einmal antworten will, das würde mich
+                    sehr kränken. Ich habe wahrhaftig nicht öfter an ihn schreiben können, ich
+                    wollte nur, er hätte mich so recht in diesem Jammer und Dreck gesehen; schreiben
+                    Sie mir doch alles, was Sie aus <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und von meinem Vater wissen. Sobald ich nur ein
+                    bisschen wieder ausgetrocknet bin, werde ich recht viel schreiben, um es wieder
+                    gut zu machen. Nun leben Sie wohl, bester Schröder, und antworten Sie mir ja
+                    recht bald, ich warte mit Sehnsucht auf einen Brief.</p>
+				        <closer>
+					          <salute>Ihr Freund</salute>
+					          <signed>Graf Lehndorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

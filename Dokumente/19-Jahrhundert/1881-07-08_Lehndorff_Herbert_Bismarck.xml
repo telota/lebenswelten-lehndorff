@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_npr_w4j_z1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich Graf von Lehndorff an Herbert Graf von Bismarck. Koblenz. 8. Juli
+                    1881</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_npr_w4j_z1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>BArch Koblenz</institution>
+                        <idno>N 1024/38, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nml_dw2_cy">Lehndorff-Preyl, Ahasverus Heinrich August Otto
+                        Magnus Ferdinand Graf von (Königsberg, 1.4.1829-Preyl bei Wargen,
+                        24.4.1905)</persName>
+                    <placeName key="ed_zv2_p4z_ny">Koblenz</placeName>
+                    <date when="1881-07-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_qw3_xpj_z1b">Bismarck, Herbert von (-)</persName>
+                </correspAction>
+                <note>Zum Vertrauensverhältnis zwischen Lehndorff und Herbert von Bismarck siehe den
+                    Brief Eulenburgs an Kaiser Wilhelm II., München, 5. März 1894, in: Philipp
+                    Eulenburgs politische Korrespondenz, Bd. 2, S. 1240-1242. Im Zusammenhang mit
+                    einer von Bismarck geforderten Erklärung wegen Veröffentlichungen zum
+                    Arnim-Prozess war <quote>Heinrich Lehndorff <gap reason="insignificant"/> von
+                        Herbert Bismarck als sein Anwalt bezeichnet und mit diesem die Sache zu Ende
+                        geführt worden.</quote>
+                </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Schloss Koblenz, 8. Juli 1881</dateline>
+					          <salute>Mein lieber guter Herbert</salute>
+                </opener>
+                <p>Neulich schon musste ich Ihnen telegraphisch lästig fallen, heute wiederholt sich
+                    das schriftlich mit einer Bitte. </p>
+            <p>Wenn Sie mal einen Moment übrig haben, sagen Sie uns in absolutem Lapidarstil: wie es dem
+                        <persName key="ed_atc_ls2_cy">Fürsten</persName> geht und wie es mit der
+                    Reise der <persName key="ed_mvt_czt_g2b">Fürstin</persName> nach <placeName key="ed_cyb_jzt_g2b">Kreut</placeName> geworden ist, und adressieren Sie
+                    Mainau-Bodensee via Konstanz. Dann werden Sie sich mit geringer Mühe großen Dank
+                    erwerben und sichern. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Wir hatten eine schlechte Serie seit nun fast 14 Tagen, und haben wir
+                            Angst und Besorgnis ausgestanden. Seit 2 Tagen jetzt geht es wirklich
+                            nachhaltig besser und ich glaube an Durchkommen, was wirklich nach <hi rendition="#u">der</hi> Operation bei einer so alten und ungesunden
+                            Frau an das Wunder grenzt</orig>
+                  <note xml:id="nr4m_d15_g2b">Die schon
+                            seit Jahren von Rheuma gequälte Kaiserin <persName key="ed_uqr_jxf_4y">Augusta</persName> erlitt im Juni 1881 in Koblenz bei einem Sturz
+                            so schwere Verletzungen, dass sie fortan auf Krücken und Rollstuhl
+                            angewiesen war. </note>
+               </seg> - mich aber sehr sehr freut, denn ich habe
+                    eingesehen, dass im anderen, viel wahrscheinlicheren Fall das geliebte alte Herz
+                    einen höllischen Ruck gekriegt haben würde, mehr als die meisten Menschen
+                    glauben würden. </p>
+            <p>
+               <persName key="ed_lwx_y32_cy">Ihm</persName> selbst geht es Gott sei Dank gut, obgleich Er auch
+                    schon mal durch die Aufregung sehr im Schlafen nachließ, was immer bald auf Ihn
+                    sehr nachteilig einwirkt. Er ist aber jetzt wieder ziemlich auf Trab. </p>
+            <p>Von <persName key="ed_wms_mh2_cy">meiner Frau</persName> habe ich anhaltend gute Nachrichten,
+                    unberufen und Gott sei Dank, und kann deshalb nicht anders sagen, als dass es
+                    uns gut geht. </p>
+            <p>Sehr froh sind die Zustände hier und alle damit verbundenen Ungewissheiten aber gerade auch
+                    nicht. – <hi rendition="#u">Bedürfnis</hi> aber ist es mir zu wissen, wie es in
+                        <placeName key="ed_rpm_3bv_22b">Kissingen</placeName> steht, darum seien Sie
+                    nicht böse und widmen Sie eine Minute Ihrem alten Freunde</p>
+				        <closer>
+                    <signed>Lehndorff</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>Wo ist <persName key="ed_u4h_xf5_22b">Bill</persName> geblieben? Wenn es sein
+                    kann, legen Sie mich dem Fürsten beiläufig zu Füßen. Der Mama werde ich
+                    schreiben, wenn ich sie in Kreut weiß.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

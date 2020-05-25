@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mkh_3sy_bdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich August Berent an Carl Friedrich Ludwig Graf von Lehndorff. Steinort, 29.
+                    Juli 1808</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mkh_3sy_bdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 141, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yx5_cbg_nbb">Berent, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1808-07-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Weitere Briefe in der Akte. - Nach dem Brief vom 7. August 1808 hatte der Jude
+                    bis Montag auf Lehndorff gewartet und war dann weiter gezogen. - Die Hitze und
+                    Dürre verschlimmerten sich bis August, so dass Berent nun um die Ernte
+                    fürchtete. Der Weizen von den Vorwerken war missraten. Er fürchtete umd die
+                    Zukunft der Bauern, die <quote>vom Krieg ausgesogen</quote> waren. Lehndorff
+                    sollte mit seiner Mutter über deren elende Lage sprechen, <quote>denn der Bauer
+                        kann und wird sich nicht helfen, wenn die Sachen so wie vorhin beim alten
+                        fortgehen</quote>, er müsse mit Saat und Gespannen unterstützt werden, oder
+                        <quote>er fällt künftiges Jahr ganz aus, und mit und durch ihn die Vorwerke
+                        selbst. Wenn die wüsten Koben unbesetzt bleiben, so muss das
+                        Vorwerksangespann vermehrt werden</quote>. Noch gab es 63 untertänige Bauern
+                    auf den Gütern. Berent rechnete Lehndorff den Aufwand für Saatkorn und Pferde
+                    zum Ersatz fehlender Ochsengespanne vor (5.583 Rtlr.). Im Kassenbestand waren
+                    noch 800 Rtlr., nach Zahlung der Kontribution und des Lohns blieb davon nichts
+                    übrig, weitere Einnahmen gab es nicht. Siehe ebd., Nr. 377: <ref target="lehndorff_rrl_r4s_33b">
+                  <quote>Bemerkungen über die persönlichen
+                            Verhältnisse der Gutsherrn und ihrer Hintersassen in Ostpreußen und
+                            Litauen, über die Rechte der letzteren an ihren benutzten Grundstücken
+                            und über die Austuung der Bauernhuben zum Eigentum oder in Erbpacht nach
+                            Maßgabe der Verordnung vom 14. Februar 1808 § 6 Litt. B</quote>
+               </ref>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 29. Juli 1808</dateline>
+					          <salute>Gnädigster Herr Graf!</salute>
+                </opener>
+				        <p>den mit der gestrigen Post <seg type="comment">
+                  <orig>angekommenen Brief überreiche
+                            einliegend</orig>
+                  <note xml:id="na2k_skx_y2b">Liegt dem Brief nicht
+                            bei.</note>
+               </seg> mit der untertänigsten Anzeige, dass in den Gütern
+                    alles gut und gesund ist. Wir haben nach der Abreise der hohen Herrschaften
+                    keinen Regen gehabt, es dörret alles aus, und zeitiget sehr, so dass ich wieder
+                    Vermuten morgen Korn <unclear reason="illegible" cert="high">anhauen</unclear>
+                    lassen muss, mit dem Heu <gap reason="illegible"/> bin ich ganz fertig. </p>
+                <p>Gestern Vormittag kam hier ein schon vor 4 Jahren bekannter und hier gewesener
+                    Jude mit seinem Sohn und Equipage an und verlangte von mir Quartier für sich und
+                    sein Pferd; da ich fürs erste keinen Befehl von Ew. Hochgeboren dazu habe,
+                    diesen Mann auch aus früheren Zeiten her schon kenne, dass er auf eine feine Art
+                    den Herrschaften das Geld abnimmt, so habe ich ihn vertröstet, bis Ew.
+                    Hochgeboren hier sein werden, dann zu erscheinen, er gab mir aber zur Antwort,
+                    er wäre express von <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName>
+                    von Ew. Hochgeboren hierher beordert und hätte also 15 Meilen gereist und viele
+                    Kosten gehabt. <seg type="comment">
+                  <orig>Er könnte also nicht eher, und sei es
+                            auch 14 Tage, bis dieselben hierher kommen, von hier
+                            weggehen.</orig>
+                  <note xml:id="nbhb_blx_y2b">Nach dem Brief vom 7. August
+                            1808 hatte der Jude bis Montag auf Lehndorff gewartet und war dann
+                            weiter gezogen.</note>
+               </seg> Ich habe ihm doch hier kein Quartier
+                    gegeben, sondern wies ihn in den Krug, jedoch für sein Pferd habe ich Grünfutter
+                    anweisen lassen. Heute war er in <placeName key="ed_ugy_1pg_hy">Rehsau</placeName>, Herr Graf haben sich aber der Sache nicht angenommen.
+                    Vor 4 Jahren war er hier, Ihro Exzellenz sprachen mit ihm, und da Sie fanden,
+                    dass er weiter kein anderer <gap reason="illegible"/> wie jeder andere <gap reason="illegible"/> ist, so schickten Sie ihm durch mich 2 Dukaten und
+                    ließen ihn fahren. Da war der Kerl so grob, dass ich ihn beinahe zur Tür heraus
+                    warf. <note type="editorial">Anderenorts hätte er für seinen Rat 12 Dukaten
+                        bekommen. Wenn Lehndorff nicht willens sei, mit ihm zu sprechen, bitte er um
+                        Befehl, wie er sich zu verhalten habe. Er habe ihn nicht beherbergt, damit
+                        ihm dieser nicht den Vorwurf machen könne, er hätte in der Zeit bei anderen
+                        Herrschaften viel verdienen können. <gap reason="insignificant"/>
+               </note>
+                </p>
+				        <closer>
+					          <salute>Ew. Hochgeboren untertänigster Diener</salute>
+					          <signed>Berent</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

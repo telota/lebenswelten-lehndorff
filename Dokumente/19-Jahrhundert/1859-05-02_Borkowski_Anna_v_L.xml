@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xjh_lmb_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Carl Borkowski an Anna Gräfin von Lehndorff. Rosengarten, 2.
+                    Mai 1859</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xjh_lmb_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 576, Bl. 7-8v</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_myw_dfy_ybb">Borkowski, Johann Carl (-1877)</persName>
+                    <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                    <date when="1859-05-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Weitere Briefe Borkowskis in der Akte. Am 16. März 1859 (Bl. 5-6v) dankte er
+                    für eine Büchersendung und die Unterstützung des Gymnasiasten <persName key="ed_jpc_5cj_d2b">Sakowski</persName> mit 30 Talern. Im Brief vom 28.
+                    März 1859 (Bl. 3-4v), bat er die <persName key="ed_wms_mh2_cy">Gräfin</persName>
+                    um <quote>Beiträge zum Besten der Missionssache und der Bibelgesellschaft für
+                        das Jahr 1858</quote>. Sie zeichnete für den Missionsverein für Graf
+                    Lehndorff 2, für sich selbst 1 und für die Tochter Anna 1 Rtlr., für die
+                    Bibelgesellschaft 2  und1 Rtlr. Sie wolle <quote>die Gnade haben, mich mit
+                        einigen Talern für meine Armen hier zu erfreuen, da ich ihnen wie im vorigen
+                        Jahre wieder Kartoffelacker mieten will</quote>. Von dem übersandten
+                        <quote>Wollzeug</quote> habe seine Frau Kleidung machen lassen, auch von
+                        <persName key="ed_o2r_1dj_d2b">Jacobi</persName> in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> habe man <quote>Tücher und Zeug zu
+                        Jacken</quote> erhalten. Die dafür fälligen 3 Taler wolle sich Jacobi direkt
+                    bei der Gräfin abholen. - Weitere Briefe berichten über das kirchliche Leben in
+                        <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, die Anzahl
+                    bestellter Gesangbücher, die Beiträge zur Missionsbibelgesellschaft, erhaltene
+                    Schriften etc. - Zu Missions-Angelegenheiten auch: APO, <ref target="http://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/PL-42/type/fa/id/PL-42-380_SLASH_0/search/0/Lehndorff">Archiwum rodziny Dönhoff z Drogoszy pow. Kętrzyński</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/576/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rosengarten, den 2. Mai 1859</dateline>
+                    <salute>Hochgeborene Frau Gräfin!</salute>
+                </opener>
+                <p>So haben wir mit Gottes Hilfe die Feiertage durchlebt. Viel Arbeit zwar, da ich
+                    auch die Nächte zur Präparation brauchte, aber auch viel Freude, da die
+                    Kirchentüren vor der Menschenmenge offen bleiben mussten, damit auch die vor der
+                    Tür Stehenden am Gottesdienst teilnehmen konnten. <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> hatten auch ihr Kontingent gestellt, nur <placeName key="ed_pxt_cnh_1y">Steinort</placeName> war in seiner niedrigen Bevölkerung
+                    wenig vertreten; mögen wohl warten, dass ihnen das Kirchlein in Steinort selbst
+                    geöffnet werde! Wenn mir auch solche Trägheit von den Leuten missfällt, umso
+                    mehr, als mein Gotteshaus hier, wenn alle so dächten, leer stehen müsste, so
+                    möchte ich doch wiederum nicht, dass ich mich den Steinortern entfremde, und
+                    frage deshalb die hohe Frau ganz gehorsamst an, ob ich für einen schönen <ref target="lehndorff_ovj_3zy_fjb">Sonntagsgottesdienst in der Kapelle</ref>
+                    ansagen soll? Habe ich ohnehin schon die gehorsamste Bitte an unsere hohen
+                    Herrschaften, hochgeneigtest gestatten zu wollen, dass ich der <persName key="ed_es1_jyl_ddb">Poltzienschen</persName> Familie, deren weiblicher
+                    Vorstand sehr leidend ist, in der Kapelle das heilige Abendmahl reichen darf.
+                    Oder befehlen Frau Gräfin, dass ich es ihnen in ihrem Haus gebe?</p>
+                <p>
+               <seg type="comment">
+                  <orig>Der politische Himmel hat sich, wie es scheint, in
+                            dunkle Wolken gehüllt;</orig>
+                  <note xml:id="nq41_3fb_hfb">Gemeint ist der
+                            preußische <ref target="https://de.wikipedia.org/wiki/Preu%C3%9Fischer_Verfassungskonflikt">Verfassungskonflikt</ref>.</note>
+               </seg> in diesem Augenblick mag
+                    manches tapfere Herzblut für seinen Kaiser geflossen sein, während die
+                    Feuerschlünde sich billigerweise von den Unschuldigen ab gegen die kehren
+                    sollten, die das Siechtum sonst blühender Provinzen und das Wehklagen vieler
+                    Witwen und Waisen nicht rühren mag. Was bleibt dem Schwachen übrig, als von der
+                    Weisheit Gottes das Beste zu hoffen.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Wenn aber die Baptisten, die in den angrenzenden
+                            Kirchspielen <gap reason="illegible"/> und <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> den Geistlichen sogar
+                            mitgefeiert haben, nun auch in meine Gemeinde sich wagten - so wollte
+                            mir um meiner Herde willen recht bange werden.</orig>
+                  <note xml:id="nhdc_jfj_d2b">Zur Ausbreitung der Baptisten in Masuren: <ref target="https://de.wikipedia.org/wiki/Baptisten_in_Polen">https://de.wikipedia.org/wiki/Baptisten_in_Polen</ref>.</note>
+               </seg>
+                    <persName key="ed_d3n_w2j_d2b">Nitzsch</persName> sagt in seiner <seg type="comment">
+                  <orig>Praktischen Theologie</orig>
+                  <note xml:id="nsvt_bfj_d2b">Praktische Theologie, 3 Bde., Bonn 1847ff.</note>
+               </seg>: „Die in unsere
+                    landeskirchlichen Gemeinden sich einschleichende Propaganda der Baptisten pflegt
+                    sich zunächst an erweckte und geförderte Glieder zu wenden‟, und so ist es eben
+                    bei uns. Leutchen, die sonntäglich zur Kirche kommen, wird ohne Aufhören
+                    nachgestellt, so dass zwei Seelen (freilich Verwandte eines baptistischen
+                    sogenannten <gap reason="illegible"/>) sich schon nicht mehr bei uns blicken
+                    lassen, andere aber wenigstens zweifelhaft geworden sind. Was ist da zu machen?
+                    Die noch unberührten Glieder meiner Gemeinde hüte und warne ich vor diesen
+                    Irrungen und weiche, so weit es nicht auf amtlich <gap reason="illegible"/>
+                    Gebiete notwendig wird, dem persönlichen christlichen Verkehr oder Gespräch mit
+                    den Separatisten nicht aus. Wollten sie sich nur fassen lassen, aber auf jede an
+                    sie gerichtete Frage antworten sie mit eben aufgeschlagenen Bibelstellen, die
+                    regelmäßig gar nicht passen. </p>
+                <p>Oh ich habe manche trübe Stunde um ihretwillen gehabt, und meine Seele war recht
+                    besorgt, wie es werden möchte! Da gedachte ich eines Versleins, das meine Eltern
+                    oft unter Tränen mit ihren acht Kindern gesungen haben: „<seg type="comment">
+                  <orig>So sei nun Seele freie und traue dem alleine, der Dich erschaffen
+                            hat. Es gehe wie es gehe, dein Vater in der Höhe weiß allen Sachen
+                            Rat‟</orig>
+                  <note xml:id="nirv_ggb_hfb">
+                     <ref target="https://www.liederindex.de/songs/2395">Geistliches Lied von
+                                Paul Flemmimg aus dem Jahr 1633</ref>.</note>
+               </seg>, und es ergriff
+                    mich wunderbar freudig. Während ich nun dem rechten Hirten alle seine Schäflein
+                    in herzlichen Gebeten ans Herz lege, gewährt er mir die Antwort, dass die
+                    Baptisten in meiner Gemeinde wenig wirken werden. Die ganze Gemeinde bedauert
+                    sie als Blödsinnige, und selbst Zweifelhafte sind wieder im Gotteshause
+                    erschienen, mit ihren Brüdern Gott zu leben. Bete auch du, fromme Christin, mit
+                    mir, dass es also bleibe mit meiner Gemeinde und dass die Irrenden wieder die
+                    Gnade Gottes ergreifen und selig werden!</p>
+                <p>Wie geht es der hochedlen Frau Gräfin? Wollen die körperlichen Leiden nicht
+                    enden? Wie hat doch Gott die hohe Frau an Leib und Seele sonst so viel bedacht
+                    und hier schwingt er seine Rute so scharf, dass wir, wäre die Seele nicht so
+                    stark, dem Herrn Jesu das Kreuz geduldig nachzutragen, uns billig nicht wundern
+                    dürften, wenn anhaltendes Klagen unsere Ohren und Herzen berührte. Nun aber
+                    treibt es uns recht aus Herzensgrund zu beten: Gott wolle unser Kleinod uns noch
+                    lange lassen! - <placeName key="ed_avy_p42_cy">Gastein</placeName> liegt nicht
+                    fern vom <seg type="comment">
+                  <orig>Kriegsschauplatz</orig>
+                  <note xml:id="ng42_rgb_hfb">
+                     <ref target="https://de.wikipedia.org/wiki/Sardinischer_Krieg">Sardinischer Krieg</ref>
+                  </note>
+               </seg> -, wenn möglich, so kehren
+                    unsere hochverehrte Gräfin in die Heimat wieder, wo inmitten treuer Herzen die
+                    schöne Natur und der balsamische Duft des Frühlingslaubes ihre gute Wirkung
+                    nicht verfehlen werden. - Ist <persName key="ed_zkm_whl_2y">Herr Graf</persName>
+                    ganz wohl? Wir haben ihn sehnlichst erwartet. Die Briefe des Herrn Grafen sind
+                    von uns mit großem Danke entgegengenommen, die stenografischen Berichte wurden
+                    förmlich studiert.</p>
+                <p>Der Schmerz in meiner rechten Seite, den <persName key="ed_ahr_l2j_d2b">Hirschfeld</persName> nicht für Lungenkrankheit hält, will noch immer nicht
+                    weichen und quält mich namentlich nach vielem Reden und beim Fahren, vielleicht
+                    wird der Brunnen es gut machen, den ich im Juni trinken soll. Meine Frau
+                    bestellt, wiewohl nicht ohne einige Zaghaftigkeit um des Frostes willen, der in
+                    vergangener Nacht sogar eine leichte Decke über den Teich gelegt hatte, ihre
+                    Gärten recht fleißig und revidiert täglich die Wohnungen und die äußeren und
+                    inneren Zustände der Arbeiterfamilien, in welche sie mich begleitet. Habe ich
+                    nach Bibel und Gesangbuch gefragt, so fragt sie nach den Kindern; habe ich
+                    Überzeugung gewonnen, ob die Eltern ihre Kindlein und sich selbst täglich dem
+                    Herrn Jesu empfehlen, so besieht sie Kinder und Mutter, ob sie sich rein halten
+                    - und wie ich über manche Seele betrübt werde, so hat auch sie oft zu schelten
+                    und zu ermahnen, wir wollen aber auch gern berichten, dass wir über viele
+                    Familien den Herrn loben müssen und ihm danken.</p>
+                <p>Gestern habe ich der <placeName key="ed_epz_y2c_gy">Engelsteiner</placeName>
+                    Gemeinde von der Kanzel angekündigt, dass am 8. d. M. der Prediger <persName key="ed_vfx_11m_ddb">Stechern</persName> aus <placeName key="ed_z4n_nz1_tcb">Nikolaiken</placeName> bei ihr seine <unclear reason="illegible" cert="low">Hasspredigten</unclear> halten wird. <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und die ganze Gegend hier hat nichts Neues zu
+                    erzählen, wenn nicht etwa die Nachricht von der einfachen, aber recht würdigen
+                    Haustaufe der kleinen <persName key="ed_agr_21m_ddb">Friederike
+                        Messerschmidt</persName> am 1. Osterfeiertage die Teilnahme gnädigster
+                    Gräfin interessieren möchte.</p>
+                <p>Gott erhalte die hochgütigen Herrschaften!</p>
+                <closer>
+                    <salute>Nächst untertänigen Empfehlungen an die ganze hochgräfliche Familie bin
+                        ich meiner gnädigsten Frau Gräfin gehorsamster Diener</salute>
+                    <signed>Borkowski</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

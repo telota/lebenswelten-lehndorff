@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ozf_k1n_v1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Wilhelm Graf von Redern an Karl von Wilmowski. Berlin, 21. Mai
+                    1879</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ozf_k1n_v1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 89, Nr. 1682, Bl. 94 (mit Anlagen)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_gyk_1hm_gbb">Redern, Friedrich Wilhelm Graf von
+                        (1802-1883)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <placeName key="ed_zy5_jhm_gbb">Wiesbaden</placeName>
+                    <date when="1879-05-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_o5l_qw5_22b">Wilmowsky, Karl Freiherr von
+                        (1817-1893)</persName>
+                </correspAction>
+                <note>Marginalie Wilmowskis vom 26. Mai: <quote>S. M. haben sich dahin entschieden,
+                        den Grafen zu <persName key="ed_k2n_dvx_f2b">Dohna-Schlodien</persName> zum
+                        Obermarschall zu ernennen und den Grafen <persName key="ed_zkm_whl_2y">von
+                            Lehndorff</persName> für eine spätere Vakanz vorzubehalten.</quote> -
+                    Zweite Marginalie: <quote>Bei der Anwesenheit <persName key="ed_lwx_y32_cy">Sr.
+                            Majestät</persName> in der <placeName key="ed_uvt_4j4_dz">Provinz
+                            Preußen</placeName> ist dem Grafen Lehndorff-Steinort mittels
+                        Allerhöchster Ordre 7/9 79 der <ref target="lehndorff_gmb_5zf_l3b">RAO II
+                            mit Stern ohne Eichenlaub</ref> verliehen.</quote> - Die Patente für den
+                    Grafen zu <persName key="ed_gd4_25x_f2b">Dohna-Schlobitten</persName> als
+                    Landhofmeister und für den Grafen zu Dohna-Schlodien als Obermarschall im
+                    Königreich Preußen wurden am 11. Juni 1879 vollzogen, in der Akte, Bl. 100. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 21. Mai 1879</dateline>
+                </opener>
+                <p>Auf <seg type="comment">
+                  <orig>die gefälligen Schreiben vom 1.</orig>
+                  <note xml:id="nz2g_w1n_v1b">Liegt der Akte bei, Bl. 93.</note>
+               </seg> und <seg type="comment">
+                  <orig>20. d. Mts.</orig>
+                  <note xml:id="nkdg_x1n_v1b">Liegt der
+                            Akte bei, Bl. 93.</note>
+               </seg> betreffend die Erledigung eines der
+                    großen Hofämter im Königreich Preußen übersende ich Ew. Exzellenz den von mir
+                    heute erstatteten Immediatbericht, welchem <seg type="comment">
+                  <orig>ein Bericht
+                            des Herrn Oberpräsidenten von <persName key="ed_ys5_pqq_mfb">Horn</persName> beigefügt ist</orig>
+                  <note xml:id="nkzj_cbn_v1b">Liegt der Akte bei, Bl. 97-98v.</note>
+               </seg>, mit dem ganz ergebensten
+                    Bemerken, dass in Betreff des <persName key="ed_zkm_whl_2y">Grafen
+                        Lehndorff-Steinort</persName> in dem Berichte des Oberpräsidenten auf die
+                    bekannte <seg type="comment">
+                  <orig>Beteiligung desselben an dem Rumänischen
+                            Eisenbahn-Unternehmen und die finanziellen Verwicklungen, in die der
+                            Graf Lehndorff dadurch geraten sein soll,</orig>
+                  <note xml:id="ng4f_xvx_f2b">Gemeint ist die Strousberg-Affaire. Siehe hierzu
+                            GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 285 und u.
+                            a. die Dokumente vom <ref target="lehndorff_ukv_ql1_my">1. Dezember
+                                1875</ref>, <ref target="lehndorff_bph_kn1_my">5. Dezember
+                                1875</ref>, <ref target="lehndorff_qqt_np1_my">27. Februar
+                                1877</ref>.</note>
+               </seg>
+                    <hi rendition="#u">nicht</hi> Bezug genommen worden ist. Da ich über die Lage
+                    der Sache anderweitige Information einzuziehen Anstand nehmen zu müssen geglaubt
+                    habe, so ist auch in meinem Bericht dieser Punkt nicht berührt, überlasse Ew.
+                    Exzellenz Erwägung vielmehr ganz ergebenst, ob Sie beim mündlichen Vortrage der
+                    Sache eine hierauf bezügliche Bemerkung einfließen lassen wollen. </p>
+				        <closer>
+                    <signed>Redern</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>Anlage 1</p>
+                <p>Berlin, den 21. Mai 1879</p>
+                <p>Der Geheime Kabinettsrat Eurer Kaiserlichen und Königlichen Majestät, Wirklicher
+                    Geheimer Rat von <persName key="ed_o5l_qw5_22b">Wilmowski</persName>, hat mir
+                    unter dem 1. d. M. mitgeteilt, dass Allerhöchstdieselben für die durch das
+                    Ableben des Direktors der Hauptverwaltung der Staatsschulden, <persName key="ed_mx4_p3r_d2b">Grafen zu Eulenburg</persName>, erledigte Würde des
+                    Landhofmeisters im Königreich Preußen den <persName key="ed_gd4_25x_f2b">Grafen
+                        zu Dohna-Schlobitten</persName> und für die durch diese Berufung zur
+                    Erledigung gelangende Würde des Obermarschalls im Königreich Preußen den
+                        <persName key="ed_zkm_whl_2y">Grafen von Lehndorff auf Steinort</persName>
+                    in Aussicht zu nehmen geruht haben, vor definitiver Entschließung jedoch meinen
+                    alleruntertänigsten Bericht über diese Vorschläge entgegennehmen wollen. </p>
+            <p>In dem ehrfurchtsvollst angeschlossenen Berichte des Oberpräsidenten Wirklichen Geheimen Rats von
+                    Horn vom 14. d. M. ist hervorgehoben, <list>
+                        <item>a. was die Ernennung des Grafen zu Dohna-Schlobitten zum
+                            Landhofmeister betrifft; dass derselbe unter den gegenwärtigen Inhabern
+                            der Preußischen Landeswürden der Älteste sei, und dass es dem Herkommen
+                            entspreche, stets den nach dem Patente <hi rendition="#u">Ältesten</hi>
+                            zur Landhofmeisterwürde, als derjenigen, welcher der Vorrang vor den
+                            übrigen Landeswürden gebühre, zu berufen. Auch in allen anderen
+                            Beziehungen qualifiziert sich der Graf zu Dohna-Schlobitten in
+                            hervorragender Weise zu der gedachten Auszeichnung. </item>
+                    </list>Was <list>
+                        <item>b. den Grafen von Lehndorff auf Steinort betrifft, so spricht für
+                            seine Berufung zu der Würde des Obermarschalls im Königreich Preußen der
+                            Umstand, dass sowohl sein <persName key="ed_csb_mdf_cy">Großvater</persName> als sein <persName key="ed_k4z_jgl_2y">Vater</persName> mehrere Jahre hindurch die Landhofmeisterwürde
+                            bekleidet haben. <seg type="comment">
+                        <orig>Sowohl seine persönliche
+                                    Stellung und die Stellung seiner Familie, als auch sein
+                                    ausgedehnter Grundbesitz lassen ihn der ihm Allerhöchst
+                                    zugedachten Auszeichnung würdig erscheinen, obschon der
+                                    Oberpräsident es als einen Mangel bezeichnet, dass derselbe
+                                    einer ausgedehnten öffentlichen Tätigkeit ferngeblieben
+                                    sei.</orig>
+                        <note xml:id="nmxz_swx_f2b">Vgl. GStA PK, XX. HA,
+                                    Rep. 2 II, Nr. 2896, Bl. 149-150, 236 und 269. Carl Graf von
+                                    Lehndorff, Oberleutnant der Reserve, war Mitglied des
+                                    Herrenhauses <quote>in Folge der Präsentation seitens des
+                                        Grafenverbandes.</quote> Für die Belehnung und Inbesitznahme
+                                    des Rittergutes wird hier der 16. April 1554 angegeben. Am 5.
+                                    Februar 1870 war der Besitz in ein Fideikommiss umgewandelt
+                                    worden und umfasste 1908 eine Größe von 6159 ha, 65 ar und einen
+                                    Ertrag von 48.000 M. </note>
+                     </seg>
+                  </item>
+                    </list>Mehr jedoch als der Graf Lehndorff verdient nach der Ansicht des
+                    Oberpräsidenten von Horn bei Wiederverleihung der Obermarschallwürde der Graf zu
+                        <persName key="ed_iy2_k2t_g2b">Dohna-Schlodien</persName> Berücksichtigung,
+                    und zwar wegen <hi rendition="#u">persönlicher</hi> Eigenschaften als erbliches
+                    Mitglied des Herrenhauses und als seit langen Jahren <hi rendition="#u">in
+                        ständischen Angelegenheiten der Provinz</hi> in hervorragendem Maße
+                    beteiligt, dann aber auch, weil er dem Grafen Lehndorff hinsichtlich des
+                    Vorteils einer günstigen Vermögenslage und ausgedehnten Grundbesitzes überlegen,
+                    endlich, weil er um elf Jahre älter sei als der Letztere. </p>
+            <p>Der Oberpräsident von Horn hebt die Lauterkeit des Charakters des Grafen zu Dohna-Schlodien neben
+                    seiner Hingabe an die Interessen der Provinz besonders hervor und glaubt
+                    deshalb, dass die Berufung desselben zu einem der großen Hofämter der Provinz in
+                    derselben mit großer Befriedigung werde aufgenommen werden. </p>
+            <p>Dieser Auffassung glaube ich in tiefster Ehrfurcht beitreten zu sollen, zumal der Graf zu
+                    Dohna-Schlodien dem Grafen Lehndorff an Jahren so erheblich vorgeht und dieser
+                    bei der nächsten Vakanz Berücksichtigung finden kann. </p>
+            <p>
+               <seg type="comment">
+                  <orig>In dem Berichte des Oberpräsidenten wird ein Präzedenzfall vom Jahre
+                            1834 bezeichnet</orig>
+                  <note xml:id="ncxl_jfn_v1b">Liegt der Akte bei,
+                            Bl. 82.</note>
+               </seg>, wonach gleichzeitig zwei Burggrafen zu Dohna mit
+                    Hofämtern der gedachten Art begnadigt gewesen sind. Auch Ew. Majestät haben
+                    durch Allerhöchsten Erlass an mich vom 1. April 1867 gleichzeitig das
+                    Landhofmeisteramt im Königreich Preußen dem <persName key="ed_mk1_kdr_gz">Grafen
+                        zu Dohna-Lauck</persName> und die Obermarschallwürde dem Grafen zu
+                    Dohna-Schlobitten zu verleihen geruht. </p>
+            <p>Eurer Kaiserlichen und Königlichen Majestät stelle ich
+                    hiermit alleruntertänigst anheim, mich huldreichst von der getroffenen
+                    Allerhöchsten Entscheidung in Kenntnis setzen zu lassen, damit ich die Patente
+                    seinerzeit vorlegen kann. </p>
+                <p>An des Kaisers und Königs Majestät</p>
+                <p>Redern</p>
+                <p>Anlage 2</p>
+                <p>Abschrift. </p>
+            <p>Der Oberpräsident der Provinz Ostpreußen. </p>
+            <p>Königsberg, den
+                    14. Mai 1879.</p>
+                <p>Euer Exzellenz gestatte ich mir auf das sehr geehrte Schreiben vom 6. d. M. - No.
+                    423 H. A. S. - betreffend die Ergänzung der durch den Tod des Landhofmeisters
+                    Grafen zu Eulenburg entstandenen Lücke in den großen Hofämtern im Königreich
+                    Preußen gehorsamst anzuzeigen, dass die Ernennung des gegenwärtigen
+                    Obermarschalls des Königreichs Preußen, Legationsrats a. D. Grafen zu
+                    Dohna-Schlobitten zum Landhofmeister des Königreichs Preußen dem auf die
+                    Regimentsnote des Herzogs Albrecht vom Jahre 1542 gegründeten und in der
+                    Kabinettsordre des hochseligen Königs Friedrich Wilhelm III. Majestät vom 9.
+                    März 1834 anerkannten und bestätigten Herkommen entsprechen würde, nach welchem
+                    der Landhofmeisterwürde im Königreich Preußen der <seg type="comment">
+                  <orig>Vorrang vor den anderen Landeswürden</orig>
+                  <note xml:id="ne5h_vmj_kfb">Siehe hierzu in der Akte den Bericht Schöns vom
+                            20. Dezember 1833, Bl. 14-14v.</note>
+               </seg> gebührt, und im Falle einer
+                    Erledigung dieser Würde derjenigen der Inhaber der drei anderen Würden mit
+                    Ausschluss des Kanzlers mit derselben bekleidet zu werden pflegt, welcher dem
+                    Patente nach der Älteste ist, welcher Fall aber bei dem Obermarschall Grafen zu
+                    Dohna-Schlobitten zutrifft, da derselbe mit seiner gegenwärtigen Würde bereits
+                    durch den Allerhöchsten Erlass vom 1. April 1867 bekleidet worden ist, während
+                    der Inhaber der anderen in Betracht kommenden Würde, Graf von
+                    Keyserlingk-Rautenburg, erst mittels Allerhöchsten Erlasses vom 25. Februar 1874
+                    zum Oberburggrafen ernannt worden ist. </p>
+            <p>Dürfte von dem gedachten Herkommen aber auch abgesehen werden, so würde der Obermarschall Graf zu
+                    Dohna-Schlobitten doch vermöge seines ausgedehnten Besitzes und seines hoch
+                    verdienstvollen Wirkens als Kommendator des Johanniter-Ordens, auch abgesehen
+                    von der Stellung als Königlicher Kammerherr und von den geleisteten
+                    Staatsdiensten, den Vorrang vor dem <seg type="comment">
+                  <orig>Grafen von
+                            Keyserlingk-Rautenberg</orig>
+                  <note xml:id="np1m_rr5_vcb">Otto Reichsgraf
+                            von Keyserlingk zu Rautenburg, Mitglied des Reichstages. </note>
+               </seg>
+                    verdienen. </p>
+            <p>Sollte die Gnade seiner Majestät des Kaisers und Königs den vorläufig bereits kundgegebenen
+                    Allerhöchsten Intentionen gemäß die Würde eines Landhofmeisters des Königreichs
+                    Preußen in Berücksichtigung der vorgetragenen Umstände auf den Grafen zu
+                    Dohna-Schlobitten übertragen und damit die Würde des Obermarschalls erledigt
+                    werden, so stehe ich nicht an, die Wahl des Majors a. D. und Legationsrates z.
+                    D. Grafen von Lehndorff auf Steinort, dessen Großvater im Jahr 1803 zum
+                    Landhofmeister ernannt worden ist und dessen Vater vom Jahr 1843 ab die Würde
+                    eines Obermarschalls des Königreichs Preußen und demnächst vom November 1845 ab
+                    bis zu seinem Tode die Würde des Landhofmeisters bekleidet hat, zum
+                    Obermarschall als eine an sich durchaus geeignete zu bezeichnen. Derselbe ist
+                    aus einer Familie hervorgegangen, welche dem Könige und dem Vaterland eine Reihe
+                    verdienter und ausgezeichneter Diener gegeben hat und führt einen Namen, welcher
+                    durch die patriotischen Tugenden seines Vaters, zu deren voller Entfaltung
+                    demselben Gelegenheit gegeben war, sowie durch die Humanität, desselben zu einem
+                    allgemein gekannten und geachteten geworden ist. Sein ausgedehnter Grundbesitz
+                    sichert ihm eine unabhängige und hervorragende Stellung unter dem alten
+                    angesessenen Adel der Provinz, während seine loyale königstreue Gesinnung, seine
+                    politische Haltung und seine kirchliche Gesinnung ihn der Ehre würdig erscheinen
+                    lassen, welche ihm durch die Bekleidung mit der Würde des Obermarschalls zuteil
+                    werden würde. Es liegt wohl nur an äußeren Verhältnissen, dass der Graf von
+                    Lehndorff einer ausgedehnten öffentlichen Tätigkeit fern geblieben ist; jedoch
+                    hat er dargetan, dass es ihm nicht an der Hingebung und dem Talent zu
+                    umfassenderem gemeinnützigen Wirken fehlt, als es sich darum handelte, durch
+                    Herstellung der wichtigen, unter sehr schwierigen Verhältnissen geschaffenen
+                    Ostpreußischen Südbahn die Hilfsquellen der Provinz zu erschließen. </p>
+            <p>Unter solchen Umständen könnte ich meinen Bericht hier abschließen, wenn ich mich nicht gedrungen
+                    fühlte, die geneigte Aufmerksamkeit Euer Exzellenz auf einen Mann ehrerbietigst
+                    hinzulenken, welcher die soeben hervorgehobenen Vorzüge des Grafen von Lehndorff
+                    in vollem Maße teilt, hinsichtlich des Vorteils einer günstigen Vermögenslage
+                    und ausgedehnten Grundbesitzes ihm vielleicht überlegen ist und jedenfalls in
+                    höherem Lebensalter steht, da er sein 64. Lebensjahr vollendet hat, während der
+                    Graf von Lehndorff erst im 53. Lebensjahr steht. Es ist dies der Rittmeister a.
+                    D. und Kammerherr, erbliches Mitglied des Herrenhauses, Burggraf und Graf zu
+                    Dohna-Schlodien. Derselbe hat seit langen Jahren bei der Verwaltung der
+                    ständischen Angelegenheiten der Provinz mitgewirkt und ist auch nach der in
+                    Folge der Provinzialordnung eingetretenen Änderung der provinziellen Verfassung
+                    mit Eifer und Erfolg als Mitglied des Provinzial-Landtages, des
+                    Provinzial-Ausschusses und während des letzten Provinzial-Landtages als
+                    stellvertretender Vorsitzender desselben bei der Lösung der dem
+                    Provinzial-Verbande durch die veränderte Verfassung zugewiesenen wichtigeren
+                    Aufgaben tätig gewesen, und hat sich in dieser Tätigkeit durch seine
+                    Pflichttreue und durch die Lauterkeit seines Charakters sowie durch seine milde
+                    und zugleich feste und taktvolle Haltung allgemeine Anerkennung und Vertrauen
+                    erworben, so dass seine Wahl zum Obermarschall des Königreichs Preußen in der
+                    Bevölkerung der Provinz mit lebhafter Befriedigung und vielleicht mit größerer
+                    Teilnahme aufgenommen werden würde, als die Erhebung des Grafen von Lehndorff zu
+                    der gedachten Würde, welcher, wie erwähnt, dem öffentlichen Leben der Provinz
+                    ferner gestanden hat. Ich habe geglaubt, dieses Moment nicht unerwähnt lassen zu
+                    dürfen, weil die beregten großen Hofämter im Königreich Preußen auf das engste
+                    mit der geschichtlichen Entwicklung der Provinz zusammenhängen, und weil, der
+                    traditionellen Auffassung zufolge, durch die Erhebung von Eingesessenen der
+                    Provinz zu denselben ebensowohl den durch die Allerhöchste Gnade zu denselben
+                    berufenen Männern wie der Provinz selbst eine Ehre zuteil wird, auf welche Wert
+                    gelegt wird. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Der Umstand, dass ein Burggraf und Graf zu Dohna bereits Inhaber einer
+                            der Würden ist</orig>
+                  <note xml:id="ngzd_jpx_kfb">Vgl. Dohna, Lothar Graf
+                            zu, Die Dohnas und ihre Häuser, 2 Bde., Göttingen 2013. </note>
+               </seg>
+                    und demnächst zu der ersten derselben aufrücken soll, kann m. E. den Burggrafen
+                    und Grafen zu Dohna-Schlodien von der Berücksichtigung bei der Verleihung der
+                    vakant werdenden Würde des Obermarschalls nicht ausschließen; ich darf in dieser
+                    Beziehung auf den Präzedenzfall, dass der Graf zu Dohna-Wundlacken unter dem 12.
+                    Januar 1834 neben dem bereits im Jahr 1833 zum Oberburggrafen ernannten Grafen
+                    zu Dohna-Schlobitten zum Obermarschall ernannt worden ist, gehorsamst Bezug
+                    nehmen. </p>
+            <p>Euer Exzellenz gebe ich danach die weitere geneigte Entschließung
+                    mit dem Bemerken gehorsamst anheim, dass ich mich nicht in der Lage sehe, eine
+                    Persönlichkeit zu benennen, welche neben oder vor den beiden genannten Männern
+                    bei der Ergänzung der Lücke in den beregten großen Hofämtern in Betracht gezogen
+                    werden könnte. </p>
+                <p>gez. von Horn</p>
+                <p>An den Oberst-Kämmerer, Wirklichen Geheimen Rat und General der Kavallerie Herrn
+                    Grafen von Redern Exzellenz zu Berlin.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

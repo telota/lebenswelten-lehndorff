@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_k3n_3y1_mdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 18.
+                    Januar und Dresden, 28. Februar bis 3. März 1756</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_k3n_3y1_mdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Giebel, Wieland (Hrsg.), Die Tagebücher des Grafen
+                            Lehndorff. Die geheimen Aufzeichnungen des Kammerherrn der Königin
+                            Elisabeth Christine, Berlin 2007, S. 280 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date from="1756-01-18" to="1756-03-03" cert="high"/>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div>
+               
+				        <p>
+               <note type="editorial">Am <hi rendition="#u">18. Januar</hi> hatte Lehndorff in seinem
+                        Tagebuch geschrieben: <quote>Das Verlangen, die Welt zu sehen und mich in
+                            fremden Ländern mehr zu bilden, verlässt mich keinen Augenblick. Die
+                            Unmöglichkeit, diesen Wunsch erfüllt zu sehen, bereitet mir eine
+                            schreckliche Qual und lässt mich traurig in die Zukunft blicken.</quote>
+                        - Die Bekanntschaft des <quote>Chevalier Charles</quote>, der sich am Hof
+                        aufhielt und Lehndorff für eine Reise nach <placeName key="ed_jxm_5vf_4y">England</placeName>
+                        <quote>freihalten</quote> wollte, ließ die Erfüllung des Wunsches näher
+                        rücken; Lehndorff lernte sogar die englische Sprache. Für die Tilgung von
+                        Schulden musste er ein <quote>kleines Kapital</quote> aufnehmen, wozu er nur
+                        zögernd die Einwilligung der Familie erhielt, vgl. Schmidt-Lötzen,
+                        Nachträge, Bd. 1, S. 34 und 64 ff. - Die Reise zerschlug sich. Am 25.
+                        Februar 1756 begab sich Lehndorff stattdessen auf eine <quote>kleine Reise
+                            nach <placeName key="ed_dz5_2kn_4y">Dresden</placeName>, um meine
+                            dortigen Freunde und besonders <persName key="ed_rmx_ssp_rdb">Oginski</persName> zu besuchen.</quote> Am Nachmittag des 27.
+                        Februar kam er in Dresden an und besuchte die Oper. Quartier nahm er im
+                        Hotel de Pologne, wo ihn Oginski und <persName key="ed_mf4_vsp_rdb">Rzewski</persName>
+                        <quote>auf das liebenswürdigste</quote> empfingen. Noch am selben Abend
+                        besuchte er die Redoute im Hotel. </note>
+                </p>
+                <p>
+               <hi rendition="#u">28. Februar</hi>. Ich sehe mir das Grüne Gewölbe an, dann den
+                    ganzen Garten und das Haus des Grafen <persName key="ed_s3m_xsp_rdb">Brühl</persName>, seine Bildergalerie, sein türkisches Haus, seine
+                    Bibliothek, kurz alle seine Schätze. Was mir aber am bemerkenswertesten und
+                    bewundernswertesten erscheint, das ist die Gräfin <persName key="ed_hwx_ysp_rdb">Brühl</persName> selbst. Mein Gott, was ist die Frau liebenswürdig! Welche
+                    Intelligenz gehört dazu, diesen ganzen herrlichen Besitz mit allen seinen
+                    Schätzen zu erhalten, und andererseits welcher Edelsinn, um bei der von
+                    jedermann gezollten grenzenlosen Hochachtung niemals ein liebreiches und
+                    verbindliches Wesen vermissen zu lassen! Es ist die feinste Frau nicht allein
+                    Sachsens, sondern ganz Europas. Sie, die sich wie eine Königin Ehren erweisen
+                    lassen könnte, zeigt jedermann gegenüber stets die Güte einer einfachen Frau.
+                    Ich habe allen Anlass, mit meinem Empfang bei ihr zufrieden zu sein. Sie erweist
+                    mir alle möglichen Aufmerksamkeiten, und ich muss umso dankbarer dafür sein, als
+                    ich vor ihr nicht unter meinem wahren Namen erscheine, sondern unter dem eines
+                    Herrn von Steinort. Auch bin ich nicht bei Hofe vorgestellt worden, denn da ich
+                    inkognito hergekommen bin, so mochte ich mich nicht von unserem Gesandten
+                    einführen lassen. Demnach lädt mich die Gräfin zum Diner auch nur an den Tagen
+                    ein, wo ihr Gemahl nicht zu Hause ist. Ich mache bei ihr die Bekanntschaft ihrer
+                    Tochter, der Gräfin <persName key="ed_nc2_vtp_rdb">Mniszech</persName>, sowie
+                    der Schwester des Grafen <persName key="ed_rmx_ssp_rdb">Oginski</persName>, die
+                    an einen Grafen <persName key="ed_i4g_wtp_rdb">Wielhorski</persName> verheiratet
+                    ist, ferner einer Gräfin von <persName key="ed_iwx_2tp_rdb">Bellegarde</persName>, des Grafen <persName key="ed_cgy_ftp_rdb">Plessen</persName>, des Generals <unclear reason="illegible" cert="low">Mahr</unclear> und anderer. Es herrscht in diesem Hause eine solche
+                    Üppigkeit, dass man alles andere dagegen nur miserabel finden kann. </p>
+                <p>Nachmittags besuche ich in Begleitung <persName key="ed_mf4_vsp_rdb">Rzewskis</persName> und des Kammerherrn <persName key="ed_cqh_3tp_rdb">Grabowski</persName> das holländische Palais. Überall, wo ich hinkomme,
+                    behandelt man mich außerordentlich höflich. Abends gehe ich wieder zur Gräfin
+                        <persName key="ed_hwx_ysp_rdb">Brühl</persName>, wo ich die ganze Stadt aus
+                    Anlass eines Kinderfestes finde. Es gibt nichts Hübscheres als dieses Fest. Das
+                    ganze Palais ist erleuchtet, und die Kinder, im Ganzen 80 Paare, essen an zwölf
+                    verschiedenen Tafeln, während die anderen an einer Tafel von vierzig Gedecken
+                    speisen. Alles wird von den Bedienten des Hauses besorgt. Schon daraus kann man
+                    die Prachtliebe und den Reichtum des Ministers ersehen.</p>
+                <p>
+               <hi rendition="#u">29. Februar</hi>. Ich gehe in die katholische Kirche, um den
+                    ganzen Hof zu sehen. Dieser erscheint sehr andächtig. Es gibt nichts
+                    Hässlicheres als das ganze königliche Haus und nichts Traurigeres als die
+                    verkrümmte Gestalt des <seg type="comment">
+                  <orig>Kronprinzen</orig>
+                  <note xml:id="nzkd_prp_t2b">
+                     <persName key="ed_ct3_3rp_t2b">Friedrich Christian
+                                von Sachsen</persName> litt an einer Lähmung der Füße und war er
+                            früh auf den Rollstuhl angewiesen. Auf einem <ref target="https://upload.wikimedia.org/wikipedia/commons/1/15/Horemans_-_Frederick_Christian%2C_Elector_of_Saxony_and_his_son.png">Gemälde, das ihn im Kreise seiner wettinischen und
+                                wittelsbachischen Familie zeigt, ist er im Rollstuhl sitzend
+                                abgebildet </ref>– es entstand während seiner Flucht vor den Preußen
+                            nach München und hängt heute im Schloss Nymphenburg. Seine Mutter soll
+                            wiederholt versucht haben, den Prinzen zum Eintritt in den geistlichen
+                            Stand und damit zu einem Thronverzicht zu Gunsten seiner jüngeren Brüder
+                            zu bewegen. </note>
+               </seg>, der wunderbarerweise alle Jahre ein Kind
+                    zeugt. Der <persName key="ed_qmq_trp_t2b">Kronprinzessin</persName> sagt man
+                    viel Geist nach und der übrigen königlichen Familie im allgemeinen viel Güte.
+                    Man sieht auch überall um den <seg type="comment">
+                  <orig>König</orig>
+                  <note xml:id="nhkj_2sp_t2b">
+                     <persName key="ed_ayg_yvp_rdb">Friedrich August
+                                II. Kurfürst von Sachsen</persName>, als August III. König von Polen
+                            und Großherzog von Litauen</note>
+               </seg> zufrieden Mienen, und er
+                    erscheint leutselig gegen jedermann.</p>
+                <p>Ich besuche die Gräfin <persName key="ed_il1_ntp_rdb">Wielhorski</persName>,
+                    während sie sich das Haar macht, und lerne hier eine junge, leichtsinnige, aber
+                    recht liebenswürdige Gräfin <persName key="ed_ids_b5p_rdb">Moszinska</persName>
+                    kennen. Von hier begebe ich mich zum Diner zu Herrn von <persName key="ed_tyg_d5p_rdb">Maltzahn</persName>, unserem Gesandten, wo ich den
+                    berühmten <persName key="ed_fp3_j5p_rdb">Servandoni</persName> treffe, den
+                    Dekorateur der Dresdener und Pariser Oper. Nachmittags mache ich der Gräfin
+                        <persName key="ed_b5y_k5p_rdb">Werthern</persName>, einer großen
+                    Schwätzerin, einen Besuch, auch lerne ich eine sehr liebenswürdige Gräfin
+                        <persName key="ed_wnh_q5p_rdb">Salmour</persName> kennen. Dann besuche ich
+                    mit dem Grafen <persName key="ed_mf4_vsp_rdb">Rzewski</persName> den Großen
+                    Garten und das türkische Palais, in dem alle Mätressen des verstorbenen Königs
+                    als Türkinnen gemalt sind. Das Souper nehme ich bei der Gräfin <persName key="ed_il1_ntp_rdb">Wielhorski</persName> mit einer kleinen netten
+                    polnischen Gesellschaft ein. Es ist doch eine liebenswürdige Nation, wenn sie
+                    sich in anderen Ländern etwas verfeinert hat. Nach dem Souper maskieren wir uns,
+                    um auf den Ball zu gehen, der am Hofe den Kammerfrauen der Königin gegeben wird,
+                    wo der ganze Adel maskiert hinkommt. Ich begleite die kleine <persName key="ed_ids_b5p_rdb">Moszinska</persName> dahin und amüsiere mich
+                    vorzüglich. Von da gehe ich auf die Redoute bei <unclear reason="illegible" cert="low">Lafont</unclear>, wo unendlich viel Menschen sind. Im allgemeinen
+                    sehe ich überall ein heiteres Wesen herrschen, wie man es bei uns nicht
+                    findet.</p>
+                <p>
+               <note type="editorial">Am <hi rendition="#u">1. März</hi> besucht er die
+                        Bildergalerie. </note> Es ist wahrhaftig die schönste Deutschlands,
+                    vielleicht Europas. <note type="editorial">Er besucht seinen Freund <persName key="ed_gb5_wnh_tdb">Mackenzie</persName>, Hofmeister des jungen Grafen
+                            <persName key="ed_wyf_y5p_rdb">Moszinski</persName>, dessen Bruder,
+                            <quote>Groß-Stolnick der Krone</quote> und Gemahl der jungen <persName key="ed_ids_b5p_rdb">Moszinska</persName>. Bei ihm versammelt sich am
+                        Nachmittag <quote>die ganze polnische Gesellschaft. Ich bemerke bei dieser
+                            Gelegenheit, dass die Sachsen und die Polen sich voneinander
+                            absondern.</quote> Am Abend besucht er die Oper und eine Redoute.
+                    </note>
+                </p>
+                <p>Der <hi rendition="#u">2. März</hi> beginnt mit Besuchen beim Gesandten <persName key="ed_tyg_d5p_rdb">Maltzahn</persName> und der Gräfin <persName key="ed_hwx_ysp_rdb">Brühl</persName>. Gräfin <persName key="ed_nc2_vtp_rdb">Mniszech</persName> zeigt ihm die Tabacksdosen des Grafen in dessen
+                    Kabinett. Das Diner nimmt Lehndorff beim Kronvizekanzler, der ihn mit Fürstin
+                        <persName key="ed_sfk_dvp_rdb">Lubomirska</persName> bekannt macht,
+                        <quote>die sich gerade zum Hofball, der immer am Fastnachtsdienstag gegeben
+                        wird, ankleidete.</quote> In der <quote>Raritätengalerie</quote> der
+                    Geladenen sah er viel Pracht und Juwelen. Während der König die Oper besucht,
+                    sieht er sich dessen Gemächer und Gemälde an, bevor er ebenfalls die Oper
+                    besucht, <quote>besonders um das Schauspiel zu sehen, dass der Hof bietet, der
+                        im Parterre Platz genommen hat, und zwar jeder nach seiner Nummer, die er
+                        gezogen hat. Die Prinzen und Prinzessinnen werden mit den Privatleuten
+                        gleich behandelt, und nur der König und die Königin nehmen die ersten Plätze
+                        ein.</quote> Der König gibt dem Hofmarschall den Auftrag, Lehndorff so zu
+                    platzieren, dass er mit ihm sprechen kann. </p>
+                <p>
+               <note type="editorial">
+                  <seg type="comment">
+                     <orig>Der <hi rendition="#u">3.
+                                    März</hi> beginnt mit einem Besuch der Bildergalerie, die
+                                Lehndorff fasziniert. Dann geht es in den Zwinger und zum Diner
+                                    <quote>zu <persName key="ed_rmx_ssp_rdb">Oginski</persName> mit
+                                    meinen polnischen Freunden</quote>.</orig>
+                     <note xml:id="nul2_fr5_vdb">Zu Oginski, der in die <quote>polnischen
+                                    Wirren</quote> verwickelt wurde und 1771 sein Vermögen verlor,
+                                vgl. Nachträge, Bd. 2, S. 224 f. </note>
+                  </seg> Er spricht mit Gräfin
+                            <persName key="ed_b5y_k5p_rdb">Werthern</persName> und Gräfin <persName key="ed_sc3_hvp_rdb">Einsiedel</persName>, <quote>die ich durchaus
+                            heiraten soll. Nun, man muss sehen, wie sich das macht.</quote> Am Abend
+                        lässt er sich zu einem Souper mit mehr als 40 Personen aus dem niederen Adel
+                        einladen. </note>
+            </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

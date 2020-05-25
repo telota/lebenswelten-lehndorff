@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_tmk_4pw_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Marie Gräfin von Kanitz an Anna Gräfin von Lehndorff. Podangen, 4. April
+                    1893</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_tmk_4pw_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 461, Bl. 17-18v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_djc_pz5_22b">Kanitz-Podangen, Marie Gräfin von, geb. von
+                        Bismarck-Bohlen (-)</persName>
+                    <placeName key="ed_p25_g1q_f2b">Podangen</placeName>
+                    <date when="1893-04-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Im Mai stellte sich ein Mädchen vor, dass nach eigener Aussage bei Anna von
+                    Lehndorff tätig gewesen war, konnte aber nur ein von einer Hausdame
+                    ausgestelltes Zeugnis vorlegen. Kanitz fragt an, ob es damit seine Richtigkeit
+                    habe, was der Grund des Abgangs gewesen und ob sie <quote>fleißig, treu ehrlich
+                        und ordentlich</quote> sei. Das Schneidermädchen Amalie <persName key="ed_bgw_l1w_h2b">Schmidt</persName> aus <placeName key="ed_n5r_g45_ncb">Possessern</placeName> habe seine Zeugnisse angeblich verloren, <quote>was
+                        wenig für sie spricht</quote>. Der Brief in der Akte, Bl. 19 (23. Mai
+                    1893).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/461/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Podangen bei Tüngen, Ostpr. 4/4.93</dateline>
+					          <salute>Gnädigste Frau Gräfin!</salute>
+                </opener>
+				        <p>Haben Sie vielen Dank für Ihr gütiges eingehendes Schreiben und alle Mühe, die Sie sich
+                    meinetwegen gemacht haben. <seg type="comment">
+                  <orig>Ich bin Ihnen sehr dankbar
+                            für diese Jungfer-Empfehlung und freue mich schon sehr auf ihren
+                            Antritt!</orig>
+                  <note xml:id="nkkb_mtw_fdb">Zu deren Aufgaben siehe den
+                            Brief vom 31. März 1893 (Bl. 23-26v). Sie sollte anfänglich zwischen 50
+                            oder 60 Rtlr. Gehalt erhalten, die Summe wollte sie nach Zufriedenheit
+                            erhöhen. </note>
+               </seg> Gerade diese carriére - zuerst Stubenmädchen,
+                    flößt mir immer das innigste Vertrauen ein, da die Mädchen dann schon wissen,
+                    was Arbeit ist, und auch was man von anderen erwarten kann. - Das Reise- und
+                    Mietgeld werde ich Lina <persName key="ed_exf_s1w_h2b">Zimmermann</persName>
+                    direkt schicken.</p>
+                <p>Verehrte Frau Gräfin, zufällig hätten Sie wohl nicht ein recht tüchtiges
+                    Stubenmädchen mir zu empfehlen? Ich suche sehr eine ordentliche Person, die mit
+                    Waschen, Plätten und Reinemachen gründlich Bescheid weiß, zum ersten
+                    Stubenmädchen. Hier in der Gegend ist es leider in den letzten Jahren sehr
+                    schwer, gute Mädchen zu bekommen. Alles zieht nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> und das Zurückbleibende taugt
+                    entweder nichts oder muss erst vollständig herangezogen werden. Sowie sie etwas
+                    können, treibt es sie in die großen Städte! - Diese Anfrage nur nebenbei. Ich
+                    scheue mich ordentlich, Ihre Güte so zu missbrauchen. Falls Sie mir niemand
+                    nennen können, genügt ein „nein‟ per Postkarte. </p>
+				        <closer>
+					          <salute>Ich danke Ihnen nochmals von Herzen, küsse Ihre gütige Hand, als Ihre dankbar
+                        ergebene</salute>
+					          <signed>Marie Kanitz</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_qqj_4bc_5bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bertha von Saucken an Carl Meinhard Graf von Lehndorff. Schönwies, 21. Oktober 1883?</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_qqj_4bc_5bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 395, Bl. 125-125v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_i3g_qkg_ccb">Saucken, Bertha von (-)</persName>
+                    <placeName key="ed_wys_ccc_5bb">Schönwies</placeName>
+                    <date when="1883-10-21" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Frühere Briefe an Anna von Lehndorff in: APO, Bestand 382 FA Lehndorff, Nr.
+                    494, Bl. 24-25v (Schönwies, 7. September 1870; abgesagte Einladung Annas), Bl.
+                    26-27v (Schönwies, 17. Mai 1874; Fräuleinstift), Bl. 28-29 (Schönwies, 5.
+                    Dezember 1877; Besuch bei Schlieben-Sanditten), Bl. 30-31 (Schönwies, 17.
+                    Dezember 1877; Geburtstagswünsche, Einladung nach Steinort zur Jagd), Bl. 32-33
+                    (Schönwies, 18. Oktober 1879; Absage einer Einladung nach Steinort).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Schönwies, den 21. Oktober</dateline>
+					          <salute>Mein lieber Graf.</salute>
+                </opener>
+				        <p>Gestatten Sie mir, dass ich Ihnen noch nachträglich zum gestrigen Geburtstag meine
+                    herzlichsten Glückwünsche darbringen darf. Meine Gedanken weilten gestern viel
+                    in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, wie oft habe ich den Tag
+                    in früheren glücklichen Zeiten in Ihrem Familienkreis heiter und froh verleben
+                    dürfen. Auch zum glücklich bestandenen Examen Ihres <persName key="ed_ik3_ckz_2y">Sohnes</persName> meine beste Gratulation. Erlauben Sie
+                    es mir nun noch, dass ich mich mit einer Bitte an Sie wende. <note type="editorial">Es geht um eine <quote>verheiratete Stelle</quote> für
+                        einen 25-jährigen ehemaligen Bedienten ihres Schwiegersohnes, der sich in
+                            <placeName key="ed_wys_ccc_5bb">Schönwies</placeName> aufhält. Sollte
+                        keine Beschäftigung im <quote>Privatdienst</quote> möglich sein, denke sie
+                        an eine Beschäftigung bei der Südbahn, beispielsweise als Gepäckträger. Er
+                        habe ein gutes Militär-Abschiedszeugnis und soll <quote>ordentlich und
+                            nüchtern sein</quote>. Ihr Schwiegersohn habe ihn nur entlassen, da er
+                        heiraten wollte. </note>
+                </p>
+				        <closer>
+					          <salute>Ich bleibe Ihre Ihnen ergebene</salute>
+					          <signed>Bertha v. Saucken, geb. Gr. Eulenburg</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

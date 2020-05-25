@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_c3v_xkh_4bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bertha Burggräfin und Gräfin zu Dohna an Anna Gräfin von Lehndorff. Landin,
+                    22. Oktober 1883</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_c3v_xkh_4bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 394, Bl. 26-27v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_pw1_zlg_ccb">Dohna-Schlodien, Bertha Ernestine Caroline Julia
+                        Burggräfin und Gräfin zu (1813-1893)</persName>
+                    <placeName key="ed_kmf_bmg_ccb">Landin</placeName>
+                    <date when="1883-10-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Landin, den 22. Oktober 1883</dateline>
+					          <salute>Liebe Anna!</salute>
+                </opener>
+				        <p>Schilt nicht, dass ich so unbescheiden bin, Dir jetzt mit einer Anfrage lästig zu fallen. Auf
+                    unserer gemeinschaftlichen Rückreise von <placeName key="ed_ysp_f5h_wz">Stargard</placeName> erzähltest Du mir, dass eure alte vortreffliche Köchin
+                    nicht nach <placeName key="ed_jxm_5vf_4y">England</placeName> gegangen wäre und
+                    bereit sei, wieder zu euch zu kommen. Glaubst Du, liebe Anna, dass dieselbe nun
+                    auch, da Ihr sie nicht nehmt, in einem anderen Hause eine Stelle annehmen würde?
+                    Meine Tochter hier in <placeName key="ed_kmf_bmg_ccb">Landin</placeName> ist
+                    nämlich in großer Verlegenheit um eine gute Köchin. Da ihr schon ein paar
+                    Versuche, eine zu finden, schlecht abgelaufen sind, so kam ich nun auf diese
+                    Köchin, für die mein Schwiegersohn schon vorweg sehr eingenommen ist, da ihm
+                    Eure Küche in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> so sehr
+                    gefiel. </p>
+                <p>Hättest Du, liebe Anna, oder eine Deiner lieben Töchter vielleicht die große
+                    Gefälligkeit, mir hierher durch ein paar Worte zu antworten, und im Falle Du zu
+                    dem Versuch, sie zu bekommen rätst, mir ihre Adresse zu schicken, so würde ich
+                    Dir sehr dankbar sein. Dass die Köchin bei ihrer vortrefflichen Küche andere
+                    sehr in die Augen springende Fehler hat, glaube ich wohl kaum, da Ihr sie so
+                    lange gehabt habt.</p>
+                <p>Marie schrieb mir, dass sie durch <persName key="ed_vhr_wjh_cy">Änny</persName>
+                    gehört hätte, Ihr wärt schon nach dem Süden abgereist, aber sie wusste nicht
+                    Eure Adresse. Daher sende ich den Brief nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, von wo er wohl in Eure Hände gelangt.</p>
+                <p>Den 20. sind meine Gedanken viel bei Euch gewesen, wie oft haben wir den Tag so
+                    froh in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> verlebt, Gott gebe,
+                    dass es auch recht oft wieder der Fall sein möchte. Der Herr sei mit Euch und
+                    begleite Euch auf Eurer Reise, meine besten Wünsche zur Wiederherstellung Deines
+                    lieben Mannes sage ich Dir recht von Herzen.</p>
+				        <closer>
+					          <salute>Mit den besten Grüßen für alle Deinen bin ich mit treuer Anhänglichkeit Deine</salute>
+					          <signed>B. Schlodien</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

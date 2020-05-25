@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xzc_m3z_2y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Regierung zu Gumbinnen, Abt. Kirchen- und Schulwesen, an das Kultusministerium. Gumbinnen, 22. Oktober 1907</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xzc_m3z_2y</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 76 VII neu Sekt. 3 A Teil IV, Nr. 10, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_cyd_wtg_hy">Regierung zu Gumbinnen</orgName>
+                    <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>
+                    <date when="1907-10-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_qsy_xxh_my">Preußisches Kultusministerium, Berlin</orgName>
+                </correspAction>
+                <note>Mit der Bitte um <quote>gutachtliche Äußerung wegen Gewährung einer
+                        Unterstützung aus Kap. 126 Tit.1</quote>wurde das Schreiben an den Geheimen
+                    Oberregierungsrat Müller weitergeleitet; dieseer vermerkte: <quote>Mit Rücksicht
+                        auf diesen Zweck glaube ich Gewährung einer Beihilfe von 1.000 M aus 126,1
+                        befürworten zu können. Ergebenst M 10/11</quote>. Am 27. Dezember 1907
+                    wurden für das Etatsjahr 1.000 M bewilligt, am 22. April 1908 folgtenweitere 400
+                    M zum Neubau des Waisenhauses aus Kap. 96 Tit. 11. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Die Ausführungen des Pfarrers <persName key="ed_h2d_fhf_cy">Junkuhn</persName> in
+                    der <seg type="comment">
+                  <orig>Eingabe vom 14. August v. Js.</orig>
+                  <note xml:id="nwmk_mjb_mfb">Siehe das Dokument vom <ref target="lehndorff_mmq_ygf_cy">14. August 1906</ref>.</note>
+               </seg>
+                    entsprechen durchaus den tatsächlichen Verhältnissen. Die <orgName key="ed_pqq_g4d_gy">Anstalt</orgName> lässt sich stets in anerkennenswerter
+                    Weise die zielbewusste Förderung des <rs type="term" key="ed_fpz_2rd_gy">Deutschtums</rs> angelegen sein. Die in der Anstalt aufgenommenen Mädchen,
+                    welche zumeist der gemischtsprachigen Bevölkerung <rs type="term" key="ed_ach_hrd_gy">Masurens</rs> angehören und sich von Haus aus
+                    vorzugsweise der polnischen <rs type="term" key="ed_f3z_3rd_gy">Sprache</rs>
+                    bedienen, erhalten eine rein deutsche Erziehung und werden hierdurch polnischen
+                    Einflüssen entzogen. Die Anstalt, welche nach besten Kräften in
+                    deutschnationalem Interesse zu wirken eifrig bemüht ist, hat mehr als lokale
+                    Bedeutung. Es wäre daher sehr erwünscht, wenn derselben zu dem unumgänglich
+                    notwendigen Neubau des Waisenhauses eine möglichst hohe Staatsunterstützung
+                    zuteil würde. Der <persName key="ed_ik3_ckz_2y">Gutsherr</persName> von
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> als Kurator der Stiftung
+                    ist zur Förderung des Baus durch Zuwendung einer Unterstützung leider nicht in
+                    der Lage, da seine Begüterung unter <seg type="comment">
+                  <orig>
+                     <rs type="term" key="ed_vnt_mrd_gy">Zwangsverwaltung</rs>
+                  </orig>
+                  <note xml:id="nbyf_pln_cbb">Am 1. Juli 1896 war die Grafschaft <placeName key="ed_pxt_cnh_1y">Steinort</placeName> durch die <orgName key="ed_q2v_w2m_xcb">Ostpreußischen
+                                General-Landschaftsdirektion</orgName> unter Zwangsverwaltung
+                            infolge Verschuldung gestellt worden. Zu den finanziellen Verhältnissen:
+                            APO, Bestand 382 FA Lehndorff, Nr. 27 ff. </note>
+                    </seg> gestellt ist.</p>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

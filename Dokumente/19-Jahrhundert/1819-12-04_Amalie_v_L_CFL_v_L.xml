@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_jbq_qx2_hy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amalie Caroline Gräfin von Lehndorff an ihren Sohn Carl Friedrich
+                    Ludwig. Königsberg, 4. Dezember 1819</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_jbq_qx2_hy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 386, Bl. 23</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (1751-1830)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1819-12-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 4. Dezember 1819</dateline>
+                    <salute>Lieber bester Carl.</salute>
+                </opener>
+                <p>
+               <seg type="comment">
+                  <orig>Hier ist die Rechnung von Deinen Stühlen. Ich hätte sie
+                            Dir quittiert geschickt und gern die Auslage gemacht, wenn ich nicht um
+                            die Weihnachtszeit immer sehr ausgebeutelt wäre und mit knapper Not den
+                            Termin erreiche, wo wieder Geld reinkommt.</orig>
+                  <note xml:id="ninz_gbn_xcb">Zu den persönlichen Ausgaben vgl. APO, Bestand 382
+                            FA Lehndorff, Nr. 78 (Belege 1756-1834). 1810 stand <persName key="ed_gnc_c1m_2y">Amalie Lehndorff</persName> z. B. bei einer
+                            Leutnantin von Henning mit 1.000 Talern, verzinst zu 6 %, in der Kreide,
+                            das Geld war zum "guten Etablissement der Steinortschen Güter verwendet"
+                            worden; der Wechsel wurde im Januar 1811 durch ihren <persName key="ed_k4z_jgl_2y">Sohn</persName> nochmals verlängert, Nr.
+                            720.</note>
+               </seg> Ich habe den Überbringer bewogen, mir die Zeit zu
+                    lassen, Dir zu schreiben. </p>
+            <p>Den Tod des <persName key="ed_lpv_jjp_tcb">Kanzlers</persName> wirst Du schon wissen, er war
+                    allgemein sehr geachtet und wird sehr bedauert. Aber was Du vielleicht nicht
+                    wissen wirst ist, dass zwei der Dohnaschen Kinder das <seg type="comment">
+                  <orig>Scharlachfieber</orig>
+                  <note xml:id="nykl_vgj_hlb">Siehe hierzu
+                                <ref target="https://opacplus.bsb-muenchen.de/Vta2/bsb10473917/bsb:BV001618872?page=13">Pfeufer, Christian, Der Scharlach, 1819</ref>.</note>
+               </seg> haben,
+                    der <persName key="ed_gd4_25x_f2b">Richard</persName> und die <persName key="ed_pyf_5ng_hy">Marianne</persName>, und dass also zwischen uns alle
+                    Gemeinschaft aufgehoben ist. Vielleicht auf lange, wenn alle Kinder nach der
+                    Reihe davon angesteckt werden; dass hat sich nun seit vorigen Mittwoch den 5.
+                    Dezember bestimmt geäußert, der Scharlach soll aber von der leichtesten und
+                    mildesten Art sein. </p>
+            <p>Miss befindet sich wohl und wächst ein wenig, doch glaube ich, sie wird nicht sehr groß werden,
+                    weil sie sehr wenig isst. <persName key="ed_pv1_b4g_hy">Heinrich</persName>, der
+                    eben hier ist, grüsst Dich herzlich. </p>
+            <p>Ich habe nun wieder eine neue Miss im Hause (eine Jungfräuliche) von 17 Jahren, ein vollkommener
+                    Kontrast von der <seg type="comment">
+                  <orig>
+                     <persName key="ed_rfc_hkd_wcb">Hann</persName>
+                  </orig>
+                  <note xml:id="ncvt_ckd_wcb">La Hann, eine
+                            Elsässerin, war die Gesellschafterin der Gräfin Amelie von Lehndorff in
+                            Königsberg 1812. </note>
+               </seg>, fröhlich und freundlich, groß und
+                    schlank, nicht eben sehr hübsch, doch auch gar nicht hässlich, gut und vom
+                    besten Willen, bedarf aber wohl noch einiger Bildung. Die Liesen sind ihr sehr
+                    gut. Sie ist Tochter eines verstorbenen Predigers aus <placeName key="ed_wrp_yyz_2y">Fischhausen</placeName>. Wie ich dazu gekommen bin, wäre
+                    für heute zu weitläuftig zu erzählen. </p>
+				        <closer>
+					          <salute> Ade lieber Carl. Lebe wohl, äußerst wohl!</salute>
+					          <signed>A. Lehndorff</signed>
+				        </closer>
+            </div>
+            <postscript>
+                <p>Hast Du bei dem Grafen <persName key="ed_zp4_54g_hy">Patz</persName> viel
+                    gelernt?</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

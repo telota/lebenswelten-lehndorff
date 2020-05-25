@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_djk_dds_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Denkschrift. Danzig, 28. Februar 1834</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_djk_dds_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="editorial">
+                    <p>Siehe Konzepte zu Eingaben und Briefen Lehndorffs (undatiert) zum Thema
+                        Bildung und Schule in: APO, Bestand 382 FA Lehndorff, Nr. 645, u. a. Bl.
+                        1-1v: <quote>Über öffentliche Erziehung</quote>. Darin schreibt Lehndorff,
+                        dass <quote>für die unteren Volksklassen Landschulen und gute Stadtschulen,
+                            deren Lehrart bestimmt werden muss</quote>, notwendig sind. In den
+                        ersteren sei es ausreichend, <quote>Lesen und Schreiben</quote> zu
+                        vermitteln, in der Stadtschule <quote>etwas mehr</quote>. Darüber hinaus
+                        müssten <quote>hohe militärische Schulen eingerichtet werden</quote>. Bl.
+                        2-3 ein weiteres Konzept zur Kindererziehung. Auch das Konzept Bl. 17-17v
+                        befasst sich mit einem Landtagsthema: der Armenorganisation. Vgl. Brehm,
+                        Johannes, Entwicklung der evangelischen Volksschule in Masuren im Rahmen der
+                        Gesamtentwicklung der preußischen Volksschule, Bialla 1914, sowie Ross,
+                        Erhard, das Landschulwesen in Ostpreußen und die Einführung der
+                        Pestalozzischen Methode (1800-1815), in: Preußenland 28 (1990), S.
+                        33-45.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 626, Bl. 31-32</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von (Königsberg,
+                    Haus am Roßgärter Markt 17.9.1770-Königsberg 7.2.1854)</persName>
+                <placeName key="ed_uyl_j3c_gy">Danzig</placeName>
+                <date when="1834-02-28" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/626/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Denkschrift der zum 5. Provinziallandtag versammelten Stände Königreich Preußens,
+                    die Umgestaltung einiger Gymnasien in höhere Volksschulen betreffend</p>
+                <p>Der zweite Preußische Provinziallandtag richtete in der Denkschrift vom<ref target="lehndorff_ls2_3tr_ycb"> 4. April 1831</ref> die ehrfurchtsvolle
+                    Bitte um höhere Bürgerschulen an seinen erhabenen Monarchen und genoss das
+                    Glück, durch Höchstdessen Wohlwollen gewürdigt zu werden.</p>
+                <p>Dieses tief empfundene Bedürfnis höherer Volksschulen, dessen Dasein damals
+                    vollständig entwickelt worden, und welches, seit die Wissenschaften ihre
+                    Terrains in das Leben der Gewerbe trugen, sich in dem bedeutsamsten Teil des
+                    Volkes immer lauter und lauter ausspricht, hat die Aufmerksamkeit der zum
+                    jetzigen Landtage versammelten Provinzialstände in erhöhtem Grade von neuem in
+                    Anspruch genommen, und sie halten es für eine der schönsten Pflichten ihres
+                    Berufs, auf Mittel zu denken, jenen dringenden Bedürfnissen zu begegnen, da die
+                    Kräfte der Kommunen so vielfältig beansprucht werden, dass sie zur Errichtung
+                    höherer Bürgerschulen, welche die große Lücke zwischen den niederen Schulen und
+                    Gymnasien auszufüllen bestimmt sind, in der Vollständigkeit nicht ausreichen, in
+                    welcher Sr. Majestät <seg type="comment">
+                  <orig>unterm 3. März 1832</orig>
+                  <note xml:id="nrrf_mcr_hlb">Zu den Kabinettsordres, das Schulwesen betreffend,
+                            siehe <ref target="https://books.google.de/books?id=7UBCAQAAMAAJ&amp;pg=PR17&amp;lpg=PR17&amp;dq=Kabinettsordre+1832+Schulwesen&amp;source=bl&amp;ots=trQ_TJdqNo&amp;sig=ACfU3U3zowYYhxSpm6qSsWdRGeRwUbh6Qg&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwiWnsvIqNvoAhVoTxUIHZsVDvUQ6AEwAnoECAwQMg#v=onepage&amp;q=Kabinettsordre%201832%20Schulwesen&amp;f=false">hier</ref>.</note>
+               </seg> allerhöchst geruht haben, jene
+                    Errichtungen den Kommunen zu überweisen.</p>
+                <p>Fortdauernd zu Anstalten gedrängt, welche nur die Vorbereitung zur Universität
+                    zum Ziele ihres Strebens haben, schmälert ein sehr großer Teil der Jugend die
+                    Wohltaten des Gymnasiums, indem er aus Mangel geeigneter höherer Bürgerschulen
+                    diese überfüllt, um sie mit Aufopferung von Zeit, Mühe und Vermögen, seinem
+                    früheren Beruf folgend, zu verlassen, ohne dass die Kenntnisse Wurzeln
+                    geschlagen haben, welche zwar die unerlässliche Grundlage einer gelehrten
+                    Bildung ausmachen, für ihn aber im Gewerbeleben ohne überwiegenden Nutzen sind.
+                    Darum beträgt die Zahl der von den Gymnasien mit dem Zeugnis der Reife
+                    entlassenen Jünglinge kaum den fünften Teil ihrer vollen Schülerzahl, wodurch
+                    sich die Überzeugung bestätigt, dass diese Unterrichtsanstalten <hi rendition="#u">über</hi> das Bedürfnis in der Provinz vorhanden sind,
+                    während es an höheren Bürgerschulen fast gänzlich mangelt.</p>
+                <p>Die unterzeichneten Provinzialstände vereinigen sich daher zu der
+                    alleruntertänigsten Bitte:</p>
+                <p>Sr. Majestät mögen allergnädigst nochmals Ihr Auge landesväterlich diesem
+                    Gegenstande zuwenden und huldreichst anzuordnen geruhen wollen, dass ein
+                    verhältnismäßiger Teil der bestehenden Gymnasien dieser Provinz durch die
+                    demselben reichlich zugeteilten Fonds und unter Zutritt geeigneter Kommunen in
+                    höhere Volksschulen umgeschaffen werde, damit die gerechten Ansprüche eines
+                    großen Teils Höchst Ihrer Untertanen, welche durch Fleiß und intelligente
+                    Betriebsamkeit Hauptstütze des gemeinsamen Vaterlandes zu sein bestimmt ist,
+                    einigermaßen befriedigt werden mögen.</p>
+                <p>Danzig, den 28. Februar 1834</p>
+                <p>Die Provinzialstände des Königreichs Preußen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_bmb_2qg_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+              
+                <title> Friedrich August Berent an Carl Friedrich Ludwig Graf von Lehndorff. Steinort, 10. Januar
+                    1806</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_bmb_2qg_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 861, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yx5_cbg_nbb">Berent, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1806-01-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 10. Januar 1806</dateline>
+					          <salute>Hochgeborener Herr Reichsgraf <lb/>Insonders Höchstzuehrender Herr Obrist
+                        Wachtmeister</salute>
+                </opener>
+				        <p>Ew. Hochgeboren Auftrag gemäß, und ich meinem Vornehmen getreu, wäre dieser Brief schon in
+                    dero Händen, nur die hier verbreiteteten falschen Nachrichten haben mich irre
+                    geführt und von meinem Vorsatz abgebracht, denn bei unseren Politicis war der
+                    Friede schon unterzeichnet und das Regiment von Rouquette auf dem
+                    Rückmarsch.</p>
+                <p>In <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> bin ich nicht gewesen,
+                    denn es ist bei uns eine ganz außerordentlich schlechte und veränderliche
+                    Witterung, aber <persName key="ed_d42_1st_ncb">Sperling</persName> war auf
+                    unterschiedene Befehle von <seg type="comment">
+                  <orig>Sr. Exzellenz</orig>
+                  <note xml:id="nyt5_hy3_y2b">Der alte Graf <persName key="ed_csb_mdf_cy">Lehndorff</persName>.</note>
+               </seg> da, nahm befohlenermaßen sein
+                    Geld mit und musste es aber wieder retour nehmen, die Gründe davon sind mir
+                    unbekannt. Die Gesundheit Sr. Exzellenz nach allen Nachrichten, die ich habe,
+                    ist immer die nämliche; Sr. Exzellenz sind sonsten recht wohl, können die
+                    mehreste Zeit gut essen und schlafen, nur die Geisteskräfte nehmen ab, und die
+                    Irrungen der Gedanken kommen und äußern sich nach wie zuvor. Sr. Exzellenz die
+                        <persName key="ed_gnc_c1m_2y">Frau Gräfin</persName> dagegen sollen recht
+                    wohl und munter sein. </p>
+                <p>Nach meinen Nachrichten werden die Frau Gräfin von <persName key="ed_ojg_5c5_g2b">Dönhoff</persName> mit der ganzen Familie noch vor dem Frühjahr in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> eintreffen.</p>
+                <p>Hier in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ist noch alles gut
+                    und von Bedeutung nichts vorgefallen. Krankheiten sind auch wenige und die
+                    Sterbefälle äußerst selten, doch ist der alte <persName key="ed_c4x_rcv_mbb">Assmann</persName> gestorben. Ich fürchte sehr die Not des künftigen Jahres
+                    und asserviere soviel ich kann, hoffe auch reichlich mit Saat, Brot und Futter
+                    auszukommen. Die Preise steigen. Korn gibt der Scheffel in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> 8 Fl., die Erbsen und Gerste 7
+                    Fl., der Haber 4 1/2 Fl. Der Weizen ist dem Korn fast gleich. Von der großen
+                    8-monatlichen Lieferung ist noch bis jetzt alles still, außer das <placeName key="ed_h35_jqh_my">Drengfurthsche</placeName> Magazin wird durch
+                    Landesfuhren nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    transportiert und diese ganze Woche sind schon Fuhren dahin abgegangen. Wir
+                    müssen von <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> auch drei Wagen
+                    dazu hergeben, es besteht aus 11.000 Scheffel Haber und 1.800 Scheffel Korn und
+                    Mehl. Das Regiment von Reinhardt ist gestern nach <placeName key="ed_uyl_j3c_gy">Danzig</placeName> von <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> aus marschiert; wir haben also in dieser ganzen
+                    Gegend kein Militär mehr.</p>
+                <p>Die Schimmel-Stute ist recht gesund und im guten Stande, nur tragend wird sie
+                    beinahe nicht sein. Sie ist noch immer so wie sie war und dabei sehr mutig,
+                    indessen werde ich sie noch ein paar Monate auf Stroh gehen lassen.</p>
+                <p>Bei der Krankheit des Herrn General von <persName key="ed_cks_tq4_vcb">Rouquette</persName> sind hier aus der <placeName key="ed_hz1_4wl_2y">Angerburgschen</placeName> Officien einige Medikamente für denselben durch
+                    den Hofrat <persName key="ed_bhs_rmt_q2b">Flach</persName> verschrieben. Ich
+                    werde die Rechnung bezahlen und es von dem zu bezahlenden Gelde für den Haber
+                    abziehen.</p>
+                <p>Ew. Hochgeboren können gewiss überzeugt sein, dass mir alle guten Menschen hier
+                    in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> den innigsten und
+                    herzlichen Wunsch äußern, dieselben nicht allein gesund und wohl zu wissen,
+                    sondern auch außer den Gefahren des Krieges auf dem Rückmarsch in unsere Gegend,
+                    damit wir alsdann bald das Glück und die Freude haben können, dieselben hier in
+                    Steinort zu sehen, und mit der innigsten Freude zu empfangen. Gewiss wird die
+                    Hand des Schicksals Ew. Hochgeboren unter dem Schutz und Schirm des Glücks und
+                    Dero militärischen Talente, und unseren künftigen Herrn und Wohltäter mit
+                    Lorbeeren gekrönt und mit Ruhm und Ehre geschmückt gesund und wohl wieder
+                    zuführen, dieses ist der aufrichtige Wunsch (nach der untertänigsten Empfehlung
+                    meiner Frauen und aller guten Steinortschen Einwohner) desjenigen, der sich
+                    ehrfurchtsvoll unterzeichnet </p>
+				        <closer>
+					          <salute>Ew. Hochgeboren untertänigster treuer Diener</salute>
+					          <signed>Berent</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

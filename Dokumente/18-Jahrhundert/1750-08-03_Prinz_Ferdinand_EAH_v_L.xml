@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_kx2_1s3_tcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Potsdam, 3. August 1750</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_kx2_1s3_tcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750-1804), in: Masovia 11 (1906), S. 118-154, hier S.
+                            122</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>
+                    <date when="1750-08-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <profileDesc>
+            <correspDesc>
+                <note>Die 105 französischsprachigen Prinzen-Briefe befanden sich in einem separaten
+                    Umschlag im Familienarchiv. Schmidt schreibt in seiner Einleitung zu den
+                    Tagebüchern (1906), der Majoratsherr <persName key="ed_ik3_ckz_2y">Carl von
+                        Lehndorff</persName> habe ihm neben 18 Tagebüchern <quote>zur weiteren
+                        Durchsicht</quote> auch die <quote>größten Schätze des Steinorter Archivs,
+                        die Briefe der Brüder Friedrichs des Großen an den Verfasser der Tagebücher,
+                        ausgehändigt</quote>. Es ist vorstellbar, dass die Tagebücher unvollständig,
+                    die Briefe möglicherweise gar nicht nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zurückgelangten, zumal Schmidt nach den bei Perthes
+                    1907 erschienenen Tagebüchern Nachträge in den „Mitteilungen‟ publizierte und
+                    1922 einen Antrag auf Druckkostenzuschuss für weitere Veröffentlichungen stellte
+                    (vgl. Dokument vom <ref target="lehndorff_irc_xmk_fbb">22. September
+                    1922</ref>). Er verstarb 1927, ein Nachlass ist unbekannt. Nach Carl von Lorck
+                    (Hrsg.), Die Schröttersche Chronik aus Wohnsdorf, Limburg/Lahn 1969, S. 61
+                    wurden durch Schmidt <quote>bei weitem nicht die gesamten Tagebücher</quote>
+                    abgedruckt. Die Zahl der Briefe des <persName key="ed_nvx_wcz_bz">Prinzen
+                        Heinrich</persName> hatte <persName key="ed_wms_mh2_cy">Anna von
+                        Lehndorff</persName> gegenüber Schmidt mit 800 angegeben, er fand nur 411 in
+                    Steinort vor. Bei der Übersetzung der Tagebücher und Briefe hatten verschiedene
+                    Personen mitgewirkt (Baronin <persName key="ed_vhr_wjh_cy">Anna von Schrötter,
+                        geb. Gräfin von Lehndorff</persName>, deren Schwägerin <persName key="ed_pdq_hnc_kfb">Ella von Porembski</persName>, geb. Freiin von
+                    Schrötter, Gustav Berthold <persName key="ed_lms_hvc_hkb">Volz</persName>,
+                    Friedrich <persName key="ed_tgy_sql_gbb">Meusel</persName>), sie waren also in
+                    verschiedene Hände gelangt. Meusel hatte auch dem Direktor des Geheimen Archivs
+                    Briefe geschickt, die am 6. April 1908 zurückgingen, vgl. GStA PK, I. HA, Rep.
+                    178, Nr. 1044, Bd. 1, Bl. 134. In dem undatierten und nicht unterschriebenen
+                        <quote>Verzeichnis derer Sachen, so der Herr Graf von Lehndorff Hochgeboren,
+                        mein bester Freund, bei mir zur Aufbewahrung zurückgelassen hatte</quote>,
+                    in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort (unverzeichnet) sind
+                    auch <orgName key="ed_tjm_5dn_4y">Bücher</orgName> (<quote>ein Atlas von 50
+                        Karten, worin noch liegt die ganze Preuß. Armee in völliger
+                        Mundierung</quote> und <quote>Dreiunddreißig französische und teutsche
+                        Bücher</quote>), Noten und Tableaus, sowie <quote>ein Paquet Briefe von Sr.
+                        Majestät dem König an den Herrn Graf, vom Prinz von Preußen, vom Prinz Lui,
+                        vom Prinz Heinrich und übrige Briefe. Von des Herrn Grafen Eltern, sind
+                        durch meine Hand mit des Herrn Grafen Petschaft C. und Krone
+                        versiegelt</quote>, aufgeführt mit dem Hinweis: <quote>ist alles im
+                        Schreiben-Pult befindlich</quote>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Potsdam, 3. August 1750</dateline>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/> Ich weiß nicht, lieber Graf, woher Frau von <seg type="comment">
+                  <orig>B...</orig>
+                  <note xml:id="nrrz_ks3_tcb">So in der
+                        Vorlage.</note>
+               </seg> auf den Einfall kommt, dass ich ihre Reiher-Hutfeder
+                    kaufen soll; offenbar hat sie keiner der anderen nehmen wollen, sonst hätte sie
+                    sich nicht einfallen lassen, sie mir anzubieten. Wenn sie aus dem Haar ihrer
+                    kleinen <seg type="comment">
+                  <orig>Schwester</orig>
+                  <note xml:id="nmjb_jt3_tcb">Sowohl <persName key="ed_y4r_3y4_mbb">Sophie Dorothea</persName> als
+                            auch <persName key="ed_zsm_n55_sy">Marie Eleonore</persName> waren zu
+                            diesem Zeitpunkt noch unverheiratet.</note>
+               </seg> bestünde, könnte ich
+                    mich vielleicht entschließen, sie zu kaufen, aber da es nur eine Reiher-Hutfeder
+                    ist, bin ich in sehr großer Verlegenheit, was ich damit anfangen soll. <gap reason="insignificant"/> Man muss Ihr Glück haben, damit die Schönheiten von
+                    Berlin hinter einem herlaufen. Leben Sie wohl, <seg type="comment">
+                  <orig>kleiner
+                            Graf</orig>
+                  <note xml:id="nw3f_ys3_tcb">Lehndorff war drei Jahre älter
+                            als Prinz Ferdinand. Sein Bild findet man im Hohenzollernjahrbuch
+                            1903.</note>
+               </seg>
+            </p>
+				        <closer>
+					          <salute>Ihr wohlgesinnter Freund</salute>
+					          <signed>Ferdinand</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

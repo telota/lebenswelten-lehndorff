@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hwt_m1h_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Friedrich Ludwig Graf von Klinckowström an Carl Friedrich Ludwig Graf
+                    von Lehndorff. Korklack, 24. Mai 1832</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hwt_m1h_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 344, Bl. 3-3v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_uxc_ljt_c2b">Klinckowström, Karl Friedrich Ludwig Graf von
+                        (1780-1844)</persName>
+                    <placeName key="ed_ugw_w2b_tcb">Korklack</placeName>
+                    <date when="1832-05-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Im folgenden Brief vom 2. August 1832 (Bl. 4-4v) bedauerte Klinckowström, dass
+                    Lehndorff in seinem <quote>frohen Zirkel</quote> am 28. Juli gefehlt habe, zu
+                    dem die Familien von <placeName key="ed_l5b_sjt_c2b">Puschkeiten</placeName>,
+                        <placeName key="ed_o2w_tjt_c2b">Sehmen</placeName> und <placeName key="ed_dxb_zdf_4y">Sanditten</placeName> sich eingefunden hatten. <persName key="ed_rk2_mmz_ny">Kalckreuth</persName> sei für einige Zeit <quote>hier im
+                        Lande</quote>, Lehndorff werde ihn sicher in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> sehen. Seine Lebensweise sei sehr
+                    <quote>mobil</quote>, am 3. Juni gehe er nach Sehmen, <quote>wo wie gewöhnlich
+                        Königs Geburtstag gefeiert wird</quote>. Er habe mit <persName key="ed_wgw_p35_ncb">Burgsdorff</persName>, als dieser von Steinort kam,
+                        <quote>auf der offenen Straße über sein ganz markantes unglückliches
+                        Verhältnis mit dem Oberstallmeister gesprochen</quote>, dem er als
+                    Landstallmeister unterstellt war.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/344/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Korklack, den 24. Mai 1832</dateline>
+                </opener>
+				        <p>Schon bei meiner Anwesenheit in <placeName key="ed_xrv_gwb_by">Berlin</placeName> hörte ich
+                    mit freudiger Teilnahme, dass Sie, mein verehrter Freund, um Ihren Abschied
+                    geschrieben hätten, und in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, dass Ihr Wunsch erfüllt sei. Also meinen Glückwunsch
+                    zur gewonnenen Unabhängigkeit, die das schönste Gut auf Erden ist. Mich bangt
+                    recht danach, Sie wiederzusehen, nachdem ich schon so lange diese Freude
+                    entbehrt habe. Der eigentliche Zweck dieses Schreibens ist anzufragen, ob Sie
+                    ein gutes Reitpferd für meinen Sohn <persName key="ed_ip3_ykt_c2b">Karl</persName> im 3. Kürassierregiment zum Verkauf besitzen. Wenn ja, so
+                    machen Sie mir doch eine kleine Beschreibung davon und fordern Sie einen
+                    billigen und letzten Preis.</p>
+                <p>Ich reise heut nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, um
+                    dort meine Wohnung für <persName key="ed_y3n_mlh_4cb">Natzmer</persName> zu
+                    räumen, und werde dort wohl bis Anfang kommenden Monats bleiben, dann aber
+                    hierher zurückkehren. Je nachdem nun also dieses Schreiben Ihnen zu Händen
+                    kommt, danach bitte ich die Nachricht wegen des Pferdes entweder nach Königsberg
+                    oder hierher zu adressieren. Jedenfalls aber möchte ich doch bald Sie
+                    wiedersehen und daher bitte ich, kommen Sie bald, und zwar mit der liebenswerten
+                        <persName key="ed_tcp_g3l_2y">Gattin</persName> hierher oder ich kommen zu
+                    Ihnen. </p>
+				        <closer>
+					          <salute>treu der Ihrige</salute>
+					          <signed>Klinckowström</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

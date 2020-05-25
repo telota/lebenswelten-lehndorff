@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_obn_dby_3bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Leopold Graf von Schlieben an Ernst Ahasverus Heinrich Graf von Lehndorff. Gerdauen, 11. Januar 1785</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_obn_dby_3bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 382, Bl. 9-10v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zqm_ymf_hy">Schlieben, Karl Leopold Graf von
+                        (1723-1788)</persName>
+                    <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>
+                    <date when="1785-01-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Am 6. Dezember hatte Schlieben Lehndorff geschrieben, es sei ihm eine Freude,
+                        <quote>wenn Sie mich kapable finden, Ihnen zu dienen. Es dependiert also von
+                        Ihnen, Ihren jungen Menschen zur Erlernung der Gärtnerei herzusenden, wenn
+                        Sie befehlen. Mein <persName key="ed_xp2_wcv_mbb">Bonais</persName> hat vor
+                        8 Tagen einen guten Burschen des Major <persName key="ed_qrk_qwz_scb">Benicke</persName> freigesprochen und ihn durch ein paar Ohrfeigen in
+                        den Herrenstand versetzt (wie verschieden sind doch die Wege, um ein Herr zu
+                        werden). Er dankt aus tiefster Demut für das gnädige Zutrauen, so Sie in ihn
+                        setzen, und er verspricht, alles mögliche von seiner Seite dabei zu
+                        tun.</quote> - Der Sohn des Steinorter Gärtners <persName key="ed_c4x_rcv_mbb">Martin Assmann</persName>, <persName key="ed_z3q_rmk_w2b">Friedrich Leopold von Assmann</persName>, wurde bei dem
+                    Schlossgärtner von Gerdauen in die Lehre gegeben. Am 5. Mai 1783 erhielt er
+                    seinen Gesellenbrief, derselbe in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                    Lehndorff-Steinort, Nr. 277 (Pergamenturkunde, Siegel in Elfenbeinkapsel
+                    angehängt). Ein weitere Gärtnerlehrling, Martin <persName key="ed_uzl_ymk_w2b">Sczescka</persName>, Sohn des Schulzen <persName key="ed_pyp_zmk_w2b">Matthes Sczescka</persName> in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, wurde 1786 nach <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName> bei dem dortigen Schlossgärtner Michael <persName key="ed_a2s_gnk_w2b">Zimmermann</persName> in die Lehre gegeben, vgl. ebd.,
+                    Nr. 278 (Gesellenbrief vom 31. Mai 1789, Pergamenturkunde, Siegel in Holzkapsel
+                    angehängt). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gerdauen, den 11. Januar 1785</dateline>
+					          <salute>Mein würdigster bester Graf!</salute>
+                </opener>
+				        <p>Tausend Dank sei Ihnen gesagt, dass Sie sich der armen Gerdauer erinnern. <gap reason="insignificant"/>
+                    <seg type="comment">
+                  <orig>Wegen des Verlustes an ihrem <persName key="ed_c4x_rcv_mbb">Assmann</persName> bedaure Ihnen aufrichtig,
+                            denn er war ein guter fleißiger Gärtner und moraliter guter
+                            Mensch.</orig>
+                  <note xml:id="nkbh_m5l_s2b">Martin Assmann war Hofgärtner
+                            in Steinort. </note>
+               </seg> Ich zweifle, dass Sie einen besseren bekommen
+                    werden. Mein <persName key="ed_xp2_wcv_mbb">Bonais</persName>, bis zum innersten
+                    seiner Pflanzer-Seele gerührt von Ihrem gnädigen Andenken, gibt sich wegen eines
+                    guten Gärtners hier alle mögliche Mühe, kann aber nichts Vernünftiges
+                    auftreiben, und mit einem elenden Subjekte ist Ihnen auch nicht gedient. <gap reason="insignificant"/>
+                </p>
+                <p>Für die <seg type="comment">
+                  <orig>Besetzung der Stelle des Ministers v. <persName key="ed_lc2_w4f_hy">Münchhausen</persName> mit dem Herrn v.
+                                <persName key="ed_hrk_ddv_mbb">Reck</persName>
+                  </orig>
+                  <note xml:id="nu3p_wmw_42b">Im Auftrag Friedrichs II. war Reck am 30. Dezember
+                            1784 zum Justizminister ernannt worden.</note>
+               </seg> lobe ich meinen
+                    Schöpfer, dass ich doch <seg type="comment">
+                  <orig>
+                     <seg type="comment">
+                        <orig>Fincken</orig>
+                        <note xml:id="nzdn_5nw_42b">Ludwig Finck
+                                    von <persName key="ed_vz3_gpp_mbb">Finckenstein</persName>
+                        </note>
+                     </seg> und meine <seg type="comment">
+                        <orig>Tochter</orig>
+                     </seg>
+                  </orig>
+                        <note xml:id="nczv_fv1_tcb">Es muss sich um die im Brief erwähnte Tochter
+                            Eleanore handeln. Finckenstein blieb unverheiratet. Zur Besetzung der
+                            Stelle vgl. Schmidt-Lötzen, Nachträge, Bd. 2, S. 458 f. </note>
+               </seg> im
+                    Lande behalte. Ist er kapable, was Gutes zu stiften, so kann er ja solches hier
+                    im Lande ebenso gut tun, wie anderwerts und er hätte seine Umstände sehr
+                    alterieren müssen. </p>
+            <p>In <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> soll alles sehr steif und gezwungen sein
+                    und alle Divertissements, so sie da haben, gar nicht ihrem Namen angemessen
+                    sein. <gap reason="insignificant"/> Indessen passieren auch einige komische
+                    Auftritte. Darunter mir diese vorzüglich gefallen haben: Auf einem publiken Ball
+                    von der Bourgeoisie refusierte eine spröde Schöne einem Studenten den Tanz, und
+                    tanzte darauf gleich mit einem anderen, dem sie ein bestes accoueil macht. Der
+                    erste, durch den Refues beleidigt und aufgebracht, wartete auf der
+                    Schneider-Brücke auf die Retour dieser Mademoiselle mit anderen macialistischen
+                    Studenten, und wie sie ankommt, nötigen sie die Mademoiselle auf der
+                    Schneider-Brücke mit alles Deceale auszusteigen und tanzen mit ihr im Beisein
+                    ihrer Mutter einen englischen Tanz durch 12 Paar, führen sie manierlich in den
+                    Wagen und lassen sie in Gottes Namen fahren ohne sie sonst zu beleidigen. Die
+                    auf diese Art zurechtgewiesene Schöne soll aber selig versichert haben, künftig
+                    gar nicht mehr zu tanzen. Schade! Sie soll gut tanzen. <gap reason="insignificant"/> Wollte Gott, dass wir bald das Glück haben möchten,
+                    Ihnen allerseits wieder bald in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu wissen, denn so schön auch Steinort ist, was ist es
+                    ohne seinen würdigen Bewohner, welches ebenfalls auf <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName> zu applizieren, wo ich gewiss
+                    versichert bin, dass der Herr ihr Gutes nicht besser hat belohnen können, als
+                    dass er sie durch ihre Verbindung einen durch den anderen glücklich gemacht.
+                        <gap reason="insignificant"/> Warum aber für den kleinen Graf <seg type="comment">
+                  <orig>Heinrich</orig>
+                  <note xml:id="nyjf_h2v_mbb">Heinrich
+                            August, geboren 1777</note>
+               </seg> eine Leibesübung durch Exerzieren? Es
+                    sei denn, dass er ein Vergnügen daran fände. Die <persName key="ed_en5_n2v_scb">Baronin</persName> von <persName key="ed_en5_n2v_scb">Beynuhnen</persName>
+                    ist auch hier und trägt mir auf, sie gehorsamst zu empfehlen. <seg type="comment">
+                  <orig>Sie kommt eben aus <unclear reason="illegible" cert="high">Posen</unclear>, wo sie Handel und Wandel
+                            getrieben.</orig>
+                  <note xml:id="naln_twd_zdb">Vgl. Schmidt-Lötzen,
+                            Nachträge, Bd. 2, S. 337 (Oktober 1783): Die Baronin verdiene seine
+                            Hochachtung. <quote>Sie führt die ganze Wirtschaft mit einem Verständnis
+                                und einem Eifer, wie sie nur der gescheiteste Mann zeigen
+                                kann.</quote> Gerade sei sie von einer 14-tägigen Reise <quote>über
+                                die polnische Grenze</quote> zurückgekehrt, wo sie Ochsen gekauft
+                            habe. <quote>Die Erfolge ihrer Bewirtschaftung dieser riesengroßen
+                                Begüterung sind ganz außerordentlich.</quote>
+                  </note>
+               </seg>
+                    <gap reason="insignificant"/>
+                </p>
+				        <closer>
+					          <salute>Ihr treuer Knecht</salute>
+					          <signed>Schlieben</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

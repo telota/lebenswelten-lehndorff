@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_v5t_vmz_pcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Evangelisches Konsistorium der Provinz Ostpreußen an den Gemeindekirchenrat
+                    in Rosengarten. Königsberg, 30. </title>
+                <title>September 1921</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_v5t_vmz_pcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>EZA</institution>
+                        <idno>182/3224, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_fgn_hkv_ccb">Evangelisches Konsistorium (EKBO)</orgName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1921-09-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_qhc_jkv_ccb">Evangelische Kirche Rosengarten</orgName>
+                </correspAction>
+                <note>Vgl. APO, Bestand 382 FA Lehndorff, Nr. 537: Patronatsakten, die Kirchen in
+                    Rosengarten und Doben betr. (1785-1911), Nr. 539: Schriftstücke in der
+                    Angelegenheit der Rosengartenschen Kirchenbauten (1832); GStA PK, XX. HA, Rep.
+                    54 Gutsarchiv Lehndorff-Steinort, Nr. 42, 821, 826. - Bereits in den 1830er
+                    Jahren hatte die Kirchengemeinde <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> gegen <persName key="ed_k4z_jgl_2y">Carl Friedrich
+                        Ludwig Graf von Lehndorff</persName> als Patron wegen Rückerstattung der für
+                    den Kirchenneubau in Rosengarten aufgebrachten Kosten prozessiert, ebd., Nr.
+                    198.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Königsberg i. Pr., den 30. September 1921</p>
+                <p>Abschrift.</p>
+                <p>Auf die an den Evangelischen Oberkirchenrat gerichtete Eingabe vom 18. Juli 1921,
+                    die dieser uns zur weiteren Veranlassung übergeben hat.</p>
+                <p>
+               <persName key="ed_ik3_ckz_2y">Graf Lehndorff-Steinort</persName> ist Patron der
+                    Kirche in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>. Das Patronat
+                    ruht auf <placeName key="ed_pxt_cnh_1y">Gr. Steinort</placeName>. Das Gut
+                    Rosengarten hat nach Auskunft des Gemeindekirchenrats in Rosengarten nicht zu
+                    Steinort gehört, sondern ist ebenso wie 12 Hufen des Pachtgutes <placeName key="ed_xjg_d12_gy">Stobben</placeName> erst später erworben.</p>
+                <p>Wir möchten daher annehmen, dass das Patronatsrecht und auch seine Lasten auf das
+                    Gut Rosengarten und den später erworbenen Teil von Stobben sich nicht
+                    erstrecken, dass das Patronatsrecht vielmehr nur mit der Begüterung verknüpft
+                    ist, die zur Zeit der Belehnung des Grafen <persName key="ed_wtg_nyl_2y">Ahasverus von Lehndorff</persName> mit dem Kirchenlehn und dem jus
+                    patronatus zu Steinort gehörten.</p>
+                <p>Die Entscheidung dieser Frage steht jedoch maßgeblich nur den ordentlichen
+                    Gerichten zu.</p>
+                <p>An Herrn Rechtsanwalt <persName key="ed_f2s_t3q_pz">Siebert</persName>, Berlin NW
+                    21, Rathenowerstraße 78</p>
+                <p>Abschrift zur Kenntnis</p>
+                <p>für den Präsidenten.</p>
+                <p>[Paraphe]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

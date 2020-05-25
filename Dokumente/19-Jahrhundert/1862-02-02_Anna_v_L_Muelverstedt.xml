@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_h5v_t5f_qcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anna Gräfin von Lehndorff an George Adalbert von Mülverstedt.
+                    Steinort, 2. Februar 1862</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_h5v_t5f_qcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA M</institution>
+                        <idno>E 130 George Adalbert von Mülverstedt, Nr. 36/1: Ad Genealogiam der
+                            Grafen von Lehndorff, Bl. 17-18v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1862-02-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_my1_zlb_1bb">Mülverstedt, George Adalbert von
+                        (1825-1914)</persName>
+                </correspAction>
+                <note>Fragment</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 2. Februar 1862</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>Es ist mir leider nie gelungen, Ew. Hochwohlgeboren werte Bekanntschaft zu machen, welches
+                    ich mir so oft gewünscht, da ein so lebhaftes Interesse mich für die
+                    Wissenschaft erfüllt, die Ew. Hochwohlgeboren mit so regem Eifer, mit so vieler
+                    Begabung und zum Segen so vieler Familien kultivieren.</p>
+                <p>Ich wünschte von Herzen, dass das regere Interesse und die <gap reason="illegible"/> in historischer Sache, welches sich in den letzten
+                    Jahren gefunden, schon in früheren Zeiten sich gezeigt hätte; wir würden jetzt
+                    in der Vergangenheit weniger im Dunklen tappen und weniger auf Hypothesen
+                    angewiesen sein.</p>
+                <p>Ich habe damals, als dieselbe erschien, Ihre <seg type="comment">
+                  <orig>Abhandlung
+                            über unsere Familie</orig>
+                  <note xml:id="nqff_5ll_d2b">Mülverstedt,
+                            Adalbert von, Ursprung und Alter des gräflich von Lehndorffschen
+                            Geschlechts, in: Neue Preußische Provinzialblätter, Jg, 1856, S. 1-30
+                            und 89-110, siehe auch das Dokument vom <ref target="lehndorff_hpz_vtk_l1b">3. Mai 1856</ref>. </note>
+               </seg> mit
+                    gespanntem Interesse gelesen und verfolgt und dieselbe seitdem immer wieder im
+                    Herzen bewegt, weil auch ich mich sträubte anzunehmen, dass die Familie
+                    eingewandert und keinerlei Verbindung mit dem alten Legendorffschen Stamme haben
+                    sollte, da sie im 16. Jahrhundert gleich so geachtet und hervorragend
+                    auftritt.</p>
+                <p>Nun hatte ich aber leider als Frau so wenig Gelegenheit, gründlichere Forschungen
+                    anzustellen auf einem Gebiet, welches dennoch mein wärmstes Interesse in
+                    Anspruch nahm. Auch fanden sich <seg type="comment">
+                  <orig>viele alte schätzbare
+                            Urkunden und Briefe</orig>
+                  <note xml:id="nvpf_1ml_d2b">Diese bis in das
+                            14. Jahrhundert zurückreichenden Urkunden liegen, soweit noch vorhanden,
+                            heute im GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                        Lehndorff-Steinort.</note>
+               </seg> in so lang versäumter Unordnung vor, dass
+                    vor allem die ordnende Hand angelegt werden musste, ehe das prüfende Interesse
+                    sich an ihre Erforschung machen durfte.</p>
+                <p>Ein Fund, den ich aber in diesen Tagen getan, erscheint mir wichtig genug, um
+                    Ihnen denselben mitzuteilen, weil damit vielleicht etwas mehr Klarheit über die
+                    Erwerbung der <placeName key="ed_pxt_cnh_1y">Steinorter</placeName> Wildnis
+                    durch die Lehndorff wie auch über die direkteren Vorfahren der uns bekannten
+                    Fabiane im 15. Jahrhundert bekannt werden dürften.</p>
+                <p>In der <seg type="comment">
+                  <orig>Verleihungsurkunde d. D. 6. April
+                            1554</orig>
+                  <note xml:id="ntrg_sml_d2b">Abschrift in: GStA PK, XX. HA
+                            Historisches Staatsarchiv Königsberg Adelsarchiv, Nr. 662, Bd. 1, Bl.
+                            42-45; Kopie in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 238. Das
+                            Original, das in der im GStA PK, XX. HA Gutsarchiv Lehndorff-Steinort
+                            überlieferten <ref target="lehndorff_dc5_z5h_v2b">
+                        <quote>Consignation
+                                    der im eysernen Kasten befindlichen Schriften, die Anno 1753 den
+                                    2. July revidieret</quote>
+                     </ref>, unter <quote>No. I
+                                Steinortsche Sachen, darinnen Verschreibung über die Steinortsche
+                                Wildniß Markgraf Albrecht des Älteren auf alle drei Brüder
+                                Königsberg 6. April 1554</quote> verzeichnet ist, ließ sich bisher
+                            nicht auffinden. </note>
+               </seg> hieß es wörtlich: „Nachdem uns die
+                    Ehrbaren unsere lieben getreuen <seg type="comment">
+                  <orig>Caspar, Fabian und
+                            Melchior von Lehndorff Gebrüdere</orig>
+                  <note xml:id="nvkf_gm3_hfb">Vgl.
+                            Schwennicke, Detlev, Europäische Stammtafeln N. F., Bd. XX: Brandenburg
+                            und Preußen 1, Frankfurt am Main 2002, Tafel 148.</note>
+               </seg> pp
+                    berichtet, wie ihren <seg type="comment">
+                  <orig>Voreltern</orig>
+                  <note xml:id="nayl_jm3_hfb">Also <persName key="ed_j2r_xp3_d2b">Fabian von
+                                Maulen, ab 1456 auch von Legendorff</persName>, verheiratet mit
+                            Margarete Stange von Logendorff (Legendorff), 1454/56 Hauptmann des
+                            Preußenbundes und Reichsritter im Brandenburger Gebiet, später Woiwode
+                            von Pommerellen. Er verstarb 1484. Er gehörte ebenso wie seine Brüder
+                            zur Eidechsengesellschaft, vgl. Voigt, J., Geschichte der
+                            Eidechsengesellschaft 1822, S. 128 und Creutz, Philipp von, Geschichte
+                            des Bundeskrieges (Scriptores rerum Prussicarum V, S. 381): „Fabian von
+                            Maulen, du bist auch der rechte einer zum Barthenstein gewesen [Tagfahrt
+                            zu Barthenstein 1474]; ich hett dich gar vil erlicher gehaltten und
+                            gedacht, du wurdest dein eydt angesehen han, auch das ir aller solchs zu
+                            thun gar kein redlich ursach gehabtt habet. Man musz aber deinem geblut
+                            schuld geben; dein vorelthern haben auch solchs gethan.“ Dessen Vater
+                                <persName key="ed_wtm_b4m_s3b">Jacob von Maulen</persName>, der 1423
+                            Taberlack als Teil der Steinorter Begüterung erworben hatte, war am
+                            Anfang des 15. Jahrhunderts Vasall des Brandenburgischen Gebiets. Im
+                            Stammbaum der Rabeschen Sammlung der v. Wallenrodtschen Bibliothek in
+                            Königsberg (sub Lehndorff) ist er als Jakob Stange, genannt Maul oder
+                            von Logendorf, 1412, auf Logendorf 1420, Taberlacken 1422
+                            genannt.</note>
+               </seg> seligen die Verschreibung über die <placeName key="ed_pxt_cnh_1y">Steinortsche</placeName> Wildnis und das halbe Dorf
+                        <placeName key="ed_s3k_b12_gy">Taberlaucken</placeName>, in unserem Amt
+                    Angerburg gelegen, in verschiedenen Kriegen abhändig worden, deswegen sie zum
+                    untertänigsten gebeten, wir wollten ihnen solche Wildnis zusammen mit dem Dorf
+                    Taberlaucken wiederum gnädigst verschreiben, welche Bitten wir ihnen in
+                    Betracht, dass ihre Voreltern und folglich sie solche Wildnis und das halbe Dorf
+                    Taberlaucken <gap reason="illegible"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></gap>
+               <?oxy_custom_end?>
+                    über Menschengedenken besaßen pp nicht abschlagen wollen.‟ Aus dieser in zwei
+                    Verschreibungen gleich lautenden <gap reason="illegible"/>, dass die Güter nicht
+                    erst anno 1554 erkauft und verliehen wurden, erhellt, wie auch aus alten
+                    Traditionen, dass die Lehndorff schon früher hier angesessen waren. Und nun
+                    finde ich unter den alten Dokumenten eine <seg type="comment">
+                  <orig>Verschreibung vom Jahre 1423, </orig>
+                        <note xml:id="nlbg_44l_d2b">GStA PK, XX. HA, Rep. 54, in der
+                                <quote>Consignation</quote> unter <quote>Nr. VII Taberlacksche
+                                Sachen</quote> als <quote>Kaufbrief über Taberlack anno 1423 auf
+                                Pergament</quote> aufgeführt. </note>
+                    </seg>in der Johann von Buchan, Comptur zu Brandenburg, einen Kaufkontrakt
+                    bestätigt zwischen Hans Surwille einesteils (<seg type="comment">
+                  <orig>dessen
+                            Vater Ritter Thomas Surwille 1397 mit 120 Huben von Konrad von Jungingen
+                            belehnt wurde und dessen Gut an die unsrigen grenzte</orig>
+                  <note xml:id="nxvq_hpl_d2b">
+                     <ref target="lehndorff_it5_4jc_43b">
+                        <ref target="lehndorff_it5_4jc_43b">GStA PK, XX. HA, Urkunden
+                                    Schiebl. XXVII Nr. 223</ref>
+                     </ref>).</note>
+               </seg> und <persName key="ed_wtm_b4m_s3b">Jacob von Maulen</persName> und Lucas von der Lauthe
+                    anderenteils, die ihm, dem Hans Surwille, die eine Hälfte des Gutes Taberlaucken
+                    abkaufen (<seg type="comment">
+                  <orig>welches Markus Surwille, Bruder des Hans,
+                            1416 von Hans Schaffstedt, der dasselbe von seinen Vorfahren ererbt, die
+                            mit demselben von Heinrich von Plauen belehnt worden,
+                            erkauft,</orig>
+                  <note xml:id="nv3m_rpl_d2b"> Gehörte ebenfalls zu
+                                <quote>Nr. VII Taberlacksche Sachen</quote>: Eine alte Schrift auf
+                            Pergament, die Huben in Taberlack betreffend 1416 (später zugesetzt: von
+                            Hochmeister Michael Küchmeister v. Sternberg). Abschrift in: XX. HA,
+                            Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 459: Hochmeister Michael
+                            Küchmeister bestätigt einen Vergleich zwischen Marcus Surwille und Hans
+                            Schaffstedt über Taberlack und Schonemor Pr. Eylau Donnerstag nach
+                            Agathe 1416. Siehe auch: GStA PK, XX. HA, Etats-Ministerium, 7 d T 1.
+                        </note>
+               </seg> und welches <seg type="comment">
+                  <orig>noch näher an unserer
+                            Steinorter Wildnis belegen</orig>
+                  <note xml:id="nq34_ypl_d2b">
+                     <ref target="lehndorff_akh_bfc_43b">XX. HA, FA Lehndorff, Nr. 615:
+                                Auseinandersetzungen zwischen Caspar von Lehndorff und Graf von
+                                Schlieben um die Grenzen der Güter Taberlack und Serwillen,
+                                1416</ref>.</note>
+               </seg>). </p>
+                <p>Nun erwähnen Ew. Hochwohlgeboren in der Lehndorffschen Abhandlung pag. 27, dass
+                    Fabian Maul, Hans Kegel, Niclas und Thomas Gebrüdere von der Lauthe und der
+                    einzige Barther Georg Surwille von des Ordensmeisters Amnestie 1454
+                    ausgeschlossen. - Ist nun nach dem vorhergegangenen nicht anzunehmen, dass es
+                    die Nachkommen des Jacob von Mulen, Lukas von der Lauthe und Hans Surwille
+                    gewesen, welche sich durch nachbarliche, dem Orden <gap reason="illegible"/>
+                    Örtlichkeit zu gleicher Tat verbunden und der gleichen Strafe teilhaftig
+                    gemacht? Wird es also dieser Jakob v. M., der 1423 in hiesiger Gegend, direkt
+                    grenzend an die Steinorter Wildnis und dieselbe entweder schon besitzend oder
+                    bald darauf erwerbend, der Vater des Fabian Maul gewesen, der nach dem Zeugnis
+                    aller älteren Familienurkunden und nach dem <seg type="comment">
+                  <orig>Leichensteine seines Sohnes Fabian in Preuß. Eylau d. d.
+                            1545</orig>
+                  <note xml:id="njmg_3rl_d2b">Abschrift Anna Lehndorffs in:
+                            LASA, StA M, E 130 George Adalbert v. Mülverstedt, Nr. 36/1: Ad
+                            Genealogiam der Grafen von Lehndorff, Bl. 11: <quote>Dies sind die
+                                Ahnen, welche sich auf dem Epitaphium in Pr. Eylau verzeichnet
+                                fanden, welches von 1576 datiert und vielleicht Licht über die
+                                dunklen Heiratsverwandtschaften der ersten Fabiane gibt. Auch die
+                                Wappen Lehndorff und Legendorff von dort sind hier im Archiv kopiert
+                                unter Ahasverus Ernst 1724 </quote>. </note>
+               </seg> eine von
+                    Legendorff zur Frau gehabt. - Ist es nicht auch wahrscheinlich, dass mit dem
+                    Erlöschen des alten Legendorffschen Stammes die jüngere, bis dahin Maul genannte
+                    Linie durch Heirat mit der Erbtochter sich das Recht erworben, den
+                    ursprünglichen Namen wieder anzunehmen, ohne landesherrliche Erlaubnis, da doch
+                    so vielfach verschiedene Familiennamen von einem Stamm sich abzweigen, wie Ew.
+                    Hochwohlgeboren solches ja auch bewiesen! - <seg type="comment">
+                  <orig>Sollten
+                            nicht auch, was die fehlenden Namen der Ahnenmutter betrifft, die als
+                            Ahnen des Fabian gest. 1545 angegebenen Ahnen einige Klarheit
+                            geben.</orig>
+                  <note xml:id="ntsv_vq3_hfb">Vgl. Schwennicke, Stammtafeln
+                            N. F., Bd. XX, Tafel 148 und - mit darüber hinausgehenden Angaben für
+                            das 13. und 14. Jahrhundert: LASA, StA L, Bestand 21950 FA Lehndorff,
+                            Nr. 133 (Stammbaum).</note>
+               </seg>
+            </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

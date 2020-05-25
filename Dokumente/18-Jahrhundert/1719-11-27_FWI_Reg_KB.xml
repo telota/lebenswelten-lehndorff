@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_avf_rbx_d1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Wilhelm I. König von Preußen an die Regierung zu Königsberg.
+                    Berlin, 27. November 1719</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_avf_rbx_d1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, EM, Tit. 55 b, Nr. 5, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nyn_ffz_g1b">Preußen, Friedrich Wilhelm I. König von
+                        (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1719-11-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_rml_bbl_2z">Regierung zu Königsberg</orgName>
+                </correspAction>
+                <note>Am 18. August 1723 bestätigte der König den Tausch der Amtshauptmannschaften
+                    zwischen <persName key="ed_kyf_fpy_bz">Gerhard Ernst von Lehndorff</persName>
+                    und dem Tribunalsrat von <persName key="ed_lrq_xcl_rbb">Kunheim</persName>. Die
+                    Bestätigung liegt der Akte bei. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 27. November 1719</dateline>
+					          <salute>Von Gottes Gnaden Friedrich Wilhelm König in Preußen <lb/>Markgraf zu Brandenburg, des
+                        Heiligen Römischen Reichs Erzkämmerer und Kurfürst pp.</salute>
+                </opener>
+				        <p>Unseren gnädigsten Gruß und geneigten Willen zuvor, Hochwohlgeborener und Edle Räte,
+                    besonders Lieber und liebe Getreue. </p>
+            <p>Nachdem wir allergnädigst bewilligt, dass der Obrister <persName key="ed_gkr_d2z_g1b">Truchseß
+                        Graf zu Waldburg</persName> seine bisher gehabte <seg type="comment">
+                  <orig>Insterburgische Amtshauptmannschaft </orig>
+                  <note xml:id="ndps_yfm_ngb">Carl Ludwig Erbtruchseß Graf zu Waldburg war
+                            Amtshauptmann von 1712-1720. Dessen Vorgänger waren <persName key="ed_gnd_zhm_ngb">Gotthard Christoph von Schlieben</persName>,
+                            Verweser 1712-1722 und <persName key="ed_c1z_hx1_fz">Gustav Adolph von
+                                Gotter </persName>1720 (ev. auch Verweser).</note>
+               </seg> an den
+                    Fürstlich Hessen-Kasselschen Obristen, <persName key="ed_swz_dbp_mbb">Grafen von
+                        Lehndorff</persName> abgetreten, so haben Wir Euch solches hierdurch bekannt
+                    machen wollen mit dem allergnädigsten Befehl, besagten Grafen von Lehndorff in
+                    den Besitz sotaner Amtshauptmannschaft zu setzen, ihn zu deren Verwaltung mit
+                    nötiger Instruktion zu versehen, auch ihn deshalb in Eid und Pflicht zu nehmen,
+                    im Übrigen auch die Verfügung zu tun, dass ihm an Besoldung und übrigen
+                    Emolumentis aber dasjenige gereicht und abgefolget werde, was der Graf Truchseß
+                    zu Waldburg solcher Amtshauptmannschaft halber bis hierher zu genießen gehabt
+                    hatte. </p>
+				        <closer>
+                    <salute>Sind Euch mit Gnaden und geneigtem Willen wohl beigetan.</salute>
+                    <signed>Friedrich Wilhelm</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

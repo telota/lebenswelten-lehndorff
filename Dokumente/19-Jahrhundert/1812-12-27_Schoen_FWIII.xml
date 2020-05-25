@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_drz_ptl_5y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Theodor von Schön an Friedrich Wilhelm III. König von Preußen. Gumbinnen, 27.
+                    Dezember 1812</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_drz_ptl_5y</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness select="#this">
+                        <bibl type="print">Briefe und Aktenstücke zur Geschichte Preußens unter
+                            Friedrich Wilhelm III. vorzugsweise aus dem Nachlass von F. A. Stägemann
+                            hrsg. von Franz Rühl, Bd. 1, Leipzig 1899, S. 256-258</bibl>
+                    </witness>
+                
+                
+                    <witness>
+                        <bibl type="print">Droysen, J. G., Das Leben des Generalfeldmarschalls Graf
+                            Yorck von Wartenburg, Berlin 1851/52, T. 2, S. 272-275 </bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 305-307 (auf der Grundlage von
+                            Droysen)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q1t_d2f_4y">Schön, Theodor von (1773-1856)</persName>
+                    <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>
+                    <date when="1812-12-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_tl1_nbf_4y">Preußen, Friedrich Wilhelm III. König von
+                        (1770-1840)</persName>
+                </correspAction>
+                <note>Am 28. Dezember sollte <persName key="ed_k4z_jgl_2y">Lehndorff</persName> mit
+                    diesem und einem weiteren Brief <persName key="ed_q1t_d2f_4y">Schöns</persName>
+                    an <persName key="ed_ugx_xmg_hy">Hardenberg</persName> nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> aufbrechen. Er trat die Reise nicht
+                    an, sondern Schön benutzte Leutnant von <persName key="ed_htf_hqk_wcb">Plehwe</persName>, der nach seinem Urlaub in Litauen auf der Rückkehr nach
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> über <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> kam. Lehndorff reiste dagegen zu
+                        <persName key="ed_f2c_1mp_vcb">Yorck</persName>, dessen Verbindung zu Schön
+                    unterbrochen war, um ihm Bericht über die Lage in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> zu erstatten. Am 30. Dezember war er wieder bei
+                    General von <persName key="ed_vhm_mqk_wcb">Massenbach</persName> in <placeName key="ed_olw_h3d_py">Tilsit</placeName>, vgl. Schultze, Lebensbild, S. 307
+                    ff., 315 ff.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gumbinnen, 27. Dezember 1812</dateline>
+					          <salute>An des Königs Majestät.</salute>
+                </opener>
+				        <p>E. K. M. stelle ich ehrfurchtsvoll anheim, den Überbringer dieses, den Grafen <persName key="ed_zkm_whl_2y">Lehndorff</persName> auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, vor Sich zu lassen. Schon seit dem Anfang der Flucht
+                    der wenigen französischen Soldaten, welche den Kugeln und dem Frost entkommen
+                    waren, bin ich von Männern aus allen Ständen dieser <placeName key="ed_uvt_4j4_dz">Provinz</placeName> dringend aufgefordert, einen
+                    Augenzeugen, der nur sagt, was er sah, an E. K. M. abzuschicken. Da ich in der
+                    Regel täglich an Allerhöchstdero <persName key="ed_ugx_xmg_hy">Staatskanzler</persName> per Estafette berichtete und der <seg type="comment">
+                  <orig>Major von <persName key="ed_et5_kxl_5y">Hiller</persName>
+                        </orig>
+                  <note xml:id="nty1_xfj_wcb">Adjutant Yorcks während des Feldzuges
+                            1812</note>
+                    </seg>abgegangen war, so beruhigte ich damit die Besorgnis, dass die
+                    französischen Tagesbefehle und Ordres, welche von Armeekorps und Dingen
+                    sprechen, welche nicht mehr da sind, die Lage der Sache verdunkeln möchten.
+                    Seitdem russische Truppen aber den Teil der Provinz von <placeName key="ed_oxb_txl_5y">Memel</placeName> bis <placeName key="ed_omg_5xl_5y">Darkehmen</placeName> größtenteils besetzt haben, ist der direkte
+                    Postenlauf sistiert und der indirekte höchst unsicher geworden. <seg type="comment">
+                  <orig>Ich habe daher von den Vielen, welche zu E. K. M.
+                            wollten, um von der wahren Lage der Sache hier Bericht zu erstatten, den
+                            Grafen <persName key="ed_k4z_jgl_2y">Lehndorff</persName> auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ausgesucht. Er ist der
+                            bedeutendste Gutsbesitzer der Provinz, er war Militär, kann also
+                            militärische Ereignisse beurteilen, und er hat in dieser
+                            verhängnisvollen Zeit mir Beweise gegeben, dass er würdig ist, ein
+                            Mitglied der Familie zu sein, die sich seit Generationen durch
+                            Anhänglichkeit an E. K. M. Haus ausgezeichnet hat.</orig>
+                  <note xml:id="ncvv_tgd_wcb">Vgl. Schultze, Lebensbild, S. 261 ff., auch zu den
+                            Verhältnissen in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>.
+                            Demnach hatte Ostpreußen allein 1812 eine Gesamtschaden von fast 100
+                            Millionen Mark (33.208.474 Taler) durch den Feldzug erlitten und somit
+                            2/5 des Gesamtverlustes des Landes zu tragen. </note>
+               </seg> Er hat die
+                    große Szene größenteils selbst gesehen. Er kann, wie er hier und in <placeName key="ed_olw_h3d_py">Tilsit</placeName> selbst erfahren hat, E. K. M. sagen,
+                    mit welcher Ehrfurcht Ew. Majestät Name von jedem Russen genannt wird, mit
+                    welcher Achtung der Preußische Adler und jede von Ew. Majestät gesetzte
+                    Autorität begrüßt wird, und welche Mühe sich die russischen Obern geben, eine
+                    gute Manneszucht zu halten. </p>
+            <p>Um mit einem Zuge alles dieses zu bestätigen: Der hiesige Kosaken-Oberst fand fünf eben
+                    rekonvaleszierte Soldaten vom Leibregiment hier. Als er diese auf dem Rapport
+                    fand, schickte er sie mir gestern durch seinen Adjutanten und ließ mir sagen: Er
+                    handle der Freundschaft seines <persName key="ed_m25_tr1_1bb">Kaisers</persName>
+                    gegen Ew. Majestät gemäß, wenn er sie auf freien Fuß setze und zu meiner
+                    Disposition stelle. Er will ihre Pässe visieren, wenn ich sie nach Hause
+                    schicke. Der Graf Lehndorff wird Ew. Majestät endlich einen erst heute hier
+                    herausgekommenen Aufruf an E. K. M. Untertanen überreichen, der die durch
+                    Äußerungen französischer Machthaber hier erzeugte Besorgnis hebt. </p>
+            <p>Der Graf Lehndorff reist ganz als Privatmann, ohne dass seine Sendung hier bekannt wird. Ich habe
+                    ihm den Auftrag erteilt, dort auch jede Aufmerksamkeit zu vermeiden. Er hat nur
+                    den Auftrag, E. K. M. und Allerhöchstdero <persName key="ed_ugx_xmg_hy">Staatskanzler</persName> zu berichten, wie hier die Lage der Sache ist, und
+                    kehrt sogleich wieder als Privatmann auf seine Güter zurück, wo er unbemerkt
+                    lebt.</p>
+				        <closer>
+                    <signed>v. Schön</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

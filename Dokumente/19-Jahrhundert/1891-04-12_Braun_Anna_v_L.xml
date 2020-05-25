@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xl4_djw_fz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hermann Adalbert Braun an Anna Gräfin von Lehndorff. Angerburg, 12. April 1891</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xl4_djw_fz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, Nachlass Adolf Stoecker, Nr. 69, Bl. 252-255v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_v5g_pvf_2y">Braun, Hermann Adalbert (1854-1931)</persName>
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    <date when="1891-04-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Zu Superintendent Braun: Braun, Erich, Bethesda. Eine Samariterherberge in
+                    Ostpreußen. Geschichte der Krüppelanstalten „Bethesda“ Lehndorff-Braun-Stiftung,
+                    Angerburg Ostpr., Angerburg 1939. Zu Droste: Grenz, Alfred, Ochs und Essel:
+                    Biographie einer Familie und Glaubensgemeinschaft, Norderstedt 2004. - Zu
+                        <persName key="ed_xkb_vvc_gy">Stockers</persName> Besuch: APO, Bestand 382
+                    FA Lehndorff, Nr. 621.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Angerburg, 12. April 1891</dateline>
+					          <salute>Hochgeborene Frau, <lb/>Gnädigste Frau Gräfin!</salute>
+                </opener>
+				        <p>eine Gelegenheit, den Herrn Hofprediger <persName key="ed_xkb_vvc_gy">Stoecker</persName> zu
+                    sehen und persönlich kennenzulernen, würde gewiss allen Geistlichen der hiesigen
+                    Diözese sehr lieb sein. Am 30. d. M. ist Grundsteinlegung der Kirche in
+                        <placeName key="ed_n5r_g45_ncb">Possessern</placeName>, bei welcher Feier
+                    alle Geistlichen zusammenkommen. Ich könnte also dieselben persönlich einladen
+                    und zu der qu. Versammlung in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> anregen. Was nun den Tag der Versammlung betrifft, so
+                    würde vielleicht der Mittwoch nach Pfingsten bequemer sein; am Dienstag dem
+                    letzten Junitag sind hier und da Trauungen, auch Stöcker wäre es vielleicht
+                    lieber, wenn er nicht an einem Festtage reisen darf. Ich selber, so lieb und
+                    wertvoll es mir sein würde zu der in Aussicht genommenen Versammlung zu kommen,
+                    zumal ich Stoecker noch nie gehört habe, bin durch eine
+                    General-Kirchen-Visitation in <placeName key="ed_ug2_j1q_vcb">Westpreußen</placeName>, zu der mich der <orgName key="ed_v1l_xkv_ccb">Ev.
+                        Oberkirchenrat</orgName> beordert hat und die schon am letzten Freitag
+                    anfing und 14 Tage währt, verhindert. Ich bitte gnädigste Frau Gräfin auf mich
+                    allein nicht Rücksicht zu nehmen, wenn nur die anderen Geistlichen alle dazu
+                    kommen, und setze ich voraus, dass sie mit Freude der Einladung folgen werden.
+                    Einen großen Dienst könnte Stoecker noch unserer Kirche tun. <seg type="comment">
+                  <orig>Sein Name ist in <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> und <placeName key="ed_qw4_wyj_gy">Rhein</placeName> auf das scheußlichste von den Anhängern des
+                            Agnostaten <persName key="ed_cfw_j5f_lfb">Droste</persName>
+                            gemissbraucht, um den Sozialdemokraten gleich zum Austritt aus der
+                            Kirche zu raten.</orig>
+                  <note xml:id="nikr_nlr_fkb">Auch in der Nähe von
+                            Rhein gab es einen „Stundenhalter namens Sareika‟, der agitatorische
+                            Versammlungen abhielt und „im Bund mit Droste‟ stand, vgl. Die
+                            evangelischen General-Kirchen- und Schulvisitationen in Ost- und
+                            Westpreußen 1853 bis 1944, bearb. von Iselin Gundermann, hrsg. von
+                            Walther Hubatsch, Göttingen 1970.</note>
+               </seg> Man hat nämlich das
+                    schändliche Gerücht aufgebracht, dass Stoecker aus der Kirche ausgetreten sei,
+                    und gerade dadurch ist es gelungen, eine große Zahl von Leuten aus der Kirche
+                    herauszuziehen und zum Austritt zu bewegen, um sich der Drosteschen Sekte
+                    anzuschließen. Es wäre gut, wenn Stoecker dieser Lüge entgegentreten wollte. Die
+                    Zahl der in Lötzen und Rhein ausgetretenen ist ziemlich groß. Gott sei Dank ist
+                    der hiesige Kreis gegen diese Versuchung standhaft geblieben, ja man hat sogar
+                    in einzelnen Dörfern, wo Droste seinen Besuch angemeldet hatte um gegen die
+                    Kirche zu wüten, sich seinen Besuch ernstlich verbeten. </p>
+            <p>Was nun die Gefahr der Sozialdemokratie betrifft, so fürchte ich für unsere Landbevölkerung
+                    dieselbe nicht. Ich halte es zunächst nicht für praktisch, unsere Gemeinde zu
+                    einem Kampf aufzufordern, solange der Feind nicht da ist. Erregt man die
+                    Gemüter, indem man schon lange vorher von den Gefahren und Lehren der
+                    Sozialdemokratie predigt, so streicht man in die Luft, denn hier hat man noch
+                    keinen Sozialdemokraten gesehen; ferner werden die Leute gespannt auf den Feind,
+                    den sie doch endlich einmal mit ihren eigenen Augen sehen und ihren eigenen
+                    Ohren hören möchten. Sie bekommen überhaupt zuviel Interesse für diese Neuheit
+                    und wir bereiten, ohne es zu wollen, dem Feind den Boden. Unsere Aufgabe darf
+                    zunächst nur die sein, unseren Gemeinden die geistliche Waffenrüstung, von der
+                    H. Paulus im Epheserbrief spricht, anlegen zu lassen, sie mit guter Lektüre
+                    reichlich zu versorgen und sie also stich- und hiebfest zu machen. Die Rüstung
+                    muss im Willen geschehen, ohne Geräusch. Im Konfirmandenunterricht kann man weit
+                    mehr auf die wahnwitzigen Lehren der Sozialdemokratie eingehen als vor den
+                    Erwachsenen in Predigten und Ansprachen. Hier haben wir auch die Herzen der
+                    Kinder ganz in der Gewalt und können dieselben wie weiches Wachs formen.<lb break="no"/>
+            </p>
+                <p>Kommen nun wirklich zu uns die Sendboten der Sozialdemokratie und wollten
+                    Versammlungen halten, so würde ich keinen Anstand nehmen, diese Versammlungen
+                    aufzusuchen, entgegenzutreten, Gegenversammlungen zu halten, die Leute
+                    aufzufordern, die Fremdlinge auszuweisen. Ich habe die feste Überzeugung, dass
+                    sie bei uns nichts machen können. Nur auf einem einzigen Wege könnten die
+                    Sozialdemokraten hier Einzug finden, wenn sie nämlich sich den Stundenhaltern
+                    und sektiererischen Reisepredigern anschließen, die unter dem Deckmantel
+                    derselben als „Reiseprediger‟ auftreten würden. Es liegt im Sektenwesen viel
+                    Sozialdemokratisches. Der Apostoler-Prophet Tischler <persName key="ed_u2x_bq5_ncb">Stanowski</persName> belehrt die Leute, dass er im
+                    Jahre 1896 das tausendjährige Reich aufrichten werde, wo es allen Reichen
+                    schlecht gehen wird, wo er mit den Seinen zur Weltherrschaft gelangen und in
+                    allen Herrlichkeiten und Freuden leben werde. Er sei der „Gott der Rache und des
+                    Gerichts‟. <gap reason="insignificant"/> Das ist doch der größte Blödsinn, aber
+                    es wird geglaubt, weil Stanowski als frommer geistlicher Reiseprediger auftritt
+                    und weil er große Verheißungen macht. Ich bin der festen Überzeugung, dass,
+                    sobald wirklich hier bei uns der Kampf gegen die Sozialdemokratie anfängt,
+                    sämtliche Sekten auf seiten der Gegner stehen. Beim Zusammenbrechen aller
+                    bestehenden Ordnungen können die Sekten nur gewinnen, die Kirche nur verlieren. </p>
+                <p>Auf Ihrem Gut <placeName key="ed_s3k_b12_gy">Taberlack</placeName> hält jeder
+                    Instmann auf seine Kosten den Ostpreußischen Sonntagsfreund, es sind dort 26
+                    Abonnements, was mich sehr freut. Gerade, dass jedes Familienhaupt sich solche
+                    Sonntagspost selbst besorgt und dafür auch etwas bezahlt, ist erfreulich. <seg type="comment">
+                  <orig>Der Lehrer <persName key="ed_kgl_mmr_fkb">Kordack</persName> hat das zustande gebracht, was anderen Lehrern
+                            nicht möglich ist. Bei <persName key="ed_e1m_rq5_ncb">Pahlke</persName>
+                            in <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> fand ich bei der
+                            letzten Revision die <seg type="comment">
+                        <orig>Spandauer
+                                    Lehrerzeitung</orig>
+                        <note xml:id="nwkl_svx_jlb">Die <ref target="https://books.google.de/books?id=ZwTGfxV_wcsC&amp;pg=PA75&amp;lpg=PA75&amp;dq=Spandauer+Lehrerzeitung&amp;source=bl&amp;ots=xTcetvZ_yz&amp;sig=ACfU3U00wycaMWw9c7Hlj_ULHj-uP8Kk8A&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwiHovnr0O_oAhXQ0KQKHWUcAHAQ6AEwAXoECAcQMg#v=onepage&amp;q=Spandauer%20Lehrerzeitung&amp;f=false">Preußische Lehrerzeitung</ref> war 1875 von einem Spandauer
+                                    Verleger begründet worden.</note>
+                     </seg> auf dem
+                            Schultische.</orig>
+                  <note xml:id="nfz3_jyl_ngb">Zu Kordack und Pahlke:
+                            Angerburger Landschulen. Dokumentation über die 77 Dorfschulen im Kreis
+                            Angerburg/Ostpreußen, Angerburg 1983, S. 283 f., 378.</note>
+               </seg>
+                    Dieses erzfortschrittliche Blatt. Ich habe ihm ganz energisch meine Meinung
+                    gesagt, Gott befohlen!</p>
+				        <closer>
+					          <salute>In der vorzüglichsten Ehrerbietung Euer Hochgeboren gehorsamster</salute>
+					          <signed>Braun</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

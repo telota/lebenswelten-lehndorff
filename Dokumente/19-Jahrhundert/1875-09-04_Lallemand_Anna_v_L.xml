@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ljy_d5p_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lallemand an Anna Gräfin von Lehndorff. Meisenheim, 4. September
+                    1875?</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ljy_d5p_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 489, Bl. 24-(30?) </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_trk_3k5_22b">Lallemand, (-)</persName>
+                    <placeName key="ed_wqd_c35_22b">Meisenheim</placeName>
+                    <date notBefore="1875-09-04" notAfter="1877-09-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/489/str/1/1/10#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Meisenheim, 4.9.</dateline>
+                    <salute>Gnädigste Frau Gräfin</salute>
+                </opener>
+                <p>
+               <note type="editorial">Er beginnt mit Ausführungen zu seinem Gesundheitszustand
+                        und bittet um Annas Rat, da er bereits einmal Gelegenheit hatte, deren
+                            <quote>hippokratische Weisheit und Erfahrung</quote> an sich selbst zu
+                        erproben. Auch möchte sie ihm die <seg type="comment">
+                     <orig>Adresse ihres
+                                Arztes in <placeName key="ed_mdb_4hz_ny">München</placeName>
+                                mitteilen.</orig>
+                            <note xml:id="nhm3_pdv_hdb">Warscheinlich Dr. von <persName key="ed_wjm_j35_22b">Grauvogl</persName>, der im Sommer noch
+                                    <placeName key="ed_avy_p42_cy">Gastein</placeName> besucht hatte
+                                und im Herbst 1877 verstarb, vgl. APO, Bestand 382, Nr. 496, Bl.
+                                1-4v (Mathilde von Grauvogl an Anna von Lehndorff, München, 8.
+                                Oktober 1877). Die „Allgemeine homöopathische Zeitung‟ druckte einen
+                                Nachruf, ebd., Bl. 5. </note>
+                  </seg>
+                    </note>
+            </p>
+                <p>Von Ihrem allseitigen Wohlbefinden und besonders der schönen Zeit, die Sie in der
+                    Nähe und so engen Beziehungen zu dem <seg type="comment">
+                  <orig>liebenswürdigsten
+                            aller Herrscher</orig>
+                  <note xml:id="nmf5_t35_22b">Gemeint ist <persName key="ed_lwx_y32_cy">Wilhelm I.</persName> und dessen Aufenthalt in
+                            Bad <placeName key="ed_avy_p42_cy">Gastein</placeName>, vgl. das
+                            Dokument vom <ref target="lehndorff_esl_2zl_l1b">2. September
+                            1875</ref>. </note>
+               </seg> verlebten, war ich zu meiner Freude schon
+                    durch Ihren Herrn <persName key="ed_zkm_whl_2y">Gemahl</persName> unterrichtet.
+                    - Dass der Sohn des berühmten <persName key="ed_hw2_gq2_cy">Herrn von
+                        Puttkamer</persName>, d<seg type="comment">
+                  <orig>er erst uns in Ostpreußen
+                            das <gap reason="illegible"/> einer liberalen Regierung vorführte und
+                            jetzt <unclear reason="illegible" cert="low">à messieurs les
+                                messins</unclear> das gleiche Glück bereitet</orig>
+                  <note xml:id="notv_lyh_jlb"> Er war 1871 Regierungspräsident des
+                            Regierungsbezirks Gumbinnen und wurde 1874 Bezirkspräsident im Bezirk
+                            Lothringen des Reichslandes Elsaß-Lothringen.</note>
+               </seg>, nach, wie es
+                    scheint, sehr verfehlten Universitätsstudien auf das Land gegeben, oder, um mich
+                    eines militärischen Ausdrucks zu bedienen, zur Reserve entlassen ist, wissen Sie
+                    bereits von früher her. Neuerdings teilte mir mein Freund <persName key="ed_ch3_y35_22b">Kügelgen</persName>, der denselben Lorbeer für die
+                    Erziehung des p. <seg type="comment">
+                  <orig>
+                     <persName key="ed_fp4_br3_jfb">Jesko</persName>
+                  </orig>
+                  <note xml:id="nkpc_zq3_jfb">J<ref target="https://de.wikipedia.org/wiki/Jesko_von_Puttkamer">esko von
+                                Puttkamer.</ref> Vgl. Geschichte des Geschlechts des Herren,
+                            Freiherren und Grafen von Puttkamer, hrsg. von der Familien
+                            Genossenschaft, Berlin 1878–1880. Archivalien des Familienarchivs sind
+                            heute im Staatsarchiv Stettin, siehe den Archivführer des <ref target="https://www.bkge.de/archiv-stettin.php?register=Wangerin#553">Bundesinstituts für Kultur und Geschichte der Deutschen im
+                                östlichen Europa</ref>. </note>
+               </seg> in Anspruch zu nehmen
+                    berechtigt ist, mit, dass derselbe nunmehr in den Listen als verschollen zu
+                    führen ist. In gewissem Sinne ist das sein Papa auch, verschollen! </p>
+                <p>Finden Sie es nicht recht taktlos, dass unser <persName key="ed_yzt_s1b_dy">Kronprinz</persName> jetzt in Rheinischen Festen die Nachlese von der
+                    Falkschen Bildungsreise aufhebt? Das hätte </p>
+                <p>
+               <gap unit="pages" quantity="1" reason="lost"/>
+            </p>
+                <p>hat, möchte ich fast bezweifeln.</p>
+                <closer>
+                    <salute>Ich habe die Ehre zu sein, Frau Gräfin Ihr gehorsamster Diener</salute>
+                    <signed>Lallemand</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

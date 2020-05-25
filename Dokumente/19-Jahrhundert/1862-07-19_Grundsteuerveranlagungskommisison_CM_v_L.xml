@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xrd_hck_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Grundsteuer-Veranlagungskommission an Carl Meinhard Graf von
+                    Lehndorff. Rhein, 19. Juli 1862</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xrd_hck_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 285, Bl. 117</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_nmm_qzp_wx">Grundsteuer-Veranlagungskommission, Kreis
+                        Angerburg</orgName>
+                    <placeName key="ed_qw4_wyj_gy">Rhein</placeName>
+                    <date when="1862-07-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Siehe  Die <ref target="lehndorff_mdk_vsj_gy">Veranlagung der
+                        Grundsteuer</ref>, in der Akte Bl. 3-4, sowie Bl. 5 den Zeitungsausriss zur
+                    Grundsteuer in Westpreußen. Lehndorff ließ sich aus <placeName key="ed_omg_5xl_5y">Darkehmen</placeName> von der dortigen
+                    Veranlagungskommission am 2. November 1861 eine Abschrift des Verzeichnisses der
+                    hiesigen Musterstücke schicken (Bl. 6-31), und am 8. November 1861 sandte ihm
+                    Botho Graf zu <persName key="ed_rbv_ctt_2cb">Eulenburg</persName> auf seinen
+                    Wunsch den Abdruck der Klassifikationstarife für die Kreise des
+                    Regierungsbezirks Marienwerder (Bl. 40-86), gegen die zahlreiche Einwände
+                    erhoben worden waren; das Anschreiben Bl. 38-39v. - Zur <quote>Begutachtung der
+                        gegen den Klassifikations-Tarif erhobenen Einwände</quote> fand am 2.
+                    Dezember im Gasthaus in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    eine Sitzung der Veranlagungs-Kommission statt, an der Lehndorff ebenso wie die
+                    Mitglieder der kreisständischen Vorprüfungs-Kommission teilnahmen. Konzepte und
+                    Reklamation, wahrscheinlich in Vorbereitung der anberaumten Sitzung, in der
+                    Akte, das Protokoll der Sitzung ist nur fragmentarisch überliefert, das Ergebnis
+                    fehlt (Bl. 99-113).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rhein, 19. Juli 1862</dateline>
+                </opener>
+                <p>Euer <persName key="ed_zkm_whl_2y">Hochgeboren</persName> beehre ich mich ganz
+                    ergebenst davon in Kenntnis zu setzen, dass behufs Regelung der <rs type="term" key="ed_ywg_vzj_gy">Grundsteuer</rs>
+                    <seg type="comment">
+                  <orig>die Gemarkung Groß <placeName key="ed_pxt_cnh_1y">Steinort</placeName> durch den Herrn Geometer <persName key="ed_rs5_wbk_gy">Drewello</persName> neu gemessen werden
+                            soll.</orig>
+                  <note xml:id="ni2r_l53_hfb">Siehe das Dokument vom <ref target="lehndorff_lbr_myj_gy">5. November 1861</ref>.</note>
+               </seg>
+                    Nach § 14 der Anweisung für das Verfahren bei Herstellung der Gemarkungs-Karten
+                    etc. (Gesetz-Sammlung pro 1861, S. 307) fordere Euer Hochgeboren ich hierdurch
+                    auf, die Grenzen der Gemarkung Groß Steinort und der in letzterer belegenen, in
+                    der Karte besonders zu verzeichnenden Grundstücke durch eine mit der Örtlichkeit
+                    genau bekannte Persönlichkeit anzeigen zu lassen, wobei ich mich auf § 15 der
+                    gedachten Nachweisung beziehe und darauf aufmerksam zu machen nicht verfehle,
+                    dass spätere Berichtigungen, die aus unterlassener Informationserteilung
+                    entstehen, auf alleinige Kosten des Herrn Besitzers erfolgen. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

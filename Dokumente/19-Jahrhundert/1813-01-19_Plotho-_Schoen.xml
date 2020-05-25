@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ovg_zbz_wy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Johann Joachim Friedrich Edler Herr und Freiherr von Plotho an Theodor
+                    von Schön. Lyck, 19. Januar 1813</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ovg_zbz_wy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl type="print">Briefe und Aktenstücke zur Geschichte Preußens unter Friedrich
+                Wilhelm III. vorzugsweise aus dem Nachlass von F. A. Stägemann hrsg. von
+                Franz Rühl, Bd. 1, Leipzig 1899, S. 283 f.</bibl>
+               </witness>
+            </listWit>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ip5_mcz_wy">Plotho, Carl Johann Joachim Friedrich Edler Herr
+                        und Freiherr von (1780-1820)</persName>
+                    <placeName key="ed_eby_wkz_ny">Lyck</placeName>
+                    <date when="1813-01-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q1t_d2f_4y">Schön, Theodor von (1773-1856)</persName>
+                </correspAction>
+                <note>Vgl. Dönhoff, August Friedrich Philipp Reichsgraf, Königsberg und Ostpreußen
+                    zu Anfang 1813. Ein Tagebuch vom 1. Januar bis 25. Februar 1813, hrsg. von
+                    Maximilian Schultze, Berlin 1901 (Bausteine zur preußischen Geschichte, 1, 2),
+                    S. 66 ff. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lyck, 19. Januar 1813, abends 8 Uhr</dateline>
+            </opener>
+					       <p>Euer Hochwohlgeboren zeige ich hierdurch ganz ergebenst an, dass <persName key="ed_m25_tr1_1bb">Seine Majestät der Kaiser von Russland</persName> heute
+                    um 3 Uhr nachmittags unter Läutung der Glocken etc. zu Pferde hier angekommen
+                    ist, und dass derselbe von allen dazu bestimmten Personen empfangen worden ist,
+                    welche ich auf seinen ausdrücklichen Befehl, wie er sagte, als ein alter
+                    Bekannter ihm vorstellen musste; sein erstes Wort zu mir war: „ich komme als
+                    Freund, und freue mich sehr, dass ich in Preußen bin‟, seine Ankunft durch ein
+                    Ehrengeleite, begleitet von unzähligen Vivat rufenden Menschen und vorreitenden
+                    Postillionen, hatte wirklich etwas Feierliches. Wir hatten hierauf Audienz, bei
+                    welcher er mit allen sehr gütig sprach <seg type="comment">
+                  <orig>und dem Grafen
+                                <persName key="ed_k4z_jgl_2y">Lehndorff</persName> sagte, ich habe
+                            alles vergessen, was zwischen Ihrem <persName key="ed_tl1_nbf_4y">König</persName> und mir kürzlich vorgefallen ist.</orig>
+                  <note xml:id="naqt_jpj_wcb">Der Kaiser wurde von v. <persName key="ed_dlv_cjv_mbb">Farenheid</persName>-Angerapp und Graf
+                                <persName key="ed_k4z_jgl_2y">Lehndorff</persName>-Steinort als
+                            Vertreter der Stände begrüßt. Lehndorff hielt eine Ansprache in
+                            französischer Sprache, deren Wortlaut nicht überliefert ist, vgl.
+                            Schultze, Lebensbild, S. 328. Hier auch ein Fragment des Briefes von
+                            Lehndorff an Schön über die Ereignisse des 19. Januar 1813, der Schultze
+                            nicht zur Verfügung stand, zitiert nach Droysen.</note>
+               </seg> Der
+                    Oberkammerherr Graf <persName key="ed_rxb_hpp_vcb">Tolstoi</persName> sagte, es
+                    müsste ganz Europa darüber lachen, wenn wir nicht mit Russland alliiert wären -
+                    von hier gingen wir zum Fürsten <persName key="ed_wkf_kpp_vcb">Kutusow</persName>, ich fand, was ich schon kannte, andere waren
+                    überrascht, doch alle vereinigten wir uns, dass Gott oft Wunder tut - er nahm
+                    uns artig auf, genehmigte alle meine Vorschläge und hat mich wegen allem an den
+                    Chef des Generalstabes Fürsten <persName key="ed_bcm_mpp_vcb">Wolkonsky</persName> gewiesen. Mit demselben bin ich nun darüber
+                    übereingekommen, dass die von mir aufgesetzten Punkte von ihm genehmigt und
+                    sogleich <seg type="comment">
+                  <orig>die in Abschrift beifolgenden offenen
+                            Ordres</orig>
+                  <note xml:id="nrs3_4fz_wy">Vgl. ebd., Anm. 2.</note>
+               </seg>
+                    gedruckt russisch und deutsch angefertigt werden sollen. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Dem Minister von <persName key="ed_hcy_qpp_vcb">Stein</persName> habe
+                            ich das Schreiben von Euer Hochwohlgeboren persönlich übergeben, auch
+                            über <placeName key="ed_oxb_txl_5y">Memel</placeName> gesprochen, und da
+                            derselbe über <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> nach
+                                <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu reisen
+                            gedachte, denselben dahin vermocht, dass er nun diese Reise über
+                                <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> machen wird,
+                            weil ich hoffe mir Euer Hochwohlgeboren Zufriedenheit dadurch zu
+                            erwerben; von ihm werden Euer Hochwohlgeboren nun über Politik etc. und
+                            Hoffnung sehr genau unterrichtet werden. </orig>
+                  <note xml:id="nqbb_1qj_wcb">
+                     <persName key="ed_hcy_qpp_vcb">Stein</persName>
+                            war von <persName key="ed_m25_tr1_1bb">Alexander I.</persName> per
+                            Generalvollmacht am 6./18. Januar 1813 zum selbständigen Verwalter der
+                            preußischen Provinzen gemacht worden, die die russischen Truppen, den
+                            bisherigen Erklärungen zufolge, nur als Freunde und Verbündete <persName key="ed_tl1_nbf_4y">Friedrich Wilhelms III.</persName> betreten
+                            hatten. <persName key="ed_hcy_qpp_vcb">Stein</persName> gelang es nicht,
+                            bei <persName key="ed_f2c_1mp_vcb">Yorck</persName>, <persName key="ed_q1t_d2f_4y">Schön</persName>, <persName key="ed_zvy_mbj_qhb">Auerswald</persName> oder dem von ihm beantragten Landtag etwas zu
+                            erreichen. Er verließ <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, ohne an die Spitze der Bewegung getreten zu
+                            sein. Am 21. Januar traf er in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> mit <persName key="ed_q1t_d2f_4y">Schön</persName> zusammen, am 24. gingen Schön und <persName key="ed_k4z_jgl_2y">Lehndorff</persName> nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, am 26. kehrte Lehndorff
+                            nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zurück. Ziel
+                            war es zu verhüten, dass durch Steins Forderung, Landhofmeister von
+                            Auerswald solle eine Sitzung des ostpreußischen Landtages einberufen,
+                            Uneinigkeit in die patriotische Bewegung komme, da die Stände eine
+                            Tagung, die von einer nichtpreußischen Behörde einberufen würde, nicht
+                            für gesetzmäßig erachten würden. Als Ausweg wurden die Deputiertenwahlen
+                            für eine Versammlung der Deputierten der Stände ausgeschrieben, vgl.
+                            Schultze, Lebensbild, S. 329.</note>
+               </seg>
+                </p>
+            <p>Den Laufzettel für die Pferde schicke ich mit dieser Estafette ab. Ob der <persName key="ed_m25_tr1_1bb">Kaiser</persName> den 21. oder 22. von hier abreist,
+                    ist noch ungewiss, der Großfürst wird morgen hier eintreffen, in Hinsicht auf
+                    die Verpflegung ist alles angeordnet und es herrscht Ordnung und Zufriedenheit. </p>
+            <p>Der Minister von <persName key="ed_hcy_qpp_vcb">Stein</persName> fährt morgen den 20. um 11 Uhr
+                    von hier weg und trifft also gegen die Nacht in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> ein; er hat mir aufgetragen, Euer Hochwohlgeboren um
+                    ein Nachtquartier und Abendessen in Ihrem Hause zu bitten, welches ich auch
+                    bereits zugesagt. </p>
+            <p>Das Hauptquartier wird den 20., 21. und 22. hier in <placeName key="ed_eby_wkz_ny">Lyck</placeName> bleiben und sodann grade nach <placeName key="ed_rlk_zpp_vcb">Johannsburg</placeName> gehen, so ist es jetzt
+                    vorläufig bestimmt, doch wird es vielleicht noch abgeändert.</p>
+                
+				        <p>Mit der ausgezeichnetsten Hochachtung habe ich die Ehre zu verharren</p>
+				        <closer>
+					          <salute>Euer Hochwohlgeboren ganz gehorsamster Diener</salute>
+					          <signed>Edler von Plotho</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

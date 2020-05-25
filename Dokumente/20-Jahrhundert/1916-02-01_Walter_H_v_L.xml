@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_s5p_zjn_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oberförster Walter an Carol Graf von Lehndorff. Mittenort, 1. Februar
+                    1916</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_s5p_zjn_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 225, Bl. 9-10</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_hkh_3pg_my">Walter, (-)</persName>
+                    <date when="1916-02-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ik3_ckz_2y">Lehndorff, Carl Meinhard (Carol) Graf von
+                        (1860-1936)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/3/225/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Mittenort bei Steinort in Ostpr., 1. Februar 1916</dateline>
+					          <salute>Euer Hochgeboren!</salute>
+                </opener>
+                <p>Von heute ab hat Herr Oberinspektor <persName key="ed_stw_tkn_my">Schulz</persName> sämtliche 30 Russen aus <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName> für seine Arbeit genommen, so dass im Belauf Groß
+                    Steinort keine Gefangenen mehr arbeiten. Ich habe beim
+                    Gefangenenbewachungsoffizier in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> möglichst schnelle Überweisung von weiteren 10 <rs type="term" key="ed_m52_4pg_my">Russen</rs> nach Steinort zur <rs type="term" key="ed_szw_5mn_4y">Waldarbeit</rs> beantragt. Diese 10
+                    Gefangenen können in einer Wohnung im Dorf untergebracht und mit den übrigen
+                    Gefangenen zusammen bespeist werden, was ich heute mit Herrn <persName key="ed_stw_tkn_my">Schulz</persName> vereinbarte. Der letzte Holztermin in
+                        <placeName key="ed_h35_jqh_my">Drengfurth</placeName> brachte 2.473 M. Von
+                    Goldmünzen ist nichts eingegangen, trotzdem ich dafür einen Erlass von 5 % des
+                    Kaufpreises in den Blättern zugesichert hatte. Die Kahlschläge habe ich
+                    vorläufig eingestellt und bin mit der Aufarbeitung des trockenen und
+                    Windbruchholzes beschäftigt, da dieses zum Teil noch vom vorigen Winter liegt
+                    und in diesem Jahr bei dem bis jetzt frostfreien Boden viel Holz gewesen ist.
+                    Der Abschuss des Kahlwildes ist erledigt. Förster <persName key="ed_xz5_ykn_my">Wenk</persName> hat in seinem Belauf einen kranken geringen Schaufler
+                    erlegt, ihm war der linke Hinterlauf zerschossen. <persName key="ed_cd1_cln_my">Schütze</persName> hat einen kranken Spießer abgeschossen. Jetzt ist noch
+                    ein geringer kranker Schaufler und ein Spießer mit drei Läufen vorhanden, welche
+                    ich noch beide abschießen lassen will. Hier ist sämtlicher Schnee mit Regen
+                    fortgegangen. Augenblicklich ist ganz geringer Frost, so dass die Wege im Freien
+                    abtauen, im Walde jedoch noch nicht. Die Holzabfuhr ist dadurch sehr erschwert,
+                    was bei dem vorhandenen geringen Pferdematerial umso mehr ins Gewicht fällt. Das
+                    verkaufte Holz wird aus diesen Gründen voraussichtlich zum größten Teil nicht
+                    abgefahren werden können und über Sommer im Walde liegen bleiben müssen, wenn
+                    nicht recht bald ganz andere Witterungsverhältnisse eintreten. Für das Wild ist
+                    ja das Wetter jetzt gut.</p>
+				        <closer>
+                    <salute>In aller Ehrfurcht Euer Hochgeboren gehorsamster</salute>
+                    <signed>Walter</signed>
+                    <address>
+                        <addrLine>Hr. Hochgeboren dem Rittmeister Herrn Grafen Lehndorff-Steinort
+                                <hi rendition="#u">z. Zt. in Berlin</hi>
+                  </addrLine>
+                    </address>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

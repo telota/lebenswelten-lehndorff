@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_mwt_xfm_5gb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aus der Immediateingabe der Provinzialdeputierten Ost- und Westpreußens. Berlin, 29.
+                    Dezember 1812</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_mwt_xfm_5gb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="editorial">
+                    <p>Eine Abschrift befand sich nach Adalbert Bezzenberger im Besitz des Grafen
+                        von <persName key="ed_uxc_ljt_c2b">Klinckowström-Korklack</persName>. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Dönhoff, August Friedrich Philipp Reichsgraf, Königsberg
+                            und Ostpreußen zu Anfang 1813. Ein Tagebuch vom 1. Januar bis 25.
+                            Februar 1813, hrsg. von Maximilian Schultze, Berlin 1901 (Bausteine zur
+                            preußischen Geschichte, 1, 2)</bibl>, S. 65 </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date when="1812-12-29" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Allerdurchlauchtigster, Großmächtigster König! <lb/>Allergnädigster König und
+                    Herr! <lb/>Die außerordentlich bedrängte Lage, in die sich Ostpreußen,
+                    Westpreußen und Litauen eben jetzt aufs Neue versetzt sehen, gibt uns den
+                    Beweggrund, Ew. Königlichen Majestät uns ehrfurchtsvoll zu nahen. Eine
+                    bedeutende Macht ist bereit, ihre Grenzen zu betreten, ob mit Schonung oder mit
+                    zerstörender Feindseligkeit? - Dies ist noch unentschieden, und diese
+                    Ungewissheit hält uns zwischen Hoffnungen und bangen Erwartungen gespannt. Von
+                    einer Seite lehrt eine beugende Erfahrung, dass die unaufhörlichen Anstrengungen
+                    und Krafterschöpfungen, welche das unerbittliche Verhängnis der letzten Zeit den
+                    genannten Provinzen abnötigte, nicht unserem Könige und Vaterlande, nicht uns
+                    und unseren Nachkommen, sondern fremden Absichten zum Opfer gebracht wurden. Die
+                    Fortdauer eines so unerträglichen Drucks unterliegt keinem Zweifel, wenn die
+                    sich nähernde <seg type="comment">
+                  <orig>zweite Übermacht</orig>
+                  <note xml:id="nip5_mhm_5gb">Russland. Selbst nach der Konvention von Tauroggen
+                            und „Freundschaftsversicherungen‟ war die Gefahr, dass Ostpreußen von
+                            den Russen als erobertes Land behandelt werden könnte, nicht gebrochen,
+                            vgl. ebd., S. 65 f. </note>
+               </seg> jene Provinzen als Feindesland zu
+                    behandeln sich bestimmte, und damit verbindet sich die Aussicht, sie zum
+                    Schauplatz ebenso blutiger, als ihnen und dem Vaterlande fruchtloser Kämpfe
+                    werden zu sehen. Auf der anderen Seite glauben wir in den letzten militärischen
+                    Ereignissen einen Schimmer von Hoffnung zur Erlangung eines baldigen Friedens zu
+                    erblicken. <gap reason="insignificant"/>
+            </p>
+                <p>
+                    <lb/>
+            </p>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

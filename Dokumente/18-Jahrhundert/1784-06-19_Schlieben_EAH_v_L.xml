@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_w3m_rxq_51b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Leopold Graf von Schlieben an Ernst Ahasverus Heinrich Graf von Lehndorff. Gerdauen, 19. Juni
+                    1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_w3m_rxq_51b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 379, Bl. 155-156</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zqm_ymf_hy">Schlieben, Karl Leopold Graf von
+                        (1723-1788)</persName>
+                    <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>
+                    <date when="1784-06-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gerdauen, den 19. Juni 1784</dateline>
+                    <salute>Mein würdigster Graf!</salute>
+                </opener>
+                <p>Gott vergelte es Ihnen, dass Sie Ihre guten Freunde, die Ihnen verehren, nicht
+                    vergessen, und zwar <seg type="comment">
+                  <orig>mitten in dem Schwall von
+                            Geschäften, von Divertissements und abwechselnden Plaisirs,</orig>
+                  <note xml:id="nddw_shh_vbb">
+                     <note xml:id="nhc5_rgh_vbb">Seit Mai 1784 hielt
+                                sich Lehndorff wieder in <placeName key="ed_xrv_gwb_by">Berlin</placeName> auf, vgl. dessen Kalender vom Mai 1784 bis
+                                zum Mai 1785 in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 489
+                                und Schmidt-Lötzen, Nachträge, Bd. 2, S. 353 ff.</note>
+                  </note>
+               </seg>
+                    welches um so viel höher zu schätzen. Die Zeitungen haben uns Ihre Abreise nach
+                        <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName> gemeldet. In diesem
+                    Wohnsitz der Ruhe, des Vergnügens und des Wohllebens sehen Sie sich trotz
+                    unserer ersten Vorfahren ins Paradies versetzt, welches gewiss dem vorigen in
+                    der Anlage zu präferieren, und besonders mit aus der Ursache, weil Sie hier eine
+                    bessere Gesellschaft haben als mit einer Schlange, deren Konversation sehr
+                    einfach muss gewesen sein. <seg type="comment">
+                  <orig>Sammeln Sie sich doch
+                            dorten neue Kenntnisse im Pflanzen und in der Gärtnerei und teilen davon
+                            bei ihrer Retour Information mit.</orig>
+                  <note xml:id="nbcx_mp5_scb">Seit
+                            1770 befanden sich die Gartenanlage der Schlossinsel Rheinsberg in der
+                                <ref target="https://journals.ub.uni-heidelberg.de/index.php/icomoshefte/article/viewFile/23151/16913">Umgestaltung</ref>. </note>
+               </seg>
+                </p>
+                <p>Ich bin in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gewesen, um
+                    meinen <seg type="comment">
+                  <orig>Bruder</orig>
+                  <note xml:id="nk3v_hy5_scb">
+                     <persName key="ed_apx_myj_w2b">Georg Albert von
+                                Schlieben</persName>
+                  </note>
+               </seg> zu sprechen, wie auch meinen <seg type="comment">
+                  <orig>Schwieger‟Sohn‟</orig>
+                  <note xml:id="nawr_1zj_w2b">Die
+                            Tochter <persName key="ed_ok2_3xf_hy">Friederike</persName> heiratete
+                                <persName key="ed_txh_3w5_sy">Friedrich Karl Herzog von
+                                Schleswig-Holstein-Beck</persName>. </note>
+               </seg>, welchen ich dort
+                    erwartete. <gap reason="insignificant"/> Meinen <seg type="comment">
+                  <orig>Sohn</orig>
+                  <note xml:id="na5k_gyj_w2b">
+                     <persName key="ed_szd_1z2_n2b">
+                        <note xml:id="ny3d_wy5_scb">Karl Heinrich von
+                                    Schlieben</note>
+                     </persName>
+                  </note>
+               </seg> habe ich auch von
+                    seiner Akademie zurück bekommen, und danke Gott, dass er gut eingeschlagen, und
+                    ein kapabler Mensch geworden, der seine Zeit dort wohl verwendet. Ich habe ihn
+                    auch schon examinieren lassen bei der <orgName key="ed_rml_bbl_2z">Regierung in
+                        Königsberg</orgName> und will ihn gegen Michaelis nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> schicken, um dort beim <orgName key="ed_ltn_1qj_tcb">Kammergericht</orgName> zu arbeiten, und da ich
+                    vermute, dass wir ihn in den ersten 3 Jahren in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> noch nicht werden zu sehen bekommen, so empfehle ihn
+                    schon zum Voraus zu Dero gracieux und Protektion. </p>
+                <p>
+               <seg type="comment">
+                  <orig>Mein ältester <persName key="ed_wmt_g5z_g1b">Sohn</persName> hat keine Permission erhalten</orig>
+                  <note xml:id="nzw3_fwf_nbb">Am 19. März 1796 schreibt er dem Onkel, der König
+                            habe ihn zum Major ernannt, vgl. LASA, StA L, Bestand 21950 FA
+                            Lehndorff, Nr. 385, Bl. 51.</note>
+               </seg>. Man muss sich in alles finden,
+                    da ich besonders autentique Nachricht habe, <seg type="comment">
+                  <orig>dass außer
+                            seinen Schulden, die ich aber alle bezahlt habe,</orig>
+                  <note xml:id="nsvg_gfy_3bb">Vgl. LASA, StA L, Bestand 21950 FA Lehndorff, FA
+                            Lehndorff, Nr. 382, Brief vom 12. und 14. Januar 1785. Wegen nicht
+                            gezahlter Zinsen aus einem Wechsel über 1.000 Friedrichsdor an eine
+                            Witwe Döpler in Berlin, die sich damit an den König gewandt hatte, stand
+                            eine Klage an. Lehndorff sollte in Berlin die Angelegenheit beruhigen.
+                            Auch im folgenden Jahr setzen sich die Bitten um Geld fort, ebd., Nr.
+                            383, Bl. 95-96v. - Zum Prozess: Straubel, Rolf, „Er möchte nur wißen,
+                            daß die Armée mir gehört." Friedrich II. und seine Offiziere:
+                            Ausgewählte Aspekte der königlichen Personalpolitik, Berlin 2012, S. 60
+                            f. </note>
+               </seg> er sich im Dienst nichts zu reprochieren hat, und man
+                    mit ihm zufrieden ist, wie Herr Rittmeister von <persName key="ed_ltp_hz5_scb">Calbe</persName> es mir selbst geschrieben. Es soll so sein. Nun gut.
+                    Basta. </p>
+                <p>In <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> habe alles betrübt und
+                    bestürzt verlassen <seg type="comment">
+                  <orig>über den armen <persName key="ed_xds_3z2_n2b">Blumenthal</persName>,</orig>
+                  <note xml:id="npts_31v_scb">Der Bruder des Ministers verstarb im September
+                            1784.</note>
+               </seg> welcher durchgängig regurgitiert wird. Dagegen ist
+                        <seg type="comment">
+                  <orig>Frau von <persName key="ed_nly_nz2_n2b">Kalckreuth</persName> so verwundert als freudig über das wider
+                            Erwarten so große Vermögen, so ihr sel. Vater hinterlassen</orig>
+                  <note xml:id="nqdk_t1v_scb">
+                     <persName key="ed_trw_mz2_n2b">Ludwig Gottlob von
+                                Kalckreuth,</persName> königlich-preußischer Generalmajor, war am
+                            20. März 1783 verstorben.</note>
+               </seg>, welches, außer den Legatis, auf
+                    ihr Teil an 200 M. Rtlr. ohne Juwelen, Nippes, Haus-Argenterie betragen soll. Da
+                    lässt es sich am besten die Schätze dieser Erde verachten. Den <persName key="ed_txh_3w5_sy">Herzog</persName> habe in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gesprochen; er ist ganz oeconome geworden und hat
+                    für 300 Fl. Kleewer Samen gekauft und ausgeführt. Unsere liebe <seg type="comment">
+                  <orig>
+                     <persName key="ed_en5_n2v_scb">Baronin</persName> aus
+                                <placeName key="ed_wkm_lx5_sy">Beynuhnen</placeName> kommt aus dem
+                            Fahren gar nicht heraus.</orig>
+                  <note xml:id="ncd3_gz3_3bb">Siehe hierzu
+                            auch im Brief vom 12. September 1785, LASA, StA L, Bestand 21950 FA
+                            Lehndorff, Nr. 383, Bl. 9-10. Am 6. Dezember 1785 schreibt er an
+                            Lehndorff, sie sei schon wieder fort. <quote>Wohin? Das wusste sie
+                                selbsten nicht. Erst nach Bomsdorf, Podangen, Preußisch Holland, und
+                                in die weite Welt</quote>. Nach seiner Meinung hätte sie sich die
+                            Reise <quote>sparen können</quote>. Er habe Post aus Lautenburg
+                            erhalten, <quote>wo dieser Ort liegt, mag Gott wissen.</quote> In
+                            Hübners und Büschingers Geographie hätte er nichts gefunden, er wolle in
+                                <quote>Borowski seine neue Topographie nachschlagen</quote>.
+                        </note>
+               </seg> Ihren Sohn hat sie in <placeName key="ed_jnz_jhp_tdb">Preußisch Holland</placeName> untergebracht, ob er aber engagiert ist seit
+                    der letzten Revue kann ich noch nicht sagen. </p>
+                <p> Ihrer würdigen Gemahlin versichere meinen Respekt. Meine Frau und Kinder
+                    empfehlen sich gehorsamst, und ich lebe und sterbe mit unveränderter
+                    Hochachtung</p>
+                <closer>
+                    <salute>Ihr treuer Knecht</salute>
+                    <signed>Schlieben</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

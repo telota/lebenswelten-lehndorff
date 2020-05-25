@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_xj4_x12_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einwohnerliste. 1795 (Auszug)</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_xj4_x12_gy</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Der Rekapitulation geht eine namentliche Liste aller Einwohner Groß
+                            <placeName key="ed_pxt_cnh_1y">Steinorts</placeName> und der Vorwerke
+                        voraus. Solche Listen waren ab 1740 u. a. zur Abgabe an die Salzinspektoren
+                        zu führen, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                        464: Edikt Königsberg, 27. Januar 1740. Eine <quote>Seelen-Tabelle von den
+                            Reichsgräflich Steinortschen Gütern</quote> für das Jahr 1830 ebd., Nr.
+                        53. - Weitere Einwohnerlisten bzw. Untertanenverzeichnisse aus verschiedenen
+                        Jahrgängen in den Wirtschaftsakten des Gutsarchivs in: GStA PK, XX. HA, Rep.
+                        54 Gutsarchiv Lehndorff-Steinort, Nr. 318 (1743), Nr. 188 (1810), Nr.
+                        215-255 (18./19. Jahrhundert). </p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 51, n. f.</idno>
+                    </msIdentifier>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date from="1795-01-01" to="1795-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Recapitulatio der <rs type="term" key="ed_dqm_4sf_hy">Seelenzahl</rs>
+            </p>
+                <table rows="15" cols="3">
+                    <row>
+                        <cell>1.</cell>
+                        <cell>In Groß <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                            sind</cell>
+                        <cell>181</cell>
+                    </row>
+                    <row>
+                        <cell>2.</cell>
+                        <cell>Klein <placeName key="ed_hyn_yzd_gy">Steinort</placeName>
+                  </cell>
+                        <cell>22</cell>
+                    </row>
+                    <row>
+                        <cell>3.</cell>
+                        <cell>
+                     <placeName key="ed_xpm_112_gy">Labab</placeName> incl. <placeName key="ed_hmn_xvj_gy">Louisenwahl</placeName> und der Mühle</cell>
+                        <cell>144</cell>
+                    </row>
+                    <row>
+                        <cell>4.</cell>
+                        <cell>
+                     <placeName key="ed_xzt_112_gy">Stawisken</placeName> incl.
+                            Ziegelei</cell>
+                        <cell>128</cell>
+                    </row>
+                    <row>
+                        <cell>5.</cell>
+                        <cell>
+                     <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                  </cell>
+                        <cell>207</cell>
+                    </row>
+                    <row>
+                        <cell>6.</cell>
+                        <cell>
+                     <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                  </cell>
+                        <cell>117</cell>
+                    </row>
+                    <row>
+                        <cell>7.</cell>
+                        <cell>
+                     <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                  </cell>
+                        <cell>116</cell>
+                    </row>
+                    <row>
+                        <cell>8.</cell>
+                        <cell>
+                     <placeName key="ed_sc5_c12_gy">Pristanien</placeName>
+                  </cell>
+                        <cell>188</cell>
+                    </row>
+                    <row>
+                        <cell>9.</cell>
+                        <cell>
+                     <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                  </cell>
+                        <cell>176</cell>
+                    </row>
+                    <row>
+                        <cell>10.</cell>
+                        <cell>
+                     <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                  </cell>
+                        <cell>47</cell>
+                    </row>
+                    <row>
+                        <cell>11.</cell>
+                        <cell>
+                     <placeName key="ed_x4d_jc2_gy">Amalienruh</placeName>
+                  </cell>
+                        <cell>6</cell>
+                    </row>
+                    <row>
+                        <cell>12.</cell>
+                        <cell>
+                     <placeName key="ed_h1w_jc2_gy">Werder Upalten</placeName>
+                  </cell>
+                        <cell>3</cell>
+                    </row>
+                    <row>
+                        <cell>13.</cell>
+                        <cell>
+                     <placeName key="ed_hcn_kc2_gy">Werder Wittfong</placeName>
+                  </cell>
+                        <cell>5</cell>
+                    </row>
+                    <row>
+                        <cell>14.</cell>
+                        <cell>
+                     <placeName key="ed_mxw_c1k_gy">Werder Sdorkowen</placeName>
+                  </cell>
+                        <cell>5</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Summa</cell>
+                        <cell>
+                     <seg type="comment">
+                        <orig>1.339</orig>
+                        <note xml:id="nvqp_gxz_ly">Die
+                                    Summe beträgt 1.345.</note>
+                     </seg>
+                  </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

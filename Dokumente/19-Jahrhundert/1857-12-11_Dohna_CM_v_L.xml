@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_z5w_rkg_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carf Friedrich Burggraf und Graf zu Dohna an Carl Meinhard Graf von Lehndorff. 11. Dezember 1857</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_z5w_rkg_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 430/1, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mk1_kdr_gz">Dohna-Lauck, Carl Friedrich Burggraf und Graf zu
+                        (1799-1873)</persName>
+                    <date when="1857-12-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>
+                  <gap reason="illegible" unit="words" quantity="1"/>, den 11. Dezember
+                        1857</dateline>
+                    <salute>Verehrter Herr Graf.</salute>
+                </opener>
+                <p>
+               <note type="editorial">Wahrscheinlich habe er die </note>Sachlage wegen der
+                    Landschafts-Agentur schon auf anderem Wege in Erfahrung gebracht.</p>
+                <p>Herr <seg type="comment">
+                  <orig>
+                     <persName key="ed_vxc_p2k_gy">Meyer
+                                Cohn</persName>
+                  </orig>
+                  <note xml:id="nrx1_thd_d2b">
+                     <orgName key="ed_iml_ywz_gbb">Bankhaus Meyer Cohn</orgName>
+                  </note>
+               </seg> war
+                    nicht nur von Ihnen, sondern auch von drei Grafen Dönhoff empfohlen, war also so
+                    schön akkomodiert, als man es irgend wünschen kann, doch hat die
+                    General-Direktion gleichwohl die Bewerbung des Kornmagazin-Rats <persName key="ed_rgg_vhd_d2b">Warschauer</persName> in <placeName key="ed_xrv_gwb_by">Berlin</placeName> nicht ablehnen zu dürfen geglaubt, weil dieser als
+                    Asocin des <placeName key="ed_ysw_qr1_dy">Königsberger</placeName> Hauses
+                        <orgName key="ed_sv5_13d_d2b">Oppenheim et Warschauer </orgName>eine sehr
+                    bedeutende Börsen-Autorität ist und die Landschaft in jetzigen schlechten Zeiten
+                    kein Hilfsmittel unbenutzt lassen kann, um ihren Kredit zu steigern. </p>
+                <p>Die Propositionen für einen noch in diesem Winter zu berufenden landschaftlichen
+                    General-Landtag werden Ihnen schon zugegangen sein, und wünsche ich, dass sie
+                    Ihren Beifall haben mögen. Ich diesem Falle bitte ich aber auch ergebenst, sich
+                    selbiger auf dem bevorstehenden Kreistage annehmen zu wollen und dorthin zu
+                    wirken, dass namentlich die Proposition No. V. wegen Beschleunigung des
+                    Geschäftsganges akzeptiert wird. Die Herren in Berlin haben sich auch von der
+                    Richtigkeit derselben überzeugt, nachdem ich ihnen die nötigen Aufklärungen
+                    gegeben habe, wiewohl man sie vorher von mancher Seite sehr dagegen einzunehmen
+                    gewusst hatte. Herr v. <persName key="ed_iws_h3d_d2b">Queis</persName> wird
+                    wahrscheinlich auch diesmal wieder nicht damit einverstanden sein. <gap reason="insignificant"/>
+            </p>
+                <p>Endlich ersuche ich Sie noch ergebenst, sich für eine <seg type="comment">
+                  <orig>Stiftung interessieren zu wollen, die zum Andenken an die
+                            Vermählung des Prinzen <persName key="ed_yzt_s1b_dy">Friedrich
+                                Wilhelm</persName>
+                  </orig>
+                  <note xml:id="nclt_rjd_d2b">Kronprinz
+                            Friedrich Wilhelm hatte nach der Verlobung, die am 17. Mai 1856
+                            bekanntgegeben worden war, am 25. Januar 1858 Prinzessin<persName key="ed_fc4_2bb_dy"> Victoria von Großbritannien und
+                                Irland</persName> geheiratet.</note>
+               </seg> ins Leben gerufen werden
+                    soll. Wahrscheinlich wird Ihnen der Plan schon bekannt sein, der darin besteht,
+                    dass aus freiwilligen Beiträgen ein Kapital gesammelt werden soll, aus dessen
+                    Zinsen Stipendien für junge befähigte Landwirte ausgesetzt werden, um Reisen ins
+                    Ausland machen und dort das Erlernte der heimatlichen Landwirtschaftskultur
+                    nutzbar machen zu können. <gap reason="insignificant"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

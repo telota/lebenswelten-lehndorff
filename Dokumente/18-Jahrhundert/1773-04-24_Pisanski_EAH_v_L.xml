@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zzn_txn_cbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jacob Ludwig Pisanski an Ernst Ahasverus Heinrich Graf von Lehndorff. 24. April
+                    1773</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zzn_txn_cbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 374, Bl. 37-37v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_uhx_5jq_tcb">Pisanski, Jacob Ludwig (1733-)</persName>
+                    <date when="1773-04-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Lehndorff hielt sich mit Unterbrechungen bis zum 3. Oktober in Steinort auf,
+                    vgl. Nachträge, Bd. 2, S. 285. In seinen Aufzeichnungen werden dieser Besuch und
+                    der Anlass nicht erwähnt. - Patronatsakten, die Kirchen in Rosengarten und Doben
+                    betreffend, in: APO, Bestand 382 FA Lehndorff, Nr. 537 (1785-1911), hier auch
+                    Extrakte der Kirchenkassenrechnungen für 1755 (und 1834/55) in Nr. 538. Weitere
+                    Akten in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 821
+                    (Kirche und Schule in Rosengarten, 1755-1858), Nr. 826
+                    (Kirchenbauangelegenheiten Rosengarten und Doben, 1766-1857), Nr. 822 (Schule in
+                    Pristanien und Stawken, 1672-1811) und Nr. 541 (Patronatsakten, die Schulen in
+                    Doben, Steinort, Stawisken, Pristanien, Rosengarten, Taberlack und Rehsau betr.,
+                    1795-1877). Die Schule in Engelstein wurde erst 1764/65 eingerichtet, ebd., Nr.
+                    414.</note>
+            </correspDesc>
+            <abstract>
+                <p>Aus dem an die <seg type="comment">
+                  <orig>Mutter Lehndorffs</orig>
+                  <note xml:id="nfjs_h5v_mbb">Maria Louisa von Lehndorff, geb. von
+                            Wallenrodt</note>
+               </seg> gerichteten Schreiben werde Lehndorff ersehen
+                    haben, an welchen Tagen des Monats Mai er, Pisanski, die <rs type="term" key="ed_f32_p5v_mbb">Kirchen- und Schulrevision</rs> in <placeName key="ed_ksp_l5v_mbb">Doben</placeName>, <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> und <placeName key="ed_epz_y2c_gy">Engelstein</placeName> halten werde. Bei dieser Gelegenheit hoffe er
+                    Lehndorff und dessen Familie in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> besuchen zu können. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

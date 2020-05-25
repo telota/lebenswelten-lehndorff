@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_pzn_kvg_v1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kaufvertrag. Königsberg, 29. Juni 1702</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_pzn_kvg_v1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p/>
+                </note>
+                <note type="editorial">Herzog <persName key="ed_vlm_b3p_vcb">Albrecht
+                        Friedrich</persName> hatte schon seinem Hofmeister <persName key="ed_m2f_swp_vcb">Caspar von Lehndorff</persName> auf dessen Bitte eine
+                        <quote>Baustelle am Löbenicht, unweit vom Mönchhof gelegen</quote>,
+                    verschrieben, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                    596. 1632 hatte dann Herzog <persName key="ed_wtb_hlm_lgb">Georg
+                        Wilhelm</persName> seinem Landhofmeister im Herzogtum Preußen, <persName key="ed_vhm_rkm_lgb">Andreas von Creytzen</persName>, die Genehmigung zum
+                    Bau von Häusern auf der Königsberger Burgfreiheit erblich verschrieben, vgl.
+                    ebd., Nr. 291. Dessen Tochter <persName key="ed_qjx_tkm_lgb">Katharina</persName> war mit <persName key="ed_njs_wmm_lgb">Fabian von
+                        Lehndorff</persName>, Amtshauptmann zu Soldau, dann zu Seehesten,
+                    verheiratet, seine Tochter <persName key="ed_wpr_1lm_lgb">Anna
+                        Dorothea</persName> (gest. 1679) hatte <persName key="ed_fgb_slt_ldb">Friedrich Wilhelm von Lehndorff</persName> geheiratet. 1687 verkauften die
+                    Lehndorff einen Teil des Grundstücks auf der <ref target="https://de.wikipedia.org/wiki/Liste_der_Stra%C3%9Fen_und_Pl%C3%A4tze_von_K%C3%B6nigsberg_1905">Königsberger Burgfreiheit</ref> an Kurfürst <persName key="ed_nc5_wbp_vcb">Friedrich Wilhelm</persName> zum Bau der reformierten Kirche (Burgkirche).
+                    Nachdem <persName key="ed_wwb_gcm_2y">Maria Eleonora Gräfin von
+                        Lehndorff</persName> 1695 ein neues Stadthaus an der Ostseite des Roßgärter
+                    Marktes, südlich der Einmündung in die Königsstraße erbaut hatte, wurde das alte
+                    Haus verkauft. Der neue zweistöckige Bau hatte an den Ecken helle Wandpfeiler in
+                    Kolossalordnung und ein Mansarddach mit zwei Dachluken. In der Mitte der Fassade
+                    hatte er über dem Portal einen Balkon, die Mitte betonte ein großer
+                    Schornstein,vgl. Lorck, Carl E. von, Neue Forschungen über die Landschlösser und
+                    Gutshäuser in Ost- und Westpreußen, Frankfurt am Main 1969, Bild 48 (Schriften
+                    des Norddeutschen Kulturwerk). In diesem Haus hielt sich wohl auch <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich Graf von Lehndorff</persName>
+                    nach seiner Rückkehr nach Ostpreußen 1775 auf. <ref target="lehndorff_qmr_zg1_r2b">1794</ref> erwarb Ernst <persName key="ed_csb_mdf_cy">Ahasverus Heinrich Graf von Lehndorff</persName> in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> das Haus des
+                    Fabrikinspektors <persName key="ed_dvq_2ml_w2b">Romminger</persName> auf dem
+                        <orgName key="ed_dll_dm5_1bb">Roßgarten, Hintergasse Nr. 39</orgName>; der
+                    Kaufvertrag in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 13,
+                    n. f.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                                    610, n. f.</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>In einem Umschlag mit der Aufschrift: „Privilegium des Markgrafen Georg
+                            Wilhelm 1632 und verschiedene Erlasse des Kurfürsten Friedrich Wilhelm
+                            an Ahasverus v. L.‟</p>
+                    </physDesc>                  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1702-06-29" cert="high"/>
+                
+              
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                
+                    <p>Königsberg, den 29. Juni 1702</p>
+                
+                <p>Denen daran gelegen, sei hiermit kund und offenbar, das unterm gesetzten Dato
+                zwischen der Hochgeborenen Frauen, Frauen Maria Eleonora geborenen Gräfin von
+                Dönhoff, <seg type="comment">
+               <orig>verwittibten Oberburggräfin</orig>
+               <note xml:id="nqfx_pz4_mbb">
+                  <persName key="ed_zyw_ncf_2y">Gerhard Ahasverus von
+                            Lehndorff</persName> war am 14. Februar 1688 in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> verstorben. Nach den
+                        Bestimmungen des Ehevertrags fiel das Haus in den Besitz seiner Ehefrau, in:
+                        GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 25.</note>
+            </seg>
+                Gräfin von <persName key="ed_wwb_gcm_2y">Lehndorff</persName> als Verkäuferin an
+                einem, dann dem Wohlgeborenen Herrn, Herrn Georg Friedrich von <persName key="ed_u13_hs5_1bb">Kalnein</persName>, Seiner Königlichen Majestät in Polen
+                Hochverordneten Geheimbten, auch Hof- und Gerichtsrat und Hauptmann der Ämter
+                Neidenburg und Soldau als Käufer am anderen Teil, ein richtiger und zurecht
+                beständiger Kaufkontrakt wohlbedächtig getroffen und geschlossen worden, dergestalt
+                wie folget.</p>
+         <p>Es verkaufet Hochgemeldte Frau Oberburggräfin von Lehndorff in Assistenz ihres Herrn
+                Schwiegersohns, des Hochgeborenen Herrn, Herrn Bogislaw Friedrich Grafen von
+                    <persName key="ed_m5q_z52_vz">Dönhoff</persName>, Seiner Königlichen Majestät in
+                Polen Hochverdienten Obristen, welcher sich zugleich sowohl vor seine Person als
+                seiner <seg type="comment">
+               <orig>Gemahlin</orig>
+               <note xml:id="nbxh_qk4_mbb">
+                  <persName key="ed_oln_sw4_mbb">Sophie Charlotte Gräfin von Dönhoff,
+                            geb. Gräfin von Lehndorff</persName>. Die Ehe war am 8. Mai 1701
+                        geschlossen worden, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                        Lehndorff-Steinort, Nr. 29; APO, <ref target="http://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/PL-42/type/fa/id/PL-42-380_SLASH_0/search/0/Lehndorff">Archiwum rodziny Dönhoff z Drogoszy pow. Kętrzyński</ref>, Nr. 1
+                        (Ehevertrag).</note>
+            </seg> des Einspruchsrechts hiermit begibt und dasselbe
+                kräftigst renoncieret, das auf dem <seg type="comment">
+               <orig>Roßgarten</orig>
+               <note xml:id="njvc_rp3_mbb">Stadtteil von <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. Zur Bebauung: Baczko, Ludwig von, Versuch einer
+                        Geschichte und Beschreibung von Königsberg. Königsberg 1804. </note>
+            </seg>
+                in der sogenannten Hintergasse zwischen der seligen Frau Landhofmeisterin von
+                    <persName key="ed_r2t_qkv_mbb">Creytzen</persName> und des <persName key="ed_ydq_tkv_mbb">Triebels</persName> Häusern gelegene und hinten <seg type="comment">
+               <orig>an den reformierten Kirchhof anstoßende</orig>
+               <note xml:id="ntv1_qfg_ldb">Vgl. in der Akte sowie in GStA PK, XX. HA, Rep. 54
+                        Gutsarchiv Lehndorff-Steinort, Nr. 17 und 119 weitere Dokumente zu dem 1687
+                        erfolgten Verkauf des dazu gehörenden Grundstücks auf der <ref target="https://de.wikipedia.org/wiki/Liste_der_Stra%C3%9Fen_und_Pl%C3%A4tze_von_K%C3%B6nigsberg_1905">Königsberger Burgfreiheit</ref> an Kurfürst <persName key="ed_nc5_wbp_vcb">Friedrich Wilhelm</persName> zum Bau der
+                        reformierten Kirche (Burgkirche). Diese wurde 1690 bis 1696 von Johann
+                        Arnold <persName key="ed_s4j_khg_ldb">Nering</persName> nach dem Vorbild der
+                        Nieuwe Kerk in <placeName key="ed_vnl_sgg_h1b">Den Haag</placeName> erbaut,
+                        vgl. Gresch, Eberhard, Im Blickpunkt der Geschichte der Reformation:
+                        Evangelisch-Reformierte in (Ost-)Preußen. Rundbrief der Gemeinschaft
+                        evangelischer Ostpreußen e. V., Nr. 1/2011, S. 1-32, hier S. 29 f. Beide
+                        Dokumente wurden gemeinsam mit dem Verkaufsvertrag des <quote>Hauses am
+                            Sackheimschen Tor</quote> und den Unterlagen zum <quote>Gewölbe im
+                            Löbenicht</quote> (ebd., Nr. 118) in einem <quote>eisernen
+                            Kasten</quote> aufbewahrt, in dem sie sich bei einer Revision am 2. Juli
+                        1753 als <quote>No. XII Königsbergsche Sachen</quote> noch
+                    befanden.</note>
+            </seg>, ihr eigentümlich zugehörige <orgName key="ed_dll_dm5_1bb">Wohnhaus, Hofraum und Ställe</orgName> mit allen
+                dazugehörigen Pertinenzien wie auch mit denen vorhandenen dreien <seg type="comment">
+               <orig>Beischlägen</orig>
+               <note xml:id="nuzz_tqy_tfb">Auch Vorlaube genannte
+                        Vorbauten, bei denen meist über mehrere Treppenstufen ein Sitzplatz vor der
+                        Haustür zu erreichen war, und die einen Teil des Bürgersteigs in Anspruch
+                        nahmen.</note>
+            </seg> in denen dreien untersten Gemächern und einem
+                befindlichen Kabinettsbeischlag in dem Oberstock, von allen Schulden ganz frei, doch
+                das davon jährlich drei Mark <seg type="comment">
+               <orig>Kirchendecem</orig>
+               <note xml:id="nem5_zn3_mbb">Kirchenzehnt. Quittungen darüber in: LASA, StA L,
+                        Bestand 21950 FA Lehndorff, Nr. 278 (1704, 1813). </note>
+            </seg> und fünfzig
+                Gr. Grundzins von denen 25 Schock, welche vor einigen Jahren von dem seligen Herrn
+                Obristen Freiherrn zu <persName key="ed_pbb_flv_mbb">Eulenburg</persName>, Hauptmann
+                zu Rhein, zu dem von des damaligen Nachbarn <persName key="ed_ydq_tkv_mbb">Tribels</persName> Hause erkauft worden, bezahlt und abgetragen werden müssen,
+                an den Wohlgeborenen Herrn Georg Friedrich von <persName key="ed_u13_hs5_1bb">Kalnein</persName>, Königlichen Geheimbten, auch Hof- und Gerichtsrat und
+                Hauptmann zu Neidenburg und Soldau, um und vor achtzehntausend Gulden Polnisch
+                behandelten und sofort bei der Unterschrift dieses Kontrakts bar bezahlten
+                Kaufgeldes, nach seinem besten Wissen und Belieben zu nutzen, zu gebrauchen und
+                damit als mit seinem wohl erlangten Eigentum zu schalten und zu walten, allermaßen
+                Hochgemeldte Frau Verkäuferin in Assistenz nicht allein besagtes Haus und
+                Pertinentiis sofort dem Käufer hiermit erb- und eigentümlich tradieret und übergibt,
+                sondern auch demselben wegen richtig bezahltem Kaufgelde mit diesem gebührend
+                quittiert und ihn und dessen Erben wegen dieses erkauften Hauses ein Rechtes zu
+                vertreten und zu evincieren sich erbietet. </p>
+         <p>Zu mehrer Sicherheit dessen ist dieser Kontrakt von beiden Kontrahenten und dazu erbetenen Zeugen
+                unterschrieben und untersiegelt, auch in dem Königlichen Oberburggrafschen Amt nach
+                geschehener judicalen Rekognition zu Buch zu bringen beliebt worden. </p>
+                <closer>
+                    <signed>
+               <seg type="comment">
+                  <orig>M. E. v. <persName key="ed_wwb_gcm_2y">Lehndorff</persName> G. F. v. <persName key="ed_u13_hs5_1bb">Kalnein</persName>
+                  </orig>
+                  <note xml:id="nrhq_wgy_kfb">Neben beiden
+                            Namen gesiegelt.</note>
+               </seg>
+                    <lb/>B. F. G. v. <persName key="ed_m5q_z52_vz">Dönhoff</persName> Joachim
+                    Heinrich <gap reason="lost"/>
+                    <persName key="ed_bwj_bmq_ybb">Burdack</persName>
+            </signed>
+                </closer>
+            
+        </body>
+    </text>
+</TEI>

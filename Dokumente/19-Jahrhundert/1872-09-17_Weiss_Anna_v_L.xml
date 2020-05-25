@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_k2m_fcz_ny">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Agnes von Weiß an Anna Gräfin von Lehndorff. Insterburg, 17. September 1872 / Freienwalde, 27. Dezember 1874</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_k2m_fcz_ny</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kulturbeziehungen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 323, Bl. 12-13</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_erc_wyy_ny">Weiß, Agnes von (-)</persName>
+                    <placeName key="ed_rdg_jkc_gy">Insterburg</placeName>
+                    <placeName key="ed_kbf_hfz_ny">Freienwalde</placeName>
+                    <date notBefore="1872-09-17" notAfter="1874-12-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Ob Agnes von Weiß auch Porträts nach Fotografien anfertigte, ist unsicher. Auf
+                    jeden Fall ließen die Lehndorffs im Juni 1872 und nochmals im Juli 1873 diverse
+                    Porträts aufnehmen, die ihnen <orgName key="ed_kl3_ldv_22b">Loescher &amp;
+                        Petsch (Atelier für Fotografie, Berlin</orgName>, Leipziger Str. 132), am
+                    18. Juli 1873 in Rechnung stellte, vgl. LASA, StA L, Bestand 21950 FA Lehndorff,
+                    Nr. 262, Bl. 93. Diese wurden an verschiedene Personen verschickt, mit denen die
+                    Familie in Kontakt stand vgl. u. a. APO, Bestand 382 FA Lehndorff, Nr. 483, Bl.
+                    1-1v (26. Januar 1876).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/323/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Insterburg, 17. September 1872</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Frau Gräfin liebes Schreiben hat mich diesmal
+                    doppelt erfreut, da dasselbe eine Anfrage wegen Kopieren eines Bildes enthält,
+                    welche ich nun hiermit beantworte, dass es mir ein großes Vergnügen gewähren
+                    wird, Ihrem Wusch nachzukommen;
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><note type="editorial"><?oxy_custom_end?>sie habe eine neue Wohnung mit mehr Licht
+                        und Räumen bezogen und sie solle ihr das Bild möglichst bald senden, damit
+                        sie in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> das nötige
+                        Material besorgen könne.
+                    </note>
+               <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+            </p>
+                <p><?oxy_custom_end?>
+                    <note type="editorial">Sie erhält Geschenke aus <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, einen Rehbraten, einen Martinsbraten, und ist
+                        bestürzt, als sie im Winter 1874 keine Briefe mehr erhält:</note> Ich kann
+                    es mir nicht anders denken und muss annehmen, dass ich bei Ihnen verleumdet
+                    worden bin und Tatsachen über mein Verhältnis entstellt worden sind. Diesen
+                    Liebesdienst kann alsdann nur meine Cousine <persName key="ed_f3l_zdv_22b">Wallenrodt</persName> mir erwiesen haben. Ich liebe zu sehr die Wahrheit
+                    und habe daher Ihnen gegenüber mein Lebensverhältnis ganz aufrichtig so
+                    gezeichnet, wie es wirklich ist. <note type="editorial">Ihre Cousine sei voller
+                        Tadel über ihre häuslichen Verhältnisse, deshalb habe sie dieser gegenüber
+                    </note>mein Leben hier etwas anders geschildert <gap reason="insignificant"/>,
+                    als es wirklich ist. Denn ihr hauptsächlicher Ärger besteht darin, dass ich
+                    schon viele Jahre mit einer <persName key="ed_qvh_kbz_ny">Freundin</persName>
+                    zusammenlebe, wodurch sie
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><seg type="comment">
+                  <orig><?oxy_custom_end?>Selmas</orig>
+                  <note xml:id="na2x_xcz_ny">Deren Tochter</note>
+               </seg> einstiges kleines Erbe
+                    geschmälert glaubt.</p>
+                <p>
+               <note type="editorial">Nach dem nächsten Brief vom 27. Dezember 1874 aus
+                            <placeName key="ed_kbf_hfz_ny">Freienwalde</placeName> (Bl. 16-17v)
+                        scheint es wieder Kontakt gegeben zu haben. Weiß war hierher gezogen in der
+                        Hoffnung, mehr Schülerinnen zum Zeichenunterricht zu finden, darin habe sie
+                        sich getäuscht:</note> Ich wundere mich sehr darüber und glaubte, so nahe
+                    bei <placeName key="ed_xrv_gwb_by">Berlin</placeName> mehr Kunstsinn zu finden.
+                        <note type="editorial">Sie müsse durch Buntstickerei ihre Einnahmen
+                        aufbessern. </note> Umso glücklicher machte mich Ihr liebes Schreiben, da
+                    mir dasselbe die frohe Aussicht gab, dass die Eröffnung des in Rede stehenden
+                        <seg type="comment">
+                  <orig>Stiftes</orig>
+                  <note xml:id="nh1m_p2m_3fb">in
+                            Königsberg, siehe unten</note>
+               </seg> nicht mehr so lange dauern würde,
+                    als dies früher zu erwarten stand. <note type="editorial">Anscheinend gehörte
+                        auch Komtess <persName key="ed_vhr_wjh_cy">Anna</persName> zu ihren
+                        Schülern, doch habe diese</note> sich in letzt verflossenen Jahren, wie es
+                    den Anschein hat, in der Malerei so ausgebildet, da dieselbe Gelegenheit gehabt,
+                    auswärtig Stunden zu nehmen, dass ich mit meinen bescheidenen Leistungen Frau
+                    Gräfin jetzt unmöglich mehr erfreuen kann. <note type="editorial">Sie habe keine
+                        Schülerinnen, da in <placeName key="ed_rdg_jkc_gy">Insterburg</placeName>
+                        jetzt die </note> Witwe eines früheren Oberlehrers am hiesigen Gymnasium
+                    ohne Existenzmittel zurückgeblieben und 3 Kinder zu erziehen hat, Unterricht in
+                    dieser Kunst zwar mangelhaft erteilen soll und nun, um sie zu unterstützen,
+                    alle, welche Zeichnen lernen, zu ihr gehen. <note type="editorial">(Bl. 18-19,
+                        Insterburg, 14. November 1877). Sie hofft auf weitere Unterstützung: </note>
+                    Haben Frau Gräfin vielleicht einen Wunsch etwas kopiert zu haben, welche Arbeit
+                    ich ausführen könnte, so bitte ich sehr, mir denselben zukommen zu lassen. <note type="editorial">(Bl. 20-22v, Insterburg, 27. Dezember 1877). Am 1. Oktober
+                        1880 verlegte sie ihren Wohnsitz nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, Kirchhofstraße 12, Seiteneingang (Bl. 23-24, 7.
+                        September 1880). Grund war eine Veröffentlichung in der Hartungschen
+                        Zeitung, dass sich für das dortige Stift </note>Bewerberinnen <note type="editorial">melden sollen; sie wäre nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gegangen,</note> um meine Interessen <note type="editorial">besser wahrnehmen zu können, habe aber keine Antwort und
+                        gehe davon aus, dass die Stelle bereits besetzt sei, denn sie glaube,</note>
+                    es kommt dort sehr auf Begünstigungen an. </p>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

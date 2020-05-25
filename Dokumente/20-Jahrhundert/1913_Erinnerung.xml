@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_gz4_j3n_g3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erinnerungen. Ca. 1913</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_gz4_j3n_g3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Angerburger Heimatbrief, H. 69, Weihnachten 1973, S.  25
+                            f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1913-12-01" to="1913-12-24" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <seg type="comment">
+                  <orig>Schulausflug nach Groß Steinort</orig>
+                  <note xml:id="nisv_lln_g3b">
+                     <ref target="http://www.kreis-angerburg.de/ahb/ahb69_a.pdf">zur
+                                Druckversion</ref>
+                  </note>
+               </seg>
+            </p>
+                <p>von <persName key="ed_zqd_v3m_33b">Klara Karasch</persName>
+            </p>
+                <p>Im Sommer 1913 machten wir mit der Schule einen Ausflug nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Anlass dazu war das 25-jährige
+                    Dienstjubiläum Kaiser <persName key="ed_n2s_bcb_dy">Wilhelms II.</persName> Vor
+                    der Steinorter Schule trafen sich die Schulen aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                    und <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>. Nach kurzer Rast
+                    wurden wir von <seg type="comment">
+                  <orig>Lehrer August Puschke </orig>
+                  <note xml:id="nin5_xtr_fkb">Es handelte sich um <persName key="ed_b43_s4c_mfb">Richard Franz Puschke</persName>, 1874-1920 Lehrer in Steinort;
+                                <persName key="ed_bc1_knd_py">Friedrich August</persName> war dessen
+                            Vater. Richard Franz hatte drei Töchter: Lieschen, Anna und Paula.
+                        </note>
+               </seg>(er war ein Onkel unseres <seg type="comment">
+                  <orig>Rektors
+                            Richard Puschke</orig>
+                  <note xml:id="navw_f5r_fkb">
+                     <persName key="ed_aqx_gmm_33b">Richard Puschke</persName> , Neffe von
+                                <persName key="ed_b43_s4c_mfb">Richard Franz Puschke</persName>, war
+                            1905-1938 Rektor in Rosengarten.</note>
+               </seg>) und seiner Tochter um den
+                    ganz mit Schilf umgebenen Steinorter See zum Elendswinkel geführt. Dort hatte
+                    gegenüber der Königsspitze das erste Haus Steinort gestanden, das um 1554 nach
+                    Aufstauung der Seen im Wasser versunken war. Bei ruhigem Wetter konnte man im
+                    Wasser große Steinquader liegen sehen und sogar einen gepflasterten Steg
+                    wahrnehmen, der dorthin führte.</p>
+                <p>Von dort wanderten wir zum Friedhof, auf dem Herr und Gesinde von Steinort ihre
+                    letzte Ruhe fanden. In der Gruft der kleinen Kapelle waren die Lehndorffs
+                    beigesetzt. Über der Gruft war eine kleine Halle, in der bei besonderen Anlässen
+                    Gottesdienst abgehalten wurde. Vom Friedhof aus hatte man einen weiten Überblick
+                    über die Seen und Inseln. Dann gings an Roßgärten vorbei, auf denen Pferde
+                    weideten, zu einer Wiese im Park, wo Lehrer August Puschke eine Ansprache zur
+                    Würdigung des Tages hielt. Auf einem ganz mit Bäumen überschatteten Weg
+                    wanderten wir am Kanal entlang zum See. Am Wegrand sahen wir viele
+                    Weinbergschnecken, die es in unserer Gegend kaum noch gab. Durch die Eichenallee
+                    vorbei am Pavillon gelangten wir in den Park. Dort standen einige
+                    Sandsteinfiguren, und die große Tonvase sollte ein Steinorter Gutstöpfer
+                    hergestellt haben. Auch die seit 1765 vor dem Schloss stehende Sonnenuhr sahen
+                    wir uns eingehend an.</p>
+                <p>In der Eichenallee war an einem Baum eine Tafel mit einem Spruch angebracht, der
+                    die Schönheit des Parkes und der Landschaft in Versen verherrlichte. Gewidmet
+                    war diese Tafel einem Grafen <persName key="ed_zkm_whl_2y">Carl Meinhard
+                        Lehndorff.</persName> Unser Lehrer erzählte uns, dass alle Lehndorffs, neben
+                    ihren vielen anderen Vornamen, den gemeinsamen Namen Meinhard trugen. </p>
+                <p>Das Schloss durften wir auch besichtigen, da wir aber ein Haufen Kinder waren,
+                    wurden uns nur die unteren Räume kurz gezeigt. Vom Park aus schauten wir in den
+                    Fliesensaal und gingen in die Eingangshalle. Dort führte eine doppelläufige
+                    Treppe zum oberen Stockwerk. Eine Wand war mit zwei großen Wandbehängen
+                    bespannt. Einer davon war noch recht gut erhalten. Die Kleider der dargestellten
+                    Personen waren in leuchtenden Farben gehalten. Gesicht und Hände waren auf den
+                    Stoff gemalt. Der zweite Vorhang war schon sehr verblichen und zerschlissen, es
+                    gefiel uns Mädchen gar nicht, dass „die im Schloss‟ sich solche „zerrissene
+                    Koddern‟ an die Wand hingen. Einen dieser Wandbehänge sollte die Erbauerin des
+                    Schlosses, Gräfin <persName key="ed_wwb_gcm_2y">Eleonore Lehndorff, geb.
+                        Dönhoff</persName>, in Applikationsarbeit selbst hergestellt haben. </p>
+                <p>Auch in die Kellergewölbe, die noch aus dem ersten Haus stammten, konnten wir
+                    hineinschauen. An einer Wand waren in gleichmäßigen Abständen eiserne Ringe
+                    eingemauert, dort wurden wohl in Kriegszeiten die wertvollen Pferde vor dem
+                    Zugriff der Feinde versteckt.</p>
+                <p>In einem anderen Raum stand ein Himmelbett, die Stickerei am Betthimmel sollte
+                    auch noch von der Gräfin herstammen. Auch ein großer Ohrensessel stand da,
+                    dessen Bezug schon recht verblichen war.</p>
+                <p>Als Töpferkind hatte ich mir aber die Öfen genau angesehen und erzählte Vater
+                    später von dem runden Ofen im Fliesensaal und dem graugrünen Ofen, der genauso
+                    aussah wie der Ofen in Großmutters altem Bohlenhaus. Als Vater den Ofen abbrach,
+                    weil das Haus umgebaut wurde, sagte er, dass derselbe mindestens 150 Jahre oder
+                    gar mehr gestanden hatte, weil er noch mit handgeschmiedeten Klammern
+                    zusammengehalten wurde. Auch eine Tür im Schloss kam mir sehr vertraut vor,
+                    hatte sie doch dieselbe Form mit eisernen Türangeln, Klinke und Schloss wie die
+                    Tür in Großmutters Haus.</p>
+                <p>Später bin ich von Angerburg aus noch oft in Steinort gewesen, bin durch den Park
+                    gegangen und habe mich im Schloss umgesehen, auch die Simsonstube mit den vielen
+                    in Silber und Dunkelblau gehaltenen Gobelinwandbehängen und das Porzellanzimmer
+                    besichtigt. Doch an meinen ersten Besuch im Schloss als Kind kann ich mich noch
+                    am besten erinnern.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

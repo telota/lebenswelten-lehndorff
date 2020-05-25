@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_wzj_fcq_ddb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Peter Joseph Lenné.  Steinort,
+                    ca. 1823</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_wzj_fcq_ddb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 645, Bl. 46-47</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date notBefore="1823-01-01" notAfter="1823-12-31" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_irf_55l_ddb">Lenné, Peter Joseph (-)</persName>
+                </correspAction>
+                <note>Siehe auch: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 738, n.
+                    f. Demnach gab es zehn Gärten: Küchengarten, Obstgarten, Viehgarten,
+                    Hopfengarten, Exilenzgarten [einen höher gelegenen Garten] und ein <ref target="https://de.wikipedia.org/wiki/Parterre_(Gartenkunst)">Garten-Parterre,</ref> einen Garten hinter der Küche, am steinernen Zaun,
+                    einen <quote>Binnengarten</quote> und einen <quote>hinter dem Brothaus</quote>,
+                    die Äpfel, Birnen, Süß- und Sauerkirschen, rote, grüne und gelbe Pflaumen und
+                        <quote>Spillen</quote> lieferten.</note>
+            </correspDesc>
+            <abstract>
+                <p>Lehndorff wendet sich an Lenné in <quote>einer Angelegenheit</quote>, die in
+                        <quote>das so interessante und gemeinnützige Fach schlägt <gap reason="illegible"/>. Ich habe hier in Preußen, 12 Meilen von <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> entfernt, ein ziemlich
+                        bedeutendes Besitztum.</quote> Es sei seit 400 Jahren im Familienbesitz. Der
+                    Krieg 1806/07 habe es stark in Mitleidenschaft gezogen. Sein Wunsch und seine
+                    Pflicht sei, es, den Besitz wiederherzustellen, doch ist <quote>hier guter Rat
+                        selten, Beispiel gar nicht.</quote> Deshalb wende er sich wegen eines
+                    Ratschlags an Lenné und beziehe sich auf dessen <seg type="comment">
+                  <orig>
+                     <quote>Abhandlung über
+                            Landschaftsverschönerung</quote>.</orig>
+                  <note xml:id="nhtr_t12_b2b">
+                     <persName key="ed_irf_55l_ddb">Lenné</persName> war nicht nur im
+                            Berlin-Potsdamer Raum tätig. Es lassen sich ca. 30 von Lenné gestaltete
+                            Gartenanlagen auf dem Gebiet des heutigen Polen nachweisen, so übernahm
+                            er die Umgestaltung des Gutes Lomitz zum Landschaftspark oder die Anlage
+                            des Scheitniger Parks in Breslau, vgl. Köhler, Marcus/Haase, Christoph,
+                            Die Gärten Peter Joseph Lennés im heutigen Polen. Eine Spurensuche
+                            jenseits von Oder und Neiße, Dößel 2016. Preußische Gärtner lassen sich
+                            für das 19. Jahrhundert auch als Absolventen der <ref target="https://de.wikipedia.org/wiki/K%C3%B6nigliche_G%C3%A4rtnerlehranstalt_am_Wildpark_bei_Potsdam">Königlichen Gärtnerlehranstalt am Wildpark bei Potsdam</ref>
+                            nachweisen, vgl. den Aufsatz von Roemer in: Altpreußische
+                            Geschlechterkunde N. F. 30 48 (2000). </note>
+               </seg>
+                    <seg type="comment">
+                  <orig>Die <quote>Obstkultur</quote> sei eines seiner
+                            Anliegen. </orig>
+                  <note xml:id="npsh_jnl_n2b">Vgl. GStA PK, XX. HA, Rep.
+                            54 Gutsarchiv Lehndorff-Steinort, Nr. 738, n. f. zu den Erträgen
+                            1820/21. Demnach wurden Pflaumen, Äpfel und Birnen angebaut und es gab
+                            es eine Gemüse- und Blumenproduktion. Neben dem Eigenbedarf wurden Obst,
+                            Gemüse und Blumen verkauft, für den Erlös wurden Sämereien und
+                            Saatzwiebeln gekauft. Die Gartenarbeit wurde von Tagelöhnern
+                            unterstützt. </note>
+               </seg>Unter den Bäumen, die nach dem Krieg geblieben
+                    seien, gäbe es etliche <quote>edle Sorten</quote>. Doch sei der Ertrag gering,
+                    auch hier bräuchte er Lennés Rat. Den Garten hätten bereits seine Ahnen
+                    angelegt, dazu gehören eine Eichenallee und Seen. <seg type="comment">
+                  <orig>Sein
+                            Vater habe begonnen, den Garten in einen Park umzuwandeln.</orig>
+                  <note xml:id="nixb_3zd_b2b">Vgl. hierzu die zahlreichen Eintragungen in den
+                            Tagebücher des Grafen Ernst Ahasverus von Lehndorff.</note>
+               </seg> Er
+                    benötige auch einen <seg type="comment">
+                  <orig>
+                     <quote>intelligenten
+                                Gärtner</quote>, jedoch sei vor Ort sei niemand zu
+                            finden.</orig>
+                  <note xml:id="nh3c_ksn_s2b">1819 hatte er einen Gärtner
+                            namens <persName key="ed_zwy_qnp_1fb">Geiger</persName> eingestellt, der
+                            Vertrag in: GStA PK, XX, HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                            517.</note>
+               </seg> Er fragt Lenné, ob dieser ihm jemand empfehlen könne,
+                    der es sich zutraue, in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>
+                    diese Aufgabe anzunehmen. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/645/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute> </salute>
+                </opener>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

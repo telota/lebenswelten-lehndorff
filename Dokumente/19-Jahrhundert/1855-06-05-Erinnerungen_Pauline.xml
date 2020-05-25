@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_nhd_y4j_r2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aufzeichnung von Ida Rische. 5. Juni 1855</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_nhd_y4j_r2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 52: Kleine
+                            Erinnerungen aus dem Leben der Exzellenz Gräfin Pauline Lehndorff</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Typoskript. „Entnommen aus Briefen von Frau Pastorin Volkening -
+                            Jöllenbeck und deren Tochter, Frau Pastor Rische - Schwinkendorf, durch
+                            die Tochter der Letzteren, Paula, die ein Patenkind der obigen Gräfin
+                            Lehndorff war.‟ </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_wjt_k15_gfb">Rische, Frau (-)</persName>
+                <date when="1855-06-05" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Gestern waren wir bei Baron <persName key="ed_evv_1n5_gfb">Klochs</persName>
+                    eingeladen und hatten einen sehr angenehmen und gemütlichen Nachmittag bei ihm,
+                    da <persName key="ed_tcp_g3l_2y">Exzellenz</persName> auch da war. Bei Exzellenz
+                    wird einem die Zeit niemals lang, aber heute war sie besonders anregend.</p>
+                <p>Frl. <persName key="ed_amq_mgd_py">Seraphine</persName> war von <placeName key="ed_rqx_tnz_2y">Hamburg</placeName> auch wieder da. Ich schrieb euch ja
+                    schon, dass Exzellenz alle ihre Möbel abgeben muss an <seg type="comment">
+                  <orig>Graf Otto</orig>
+                  <note xml:id="nz55_nsz_gfb">von
+                            Schlippenbach?</note>
+               </seg>, und nun hatte Frl. Seraphine in Hamburg
+                    neue kaufen müssen. Gestern Nachmittag war auch Graf <persName key="ed_fxl_5l5_ncb">Albert</persName> hier. Er kam von <placeName key="ed_uyx_nvn_my">Paris</placeName>. Graf und Gräfin gedenken erst am 15.
+                    Juli abzureisen, aber der <persName key="ed_e2c_dfd_d2b">Graf</persName> ist so
+                    krank, dass man denkt, er sei dem Tode nah.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

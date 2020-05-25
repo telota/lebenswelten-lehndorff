@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_znk_ptx_bz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. 5. März 1751</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_znk_ptx_bz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>Kategorie: Beziehungen zum preußischen Hof</note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750-1804), in: Masovia 11 (1906), S. 118-154, hier S.
+                            123</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <date when="1751-03-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>5. März 1751</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Ich glaube, dass die <seg type="comment">
+                  <orig>Markgräfin</orig>
+                  <note xml:id="nks3_nvx_bz">
+                     <persName key="ed_v2j_2ww_22b">Markgräfin Leopoldine Marie von
+                                Schwedt</persName>, Gemahlin des <persName key="ed_akr_3ww_22b">Markgrafen Heinrich</persName> und Tochter des alten
+                            Dessauers</note>
+               </seg> toll geworden ist, dass sie <seg type="comment">
+                  <orig>Komödie</orig>
+                  <note xml:id="namj_gs4_5bb">Theater wurde am Hof
+                            häufig gespielt, auch im Nachlass Lehndorffs finden sich Theaterzettel,
+                            vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 514, Bl. 8: Dädalus
+                            und seine Statuen. Ein pantomimischer Tanz (Mitwirkende u. a. die
+                            Königin, die Prinzen Ludwig Ferdinand, Heinrich, Wilhelm und August,
+                            Graf von Hatzfeld, die Erbprinzessinnen von Hessen und von Oranien,
+                            Prinz Radziwill, der Erbprinz von Mecklenburg-Strelitz, verschiedene
+                            Hofdamen und Herren der Gardes du Corps. Diese Quadrille wurde zur
+                            Fastnacht 1802 bei Prinz Ferdinand aufgeführt, der Programmzettel
+                            gehörte zu einem Brief des Grafen Dönhoff, vgl. Schultze, Maximilian
+                            (Hrsg.), Christian Friedrich Carl Ludwig Reichsgraf Lehndorff-Steinort
+                            ... Ein Lebensbild auf Grund hinterlassener Papiere, Berlin 1903, S. 88
+                            f. </note>
+               </seg> spielen will, sie, die weder Sprache noch Gestalt noch
+                    sonst irgend etwas hat, das sie fähig machte, gut spielen zu können; <seg type="comment">
+                  <orig>der <persName key="ed_emb_rnr_42b">Prinz von
+                                Holstein</persName> wird allem Anschein nach der erste
+                            sein,</orig>
+                  <note xml:id="ngpv_q3m_cz">Die Markgräfin wurde wegen
+                            Ehebruchs mit dem Herzog von Holstein im Mai nach <placeName key="ed_ewj_qww_22b">Kolberg</placeName> verbannt.</note>
+               </seg> wenn
+                    man nach <persName key="ed_gmb_zzx_bz">Reichenbach</persName> und <persName key="ed_rxc_11y_bz">Broske</persName> urteilt; ich glaube, dass die Auswahl
+                    der übrigen nur lächerlich sein könnte. </p>
+            <p>Was Sie mir von dem älteren <persName key="ed_zrn_dy4_dz">Lambert</persName> mitteilen, setzt
+                    mich nicht in Erstaunen; als er im vorigen Jahre nach <placeName key="ed_iw5_fxl_2y">Breslau</placeName> gekommen war, nahm er einen Koch und
+                    20 Zuckerbäcker in seinen Dienst; nach kaum zehn Tagen hatte er nur noch den
+                    Koch und einen Zuckerbäcker und nach Verlauf eines Monats war er genötigt, auch
+                    sie zu verabschieden und sein Mittagessen aus der Herberge holen zu lassen. Ich
+                    glaube, dass der Neger und der Türke dasselbe Schicksal haben werden. <gap reason="insignificant"/>
+                </p>
+            <p>
+               <seg type="comment">
+                  <orig>Ich bringe meine Zeit in Einsamkeit zu; Lektüre und etwas Musik sind
+                            meine gewöhnlichen Beschäftigungen.<gap reason="insignificant"/>
+                        </orig>
+                  <note xml:id="nv3z_myp_mbb">
+                     <note type="editorial">Auch in einem
+                                Brief aus dem Folgejahr (ebd., S. 124) beklagt er die Langeweile:
+                                </note>
+                     <quote>Wir tun nichts, als Exerzieren, vom Morgen bis zum
+                                Abend, und wenn man nur das zu sehen bekommt, so ist es schwer,
+                                Stoff zur brieflichen Unterhaltung zu finden.</quote> Auch Meusel
+                            zitiert aus Lehndorffs Tagebuch: <quote>Die Offiziere des Regiments sind
+                                Haudegen, den römischen Veteranen vergleichbar, aber nicht sehr
+                                umgänglich. <gap reason="insignificant"/> Sie befleißigen sich eines
+                                so tiefen Schweigens, dass Pythagoras mit ihnen zufrieden sein
+                                würde</quote>, und verweist auf die <quote>geistige Kluft zwischen
+                                den Mitgliedern der Hofgesellschaft und dem
+                                Durchschnittsoffizierskorps</quote>. Zur Ruppiner Garnison: <ref target="http://www.zeno.org/Literatur/M/Fontane,+Theodor/Reisebilder/Wanderungen+durch+die+Mark+Brandenburg/Die+Grafschaft+Ruppin/Die+Ruppiner+Garnison/Regiment+Prinz+Ferdinand+Nr.+34">Fontane, Theodor, Wanderungen durch die Mark Brandenburg</ref>.
+                        </note>
+               </seg>
+               <note type="editorial">Im Folgenden schreibt Prinz Ferdinand,
+                        die Gespräche der Offiziere seien höchst langweilig und versichert in einem
+                        Nachwort, er sei in allen Herzensangelegenheiten in Berlin die erste
+                        Autorität. </note>
+                    <gap reason="insignificant"/> Ich weiß nicht, <seg type="comment">
+                  <orig>ob Sie
+                            noch Luft haben, inkognito mit <persName key="ed_wsj_21y_bz">Lambert</persName> hierherzukommen</orig>
+                  <note xml:id="no44_vfy_bz">Im April machte Lehndorff die gewünschte Reise nach <placeName key="ed_uxr_bxq_bz">Ruppin</placeName>, <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName> und <placeName key="ed_tgj_5ww_22b">Hoppenrade</placeName>.</note>
+               </seg>, teilen
+                    Sie es mir bitte mit, damit ich Ihnen Pferde in <placeName key="ed_ed1_s2y_bz">Bötzow</placeName> bereithalten kann. <note type="editorial">Lamberg solle
+                        sich verkleiden, </note>da man ihn sonst einige Tage ins Archiv sperren
+                    könnte.</p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

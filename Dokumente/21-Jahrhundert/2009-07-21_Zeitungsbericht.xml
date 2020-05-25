@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_fff_43m_xdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zeitungsbericht. Chemnitz, 21. Juli 2009</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_fff_43m_xdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Widerstand 1944</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Freie Presse Chemnitz. 21. Juli 2009</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="2009-07-21" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Ein Attentat schreibt Kunst-Geschichte</p>
+                <p>Vier sächsische Museen beherbergen den Kunstschatz einer ostpreußischen
+                    Adelsfamilie - Nun wollen ihn die Erben wieder haben</p>
+                <p>Von Ulrich Hammerschmidt</p>
+                <p>Chemnitz. 16 Pferde, 30 Rinder, 100 Schafe, dazu jede Menge Silber - das war die
+                    Mitgift einer Frau am Anfang des 17. Jahrhunderts, die eine Gräfin von Lehndorff
+                    werden wollte. Wohlhabend war die ostpreußische Adelsfamilie und wurde so immer
+                    reicher, bis <persName key="ed_eq5_1t1_dy">Heinrich von Lehndorff</persName>
+                    1944 alles verlor - das Vermögen und sein Leben, welches ihm die Nazis raubten.
+                    Der 1909 geborene Graf hatte zum Kreis rund um <persName key="ed_v5s_2zh_4cb">Stauffenberg</persName> gehört und wurde im September vor 65 Jahren
+                    hingerichtet. </p>
+                <p>Gemälde, Möbel, wertvolle Bücher, Porzellan, Silber - sie und vieles andere mehr
+                    gehören zum Schatz aus dem masurischen Schloss <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, der 1944 nach Sachsen kam, von Hitlers Helfern
+                    verschleppt oder bereits vor dem 20. Juli kriegsbedingt ausgelagert. Auf alten
+                    Fotografien vom Stammsitz der Lehndorffs sehe man „Kunst wohin das Auge auch
+                    blickt‟, erklärt Gerhard Brand. Der Berliner Anwalt vertritt die
+                    Erbengemeinschaft der Adelsfamilie, die ihren bis heute auf vier sächsische
+                    Museen verteilten Besitz nun wiederhaben will. Betroffen sind zum einen die Burg
+                        <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> sowie das Leipziger
+                        <orgName key="ed_ah4_dzt_sdb">Grassi-Museum</orgName>, zum anderem die
+                        <orgName key="ed_a3z_hzt_sdb">Staatlichen Kunstsammlungen Dresden</orgName>
+                    und die <orgName key="ed_mn2_rtt_sdb">Kunstsammlungen Chemnitz.</orgName>
+            </p>
+                <p>Während die beiden Ersteren mit sich reden ließen, betont der Anwalt, verfolgten
+                    Chemnitz und Dresden eine „Strategie des Mauerns und Aussitzens‟. Das sagte
+                    Brand gestern der „Freien Presse‟, am 65. Jahrestag des Stauffenberg-Attentats,
+                    welchen das Hamburger Nachrichtenmagazin „<seg type="comment">
+                  <orig>Der
+                            Spiegel</orig>
+                  <note xml:id="nwzv_vql_zdb">Das Erbe des Verschwörers, in:
+                            Der Spiegel 30/2009</note>
+               </seg>‟ zum Anlass genommen hatte, über die
+                    Restitutionsansprüche zu berichten. Mit einem Antrag der Familie 1992 an das
+                    Bundesamt für offene Vermögensfragen hatte alles begonnen. Zwischenbilanz nach
+                    17 Jahren: „Trotz intensiver Bemühungen wurde bisher kein einziges Stück
+                    zurückgegeben - das ist beschämend, peinlich‟, findet Brand, der in ähnlichen
+                    Angelegenheiten auch das Haus Wettin vertritt.</p>
+                <p>Streiten? Nein, das will sich <persName key="ed_mfb_mjp_1gb">Bernd
+                        Wippert</persName> mit den Lehndorffs nicht. Der Schlossleiter von <orgName key="ed_pgh_sxk_gbb">Burg Kriebstein </orgName> hat mit der Familie längst
+                    seinen Frieden gefunden: Seit 1995 gibt es eine deutschlandweit einmalige
+                    Lehndorff-Gedenkstätte im Museum und ein „Schatzgewölbe‟ voll mit Kunst aus dem
+                    Schloss Steinort. „Woher diese kommt, haben wir öffentlich gemacht - wir mauern
+                    und mauscheln nicht, verheimlichen nichts‟, betont Wippert. Der
+                    Lehndorff-Schatz, in der DDR pauschal als Volkseigentum deklariert, wurde nach
+                    der Wende gehoben, restauriert und mit Texten beschriftet, die keinen Zweifel an
+                    der Herkunft lassen. </p>
+                <p>„Vorbildlich‟ nennt das Anwalt Brand. Und Museumschef Wippert kann es sich
+                    vorstellen, dass „wir das, was wir haben, eines Tages auch wieder rausgeben‟ -
+                    um damit eine geplante deutsch-polnische Begegnungsstätte auf Steinort zu
+                    bestücken. „Dies ist eine Vision der Familie, nur darum geht es <persName key="ed_kby_cys_2y">Vera von Lehndorff,</persName> der Tochter‟, betont
+                    Brand. Dazu müsse der verfallene Adelssitz aber erst einmal saniert werden. Erst
+                    danach sei an eine Rückkehr der Kunst gedacht.</p>
+                <p>Das Ansinnen seiner 70-jährigen Mandantin, die in den 1960er Jahren als Top-Model
+                    „Veruschka‟ bekannt wurde, stößt dagegen in Dresden auf Widerstand. Die Position
+                    der Staatlichen Kunstsammlungen: Bei einem Teil der beanspruchten Objekte,
+                    darunter ein <seg type="comment">
+                  <orig>Familien-Gemälde <persName key="ed_cpg_3vz_g1b">Tischbeins</persName>
+                  </orig>
+                  <note xml:id="ndqd_hrl_zdb">Das Gemälde wird bereits im <ref target="lehndorff_m2s_f2b_kz">
+                        <ref target="lehndorff_m2s_f2b_kz">Testament</ref>
+                     </ref> des Grafen <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich von Lehndorff</persName> als
+                            Familienbesitzgenannt, weitere Gemälde sind in späteren <ref target="lehndorff_vqr_cld_bbb">Inventarlisten</ref> verzeichnet.
+                        </note>
+               </seg> und etliche Lexikon-Bände, die von Kriebstein aus in deren
+                    Bestand kamen, können man sich nicht absolut sicher sein, ob sie den Lehndorffs
+                    oder der einst auf Gut Steinort lebenden <persName key="ed_obg_2fc_ydb">Familie
+                        von Lorck </persName> gehörten. Die Lorcks wiederum hätten keinen
+                    Restitutionsanspruch gestellt. „Weil keines der Bilder aus ihrem Besitz stammt -
+                    das haben die von Lorcks bestätigt‟, hält der Anwalt dagegen.</p>
+                <p>
+               <ref target="lehndorff_tkb_gsb_31b">In der Basilika <placeName key="ed_w4n_gtt_sdb">Wechselburg</placeName> wiederum war um 1945 ein
+                        weiterer Teil der Nazi-Raubkunst gelandet, der danach in die Bestände der
+                        Kunstsammlungen Chemnitz kam.</ref> Darunter eine Truhe von 1622, heute im
+                    Besitz des Schlossbergmuseums, und ein Klavier, das die Chemnitzer als Leihgabe
+                    ans Leipziger Grassi-Museum gaben. Während das Grassi ihm bereitwillig Einblick
+                    ins Depot gewährte und gestern seine Bereitschaft signalisierte, zwei
+                    Möbelstücke an die Lehndorffs zurückzugeben, hat Chemnitz bisher „nur gemauert‟,
+                    ärgert sich der Anwalt. Damit scheint nun Schluss zu sein. Die Truhe, ein
+                    Dokument und das Klavier könnte die Familie wiederhaben, erklärte der Chemnitzer
+                    Bürgermeister Miko Runkel gestern. Bleiben weitere sechs Objekte, deren Herkunft
+                    nicht eindeutig sei. Runkel: „Da wollen wir nun abwarten, wie das Bundesamt für
+                    offene Vermögensfragen entscheidet.‟</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_gbh_3bw_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Malwina von Knobloch an Anna Gräfin von Lehndorff.
+                    Königsberg, 30. Oktober 1891</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_gbh_3bw_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 460, Bl. 34-35v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ysk_jfh_h2b">Knobloch, Malwina von (1838-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1891-10-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Vgl. deren Brief an Anna von Lehndorff in: APO, Bestand 382 FA Lehndorff, Nr.
+                    499, Bl. 80 (Königsberg, Münzstraße 1, 9. Mai 1886). Darin schildert sie das
+                    Schicksal der Familie und ihrer <quote>armen Schwägerin <persName key="ed_zjd_tdh_h2b">Therese Knobloch, geb. Paleske</persName>
+               </quote>,
+                    die von der <quote>Wohltat der Verwandten leben muss</quote>, und fragt an, ob
+                    ihr Schwager nicht <quote>ein kleines Kapital zur Anlage des Fräuleinstifts
+                        gegeben</quote> habe, und ob entweder eine Aussicht auf Aufnahme bestehe
+                    oder man anderenfalls das Kapital zurückerhalten könne. Sie möchte nichts
+                    unversucht lassen, um ihrer Schwägerin und den Kindern zu helfen. - Neben den
+                    erwähnten Töchtern gab es noch einen Sohn, <persName key="ed_pks_4zx_jlb">Edgar
+                        von Knobloch</persName>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/460/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 30.10.<lb/>Große Schlossteichstraße I</dateline>
+					          <salute>Meine liebe Anna.</salute>
+                </opener>
+				        <p>Du weißt vielleicht, dass mein Schwager <persName key="ed_css_fdh_h2b">Knobloch</persName>,
+                    dessen Frau eine <persName key="ed_zjd_tdh_h2b">Paleske</persName>, nach langem
+                    schweren Leiden <seg type="comment">
+                  <orig>in Berlin im Invalidenhaus
+                            gestorben.</orig>
+                  <note xml:id="noth_g3h_h2b">Er starb am 5. Oktober
+                            1891, vgl. <ref target="https://billiongraves.com/grave/Therese-Freiin-v-Paleske-v-Knobloch/12702161">https://billiongraves.com/grave/Therese-Freiin-v-Paleske-v-Knobloch</ref>.
+                        </note>
+               </seg> Meine arme Schwägerin ist total mittellos. Ihre jüngste
+                    Tochter im Alter meiner <persName key="ed_ybj_kfh_h2b">Erna</persName> hat das
+                    Examen gemacht und wird sich durchschlagen, aber die Älteste ist in trostloser
+                    Lage. Kannst Du, meine gute Anna, die Du sicher das alles weißt, mir nicht
+                    sagen, wie und ob man dem armen Mädchen (30 Jahre alt) zu einer Stiftsstelle
+                    oder einem Beruf, wo sie Gehalt bezieht, verhelfen könnte? Gibt es nicht
+                    Stifter, die die <persName key="ed_uqr_jxf_4y">Kaiserin</persName> vergibt? Wenn
+                    es auch nur Geld wäre. Oder weißt Du zufällig ein Haus, wo eine Gesellschafterin
+                    bei einer alten Dame, altem Herrn oder jungen Mädchen gesucht wird? Ich würde
+                    Dir so dankbar sein, könntest Du mir wie stets raten, wohin ich mich am besten
+                    wende. </p>
+                <p>Wie schrecklich leid tat es mir, dass ich <gap reason="illegible"/> in <placeName key="ed_xrn_x3h_h2b">Woplauken</placeName> war, nicht heimisch warst<note type="editorial">
+                        <gap reason="insignificant"/>
+                        <note type="editorial">Es folgen Ausführungen über ihre
+                        Gesundheit.</note>
+               </note>
+            </p>
+                <p>Bist Du allein in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> oder hast
+                    Du Besuch? Ich war diesen Sommer in <placeName key="ed_wh4_rhg_ldb">Kilgis</placeName>, für mich und meine Kinder immer eine Wonne, dort zu
+                    sein, in dem <gap reason="illegible"/> Familienkreis an dem wunderhübschen Ort.
+                    Mein liebes Elternhaus wird mir dadurch, so weit es geht, ersetzt.</p>
+				        <closer>
+					          <salute>Meine Kinder küssen Dir die Hand und ich bleibe meiner lieben Anna in unveränderter
+                        Liebe stets Deine dankbare</salute>
+					          <signed>M. Droste <lb/>Gf. Kalnein</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

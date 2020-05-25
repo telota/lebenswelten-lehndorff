@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_dk3_vpd_zdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, Januar
+                    1783</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_dk3_vpd_zdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+              
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Karl Eduard, Des Reichsgrafen Ernst
+                            Ahasverus Heinrich Lehndorff Tagebücher nach seiner Kammerherrenzeit, Bd.
+                            1, Gotha 1921, S. 299</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date from="1783-01-01" to="1783-03-15" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <gap reason="insignificant"/> Unter den Gutsbesitzern herrscht große
+                    Unzufriedenheit. Der <persName key="ed_x2r_52f_cy">König</persName> hat sich von
+                        <seg type="comment">
+                  <orig>
+                     <persName key="ed_tsr_j4b_tcb">Philippi</persName>
+                  </orig>
+                  <note xml:id="ndpy_1qd_zdb">Polizeipräsident
+                            in Berlin</note>
+               </seg> verleiten lassen, den Preis des Scheffels Korn
+                    auf 1 Taler und 7 Groschen festzusetzen. Die Landwirte verlangen mehr dafür und
+                    wollen kein Getreide mehr in die Stadt schicken. </p>
+                <p>
+               <seg type="comment">
+                  <orig>Einen weiteren Grund zur Unzufriedenheit bildet die
+                            Neuordnung des Justizwesens durch den Großkanzler <persName key="ed_rwj_n5g_hy">Carmer</persName>, insofern er dem Adel die
+                            Befugnis zur Ausübung der Gerichtsbarkeit auf seinen Gütern
+                            nimmt.</orig>
+                  <note xml:id="nv5m_rsd_zdb">Bereits seit 5. Mai 1738
+                            sollten Verbesserungsvorschläge bzgl. des Justizwesens durch die
+                            Amtsvorsteher eingereicht werden, vgl. GStA PK, XX. HA, Rep. 54
+                            Gutsarchiv Lehndorff-Steinort, Nr. 469. - Im Folgenden schreibt
+                            Lehndorff, <persName key="ed_rwj_n5g_hy">Carmer</persName> habe zwar
+                                <quote>in <placeName key="ed_tjn_3rc_py">Schlesien</placeName>
+                                Außerordentliches vollbracht</quote>, indem er das Kreditsystem
+                            errichtet und das Rechtsverfahren vereinfacht habe, in <placeName key="ed_xrv_gwb_by">Berlin</placeName> werfe man ihm aber vor, dass
+                            er <quote>alle Rechte des Adels aufheben</quote> wolle (S. 304 und 306).
+                            Zur Durchführung der Justizreform auf den <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern wurde Regierungsrat <persName key="ed_r3s_ymw_mbb">Glave</persName> bestimmt, <quote>der ein sehr
+                                verbindliches Wesen an sich hat, aber auch ein großer Intrigant sein
+                                soll</quote>, vgl. ebd., S. 335. Zu Glave:  Wendt, Eckhard,
+                            Stettiner Lebensbilder, Köln/Weimar/Wien 2004, S. 186 f.
+                            (Veröffentlichungen der Historischen Kommission für Pommern, V, 40).
+                        </note>
+               </seg> Solche Dinge erregen viel Lärm, hindern aber nicht, dass man
+                    sich in <placeName key="ed_xrv_gwb_by">Berlin</placeName> trefflich
+                    amüsiert.</p>
+                <p>
+               <gap reason="insignificant"/>
+            </p>
+                <p>Unser Karneval hat ein Ende und der <persName key="ed_x2r_52f_cy">König</persName> reist ganz wohl und zufrieden ab. Der <persName key="ed_dkj_hjj_w2b">Oberstallmeister Schwerin</persName>, der beim König
+                    eine Art Hofnarr spielt, sagte zu diesem: „Sie haben sich diesen Winter recht
+                    gut aufgeführt; ein jeder ist mit ihnen zufrieden gewesen.‟ Es ist wahr, dass S.
+                    M. diesmal nicht so viel Sarkasmen gesagt hat wie gewöhnlich. Das haben wir
+                    aber, glaube ich bestimmt, nur dem Marquis v. <persName key="ed_jpy_tvn_scb">Luchesini</persName> zu verdanken, der immer in seiner Nähe ist und ihn
+                    durch geistreiche Unterhaltung zu fesseln versteht. Den Herren, die früher seine
+                    Umgebung bildeten, fehlte es an Geist; ihre Unterhaltung war nur Klatsch über
+                    Personen, die der König nicht kannte. </p>
+                <p>
+               <gap reason="insignificant"/>
+                </p>
+                <p>Wenn ich daran denke, dass mein <persName key="ed_k4z_jgl_2y">Sohn</persName> in
+                    einigen Jahren in diese Welt voll Gefahren treten soll, dann sträuben sich mir
+                    die Haare auf dem Kopf. Ich will darum bestrebt sein, ihn mit den
+                    Grundwahrheiten des Christentums, dem Gefühl für Sittlichkeit und Anstand, dem
+                    Widerwillen gegen leeren Schein und dem edlen Ehrgeiz zu erfüllen, durch
+                    treffliche Eigenschaften des Herzens und des Geistes sich allgemeinerer
+                    Wertschätzung zu erfreuen. Besonders aber werde ich den Himmel anflehen, dass er
+                    ihm den rechten Weg zu einer tadellosen Lebensführung weise. Denn der
+                    menschliche Verstand allein genügt nicht, um einen jungen Menschen richtig zu
+                    leiten; es bedarf immer des göttlichen Beistandes. </p>
+                <p>
+               <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

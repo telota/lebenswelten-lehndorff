@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_yyz_jsl_3bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hoffiskal Kirschkopff an Ernst Ahasverus Heinrich Graf von Lehndorff. Königsberg, 4. November 1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_yyz_jsl_3bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 380, Bl. 113-114v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_m1z_pcv_1bb">Kirschkopff, (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1784-11-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>
+               <placeName key="ed_ypr_tzz_ncb">Laserkeim</placeName>, 1 1/2 Meilen von
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, war eine kleinere
+                    Besitzung Lehndorffs. <quote>Das Wohnhaus ist hier ganz hübsch, und die ganze
+                        Gegend reizend. Die Güter sind hier alle klein und liegen deshalb dicht
+                        beieinander, so dass man in ein paar Stunden durch fünf oder sechs
+                        Besitzungen kommt. Das erinnert an andere Länder; für <placeName key="ed_uvt_4j4_dz">Preußen</placeName> ist es etwas seltenes. Ich
+                        glaube, man könnte auf einer so kleinen Besitzung auch ganz glücklich leben,
+                        wenn man aber wie ich an größere Verhältnisse gewöhnt ist, so findet man
+                        doch hier keine rechte Befriedigung</quote>, notierte Lehndorff in seinem
+                    Tagebuch im Juli 1781 bei einem Besuch, vgl. Schmidt-Lötzen, Nachträge, Bd. 2, S. 197.</note>
+            </correspDesc>
+            <abstract>
+                <p>Kirschkopff teilt dem Grafen mit, dass er vom Kammerpräsidenten Baron von der
+                        <persName key="ed_vqf_qyv_scb">Goltz</persName> eine Anfrage erhalten habe,
+                    ob dieser das Gut <placeName key="ed_ypr_tzz_ncb">Laserkeim</placeName>
+                    verkaufen wolle. Er bringe als Ersatz das Gut <placeName key="ed_d3m_2zz_ncb">Regitten</placeName> und <placeName key="ed_trb_fzz_ncb">Klein
+                        Lehden</placeName> in Vorschlag. Laserkeim habe zwar ein <quote>logeables
+                        Wohnhaus, der Acker aber ist schlecht und der Wiesewachs außerordentlich
+                        karg</quote>, weshalb man aus dem Gut nie höhere Erträge werde ziehen
+                    können. Die <quote>
+                  <persName key="ed_oss_x4h_xkb">Trencksche</persName> Güter
+                        können unter 30 Rtlr. nicht verkauft werden und dieses sind sie
+                        wert.</quote> Auch wenn Lehndorff den Preis für zu hoch halte, erinnert er
+                    an die <quote>Konnexion mit <placeName key="ed_mbv_pyz_ncb">Strittkeim</placeName>
+               </quote> und den Wald. Die Kapitalien seien
+                        <quote>sämtlichst untergebracht</quote>.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

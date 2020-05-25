@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_s14_bts_lcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Reichenbach,
+                    3. Januar 1807</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_s14_bts_lcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 149-151</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Carl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_cjg_3ts_lcb">Reichenbach</placeName>
+                    <date when="1807-01-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (1751-1830)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Reichenbach bei Preuß. Mark, den 3. Januar 1807</dateline>
+					          <salute>Beste Mutter!</salute>
+                </opener>
+				        <p>Unser Schicksal naht sich seiner Beendigung, leider nicht besser, als es angefangen hat. Seit
+                    den letzten 8 Tagen unserer Operationen waren wir vom kleinen Überrest der
+                    preußischen Truppen unter General <persName key="ed_zwp_jq4_vcb">L'Estocq</persName> noch getrennt und bildeten unter dem Befehl des
+                    Generals <persName key="ed_cks_tq4_vcb">Rouquette</persName> mit noch einem
+                    Füsilierbataillon und einer halben reitenden Batterie und noch ungefähr 200
+                    Pferden von anderen Regimentern ein sogenanntes fliegendes Corps, bestimmt, das
+                    Land für Streifparteien des Feindes und voraus vor den leider sich stark
+                    anhäufenden <seg type="comment">
+                  <orig>Polnischen Insurgenten </orig>
+                  <note xml:id="nt1c_35s_lcb">
+                     <persName key="ed_xzh_bgg_h1b">Napoleon</persName>
+                            nutzte die Hoffnung polnischer Patrioten auf Wiederaufrichtung des
+                            Königreichs Polen für seine Kriegszwecke und regte die
+                            preußisch-polnischen Soldaten zum Verlassen der Truppe an. Diese
+                            bildeten unter General von <persName key="ed_ovt_gr4_vcb">Dombrowski</persName> ein besonderes polnischen Corps, vgl.
+                            Schultze, Lebensbild, S. 473. Auch das Regiment Rouquette litt unter
+                            dieser Desertion. </note>
+               </seg>zu schützen und das approvisionnement
+                    mehrerer Magazine und der Festung <placeName key="ed_pgb_tjr_gz">Graudenz</placeName> durch die Marienwerdersche Kammer zu protegieren. Das
+                    haben wir bis jetzt treulich getan und uns mit kleinen feindlichen Abteilungen
+                    häufig herumgezankt, bis das, was ich längst kommen sah, erfolgt ist. General
+                        <persName key="ed_zwp_jq4_vcb">L'Estocq</persName> ist bei <placeName key="ed_jfp_rr4_vcb">Soldau</placeName> und <placeName key="ed_lrr_3m4_vcb">Ortelsburg</placeName>, nach zwar erst errungenen Vorteilen, durch die
+                    Übermacht des Feindes zum Weichen gebracht, unsere nur durch Patrouillen
+                    soutenierte Kommunikation mit ihm zerrissen, und da wir nun völlig von ihm
+                    abgeschnitten, so dass uns nur der mögliche, sehr ungewisse Weg noch übrig
+                    bleibt, uns auf <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu werfen,
+                    ehe der Feind es erreicht. Seit gestern sind wir auf dem Wege dahin im
+                    schnellsten Marsch. Wir futtern hier in diesem Dorfe nur ein paar Stunden, da
+                    die rasend finstere Nacht es fast unmöglich macht, fortschreiten zu können, und
+                    ich benutze die Gelegenheit einer Estafette, die General <persName key="ed_cks_tq4_vcb">Rouquette</persName> an den <persName key="ed_tl1_nbf_4y">König</persName> schickt, um ihn von diesen leidigen
+                    Ereignissen zu unterrichten, um auch Ihnen, beste Mutter, davon Nachricht zu
+                    geben. Nach eben eingehenden Nachrichten sollen die Franzosen heute in
+                        <placeName key="ed_jbj_yr4_vcb">Guttstadt</placeName> eingerückt und auf dem
+                    Weg nach <placeName key="ed_hdy_n3y_bcb">Heilsberg</placeName> sein. In diesem
+                    Falle würde es wohl schwerlich uns noch möglich werden, vor diesen leichtfüßigen
+                    Leuten die gute Vaterstadt zu erreichen, da unser Weg der längste ist. Auf
+                    diesen Fall hat mir <persName key="ed_cks_tq4_vcb">Rouquette</persName>
+                    versprochen und versichert, dass wir uns durchschlagen wollen oder doch das
+                    Mögliche daran zu wagen. Also, liebe beste Mutter, wahrscheinlich sehen wir uns
+                    bald, wenn Gott nicht alle meine Hoffnungen vernichtet. Es wird zwar ein
+                    trauriges Wiedersehen sein - doch Wiedersehn, und der Gedanke ist mir
+                    wohltuend.</p>
+                <p>Verlassen Sie um Himmels willen nicht <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> bei der Annäherung des Feindes. Nirgends würden Sie
+                    sicherer sein. Ich glaube, dass ich Sie schon in einem früheren Brief darum
+                    gebeten habe. <persName key="ed_xnq_1fm_2y">Pauline</persName> aber würde gut
+                    daran tun, mit ihren Kindern oben hinauf zu ziehen, damit sie ihre
+                    Einquartierung, wofür wohl keine Hilfe sein dürfte, unten platzieren könnte.
+                    Auch ist sie oben für den ersten Anlauf gesichert. Ich bin besorgt und
+                    neugierig, welche Partie der <persName key="ed_tl1_nbf_4y">König</persName>
+                    ergreifen wird, und welche er ergreifen kann. Ich glaube nicht, dass das Corps,
+                    welches auf <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> geht,
+                    beträchtlich ist, aber ich weiß auch nicht, ob die bei Königsberg versammelten
+                    alten und neu organisierten Truppen schon stark und geübt genug sind, um einigen
+                    Widerstand leisten zu können. Wäre es möglich ihn abzuhalten, so wäre es
+                    freilich gut, aber weit trauriger auch würde das Schicksal von Königsberg sein,
+                    wenn dort noch eine Affaire nachteilig für uns ausfiele. - Von dem so sehr
+                    ausgerufenen Siege der Russen sind Sie doch wohl nicht <seg type="comment">
+                  <orig>die dupe</orig>
+                  <note xml:id="nh4x_pz3_y2b">die
+                        Genarrte</note>
+               </seg> gewesen. Ein Beweis, wie glänzend er war, ist ihre,
+                    bald möchte ich sagen, Flucht. Denn beinahe verdient ihre Art zu retirieren
+                    diesen Namen. Sie sind durch ihr <seg type="comment">
+                  <orig>pusillanimes</orig>
+                  <note xml:id="nmcs_5z3_y2b">verzagtes</note>
+               </seg> Verlassen der Weichsel an allem Unglück schuld,
+                    welches uns seitdem getroffen. - General <persName key="ed_zwp_jq4_vcb">L'Estocq</persName> hat gestern, Freitag, sein Hauptquartier in <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> genommen. Wie uns in diesem
+                    Augenblick ein von ihm abgesandter Bote, der sich durchgeschlichen,
+                    benachrichtigt. Von dort war seine Absicht, nach <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, und so nach <placeName key="ed_rdg_jkc_gy">Insterburg</placeName>, und so endlich vielleicht nach <placeName key="ed_qvp_nnz_2y">Petersburg</placeName> zu gehen. Doch lässt er sich aus
+                    jedem Quartier erst durch den Feind mit gewaffneter Hand vertreiben. So
+                    ehrenvoll diese Retraite für ihn ist, so verheerend ist sie für die Gegend, die
+                    er durchzieht, also wird heute wohl unser armes <placeName key="ed_pxt_cnh_1y">Steinort</placeName> der Schauplatz der Verheerung sein!</p>
+                <p>Wenn Sie etwa noch vor der Ankunft des Feindes unseres Regimentsquartiermeisters
+                    habhaft werden können, so lassen Sie sich doch von ihm alles Geld geben, was er
+                    noch von mir hat. Es sind 100 Louisdor, 100 Dukaten und auch noch einige Hundert
+                    Taler Silbergeld, und verwahren Sie es gut, liebe Mutter. Wer weiß, wie es mit
+                    unserem Stabswagen wird. Bin ich so glücklich, Sie zu sprechen, so werde ich
+                    Ihnen mündlich sagen, welch eine Bewandtnis es mit diesem Gelde hat. Versagt mir
+                    Gott dieses Glück. So hat <seg type="comment">
+                  <orig>
+                     <persName key="ed_yt3_jz4_vcb">Keudell</persName>
+                  </orig>
+                  <note xml:id="nk4n_2zs_lcb">Kapitän Leopold von Keudell im Regiment
+                            Rouquette</note>
+               </seg> Rechte an diesem Geld, und er wird Ihnen alles
+                    sagen, wie überhaupt er von meinen Affairen und Wünschen unterrichtet ist, wenn
+                    ich sie Ihnen nicht noch selber übertragen kann. Gott segne Sie, teuerste
+                    Mutter, bald vielleicht habe ich den Trost, Ihre teuren Hände und die meines
+                    guten Vaters zu küssen, und meine innig geliebte Schwester an mein Herz zu
+                    drücken. Gott wolle bald das Elend enden, dass das Vaterland bedrückt und mein
+                    Herz beklemmt.</p>
+				        <closer>
+					          <salute>In Leid und Freud Ihr Sie treu liebender Sohn</salute>
+					          <signed>C. Lehndorff</signed>
+				        </closer>
+            </div>
+            <postscript>
+                <p>Durch die Generalin <persName key="ed_nhj_dl5_sy">Rouqette</persName>, liebe
+                    Mutter, werden Sie erfahren können, wo der Regimentsquartiermeister <persName key="ed_gb2_qz4_vcb">Broscovius</persName> ist und ob Sie ihn habhaft werden
+                    können. Wo nicht, so ist auch so sehr viel nicht daran gelegen, denn er ist ein
+                    Hasenherz, dieser Mann, und wird sich schon bei Zeiten aus dem Staube machen.
+                    Kommen Sie aber mit ihm zusammen, so lassen Sie sich auch von ihm ein gewisses
+                    kleines versiegeltes Kästchen - es ist eine Schublade aus einer Schatulle -
+                    geben, worin ich allerhand kleine Pretiosen habe, als z. B. das gewisse
+                    bernsteinene Kreuz, eine Uhr ... <placeName key="ed_pxt_cnh_1y">Steinort</placeName> kommt mir nicht aus den Gedanken. Auch diese Freude,
+                    an der mein Herz in der letzten Zeit sich so sehr gekettet hatte, ist mir gewiss
+                    vernichtet!</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

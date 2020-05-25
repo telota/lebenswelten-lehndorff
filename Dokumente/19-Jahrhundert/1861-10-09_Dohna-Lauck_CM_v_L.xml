@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mbc_mng_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Burggraf und Graf zu Dohna an Carl Meinhard Graf von
+                    Lehndorff. Königsberg, 9. Oktober 1861</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mbc_mng_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 430/2, n. f.</idno>
+                    </msIdentifier>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mk1_kdr_gz">Dohna-Lauck, Carl Friedrich Burggraf und Graf zu
+                        (1799-1873)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1861-10-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Dohna war von 1850 bis 1861 Marschall des Provinziallandtages der Provinz
+                    Preußen. - Die Einladung Lehndorffs zu den Krönungsfeierlichkeiten ebd., Nr.
+                    555, n. f. (Innenminister Graf von Schwerin an Lehndorff, 19. September 1861;
+                    Druck). </note>
+            </correspDesc>
+            <abstract>
+                <p>Im Namen des Festkomitees ersucht er Lehndorff, bei dem für den <persName key="ed_lwx_y32_cy">König</persName> am 16. des Monats zu veranstaltenden
+                        <seg type="comment">
+                  <orig>provinziellen Fest</orig>
+                  <note xml:id="nzrz_tyj_d2b">Am Abend des 16. Oktober gaben die Stände der
+                            Provinz Preußen in einem eigens dafür errichteten Gebäude auf dem
+                            Mitteltragheim ein Fest für 4.000 Personen. Am 18. Oktober 1861 fand in
+                            Königsberg die Krönung in der Schlosskirche statt. Siehe hierzu: <ref target="https://edoc.bbaw.de/frontdoor/index/index/searchtype/authorsearch/author/%22Huch%2C+Gaby%22/docId/2988/start/6/rows/10">Huch, Gaby, Zwischen Ehrenpforte und Inkognito: preußische Könige
+                                auf Reisen. Quellen zur Repräsentation der Monarchie zwischen 1797
+                                und 1871 Berlin 2016</ref> . </note>
+               </seg> das Amt eines
+                        <quote>Festmarschalls</quote> zu übernehmen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

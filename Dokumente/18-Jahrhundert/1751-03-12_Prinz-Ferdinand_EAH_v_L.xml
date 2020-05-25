@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_g4x_q1y_bz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von Lehndorff. 12. März 1751</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_g4x_q1y_bz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>Kategorie: Beziehungen zum preußischen Hof</note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750-1804), in: Masovia 11 (1906), S. 118-154, hier S.
+                            124</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <date when="1751-03-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom 3<ref target="lehndorff_kx2_1s3_tcb">. August 1750</ref>. Abschriften von
+                    Voltaires Werken im Nachlass Lehndorffs in: LASA, StA L, Bestand 21950 FA
+                    Lehndorff, Nr. 432 und 448.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>12. März 1751</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/> Was Sie mir von <persName key="ed_wcr_pdy_bz">Voltaire</persName> sagen, setzt mich in Erstaunen. Wie kann dieser Mann,
+                    der vor einem Monat nur an Rückkehr nach <placeName key="ed_uyx_nvn_my">Paris</placeName> dachte, jetzt Bürger von <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> werden? Ich begreife nicht, wie er es fertig gebracht
+                    hat, sich zu rehabilitieren und mit welcher Stirn er sich zu zeigen wagt,
+                    nachdem man ihm gleichsam ad oculos demonstriert hat, <seg type="comment">
+                  <orig>dass er ganze Worte in einem Wechselbrief gefälscht
+                            hat.</orig>
+                  <note xml:id="nicd_ncy_bz">Voltaire hatte mit dem Juden
+                                <persName key="ed_zhy_gy4_dz">Hirschel</persName> wegen eines
+                            Wuchergeschäfts mit sächsischen Steuerkassenscheinen prozessiert, vgl.
+                            GStA PK, BPH, Rep. 57 I J 4, Bd. 3, Bl. 198-201: In Sachen des Kgl.
+                            Kammerherrn v. Voltaire (Kläger) vs. Abraham Hirschel (Beklagter);
+                            Mangold Wilhelm, Voltaires Rechtsstreit mit dem Königlichen Schutzjuden
+                            Hirschel 1751: Prozessakten des Königlich Preussischen Hausarchivs,
+                            1905(Reprint 2018).</note>
+               </seg> Wenn das in <placeName key="ed_ust_ky4_dz">Frankreich</placeName> geschehen wäre, hätte man ihn in
+                        <seg type="comment">
+                  <orig>Vicetre</orig>
+                  <note xml:id="nwyy_ddy_bz">Südlich
+                            von Paris. Hospiz de Bicêtre, seit 1656 Asyl für Greise und
+                        Irre</note>
+               </seg> für den Rest seines Lebens eingesperrt. Wie sind Leute von
+                    glänzender Begabung glücklich, dass sie selbst dann anderen imponieren können,
+                    wenn das Unrecht auf ihrer Seite ist! <gap reason="insignificant"/>
+                </p>
+            <p>Ich bin tief in meine Lektüre versenkt; ich lese <seg type="comment">
+                  <orig>Cicero</orig>
+                  <note xml:id="ntql_tp3_t2b">
+                     <ref target="https://de.wikipedia.org/wiki/Marcus_Tullius_Cicero">Marcus
+                                Tullius Cicero</ref>, römischer Politiker, Anwalt, Schriftsteller
+                            und Philosoph</note>
+               </seg>, der mich überzeugt, dass der Tod nicht zu
+                    fürchten ist, dass man versuchen soll, so sehr wie möglich seine Leidenschaften
+                    zu besiegen. Was den Tod betrifft, so erwarte ich ihn mit Gleichgültigkeit, was
+                    die Leidenschaften betrifft, so will ich versuchen, ihrer Herr zu werden. <gap reason="insignificant"/> Vielleicht finden Sie, dass ich lächerlich bin.
+                    Aber was tut es? Die Menschen können nicht alle die gleichen Gedanken haben.
+                        <gap reason="insignificant"/> So will ich meinen Cicero wieder zur Hand
+                    nehmen, der mich überzeugt, dass die Tugend genügt, um glücklich zu leben. <gap reason="insignificant"/>
+                    <seg type="comment">
+                  <orig>Da man gut tut, sich von allem eine Vorstellung zu
+                            verschaffen, tut man nicht übel, sich mit Philosophie zu beschäftigen,
+                            da sie uns lehrt, vernünftige Überlegungen über alles anzustellen, was
+                            vorkommen kann.</orig>
+                  <note xml:id="nfnv_n15_vz">Vgl. die von Lehndorff
+                            gefertigten Abschriften philosophischer Texte in: LASA, StA L, Bestand
+                            21950 FA Lehndorff, Nr. 428.</note>
+               </seg>
+                    <gap reason="insignificant"/>
+            </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

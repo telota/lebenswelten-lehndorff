@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_nyh_drx_43b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kassenjournal. 1. Juni 1807 (Auszug)</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_nyh_drx_43b</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                    
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 670, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1807-06-01" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+                    <table rows="13" cols="4">
+                        <head>Nachweisung der Hauptausgaben vom 1. Juni 1807 ab, nach einem
+                            generellen Auszug aus dem Kassenjournal</head>
+                        <row>
+                            <cell/>
+                            <cell>Rtlr.</cell>
+                            <cell>Gr.</cell>
+                            <cell>D.</cell>
+                        </row>
+                        <row>
+                            <cell>Für angekaufte Pferde</cell>
+                            <cell>1.900</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Dem Pächter Klein zu Ankaufung 10 Stück Pferde, auf die 5 wüste
+                                Erbe a 30 Rtlr p Stück</cell>
+                            <cell>300</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Zwangs-Dar...?</cell>
+                            <cell>2.376</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>jährliche Pension <gap reason="illegible" unit="words" quantity="1"/> Major <persName key="ed_k4z_jgl_2y">Grafen v.
+                                    Lehndorff</persName>
+                     </cell>
+                            <cell>600</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>4-monatliche Kontribution</cell>
+                            <cell>126</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Für 2. Quartal das Lohn an sämtliche hier in Lohn stehende
+                                Leute</cell>
+                            <cell>622</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Für gekauftes Getreide, für die Bauern im Frühjahr, teils zu Brot,
+                                teils zur Saat</cell>
+                            <cell>361</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Für Teer, Eisen, Stränge, Nägel, verschiedenes Schneiderzeug und
+                                an Handwerkern</cell>
+                            <cell>360</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Für die Schlägerei der Stawisker an die Franzosen</cell>
+                            <cell>109</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Für Wein, Bier, Apothekenwaren und andere Bedürfnisse, an
+                                sämtliches französisches Militär</cell>
+                            <cell>294</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Für gekauften Branntwein</cell>
+                            <cell>85</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Für Wein und Apothekenwaren in dem Hof bei der <gap reason="illegible" unit="words" quantity="1"/> Königsbergschen
+                                Wiese</cell>
+                            <cell>42</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Summa</cell>
+                            <cell>7.175</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

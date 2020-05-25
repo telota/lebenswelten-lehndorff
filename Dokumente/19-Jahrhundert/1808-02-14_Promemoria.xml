@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_rrl_r4s_33b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Promemoria. Königsberg, nach dem 14. Februar 1808</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_rrl_r4s_33b</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                    
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 377, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1808-02-14" to="1808-03-28" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>„Bemerkungen über die persönlichen Verhältnisse der Gutsherrn und ihrer
+                    Hintersassen in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> und
+                        <placeName key="ed_z15_pdp_tcb">Litauen</placeName>, über die Rechte der
+                    letzteren an ihren benutzten Grundstücken und über die Austuung der Bauernhuben
+                    zum Eigentum oder in Erbpacht nach Maßgabe der <seg type="comment">
+                  <orig>Verordnung vom 14. Februar 1808 § 6 Litt. B</orig>
+                  <note xml:id="ntf1_vzr_flb">Zum Gesetz <ref target="https://books.google.de/books?id=B0pdAAAAcAAJ&amp;pg=PA359&amp;lpg=PA359&amp;dq=Verordnung+14.+Februar+1808+%C2%A7+6+Lit.+B&amp;source=bl&amp;ots=4JpEr9TOJ8&amp;sig=ACfU3U0yF9Kmnlw3ZmKgCfEemIsYcSHY4A&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwiY1rD10snoAhVMC-wKHQNvAOwQ6AEwAXoECAoQKw#v=onepage&amp;q=Verordnung%2014.%20Februar%201808%20%C2%A7%206%20Lit.%20B&amp;f=false">hier</ref>
+                  </note>
+               </seg>“</p>
+            </div>
+        </body>
+    </text>
+</TEI>

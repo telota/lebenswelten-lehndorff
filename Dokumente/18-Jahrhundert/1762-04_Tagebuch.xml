@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_h2q_1zr_rdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Magdeburg,
+                    April 1762</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_h2q_1zr_rdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="editorial">Am 30. Mai wird der Friedensschluss bekanntgegeben, vgl. ebd., S. 344.</note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 1, Gotha 1910, S. 338</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>
+                    <date from="1762-04-01" to="1762-04-30" cert="high"/>
+                
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                
+				     <p>Wir sind immer noch mitten in der Freude über die glückliche Wendung, die die Dinge für uns
+                genommen haben. Wenn ich daran denke, wie im November alles verloren schien, wie die
+                Russen vor den Toren <placeName key="ed_xrv_gwb_by">Berlins</placeName> und die
+                Österreicher vor <placeName key="ed_iw5_fxl_2y">Breslau</placeName> standen, während
+                jetzt unser Gesandter in <placeName key="ed_qvp_nnz_2y">Petersburg</placeName> das
+                Entzücken des <seg type="comment">
+               <orig>
+                  <persName key="ed_xw5_tw4_cz">Kaisers</persName>
+               </orig>
+               <note xml:id="nq5q_5r3_tdb">Peter III.
+                        Begründer der Linie Romanow-Holstein-Gottorp. Er schloss mit Preußen Frieden
+                        und wechselte auf dessen Seite im Siebenjährigen Krieg. Er wurde durch ein
+                        Komplott, das seine Frau <persName key="ed_ez1_1zl_cz">Katharina</persName>
+                        auf den Thron hob, entmachtet. Parteigänger der Zarin ermordeten ihn im Juli
+                        1762.</note>
+            </seg> bildet und man an diesem Hofe nur auf den König von
+                Preußen schwört, da muss ich ausrufen: Gott allein ist wirklich groß! <placeName key="ed_m1k_nh4_dz">Schweden</placeName> hat nun auch seine sämtlichen Pläne,
+                die es gegen uns hatte, aufgegeben, die Feindseligkeiten in Schwedisch-Pommern sind
+                eingestellt und die schwedischen Kriegsgefangenen freigelassen worden. Der Prinz von
+                    <persName key="ed_e4g_tyl_cz">Württemberg</persName>, der mit seinem Korps in
+                Mecklenburg stand, marschiert nach <placeName key="ed_tjn_3rc_py">Schlesien</placeName>. Wir erwarten mit jedem Tage die Bekanntmachung des
+                Friedens zwischen Russland, Schweden und uns. Der <seg type="comment">
+               <orig>Staatsminister <persName key="ed_mgz_ynb_tcb">Graf
+                            Finckenstein</persName>
+                    </orig>
+               <note xml:id="nfkb_1lf_zdb">Siehe dessen Charakteristik in Ziebura,
+                        Tagebuch, S. 184.</note>
+            </seg> und der englische Gesandte Herr <persName key="ed_lpx_q4h_tdb">Mitchell</persName> sind nach <placeName key="ed_iw5_fxl_2y">Breslau</placeName> abgereist, und die Nachrichten aus
+                    <placeName key="ed_qvp_nnz_2y">Petersburg</placeName> lauten so günstig, dass
+                man glauben darf, Österreich werde von jetzt ab unser einziger Feind sein. <seg type="comment">
+               <orig>Wenn der <persName key="ed_xw5_tw4_cz">Kaiser von
+                            Russland</persName> die Regierung seines Landes in der Weise
+                        weiterführt, wie er sie begonnen hat, wird er sicherlich nicht bloß der
+                        Vater seiner Untertanen, sondern auch die Bewunderung Europas
+                        werden.</orig>
+               <note xml:id="nmtt_jss_52b">
+                  <ref target="https://geschimagazin.wordpress.com/2014/03/01/peter-iii-von-russland-infantiler-idiot-oder-weitsichtiger-reformer/">Peter III. ist bis heute umstritten</ref>, nicht zuletzt, da das Urteil
+                        wesentlich von den negativen Darstellungen seiner Ehefrau <persName key="ed_ez1_1zl_cz">Katharina II</persName>. geprägt wurde.
+                    </note>
+            </seg> Jeder Tag kündigt neue Wohltaten an. Er gibt seinem Adel die
+                Freiheit, schafft die politische Inquisition ab und ruft die Verbannten zurück, so
+                den alten Marschall Münnich, Biron und Lestoq. Seine ganze Familie und alles, was
+                Holstein heißt, überhäuft er mit Wohltaten und setzt allen diesen schönen Taten
+                damit die Krone auf, dass er Europa einen allgemeinen Frieden zu geben
+                beabsichtigt.</p>
+                <p>Es herrscht jetzt eine Teuerung wie noch nie; der Scheffel Roggen kostet jetzt 20
+                Taler, und in Berlin war zwei Tage lang kein Brot mehr vorhanden. Das schlechte Geld
+                bricht uns den Hals, und wenn das so weiter geht, werden wir schließlich so weit
+                kommen, wie die Franzosen zu den Zeiten der <seg type="comment">
+               <orig>Mississippi-Aktien</orig>
+               <note xml:id="no2j_5ss_52b">Die <ref target="https://de.wikipedia.org/wiki/Mississippi-Spekulation">Mississippi-Spekulation</ref> war eine Spekulationsblase um die
+                        französische Mississippi-Kompanie im 18. Jahrhundert</note>
+            </seg>. </p>
+                <p>
+            <gap reason="insignificant"/>
+                <note type="editorial">In <placeName key="ed_sxm_51z_bz">Stettin</placeName> stirbt
+                    sein Schwager <persName key="ed_ek1_pw5_vcb">Podewils</persName>.</note> Dieser
+                Mann hatte anfangs eine sehr glänzende Laufbahn, seine letzten Lebensjahre aber
+                waren voll Bitterkeit und Kummer, <note type="editorial">indem er bald nach dem
+                    Regierungsantritt des Königs in Ungnade fiel und nun Lehndorffs Schwester
+                        <quote>in zerrütteten Verhältnissen mit zwei noch unerzogenen
+                        Kindern</quote> hinterlässt</note>.</p>
+				
+            
+        </body>
+    </text>
+</TEI>

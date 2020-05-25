@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_qdc_lf4_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl von Wilmowski an Friedrich Mahsmann. Bad Gastein, 29. August
+                    1871</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_qdc_lf4_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Repräsentation/Geselligkeit</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 320, Bl. 16-16v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_o5l_qw5_22b">Wilmowski, Karl von (-)</persName>
+                    <placeName key="ed_avy_p42_cy">Bad Gastein</placeName>
+                    <date when="1871-08-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_l32_tf4_my">Mashmann, (-)</persName>
+                </correspAction>
+                <note>Siehe in der Akte auch den von Adelheid von <persName key="ed_okx_gg4_my">Mühler</persName> am  28. Mai 1870 gezeichneten Überschlag für den Bau der
+                    Kapelle. Auf der Habenseite standen Zuwendungen aus <placeName key="ed_xrv_gwb_by">Berlin</placeName> und <placeName key="ed_avy_p42_cy">Gastein</placeName> in Höhe von 12.769 Talern (v. Mühler, Laura <persName key="ed_ygc_jg4_my">Heye</persName>, <orgName key="ed_fz1_2w5_22b">Gustav-Adolf-Verein</orgName>, Zinseinnahmen aus dem Stiftungskapital, ein
+                    Geschenk des <persName key="ed_lwx_y32_cy">Königs</persName>), die geplanten
+                    Ausgaben (Baumeister, Bauausführung) beliefen sich auf 9.865 Taler. - Die Idee,
+                    in Gastein ein evangelische Gotteshaus zu schaffen, hatten einige ständige
+                    Kurgäste bereits 1867. Gräfin Lehndorff, Gattin des Generaladjutanten des
+                    Kaisers, ermöglichte die Umsetzung, indem sie den ursprünglich zur Villa
+                    Solitude gehörenden Baugrund unentgeltlich zur Verfügung stellte. Staatsminister
+                    a. D. Mühler übernahm die Organisation eines Fonds. Laura Heye, Kaufmannstochter
+                    aus Bremen, spendete 5.000 Taler und warb weitere Spenden von Privatpersonen und
+                    Institutionen ein. <persName key="ed_nwb_ddc_jlb">Gustav Pröll</persName>,
+                    Badearzt von Gastein, beteiligte sich als einziger Österreicher an der Stiftung;
+                    mit seiner Frau, eine Niederländerin, hatte er die erste  evangelische Familie
+                    in Gastein begründet. In Zusammenarbeit mit den Mühlers ebnete Heye den Weg zum
+                    Kaiser, der das Patronat übernahm und der Kirche den Namen Christophoruskapelle
+                    gab. Im April 1868 begann die erforderliche Sprengung der Felsen, am 19. Juli
+                    fand die Grundsteinlegung durch Pastor Hävelke aus Danzig statt. Der Bau wurde
+                    von den Baumeister Ceconi in Salzburg und Pescol in Schladming nach einem vom
+                    Geheimen Oberbaurat Salzenberg in Berlin entworfenen Plan im neugotischen Stil
+                    ausgeführt. Die Grundform der Kirche ist die eines griechischen Kreuzes. Der
+                    Altar aus erzgebirgischem Serpentin stammt aus der Fabrik von Warmer in Berlin.
+                    Die gemalten Fenster wurden im <orgName key="ed_c4p_mdc_jlb">Königlichen
+                        Institut für Glasmalerei</orgName> in Berlin hergestellt. Die Orgel mit zwei
+                    Manualen und 16 Registern baute die Firma Mauracher in Salzburg. Schlosser
+                    Christ in Böckstein lieferte die Opferstöcke. Aufgrund des Krieges wurde an der
+                    Kapelle sehr lange gebaut. Die feierliche Einweihung der <ref target="https://gastein-im-bild.info/fotogal/gyzbck1d.html">Christophoruskapelle</ref> vollzog der Berliner Garnisonpfarrer Emil
+                    Frommel am 6. Juli 1872. Vgl. <ref target="https://gastein-im-bild.info/gekirchg.html">https://gastein-im-bild.info/gekirchg.html</ref> .</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/321/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Bad Gastein, 29. August 1871</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>Frau Adelheid von <persName key="ed_okx_gg4_my">Mühler</persName>, geborene
+                    Goßler, aus <placeName key="ed_xrv_gwb_by">Berlin</placeName> und Fräulein Laura
+                        <persName key="ed_ygc_jg4_my">Heye</persName> aus <placeName key="ed_e12_kg4_my">Bremen</placeName> haben Seiner <persName key="ed_lwx_y32_cy">Majestät</persName> dem Deutschen Kaiser und König von
+                    Preußen mittels <seg type="comment">
+                  <orig>Donations-Urkunde vom 23. d.
+                            Mts.</orig>
+                  <note xml:id="nf1b_rtl_3fb">Die Besitzrechte an der Kapelle
+                            wurden zugusten Kaiser Wilhelms I. am Bezirksgericht in Hofgastein
+                            eingetragen.</note>
+               </seg> das von ihnen zu einer evangelischen <orgName key="ed_nty_1h4_my">Kapelle</orgName> bestimmte Gebäude als volles freies
+                    Eigentum übertragen, welches sie auf dem ihnen von der Frau Gräfin Anna von
+                        <persName key="ed_wms_mh2_cy">Lehndorff</persName>, geborene Gräfin Hahn,
+                    geschenkten Grundstücke hierselbst errichtet haben, und damit zugleich den
+                    Wunsch verbunden, dass die Bewahrung der Schlüssel, die Beaufsichtigung der
+                    Kapelle und ihres Inventars der <persName key="ed_s3g_5g4_my">Hausbeamtin</persName> der Frau Gräfin Lehndorff anvertraut, der letzteren
+                    auch gewährt werde, die Parkanlagen und die Kapelle einzurichten und zu
+                    unterhalten. Seine Majestät, mein Allergnädigster Herr, würde gern geneigt sein,
+                    jener Bitte in der Voraussetzung zu entsprechen, dass die Frau Gräfin Lehndorff
+                    ihr Einverständnis mit derselben erklären sollte, und haben mich beauftragt,
+                    Euer Wohlgeboren als Bevollmächtigten der genannten Frau Gräfin hiervon zur
+                    weiteren Veranlassung in Kenntnis zu setzen. Demgemäß erlaube ich mir, Euer
+                    Wohlgeboren ganz ergebenst um diesfällige Mitteilung zu ersuchen, indem ich
+                    zugleich die Erwartung mir gestatte, dass seine Majestät auf die Dauer
+                    Allerhöchster Anwesenheit am hiesigen Orte selbst den Schlüssel zur Kapelle
+                    bewahren wollen.</p>
+				        <closer>
+                    <salute>Der Geheime Kabinettsrat Seiner Majestät des deutschen Kaisers und
+                        Königs von Preußen <lb/>v. Wilmowski</salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

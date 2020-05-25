@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dvj_jsl_l1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gräfin von Bernstorff an Anna Gräfin von Lehndorff. Sanssouci, 21. September 1892</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dvj_jsl_l1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, FA v. Lehndorff (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_akl_15l_gbb">Bernstorff, Gräfin von (-)</persName>
+                    <placeName key="ed_hgx_f1v_sy">Sanssouci</placeName>
+                    <date when="1892-09-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Zum Nachlass im Guts- und Familienarchiv Lehndorff gehörten auch zwei Bilder
+                    der Kaiserin, in: GStA PK, XX. HA, Rep. 54, Nr. 882.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Marmorpalais, 21.9.</dateline>
+					          <salute>Sehr geehrte Gräfin</salute>
+                </opener>
+				        <p>
+               <persName key="ed_kvc_gzw_jlb">I. Majestät die Kaiserin</persName> hat Ihre Glück- und
+                    Segenswünsche sehr erfreut entgegengenommen, beauftragte mich, Ihnen herzlich
+                    dafür zu danken. Wenn eine Woche darüber vergangen ist, so müssen Sie mir ob
+                    verzögerter Antwort nicht zürnen; ich konnte erst jetzt der Kaiserin die
+                    Glückwünsche vorlegen und sagen, denn die Teilnahme ist so rührend, so
+                    überwältigend groß, dass es gar nicht angeht in der ersten Zeit so viel zu
+                    bringen. Die Majestäten sind aber bewegt und dankbar an der übergroßen <seg type="comment">
+                  <orig>freudigen Teilnahme,</orig>
+                  <note xml:id="ny3r_txv_h2b">an der am 13. September im Marmorpalais in Potsdam geborenen Prinzessin
+                            Victoria Luise. Sie war das siebente Kind des Kaiserpaares und die
+                            einzige Tochter.</note>
+               </seg> die sich in allen Teilen des Reichs bei
+                    Hoch und Gering so schön bekundet. Es ist ein köstliches Erbteil im Herze des
+                    Volkes! - Der Kaiserin geht es andauernd gut, und der kleinen Prinzessin, die
+                    ein allerliebstes Kind ist, ebenso. Gott nehme sie ferner in seinen Schutz. Die
+                    Prinzen sind, wie sie verehrte Gräfin schrieben, wirklich überglücklich - und
+                    die 3 Großen sehnen sich ungemein hierher zurück, um das Prinzesschen zu sehen. </p>
+				        <closer>
+					          <salute>Mit herzlicher Ergebenheit, liebe Gräfin, bin ich Ihre</salute>
+					          <signed>Gf. v. Bernstorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

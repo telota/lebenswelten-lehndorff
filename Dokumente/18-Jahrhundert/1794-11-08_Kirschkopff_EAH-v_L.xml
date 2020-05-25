@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xqy_dzg_v2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hoffiskal Kirschkopff an Ernst Ahasverus Heinrich Graf von Lehndorff.
+                    Königsberg, 8. November 1794</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xqy_dzg_v2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 303, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_m1z_pcv_1bb">Kirschkopff, (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1794-11-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 8. November 1794</dateline>
+					          <salute>Hochwürdiger, Hochgeborener Reichsgraf, insonders Hochzuehrender Herr Kammerherr und
+                        des roten Adler- auch Johanniter-Ordens-Ritter</salute>
+                </opener>
+				        <p>Den <seg type="comment">
+                  <orig>Original Erbdivisions-Rezess</orig>
+                  <note xml:id="nd5h_jmy_3fb">Wohl den infolge des Todes von <persName key="ed_q4s_xyl_2y">Louisa
+                                Maria Reichsgräfin von Lehndorff</persName>, geb. von Wallenrodt,
+                            Lehndorffs Mutter, zwischen ihm, seinen Schwestern <persName key="ed_y4r_3y4_mbb">Podewils</persName> und <persName key="ed_d3h_sy4_mbb">Schlieben</persName> und deren Tochter,
+                            Lehndorffs Nichte, <persName key="ed_yv3_yh2_3kb">Louisa Ernesta
+                                Ferdinanda Sophia verehel. Gräfin von Schlieben</persName>, geb.
+                            Reichsgräfin von Ysenburg und Büdingen aufgestellte Erbteilungsplan vom
+                            1. Dezember 1777 in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 13, n. f. (braune Mappe innerhalb der Akte).
+                            Hierzu gehören verschiedene <ref target="lehndorff_f3t_b35_2cb">Inventare</ref>.</note>
+                    </seg> habe ich unter meinen Papieren gefunden und der Landschaft eingeliefert,
+                    remittiere also den mir letzthin kommunizierten Interims-Verteilungsplan.</p>
+                <p>Der Misswachs ist dieses Jahr allgemein und wir sind auf <placeName key="ed_pkw_hky_3fb">Samland</placeName> und <placeName key="ed_p2t_bpt_sdb">Oberland</placeName> in der nämlichen Lage wie auf <placeName key="ed_ycf_kky_3fb">Natangen</placeName>. Man kann zwar bei den hiesigen
+                        <placeName key="ed_ysw_qr1_dy">Königsberger</placeName> Kaufleuten Korn und
+                    Gerste bekommen, allein die Preise sind so hoch, dass jeder abgeschreckt wird.
+                    Wenn Ew. Hochgeboren indessen in der Notwendigkeit sind, schlechterdings kaufen
+                    zu müssen, so werden Sie sich am besten an den Kaufmann <persName key="ed_sdk_4ky_3fb">Lullis</persName> adressieren. </p>
+                <p>Jetzt steht aller Spekulations-Verstand stille und wenn noch die Lieferung dazu
+                    kommt, so können wir aufs Jahr unsere Felder unbesät lassen.</p>
+				        <closer>
+					          <salute>Ich verharre mit der vorzüglichsten Hochachtung <lb/>Ew. Hochwürden und Hochgeboren
+                        ganz gehorsamster treuer Diener</salute>
+					          <signed>Kirschkopff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

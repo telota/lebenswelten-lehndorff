@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_iy4_sgh_qcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich Graf von Lehndorff an Emmy von Below. Wildbad Gastein, 23. August
+                    1871</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_iy4_sgh_qcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VIII. HA, Rep. C Nr. 31, Bd. 14, Bl. 60-63</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nml_dw2_cy">Lehndorff-Preyl, Ahasverus Heinrich August Otto
+                        Magnus Ferdinand Graf von (Königsberg, 1.4.1829-Preyl bei Wargen,
+                        24.4.1905)</persName>
+                    <placeName key="ed_avy_p42_cy">Bad Gastein</placeName>
+                    <date when="1871-08-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ufp_cv5_22b">Below, Emmy von (-)</persName>
+                </correspAction>
+                <note>Zum Aufenthalt in Gastein ab 14. August 1871: <ref target="https://edoc.bbaw.de/frontdoor/index/index/searchtype/authorsearch/author/%22Huch%2C+Gaby%22/docId/2988/start/6/rows/10">Huch, Gaby, Zwischen Ehrenpforte und Inkognito: preußische Könige auf
+                        Reisen. Quellen zur Repräsentation der Monarchie zwischen 1797 und 1871
+                        Berlin 2016</ref>, Bd. 2, S. 1461 ff.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Wildbad Gastein, 23. August 71</dateline>
+					          <salute>Meine liebe Emmy</salute>
+                </opener>
+				        <p>Das Buch und der mir durch Dich übermittelte Allerhöchste Befehl zur Übergabe desselben haben
+                    mich erreicht und das Buch befindet sich in den Allerhöchsten Händen Sr. M. des
+                    Kaisers, der es mit Dank angenommen hat.</p>
+                <p>Ich war sehr erfreut, bei dieser Gelegenheit von Dir Nachricht zu haben; und wenn
+                    Du Dich auch nicht eben sehr detailliert über Dein Befinden aussprichst, so
+                    scheint es Dir doch gut zu gehen, nach dem Eindruck Deiner Zeilen.</p>
+                <p>Dass Ihr schon im Neuen Palais einzieht, überrascht mich, ich hatte Euch auf noch
+                    einige Zeit Aufenthalt in <placeName key="ed_jxm_5vf_4y">England</placeName>
+                    taxiert. Ihr unternehmt nun wohl noch später einige Extratouren, denn zum
+                    vollkommenen Einzug ist es doch noch zu früh..</p>
+                <p>Hier sieht es ganz gut aus, unserem <persName key="ed_lwx_y32_cy">Allergnädigsten
+                        Herrn</persName> geht es Gott sei Dank vollkommen gut und ich hoffe für den
+                    hiesigen Aufenthalt eine echte nachhaltige Kräftigung; auch erträgt er den
+                    hiesigen Zustand der Ruhe fast geduldig, den mancher anderer ziemlich langweilig
+                    finden würde, womit ich übrigens nicht mich meine, denn Gott sei Dank langweile
+                    ich mich nie, sondern befinde mich im Gegenteil hier so wohl und zufrieden.
+                    Jagen, Luft, Bäder alles ausgezeichnet, dabei ist die Gesellschaft in sich
+                    eigentlich hinreichend, da wir schon mit ziemlichem Tross reisen, dazu treten
+                    noch einige anwesende alte Österreicher, Plaue, <persName key="ed_fcj_xyt_ncb">Rohan</persName>, <persName key="ed_dqf_ybc_jlb">Sternberg</persName>,
+                        <persName key="ed_k3z_hbc_jlb">Morzin</persName> etc., wogegen wir ganz ohne
+                    Frauen versehen sind, in direktem Gegensatz zu allen Badeorten.</p>
+                <p>Wann wir heimfahren, wissen die Götter!</p>
+				        <closer>
+					          <salute>Bis dahin lebe wohl, erhalte immer Dein Wohlwollen Deinem treu ergebenen</salute>
+					          <signed>H. Lehndorff</signed>
+				        </closer>
+            </div>
+            <postscript>
+                <p>Wenn Du daran denkst, bitte grüße <seg type="comment">
+                  <orig>August</orig>
+                  <note xml:id="nrbs_lsl_3fb">
+                     <persName key="ed_b13_nsl_3fb">Anton August von
+                                Below</persName> preußischer Generalleutnant.</note>
+               </seg> recht
+                    herzlich von mir, für den ich, wie der Preuße sagt „ungeheuer viel übrig
+                    habe‟.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

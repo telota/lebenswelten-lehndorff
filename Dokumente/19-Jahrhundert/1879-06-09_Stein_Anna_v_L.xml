@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hbc_swd_py">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Georg von Stein an Anna Gräfin von Lehndorff. Grasnitz, 9. Juni 1879</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hbc_swd_py</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 623, Bl. 5-5v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_tx5_bjw_h2b">Stein, Georg von (-)</persName>
+                    <placeName key="ed_ulm_mxd_py">Grasenitz</placeName>
+                    <date when="1879-06-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/623/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Grasnitz, 9. Juni 1879</dateline>
+					          <salute>Euer Hochgeboren</salute>
+                </opener>
+                <p>habe ich mich auf die gütige Zuschrift vom 5. d. M., welche, weil über <gap reason="illegible"/> adressiert, erst heute hier eingegangen ist, ganz
+                    gehorsamst zu erwidern, dass <persName key="ed_plw_nlg_ccb">Frau von
+                        Romberg</persName> hier vor wenigen Tagen eine Sammlung für das <orgName key="ed_w32_txd_py">Magdalenenstift </orgName>veranstaltet hat, zu der nach
+                    Kräften beizutragen ich nicht verfehlt habe. <seg type="comment">
+                  <orig>Frau von
+                            Romberg habe ebenfalls die Absicht, den Ertrag der Sammlung Ihrer
+                                <persName key="ed_lwx_y32_cy">Majestät</persName> gelegentlich der
+                            goldenen Hochzeitsfeier zu überreichen.</orig>
+                  <note xml:id="npgp_gyd_py">Zu den Ergebnissen der Sammlung Bl. 8-9v: <quote>Sammlung zu dem
+                                Erweiterungsbau im Magdalenenstift zu Berlin zur Feier und
+                                Erinnerung des 11. Juni 1879</quote>. Insgesamt wurden 3.902 Mark
+                            Spendengelder zusammengebracht, die von zahlreichen Adligen und
+                            Kirchenvertretern, darunter auch Anna von Lehndorff, die sich selbst mit
+                            50 Mark beteiligte, in allen Provinzen eingesammelt worden
+                        waren.</note>
+               </seg>
+                </p>
+				        <closer>
+					          <salute>Mit der vorzüglichsten Hochachtung zeichnet sich Euer gehorsamster</salute>
+					          <signed>Stein</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

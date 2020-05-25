@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_i1s_pmq_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Jentzsch an Anna Gräfin von Lehndorff. Berlin, 14. Januar 1879</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_i1s_pmq_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 618, Bl. 16-17v</idno>
+                    </msIdentifier>
+                     
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_h4k_tpv_22b">Jentsch, (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date from="1879-01-14" to="1879-01-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Zur Vorgeschichte vgl. den Brief von <persName key="ed_n51_jrx_f2b">Konrad
+                        Graf von Finckenstein-Schönberg</persName> an Anna von Lehndorff,
+                    geschrieben nach dessen Rückkehr von der Provinzialsynode am 18. Juli 1878, in
+                    dem er die Reise des Pfarrers über <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, <placeName key="ed_c3f_wxz_g1b">Schlodien</placeName> und durch das <placeName key="ed_p2t_bpt_sdb">Oberland</placeName> ankündigt und dem er die Statuten des Vereins beilegt,
+                    in: APO, Bestand 382 FA Lehndorff, Nr. 492, Bl. 218-219v, sowie den Brief von
+                    Jentzsch vom16. Oktober 1879 in: APO, Bestand 382, Nr. 618, Bl. 12-12 v. Zur
+                    Monatsschrift <quote>Aus der Stadtmission</quote>, von der 100 Exemplare nach
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gingen, ebd., Nr. 622,
+                    Bl. 6-7v (Jentzsch an Lehndorff, 24. August 1878) und Bl. 10 ff. - Der
+                    Stadtmissionar für Königsberg wurde von der Berliner Stadtmission besoldet, übte
+                    seine Tätigkeit aber im Anschluss an den <orgName key="ed_nvv_5js_d2b">Ostpreußischen Provinzial-Verein für Innere Mission</orgName> aus, vgl. in
+                    der Akte, Bl. 18v. Hier auch Bl. 76 ff. der „Bericht des Ostpreußischen
+                    Provinzial-Hilfsvereins für die Berliner Stadtmission pro 1882‟. Demnach war die
+                    Finanzierung des Königsberger Stadtmissionars aus Berliner Mitteln kritisch, da
+                    der Verein ein starkes Defizite verzeichnete. <quote>Dieses Defizit in der
+                        Folgezeit zu beseitigen, sei aus doppeltem Grunde Pflicht des Vereins:
+                        Erstens habe <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> die
+                        schreienden kirchlichen und sittlichen Notstände der Residenz mitverschuldet
+                        durch die massenhafte Einwanderung ärmster Elemente aus unserer Provinz - es
+                        leben gegenwärtig 40-50.000 Ostpreußen in <placeName key="ed_xrv_gwb_by">Berlin</placeName>; Berlin selbst aber sei mit Beiträgen für allerlei
+                        wohltätige Zwecke schon überbürdet, da es mehr als 10 Millionen Mark
+                        jährlich dafür aufbringen muss. Sodann kämen die Einnahmen unseres Vereins
+                        nicht allein der Residenz zugute, sondern auch unserer Provinzial-Hauptstadt
+                        wegen des daselbst stationierten Stadtmissionars.</quote> - Der am 3.
+                    Dezember 1881 vom Ostpreußische Provinzial-Verein für innere Mission geäußerten
+                    Bitte, Anna von Lehndorff möge als Mitglied beitreten (Bl. 63) kam sie nach, zu
+                    deren Mitgliedschaft weiteres Material in der Akte, aber auch in den zahlreichen
+                    Korrespondenzakten. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://szukajwarchiwach.pl/42/382/0/6/618/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, Schiffbauerdamm 16, 14.1.79</dateline>
+					          <salute>Hochverehrte gnädige Frau Gräfin,</salute>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/>
+                </p>
+                <p>In Betreff des Wunsches, auch in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> einen Stadtmissionar anstellen zu können, vermag ich
+                    heute Ew. Hochgeboren Folgendes mitzuteilen: Nachdem Herr v. <persName key="ed_ybk_vmv_22b">Albedyll</persName> durch Herrn Hofprediger <persName key="ed_xkb_vvc_gy">Stoecker</persName> und mich dem Komitee die ganze
+                    Sachlage dargelegt hat, ist in der gestrigen Komitee-Sitzung beschlossen, den
+                    seit 4 Jahren in <placeName key="ed_xrv_gwb_by">Berlin</placeName> bewährten
+                        <seg type="comment">
+                  <orig>Stadtmissionar <persName key="ed_qlk_tqx_f2b">Rohrbach</persName> nach Königsberg</orig>
+                  <note xml:id="nyrg_d1w_hdb">Vgl. APO, Bestand 382 FA Lehndorff, Nr. 501, Bl.
+                            13-14 (von Albedyll an Anna von Lehndorff, Karnitten, 17. Januar 1882).
+                            Rohrbach blieb in Königsberg und wurde mit Zustimmung des
+                            Konsistorialrats und Oberpfarrers <persName key="ed_hq5_crx_f2b">Hase</persName> und des Vorsitzenden des Königsberger
+                            Stadtmission-Vereins dem Pfarrer <persName key="ed_wqw_yqx_f2b">Grzybowski</persName> unterstellt.</note>
+               </seg> auszusenden. <gap reason="insignificant"/> Wir dürfen hoffen, dass der liebe Gott zu diesem
+                    Beschluss sein Ja und seinen Segen und das Geld geben wird für den einen
+                    Stadtmissionar in Königsberg und für die zwei in Berlin. <gap reason="insignificant"/>
+                </p>
+				        <closer>
+					          <salute>Mit herzlichem Dank für alle Güte und mit einem freundlichen Gott befohlen bin ich Euer
+                        Hochgeboren ergebenster</salute>
+					          <signed>Jentzsch</signed>
+				        </closer>
+            </div>
+            <postscript>
+                <p>Soeben erhalte ich mit herzlichem Dank 700 Mark durch Herrn <persName key="ed_o2m_x3q_dz">Schirrmeister</persName>. Gott segne Sie, gnädigste Frau
+                    Gräfin, mit seinem besonderen Segen.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

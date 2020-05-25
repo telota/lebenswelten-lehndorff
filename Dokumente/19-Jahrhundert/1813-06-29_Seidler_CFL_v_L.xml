@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_gxm_pkq_bbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Theodor Seidler an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Königsberg, 29. Juni 1813</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_gxm_pkq_bbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            </notesStmt>
+            
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 20, n. f.</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief liegt sich in einer blauen Mappe. Die einzelnen, das
+                            Ostpreußische National-Kavallerie-Regiment betreffenden Dokumente sind
+                            bereits geordnet nach:</p>
+                        <p>I A 1 Formation des Regiments </p>
+                        <p>I A 2 Geldsammlungen für Ausrüstung des Regiments.</p>
+                        <p>I D Die Ersatzschwadron betreffend</p>
+                        <p>I F Personalia der Mannschaften</p>
+                        <p>Intus auch eine Liste der aus Steinort und den Vororten Eingezogenen (74)
+                            mit Vermerk, wer das Eiserne Kreuz erhalten (6) und wer im Feld
+                            geblieben (12) sei. Die überwiegende Zahl der Blätter ist stark
+                            angegriffen.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_l1l_d4q_bbb">Seider, Theodor (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1813-06-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Vgl. ein weiteres Bittgesuch wegen der Privilegien der freiwilligen Jäger,
+                    Braunsberg, 20. April 1813, gez. von zahlreichen Militär, ebd., ein drittes in:
+                    Schultze, Lebensbild, S. 413. - Seidler hatte seinen Sohn beim Regiment Anfang
+                    August in Lichtenberg besucht und bei <persName key="ed_gnc_c1m_2y">Lehndorffs</persName> Mutter in Königsberg 50 Louisdor hinterlassen, vgl.
+                    Schultze, Lebensbild, S. 461 (Lehndorff an Berent, Görlitz, 6. September 1813).
+                    Später besaß Seidler einen Reitstall in Königsberg, wo er durch die Korrektur
+                    verdorbener und bösartiger Pferde bekannt wurde. Von dort ging er als
+                    Zivilstallmeister an die Berliner Lehr-Eskadron. Er war Schüler der Spanischen
+                    Hofreitschule in Wien, vgl.  Die <ref target="http://www.fechtsaal.de/media/blogs/de/SeidlerAnleitungzumFechten1843.pdf">Einleitung zu: Anleitung zum Fechten mit dem Säbel und dem Kürassierdegen,
+                        zuvörderst dem Unterricht in Kavallerie=Abtheilungen angeeignet, nebst
+                        Bemerkungen für den ernstlichen Kampf zu Fuß und zu Pferde von Seidler,
+                        Stallmeister bei der Königlichen Lehr=Eskadron. Mit einer Kupfertafel, 2.
+                        verm. Aufl., Berlin, Posen, Bromberg 1843.</ref>
+                </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg in Pr., den 29. Juni 1813</dateline>
+					          <salute>Hochgeborener Graf! <lb/>Gnädigster Herr!</salute>
+                </opener>
+				        <p>Euer Hochgeboren werden gnädigst verzeihen, dass ich eine Bitte an Sie wage, weil deren
+                    Erfüllung für Ew. Gnaden sehr leicht ist, da ich ohnedem das Zutrauen zu Ew.
+                    Gnaden habe, indem dieselben so viel Liebe bei der Anwesenheit in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> bewiesen haben. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Ich habe durch mehrere erfahren, dass den Eliten bei dem Ostpreußischen
+                            National-Kavallerie-Regiment die Vorrechte der Jäger-Detachements nicht
+                            zugestanden worden sind, dass aber ein Jäger-Detachement aus demselben
+                            errichtet worden, welches die Vorrechte genießt.</orig>
+                  <note xml:id="nsqg_wnd_ycb">Vgl. die „Bekanntmachung über die Formation des
+                            Preußischen National-Kavallerie-Regiments‟, in: Schultze, Maximilian
+                            (Hrsg.), Christian Friedrich Carl Ludwig Reichsgraf Lehndorff-Steinort
+                            ... Ein Lebensbild auf Grund hinterlassener Papiere, Berlin 1903, S.
+                            352-357. Zu der im Brief geschilderten Problematik, die <quote>Quelle
+                                vielfache Unzufriedenheit</quote> war, vgl. ebd. S. 398 ff. und
+                            Lehndorffs Schreiben (an Thiele?) vom 29. April 1813 ebd., S. 378-382.
+                        </note>
+               </seg> Mein Sohn sowie mein Brudersohn haben zwar bei einer
+                    Gelegenheit unterschrieben, dass sie beim Regiment bleiben wollten, solches aber
+                    in der vermutlichen Voraussetzung, dass die Eliten, welche beim Regiment
+                    bleiben, die nämlichen Rechte als die Jäger erhalten. Da dieses aber jetzt nicht
+                    der Fall ist, und sie als ein immerwährendes Regiment betrachtet werden sollen
+                    und folglich als ein solches auch danach behandelt werden, aus dieser Ursache
+                    finde ich mich genötigt Ew. Hochgeboren zu bitten, meinem Sohn, dem Ernst
+                    Friedrich <persName key="ed_q1p_q1q_vcb">Seidler</persName>, und meinem
+                    Brudersohn, dem Gottfried Theodor <persName key="ed_fhb_51q_vcb">Seidler</persName>, bei dem Jäger-Detachement desselben Regiments oder,
+                    wenn dasselbe schon vollzählig sein sollte, zu den Jägern der Schwarzen Husaren
+                    Regiments übergehen zu lassen; lieber wäre es mir aber, wenn sie zu dem
+                    Jäger-Detachement des National-Kavallerie-Regiments bleiben könnten, da es
+                    ohnedem gleichviel ist, wo Sie <persName key="ed_tl1_nbf_4y">Sr. Majestät dem
+                        Könige</persName> dienen, nur dass sie die Vorrechte genießen, welche ihnen
+                    versprochen und welche Sr. Majestät der König den freiwilligen
+                    Jäger-Detachements zugestanden hat. </p>
+            <p>Da ich meinen Sohn und Brudersohn
+                    selbst equipiert und beritten gemacht und noch so mache Unterstützung dem
+                    Regiment geleistet habe, so glaube ich umso mehr, dass Ew. Hochgeboren mir
+                    diese Bitte nicht versagen werden. </p>
+            <p>Die Liebe und das Zutrauen, welches Ew. Hochgeboren bei uns Königsbergern zurückgelassen haben,
+                    lässt mich hoffen, keine Fehlbitte getan zu haben, wodurch Sie mich als Vater
+                    dieser beiden jungen Leute sehr beruhigen werden. </p>
+				        <closer>
+					          <salute>Nochmalen bitte ich um  Verzeihung meiner Dreistigkeit, und verbleibe mit der größesten
+                        Hochachtung und  Zutrauen Ew. Hochgeboren ganz ergebenster Diener</salute>
+					          <signed>Theodor Seidler <lb/>Branntweinfabrikant</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

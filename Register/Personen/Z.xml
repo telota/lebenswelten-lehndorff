@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_rj1_kq5_g2b">
+                    <persName type="reg">
+                        <surname>Zacha</surname>
+                        <forename>Konstantin Freiherr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rittmeister; Besitzer des bei Bromberg gelegenen Gutes Strelitz</note>
+                </person>
+                <person xml:id="ed_rsd_rlp_tdb">
+                    <persName type="reg">
+                        <surname>Zakrzewski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1767 polnischer Oberst</note>
+                </person>
+                <person xml:id="ed_wst_sdj_w2b">
+                    <persName type="reg">
+                        <surname>Zamoiski</surname>
+                        <forename/>
+                    </persName>
+                    <birth>1752</birth>
+                    <death>1830</death>
+                    <note>(1781)</note>
+                </person>
+                <person xml:id="ed_kvn_xbl_wcb">
+                    <idno type="uri">https://d-nb.info/gnd/116966629</idno>
+                    <persName type="reg">
+                        <surname>Zastrow</surname>
+                        <forename>Friedrich Wilhelm Christian von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_s45_4n4_dz">
+                    <idno type="uri">http://d-nb.info/gnd/118772325</idno>
+                    <persName type="reg">
+                        <surname>Zechlin</surname>
+                        <forename>Egmont</forename>
+                    </persName>
+                    <birth>1896</birth>
+                    <death>1992</death>
+                </person>
+                <person xml:id="ed_grf_pmd_2y">
+                    <idno type="uri">http://d-nb.info/gnd/118808362</idno>
+                    <persName type="reg">
+                        <surname>Zedlitz-Trützschler</surname>
+                        <forename>Robert Graf von</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1914</death>
+                </person>
+                <person xml:id="ed_rss_231_r2b">
+                    <persName type="reg">
+                        <surname>Zembritzky</surname>
+                        <forename>Gottfried</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1768 Kaufmann in Königsberg</note>
+                </person>
+                <person xml:id="ed_krg_xdc_t2b">
+                    <persName type="reg">
+                        <surname>Zerbach</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1727 Arzt in Steinort</note>
+                </person>
+                <person xml:id="ed_hhp_s3t_zdb">
+                    <persName type="reg">
+                        <surname>Zernick</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1931 Justizobersekretär beim Amtsgericht Potsdam</note>
+                </person>
+                <person xml:id="ed_szn_rnk_wcb">
+                    <persName type="reg">
+                        <surname>Zeuner</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1812 Rittmeister und Adjutant </note>
+                </person>
+                <person xml:id="ed_nfz_czz_g2b">
+                    <persName type="reg">
+                        <surname>Ziegler</surname>
+                        <forename>Otto Emil Richard</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1883-1889 Pfarrer in Rosengarten</note>
+                </person>
+                <person xml:id="ed_ds3_vtb_tcb">
+                    <persName type="reg">
+                        <surname>Zielenzki</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Student, Arys; 1785 Anwärter auf die Rektorstelle in Rosengarten</note>
+                </person>
+                <person xml:id="ed_xyh_mfr_gbb">
+                    <idno type="uri">https://d-nb.info/gnd/116989890</idno>
+                    <persName type="reg">
+                        <surname>Zieten</surname>
+                        <forename>Hans Graf von</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1848</death>
+                </person>
+                <person xml:id="ed_c1h_bh3_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/116990031</idno>
+                    <persName type="reg">
+                        <surname>Ziethen-Schwerin</surname>
+                        <forename>Albert Graf von</forename>
+                    </persName>
+                    <birth>1835</birth>
+                    <death>1922</death>
+                </person>
+                <person xml:id="ed_y3p_2mv_22b">
+                    <persName type="reg">
+                        <surname>Zimmermann</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death>1887</death>
+                    <note>Schumacher in Steinort</note>
+                </person>
+                <person xml:id="ed_avh_byp_tcb">
+                    <persName type="reg">
+                        <surname>Zimmermann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1799 Post-Sekretär </note>
+                </person>
+                <person xml:id="ed_exf_s1w_h2b">
+                    <persName type="reg">
+                        <surname>Zimmermann</surname>
+                        <forename>Lina</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1893 Dienstmädchen der Gräfin Lehndorff, dann in Podangen</note>
+                </person>
+                <person xml:id="ed_a2s_gnk_w2b">
+                    <persName type="reg">
+                        <surname>Zimmermann</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1785 Schlossgärtner in Dönhoffstädt</note>
+                </person>
+                <person xml:id="ed_d1d_jg5_ccb">
+                    <persName type="reg">
+                        <surname>Zincke</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1885 Bürochef beim Berliner Fremdenblatt</note>
+                </person>
+                <person xml:id="ed_idj_5gr_rdb">
+                    <persName type="reg">
+                        <surname>Zinnow</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kommissariat, Sachsen (1760)</note>
+                </person>
+                <person xml:id="ed_x5x_b5d_ndb">
+                    <idno type="uri">http://d-nb.info/gnd/101847629</idno>
+                    <persName type="reg">
+                        <surname>Zinzendorf</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth>1721</birth>
+                    <death>1780</death>
+                </person>
+                <person xml:id="ed_lvh_l55_12b">
+                    <idno type="uri">https://d-nb.info/gnd/101816987</idno>
+                    <persName type="reg">
+                        <surname>Zipfel</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth>1891</birth>
+                    <death>1966</death>
+                </person>
+                <person xml:id="ed_qwx_jmh_my">
+                    <idno type="uri">http://d-nb.info/gnd/117008664</idno>
+                    <persName type="reg">
+                        <surname>Zobeltitz</surname>
+                        <forename>Hanns von</forename>
+                    </persName>
+                    <birth>1853</birth>
+                    <death>1918</death>
+                </person>
+                <person xml:id="ed_o1y_2hp_tdb">
+                    <persName type="reg">
+                        <surname>Zoermanns</surname>
+                        <forename>Heinrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1767 holländischer Resident in Danzig</note>
+                </person>
+                <person xml:id="ed_zjk_p5l_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/117014133</idno>
+                    <persName type="reg">
+                        <surname>Zorn</surname>
+                        <forename>Philipp</forename>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1928</death>
+                </person>
+                <person xml:id="ed_y3y_t5r_d2b">
+                    <persName type="reg">
+                        <surname>Zuberbier</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1863 Orgelbauer in Dessau</note>
+                </person>
+                <person xml:id="ed_urk_b15_c2b">
+                    <persName type="reg">
+                        <surname>Zudnochowsky</surname>
+                        <forename>Familie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1836)</note>
+                </person>
+                <person xml:id="ed_wgc_5w5_12b">
+                    <idno type="uri">https://d-nb.info/gnd/116003669</idno>
+                    <persName type="reg">
+                        <surname>Zülch</surname>
+                        <forename>Walter Karl</forename>
+                    </persName>
+                    <birth>1883</birth>
+                    <death>1966</death>
+                </person>
+                <person xml:id="ed_jhs_sk5_22b">
+                    <persName type="reg">
+                        <surname>Zülow</surname>
+                        <forename>Hermann Hans Rudolph Christian Maximilian von</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1879</death>
+                    <note>mecklenburgischer Offizier, zuletzt General der Infanterie</note>
+                </person>
+                <person xml:id="ed_izs_psz_g1b">
+                    <persName type="reg">
+                        <surname>Zuske</surname>
+                        <forename>D.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Physicus, Angerburg (1774)</note>
+                </person>
+                <person xml:id="ed_o3c_gcx_fhb">
+                    <persName type="reg">
+                        <surname>Zwickowski</surname>
+                        <forename>Jan</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stawken (1742)</note>
+                </person>
+                <person xml:id="ed_vj3_lpz_g2b">
+                    <persName type="reg">
+                        <surname>Zwingenberg</surname>
+                        <forename>Dr. med. Friedrich Sigismund Wilhelm</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1919</death>
+                    <note>Geheimer Sanitätsrat, Arzt, Rechtsritter des Königlich Preußischen
+                        Kronen-Ordens 4. Klasse</note>
+                </person>
+                <person xml:id="ed_w3s_r5b_cdb">
+                    <persName type="reg">
+                        <surname>Zychlinski</surname>
+                        <forename>Friedrich von</forename>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1816</death>
+                    <note>auf Ernstwalde und Kortmedien; Vater: Landschaftsrat Johann Karl von
+                        Zychlinski, ERbherr auf Dyck; Heirat: ERnstine Mathilde von Goltz, Tochter
+                        des Landrats August Leopold Graf von Golz, ERbherr auf Eichmedien; 1813
+                        National-Kavallerie-Regiment, 1815 Stabs-Rittmeister im 4. Ulanen-Regiment,
+                        1815 Wirklicher Rittmeister; 1813 Deputierter der adligen Besitzer des
+                        Tapiauschen Kreises; Eisernes Kreuz zweiter Klasse, russischer
+                        Wladimir-Orden vierter Klasse; Bujack, Georg, Zum Andenken an die Mitglieder
+                        des Königsberger Landtags im Februar 1813, an die Ostpreußischen
+                        Landwehr-Bataillone und das Ostpreußische National-Cavallerie-Regiment anno
+                        1813 und 1814, Königsberg 1890, S. 146 f.</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

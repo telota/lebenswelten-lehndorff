@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_fdh_myn_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Wilhelm Hosäus an Anna Grafin von Lehndorff. Rouen, 26. Mai 1862</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_fdh_myn_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 317, Bl. 52</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mbm_gvn_my">Hosäus, Wilhelm (1827-1900)</persName>
+                    <placeName key="ed_zlz_ryn_my">Rouen</placeName>
+                    <date when="1862-05-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>In der Akte weitere Briefe von Hosäus an Anna Lehndorff. Hosäus begleitete
+                    deren Bruder Graf <persName key="ed_at1_zvw_c2b">Max</persName>, zeitweise
+                    gemeinsam mit Graf <persName key="ed_mhm_32d_d2b">Werner</persName>, auf einer
+                    mehrjährigen „Kavalierstour‟ durch Deutschland, Frankreich, Italien und England.
+                    Erst im August 1863 war er wieder auf Schloss <placeName key="ed_yps_bwn_my">Basedow</placeName>, von wo aus er die Korrekturbogen seines Manuskripts
+                    übersandte. Siehe auch die Briefe des Grafen Werner an Annain: APO, Bestand 382,
+                    FA Lehndorff, Nr. 403 (1857-1863); hier auch ein Brief von Hosäus aus Paris vom
+                    25. November 1861, Bl. 8-8v.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/317/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rouen, 26. Mai 1862</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/> Nach Schluss meines PS. am Briefe des Grafen <persName key="ed_xlv_mzn_my">Max</persName> haben sich unsere <rs type="term" key="ed_ogy_c2n_4y">Reisepläne</rs> dahin geändert, dass wir morgen von hier
+                    nach <gap reason="illegible"/> und in einigen Tagen von da nach <placeName key="ed_jxm_5vf_4y">England</placeName> weitergehen, <placeName key="ed_tkm_f2n_4y">Holland</placeName> und <placeName key="ed_zh5_f2n_4y">Belgien</placeName>, das wir bereits schon zum guten Teil kennen, vorläufig
+                    liegen lassen. <seg type="comment">
+                  <orig>Graf <persName key="ed_xvp_lzn_my">Werner</persName> freut sich außerordentlich auf <gap reason="illegible"/>, wo er mit den seligen <persName key="ed_l4b_zzn_my">
+                        <persName key="ed_q14_114_my">Eltern</persName>
+                     </persName> gewesen ist und die ersten Turnübungen
+                            im Leben gemacht hat.</orig>
+                  <note xml:id="nl4z_zpf_4y">Siehe dessen
+                            Reisebriefe an Anna Lehndorff in: APO, Bestand 382 FA Lehndorff, Nr.
+                            403, Bl. 5 ff.</note>
+               </seg>
+                    <gap reason="insignificant"/> Über die Hochzeit des Grafen Max bin ich nicht
+                    genau unterrichtet, habe ich aber recht verstanden, <seg type="comment">
+                  <orig>so
+                            ist dieselbe heute oder morgen.</orig>
+                  <note xml:id="nmxh_x14_my">Die
+                            Hochzeit mit <persName key="ed_kbr_dcr_d2b">Emmy Gräfin zu
+                                Eulenburg</persName> fand am 28. Mai 1862 in <placeName key="ed_d31_lxj_gy">Marienwerder</placeName> statt.</note>
+               </seg>
+                    Meinen Gratulationsbrief an den glücklichen Ehemann habe ich vor einigen Tagen
+                    nach <placeName key="ed_lqp_h14_my">Kuchelmiß</placeName> geschickt. Ebenso hat
+                    Graf <persName key="ed_mhm_32d_d2b">Werner</persName> gestern geschrieben. Heute
+                    erlauben Sie mir nur noch, auch Ihnen meinen herzlichen und aufrichtigen
+                    Glückwunsch zur neuen liebenswürdigen <persName key="ed_x5q_cb4_my">Schwägerin</persName> auszusprechen. <gap reason="insignificant"/> Meine
+                    nächsten Zeilen werden Sie so Gott will aus England erhalten. <gap reason="insignificant"/>
+            </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

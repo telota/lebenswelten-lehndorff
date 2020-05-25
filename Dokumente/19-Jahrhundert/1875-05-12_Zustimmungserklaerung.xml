@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_nhf_zxb_ffb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zustimmungserklärung. Berlin, 12. Mai 1875</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_nhf_zxb_ffb</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+                <note type="editorial">
+                    <p>In § 6 des Vertrages vom 27. Mai 1874 hieß es: <quote>Rücksichtlich der
+                            Bürgschaft, welche die Herzöge <persName key="ed_orj_lj3_jfb">von
+                                Ujest</persName> und <persName key="ed_fnx_kp5_g2b">von
+                                Ratibor</persName> sowie der <persName key="ed_zkm_whl_2y">Graf
+                                Lehndorff </persName>für die Gesamtforderung der <orgName key="ed_t5f_4sh_jlb">Rumänischen
+                                Eisenbahnen-Actien-Gesellschaft</orgName> von 2.000.000 Rtlr. nebst
+                            Zinsen in Höhe von 500.000 Rtlr. übernommen haben, tritt eine Änderung
+                            nicht ein.</quote> Sie bürgten für 250.000 Rtlr. nebst Zinsen, die die
+                        Rumänische Eisenbahnen-Actien-Gesellschaft gemäß § 3 der <orgName key="ed_w22_rsh_jlb">Deutschen Actien-Gesellschaft</orgName> abgetreten
+                        hatte, bis nach Einlösung des als Valuta gegebenen Wechsels der Rumänischen
+                        Eisenbahnen-Actien-Gesellschaft als <quote>Faustpfandgläubigerin</quote>.
+                        Siehe in der Akte die Erklärung der Bürgschaft durch <persName key="ed_zkm_whl_2y">Lehndorff</persName>, Angerburg, 10. Juni 1874.</p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 285, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date when="1875-05-12" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>In dem unterm <seg type="comment">
+                  <orig>27. Mai 1874 zwischen der <orgName key="ed_t5f_4sh_jlb">Rumänischen
+                                Eisenbahnen-Actien-Gesellschaft</orgName>, dem Herrn Dr. <persName key="ed_cws_vm1_my">Strousberg</persName> und der <orgName key="ed_w22_rsh_jlb">Deutschen Actien-Gesellschaft für Bergbau,
+                                Eisen- und Stahlindustrie</orgName> abgeschlossenen
+                            Vertrag,</orig>
+                  <note xml:id="njxn_hyb_ffb">Liegt der Akte bei. Weiteres
+                            in: <ref target="http://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/DE-2154/type/hg/id/DE-2154_Tektonik/dbid/C329027805/search/0/strousberg">Westfälisches Wirtschaftsarchiv, F 28/4</ref> und <ref target="http://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/DE-B41/type/fa/id/DDB_i_ha_rep_81_florenz_i/unitid/I.+HA+Rep.+81+Florenz_SLASH_Italien_COMMA_+Nr.+19/search/0/strousberg">GStA PK, I. HA, Rep. 81, Nr. 19</ref>.</note>
+               </seg> welchem wir
+                        <seg type="comment">
+                  <orig>unsere Zustimmung </orig>
+                  <note xml:id="nozh_jyb_ffb">Der Akte liegt die Abschrift des Vertrages vom 17.
+                            April 1872 mit dem Bleistiftzusatz: <quote>Das in Händen der Rum. Eis.
+                                Act. Ges. befindliche Exemplar lautet hier weiter: 'Wir treten dem
+                                Art. II des vorstehenden Abkommens in allen Punkten bei. Berlin, den
+                                21. Mai 1872 V. Hz. v. Ratibor Hugo Fürst zu Hohenlohe Graf
+                                Lehndorff‟</quote>
+                  </note>
+                    </seg>erteilt haben, ist § 1 festgesetzt, dass der Dr. Strousberg für die
+                    Rumänische Eisenbahnen-Actien-Gesellschaft auf den von ihm durch Vertrag vom 4.
+                    März 1874 von der Deutschen Actien-Gesellschaft für Bergbau-, Eisen- und
+                    Stahlindustrie abgekauften Liegenschaften (dem Neustädter Hüttenwerk, dem
+                    Eisensteinwerk im Siegerlande und am Harz) zwei Grundschuldforderungen, jede zu
+                    500.000 Tlr., rückzahlbar die erste den 1. Juli 1875, die zweite den 1. Juli
+                    1876 eintragen zu lassen hat.</p>
+                <p>Der Dr. Strousberg hat bei der Rumänischen Eisenbahnen-Actien-Gesellschaft die
+                    Hinausschiebung der Rückzahlungstermine für die beiden zu konstituierenden
+                    Grundschuldforderungen von je 500.000 Tlr. auf respektive den 1. Oktober 1875
+                    und den 1. Oktober 1876 nachgesucht.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Wie erklären hiermit, dass wir mit dieser Abänderung
+                            der vertragsmäßigen Rückzahlungstermine einverstanden sind und der
+                            Rumänischen Eisenbahnen-Actien-Gesellschaft auch ferner wie bisher in
+                            unverändertem Umfang aus unserer Bürgschaft verhaftet
+                            bleiben.</orig>
+                  <note xml:id="ntxk_dj3_jfb">Vgl. <ref target="https://books.google.de/books?id=E4tDjZsoAHoC&amp;pg=PA223&amp;lpg=PA223&amp;dq=Rum%C3%A4nische+Eisenbahn+Aktiengesellschaft&amp;source=bl&amp;ots=r6nK7LzeDt&amp;sig=zxCkpxjYdvVBBOOL9TyZ62e2ktU&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwj_9eqz3u_dAhXnqIsKHWYCCOsQ6AEwB3oECAcQAQ#v=onepage&amp;q=Rum%C3%A4nische%20Eisenbahn%20Aktiengesellschaft&amp;f=false">Burhop, Carsten, Die Kreditbanken in der Gründerzeit, München
+                                2004.</ref>
+                  </note>
+               </seg>
+            </p>
+                <p>Berlin, den 12. Mai 1875</p>
+                <p>(gez.) <persName key="ed_zkm_whl_2y">Carl Graf Lehndorff-Steinort</persName>
+            </p>
+                <p>
+               <persName key="ed_fnx_kp5_g2b">Victor Herzog von Ratibor</persName>
+            </p>
+                <p>
+               <persName key="ed_orj_lj3_jfb">Hugo Fürst zu Hohenlohe</persName>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

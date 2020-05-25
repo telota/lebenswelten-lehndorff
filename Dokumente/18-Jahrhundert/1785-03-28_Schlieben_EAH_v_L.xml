@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_rdv_qnf_jbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Leopold Graf von Schlieben an Ernst Ahasverus Heinrich Graf von Lehndorff. Gerdauen, 28. März 1785</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_rdv_qnf_jbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 382, Bl. 89-90v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zqm_ymf_hy">Schlieben, Karl Leopold Graf von
+                        (1723-1788)</persName>
+                    <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>
+                    <date when="1785-03-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Er bedankt sich für dessen Brief, den er in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> bekommen habe. Vor allem habe ihm die
+                        <quote>Mitteilung der dortigen Lustbarkeiten bei der Anwesenheit der Fürstin
+                            <persName key="ed_d43_qvb_tcb">Czartoryska</persName> gewiss recht viel
+                        Vergnügen gemacht.</quote> Es seien die ersten und besten Nachrichten über
+                    die Festlichkeiten gewesen. <quote>Den kleinen Gott der Liebe stelle mir ganz
+                        natürlich vor, die Geistes-Gabe oder Geistes-Kräfte <gap reason="illegible"/> habe ihm ein <seg type="comment">
+                     <orig>
+                        <persName key="ed_ejx_t2c_tcb">Gottlieb Bötticher</persName>
+                     </orig>
+                     <note xml:id="nayr_nsk_w2b">Hofmeister Carl Friedrich Ludwig Graf von <persName key="ed_k4z_jgl_2y">Lehndorffs</persName> 1778 bis 1784. Er ließ
+                                sich später in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                                nieder und gründete dort ein <orgName key="ed_ddj_ktb_tcb">Pensionat</orgName>, dass auch Graf <persName key="ed_pv1_b4g_hy">Heinrich</persName>, der jüngere Bruder,
+                                besuchte. Vgl. Schultze, Lebensbild, S. 5.</note>
+                  </seg> rege
+                        gemacht.</quote> Er erkundigt sich, was die <quote>charmante Komtess
+                            <persName key="ed_z12_bwf_hy">Pauline</persName>
+               </quote> mache. Man
+                    freue sich, dass er Ende Mai in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> sein werde, doch zweifle er noch daran, <quote>da
+                            <placeName key="ed_xrv_gwb_by">Berlin</placeName> ein Ort ist, der viele
+                        Vorzüge vor Preußen hat, und besonders für Ihnen, da Sie dorten mit so viel
+                        agrement leben, teils auch, weil die jetzige elende Witterung wohl nicht
+                        hoffen lässt, dass die Wege dann schon practicable sein werden.</quote>
+                    General von <persName key="ed_zny_zpv_scb">Anhalt</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> sei mit dem Wetter besonders
+                    unzufrieden, da er im Felde nicht exerzieren könne. <quote>Ich bin noch immer
+                        der Meinung, es muss unsere Erde einen Ruck oder Stoß von einem zu starken
+                        Erdbeben erlitten haben, drum es hat sich alles merklich verändert. Wir
+                        haben einen neuen Planeten schon mehr bekommen, und wer weiß, was wir noch
+                        mehr bekommen werden.</quote> Die Cousine Schlieben sei nach ihrem Besuch am
+                    Gründonnerstag zur Schwiegermutter nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gefahren. In der <persName key="ed_m1c_btk_w2b">Finckensteinschen</persName> Familie gab es Todesfälle. Über die <seg type="comment">
+                  <orig>Wallenrodtsche Erbschaft</orig>
+                  <note xml:id="nkfr_vwb_tcb">Siehe hierzu das Dokument vom <ref target="lehndorff_t2f_1x2_jbb">25. Februar 1785</ref>.</note>
+               </seg>
+                    könne er ihm nichts sagen, da es verschiedene Testamente gäbe. Die <persName key="ed_en5_n2v_scb">Baronin</persName> von <persName key="ed_en5_n2v_scb">Beynuhnen</persName> würde sich auch stark engagieren und <quote>Herrn
+                            <persName key="ed_m1z_pcv_1bb">Kirschkopff</persName> gewiss noch mache
+                        Feder darüber gebricht, bis er damit reüssiert</quote>. <seg type="comment">
+                  <orig>Leutnant von Podewils vom Posadowskischen Regiment habe sich mit
+                            der Baronesse von der Goltz in <placeName key="ed_n1r_fyb_tcb">Leißienen</placeName> verlobt.</orig>
+                  <note xml:id="nckv_lxb_tcb">Hans Otto von <persName key="ed_a4w_1cc_tcb">Podewils</persName>
+                            (1759-1840) heiratete Helene Luise von der <persName key="ed_ecc_ccc_tcb">Goltz</persName> (1765-1845).</note>
+               </seg>
+            </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

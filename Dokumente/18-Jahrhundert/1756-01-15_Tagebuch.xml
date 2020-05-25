@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_m1d_232_ndb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 15. Januar
+                    1756</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_m1d_232_ndb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 1, Gotha 1910, S. 63 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1756-01-15" cert="high"/>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+              
+                <p>Den Abend verlebte ich ganz reizend bei dem jungen Grafen <persName key="ed_ctk_fcg_vdb">Podewils</persName> in kleiner Gesellschaft. Die Wirtin
+                macht bei der ersten Begegnung keinen angenehmen Eindruck; ihre kalte Miene, der
+                unangenehme Klang ihrer Stimme, das stolze Auftreten lassen es nicht wünschenswert
+                erscheinen, die Bekanntschaft mit ihr fortzusetzen. Wenn man sie aber näher kennen
+                lernt, dann sieht man, dass es eine liebenswürdige Frau ist, die ein verbindliches
+                Wesen, einen vortrefflichen Charakter und jene seltene Eigenschaft besitzt, immer
+                mehr an Achtung zu gewinnen, je genauer man sie kennen lernt. Ihr Gatte nimmt
+                anfänglich ebenso wenig für sich ein, dass er Geist besitzt, merkt man sofort, aber
+                es scheint, als ob er damit prunkt, ein Eindruck, der sich indes im weiteren
+                Verlaufe verliert. Er besitzt einen natürlichen und scharfen Verstand, was schon
+                daraus zu schließen ist, dass er in allen Lebenslagen immer die richtigen und
+                einfachsten Mittel ergriffen hat, um sein Ziel zu erreichen. Nachdem er dem
+                    <persName key="ed_x2r_52f_cy">König</persName> als Gesandter an mehreren Höfen
+                die nützlichsten Dienste geleistet, hat er sich auf seine Güter zurückgezogen und
+                führt ein herrliches Leben. Den Winter verlebt er in <placeName key="ed_xrv_gwb_by">Berlin</placeName> und zwar ausschließlich im Umgang mit seinen Freunden; die
+                öffentlichen Festlichkeiten besucht er nur notgedrungen. Sein Gesicht wirkt
+                abstoßend, aber die Eigenschaften seines Herzens lassen schnell diesen üblen
+                Eindruck vergessen.</p>
+          
+            
+        </body>
+    </text>
+</TEI>

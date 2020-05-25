@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_qcn_r2r_jlb">
+                    <persName type="reg">
+                        <surname>Albedyll</surname>
+                        <forename>Eugen von</forename>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1916</death>
+                    <note>1880 Adjutant der 1. Garde-Division, dann Adjutant im Stab des Gardekorps,
+                        Major im Garde-Grenadier-Regiment „Königin Elisabeth“ Nr. 3 und 1882
+                        Bataillonskommandeur der Haupt-Kadetten-Anstalt Groß-Lichterfelde.
+                        https://de.wikipedia.org/wiki/Eugen_von_Albedyll</note>
+                </person>
+                <person xml:id="ed_gj5_sqt_3lb">
+                    <idno type="uri">https://d-nb.info/gnd/1019727365</idno>
+                    <persName type="reg">
+                        <surname>Anhalt</surname>
+                        <forename>Leopold Friedrich I. Herzog von</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1904</death>
+                </person>
+                <person xml:id="ed_ogv_blx_clb">
+                    <persName type="reg">
+                        <surname>Anderson</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bürgermeister</note>
+                </person>
+                <person xml:id="ed_kp3_dzp_tcb">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1799 Kutscher in Steinort</note>
+                </person>
+                <person xml:id="ed_mgf_k3s_d2b">
+                    <persName type="reg">
+                        <surname>Abachitze</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1866 Gast in Gastein</note>
+                </person>
+                <person xml:id="ed_vml_hjd_mfb">
+                    <persName type="reg">
+                        <surname>Abramowski</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1939 Oberlandesgerichtsrat im Fideikommiss-Senat beim Oberlandesgericht
+                        Königsberg</note>
+                </person>
+                <person xml:id="ed_gfw_vjy_bz">
+                    <persName type="reg">
+                        <surname>Achard</surname>
+                        <forename>Anton</forename>
+                    </persName>
+                    <birth>1696</birth>
+                    <death>1772</death>
+                    <note>Oberkonsistorialrat, Geheimer Rat und Mitglied des französischen
+                        Oberdirektoriums; seit 1724 Prediger der französischen Kirche auf dem
+                        Werder</note>
+                </person>
+                <person xml:id="ed_xhg_myz_2y">
+                    <idno type="uri">http://d-nb.info/gnd/118646850</idno>
+                    <persName type="reg">
+                        <surname>Adalbert von Prag</surname>
+                        <forename/>
+                    </persName>
+                    <birth>956</birth>
+                    <death>997</death>
+                </person>
+                <person xml:id="ed_djv_sp5_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/11600648X</idno>
+                    <persName type="reg">
+                        <surname>Adam</surname>
+                        <forename>Franz</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1886</death>
+                </person>
+                <person xml:id="ed_qpl_51c_hkb">
+                    <persName type="reg">
+                        <surname>Adler</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kriegsrat (Mitte des 18. Jahrhunderts)</note>
+                </person>
+                <person xml:id="ed_scg_whv_12b">
+                    <persName type="reg">
+                        <surname>Adler</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1947 Direktor eines (geplanten) Kulturhistorischen Zentralmuseums</note>
+                </person>
+                <person xml:id="ed_scc_1xz_g1b">
+                    <persName type="reg">
+                        <surname>Aegidi</surname>
+                        <forename>Christian Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784-1799 Pfarrer in Rosengarten</note>
+                </person>
+                <person xml:id="ed_k2k_fhj_w2b">
+                    <persName type="reg">
+                        <surname>Agassiz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1782 Geistlicher und Lehrer in Erlangen</note>
+                </person>
+                <person xml:id="ed_ndf_ycb_h2b">
+                    <persName type="reg">
+                        <surname>Albat</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stullichen, spendet 1885 für das Angerburger Siechenhaus</note>
+                </person>
+                <person xml:id="ed_m3x_11d_gy">
+                    <idno type="uri">http://d-nb.info/gnd/116257733</idno>
+                    <persName type="reg">
+                        <surname>Albedyll</surname>
+                        <forename>Emil Heinrich Ludwig von</forename>
+                    </persName>
+                    <birth>1824</birth>
+                    <death>1897</death>
+                </person>
+                <person xml:id="ed_ybk_vmv_22b">
+                    <persName type="reg">
+                        <surname>Albedyll</surname>
+                        <forename>Gustav von</forename>
+                    </persName>
+                    <birth>1823</birth>
+                    <death>1891</death>
+                    <note>auf Karnitten</note>
+                </person>
+                <person xml:id="ed_b2s_355_22b">
+                    <persName type="reg">
+                        <surname>Alex</surname>
+                        <forename>Witwe</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1871 Vorsteherin im Waisenhaus Rosengarten</note>
+                </person>
+                <person xml:id="ed_n1h_qjl_wcb">
+                    <persName type="reg">
+                        <surname>Almandi</surname>
+                        <forename>Frau </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1825 Kinderpflegerin in Königsberg</note>
+                </person>
+                <person xml:id="ed_uf2_pxz_2y">
+                    <idno type="uri">http://d-nb.info/gnd/118644890</idno>
+                    <persName type="reg">
+                        <surname>Althoff</surname>
+                        <forename>Friedrich Theodor</forename>
+                    </persName>
+                    <birth>1839</birth>
+                    <death>1908</death>
+                </person>
+                <person xml:id="ed_xpj_zcb_h2b">
+                    <persName type="reg">
+                        <surname>Altmann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Engelsteinshöhe, spendet 1885 für das Angerburger Siechenhaus</note>
+                </person>
+                <person xml:id="ed_mq2_wxj_tcb">
+                    <persName type="reg">
+                        <surname>Alvensleben</surname>
+                        <forename>Ludolf ( Ludwig) Friedrich Alexander von</forename>
+                    </persName>
+                    <birth>1778</birth>
+                    <death>1842</death>
+                    <note>Sohn des Landrates der Altmark Johann Friedrich VII. von Alvensleben
+                        (1747-1829); mit 13 Jahren Eintritt in das Regiment Gens d´arms in Berlin,
+                        1804 Stabsrittmeister. Als solcher erscheint er als eine der literarischen
+                        Hauptfiguren in Theodor Fontanes Roman „Schach von Wuthenow“, in dem sich
+                        die gesellschaftlichen und politischen Zustände in Berlin und Preußen kurz
+                        vor dem Zusammenbruch Preußens 1806 widerspiegeln. Im Sommer 1806 war
+                        Alvensleben Teilnehmer der in Kap. 10 und 11 des Romans beschriebenen
+                        Schlittenpartie, die eine Parodie auf das im Berliner Schauspielhaus
+                        aufgeführte Theaterstück „Weihe der Kraft“ von Zacharias Werner sein sollte.
+                        Sie wurde in Teilen der Berliner Gesellschaft und vom König missverstanden
+                        und rief beträchtliches Missfallen hervor und führte für A. zur
+                        Strafversetzung nach Schlesien. Im Krieg gegen Napoleon zeichnete er sich
+                        durch Tapferkeit aus und erhielt am 3. Februar 1807 den Orden Pour le
+                        Mérite. In den Befreiungskriegen wurde ihm 1815 als Major und Eskadronschef
+                        das Eiserne Kreuz 2. Klasse verliehen. 1817 schied er aus der Armee aus und
+                        lebte bis zu seinem Tode in Zichtau. 1812 Ritter des Johanniterordens; seit
+                        1837 Kammerherr des Herzogs von Anhalt-Bernburg. Quelle: Reimar von
+                        Alvensleben, nach: Wohlbrück, Siegmund Wilhelm, Geschichtliche Nachrichten
+                        von dem Geschlecht von Alvensleben und seinen Gütern, T. 3, Berlin 1829, S.
+                        416/417; Schwerin, Otto von, Das Regiment gens d´armes, T. 3: 1786-1806,
+                        Berlin 1917; Fontane, Theodor, Schach von Wuthenow, Leipzig 1882;
+                        Kretzschmar, Hellmut, Geschichtliche Nachrichten von dem Geschlecht von
+                        Alvensleben seit 1800, hrsg. vom Familienverband von Alvensleben, Burg 1930,
+                        S.110 f.</note>
+                </person>
+                <person xml:id="ed_yfl_ll2_3fb">
+                    <persName type="reg">
+                        <surname>Alvensleben</surname>
+                        <forename>Werner Gebhard Louis von</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1910</death>
+                    <note>1850 Avantageur beim 2. Garde-Regiment, 1852 Leutnant, 1860 als
+                        Regimentsadjutant in das neugebildete 4. Garde-Regiment zu Fuß nach Spandau
+                        versetzt, 1862 Abschied aus dem aktiven Dienst; Übernahme der Verwaltung der
+                        Rittergüter Rodehlen und Dombehnen (Krs. Rastenburg), die seine Frau, Adele
+                        Reichsgräfin von Schwerin (1838-1887), bei ihrer Verheiratung 1859 von ihrer
+                        Pflegemutter, der aus ihren von der Gräfin Amalie von Romberg
+                        herausgegebenen Lebenserinnerungen bekannt gewordenen Gräfin Sophie
+                        Schwerin, geb. Gräfin Dönhoff, als Mitgift erhalten hatte; die Güter fielen
+                        ihm nach dem Tod seiner Frau 1887 zu und wurden Alvenslebensche Güter; 1865
+                        im Beurlaubtenstand Hauptmann im 1. Garde-Landwehr-Regiment; machte den
+                        Feldzug 1866 beim Ersatzbataillon des 3. Garde-Landwehr-Regiments in Danzig
+                        mit; 1870/71 beim 1. Garde-Landwehr-Regiment (Belagerung von Straßburg und
+                        Paris, Gefecht bei Marsilly), 1873 zum 3. Garde-Landwehr-Regiment
+                        übergeführt; 1882 Abschied aus dem Heere mit Charakter als Major und Uniform
+                        des 1. Garde-Landwehr-Regiments; 1867 Ehrenritter, 1889 Rechtsritter des
+                        Johanniterordens; 1894 Kammerherr S. M. des Kaisers und Königs;
+                        Amtsvorsteher und Mitglied des Kreisausschusses. Quelle: Reimar von
+                        Alvensleben, nach: Kretzschmar, Hellmut, Geschichtliche Nachrichten von dem
+                        Geschlecht von Alvensleben seit 1800, hrsg. vom Familienverband von
+                        Alvensleben, Burg 1930 </note>
+                </person>
+                <person xml:id="ed_vpn_z5j_gz">
+                    <idno type="uri">http://d-nb.info/gnd/118645110</idno>
+                    <persName type="reg">
+                        <surname>Ancillon</surname>
+                        <forename>Johann Peter Friedrich</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Ancillon</surname>
+                        <forename>Jean-Pierre-Frédéric</forename>
+                    </persName>
+                    <birth>1767</birth>
+                    <death>1837</death>
+                </person>
+                <person xml:id="ed_cdb_4q5_g2b">
+                    <persName type="reg">
+                        <surname>André</surname>
+                        <forename>F.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1881 Redakteur in Berlin</note>
+                </person>
+                <person xml:id="ed_aqq_qfl_wcb">
+                    <persName type="reg">
+                        <surname>Andree</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1824 Verwalter in Steinort</note>
+                </person>
+                <person xml:id="ed_yt4_55b_mjb">
+                    <idno type="uri">https://d-nb.info/gnd/115558772</idno>
+                    <persName type="reg">
+                        <surname>Andrée</surname>
+                        <forename>Karl Erich</forename>
+                    </persName>
+                    <birth>1880</birth>
+                    <death>1959</death>
+                </person>
+                <person xml:id="ed_zny_zpv_scb">
+                    <idno type="uri">http://d-nb.info/gnd/117762911</idno>
+                    <persName type="reg">
+                        <surname>Anhalt</surname>
+                        <forename>Heinrich Wilhelm von</forename>
+                    </persName>
+                    <birth>1734</birth>
+                    <death>1801</death>
+                </person>
+                <person xml:id="ed_gt5_zyq_v2b">
+                    <persName type="reg">
+                        <surname>Anhalt-Bernburg-Schaumburg-Hoym</surname>
+                        <forename>Eleonore Fürstin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Solms-Braunfels, Prinzessin von</name>
+                    </persName>
+                    <birth>1734</birth>
+                    <death>1811</death>
+                    <note>Heirat: 1765 Karl Ludwig von Anhalt-Bernburg-Schaumburg-Hoym</note>
+                </person>
+                <person xml:id="ed_w2g_2ts_52b">
+                    <idno type="uri">https://d-nb.info/gnd/119093502</idno>
+                    <persName type="reg">
+                        <surname>Anhalt-Dessau</surname>
+                        <forename>Leopold III. Friedrich Franz Herzog von</forename>
+                    </persName>
+                    <birth>1740</birth>
+                    <death>1817</death>
+                </person>
+                <person xml:id="ed_emw_wvg_2z">
+                    <persName type="reg">
+                        <surname>Anhalt-Zerbst</surname>
+                        <forename>Caroline Wilhelmine Sophie Fürstin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Hessen-Kassel, Prinzessin von</name>
+                    </persName>
+                    <birth>1753</birth>
+                    <death>1759</death>
+                    <note>Heirat: <persName key="ed_zw5_rvg_2z">Friedrich August Fürst von
+                            Anhalt-Zerbst</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_zw5_rvg_2z">
+                    <idno type="uri">http://d-nb.info/gnd/136025188</idno>
+                    <persName type="reg">
+                        <surname>Anhalt-Zerbst</surname>
+                        <forename>Friedrich August Fürst von</forename>
+                    </persName>
+                    <birth>1734</birth>
+                    <death>1793</death>
+                    <note>Heirat: <persName key="ed_emw_wvg_2z">Caroline Wilhelmine Sophie
+                            Prinzessin von Hessen-Kassel</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_jy5_kwg_2z">
+                    <idno type="uri">http://d-nb.info/gnd/138631182</idno>
+                    <persName type="reg">
+                        <surname>Anhalt-Zerbst</surname>
+                        <forename>Johanna Elisabeth Fürstin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schleswig-Holstein-Gottorf, Prinzessin von</name>
+                    </persName>
+                    <birth>1712</birth>
+                    <death>1760</death>
+                    <note>Heirat: Christian August Fürst von Anhalt-Zerbst</note>
+                </person>
+                <person xml:id="ed_ljh_psp_1gb">
+                    <idno type="uri">https://d-nb.info/gnd/1014490197</idno>
+                    <persName type="reg">
+                        <surname>Arnim</surname>
+                        <forename>Erik Hans Karl von</forename>
+                    </persName>
+                    <birth>1873</birth>
+                    <death>1945</death>
+                </person>
+                <person xml:id="ed_gj1_mhc_ydb">
+                    <idno type="uri">https://d-nb.info/gnd/117763926</idno>
+                    <persName type="reg">
+                        <surname>Arnim</surname>
+                        <forename>Joachim Erdmann Baron von</forename>
+                    </persName>
+                    <birth>1741</birth>
+                    <death>1804</death>
+                </person>
+                <person xml:id="ed_ynr_mr5_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/116349697</idno>
+                    <persName type="reg">
+                        <surname>Arnim-Boitzenburg</surname>
+                        <forename>Adolf Heinrich Graf von</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1868</death>
+                </person>
+                <person xml:id="ed_mr2_ty3_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/118645889</idno>
+                    <persName type="reg">
+                        <surname>Arnim-Boitzenburg</surname>
+                        <forename>Grafen von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_kp3_1q5_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/135772761</idno>
+                    <persName type="reg">
+                        <surname>Arnim-Criewen</surname>
+                        <forename>Bernd von</forename>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1939</death>
+                </person>
+                <person xml:id="ed_g5b_wwk_gbb">
+                    <persName type="reg">
+                        <surname>Arnim-Kriebstein</surname>
+                        <forename>Anna von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Berg, von</name>
+                    </persName>
+                    <birth>1875</birth>
+                    <death/>
+                    <note>Heirat: Erik Hans Carl von Arnim-Kriebstein (1873–1945)</note>
+                </person>
+                <person xml:id="ed_fgh_df5_sdb">
+                    <persName type="reg">
+                        <surname>Arnim-Kriebstein</surname>
+                        <forename>Ilse Ottilie Melitta Prisca von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Recke, Freiin von der</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: Allard Hans Wolf von Arnim-Kriebstein (1901–1945)</note>
+                </person>
+                <person xml:id="ed_bpc_kw5_12b">
+                    <idno type="uri">https://d-nb.info/gnd/118645889</idno>
+                    <persName type="reg">
+                        <surname>Arnim-Kriebstein</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_z5s_b5z_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/133291847</idno>
+                    <persName type="reg">
+                        <surname>Arnim-Kröchlendorf</surname>
+                        <forename>Oskar Graf von</forename>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1903</death>
+                </person>
+                <person xml:id="ed_qyy_byz_scb">
+                    <idno type="uri">http://d-nb.info/gnd/129625760</idno>
+                    <persName type="reg">
+                        <surname>Arnoldt</surname>
+                        <forename>Daniel Heinrich</forename>
+                    </persName>
+                    <birth>1706</birth>
+                    <death>1775</death>
+                </person>
+                <person xml:id="ed_xjj_vhd_b2b">
+                    <persName type="reg">
+                        <surname>Arnstedt</surname>
+                        <forename>Familie von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gut Möllendorf (1811)</note>
+                </person>
+                <person xml:id="ed_hwc_zgc_t2b">
+                    <persName type="reg">
+                        <surname>Arnstedt</surname>
+                        <forename>Herr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pferdehändler (1727)</note>
+                </person>
+                <person xml:id="ed_mvq_wzy_yhb">
+                    <persName type="reg">
+                        <surname>Ascheraden</surname>
+                        <forename>Otto von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Schoultz von Ascheraden</name>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1892</death>
+                    <note>Kreisgerichtsassessor</note>
+                </person>
+                <person xml:id="ed_hdw_4cl_w2b">
+                    <persName type="reg">
+                        <surname>Aschersleben</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Medenau (1760)</note>
+                </person>
+                <person xml:id="ed_n24_3c1_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/116371196</idno>
+                    <persName type="reg">
+                        <surname>Asseburg</surname>
+                        <forename>Achaz Ferdinand von der</forename>
+                    </persName>
+                    <birth>1721</birth>
+                    <death>1797</death>
+                </person>
+                <person xml:id="ed_jrk_3dm_gbb">
+                    <persName type="reg">
+                        <surname>Asseburg-Meisdorf</surname>
+                        <forename>Anna Gräfin von der</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Kleist, von </name>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1905</death>
+                </person>
+                <person xml:id="ed_vms_fcj_ycb">
+                    <persName type="reg">
+                        <surname>Assmann</surname>
+                        <forename>Bertha</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1880 Einwohnerin von Wilkowen</note>
+                </person>
+                <person xml:id="ed_z3q_rmk_w2b">
+                    <persName type="reg">
+                        <surname>Assmann</surname>
+                        <forename>Friedrich Leopold</forename>
+                    </persName>
+                    <birth>1760</birth>
+                    <death/>
+                    <note>Sohn des Gärtners <persName key="ed_c4x_rcv_mbb">Martin
+                        Assmann</persName>; 1780-1783 Lehre als Gärtner in Gerdauen, dann Gärtner in
+                        Steinort </note>
+                </person>
+                <person xml:id="ed_c4x_rcv_mbb">
+                    <persName type="reg">
+                        <surname>Assmann</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death>nach 1785</death>
+                    <note>1785 Gärtner in Steinort, Vater von <persName key="ed_z3q_rmk_w2b"
+                            >Friedrich Leopold Assmann</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_kr2_zw2_2z">
+                    <idno type="uri">https://viaf.org/viaf/44626187</idno>
+                    <persName type="reg">
+                        <surname>Astrua</surname>
+                        <forename>Giovanna</forename>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1757</death>
+                </person>
+                <person xml:id="ed_ays_2pj_tcb">
+                    <persName type="reg">
+                        <surname>Auer</surname>
+                        <forename>Jonas Kasimir von</forename>
+                    </persName>
+                    <birth>1658</birth>
+                    <death>1721</death>
+                    <note>Eltern: Diterich von Auer, Elisabeth von Lehndorff; Heirat: Podangen 1699
+                        Barbara Luise von Auer, geb. von Kanitz; preußischer Oberst, Chef des
+                        Infanterieregiments Nr. 9 und Erbherr auf Pilshöfen (Amt Balga), Mollehnen
+                        und Lichtenfeld; 1688 Vormund der Kinder des verstorbenen Grafen
+                        Lehndorff</note>
+                </person>
+                <person xml:id="ed_if2_3ll_wcb">
+                    <idno type="uri">https://d-nb.info/gnd/135916828</idno>
+                    <persName type="reg">
+                        <surname>Auer</surname>
+                        <forename>Ludwig Casimir von</forename>
+                    </persName>
+                    <birth>1788</birth>
+                    <death>1837</death>
+                </person>
+                <person xml:id="ed_otp_5cr_gbb">
+                    <persName type="reg">
+                        <surname>Auer</surname>
+                        <forename>Marie? von</forename>
+                    </persName>
+                    <birth>1791</birth>
+                    <death>1872</death>
+                </person>
+                <person xml:id="ed_fhz_czj_gz">
+                    <idno type="uri">http://d-nb.info/gnd/116377658</idno>
+                    <persName type="reg">
+                        <surname>Auerswald</surname>
+                        <forename>Alfred von</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1870</death>
+                </person>
+                <person xml:id="ed_x2r_szc_mfb">
+                    <persName type="reg">
+                        <surname>Auerswald</surname>
+                        <forename>Familie von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>sächsisches Adelsgeschlecht.
+                        https://de.wikipedia.org/wiki/Auer_(preußisches_Adelsgeschlecht)</note>
+                </person>
+                <person xml:id="ed_b5m_bdr_gz">
+                    <idno type="uri">http://d-nb.info/gnd/116377666</idno>
+                    <persName type="reg">
+                        <surname>Auerswald</surname>
+                        <forename>Hans Adolf Erdmann von</forename>
+                    </persName>
+                    <birth>1792</birth>
+                    <death>1848</death>
+                </person>
+                <person xml:id="ed_zvy_mbj_qhb">
+                    <idno type="uri"> 116212780</idno>
+                    <persName type="reg">
+                        <surname>Auerswald</surname>
+                        <forename>Hans Jakob von</forename>
+                    </persName>
+                    <birth>1757</birth>
+                    <death>1833</death>
+                </person>
+                <person xml:id="ed_v5s_dzj_gz">
+                    <idno type="uri">http://d-nb.info/gnd/116377674</idno>
+                    <persName type="reg">
+                        <surname>Auerswald</surname>
+                        <forename>Rudolf von</forename>
+                    </persName>
+                    <birth>1795</birth>
+                    <death>1866</death>
+                </person>
+                <person xml:id="ed_cqr_3ys_kfb">
+                    <persName type="reg">
+                        <surname>Aufseß</surname>
+                        <forename>Ernestine von und zu</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Gernler, von</name>
+                    </persName>
+                    <birth>1841</birth>
+                    <death/>
+                    <note>Heirat: <persName key="ed_rgw_kyh_h2b">Hermann Freiherr von und zu
+                            Aufseß</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_g23_kt5_22b">
+                    <idno type="uri">https://d-nb.info/gnd/118848526</idno>
+                    <persName type="reg">
+                        <surname>Aufseß</surname>
+                        <forename>Hans Freiherr von und zu</forename>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1872</death>
+                </person>
+                <person xml:id="ed_rgw_kyh_h2b">
+                    <persName type="reg">
+                        <surname>Aufseß</surname>
+                        <forename>Hermann Rudolf Wilhelm Joseph Franz Freiherr von und zu</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death/>
+                    <note>Heirat: <persName key="ed_cqr_3ys_kfb">Ernestine von Gernler</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_vrh_r2m_xcb">
+                    <persName type="reg">
+                        <surname>Axt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1906 Rechtsanwalt in Angerburg</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

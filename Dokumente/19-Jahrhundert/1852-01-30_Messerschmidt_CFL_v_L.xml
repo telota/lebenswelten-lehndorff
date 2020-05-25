@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dzl_j5p_dz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich Leopold Messerschmidt an Carl Friedrich Ludwig Graf von Lehndorff. Steinort, 30. Januar 1852</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dzl_j5p_dz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 272, Bl. 45-47v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_db2_gvp_dz">Messerschmidt, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1852-01-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>In der Akte weitere Briefe des Verwalters zu allen die Gutswirtschaft
+                    betreffenden Fragen aus den Jahren 1813-1814, 1851-1852, 1878-1884.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, 30. Januar 1852</dateline>
+					          <salute>Euer Exzellenz</salute>
+                </opener>
+				        <p>beehre ich mich die respektvolle Anzeige zu machen, dass nun plötzlich das so lange ersehnte
+                    Frostwetter sich eingefunden und auch allem Anschein nach von Dauer zu sein
+                    scheint. Seit Mittwoch haben wir hier anhaltend 8 bis 12 Grad Kälte, wonach seit
+                    gestern auch alle Gewässer mit Eis bestanden und so endlich auch <persName key="ed_bvs_dht_ncb">Raabe</persName> wird fischen können. Die an den
+                    Werder-Ufern drapiert gewesenen Streuhaufen, worüber ich schon <seg type="comment">
+                        <orig>in meinem früheren Berichte die Ehre hatte zu sprechen</orig>
+                        <note xml:id="njsj_nhq_dz">Im Brief vom 4. Januar 1852, (Bl.
+                        44-44v).</note>
+               </seg>, sind bereits in Sicherheit gebracht. </p>
+            <p>Die Brücher in den Forsten sind nun auch durchgefroren, so dass die Holzfuhren ohne Gefährdung
+                    des Waldes bewerkstelligt werden können. <seg type="comment">
+                        <orig>Sowie die Holzfuhren einigermaßen vorgerückt sind, ist es meine
+                            Absicht, sofort die Düngerfuhren in Angriff zu nehmen.</orig>
+                        <note xml:id="nzsb_3hq_dz">Siehe hierzu den Bericht vom 19. Dezember 1851
+                            (Bl. 40-41).</note>
+                    </seg>
+                </p>
+            <p>
+               <seg type="comment">
+                  <orig>In hippologischer Beziehung bedaure ich den Todesfall des
+                            Vollblut-Hengstfüllens von der Rozette</orig>
+                        <note xml:id="nzry_xhq_dz">Diese Stute gehörte zu den Tieren, die im Februar
+                            1852 nach <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName>
+                            abgegeben wurden, ebd., Bl. 49 (26. Februar 1852).</note>
+                    </seg> und Klettmann anzeigen zu müssen. Das Füllen zeigte keine Fresslust, so
+                    dass ich sofort den Tierarzt <persName key="ed_zn3_jcq_dz">Kurth</persName> von
+                        <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> zu Rate zog, der die
+                    Krankheit für ein Lungenübel ansprach und auch dagegen wirkende Mittel
+                    verordnete, die aber nur insoweit von Erfolg waren, einen starken Durchfall
+                    herbeizuführen, womit sich auch mehre Würmer zeigten, so dass auch Wachtmeister
+                        <persName key="ed_okq_mcq_dz">Schober</persName> die Krankheit für eine
+                    Magenschwäche mit einer Überfüllung von Würmern ganz richtig ansprach, doch
+                    leider war die Krankheit soweit fortgeschritten, dass alle Mittel ohne die
+                    geringste Wirkung blieben und das Tier unter den heftigsten Schmerzen endete.
+                    Bei der Sezierung bestätigte sich die Ansicht des p. Schober vollkommen, denn in
+                    dem Magen des Tieres wurden reine Schwärme von Würmern vorgefunden, wovon 100te
+                    den Magen durchbohrt und daran haften blieben, so dass das Tier auf keine Weise
+                    verdauen konnte. p. Schober hat diesen Magen mit den daran hängen gebliebenen
+                    Würmern in Spiritus gelegt, um ihn später Euer Exzellenz vorzeigen zu können,
+                    Die übrigen jungen Pferde erfreuen sich durchweg des besten Gesundheitszustandes
+                    und sind auch bereits sämtliche jungen Pferde, so viel es Witterung und Weg
+                    gestattet, eingefahren worden. Bezüglich der in diesem Jahre zu belegenden
+                    Stuten, wozu die Zeit heranrückt, erlaube ich mir anliegend eine <seg type="comment">
+                  <orig>Liste</orig>
+                  <note xml:id="nywp_c5l_gfb">Liegt dem Brief
+                            nicht bei.</note>
+               </seg> von sämtlichen Stuten Euer Exzellenz zur
+                    gnädigen Einsicht mit der gleichzeitigen respektvollen Bitte zu überreichen, die
+                    für dieses Jahr zu benutzenden Hengste in derselben bestimmen und dann mir zur
+                    weiteren Veranlassung gnädigst remittieren lassen zu wollen. </p>
+            <p>Das Bocken bei den drei Herden <placeName key="ed_xpm_112_gy">Labab</placeName>, <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> und <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> ist nun auch beendigt. Die Schafe haben selten gut
+                    gebockt, wozu die flaue Witterung viel beigetragen. Hier ist auch heute das
+                    erste Lamm von den wenigen im Herbste hier und in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> zu dem alten schlesischen Bocke Nr. 165 gekommenen
+                    Schafe gefallen, das sehr kräftig und gut bewachsen. Der jüngere schlesische
+                    Bock formiert sich täglich zu seinem Vorteil. Die Schafe sind durchweg gesund
+                    und erfreuen sich eines recht guten Futterzustandes. Amtmann <persName key="ed_zy1_xcq_dz">Pfeiffer</persName> von <placeName key="ed_eby_wkz_ny">Lyck</placeName>, der vor wenigen Tagen hier war, fand dieselben
+                    vortrefflich. </p>
+            <p>
+               <seg type="comment">
+                        <orig>Das Resultat aus der Brennerei für diesen Monat wird sich auf 62 bis
+                            63 % Richter täglich herausstellen.</orig>
+                        <note xml:id="nuwm_chq_dz">Maß für die Alkoholbestimmung im Refraktometer.
+                            Siehe auch die Ertragsberechnung der Brauerei Steinort für den November
+                            1851, Bl. 37-38.</note>
+                    </seg>Die Preise für Branntwein <gap reason="illegible" unit="words" quantity="1"/> hier zwischen 12 bis 13 Sn. pro 0/1. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Der kritische Umstand in diesem Jahre wird die Erhaltung der Leute
+                            sein, denn bei dem unter aller Würde lohnenden Getreide verdienen die
+                            Leute nicht einmal soviel, um von dem <unclear reason="illegible" cert="low">eigenen</unclear> Verdienst leben und bestehen zu
+                            können.</orig>
+                  <note xml:id="ne2x_gvt_s2b">Ob aus diesem Grund 1852 für
+                            die Vorwerke <placeName key="ed_xjg_d12_gy">Stobben</placeName>,
+                                <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und <placeName key="ed_nkz_b12_gy">Stawken</placeName> neue Pächter eingestellt
+                            werden sollten, oder ob lediglich die Verträge ausliefen, ist noch
+                            festzustellen, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 758 (Briefe der Bewerber).</note>
+               </seg> Bis
+                    jetzt und Februar durch gebe ich ihnen ihre Aussaatentschädigung als Zuschuss
+                    zum Spannverdienst, doch von März ab werden dieselben nur vom Speichergetreide
+                    leben müssen, weshalb ich, wenngleich wir Konsumtion, Deputanten und auch auf
+                    einige Monate die Inst- und Losleute mit den eigenen Vorräten sicherstellen
+                    werden, die Vorsicht ergriffen, Getreide a Conto der Gutsleute zu kaufen, denn
+                    ich hatte mit Berücksichtigung dieser Kalamitäten schon seit Beginn des
+                    laufenden Rechnungsjahres denselben nur geringe Zahlungen geleistet und jetzt
+                    zahle ich denselben nur das nötige Saatgeld. Die Leute stehen dennoch, die
+                    Mehrzahl wenigstens, sehr gut, so dass den Unterhebungen einigermaßen ein Riegel
+                    vorgeschoben ist. Den Leuten das Geld in die Hände zu geben, ist nicht ratsam,
+                    denn sie würden der Mehrzahl nach das Geld verbringen und später das Getreide zu
+                    ihrem Unterhalte auch beanspruchen, dass man ihnen auch nicht verweigern könnte,
+                    und dadurch unwillkürlich in Schulden geraten müssen, so glaube ich, ist der
+                    Gutsherr einigermaßen gesichert und den Leuten geholfen, Der glückliche Umstand
+                    dabei ist in diesem Jahre, dass die Einnahmen aus der Wirtschaft dergleichen
+                    Vorschüsse gestatten, denn die Brennerei sichert in diesem Jahre alle Ausgaben. </p>
+            <p>Von den für dieses Jahr aufgestellten Mastschweinen sind acht Stück der besten in den ersten
+                    Tagen dieses Monats geschlachtet, dieselben ergaben ein Gewicht von 59 Zentner
+                    28 Pfund oder 1.975 Pfund und beträgt pro Stück 246 7/8 Pfund, dieselben haben
+                    94 Scheffel Bohnen und 23 Scheffel Erbsen konsumiert. Drei etwas später
+                    aufgestellte Schweine sollen in nächster Woche geschlachtet werden. </p>
+            <p>Schließlich verfehle ich nicht, Euer Exzellenz zwei Todesfälle anzuzeigen, der erste betrifft den
+                    Gastwirt <persName key="ed_osj_kgq_dz">Glach</persName> in <placeName key="ed_xjg_d12_gy">Stobben</placeName>, der schon seit geraumer Zeit an der
+                    Lunge gelitten, überhaupt von jeher schwindsüchtig gewesen, und der zweite den
+                    Schäfer Carl <persName key="ed_osx_mgq_dz">Scheumann</persName>, der in
+                        <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> zuletzt fungierte und
+                    ebenfalls an einem Lungenübel sterben musste. </p>
+                <p>Endlich bedaure ich auch noch den Verlust des alten treuen Hundes Boxer anzeigen
+                    zu müssen. Der Hund war plötzlich verschwunden, so dass man allgemein glaubte,
+                    es hätte ihn jemand umgebracht, doch nach ungefähr acht Tagen wurde von dem
+                    Wachtmeister <persName key="ed_okq_mcq_dz">Schober</persName> in dem Keller
+                    unter der Schreiberei ein Wimmern vernommen, wonach es sich ergab, dass es der
+                    alte Hund war, der noch in kräftigerem Zustande von außen durch das Kellerloch
+                    diesen Zufluchtsort gewählt hatte, denn wahrscheinlich muss er an Krämpfen
+                    leiden, was schon mehrmals vorgekommen war und dann pflegte er dergleichen
+                    Schlupfwinkel zu suchen. Er war in dieser Zeit natürlich sehr verhungert und
+                    klagte namentlich über eine große Schwäche im Hinterteil, die auch stündlich
+                    zunahm, so dass ich den Tierarzt <persName key="ed_zn3_jcq_dz">Kurth</persName>
+                    zu Rate zog. <note type="editorial">Der Tierarzt konstatierte eine Lähmung, an
+                        der der Hund auch wenig später verstarb</note>.</p>
+            <p>Die bis dato hier eingegangenen an Euer Exzellenz gerichteten <seg type="comment">
+                  <orig>Postsachen</orig>
+                  <note xml:id="nfnv_t5l_gfb">Liegen dem Brief
+                            nicht bei.</note>
+               </seg>, bestehend in drei Piecen, erlaube ich mir
+                    respektvoll beizulegen.</p>
+				        <closer>
+					          <salute>Mit dem tiefsten Respekte Euer Exzellenz untertänigster Diener</salute>
+					          <signed>Messerschmidt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

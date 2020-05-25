@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_ohl_hzk_zdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. 11./12. Oktober 1799</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_ohl_hzk_zdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>In den folgenden Tagen erhält er zahlreiche Briefe, darunter von seinem Sohn
+                            <persName key="ed_k4z_jgl_2y">Carl</persName> aus <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>, in dem dieser über die Revuen,
+                        den Besuch der Generale <persName key="ed_l1h_h1h_1cb">Klinckowström</persName> und <persName key="ed_cks_tq4_vcb">Rouquette</persName> und über Neuigkeiten aus <placeName key="ed_xrv_gwb_by">Berlin</placeName> berichtet, von den <persName key="ed_kph_h2r_v2b">Dönhoffs</persName>, die sich in <placeName key="ed_fb2_5br_v2b">Wolfshagen</placeName> aufhalten, von der Herzogin
+                        von <persName key="ed_ok2_3xf_hy">Holstein</persName>, die sich auf einer
+                        Reise befindet, von seiner Tochter <persName key="ed_z12_bwf_hy">Pauline</persName>, von <persName key="ed_nvx_wcz_bz">Prinz
+                            Heinrich</persName>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Lehndorff, Ernst Ahasverus Heinrich von, Am Hof der
+                            Königin Luise. Das Tagebuch vom Jahr 1799, übersetzt und eingel. von Eva
+                            Ziebura, Berlin 2009, S. 308 f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf von
+                    (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                <date from="1799-10-11" to="1799-06-12" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>11. Oktober</p>
+                <p>Ich komme eben bei schrecklichem Regen aus <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> zurück, wo wir übernachtet haben. Gestern bin ich am
+                    Morgen bei herrlichem Wetter dorthin gefahren und konnte in meinem Garten
+                    spazieren gehen, mit dem ich sehr zufrieden bin, ebenso wie mit meinem Verwalter
+                        <persName key="ed_d42_1st_ncb">Sperling</persName>, der ein guter,
+                    pünktlicher und fleißiger Kerl ist. Ich liebe dieses Stück Erde sehr. Ich hab es
+                    mit meinen Ersparnissen gekauft. Es hat eine ganz besondere Lage, die in
+                        <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>, wo alles platt ist,
+                    selten vorkommt, denn es liegt schwer erreichbar im hügeligen Gelände. Ich habe
+                    dort oben auf dem Berg einen Garten anlegen lassen, der, wenn man ihn endlich
+                    erreicht hat, sehr anziehend ist. Eine sanfte Steigung führt zu ihm hinauf. Oben
+                    ist man von der herrlichen Aussicht bezaubert, die über riesige Bäume hinweg den
+                    Blick auf einen großen See mit kleinen Insel freigibt. Das Haus ist 150 Jahre
+                    alt und für mich besonders anziehend, weil es von einem Vorfahren der
+                    Oberhofmeisterin <persName key="ed_exr_k1l_zdb">Reuters</persName>, geborene
+                    Goldstein, erbaut worden ist. Ich habe vor, wenn ich noch leben sollte, dieses
+                    Haus zu renovieren. <gap reason="insignificant"/>
+            </p>
+                <p>12. Oktober</p>
+                <p>Ich habe schon mehrere Paare verheiratet, seitdem ich wieder hier bin, doch heute
+                    findet eine große Hochzeit statt. Er ist ein hübscher Junge, <persName key="ed_zgk_lbm_w2b">Gereminsky</persName>, den ich zum Gastwirt machen
+                    will. Sie ist ein sehr hübsches Mädchen, das als Kind in meinem Haus erzogen
+                    wurde. Da sie angesehene Gutsangestellte sind, richte ich ihnen die Hochzeit
+                    aus. Ich lasse sie frisieren und in meiner Kutsche nach <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> fahren, anschließend wird in
+                    meinem ersten Saal getanzt, und im zweiten essen wir zusammen ein Souper mit
+                    Dessert und Kuchen, das von meinem Koch serviert wird. Alles war sehr gut und
+                    hat mich 40 Taler gekostet. Man hatte mir gesagt, dass meine Leute während
+                    meiner Abwesenheit etwas übermütig laut und lärmend gewesen seien. So sage ich
+                    ihnen von vornherein, dass es mir wirklich viel Freude mache, ihnen dieses Fest
+                    auszurichten, aber bei der kleinsten Unordnung wäre es das letzte Mal. Ich
+                    schloss sogar drei Personen aus, die sich schlecht benommen hatten. Das hat so
+                    gut gewirkt, dass die anderen vorbildlich waren. Alle haben sich sehr gut bis
+                    vier Uhr morgens ohne jede Ausschweifung vergnügt. Wenn man Festigkeit mit Güte
+                    mischt, kann man selbst Menschen ohne Erziehung bessern. Sie sind heute morgen
+                    alle gekommen, um sich zu bedanken, und ich habe diese Gelegenheit ergriffen, um
+                    ihnen Moral zu predigen und sie fühlen zu lassen, dass gutes Benehmen die
+                    Grundlage aller ehrbaren Vergnügen ist.</p>
+                <p>Ich habe endlich Nachricht von meiner Familie in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. Die ganze Sippe <persName key="ed_cpm_33y_ydb">Schlieben</persName> beschäftigt sich mit der Erbschaft ihres Bruders, der
+                    als Major im Regiment von Pirck gestorben ist. Er endete wie alle sittenlosen
+                    Menschen, hochverschuldet und unter Hinterlassung einer Kreatur mit fünf oder
+                    sechs Kindern sowie einer Witwe, geborene Gräfin <persName key="ed_cdm_bw2_n2b">Ysenburg</persName>. Diese ist eine sehr würdige, tugendhafte Frau, die
+                    wegen ihres klugen Verhaltens die Hochachtung aller ehrbaren Menschen verdient.
+                    Da sie aber keine Kinder hat, verlässt sie das schöne Gut <placeName key="ed_dxb_zdf_4y">Sanditten</placeName>, das nun der Cousin des Toten,
+                    Graf Schlieben von <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>, bekommt.
+                    Sie selbst wird sich bescheiden in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> einrichten. Meine gute Schwester, die <persName key="ed_d3h_sy4_mbb">Burggräfin Schlieben</persName>, hat sich sehr über
+                    meine kleinen Geschenke gefreut. <gap reason="insignificant"/>
+            </p>
+                <p>Ich beschäftige mich in der Zwischenzeit viel mit unserer Gutswirtschaft. Der Tag
+                    ist auch reichlich gefüllt. Um sieben Uhr gehe ich zu meiner wundervollen
+                        <persName key="ed_gnc_c1m_2y">Frau</persName>. Wir arbeiten zusammen, und
+                    ich gebe ihr den kleinen <seg type="comment">
+                  <orig>Wedack</orig>
+                  <note xml:id="nhxv_gh2_ghb">Die Predigten von Wedack, vgl. hierzu die
+                            Ausführungen der Gräfin Lehndorff im Brief vom <ref target="lehndorff_hbb_df1_hy">12. September 1800.</ref>
+                  </note>
+               </seg>
+                    bis acht zum Lesen. Danach liest sie mir französisch vor. Wir haben <seg type="comment">
+                  <orig>Boileaus</orig>
+                  <note xml:id="ndpb_hcm_w2b">
+                     <ref target="https://de.wikipedia.org/wiki/Nicolas_Boileau">Nikolas
+                                Boileau</ref>
+                  </note>
+               </seg> beendet und mit <seg type="comment">
+                  <orig>Pamela</orig>
+                  <note xml:id="notj_kcm_w2b">
+                     <ref target="https://de.wikipedia.org/wiki/Pamela_(Roman)">Briefroman des
+                                englischen Schriftstellers Samuel Richardson, der erstmals 1740
+                                herausgegeben wurde</ref>. </note>
+               </seg> angefangen. Wir essen
+                    allein zu Abend, ohne dass wir uns miteinander langweilen. Wenn ich am
+                    Nachmittag etwas Zeit habe und das Wetter für einen Spaziergang zu schlecht ist,
+                    lese ich die <seg type="comment">
+                  <orig>Briefe der <persName key="ed_vzn_kdm_w2b">Großkanzlerin Cocceji</persName> an ihre Tochter, die <persName key="ed_lbw_4dm_w2b">Generalin Platen</persName>.</orig>
+                  <note xml:id="nk4s_ygl_zdb">Mit der Lektüre ist er am 25. Oktober fertig.
+                            Anschließend liest er nochmals seine eigenen Tagebücher aus den Jahren
+                            1760 bis 1770 und findet <quote>viele Ereignisse, die mich seinerzeit
+                                stark ergriffen haben</quote>. Heute lese er diese mit
+                                <quote>Gelassenheit</quote>, ebd., S. 318 </note>
+               </seg> Beide waren
+                    geistreiche Frauen, die Erstere hatte in Berlin einen hohen Rang und war sehr
+                    beliebt. Sie lebte bei Hofe in der besten Gesellschaft. Ihre Tochter folgte
+                    ihrem Gatten, Generalleutnant und Ritter vom Schwarzen Adlerorden, der zuletzt
+                    Gouverneur von Königsberg war, in seine verschiedenen Garnisonen. Sie starb vor
+                    drei Jahren ebenfalls in Königsberg. Sie war meine sehr liebe Freundin und wurde
+                    allgemein geschätzt. <gap reason="insignificant"/> Diese Briefe sind die
+                    Geschichte eines halben Jahrhunderts. Sie interessieren mich unendlich. Da wir
+                    zur gleichen Zeit in der Gesellschaft gelebt haben, kann ich alles nachprüfen,
+                    was sie geschrieben hat.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

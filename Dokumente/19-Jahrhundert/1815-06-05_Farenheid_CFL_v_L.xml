@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_i15_jjm_bdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Friedrich Wilhelm von Farenheid an Carl Friedrich Ludwig Graf von Lehndorff. Angerapp, 5. Juni
+                    1815</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_i15_jjm_bdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S.583 f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_dlv_cjv_mbb">Farenheid-Angerapp, von (-)</persName>
+                    <placeName key="ed_jng_zqk_wcb">Angerapp</placeName>
+                    <date when="1815-06-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Kriegsrat <persName key="ed_dlv_cjv_mbb">Farenheid</persName> war der erste
+                    Großgrundbesitzer <placeName key="ed_uvt_4j4_dz">Ostpreußens</placeName>, der
+                    die Erbuntertänigkeit seiner Bauern aufhob, vgl. GStA PK, XX. HA, Rep. 300
+                    Mühlpfordt, Nr. 4: Mühlpfordt, Herbert Meinhard, Kant und sein Königsberger
+                    Freundeskreis (Ms. des Vortrags in der Kantgesellschaft am 20. Oktober 1979 in
+                    Bonn). - Dessen Briefe an Lehndorff zu Wirtschaftsfragen zwischen 1829 und 1836
+                    in: APO, Bestand 382 FA Lehndorff, Nr. 341. So schreibt er am 22. Dezember 1829
+                    (Bl. 1-2v): <quote>
+                  <persName key="ed_wgw_p35_ncb">Burgsdorf</persName> hat in
+                        seinem Urteil nicht ganz Unrecht, aber wenn Erbsen mehr Abnahme finden als
+                        Linsen, so bauen wir mehr Erbsen.</quote> Im folgendem Brief (undatiert, Bl.
+                    3-3v) geht es um die Umsetzung von <quote>Nebbiens Plan</quote> auf den
+                    Farenheidschen Gütern. Auch soll ihm Lehndorff den 1. Teil von <persName key="ed_tkl_kvp_vcb">Thaers</persName> landwirtschaftlichem Standardwerk
+                    ausleihen. Ebenso borgte man sich landwirtschaftliche Geräte wie eine steinerne
+                    Walze (Bl. 4-4v, 28. Juni 1833). - Christian Heinrich Nebbien war ein deutscher
+                    Garten- und Landschaftsarchitekt sowie Agrarreformer, der als Agrarplaner und
+                    Gestalter von Gutsbetrieben wirkte,  <ref target="https://de.wikipedia.org/wiki/Christian_Heinrich_Nebbien">https://de.wikipedia.org/wiki/Christian_Heinrich_Nebbien</ref>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Angerapp, den 5. Juni 1815</dateline>
+					          <salute>Mein liebster Freund!</salute>
+                </opener>
+				        <p>Es tut mit weh, dies immer nur schriftlich sagen zu müssen, niemals mündlich. Denn wahrlich,
+                    ich meine es gut mit Euch! Was soll der Mann mit einem Auge in dem Wirrwarr und
+                    Getümmel, wo man der Augen nicht genug haben kann. Aber der Rat eines Einäugigen
+                    ist doch was wert? Wohl, doch wer will guten Rat, wo der Ratgeber so viele sind
+                    - und keiner ist, der ihn befolgt. Oder ist man so vernünftig und stellt Euch um
+                    Eurer Gesundheit willen bei einem Reservekorps an? Dazu ist der Mann viel zu
+                    gut, der über die Entwicklung und Wohlfahrt von 1.000 Seelen von dem seltenen
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> herab wacht und richtet:
+                    Der mit seiner Hand eine Quadratmeile vaterländischen Bodens bespannt, um aus
+                    diesem Ton entweder ein Musterbild für seine Zeit- und Raumgenossen zu kneten,
+                    oder ihn als Wahrzeichen für vermoderten Feudalismus in seiner Verödung zu
+                    lassen.</p>
+                <p>Der Beruf als Preuße ist bei <placeName key="ed_trv_24g_2z">Möckern</placeName>
+                    und an der Katzbach gelöst, der Beruf als Mensch in der Gesellschaft steht nun
+                    in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu lösen, und ist noch
+                    nicht gelöst. Der Beruf als bloßer Mensch ist in der Einsamkeit zu leben und für
+                    die Gesellschaft zu wirken. Seht, mein liebster Lehndorff, nur der Abschied
+                    führt Euch Eurem Zweck entgegen. Wer auch warmen Anteil an Eurem Schicksal
+                    nimmt, ist <persName key="ed_q1t_d2f_4y">Schön</persName>. Dieser soll zu seinem
+                    Herzelend aus <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>. Das geht uns
+                    Litauern sehr nahe, mir und ihm insbesondere. Als Oberster Präsident kann er
+                    wenig wirken.</p>
+                <p>Auf der Auktion habe ich 2 Stuten für Euch gekauft; beide zusammen für 270 Rtlr.
+                    Die eine vom Herod und der Eulalia, Tochter des Bambu, auf einem Auge blind, mit
+                    Meteor gedeckt; die andere von Saxoni und der Florinde, Fuchsstute, vorn sehr
+                    gut, hinten aber wegen eine kurzen Kruppe und steilen Hesse nicht so gut.
+                    Letztere ist noch hier und wird mit Buzzard gedeckt. Die Fuchsstute von Saxoni
+                    mit den Piphacken, welche ich nicht kaufen sollte, ging für 320 Rtlr. weg.</p>
+                <p>
+               <seg type="comment">
+                  <orig>
+                     <persName key="ed_b4v_4ld_b2b">Schmalz</persName> hat
+                            die Steinorter Schäferei besehen und sehr gut befunden.</orig>
+                  <note xml:id="nt2k_1bw_glb">Friedrich Schmalz hatte 1812 im Auftrag der
+                            preußischen Regierung die Güter <placeName key="ed_xdm_3bw_glb">Kussen</placeName> und <placeName key="ed_ydb_jbw_glb">Neuweide</placeName> bei <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> übernommen, die er trotz anfänglicher
+                            Schwierigkeiten zu gewinnbringenden Musterwirtschaften ausbaute.
+                            Gleichzeitig arbeitete er als Redakteur bei landwirtschaftlichen
+                            Zeitschriften und entfaltete er eine rege publizistische Tätigkeit. Mit
+                            Beiträgen aus allen Bereichen der Landwirtschaft erwarb er sich in
+                            Ostpreußen und im gesamten Baltikum hohes Ansehen. <ref target="https://de.wikipedia.org/wiki/Friedrich_Schmalz">https://de.wikipedia.org/wiki/Friedrich_Schmalz</ref>
+                        </note>
+               </seg> Auch hat er sich, vermöge Eurer Erlaubnis an mich, einen guten
+                    Bock geben lassen und wünscht zu wissen, was er kosten soll. Da sich mehrere
+                    gute Wolle im Lande vorfindet, so sucht er den Wollhandel ganz in Bewegung zu
+                    setzen.</p>
+                <p>Wir alle sind möglich wohl, nur mit meinen Augen wills noch nicht fort.</p>
+				        <closer>
+					          <salute>Gott erhalte Euch und führe Euch auf ebener Bahn zu Eurem wahren Freunde</salute>
+					          <signed>Farenheid</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

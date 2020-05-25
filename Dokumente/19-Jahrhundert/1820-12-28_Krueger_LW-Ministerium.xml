@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_rly_vzz_xz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Landesökonomierat Krüger an das Ministerium für Landwirtschaft, Domänen und
+                    Forsten. Königsberg, 28. Dezember 1820 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_rly_vzz_xz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 87 B, Nr. 17639, Bl. 1-4v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_h5l_ny1_1bb">Krüger, (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1820-12-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_wwk_2y1_1bb">Preußisches Ministerium für Landwirtschaft,
+                        Domänen und Forsten</orgName>
+                </correspAction>
+                <note>Die an das Innenministerium gerichtete Beschwerde des Rendanten <persName key="ed_afr_tvf_2y">Werner</persName> über die Tätigkeit der
+                    General-Kommission zur Regulierung der gutsherrlichen und bäuerlichen
+                    Verhältnisse in den <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName>
+                    Gütern vom 20. Dezember 1820 in der Akte, Bl. 5-9v, Anlagen Bl. 10-13v. Am 15.
+                    Februar 1821 trug <persName key="ed_ugx_xmg_hy">Hardenberg</persName> der
+                    General-Kommission auf, <persName key="ed_h5l_ny1_1bb">Krüger</persName> mit der
+                    Fortsetzung der Arbeiten zu beauftragen (Bl. 14-14v), <persName key="ed_k2g_121_4cb">Morre</persName> sollte, wenn sich die Anschuldigungen
+                    bestätigen, aus der Kommission entfernt werden. - Siehe auch: GStA PK, XX. HA,
+                    Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 753: Aufzeichnungen zum Zustand
+                        <placeName key="ed_pxt_cnh_1y">Groß Steinorts</placeName> sowie der Güter
+                        <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName>, <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, <placeName key="ed_xjg_d12_gy">Stobben</placeName>, <placeName key="ed_s3k_b12_gy">Taberlack</placeName>,
+                        <placeName key="ed_xzt_112_gy">Stawisken</placeName>, <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName>, <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>,
+                        <placeName key="ed_xpm_112_gy">Labab</placeName> 1812/13 in Bezug auf ihre
+                    künftige Separation sowie Tabellen der Erträge von Weizen, Roggen, Gerste, Hafer
+                    und zur Hubenzahl. - Schon 1815 hatte der Provinzialverband Ostpreußen Gutachten
+                    der interimistischen Landesrepräsentanten zum <ref target="http://germanhistorydocs.ghi-dc.org/pdf/deu/10_Econ.andLabor_Doc.16_German_.pdf">Regulierungsedikt vom 14. September 1811</ref> eingefordert: Archiv des
+                    Provinzialverbandes Ostpreußen. Verzeichnis der Urkunden, Handschriften, Akten
+                    usw., T. 1: Historisches Archiv, Königsberg o. D., S. 6, Nr. 905. Ebd., Nr. 322:
+                    Beschwerde des Comites über Hardenberg (1820), S. 7, Nr. 1136: Regulierung der
+                    gutsherrlichen und bäuerlichen Verhältnisse (1814/15) u. a. - Siehe auch: GStA
+                    PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 856
+                    (Regulierungsverhandlungen, ca. 1818-1821), Nr. 857
+                    (Auseinandersetzungsverhandlungen auf den Steinorter Gütern ca. 1819/20); zum
+                    Zustand der Provinz auch: XX. HA, Rep. 2 I, Tit. 40, Nr. 2 (Zeitungsberichte,
+                    1809 ff.), Nr. 5 und 15 f. Zustand Ostpreußens 1822 ff., Nr. 33 wirtschaftlicher
+                    Zustand 1810 ff., Rep. 2 II, Nr. 1916: Widerstand gegen die Aufhebung der
+                    Gutsuntertänigkeit und die Regulierung der Bauern (1813-1816) und Nr. 1933:
+                    Vererbpachtungen (1814-1826).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Hier ist eine Anzeige des Bevollmächtigten des Besitzers der <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Güter, General und
+                    Reichsgrafen von <persName key="ed_k4z_jgl_2y">Lehndorff</persName>,
+                    eingegangen, dass er sich über die Maßregel der Königlichen General-Kommission
+                    in Bezug auf die Auseinandersetzung dieser Güter bei Einem Hohen Ministerio
+                    beschwert hat. Ich für meine Person habe die Regulierung in diesen Gütern
+                    abgeschlossen, die Rezesse aufgenommen und mehr als eine Ursache zu glauben,
+                    dass der etwa von der General-Kommission zu erfordernde Bericht die Sache in
+                    ihrem wahren Zusammenhang nicht darstellen wird, und da ich auch nicht hoffen
+                    darf, denselben zu Gesicht zu bekommen, so muss unter meinen Verhältnissen mir
+                    daran liegen, dass Ein Hohes Ministerium über diese Angelegenheit vollständig
+                    und übersichtlich in Kenntnis komme, und ich erlaube mir daher, sie in ihrer
+                    nackten Gestalt, ohne alle Bemerkungen, hierdurch ehrerbietigst darzulegen mit
+                    der Versicherung, dass auch der kleinste Moment durch die Akten erwiesen wird. </p>
+            <p>Der Ökonomie-Kommissarius <persName key="ed_wkv_cd1_4cb">Bitt</persName> und <unclear reason="illegible" cert="low">Rovenhagen</unclear> bearbeiteten diese
+                    Angelegenheit im Jahre 1817, indessen auf eine solche Weise, dass vornehmlich
+                    durch ihre Schuld zweidritteile der <seg type="comment">
+                  <orig>Bauern um das
+                            ihnen durch das Edikt vom 14. September 1811 zugesicherte Eigentum kamen
+                            und die Gutsherrschaft von neunzig kulmischen Bauernhufen sechzig ohne
+                            alle Regulierung anzog.</orig>
+                  <note xml:id="nofz_xjp_1fb">Das
+                            Regulierungsedikt hatte eigentlich das Ziel, die Bauern von ihren
+                            Frondiensten und vielfältigen Abgaben zu befreien und ihnen dafür
+                            Grundbesitz zu verschaffen. Dazu wurde den Bauern das Eigentum an den
+                            Höfen, welche sie bewirtschafteten, übertragen. Von ihren bisherigen
+                            Abgaben und Frondiensten an den Grundbesitzer konnten sie sich
+                            freikaufen. Viele Bauern konnten jedoch diese Entschädigungssumme nicht
+                            aufbringen und mussten den Rittergutsbesitzern bis zur Hälfte ihres
+                            Landes als Entschädigung überlassen. Somit profitierten außer dem
+                            bäuerlichen Mittelstand eigentlich nur die adligen Gutsbesitzer von der
+                            Reform, die auf diese Weise ihren Landbesitz mehren konnten. Viele
+                            Kleinbauern hingegen verschuldeten sich, weil ihre stark dezimierten
+                            Ländereien nicht genug Ertrag brachten, und verloren ihr mühsam
+                            erkauftes Land wieder. Als schließlich durch eine neue Verordnung auch
+                            noch die Allmende (das von allen nutzbare Land eines Dorfes) den
+                            Großbauern und Gutsherrn als Entschädigung zugesprochen wurde, verloren
+                            viele Kleinbauern endgültig ihre Existenzgrundlage und mussten sich als
+                            Landarbeiter auf den großen Gütern verdingen. Als Folge verdreifachte
+                            sich die besitzlose Unterschicht.</note>
+               </seg>
+                </p>
+            <p>Das war die erste Sache, welche mir bei meiner Versetzung nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> vorgelegt wurde. Die von mir ausgegebene Verfügung
+                    an den p. <persName key="ed_wkv_cd1_4cb">Bitt</persName> war missbilligend, und
+                    da sie ihren Zweck verfehlte, so wurde mir das Kommissarium übertragen um zu
+                    retten, was zu retten war, allein noch dringendere Angelegenheiten, wo Gutsherr
+                    und Bauern sich im Stande der Insurrektion befanden und von beiden Seiten
+                    Immediatbeschwerden einreichen wollten, z. B. <placeName key="ed_gvm_jd1_4cb">Seegertswalde</placeName>, <placeName key="ed_ggy_jd1_4cb">Klein
+                        Tauersen</placeName> usw., forderten meine Gegenwart noch dringender, und
+                    als diese Geschäfte ausgeglichen waren die Auseinandersetzung in den <unclear reason="illegible" cert="low">Bachmanschen</unclear> Gütern bei <placeName key="ed_oxb_txl_5y">Memel</placeName>, in welchen es gleichfalls zum
+                    Aufstand und Empörungen gekommen war; unter diesen Umstände wurde der <placeName key="ed_pxt_cnh_1y">Steinortsche</placeName> Auftrag auf den
+                    Ökonomie-Kommissarius <persName key="ed_cbc_pd1_4cb">Podlasky</persName>
+                    transferiert. <seg type="comment">
+                  <orig>Dieser Mann, der mit peinlicher
+                            Geschäftskenntnis landwirtschaftliche Unkunde und viel kleinlichen Stolz
+                            verbindet, erbitterte die Gemüter so sehr, dass Bauern zur Untersuchung
+                            wegen persönlicher Beleidigung gezogen wurden, er dem gutsherrlichen
+                            Bevollmächtigten, Rendanten <persName key="ed_afr_tvf_2y">Werner</persName> in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, den Zutritt versagte und den General Grafen
+                                <persName key="ed_k4z_jgl_2y">Lehndorff</persName> in <placeName key="ed_hkz_d1b_1bb">Köln</placeName> in unpassender Form zum Termin
+                            selbst vorlud. </orig>
+                  <note xml:id="nld4_rhv_s3b">Siehe hierzu auch den
+                            Brief vom 16. Juni 1820, in: GStA PK, XX. HA, Rep. 54 GA
+                            Lehndorff-Steinort, Nr. 867. </note>
+               </seg>
+            </p>
+            <p>Der <persName key="ed_cbc_pd1_4cb">Podlasky</persName> hatte in dieser wichtigen Angelegenheit
+                    ein sehr unbrauchbares Subjekt, dessen Entfernung mir nach unsäglichem Kampf
+                    erst jetzt gelungen ist, einen gewissen <persName key="ed_k2g_121_4cb">Morre</persName> zur Leitung der Bonitierung deputiert, welcher aus Mangel
+                    an Kenntnissen in der Ökonomie und im Geschäft Erträge angenommen hatte, welche
+                    die Wirklichkeit überstiegen. Der mitadhibierte Gutsbesitzer Kondukteur
+                        <persName key="ed_pnz_c21_4cb">Stachert</persName> hatte die verschiedenen
+                    Klassen des Ackers und die Erträge der Wiesen nach den Bestimmungen des Morre
+                    auf den Karten eingetragen und beide die Tage hindurch an den
+                    Bonitierungsregistern nach diesen Verzeichnungen gearbeitet. Die Festsetzung
+                    wurde aufgehoben, weil der <persName key="ed_pnz_c21_4cb">Stachert</persName>
+                    dringenderer Geschäfte halber abreiste. Der <persName key="ed_k2g_121_4cb">Morre</persName> ging hierauf mit den Karten nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> und fertigte mit dem Kondukteur
+                        <persName key="ed_kpb_321_4cb">Lange</persName> von sämtlichen Ortschaften
+                    die Vermessungsregister und erlaubte sich, nachdem der letztere, der selbst
+                    Gutsbesitzer und praktischer Landwirt gewesen ist, auf das Unnatürliche der
+                    Erträge ihn aufmerksam gemacht hatte, die mit Tusche eingezeichneten Erträge auf
+                    den Wiesen wegzuradieren und geringere einzuschreiben. Ebenso ist mit den
+                    aufgenommenen Bonitierungs-Protokollen und den darin angegebenen
+                    Ackerklassenerträgen verfahren. In sämtlichen Ortschaften <seg type="comment">
+                  <orig>bis auf eine</orig>
+                  <note xml:id="nyfc_mm1_yz">Dorf
+                            Serwillen.</note>
+               </seg>, woraus die Werte transloziert werden sollten,
+                    sind die Ertragszahlen revidiert und andere eingeschrieben. </p>
+            <p>Als der Ökonomie-Kommissarius <persName key="ed_cbc_pd1_4cb">Podlasky</persName> im Sommer des
+                    abweichenden Jahres die Regulierung auf den Grund der <persName key="ed_k2g_121_4cb">Morreschen</persName> Register fortsetzen wollte, und
+                    der gutsherrliche Bevollmächtigte die abgeänderten Karten zu Gesicht bekam,
+                    protestierte derselbe förmlich gegen die Fortsetzung auf den Grund der
+                    verfälschten Dokumente. Der <persName key="ed_cbc_pd1_4cb">Podlasky</persName>,
+                    statt auf die Sache einzugehen, verbot dem <persName key="ed_afr_tvf_2y">Werner</persName> den Zutritt, zitierte den General Grafen von <persName key="ed_k4z_jgl_2y">Lehndorff</persName> persönlich, ließ den bäuerlichen
+                    Boniteur nochmals kommen und ihn anerkennen, dass die vom <persName key="ed_k2g_121_4cb">Morre</persName> angenommenen Erträge nicht zu hoch
+                    wären, und fing ohne alle Veranlassung als ehemaliger Feldmesser an, die Karten
+                    zu revidieren, deren Unbrauchbarkeit zu behaupten und zu begehren, dass
+                    sämtliche Ortschaften von neuem vermessen würden. </p>
+            <p>Währenddessen liefen die Beschwerden des <persName key="ed_afr_tvf_2y">Werner</persName> ein und
+                    mir wurde der Auftrag, die Sache an Ort und Stelle näher zu untersuchen. Ich
+                    vernahm zuförderst den <persName key="ed_k2g_121_4cb">Morre</persName>, welcher
+                    sich durch die Behauptung zu rechtfertigen suchte, dass er die Erträge der
+                    Wiesen nach dem Gutachten des bäuerlichen Boniteurs alle erst in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> festgestellt und der <persName key="ed_pnz_c21_4cb">Stachert</persName> solche zu voreilig eingetragen
+                    habe. Ich bekam sehr bald in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> noch die Überzeugung von der Unwahrheit dieser
+                    Angabe, die sich überdem nicht einmal auf die in den Bonitierungs-Protokollen
+                    revidierten Zahlen ausdehnen ließ, wollte jedoch vorläufig in diese Sache weiter
+                    nicht eindringen, weil ich hoffte, bei meiner Gegenwart in den <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern alles in Güte
+                    beizulegen und die Sache zu beendigen. Dies ist mir auch gelungen und
+                    Separationen wurden während meiner zehntägigen Anwesenheit zu Stande gebracht
+                    und die Paraffe aufgenommen. Schon während meiner Anwesenheit in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> schrieb mir der
+                    General-Kommissarius Präsident von <persName key="ed_rqm_zch_1cb">Sydow</persName>, wie er wünsche, dass ich die Sache nicht zu Ende brächte,
+                    sondern dieses durch den Ökonomie-Kommissarius <persName key="ed_cbc_pd1_4cb">Podlasky</persName> zur Erhaltung seines Ansehens geschehen solle. Ich
+                    erwiderte, wie mir dieses unter den obwaltenden Umständen unmöglich scheine,
+                    indem an ein gütliches Übereinkommen nicht zu denken sei und in Entstehung
+                    desselben von vorn mit der Vermessung angefangen werden müsse, die so sehr
+                    gewünschte Beendigung der Auseinandersetzung noch Jahre lang sich verziehen und
+                    die Bauern wenigstens wegen der ja entstehenden Vermessungs- und
+                    Regulierungskosten alle ausgehen würden. Gleichwohl hatte der Herr von <persName key="ed_pqd_ff1_4cb">Glaubitz</persName> seine Verfügungen in den einzelnen
+                    Steinortschen Sachen an den <persName key="ed_cbc_pd1_4cb">Podlasky</persName>
+                    zur Festsetzung erlassen und behauptete noch beim Vortrage der Hauptsache, dass
+                    ihm alles übertragen werden sollte. Meine dagegen aufgestellten Gründe wirkten
+                    jedoch so viel bei dem General-Kommissarius, dass die Sache mir zur Bearbeitung
+                    so lange überlassen werden sollte, bis die Rezesse bestätigt und mit der
+                    Ausführung vorgeschritten würde. In dieser Art wurde an den p. <persName key="ed_afr_tvf_2y">Werner</persName> verfügt und dies hat seine Beschwerde
+                    an Ew. Hohes Ministerium veranlasst. Durch die gedachte Verfügung der
+                    General-Kommission ist der Prozess wegen Verfälschung der Akten, dessen sich der
+                        <persName key="ed_afr_tvf_2y">Werner</persName> auf meine Vorstellungen
+                    begeben hatte, von neuem erweckt und dadurch die Königl. General-Kommission
+                    selbst in Verlegenheit gesetzt, wodurch ihr Ruf in der Provinz nur verlieren
+                    kann, wenn solche Sachen öffentlich zur Sprache kommen, die Beweise in den Akten
+                    selbst vorhanden sind und die Offizianten auf die einseitigen Anzeigen in Schutz
+                    genommen werden.</p>
+                <closer>
+                    <signed>Krüger</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

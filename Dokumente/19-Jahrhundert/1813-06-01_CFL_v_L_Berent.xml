@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_tlm_bvd_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Friedrich August Berent. Crossen, 1. Juni 1813</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_tlm_bvd_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 391 f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_y2c_lvd_ycb">Crossen</placeName>
+                    <date when="1813-06-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_yx5_cbg_nbb">Behrend, Friedrich August (1773-)</persName>
+                </correspAction>
+                <note>Es folgen weitere Briefe <persName key="ed_k4z_jgl_2y">Lehndorffs</persName>
+                    an <persName key="ed_yx5_cbg_nbb">Berent</persName> aus den Jahren 1813-1815.
+                    Schultze wertet sie als <quote>charakteristisch für den ganzen Mann, der trotz
+                        seiner Tätigkeit als Kommandeur eines Kavallerie-Regiments, das stets an dem
+                        Feinde lag, die Verwaltung seines land- und forstwirtschaftlichen Besitzes
+                        in Ostpreußen nicht einen Augenblick aus der Hand ließ</quote> und somit die
+                        <quote>Zügel der Steinorter Herrschaft, soweit es überhaupt möglich war,
+                        fest in der Hand behielt und persönlich weiter fortführte</quote>, ebd., S.
+                    392.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>
+               <gap reason="insignificant"/> Halten Sie die Ohren steif, lieber Berent, und
+                    passen Sie gut auf: Wenn die Franzosen <placeName key="ed_iw5_fxl_2y">Breslau</placeName> besetzt behalten, welches Sie gewiss erfahren müssen,
+                    so suchen Sie einige Anstalten zu treffen, und das beste Zeug, Wäsche, Betten,
+                    meine Papiere etc. in Sicherheit zu bringen. Denken Sie beizeiten darüber nach,
+                    wo etwas zu vergraben, verscharren, vermauern etc. ist. <seg type="comment">
+                  <orig>Setzen Sie sich alsdann mit <persName key="ed_dlv_cjv_mbb">Farenheid</persName> in Verbindung, um mit ihm gemeinschaftlich die
+                            besten Pferde zu retten auf die möglichst beste Art, worüber Sie mit ihm
+                            zu Rate gehen müssen.</orig>
+                  <note xml:id="nj1k_f43_ycb">Zu dessen
+                            Verdienst um das Steinorter Gestüt vgl. Schultze, Lebensbild, S. 511
+                            ff.</note>
+               </seg> Ich vermute, dass <persName key="ed_xzh_bgg_h1b">Napoleons</persName> ganze Absicht dahin geht, ein starkes Armeekorps nach
+                        <placeName key="ed_f5m_fxv_mbb">Polen</placeName> hinein zu werfen und es zu
+                    insurgieren, dass würde auf uns den größten Nachteil haben. Handeln Sie nach
+                    Umständen, vielleicht wird auch alles besser, als wir denken!<gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

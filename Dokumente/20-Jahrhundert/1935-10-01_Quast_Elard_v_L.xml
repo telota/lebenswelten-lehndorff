@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_dty_hhx_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bescheinigung. Langen, 1. Oktober 1935</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_dty_hhx_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="editorial">Im Frühjahr 1936 konnte Elard von Lehndorff seine Ausbildung fortsetzen, vgl.
+                    ebd. Bl. 10.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LA Berlin</institution>
+                      <idno>A Pr. Br. Rep. 042, Nr. 12960, Bl. 9</idno>
+                    </msIdentifier>
+                  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                    <placeName key="ed_p42_tgl_gbb">Langen b. Neuruppin</placeName>
+                    <date when="1935-10-01" cert="high"/>
+                
+               
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+                <opener>
+                    <dateline>Langen über Neuruppin den 1. Oktober 1935</dateline>
+                </opener>
+                <p>Bescheinigung</p>
+                <p>Der landwirtschaftliche Lehrling Graf <persName key="ed_nv1_xct_2y">Elard
+                        Lehndorff </persName>war vom 15.2.35 bis zum 1.10.35 als solcher in der
+                    hiesigen Lehrwirtschaft tätig. </p>
+                <p>Er arbeitete in der Hauptsache in der Brennerei und in den Ställen und begann die
+                    ersten Grundbegriffe der Feldarbeit zu erlernen, </p>
+                <p>Graf Lehndorff führte sich in dieser Zeit in und außer Dienst untadelig und war
+                    meiner Frau und mir ein lieber Hausgenosse. <seg type="comment">
+               <orig>Sein
+                            vorzeitiges Ausscheiden erfolgte, da er sich wegen der Folgen seines
+                            Sturzes erneut in ärztliche Behandlung begeben musste.</orig>
+               <note xml:id="nwqr_nf2_2cb">Nach einem schweren Sturz im Alter von 18 Jahren
+                            auf der Rennbahn in Karlshorst hatte er einen Schädelbasisbruch
+                            davongetragen. Er verstarb an einer Hirnblutung 1940.</note>
+            </seg>
+                </p>
+                <p>Meine besten Wünsche begleiten ihn.</p>
+                <closer>
+                    <signed>
+               <persName key="ed_ew3_vgl_gbb">v. Quast</persName>
+            </signed>
+                </closer>
+            
+        </body>
+    </text>
+</TEI>

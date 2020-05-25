@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_qxk_hrj_fbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Marie? von Auer. Königsberg, 19.
+                    März 1827</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_qxk_hrj_fbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Herkunft/Genealogie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, FA v. Auer, Nr. 159</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1827-03-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_otp_5cr_gbb">Auer, Frau von (-)</persName>
+                </correspAction>
+                <note>Seit 1641 waren beide Familien miteinander verwandt, vgl. GStA PK, XX. HA,
+                    Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 30 (Ehevertrag Dietrich von Auer,
+                    Elisabeth von Lehndorff). Nach Erscheinen von Wilhelm <persName key="ed_mbm_gvn_my">Hosäus</persName> Biografie über den Oberburggrafen von
+                    Lehndorff erhielt die Familie von Auer von <persName key="ed_wms_mh2_cy">Anna
+                        Lehndorff</persName>f ein Exemplar mit Widmung: <quote>Dem General von Auer,
+                        meinem werten Freunde, für die Majoratsbibliothek in <placeName key="ed_uzs_vp2_b2b">Goldschmiede</placeName>, Steinort 1891, A.
+                        Lehndorff</quote>, vgl. GStA PK, VI. HA, FA v. Auer, Nr. 232. Auch das
+                        <orgName key="ed_a45_yp2_b2b">Ossolinskische National-Institut</orgName> in
+                        <placeName key="ed_iw5_fxl_2y">Breslau</placeName> erhielt ein Exemplar, die
+                    Empfangsbestätigung vom 23. Februar 1878 in: APO, Bestand 382 FA Lehndorff, Nr.
+                    298. - Material zur genealogischen Forschung auch in: APO, Bestand 382 FA
+                    Lehndorff, Nr. 292 (Korrespondenz, 1827-1893) und in Nr. 293 (Fragment einer
+                    gedruckten Genealogie 1539 bis 1854).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 19. März 1827</dateline>
+					          <salute>Meine hochverehrte Freundin!</salute>
+                </opener>
+                <p>Ich sende Ihnen unserer früheren <seg type="comment">
+                  <orig>Abrede</orig>
+                  <note xml:id="nsc3_trj_fbb">Sie hatte <quote>Fragen zur geneigten Beantwortung
+                                des Herrn Generals Grafen von Lehndorff</quote>
+                        zugesandt.</note>
+               </seg> zufolge behufs der Vervollständigung meiner gütigst
+                    organisierten <seg type="comment">
+                  <orig>Stammtafel</orig>
+                        <note xml:id="nwc5_2kf_qcb">Eine erste Stammtafel war von <persName key="ed_if2_3ll_wcb">Ludwig Casimir von Auer </persName>erstellt
+                            worden, in: GStA PK, VI. HA, FA v. Auer, Nr. 159. Diese war mit einer
+                            Vielzahl von Quellen aus der Wallenrodtschen Bibliothek (Henneberg,
+                            Raabe), der Stadtbibliothek Königsberg (Sammlung Bartsch, Hennig), der
+                            Königlichen Bibliothek Königsberg (Leichenpredigtensammlung), der
+                            Königlichen Bibliothek in Berlin (Sammlung König), dem Auerschen
+                            Familienarchiv, dem Geheimen Archiv zu Königsberg und dem
+                            Oberlandesgericht Königsberg (Hausbücher) vervollständigt und ergänzt
+                            worden. Eine <quote>Genealogische Tabelle von dem Reichsgräflichen
+                                Lehndorffschen Hause</quote>, beginnend mit Fabian von Lehndorff,
+                            war bereits durch Jacob Friedrich <persName key="ed_x2n_nll_wcb">Werner</persName>, Dekan der philosophischen Fakultät der
+                            Königsberger Akademie und Mitglied der Königlichen deutschen
+                            Gesellschaft zu Göttingen, aus Anlass des Todes von <persName key="ed_osg_km4_hz">Louise Charlotte zu Ysenburg und Büdingen, geb.
+                                Gräfin von Lehndorff</persName>, 1762 aufgestellt worden, vgl. StA
+                            L, Leichenpredigten Zentralstelle. - Ein gedrucktes <quote>Verzeichnis
+                                der Ahnen der Hochseligen Frau Gräfin</quote> auch in: LASA, StA
+                            Magdeburg, E 130 George Adalbert von Mülverstedt, Nr. 36/1: Ad
+                            Genealogiam der Grafen von Lehndorff, Bl. 33 und 34. - Ein Extrakt aus
+                            der <quote>Hennebergschen Erklärung der Preußischen Landtafel</quote>
+                            in: GStA PK, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 100. </note>
+                    </seg> die Data über die Geburt meiner beiden Kinder und das Ableben der Mutter
+                    meiner Frau – und empfehle mich bei Veranlassung meiner Abreise Ihrem
+                    freundschaftlich geneigten Andenken.<list>
+                        <item>1. <persName key="ed_xnq_1fm_2y">Pauline Friederike Amalie Marie
+                                Auguste Adelheid</persName> geboren den 27. Februar 1825 zu Danzig
+                            und</item>
+                        <item>2.<persName key="ed_zkm_whl_2y"> Carl Meinhard Heinrich Friedrich
+                                Wilhelm August</persName>
+                            <seg type="comment">
+                        <orig>geboren den 20. Oktober 1826 zu
+                                    Königsberg.</orig>
+                        <note xml:id="nf2t_dcz_3fb">Er wurde am 27.
+                                    Juni 1843 in Königsberg durch den dortigen Militär-Oberprediger
+                                    Consentius konfirmiert, nachdem dieser ihn <quote>im Christentum
+                                        nach den Grundsätzen der evangelischen Kirche
+                                        unterrichtet</quote> hatte; der Konfirmationsschein in: GStA
+                                    PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 555, n.
+                                    f. </note>
+                     </seg>
+                  </item>
+                    </list>
+            </p>
+                <p>Der Sterbetag meiner Schwiegermutter geborene <persName key="ed_cs1_2ml_wcb">Gräfin Beust verehelichte Schlippenbach</persName> ist der 18. September
+                    1826 zu Berlin. Sie ist beigesetzt zu Schönermark dem Erbbegräbnis der Familie. </p>
+				        <closer>
+                    <salute>Mit treuer hochachtungsvoller Ergebenheit </salute>
+                    <signed>Lehndorff</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

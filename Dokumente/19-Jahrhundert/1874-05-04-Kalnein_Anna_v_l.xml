@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_pcl_2rv_fdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Graf von Kalnein an Anna Gräfin von Lehndorff. Königsberg, 4. Mai 1874</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_pcl_2rv_fdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 460, Bl. 2-3</idno>
+                    </msIdentifier>
+                 
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zss_vwq_d2b">Kalnein, Karl Graf von (1839-1915)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1874-05-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/460/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, 4.5.74</dateline>
+					          <salute>Gnädigste Frau Gräfin!</salute>
+                </opener>
+				        <p>Von meiner Reise nach Mecklenburg zurückgekehrt, fand ich hier Ihr sehr liebenswürdiges und
+                    gnädiges Schreiben nebst den Statuten zu der projektierten Adelsstiftung vor und
+                    sage Ihnen, gnädigste Gräfin, meinen untertänigsten Dank, dass Sie mich dieser
+                    Mitteilung gewürdigt haben. </p>
+                <p>Da ich jedoch einstweilen pekuniär außer von meinem Gehalt lediglich von
+                    Beihilfen meiner Eltern und Schwiegereltern abhänge und über selbständiges
+                    Vermögen nicht zu verfügen habe, so bin ich zu meinem großen Bedauern außer
+                    Stande, zu dem schönen und voraussichtlich sehr segensreichen Werk beizutreten.
+                    Was meine Schwiegereltern betrifft, so haben Sie, gnädigste Gräfin, so viel ich
+                    weiß, ihnen bereits direkte Mitteilung über das Projekt zugehen lassen;
+                    wenigstens sprach er mich bei meiner Durchreise durch <placeName key="ed_xrv_gwb_by">Berlin</placeName> darauf an. Ob <seg type="comment">
+                  <orig>er</orig>
+                  <note xml:id="ntfp_hml_f2b">Philipp Konrad Graf zu
+                                <persName key="ed_us2_gz1_dy">Eulenburg</persName>, auf Liebenberg,
+                            Vater von <persName key="ed_opf_zml_f2b">Ada Gräfin zu
+                                Eulenburg</persName>
+                  </note>
+               </seg> sich jedoch zu einer Beisteuer
+                    entschließen wird, weiß ich nicht, <seg type="comment">
+                  <orig>da er sich und
+                            seine Deszendenz eigentlich schon mehr zum märkischen Adel rechnet und
+                            sich aus dem Ostpreußischen Verband gewissermaßen als ausgeschieden
+                            betrachtet.</orig>
+                  <note xml:id="ni3t_dqh_jfb">Zur Regionalität des Adels
+                            siehe das Dokument vom <ref target="lehndorff_dft_3ml_ycb">11. April
+                                1874</ref>.</note>
+               </seg>
+            </p>
+                <p>Ich habe gegenwärtig die Freude, meine Eltern bei mir zu sehen, die binnen
+                    Kürzerem die freudige Aussicht haben, Sie, gnädigste Gräfin, in <seg type="comment">
+                  <orig>
+                     <placeName key="ed_v2c_gc1_fy">Graditz</placeName>
+                  </orig>
+                  <note xml:id="njcf_qml_f2b">Seine Schwester
+                                <persName key="ed_n5f_vfm_2y">Klara</persName> war mit dem
+                            preußischen Landstallmeister <persName key="ed_sjx_pfm_2y">Georg Graf
+                                von Lehndorff</persName>, Schwager Anna von Lehndorffs,
+                            verheiratet.</note>
+               </seg> zu treffen.</p>
+				        <closer>
+					          <salute>Mit vielen herzlichen Grüßen und gehorsamsten Empfehlungen der meinigen zeichne ich
+                        mich, gnädigste Frau Gräfin, mit vorzüglicher Hochachtung und steter
+                        Verehrung Ihr gehorsamster Diener</salute>
+					          <signed>Graf v. Kalnein</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

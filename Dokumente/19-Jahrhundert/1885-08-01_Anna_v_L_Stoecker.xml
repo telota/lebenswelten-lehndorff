@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mpc_mvc_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anna Gräfin von Lehndorff an Adolf Stoecker. Gastein, 1. August 1885</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mpc_mvc_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, Nachlass Adolf Stoecker, Nr. 30, Bl. 1-6v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                    <placeName key="ed_avy_p42_cy">Bad Gastein</placeName>
+                    <date when="1885-08-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_xkb_vvc_gy">Stoecker, Adolf (1835-1909)</persName>
+                </correspAction>
+                <note>Zum Aufenthalt in <placeName key="ed_avy_p42_cy">Gastein</placeName>:  Aus 50
+                    Jahren. Erinnerungen, Tagebücher und Briefe aus dem Nachlass des Fürsten Philipp
+                    zu Eulenburg-Hertefeld, Berlin 1923, S. 127 ff. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gastein, 1. August 1885</dateline>
+                    <salute>Mein verehrter und lieber Herr Hofprediger.</salute>
+                </opener>
+                <p>Die Situation ist sehr ernst, ernster als ich befürchtet. Seine <persName key="ed_lwx_y32_cy">Majestät</persName> hat seit den 12 Tagen, die er hier,
+                        <persName key="ed_tkk_pzc_gy">Kögel</persName> noch nicht einmal rufen
+                    lassen, was noch nicht vorgekommen. Er ist ihm, als er zu Mittag geladen war,
+                    aus dem Wege gegangen, er wendet sich ab und bricht ab, wenn man Ihren Namen
+                    nennt, er hat von hier aus Ihnen den Wink geben lassen, ohne es mit Kögel vorher
+                    zu besprechen. Es ist auch nicht <persName key="ed_o5l_qw5_22b">Wilmowskys</persName> sondern ein Versprechen der Kaiserin erbeten und, wie
+                    ich höre, gegeben, als Ihnen dieser Antrag gestellt wurde, um einen gnädigen
+                    Abschied zu bewilligen, anderenfalls, wie wir alle fürchten, selbst dieser nicht
+                    zu erlangen sein dürfte. Was nun zu tun, einmal in Erwägung zu ziehen, ob Sie
+                    den Juden den Gefallen tun und die Hofpredigerstelle in den Wind schlagen, denn
+                    dahin geht ihr Geschrei – oder es würde nur die Möglichkeit bleiben, dass Sie
+                    wie Ritter George, eine Zeitlang dem politischen Treiben entrückt, sich stählten
+                    zu künftiger Arbeit, oder aber Sie fühlen, dass es Gottes Wille auch jetzt als
+                    Missionar der Gott entfremdeten Massen zu wirken, wozu Sie entschieden Beruf und
+                    Begabung von Gott empfangen haben. Dann müssten Sie selbst um Ihren Abschied
+                    einkommen. Da würde ein gnädiger Abschied wohl zu verlangen sein. Der geliebte
+                    Kaiser ist nun einmal kein Kind <hi rendition="#u">dieser</hi>, sondern der <hi rendition="#u">alten</hi> Zeit, alles was außergewöhnliche Bahnen wandelt,
+                    zumal, wenn es mit ihm im Zusammenhang steht, verletzt seine sensitive Natur,
+                    wenn es so in den öffentlichen Schmutz gezogen wird, wie der niederträchtige
+                    Judengenosse es jetzt mit Ihnen tut. </p>
+                <p>Dass die christlich-konservative Partei so weit <hi rendition="#u">positiv</hi>
+                    zu Ihnen steht wie ein Mann, dass versteht sich von selbst, aber wenn Sie
+                    losgelöst vom Schirm des Kaisers weiter arbeiten, gehört Selbständigkeit des
+                    Urteils und des Charakters dazu, um dann zu Ihnen zu stehen, und Sie wissen
+                    selbst, wie viel <hi rendition="#u">davon</hi> bei den Massen zu finden sein
+                    wird. Es wird also auch da ein Riss entstehen, und ob das Werk schon so weit
+                    gestärkt ist, um das Prestige, welches mit dem Namen des Kaisers verbunden ist,
+                    zu entbehren, dass muss die Zeit lehren. Wie sehr ich es hoffe und wünsche, dass
+                    die selbständige christlich-konservative Gesinnung wachse quand même, das
+                    brauche ich Ihnen, mein teurer Hofprediger, wohl nicht erst zu sagen. Gott gebe
+                    dem Frühling ferneres Gedeihen, selbst wenn ein Reif auf die jungen Blüten fällt
+                    - aber Gefahr ist immer dabei, auch wenn man Kirchen nicht für seinen Arm hält.
+                    Denn Ihnen liegt ja an der <hi rendition="#u">Sache</hi>, nicht an der Person,
+                    das weiß ich. Der gute Kögel schläft schon seit 14 Tagen nicht aus Sorge für
+                    diese Sache, und wie tief es ins Herz treffen wird, wenn der geliebte Herr
+                    diesen falschen Schritt tut, den ich für die christlich-konservative Sache im
+                    tiefsten Herzen beklagen müsste. Denn des Kaisers Name und Person bedeutet dem
+                    Volke noch Gott sei dank christlich-konservative Gesinnung, und Jubel aller
+                    schlechten Elemente im Staat würde den Schmerzensschrei der loyalen Herzen
+                    übertönen. Sie könnten das kaum tiefer empfinden wie ich - aber in der
+                    berechtigten Sorge, die Sachlage zu verschlimmern, ist es eine schwere Frage was
+                    tun. Ich habe mir heute Wilmowskys Besuch erbeten. Morgen, meint Kögel, werde
+                    die Sache wieder zum Vortrag kommen. Ich will ihm die Gefahren zeigen, die aus
+                    diesem Schritt erwachsen, damit er sie beim Kaiser anzeige. Mein <persName key="ed_nml_dw2_cy">Schwager</persName> hat an <persName key="ed_atc_ls2_cy">Bismarck</persName> geschrieben, dass dieser wenn möglich sein Veto
+                    einlege. <persName key="ed_m3x_11d_gy">Albedyll</persName> hat Wilmowsky auch
+                    gewarnt, dass wir tun, was nach Kenntnis der Sachlage allein zu tun möglich,
+                    nicht wahr, mein teurer Herr Hofprediger, das glauben Sie ohne Worte. Den Rat,
+                    den ich Ihnen, durch entremise der Frau von <persName key="ed_abw_3gb_h2b">Hengstenberg</persName>, auf Kögels Meinung gestützt, geben ließ, konnte
+                    ich nicht direkt geben, weil solches alles hier zu Ohren kommt und schaden kann,
+                    und ich bitte Gott heiß und innig wirkliche Hilfe bringen zu können, aber nicht
+                    zu schaden durch einen falschen Schritt. Dass es mir nicht darauf ankommt, <hi rendition="#u">meine</hi> Stellung bei dem geliebten Kaiser zu
+                    verschlechtern, dazu kennen Sie mich hoffentlich zu gut. Ich liebe ihn viel zu
+                    aufrichtig und bin so durchdrungen von dem einen, worin unser Heil und das
+                    seinige besteht, dass es mir, wenn ich mit Erfolg warnen kann, nicht darauf
+                    ankäme, wenn er mir zurate, aber auch hier ist die Person nichts, die Sache
+                    alles und es kann durch unzeitiges Einmischen viel verdorben werden, da dann
+                    sein Oppositionsgeist wachgerufen wird und ein Widerspruch von ihm, in dem
+                    schnellen Entschluss des Unmuts getan, viel verderben kann, was vielleicht noch
+                    zu erreichen wäre. Hinziehen wie Sie und wir mit Ihnen es wünschen, ist bei dem
+                    pünktlichen Sinn des Kaisers nicht zu erreichen. Wenn Sie ihm durch Willmowsky
+                    schreiben, in kindlichem Sinne an sein landesväterliches Herz appellieren, ihm
+                    vorhalten, dass sein Wort: Die Religion soll dem Volke erhalten bleiben,
+                    erinnert, was bei der Kirchenlosigkeit Berlins und der Volksmassen heute nicht
+                    mehr durch sonntägliche Predigten, sondern durch Predigten gleich den Aposteln
+                    innerhalb des neu geborenen und durch die Aufhebung des Taufzwanges
+                    sanktionierten Heidentums geschehen könne, dass Gottes Segen sich in dem großen
+                    Erfolge deutlich ausspräche, und dass die Feindschaft aller unchristlichen
+                    Mächte im Staat dagegen, die Zustimmung aller christlich-konservativen Elemente
+                    ein deutlicher Beweis dafür, dass Ihr Wirken dem bösen Feinde, der das Volk
+                    zerstöre, Abbruch tue und der Wunsch des Kaisers sich mehr und mehr erfülle,
+                    dass neue ernste Zeiten auch neuen Bahnen weisen, die beschritten werden müssen,
+                    nach dem Wort des Apostels zu predigen zur Zeit und zur Vorzeit, und dass das
+                    Wort gleich zu Luthers Zeiten gegen den sich auch alles hergebrachte <seg type="comment">
+                  <orig>aufgelehnt</orig>
+                  <note xml:id="nkjg_ccf_wcb">Der
+                            weitere Text läuft am Rand der Blätter weiter und ist nicht zu
+                            entziffern.</note>
+               </seg>
+                    <gap reason="illegible"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

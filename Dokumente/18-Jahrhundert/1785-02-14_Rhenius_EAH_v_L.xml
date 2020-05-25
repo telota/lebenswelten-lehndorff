@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_blw_mj2_jbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Rhenius an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 14. Februar 1785</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_blw_mj2_jbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 382, Bl. 39-40v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bpl_fsj_gy">Rhenius, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1785-02-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>In einer Randbemerkung bittet er um die Erlaubnis, die zum Verkauf stehende
+                    Stute <persName key="ed_ejx_t2c_tcb">Böttichers</persName> mit Reitzeug für 30
+                    Rtlr. erwerben zu dürfen, da <quote>mir ein gutes Reitpferd sehr nötig
+                        ist</quote>. - Im folgenden Brief vom 19. Februar/2. März (Bl. 46-47v) sind
+                    der Baufortschritt der Windmühle, der sehr starke Schneefall und Frost, fallende
+                    Getreidepreise und nochmals der erzielte Getreidepreis sowie eine Lieferung von
+                    15 Stühlen aus <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName> Thema.
+                    Bei der <placeName key="ed_ysw_qr1_dy">Königsberger</placeName> Bank hatte
+                    Rhenius insgesamt für die Erträge 4.000 Rtlr. hinterlegt. Er spricht nochmals
+                    seinen <ref target="lehndorff_rdj_d3y_3bb">Wunsch nach einer Uhr für den neuen
+                        Speicher</ref> aus. Sobald möglich, werde die Wagenscheune innen neu geputzt
+                    und der Boden planiert. 12 Pferde seien für die Wagen nötig, die jungen wolle er
+                    jedoch noch schonen. Es fehle ein Vorreiter, da der <placeName key="ed_enz_4vz_g1b">Landkeimsche</placeName> entlaufen sei, doch habe er
+                    ihn nicht verfolgen lassen, da er darüber eigentlich <quote>sehr froh</quote>
+                    sei. <ref target="lehndorff_rdj_d3y_3bb">Als Ersatz schlage er den Sohn des
+                        Gärtners von <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> oder
+                        des <placeName key="ed_s3k_b12_gy">Taberlackschen</placeName> Schulmeisters
+                        vor. </ref>Ein vor 6 Jahren Entlaufener sei in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> entdeckt und arretiert worden.
+                    Ein Arzt sei die <quote>größte Wohltat</quote> für die Güter, er könne in der
+                    Stube am Brauhaus wohnen und dort später ein Haus angebaut werden. Von dem
+                    Schmied <persName key="ed_ynx_y2v_mbb">Lott</persName> habe der <persName key="ed_zqm_ymf_hy">Burggraf</persName> in <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> keine gute Meinung. Den Knecht <persName key="ed_qnc_s2b_tcb">Waschke</persName> habe er vom Posadowskischen Regiment
+                    zurückbekommen. Konsistorialrat <persName key="ed_m1z_pcv_1bb">Kirschkopff</persName> habe er wegen des Verkaufs von <placeName key="ed_ugw_w2b_tcb">Korklack</placeName> befragt.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 14. Februar 1785</dateline>
+					          <salute>Hochwürdiger und Hochgeborener Herr Reichsgraf, <lb/>gnädigster Graf und Herr!</salute>
+                </opener>
+				        <p>Heute hatte die Ehre, Ew. Hochgeboren gnädigste Zuschrift zu erhalten, Es tut mir leide, dass
+                    Hochdieselben mit den Getreide-Preisen nicht erfreut habe. Doch weiß zu meinem
+                    Trost, da ich nicht nur Herrn <seg type="comment">
+                  <orig>Hofrat</orig>
+                  <note xml:id="nh4k_3fb_tcb">Dönhoff, vgl. die früheren Briefe.</note>
+               </seg>
+                    dahin gesprochen, sondern auch mit ihm bei einem Kaufmann verkauft, dass er die
+                    Erbsen und das Korn nicht so hoch verkauft. Es muss also hierbei ein Irrtum
+                    obwalten. Den Weizen, für den er 5 Fl. bekommen, hat er kurz vor <seg type="comment">
+                  <orig>Wendjahr</orig>
+                  <note xml:id="nytc_hlw_42b">Neujahr?</note>
+               </seg> nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> geschickt. Es ist aber nicht sein ganzer Vorrat,
+                    sondern nur eine kleine Quantität gewesen. Da ich nun zu der Zeit keine Fuhren
+                    nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> schicken konnte, um
+                    unsere schwachen Bauern nicht zu beschweren, weil dieses auch ein Hilfsmittel
+                    ist, dass sie in der Folge zu dem Wohlstand der Dönhoffstädtschen Bauern
+                    gelangen. Dass vorigen Sommer die Witterung für die Erbsen schon übel gewesen,
+                    wird Herr Graf <persName key="ed_shm_g3w_mbb">Dönhoff</persName> am besten
+                    bewusst sein, denn als er hier war, hat er sehr bezweifelt, dass die Erbsen zur
+                    Reife kommen würden, und dass, was ich mit dem 1 Scheffel Aussaat tun konnte
+                    (wovon die übersandte Probe erbauet ist), ließ sich nicht aufs ganze und alle
+                    Vorwerke extendieren, doch sind die grauen Erbsen bei hiesigem Vorwerk sehr gut
+                    geraten. Weil eben wegen den mehreren Kaltgrund und Nässe der Äcker auf den
+                    übrigen Vorwerken später gesät werden musste, sind solche viel schlechter
+                    geraten, und da ich auf die Zukunft sehe, so erspare von hiesigen guten Erbsen
+                    auch die Saat auf anderen Vorwerken. Doch nahm ich von hiesigen guten Erbsen 30
+                    Schfl., und damit erhielt ich den großen Vorteil, dass für die übrigen 180
+                    Schfl. auch 2 Fl. erhielt; hätte ich aber, um mit dem hiesigen Erbsen-Preis zu
+                    glänzen, die hiesigen allein verkauft, hätte einen viel höheren Preis, aber nur
+                    für 30 Schfl. bekommen, die übrigen 180 Schfl. aber wohl a 1 Fl. 6 Gr. oder
+                    höchstens 1 Fl. 12 Gr. p. Schfl. verkaufen müssen. Noch haben wir hier keinen
+                    Schnee und keinen Schlittweg.</p>
+                <p>den 15. Februar </p>
+            <p>Die Krüll-Kammer ist ausgeräumt; die Bretter zum Verkleiden der Balken zubereitet, und werden
+                    jetzt auf <seg type="comment">
+                  <orig>H. B. </orig>
+                  <note xml:id="nypl_llw_42b">so
+                            unklar</note>
+               </seg>Stube gebracht, wo täglich etwas eingeheizt werden
+                    wird, damit sie nachtrocknen. Befehlen Ew. Hochgeboren, dass ich anstelle der 3
+                    alten Fenster 4 neue einsetze, oder etwa die eine Öffnung gegen den Kutschstall
+                    zumauern lassen soll, denn wenn diese Eckstube 3 Fenster bekommt, wird sie sehr
+                    kalt sein und im Winter viel Holz erfordern, und da in der großen Schlafstube
+                    auch nur 2 Fenster und sie doch Licht genug hat, so würde auch diese an 2
+                    Fenster hinlänglich genug haben, und könnten solche in die Fronte des Hauses
+                    angebracht werden. </p>
+            <p>Der wegen seiner Geschicklichkeit allgemein berühmte Mann, so die Windmühle erbauen soll, ist
+                    bereits hier gewesen, und habe ich mit ihm Kontrakt geschlossen. Er hat den Bau
+                    vor 166 Rtlr. übernommen, wofür er die Mühle noch vor dem August völlig fertig
+                    macht, auch noch 4 Wochen Probe mahlen wird. Das Holz ist bereits ausgesucht,
+                    und da heute etwas Schnee gefallen, wird morgen mit Gottes Hilfe der Anfang mit
+                    den Holz-Zufuhren gemacht werden. Einige Fuhren mit 87 Schfl. Korn aus
+                        <placeName key="ed_f5m_fxv_mbb">Polen</placeName>, welche zu Schlitten nicht
+                    weiter kommen konnten, habe hier für 1 Fl. 21 Gr. p. Schfl. erkauft, und da
+                    dieses Korn, wie bekannt, sehr gut, werde es mit anschließendem Gewinn wieder
+                    verkaufen können. <seg type="comment">
+                  <orig>Es wird bei <placeName key="ed_z4n_nz1_tcb">Nikolaiken</placeName> ein <orgName key="ed_jmq_pz1_tcb">Königliches Magazin</orgName>
+                            erbauet,</orig>
+                  <note xml:id="nzbg_dpg_vbb">1773 waren bereits <quote>in
+                                und um <placeName key="ed_ypq_rnn_scb">Posen</placeName>
+                     </quote>
+                            solche Magazine <quote>ansehnlich vermehrt</quote> worden. Tagebuchblatt
+                            vom 15. März 1773, in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 486,
+                            Bl. 12.</note>
+               </seg> und allda Kalk mit 5 Fl., in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> aber sogar mit 8 Fl. die Tonne
+                    bezahlt, dahero hier keiner angekommen. Nun hatte vor 2 Tagen das Glück, dass
+                    einige Fuhren hier ankamen, welche ich sogleich ankaufte, doch aber die Tonne
+                    mit 3 Fl. bezahlen musste, und habe ich nun 50 Tonnen im Vorrat. Heute waren
+                    wieder 4 Fuhren, weil ich aber nicht mehr 3 Fl. p. Tonne zahlen wollte, so
+                    fuhren sie weiter, weil in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>,
+                        <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> p. 4 Fl. pro Tonne bezahlt
+                    wird. Sollte ich nicht etwa noch a 2 Fl. kaufen können, werde dieses Jahr den
+                    Kalk-Einkauf ganz einstellen, vielleicht wird solcher auf andere Jahre
+                    wohlfeiler sein. Bei der ersten diesjährigen Arrende-Zahlung habe, da es alsdann
+                    gewöhnlich, dem jüngeren <persName key="ed_yw5_yv1_vdb">Hoffmann</persName> die
+                        <placeName key="ed_xpm_112_gy">Lababsche</placeName> Arrende aufgekündigt und
+                    die <placeName key="ed_ohv_kf2_gy">Pristaniensche</placeName> angeboten, und
+                    nach Ew. Hochgeboren mündlicher gnädiger Versicherung, den alten ehrlichen
+                    Hoffmann bis an sein Ende auf <placeName key="ed_xpm_112_gy">Labab</placeName>
+                    beizubehalten und freie Wohnung zu geben, hat derselbe diese gnädige Offerte mit
+                    untertänigstem Dank angenommen. Es würde der junge Hoffmann zwar gern noch ein
+                    Jahr in <placeName key="ed_xpm_112_gy">Labab</placeName> wohnen, weil er erst
+                    auf Trinitatis 5 Jahre in der Arrende ist. Sein Kontrakt geht aber immer auf 3
+                    Jahre, und als solches zu Ende war, erhielt er nur die schriftliche Versicherung
+                    in einem von Ew. Hochgeboren bei dessen Anwesenheit an mich erlassenen
+                    Schreiben, dass ihm <placeName key="ed_xpm_112_gy">Labab</placeName> für die
+                    nämliche Arrende wie vorhero auch ferner gelassen würde, wobei aber nichts auf
+                    eine bestimmte Anzahl von Jahren festgesetzt wurde. Dahero er jetzt auch über
+                    die Aufkündigung nichts mit Recht einwenden kann, sondern Ew. Hochgeboren alles
+                    in Untertänigkeit unterwerfe. Da aber die Vorteile für Ew. Hochgeboren Interesse
+                    so groß und vielfältig, dass solche alle anzuführen sehr weitläuftig sein würde,
+                    so verbietet mir die meinem Herrn schuldige Treue, die fernere Verpflichtung
+                    dieses Vorwerks anrätig zu sein, besonders, da jetzt die Mühle auf dem
+                    Lababschen Felde erbaut und eine Müller-Wohnung daselbst besorgt werden muss. So
+                    ist die Administration dieses Vorwerks fast notwendig, und könnte man alsdann
+                    auch anfänglich den Windmüller im Lababschen Hofe logieren. Die Wassermühle kann
+                    nun ganz eingehen, daher da alles, so wie es jetzt ist, beibehalten bis zu Ew.
+                    Hochgeboren gnädiger Zurückkunft, da hierzu alle Gründe und Vorteile schriftlich
+                    auszuführen fast unmöglich, doch wenigstens sehr weitläuftig wäre. Die
+                    Hauptursache ist diese, weil die Wassermühle nun ganz überflüssig und unnötig
+                    sein würde. </p>
+            <p>Die Frl. v. <persName key="ed_hyb_zqv_scb">Gohr</persName> dankt untertänigst für das schöne
+                    Geschenk und empfiehlt sich Ew. Hochgeboren, der gnädigsten Frau Gräfin Gemahlin
+                    und jungen gnädigen Herrschaft zu Gnaden, welche Ehre mir auch untertänig
+                    erbitte. </p>
+            <p>Wegen des Verhältnisses des Scharwerks-Dienstes ist hier schon die Anfrage gewesen, aber nur ganz
+                    oben hin, im <orgName key="ed_vlp_qlb_tcb">Litauischen Departement</orgName>,
+                    war die Anfrage, ob wegen des Scharwerk-Dienstes zwischen der Herrschaft und den
+                    Untertanen Streitigkeiten obgewaltet und worinnen solche bestehen? Ist mit nein
+                    beantwortet. Im <orgName key="ed_ghg_5lb_tcb">Königsbergschen
+                        Departement</orgName> wegen <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> war die Anfrage zwar etwas weitläuftiger, doch aber
+                    auch nicht viel gründlicher, und es scheint, als ob diese Sache hier überhaupt
+                    nicht mit der gehörigen Genauigkeit betrieben werden wird. Bei <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> habe angezeigt, dass die Wirte
+                    bestimmte Dienste haben. </p>
+            <p>Wegen des Schmied würde wohl nur Herr Major von <persName key="ed_jdm_zy1_tcb">Unruh</persName>
+                    beleidigt werden, bei dessen Eskadron er steht, aber nicht das ganze Regiment,
+                    denn sie haben noch mehrere dergleichen Leute. <seg type="comment">
+                  <orig>Einen
+                            anderen Schmied werde leicht bekommen,</orig>
+                  <note xml:id="nqzf_wbn_xcb">Für die Jahre 1794-1797 ist durch ein Arbeitsbuch der Schmiedemeister
+                            Fried. Schmied in Steinort belegt, vgl. APO, Bestand 382 FA Lehndorff,
+                            Nr. 82.</note>
+               </seg> einen solchen geschickten Pferde- und Vieharzt
+                    werde aber schwerlich ausmitteln können, weil dergleichen Leute nur gar zu
+                    selten sind. Der hiesige Hengst ist beinahe hergestellt und die Kur ist
+                    meisterhaft und ist ein Beweis von großer Geschicklichkeit und Kenntnis und ist
+                    der Mann der Mühe wert, ihn loszumachen. Vor einigen Tagen wurde der Martin
+                        <persName key="ed_qnc_s2b_tcb">Waschke</persName>, der einzige Knecht auf
+                    dem Vorwerk <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, von dem
+                    Posadowskischen Regiment zur Abgabe an die Artillerie beordert. Ich habe
+                    sogleich an <seg type="comment">
+                  <orig>Herrn <persName key="ed_zny_zpv_scb">General</persName>
+                  </orig>
+                  <note xml:id="ntzg_dmb_tcb">Heinrich
+                            Wilhelm von Anhalt</note>
+               </seg> und den jetzigen Adjutanten, <seg type="comment">
+                  <orig>Lieutenant von <persName key="ed_qhx_gxv_scb">Zuardowsky</persName>
+                  </orig>
+                  <note xml:id="ndlx_2mb_tcb">von
+                            Czudnochowsky</note>
+               </seg> geschrieben und die dringendste Vorstellung
+                    und Bitte wegen seiner Loslassung angewandt, worüber nächstens Antwort erwarte.
+                    Noch vor dem 25. hui. muss sich dieses entscheiden, weil er alsdann entweder
+                    frei oder schon auf dem Transport ist. </p>
+                <p>Die Krankheiten dauern hier noch immer fort, auf <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> ist der Gärtner <persName key="ed_vtz_3mb_tcb">Riworra</persName> gestorben. Kaum erholen sich einige, so sind doch bald
+                    wieder andere krank,. Mein Martin war seinem Ende auch schon nahe, ich bin mit
+                    seiner Aufführung als Mensch zufrieden. Herr <persName key="ed_xcb_gsw_mbb">Mondzig</persName> gibt sich bei den Kranken viel Mühe. <persName key="ed_bnz_hjt_ncb">Kahnert</persName> bewirbt sich um einen Dienst als
+                    Comiss in <placeName key="ed_nnd_ztf_nbb">Warschau</placeName>, danket
+                    untertänigst für gnädige Andenken, er würde dadurch sehr erfreuet. </p>
+				        <closer>
+					          <salute>Ich ersterbe mit tiefem Respekt <lb/>Ew. Hochgeboren untertänigster Diener</salute>
+					          <signed>Rhenius</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

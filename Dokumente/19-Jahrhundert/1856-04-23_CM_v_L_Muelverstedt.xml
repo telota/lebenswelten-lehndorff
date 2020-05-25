@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_kgm_thg_qcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Meinhard Graf von Lehndorff an George Adalbert von Mülverstedt.
+                    Steinort, 23. April 1856</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_kgm_thg_qcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA M</institution>
+                        <idno>E 130 George Adalbert von Mülverstedt, Nr. 36/1: Ad Genealogiam der
+                            Grafen von Lehndorff, Bl. 46-47</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard Graf von
+                        (Königsberg, 20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1856-04-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_my1_zlb_1bb">Mülverstedt, George Adalbert von
+                        (1825-1914)</persName>
+                </correspAction>
+                <note>Mülverstedt wurde für Lehndorff in dessen Fideikommiss-Angelegenheit tätig,
+                    vgl. in der Akte Bl. 48-48v. Am 13. Juni 1856 bat Lehndorff um Auskünfte zu
+                    Formulierungen, die Mülverstedt mit <persName key="ed_esl_ywl_ddb">Ohlen</persName> nochmals besprechen sollte.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute>Ew. Hochwohlgeboren</salute>
+                </opener>
+                <p>habe ich heute zu sehen sicher gewünscht, jedoch nicht antreffen können. Es wäre
+                    mir sehr interessant gewesen, über den mit so vielem Scharfsinn, Fleiß und
+                    Interesse verfassten <seg type="comment">
+                  <orig>Aufsatz in den Preußischen
+                            Provinzialblättern über den Ursprung unserer Familie </orig>
+                  <note xml:id="nr41_cch_qcb">Mülverstedt, George Adalbert von, Ursprung und
+                            Alter des gräflich von Lehndorffschen Geschlechts, in: Neue Preußische
+                            Provinzialblätter, Jg, 1856, S. 1-30 und 89-110. Dem Aufsatz folgten
+                            weitere Arbeiten, z. B. Ein neuer Beitrag zur Untersuchung über des
+                            Geschlechts von Lehndorff Herkunft und Heimath, in: Masovia 10 (1904),
+                            S. 60–117, 11 (1906), S. 173–176. Auch Gustav <persName key="ed_gvq_lwl_ddb">Sommerfeldt</persName> setze sich - zum Teil
+                            kontrovers zu Mülverstedts - mit der Familiengeschichte auseinander,
+                            vgl. u. a. dessen Aufsätze Über die ältesten Stammsitze des Geschlechts
+                            der Reichsgrafen von Lehndorff, in: Sonntags-Beilage der Ostpreußischen
+                            Zeitung, Nr. 89, 16. April 1899; Die von Legendorff im 13. bis 15.
+                            Jahrhundert, in: Zeitschrift des Westpreußischen Geschichtsvereins 46
+                            (1904), S. 103–119; Lehndorffiana des 17. Jahrhunderts, in: Masovia 11
+                            (1906), S. 101–109; 12 (1907), S. 119–139; Über die ältesten preußischen
+                            Stammsitze des Geschlechts der Reichsgrafen von Lehndorff, in:
+                            Altpreußische Monatsschrift 36 (1899), S. 287–302; Urkundliche
+                            Mitteilungen über die Herren von Lehndorff aus dem Hause Doliewen
+                            1630–1682, in: Altpreußische Monatsschrift 36 (1899), S. 414–427; Zur
+                            Lehndorff-Genealogie, in: Zeitschrift des Westpreußischen
+                            Geschichtsvereins 49 (1907), S. 101–130; 55 (1913), S. 49–75; Das
+                            Statzen-Maxkeimer Geschlecht des Grafen von Lehndorff, in:
+                            Vierteljahresschrift für Wappen-, Siegel- und Familienkunde 29 (1901),
+                            Heft 3; Die Lage des Deutschen Ordens nach der Schlacht bei Tannenberg
+                            und die Anfänge der „Verschwörung“ des Georg von Wirsberg, in:
+                            Zeitschrift des Westpreußischen Geschichtsvereins 51 (1909), S. 53–71;
+                            Die Lehndorff-Gräber in der Kirche zu Haffstrom bei Königsberg, Ostpr.,
+                            in: Der Deutsche Herold 37 (1906), S. 63–67; Die von Legendorff im 13.
+                            bis 15. Jahrhundert, in: Der Deutsche Herold 35 (1904), S. 110; Drei
+                            Handfesten aus ehemals Lehndorffschem Gebiet, 1373, 1446, 1473, und
+                            einige die ältere Vergangenheit dieses Geschlechts betreffende
+                            anderweitige Urkunden, 1424, 1454, 1476, 1484, in: Masovia 12 (1907), S.
+                            142–153. </note>
+               </seg> mich mit Ew. Hochwohlgeboren zu unterhalten und
+                    Ihnen es auszusprechen, wie dankbar wir diese Teilnahme an unserer
+                    Familienvorzeit empfinden.</p>
+                <p>Auch aus anderen Gründen bedaure ich sehr abreisen zu müssen, ohne Sie gesehen zu
+                    haben; ich habe nämlich einige Bitten, zu denen mich Ew. Hochwohlgeboren so
+                    freundschaftlich ausgesprochene Bereitwilligkeit zu dgl. Hilfeleistungen
+                    ermächtigt. </p>
+                <p>Der Geheime Obertribunalsrat Freiherr von <persName key="ed_esl_ywl_ddb">Ohlen</persName>
+                    <gap reason="illegible"/> hat mir in Bezug auf meine Fideikommiss-Urkunde einige
+                    Bedenken aufzustellen die Güte gehabt. Leider erlaubt mir die Kürze meines
+                    hiesigen Aufenthalts nicht, diese Vereinbarungen in gründlich besprochener Weise
+                    und überlegter juristischer Redaktion in meine Urkunde aufzunehmen. Wollen Sie
+                    dies für mich tun? Es handelt sich darum, Ohlen zu besuchen - der außer
+                    Donnerstag täglich zu sprechen ist -, mit ihm ein paar Stunden zu verabreden, in
+                    denen er Ihnen seine Ideen darlegt, und dann bei ihm oder zu Hause die
+                    betreffenden §§ einzuarbeiten. Diese Sache ist nun drängend und eilig - wollen
+                    Sie mir darin helfen, so würden Sie mich sehr verbinden.</p>
+                <p>Ich habe ferner gehört, dass Ew. Hochwohlgeboren eine Stammbaum-Ahnentafel
+                    unserer Familie zusammengestellt haben. Sie können sich wohl denken, wie sehr es
+                    mich interessieren würde, Abschriften von dieser Arbeit zu lesen und mit reichem
+                        <gap reason="illegible"/> zu <gap reason="illegible"/>. Wollen Sie mir eine
+                    solche zugehen lassen, so würde ich mich sehr dankbar verpflichtet
+                    fühlen.</p>
+               
+                <closer>
+                    <salute>In <gap reason="illegible"/> Hochachtung habe ich die Ehre zu sein
+                        <lb/>Ew. Hochwohlgeboren ganz ergebener </salute>
+                    <signed>Gf. Lehndorff</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>PS. Wollte Ew. H. mir geneigtest gestatten wie H. <gap reason="illegible"/> sie
+                    bei eben <gap reason="illegible"/>  Zeit anzufertigen?</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

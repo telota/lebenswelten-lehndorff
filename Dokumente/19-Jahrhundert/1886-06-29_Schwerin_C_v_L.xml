@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xn4_frh_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Graf von Schwerin? an Carol Graf von Lehndorff. 29. Juni 1886</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xn4_frh_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Repräsentation/Geselligkeit</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 173, Bl. 11-12</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date when="1886-06-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ik3_ckz_2y">Lehndorff-Steinort, Carol Meinhard Graf von
+                        (1870-1936)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/3/173/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>
+                  <gap reason="illegible"/>, 29. Juni 1886</dateline>
+					          <salute>Mein verehrter Herr Graf!</salute>
+                </opener>
+                <p>Ich bin der Frau <persName key="ed_wms_mh2_cy">Gräfin</persName> und Ihnen sehr
+                    dankbar für die liebenswürdige Einladung zur <rs type="term" key="ed_hbw_trh_my">Jagd</rs>. Für den 2. und 3. hatte ich Musterung in <placeName key="ed_qff_bxl_2y">Allenstein</placeName> angesetzt, habe es aber möglich
+                    gemacht, das Musterungs-Geschäft auf den 1. und 2. Juli zu verlegen, so dass ich
+                    am 2. Juli am 11.30 Uhr von Allenstein abreisen kann und um 1.29 Nachmittags in
+                        <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> eintreffe und gegen 5
+                    Uhr <placeName key="ed_pxt_cnh_1y">Steinort</placeName> erreiche. So könnte ich
+                    wenigsten am 3. die <seg type="comment">
+                  <orig>Jagd</orig>
+                  <note xml:id="nr4t_zms_gbb">Die betreffenden Akten sind dezimiert; erhalten
+                            sind lediglich Akten für die Jahre 1800 und 1881 bis 1883, LASA, StA L,
+                            Bestand 21950 FA Lehndorff, Nr. 290 und 291. Lehndorff war auch
+                            Preisrichter internationaler Jagdveranstaltungen, so der
+                            „Internationalen Preis-Suche für Hasen- und Fuchs-Meuten‟, im
+                            November1881 in Hannover (Nr. 291, Bl. 23-24). </note>
+               </seg> mitmachen.
+                    Sollte es nicht möglich sein, mir ein Gefährt nach Rastenburg zu schicken, so
+                    haben Sie doch die Güte, einen Wagen von der Posthalterei in Rastenburg zu
+                    beschaffen, der mich auf dem Bahnhof bei Ankunft erwartet.</p>
+				        <closer>
+					          <salute> Indem ich bitte, mich der Grau Gräfin zu Füßen zu legen, bin ich mit bestem Gruß Ihr
+                        ergebener</salute>
+					          <signed>v. <unclear reason="illegible" cert="low">Schwerin</unclear>
+               </signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

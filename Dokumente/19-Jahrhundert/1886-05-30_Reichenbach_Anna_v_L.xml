@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_vpj_d2g_4y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Adelheid Gräfin von Reichenbach an Anna Gräfin von Lehndorff. Paris, 30. Mai 1886</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_vpj_d2g_4y</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 454, Bl. 6-6v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_qr1_j2g_4y">Reichenbach, Adelheid Gräfin von, geb. Gräfin von
+                        Schlippenbach (1803-1888)</persName>
+                    <placeName key="ed_uyx_nvn_my">Paris</placeName>
+                    <date when="1886-05-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Adelheid Gräfin von Reichenbach war die Tante Anna von Lehndorffs.</note>
+            </correspDesc>
+            </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/454/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Paris, 30. Mai 1886</dateline>
+                    <salute>Meine liebe süße Anna!</salute>
+                </opener>
+                <p>
+               <note type="editorial">Sie schreibt über ihren Geburtstag. </note> Meine Anna,
+                    heute komme ich mit einer Bitte zwar nicht direkt an Dich, aber durch Deine
+                    entremise an <persName key="ed_crx_t2m_2y">Carl</persName>. Und wiederum ergeht
+                    nicht die Bitte von mir, sondern von <persName key="ed_acy_1kc_d2b">Bogdan</persName>. Und um die Weitläufigkeiten weiter zu spinnen: wiederum
+                    nicht für Bogdan selbst, sondern für seinen guten Bekannten, <seg type="comment">
+                  <orig>den jungen <persName key="ed_ajz_4hq_mfb">Gerlach</persName>,
+                            Neffe des Präsidenten, von diesem nebst seinem Bruder bei dem Tode ihres
+                            Vaters als Söhne angenommen und erzogen.</orig>
+                  <note xml:id="ninc_51w_jlb">Gerlach, Jürgen von, Von Gerlach. Lebensbilder
+                            einer Familie in sechs Jahrhunderten, Insingen 2015 (Deutsches
+                            Familienarchiv, Bd. 160). </note>
+               </seg> Beide junge Männer machen ihrem
+                    Namen wieder Ehre, und der eine von ihnen, der in diesen Tagen sein
+                    schriftliches Assessor-Examen in <placeName key="ed_ot2_ffg_4y">Halle</placeName> macht, will gleich darauf nach <placeName key="ed_uyx_nvn_my">Paris</placeName> reisen und sich eine Zeit hier
+                    aufhalten. Da würde es Bogdan nun so ungemein viel Freude machen, ihm ein wenig
+                    nützlich sein zu können, und er bittet mich dringend darum. Was aber können wir
+                    großartig für ihn Bekanntschaften schaffen, die wir hier, wie Carol das weiß,
+                    eingezogener als in <placeName key="ed_yps_bwn_my">Basedow</placeName> oder
+                        <placeName key="ed_xf5_pb4_my">Dessau</placeName> leben? Aber ich habe einen
+                    sehr ausgezeichneten Neffen, der hier in <placeName key="ed_uyx_nvn_my">Paris</placeName> als Lion der diplomatischen Zirkel wie ich glaube selbst
+                    in intimer Beziehung zum Kaiser stand. An diesen nun wende ich mich mit der
+                    herzlichen dringenden Bitte um einige Empfehlungsschreiben. Mein Carol, sei
+                    nicht zu faul und nicht zu vorsichtig diplomatisch dazu! Gegen die Faulheit
+                    sollen die vielen süßen Weiber, die, laut Herzens-Kabinettsstück sehr süß sein
+                    können, helfen, und Dich zu schneller Erfüllung - denn auf diese kommt es hier
+                    an - treiben, und die Vorsicht überwunden oder vielmehr befriedigt werden, durch
+                    die Dir dem Namen und dem Wesen nach geschilderte Persönlichkeit, die dieser
+                    Empfehlung nur Ehre bringen kann. Mein Carol, tue Du es, und meine Anna, zwinge
+                    Du Deinen lieben Ältesten zu sofortiger Erfüllung. Bitte, bitte, bitte! Einer
+                    von denen, an die Carol ihn wohl jedenfalls empfehlen kann, ist Rosenberg. Aber
+                    doch wünschte ich es dringend noch etwas weiter entendiert zu sehen. </p>
+                <p>
+               <note type="editorial">Von Annas 50 Frcs seien noch 28 übrig, da das Kleid 22
+                        Frcs gekostet habe. Anna möge schreiben, ob sie dafür noch etwas besorgen
+                        soll.</note>
+            </p>
+                <closer>
+                    <signed>Dein Tantino</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

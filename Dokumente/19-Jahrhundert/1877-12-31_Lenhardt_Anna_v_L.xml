@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zsm_jtd_py">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Friedrich Wilhelm Lenhardt an Anna Gräfin von Lehndorff. Angerburg,
+                    31. Dezember 1877</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zsm_jtd_py</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 622, Bl. 4-5</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_erx_ltd_py">Lehnhardt, (-)</persName>
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    <date when="1877-12-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Anna Gräfin von Lehndorff war demnach Mitglied der ostpreußischen <orgName key="ed_vp1_rn5_ncb">Provinzial-Oberlinvereins</orgName> und zahlte für das
+                    Jahr 1880 6 Mark Beitrag, vgl. APO, Bestand 382 FA Lehndorff, Nr. 586, Bl. 6.
+                    Zum Oberlinverein <ref target="https://de.wikipedia.org/wiki/Verein_Oberlinhaus">https://de.wikipedia.org/wiki/Verein_Oberlinhaus</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/622/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Angerburg, 31. Dezember 1877</dateline>
+                    <salute>Gnädigste Frau Gräfin!</salute>
+                </opener>
+                <gap reason="insignificant"/>
+                <p>Was die mir gütigst übersandten Blätter betrifft, so habe ich die <seg type="comment">
+                  <orig>evangelische Volks-Kirchenzeitung</orig>
+                  <note xml:id="ni4c_jww_f2b">Evangelische Kirchenzeitung, hrsg. von E. W.
+                            Hengstenberg, Berlin</note>
+               </seg> mit Interesse gelesen und sie dann bei
+                    einzelnen Seelen zirkulieren lassen. Für die Flugblätter des <seg type="comment">
+                  <orig>Reichsboten</orig>
+                  <note xml:id="nnjw_zvw_f2b">
+                     <ref target="https://de.wikipedia.org/wiki/Der_Reichsbote"/>
+                  </note>
+               </seg>
+                    habe ich bis jetzt in der Stadt zehn eifrige Leser aus den Kreisen der Lehrer an
+                    der Stadtschule, Taubstummenanstalt und am Seminar sowie auch vier aus dem
+                    Bürgerstand gefunden. <seg type="comment">
+                  <orig>Auf dem Land habe ich noch wenig
+                            anknüpfen können; jedoch weiß ich, dass die regelmäßige Zusendung den
+                            Lehrern <persName key="ed_ahf_gvd_py">Milthaler</persName>-<placeName key="ed_t32_vvd_py">Kehlerwald</placeName>, <persName key="ed_qkz_3vd_py">Hoffmann</persName>-<placeName key="ed_jn5_yvd_py">Wilkowen</placeName>, <persName key="ed_q2v_kvd_py">Rechow</persName>
+                            <persName key="ed_yck_r5l_ngb">Ecker</persName>-<placeName key="ed_frm_cwd_py">Buddern</placeName> und dem neuen Lehrer in
+                                <placeName key="ed_xyj_2wd_py">Wenzken</placeName> per Buddern,
+                            dessen Namen ich leider wieder vergessen habe, recht willkommen sein
+                            würde.</orig>
+                  <note xml:id="nisn_wtl_ngb">Vgl. Angerburger Landschulen.
+                            Dokumentation über die 77 Dorfschulen im Kreis Angerburg/Ostpreußen,
+                            Angerburg 1983, S. 52-54, 85, 83 ff.; Braumüller, Bernhard, Angerburg
+                            von A-Z. Ein Nachschlagewerk über den Kreis Angerburg, 4. Aufl.,
+                            Rotenburg (Wümme) 2008, S. 315 f., 499; Pfeiffer, Erich, Der Kreis
+                            Angerburg. Ein ostpreußisches Heimatbuch, 2. Aufl., 1998, S. 357.
+                        </note>
+               </seg> Die mir übrig bleibenden Exemplare habe ich einem für
+                    christliche Zwecke ungemein tätigen und brauchbaren Mann, der für die <orgName key="ed_vp1_rn5_ncb">Oberlin-Stiftung</orgName> im ganzen Kirchspiel
+                    kollektiert, nebst anderen kleinen Erbauungschriften mitgegeben; einerseits, um
+                    ihm durch solche kleine Gegengabe leichter Eingang zu verschaffen, anderseits,
+                    um durch ihn Persönlichkeiten auf dem Land kennenzulernen, die die Flugblätter
+                    mit Interesse, aber auch mit Nutzen lesen möchten. Sobald er mir rapportiert,
+                    werde ich nicht verfehlen, Ihnen die geeigneten Adressen zugehen zu lassen. Bis
+                    dahin würden Sie mich erfreuen, wenn Sie mir monatlich mindestens 12 Flugblätter
+                    für den Bedarf der Stadt wollen zukommen lassen. Für andere Bücher danke ich
+                    vorläufig, da ich jetzt meine ganze Zeit auf wissenschaftliche Arbeiten
+                    verwenden muss, werde jedoch bei freier Zeit dankbar von Ihren gütigen Arbeiten
+                    Gebrauch machen.</p>
+                <closer>
+                    <salute>Mich Ihrem geneigtesten Wohlwollen auch für das neue Jahr empfehlend,
+                        bleibe ich Euer Hochgeboren treu ergebener</salute>
+                    <signed>Lenhardt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

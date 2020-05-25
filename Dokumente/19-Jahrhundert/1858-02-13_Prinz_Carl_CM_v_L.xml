@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_orc_f3h_t1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Carl von Preußen an Carl Meinhard Graf von Lehndorff. Berlin, 13.
+                    Februar 1858</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_orc_f3h_t1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 53, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_a4l_ltl_wcb">Preußen, Carl Prinz von (1801-1883)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1858-02-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Der Akte liegen das Gelübde, die allgemeinen Statuten (17. Dezember 1853) und
+                    die der Ballei Brandenburg (24. Juni 1853) sowie „Mitteilungen über die
+                    Organisation und Tätigkeit der Balley Brandenburg des Johanniter-Ordens‟ (Ms.,
+                    Juni 1857) bei. Am 26. Februar 1858 übersandte ihm der Kanzler des
+                    Johanniter-Ordens die Insignien und bat um Überweisung von 300 Rtlr.
+                        <quote>Eintrittsgeld</quote>. Lehndorff hatte sich zu entscheiden, ob er
+                    sich direkt der Ballei Brandenburg oder einer Provinzial-Genossenschaft
+                    unterstellen wolle. Er wählte die Genossenschaft in der Provinz Preußen, die dem
+                    Kammerherrn und Legationsrat Burggraf und Graf <persName key="ed_jwr_lgz_g1b">Friedrich zu Dohna-Schlobitten</persName> als Kommendator unterstand. Die
+                    Quittung über das an die Ballei Brandenburg gezahlte Eintrittsgeld in: LASA, StA
+                    L, Bestand 21950 FA Lehndorff, Nr. 261, Bl. 170. Siehe auch: LASA, StA L, Bestand
+                    21950 FA Lehndorff, Nr. 45: Liste der Mitglieder der Provinzialgenossenschaft
+                    des Johanniter-Ordens, 1854-1881, beiliegend Quittung für Carl Meinhard Graf von
+                    Lehndorff über gezahlte <quote>50 Mark Beitrag für das Jahr 1883</quote>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Wir <persName key="ed_a4l_ltl_wcb">Friedrich Carl Alexander</persName>, von
+                    Gottes Gnaden Prinz von Preußen, Herrenmeister der Balley Brandenburg des
+                    ritterlichen Ordens St. Johannis vom Spital zu Jerusalem, tun kund und fügen
+                    hiermit zu wissen, dass Seine Königliche Majestät von Preußen, Landesherr und
+                    Patron dieser Bailley, den Legationssekretär zur Disposition<persName key="ed_zkm_whl_2y"> Carl Meinhard Heinrich Friedrich Wilhelm August Grafen
+                        von Lehndorff </persName> auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zum <seg type="comment">
+                  <orig>Ehrenritter</orig>
+                  <note xml:id="nyvf_w5t_3lb">
+                     <ref target="https://ordensmuseum.de/Ordensstatuten/bundesrepublik/der-johanniterorden/">Wer sich zu den in der Ordensregel und in dieser Satzung
+                                festgelegten Pflichten bekennt, kann, wenn er mindestens 25 Jahre
+                                alt ist, als Ehrenritter aufgenommen werden. Die Ehrenritter werden
+                                mit Zustimmung des Kapitels vom Herrenmeister ernannt. Der
+                                Herrenmeister erteilt ihnen den Ehrenritterbrief; der Kommendator
+                                verpflichtet sie. Wer sich im Sinne des Ordens besonders bewährt
+                                hat, kann zum Rechtsritter ernannt werden. Ein Rechtsritter soll in
+                                der Regel mindestens 40 Jahre alt sein und sieben Jahre Ehrenritter
+                                gewesen sein. Der Herrenmeister ernennt die Rechtsritter mit
+                                Zustimmung des Kapitels. Die Ernennung wird mit dem Ritterschlag
+                                durch den Herrenmeister wirksam</ref>.</note>
+               </seg> dieses Ordens
+                    Allergnädigst zu ernennen geruht haben, weshalb Wir als Herrenmeister der Balley
+                    Brandenburg demselben darüber das gegenwärtige Patent unter Unserer
+                    Höchsteigenhändigen Unterschrift ausfertigen und solches mit Unserem
+                    Ordens-Insiegel versehen lasen. </p>
+				        <closer rend="paragraph">
+                        <dateline>So geschehen Berlin, den 13. Februar 1858</dateline>
+                        <signed>Carl Prinz v. Preußen</signed>
+                    </closer>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ojn_qbw_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lina von Perbandt an Anna Gräfin von Lehndorff. Düsseldorf, 10. Oktober
+                    1887</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ojn_qbw_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 506, Bl. 17-18v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_fyw_2wh_h2b">Perbandt, Lina von (-)</persName>
+                    <placeName key="ed_dff_cbn_zcb">Düsseldorf</placeName>
+                    <date when="1887-10-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Siehe ihren früheren Brief in dieser Sache in der Akte. Demnach wollte sie
+                    sich an Frau von <persName key="ed_ufk_jr1_h2b">Woyna</persName> mit der Bitte
+                    wenden, sie bei sich aufzunehmen, damit sie malen lerne, oder ihr eine Stelle
+                    als Gesellschafterin zu beschaffen. Wrangel habe ihr erzählt, sie sei mit 24
+                    Jahren Witwe geworden und habe einen Herrn von Ziegler geheiratet, von dem sie
+                    sich scheiden lassen musste, weil er ein Spieler war. Das sei ihr aus Ostpreußen
+                    bestätigt. Sie wolle sich nicht eher an Frau Woyna wenden, bevor Anna Lehndorff
+                    als <quote>Nachbarin</quote> ein Urteil abgebe. - Zur Landschaftsmalerin Lina
+                    von Perbandt <ref target="https://de.wikipedia.org/wiki/Lina_von_Perbandt">https://de.wikipedia.org/wiki/Lina_von_Perbandt</ref>.</note>
+            </correspDesc>
+            <abstract>
+                <p>Sie dankt für die erhaltene Antwort. Diese bestätigt ihr, dass ihre Vermutung
+                    über Frau von <persName key="ed_wjt_nwh_h2b">Wrangel</persName> richtig sei: sie
+                    sei <quote>gutmütig, leichtsinnig im Geldpunkte und vergnügungssüchtig</quote>.
+                    Sie habe sich jedoch nie als reich ausgegeben, nur ihr Auftreten habe dies
+                    vermittelt, sie habe sich sogar Pferd und Wagen anschaffen wollen. Ihre
+                    Schwägerin habe ihr aus <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>
+                    von dem <quote>enormen Reichtum</quote>des Vaters geschrieben. Warum diese sie
+                    zu ihrer Vertrauten in <placeName key="ed_dff_cbn_zcb">Düsseldorf</placeName>
+                    gewählt habe, sei ihr unklar <quote>bei der großen Verschiedenheit unserer
+                        Anschauungen</quote>, zumal sie eine Ostpreußin sei und deren Verhältnisse
+                    ihr nicht unbekannt bleiben würden.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/506/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

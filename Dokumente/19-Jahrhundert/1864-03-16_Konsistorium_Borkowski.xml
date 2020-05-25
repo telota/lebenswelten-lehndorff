@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_rsv_kbn_4bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Evangelisches Konsistorium der Provinz Ostpreußen  und Königliche Regierung
+                    an Johnn Carl Borkowski. Königsberg, den 16. März 1864. Gumbinnen, den 23. Februar
+                    1864</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_rsv_kbn_4bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>EZA</institution>
+                        <idno>Bestand 507, Nr. 2043, Bl. 55</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_fgn_hkv_ccb">Evangelisches Konsistorium der Provinz Ostpreußen,
+                        Königsberg</orgName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1864-03-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_myw_dfy_ybb">Borkowski, (-)</persName>
+                </correspAction>
+                <note>Zu den <quote>kirchlichen Notständen in Masuren</quote> in den 1860er Jahren
+                    siehe die Berichte des Generalsuperintendenten der Provinz Preußen, Dr.
+                        <persName key="ed_ewv_5ds_d2b">Moll</persName>, an den Evangelischen
+                    Oberkirchenrat in Berlin vom 29. Januar 1861 und 18. November 1864 in: EZA
+                    7/19141, Bl. 27- 34, 71-80, sowie die <quote>Erinnerungen eines alten
+                        Kirchschullehrers aus dem Kirchenleben in Masuren</quote> in: EZA 7/19142,
+                    Bl. 15 ff. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>
+               <seg type="comment">
+                  <orig>In den meisten Kirchen unseres Bezirks hat der Kirchengesang wie
+                            das Orgelspiel noch nicht die Würdigung und Pflege gefunden, die dem
+                            erbaulichen Gottesdienste unentbehrlich ist. Fast überall sind nur die
+                            gangbarsten Melodien zur Geltung gekommen und weder den Vor- und
+                            Nachspielen noch dem Vortrage der Choräle selbst hat man die
+                            erforderliche Sorgfalt zugewandt.</orig>
+                  <note xml:id="nplr_f2y_pcb">Vgl.
+                            die Ausführungen des Predigers <persName key="ed_u1d_22s_d2b">Oldenberg</persName> für den Central-Ausschuss für innere Mission
+                            in: EZA 7/19141, Bl. 152 ff., vor allem ab Bl. 54 über das religiöse
+                            Leben, Kirchen und Gottesdienste: <quote>Nachdem die Orgel zu spielen
+                                beginnt, hebt der Gesang an. Der Masur singt zwar gern, viel und
+                                laut. Er singt mit innerer Beteiligung. Er hat ein reiches
+                                Gesangbuch, das die schönsten auch unsere deutschen Kirchenlieder in
+                                edler Übertragung enthält. Das masurische Gesangbuch ist ein
+                                wertvoller Volksschatz.</quote>
+                        </note>
+               </seg>
+            </p>
+                <p>Um diesen Übelständen abzuhelfen, hat das Königliche Ministerium die Einrichtung
+                    einer <orgName key="ed_zpl_h2s_d2b">Gesang- und Orgelschule </orgName>in
+                        <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> genehmigt. Dieselbe ist
+                    unter der Leitung des Kantors <persName key="ed_e5p_c2s_d2b">Ungewitter</persName> in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> während der letzten Sommer-Schulferien eröffnet und
+                    haben an dem ersten Kursus 7 Organisten resp. Lehrer mit günstigem Erfolge
+                    teilgenommen. In den kommenden Jahren wird allmählich auch den übrigen Kantoren
+                    und Lehrern gleiche Gelegenheit zum Fortschreiten in diesem wichtigen Teile
+                    ihrer Funktion geboten werden. </p>
+                <p>Um diese Förderung des erbaulichen Kirchengesanges und Orgelspieles aber
+                    allgemein und nachhaltig zu machen, wenden wir uns im Einvernehmen mit dem
+                    Königlichen Konsistorium an Euer Hochwürden mit dem Auftrage, gemeinsam mit
+                    Ihren Synodalen dafür zu sorgen, dass tunlichst jeden Monat eine der bisher
+                    unbekannt gebliebenen Melodien den Gemeinden zugänglich gemacht, geübt, auch
+                    darauf zu halten, dass den Organisten die Lieder für den kommenden Sonntag schon
+                    in den ersten Tagen der Woche gegeben werden, damit die Organisten wohl
+                    vorbereitet mit angemessenen Prä- und Postludium zur wirklichen Erbauung der
+                    Gemeinde die Choräle würdig vortragen. </p>
+                <p>Den Kirchschullehrern ist daneben das Vertrauen auszusprechen, dass sie von ihrer
+                    Seite allen Fleiß zur Hebung der kirchlichen Andacht verwenden werden, zugleich
+                    aber auch bemerklich zu machen, dass hierin etwa Saumselige mit Nachdruck zu
+                    ihrer Pflicht angehalten werden und nach Befinden solchen noch eine besondere
+                    Prüfung im Orgelspiel und Kirchengesange auferlegt werden wird.</p>
+                <p>Sollte es irgendwo an geeigneten Vor- und Nachspielen fehlen, so ist der Dirigent
+                    der Gumbinnener Orgelschule zu näherer Auskunft gern erbötig.</p>
+                <p>Über die Erfolge, welche die Nachachtung dieser Verfügung bringen wird, erwarten
+                    wir in jedem Kirchenvisitationsbericht eingehende Auskunft.</p>
+				        <closer>Königsberg, den 16. März 1864.                      Gumbinnen, den 23. Februar
+                        1864<salute>Königliches Konsistorium                              Königliche
+                        Regierung, Abteilung des Innern </salute>
+                    <signed>gez. Eichmann                                                gez.
+                        Kühnast</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>Abschrift zur Kenntnisnahme und Nachachtung, </p>
+            <p>Gumbinnen, den 29. März 1864
+                    </p>
+            <p>Königliche Regierung, Abteilung des Innern <unclear reason="illegible" cert="high">Licher</unclear>
+            </p>
+                <p>An den Herrn Pfarrer Borkowski Hochwürden in Rosengarten</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

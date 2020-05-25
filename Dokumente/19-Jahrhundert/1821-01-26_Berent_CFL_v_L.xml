@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_kjb_fd5_s3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich August Berent an Carl Friedrich Ludwig Graf von Lehndorff.
+                    Steinort, 16. Januar 1821</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_kjb_fd5_s3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 868, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yx5_cbg_nbb">Berent (Behrends), Friedrich August
+                        (1773-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1821-01-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Schon in seinem Brief vom 13. Februar 1820 (ebd., Nr. 867) hatte <persName key="ed_yx5_cbg_nbb">Berent</persName> geklagt, er ergreife „die Feder mit
+                    Missvergnügen, indem ich selten einen Bericht abstatten kann, den nicht
+                    unangenehme Folgen begleiten‟: schlechte Getreidepreise, akuter Geldmangel,
+                    ausbleibende Pachtzahlungen und schlechte Wirtschaft der Pächter, hohe
+                    Kontributionen und Steuern, heftige Auseinandersetzungen mit den Bauern, Zustand
+                    der Kirche in Rosengarten. Das setzte sich auch im Folgejahr fort. - Im Brief
+                    vom 28. Februar 1821 (ebd., Nr. 868) musste <persName key="ed_yx5_cbg_nbb">Berent</persName> den Tod des Arztes <persName key="ed_oxt_jzb_tcb">Kaiser</persName> mitteilen, den er ohne „Gepränge ordentlich auf unserem
+                    Kirchhof seinem Stande gemäß begraben lassen‟ habe. 182 Lämmer waren bisher
+                    geboren worden und am Leben, dagegen waren die Preise für landwirtschaftliche
+                    Produkte noch immer „miserable‟. Auf Anordnung der Regierung musste Berent 81
+                    Scheffel Korn für 66 preußische Groschen in die Königlichen Magazine nach
+                        <placeName key="ed_olw_h3d_py">Tilsit</placeName> und <placeName key="ed_rdg_jkc_gy">Insterburg</placeName> liefern, die nicht gleich bar
+                    bezahlt wurden, woraus sich <persName key="ed_k4z_jgl_2y">Lehndorff</persName>
+                    einen „Begriff von den armseligen Zeiten, die hier herrschen‟, machen könne. Der
+                    Pächter in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> bestand trotzdem
+                    auf ein neues Haus, die Bauten in <placeName key="ed_xpm_112_gy">Labab</placeName> und <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                    ließen sich  um ein Jahr verschieben. Die Schule in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> musste aber gebaut werden und auch
+                    der Kirchenbau in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> war
+                    unabwendbar. Frau von <persName key="ed_gxt_kbv_s3b">Tyszka</persName> wollte
+                    ihren Sohn, der die Wirtschaft übernehmen sollte, gegen „Kostgeld‟ nach
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> in die Lehre geben. Da
+                    Kaufmann <persName key="ed_hrm_vvx_y2b">Haebeler</persName> in Königsberg ein
+                    Verwandter war, meinte Berent, man müsse darauf eingehen. - Der nächste Brief
+                    folgte am 29. März. Die wirtschaftliche Situation der Pächter hatte sich noch
+                    weiter verschlechtert. Im Folgemonat sollte die Generalkommission unter
+                    Landesökonomierat <persName key="ed_h5l_ny1_1bb">Krüger</persName> nochmals
+                    erscheinen, die Grenzen festsetzen „und den Bauern das Land verkoppeln‟. 800
+                    Rtlr. Kosten waren dadurch entstanden. Einen Riss und Anschlag für den
+                    Kirchenbau in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> hatte
+                        <persName key="ed_ddn_kqp_vcb">Kolhoff</persName> gefertigt. - Am 3. Mai
+                    1821 berichtete Berent, dass schon im April Kirschen, Pflaumen und die frühen
+                    Birnen geblüht hätten, nur der Beginn des Ackerbau habe sich verzögert, da der
+                    Frost zu tief im Boden war. Falls Pächter und Bauern bis zum 1. Juni ihre
+                    Zahlungen leisten würden, könnten 2.500 Rtlr. eingehen, nur noch 400 Rtlr. waren
+                    in der Kasse. Wegen der Umsetzung der Bauern, der Gärten und der Hütung gab es
+                    weiter „Ärger und Verdruss‟, vor allem in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>; die Serwiller waren nicht bereit, sich umsetzen zu
+                    lassen, so dass der Landrat sie durch „Zwangsmittel‟ zwingen musste. Die Preise
+                    für landwirtschaftliche Produkte waren noch immer tief und auch Bier- und
+                    Branntweindebit  brachten keine Einkünfte, da die Abgaben und Steuern zu hoch
+                    waren. Angst vor Exekution und Pfändung waren allgegenwärtig. Unter diesen
+                    Bedingungen konnte auf den Vorwerken nichts Neues gebaut werden, nur die Schule
+                    in Taberlack und zwei Bauernscheunen in Serwillen. - Unter Regen, Hagel und
+                    Frost im Mai littenWintergetreide, Klee und Graswuchs, wie Berent am 31. Mai
+                    schrieb, die Sommeraussaat fehlte. Die Getreidepreise in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> waren nun so schlecht, „wie sie
+                    vor 30 Jahren nicht gestanden haben‟. Auch für Vieh, Wolle, Branntwein bekam man
+                    kein Geld. Wenn die „Sache sich nicht bald endigt‟, befürchte er einen
+                    „Generalbankrott‟. Dazu kamen die Kosten der Generalkommission. Für den Erwerb
+                    von Acker war das Vorliegen der Hypothekenbücher Voraussetzung. Taberlack glich
+                    bereits einer Wüstung, da nichts ausgesät war. Am 15. Juni begann zu allem
+                    Überfluss die Übungszeit der Landwehr. - Am 29. Juni hoffte Berent auf Einkünfte
+                    aus dem Verkauf von Pferden, Schafen und Wolle, da der Kassenbestand nur noch
+                    634 Rtlr. betrug, davon waren 300 Rtlr. an <persName key="ed_pv1_b4g_hy">Graf
+                        Lehndorff </persName>auf <placeName key="ed_hts_ttp_vcb">Warglitten</placeName>, 243 Rtlr. an Graf von Dönhoff und 300 Rtlr. an die
+                    Gräfin von Schlieben zu zahlen. Alle Pächter waren verschuldet. Aufgrund von
+                    Regenfällen standen alle Wiesen im Anschluss an die Seen unter Wasser. Nach
+                    weiteren drei Wochen Generalkommission „auf dem Halse‟ wisse nun jeder Bauer
+                    zwar, „wo sein Acker ist und was er hat‟, jedoch würden sie nun nicht wissen,
+                    was sie machen sollen, „viele wollen gar nichts und bleibt alles liegen‟,
+                    ungeheure Prozesse werden deshalb entstehen. [Ende der Briefe Berents in der
+                    Akte.] </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 26. Januar 1821</dateline>
+					          <salute>Ew. Hochgeboren</salute>
+                </opener>
+				        <p>vom Zustande der Güter Nachricht zu geben, verfehle nicht untertänigst anzuzeigen, dass
+                    Gottlob diesen Monat nichts Widriges eingefallen ist. Alles an Tieren, Pferden
+                    oder Schafen und Rindvieh ist gesund und munter, <seg type="comment">
+                  <orig>von
+                            den tragenden Stuten erfolgt inliegend ein Verzeichnis</orig>
+                  <note xml:id="na5k_mj5_s3b">Liegt dem Brief bei.</note>
+               </seg>, die Schafe
+                    fangen auch schon an zu lämmern, in der Schäferei sind bereits 5 St. von den
+                    gekauften, in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> sind 4 St.,
+                    allein letztere sind sehr klein, vielleicht ist der Transport daran schuld oder
+                    ihr Alter. Die Witterung zum wirtschaftlichen Verkehr ist sehr ungünstig, bald
+                    Frost, bald Regen, und gar kein Schlittweg, und dieses erschwert bei uns, wie
+                    Ew. Hochgeboren bekannt ist, alle unsere Winterverrichtungen, die doch
+                    gemeiniglich auf den Schlittweg berechnet sind. Mehr aber wie all diese Übel
+                    sind die schlechten Preise des Getreides und aller übrigen vom Landmann zu
+                    verkaufenden Produkte. Es hat im Grunde gar nichts einen verhältnismäßigen
+                    Preis. Ich habe mit der heutigen Post einen Brief von <persName key="ed_hrm_vvx_y2b">Haebler</persName> aus <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> erhalten, worinnen er mir anzeigt, dass der Weizen 1
+                    Rtlr. 15 Sgr., der Roggen 72 Sgr., die Gerste 48 Sgr. und der Haber 36 Sgr. den
+                    Scheffel erzielt. 14 Meilen bei noch so schlechtem Wege für diesen Preis nach
+                    Königsberg zu schicken kann nur der, der aus Not fahren muss. Allein was soll
+                    man machen und wo Geld zu Bestreitung aller Wirtschaftsbedürfnisse und
+                    Staatslasten bekommen, wenn man nicht Getreide verkauft. Mit Branntwein ist
+                    jetzt gar nichts zu machen, nach der Kornsteuer kann ich gar nicht brennen, denn
+                    ich kaufe den Branntwein wohlfeiler, als wenn ich ihn selbst brenne, zumal, da
+                    ich das Korn von den Pächtern zu 1 Rtlr. annehmen muss. Dieses macht wohl auch
+                    zum Teil, dass viel Branntwein aus Polen über die Grenze kommen wird. Der <seg type="comment">
+                  <orig>Stof</orig>
+                  <note xml:id="nfpb_jfm_flb">1 Stof = 1,145
+                            l</note>
+               </seg> Branntwein gilt hier in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> 12 Sgr., dahingegen kaufen sie auch das Korn und auch
+                    polnisches zu 54 Sgr. Was ich mit den beiden Herren Pächtern in <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> machen soll, weiß ich nicht. Sie wollten mir auf die
+                    erste Hälfte Getreide liefern, ich nahm nicht an, und habe auf ihren Namen 1.000
+                    Rtlr. geliehen, aber nur auf 2 Monate. Die sind nun um und die Herren zahlen
+                    keinen Groschen. Ich habe an Haebeler geschrieben, der mir das Geld verschafft
+                    hat, ob er nicht noch 4 Wochen warten will. Ich habe davon 577 Rtlr. 12 Gr. für
+                    die Schafe an <persName key="ed_yzx_1bk_hlb">Toussain</persName> und 325 Rtlr.
+                    Dero Herrn <persName key="ed_pv1_b4g_hy">Bruder</persName> Weihnachtszinsen
+                    bezahlt. Herr Graf auf Warglitten hat mir dringend ersucht, die beiden Porträts
+                    aus dem <seg type="comment">
+                  <orig>blauen Kabinet</orig>
+                  <note xml:id="ny2b_g2k_hlb">Im StA L, Besand 21950 FA Lehndorff, Nr. 527, Bl.
+                            35 gibt es ein Inventar dieser blauen Stube.</note>
+               </seg>, <seg type="comment">
+                  <orig>Adam und Eva</orig>
+                  <note xml:id="nqn5_ghk_hlb">Im
+                            Inventar von 1794 ist das Bild noch nicht aufgeführt und wurde
+                            möglicherweise erst danach durch Ernst Ahasverus Heinrich von Lehndorff
+                            erworben. </note>
+               </seg>, zu schicken, indem er mir, wie er sich
+                    ausdrückt, auf Ehre versichert, dass Ew. Hochgeboren ihm solche zugesichert
+                    haben. Da solche nicht da sind, so habe ich ihm nun natürlich auch selbige nicht
+                    schicken können, und mir fiel ein Stein vom Herzen, wie ich sehe, dass Sie nicht
+                    da waren. Den Bischof <persName key="ed_v1z_fdk_hlb">Paulus v.
+                        Lehndorff</persName> hat er erhalten. Unsere Wirtschaftsverrichtungen
+                    bestehen bloß mit Holz fahren. Kein Bauer fährt etwas und wartet immer auf
+                    Schlittweg, aus der Heide habe ich schon über 200 <unclear reason="illegible" cert="low">Klafter</unclear> Bauholz herausgefahren, allein die Wagen gehen
+                    auch alle in Stücken. Das aller unangenehmste ist jetzt, dass die Regierung
+                    darauf dringt, dass die Kirche in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> gebaut werden soll. <seg type="comment">
+                  <orig>Sie
+                            hat dem Landrat aufgetragen, mir aufzugeben, Riss und Anschlag zur
+                            Konfirmation einzuschicken, keine Einwendungen wurden angenommen. Sie
+                            sagt in ihrem Schreiben, wenn H. <persName key="ed_ddn_kqp_vcb">
+                        <persName key="ed_ddn_kqp_vcb">Kohlhoff</persName>
+                     </persName>
+                            nicht Riss und Anschlag gefertigt hat, so soll ich durch einen anderen
+                            Sachverständigen einen Anschlag und Riss vorlegen lassen.</orig>
+                  <note xml:id="nlzl_nhk_hlb">Bis zum 29. März hatte <persName key="ed_ddn_kqp_vcb">Kolhoff</persName> beides vorgelegt, siehe die
+                            Auszüge aus späteren Briefen oben.</note>
+               </seg> Ich habe für 3 Posttage
+                    an H. Kohlhoff geschrieben, aber keine Antwort erhalten. Jetzt nehme ich meine
+                    Zuflucht zu Ihnen und bitte untertänigst, mir doch bald Dero Willensmeinung
+                    wissen zu lassen, da ohne Ihre Genehmigung kann ich doch keinen Riss machen
+                    lassen. <seg type="comment">
+                  <orig>Die Generalkommission wird jetzt nachgerade
+                            auch so lästig, dass ich schon für meine Person nur Gott bitte, dass es
+                            bald ein Ende nehme. </orig>
+                  <note xml:id="nwjv_ksp_hlb">Siehe hierzu das
+                            Dokument vom <ref target="lehndorff_rly_vzz_xz">28. Dezember
+                            1820</ref>.</note>
+               </seg>Allein es entspinnen sich immer mehr und weiter
+                    aus Sachen da Prozesse, indem der Bauer und einzelne Individuen immer
+                    appellieren können. Ich habe in diesem Jahr schon 2 Termine gehabt und vor 3
+                    Tagen fuhr <persName key="ed_h5l_ny1_1bb">Krüger</persName> hier ab, der mit 4
+                    Personen 10 Tage hier gesessen, und die Generalreverse durch den Richter hier
+                    hat vollziehen lassen, was das für Beschwerden und Ausgaben im Hause, und dann
+                    kamen noch andere Kommissarien und Kondukteure, die unter ihm arbeiten, immer
+                    hier bei ihm, so dass manchen Tag 8 bis 10 Personen oben an Tafel waren, und die
+                    Kosten belaufen sich schon an unserer Seite über 200 Rtlr., die immer durch den
+                    Landrat eingezogen werden. Ich bin jetzt der Sache ganz müde, meine Frau ist
+                    immer nicht gesund, der Wilke desgleichen und <persName key="ed_oxt_jzb_tcb">Kaiser</persName> liegt schon an 4 Wochen im Bette, und nach Schwann seiner
+                    Aussage wird er das Zeitliche verlassen und an der Wassersucht sterbe. Sonsten
+                    sind die anderen Herrn alle recht gesund, wenn sie auch unter sich wie Hunde und
+                    Katzen leben und mir meinen Dienst sehr erschweren. <seg type="comment">
+                  <orig>Nochmals bitte ich um gnädige Antwort wegen des Kirchenbaus und
+                            wegen des Neubaus des Wohnhauses für den Pächter in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>,</orig>
+                  <note xml:id="nozm_vhk_hlb">Siehe die Auszüge ausspäteren Briefen
+                        oben.</note>
+               </seg> und habe die Ehre mich ehrfurchtsvoll zu zeichnen </p>
+				        <closer>
+					          <salute>Ew. Hochgeboren untertänigster </salute>
+					          <signed>Berent</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

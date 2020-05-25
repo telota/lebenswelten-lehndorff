@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_kyx_xsf_vbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebuchnotiz. Berlin, 4. Juni 1740</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_kyx_xsf_vbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="editorial">
+                    <p>Die durch <persName key="ed_ecr_2lh_my">Karl Eduard Schmidt</persName> in den
+                        „Mitteilungen der Literarischen Gesellschaft Masovia‟ 3-14 (1897–1909)
+                        edierten Tagebücher des Grafen Ernst Ahasverus Heinrich von Lehndorff
+                        beginnen mit dem Jahr 1750. Vier Jahre zuvor (1746) hatte Lehndorff seinen
+                        Dienst am Hof <persName key="ed_x2r_52f_cy">Friedrichs II.</persName> als
+                        Legationsrat begonnen, ein Jahr später wurde er zum Kammerherrn der Königin
+                            <persName key="ed_bwq_lzl_2y">Elisabeth Christine</persName> bestimmt.
+                        Im LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 252, Bl. 33, sind die
+                        Rechnungen des Textilfabrikanten <orgName key="ed_kjq_5tw_22b">Carl Fr.
+                            Gottlob Eisenhard</orgName>, Berlin über <quote>goldene
+                            Kammerherrenknöpfe</quote>, <quote>schwarzen schweren Atlas</quote> und
+                            <quote>weiße seidene Strümpfe</quote>, seidene Schleifen und Chenille
+                        für die Kammerherrengarderobe überliefert. Aufgrund weiterer
+                        Tagebuch-Einzelblätter ist zu vermuten, dass Lehndorff nicht erst 1750 mit
+                        seinen Aufzeichnungen begonnen hat. Auch Giebel verweist auf einzelne mit
+                        einer Stecknadel zusammengehaltene Blätter in Bd. 3 der Tagebücher, auf
+                        denen Lehndorff einzelne Vorkommnisse ausführlicher schildert, die er am 31.
+                        Dezember 1753 als <quote>Berliner Anekdoten</quote> erwähnt, vgl. Giebel,
+                        Tagebücher, S. 150 und 542, Anm. 54. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 479, Bl. 1-2 und Anlage</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf von
+                    (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                <date when="1740-06-04" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Berlin, den 4. Juni 1740 </p>
+                <p>
+               <persName key="ed_nyn_ffz_g1b">S. Königl. Majestät</persName> haben dero
+                    heldenmütige Zeit zu <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> den 31.
+                    Mai nachmittags h. 3 mit einer besonderen Resignation aufgegeben, auch den
+                    völligen Verstand bis an dero Ende behalten.</p>
+                <p>Von Höchstderoselben ist die Art und Weise des zu haltenden Leichenbegängnisses
+                    selbst schriftlich aufgesetzt und darin alles befohlen, dem auch dergestalt in
+                    allem nachgelebet werden wird, nämlich in einen schlichten einfachen Sarg,
+                    welcher schon fertig und oben gebracht gewesen, soll die Königliche Leiche
+                    gelegt und hiernach in den marmornen Sarg gesetzet werden, die ganze Garnison zu
+                    Potsdam soll dabei paradieren und <seg type="comment">
+                  <orig>Prinz <persName key="ed_q12_pqy_bz">Wilhelm</persName>
+                  </orig>
+                  <note xml:id="nndb_zbh_scb">August Wilhelm war das elfte Kind des Königs
+                                <persName key="ed_nyn_ffz_g1b">Friedrich Wilhelm I. von
+                                Preußen</persName> aus dessen Ehe mit <persName key="ed_ajb_mly_bz">Sophie Dorothea</persName> und somit ein jüngerer Bruder <persName key="ed_x2r_52f_cy">Friedrichs des Großen.</persName> Er galt als
+                            wesentlich umgänglicher als sein Bruder und als Liebling des
+                            Vaters.</note>
+               </seg> als Obristlieutenant ihre Züge mit anführen. Die
+                    jetzige <persName key="ed_x2r_52f_cy">Königliche Majestät</persName> aber nebst
+                    dem <seg type="comment">
+                  <orig>Prinzen <persName key="ed_mn5_svg_hy">Ferdinand</persName>
+                  </orig>
+                  <note xml:id="nrps_fch_scb">August
+                            Ferdinand war der jüngste Sohn des Königs Friedrich Wilhelm I. von
+                            Preußen. </note>
+               </seg> der Leiche als Leidtragende folgen.</p>
+                <p>Es wird keine Leichenpredigt gehalten, sondern eine bloße Musique in der Kirche
+                    aufgeführet, auch ein <seg type="comment">
+                  <orig>Castrum doloris</orig>
+                  <note xml:id="nign_fvh_t2b">
+                     <ref target="https://de.wikipedia.org/wiki/Castrum_doloris">Trauerkapelle</ref>
+                  </note>
+               </seg> aufgeführt werden.</p>
+                <p>Aus hiesigem Zeughaus werden 24 Kanonen Geschwind-Schüsse nach <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> gebracht, deren jede 12 Mal
+                    abgefeuert werden soll, und zwar geschwind Feuer auf Feuer, wie Ihro Hochselige
+                    Majestät es selbst ordiniert.</p>
+                <p>Auf dem Sarg soll der beste Mundierungs-Degen nebst Echarpe und 1 paar vergüldete
+                    Sporen liegen, item ein vergüldeter Helm, das beste Mundierungskleid soll Ihro
+                    Majestät angezogen werden.</p>
+                <p>Vierzehn Tage nach dem Leichenbegängnis sollen im ganzen Lande Leichenpredigten
+                    gehalten werden über den Text: Ich habe einen guten Kampf gekämpft, und dabei
+                    das Lied gesungen werden: Wer nur den lieben Gott lässt walten.</p>
+                <p>Die Königliche Leiche wird indessen bewacht von Generalleutnant von <persName key="ed_aqv_wch_scb">Buddenbrock</persName>, Herrn Generalmajor von
+                        <persName key="ed_dkl_hdh_scb">Waldow</persName>, 2 Obristen, 4 Capitains p.
+                    8 Capitains vom Regiment sollen den Sarg auf den Wagen bringen und vor dem Altar
+                    niedersetzen, worauf sie sich gleich auf ihren Posten beim Regiment begeben.</p>
+                <p>Die Prediger sollen in deren Leichenpredigten Sr. K. Maj. weder loben noch
+                    tadeln.</p>
+                <p>Den 31. Mai um 6 Uhr des Abends wurden zu Berlin alle Landwehren gesperrt und
+                    niemand herausgelassen bis den 2. Juni gegen 9 Uhr abends. Den 31. Mai langte
+                    Sr. Königl. Majestät in Berlin an und traf darauf die verwittibte <persName key="ed_ajb_mly_bz">Königin</persName> Majestät. Die Herren
+                    General-Staatsminister und Räte vom Directorio versammelten sich noch denselben
+                    Abend auf dem Schlosse, S. Königl. Majestät aber blieben im Kronprinzlichen
+                    Palais und depechierten die Estafetten.</p>
+                <p>Den 1. Juni sind alle hiesigen Regimenter von neuem vereidigt worden, und haben
+                    sich die Geheimbten Etats-Räte nebst dem ganzen General-Directorio früh um 7 Uhr
+                    auf dem Schlosse versammelt. </p>
+                <p>Des <seg type="comment">
+                  <orig>
+                     <persName key="ed_y1x_frf_vdb">Herzogs von
+                                Holstein</persName>
+                  </orig>
+                  <note xml:id="nvjz_zdh_scb">Friedrich
+                            Wilhelm II. Herzog von Schleswig-Holstein-Sonderburg-Beck, preußischer
+                            Generalfeldmarschall, ab 1732 Gouverneur von Spandau,</note>
+               </seg>
+                    Durchlaucht langten mit dero Suite den 31. Mai abends um 10 Uhr in <placeName key="ed_xrv_gwb_by">Berlin</placeName> an. Sie haben fast eine Stunde halten
+                    müssen, weil der Offizier an der Landwehr solche Ordre zu haben vorgegeben,
+                    niemanden außer der Königin Majestät einpassieren zu lassen, vermutlich aus
+                    einem Missverstand, weil der König ihm zu folgen befohlen, auch sofort wegen der
+                    Einlassung Ordre gegeben.</p>
+                <p>Mit S. Königl. Majestät sind nach Berlin gekommen Herr Capitain v. <persName key="ed_o5j_4rf_vdb">Borch</persName>, v. <persName key="ed_ofr_trf_vdb">Hacke</persName>, v. <persName key="ed_wjh_yrf_vdb">Winterfeld</persName>.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Des höchstseligen Königs Majestät sind noch den 31. Mai
+                            bis gegen die Parade-Zeit auf dem Rollwagen herumgefahren</orig>
+                  <note xml:id="nimh_1fh_scb">Schon längere Zeit hatte der König an Gicht- und
+                            Podagraanfällen gelitten und musste sich im Rollstuhl fortbewegen.
+                        </note>
+               </seg>, und haben von allen beweglich Abschied genommen, insonderheit
+                    vom alten Fürsten <persName key="ed_pyk_mvg_2z">Dessau</persName>, der den 30.
+                    Mai nachmittags um 3 Uhr auf eine erhaltene Estafette in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> angelangt, und haben S. verstorbenen
+                    Königlichen Majestät großes Verlangen bezeugt, Ihro Durchlaucht noch zu
+                    sprechen, sagend: Der alte Fürst wäre ihr alter guter Freund. Sie haben auch
+                    alle dero Pferde vorführen lassen, wovon der alte Fürst sich eins aussuchen
+                    müssen, welches mit einer kostbaren Chabraque belegt und ihm geschenkt worden.
+                    Eine halbe Stunde vor dero Ende haben sich alle Bedienten in der neuen
+                    Mundierung vor dem Bette einfinden müssen, welche Höchstdieselbe betrachtet und
+                    dabei gesagt: Eitelkeit.</p>
+                <p>Sie haben öfters gesaget, wie lange es noch dauern würde? Da denn der neue
+                    Regiments-Feldscher <persName key="ed_zxn_vfh_scb">Pietsch</persName> die Puls
+                    begriffen und gesaget, eine Stunde würde es noch dauern. Nach Verfließung einer
+                    halben Stunde haben S. Königl. Majestät wieder gefraget: Wie lange nun noch?
+                    Noch ein Halbstündchen. Woher er solches wisse? Aus der Puls, denn die zöge sich
+                    schon zurück und hätte an der Hand aufgehört. Worauf der König gerufen: Nun mein
+                    Gott! Erlöse mich bald. Wir wollen beten und singen, quod factum insonderheit
+                    von dem Prediger <persName key="ed_cmr_cgh_scb">Oesfeld</persName>, der ihm laut
+                    zugerufen. Indessen habe der König mit der Brust stark gearbeitet und nach
+                    Verlauf der halben Stunde 2 mal stark aufgeröchelt, worauf das Ende da
+                    gewesen.</p>
+                <p>
+               <note type="editorial">Es folgt eine Beschreibung der Ankunft der königlichen
+                        Familie in <placeName key="ed_ykj_s2b_1bb">Charlottenburg</placeName> am 1.
+                        Juni. Am 2. Juni trafen die Etats-Minister mit Ausnahme des unpässlichen
+                        Herrn von <persName key="ed_hkg_s5c_5db">Cocceji</persName> ein und wurden
+                        von Herrn von <persName key="ed_xzz_hgh_scb">Thulmeyer</persName>
+                        <quote>in Pflicht genommen</quote>. Der Kriegsrat von <persName key="ed_v3y_sgh_scb">Eckhardt</persName> in Preußen wurde per
+                        Kabinettsordre aufgefordert, seinen Adelsbrief, das Gnaden-Kreuz und alle
+                        Briefschaften zurückzugeben, da ihm die Dimission erteilt sei. Das Berliner
+                        Haus wurde ihm entzogen. </note>
+                </p>
+                <p>In <placeName key="ed_ykj_s2b_1bb">Charlottenburg</placeName> ist es so voll
+                    Leuten aus <placeName key="ed_xrv_gwb_by">Berlin</placeName>, das alles wimmelt,
+                    und haben völlige Freiheit, sich überall zu divertieren.</p>
+                <p>Es sind durch <seg type="comment">
+                  <orig>Kabinettsordre alle Anwartungen auf Lehen
+                            und Präbenden in Stiftern kassiert worden.</orig>
+                  <note xml:id="nv3h_lhh_scb">Am 3. Juni 1740 hatte der König das Edikt
+                            erlassen, dass <quote>alle Anwartungen auf Lehne oder andere Güter, wenn
+                                solche nicht reellement bereits in Besitz genommen, aufgehoben
+                                seien, dergleichen auch hinkünftig nicht eher, als dies Lehen oder
+                                Gut wirklich vakant, gesuchet werden soll</quote>, vgl. Mylius,
+                            Christian Otto, Corpus Constitutionum Marchicarum ..., Continuation I,
+                            II. Teil, 5. Abtlg., Nr. XIX.</note>
+               </seg>
+            </p>
+                <p>Der Herr Geheime Finanzrat <persName key="ed_qqy_f3h_scb">Schmaltz</persName> ist
+                    nach der Neumark gegangen, um den Untertanen Brot, Saat- und Futterkorn zu
+                    verschaffen. Allhier war selben Tag, als den 31. Mai, fast kein Brot vor Gold zu
+                    bekommen, <seg type="comment">
+                  <orig>numehro aber sind die Anstalten
+                            gemacht</orig>
+                  <note xml:id="nk33_wkh_scb">Siehe hierzu die Gesetzgebung
+                            ab Sommer 1740 in: <ref target="https://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMC1/start.html">Mylius, Corpus Constitutionum Marchicarum ..., Continuation I, V.
+                                Teil, 5. Abtlg.</ref>
+                  </note>
+               </seg>, dass die Bäcker vor 1 Rtlr. den
+                    Scheffel soviel Korn als sie wollen bekommen können. Enfin, die ganze hiesige
+                    Welt ist voller Freuden.</p>
+                <p>Von den neuen Chargen bei dem Hofstaat wird viel Neues debattiert, man kann aber
+                    noch nichts gewisses davon versichern.</p>
+                <p>Die Trauer soll den 15. Juni angelegt werden. Herr Baron von <persName key="ed_lgn_53h_scb">Pöllnitz</persName> haben das <seg type="comment">
+                  <orig>Reglement</orig>
+                  <note xml:id="numv_qk3_4cb">Reglement wie sich
+                            ein jeder mit der Trauer zu versehen habe. Berlin, 1. Juni 1740. Liegt
+                            dem Dokument als Anlage bei.</note>
+               </seg> aufgesetzt, welches künftig
+                    völlig kommunizieren kann.</p>
+                <p>Heute wird die Königliche Leiche in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> beigesetzt, nachdem sie heute den ganzen Tag auf dem
+                    Parade-Bette zu sehen gewesen.</p>
+                <p>Gestern ist auch eine <seg type="comment">
+                  <orig>Kabinettsordre</orig>
+                  <note xml:id="nfm1_jlh_scb">Diese Kabinettsordre ist im „Mylius‟ nicht
+                            aufzufinden.</note>
+               </seg> gekommen, dass S. K. Majest. die Anwartungen
+                    auf Amtshauptmannschaften gänzlich aufheben, und mit Suchung dergl. Anwartungen
+                    auf Amtshauptmannschaften nicht behelligt sein wollen.</p>
+                <p>Morgen Vormittag werden S. Königl. Majest. den Oberhofprediger <persName key="ed_gyt_mlh_scb">Jablonski</persName> im Dom hören und nachmittags den
+                    Probst <persName key="ed_tnn_b45_blb">Reinbeck</persName> in der Petri-Kirche.
+                        <seg type="comment">
+                  <orig>Künftigen Dienstag</orig>
+                  <note xml:id="nvln_qbx_42b">7. Juni</note>
+               </seg> als den 3. Feiertag <unclear reason="illegible" cert="low">k. 10. Mate.</unclear> sind sämtliche Bediente
+                    des General-Direktorii von der Kurmärkischen Kammer und Oberrechenkammer
+                    bestellet, um den Eid der Treue abzulegen.</p>
+                <p>Berlin, den 4. Juni 1740, abends</p>
+                <p>Die Königliche Leiche ist bereits heute beigesetzt und ist solche von 12
+                    Capitains bis in die Gruft getragen worden, von Dero Durchlaucht dem Herzog von
+                        <persName key="ed_y1x_frf_vdb">Holstein</persName>, Generalleutnant v.
+                        <persName key="ed_utg_lcx_42b">Platow</persName>, v. <persName key="ed_aqv_wch_scb">Buddenbrock</persName>, <persName key="ed_dkl_hdh_scb">Waldow</persName>, <persName key="ed_bzd_nsf_vdb">Marwitz</persName> aber
+                    eingesenket worden.</p>
+                <p>Denselben Tag, den 31. Mai, da S. K. Majest. von Potsdam nach Berlin gekommen,
+                    haben Höchstdieselbe bei Ihrer Ankunft in Berlin Ordre gegeben, Wachsfackeln und
+                    Portechaisen fertig zu halten, um die verwittibte Königin Majest. bei ihrer
+                    Ankunft in Berlin zu empfangen, und mit Fackeln in Dero Zimmer zu begleiten.
+                    Ferner ist anbefohlen worden, 2 große Tafeln mit schönen Confitures und
+                    Erfrischungen auf das Beste zu besetzen, und der verwittibten Königin Maj. damit
+                    zu bewirten. Diese Tafeln sollen auch tagtäglich vor Ihro Königl. Majest.
+                    gehalten werden.</p>
+                <p>Alle Stabsoffiziere sollen außer Herrendienst in voller Trauer gehen, in
+                    Herrendiensten aber mit ordinärer Mundierung und nur einen Flor um den Hut, Arm
+                    und Degen tragen.</p>
+                <p>Die Sterbe-Cantons werden zwar nicht gehoben, sondern diejenigen Leute, welche
+                    einrangiert werden können, sollen beibehalten, die anderen aber befreit
+                    werden.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

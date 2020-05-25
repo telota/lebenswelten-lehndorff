@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_otp_xrg_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zeitungsexpedition Angerburg an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Angerburg, 22. Juni 1822</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_otp_xrg_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kulturbeziehungen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 79, Bl. 55</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_p2n_fsg_my">Zeitungsexpedition Angerburg</orgName>
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    <date when="1822-06-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/3/79/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Angerburg, 22. Juni 1822</dateline>
+                </opener>
+                <p>Die <seg type="comment">
+                  <orig>Augsburger Allgemeine Zeitung</orig>
+                  <note xml:id="nth1_sxk_wcb">Die Allgemeine Zeitung war im 19. Jahrhundert
+                            neben der Frankfurter und der Kölnischen Zeitung eine der ersten und
+                            wichtigsten politischen Tageszeitungen Deutschlands. Sie erschien im
+                            Verlag der Cotta'schen Buchhandlung, die von 1807 bis 1865 auch das
+                            Morgenblatt für gebildete Leser als literarische Tageszeitung verlegte.
+                            Vom 16. Januar 1807 bis 30. September 1882 erschien die Allgemeine
+                            Zeitung in Augsburg mit vier Druckseiten täglich und einer
+                            umfangreicheren „Außerordentlichen Beilage“, die etwa wöchentlich
+                            erschien. Die Zeitung stützte sich anfangs stark auf andere Zeitungen
+                            wie die Frankfurter Zeitung, benannte diese häufig als aktuelle
+                            Informationsquelle und zitierte sie über mehrere Spalten hinweg
+                            wörtlich. Die Außerordentliche Beilage berichtete losgelöst von der
+                            direkten Aktualität von politischen und juristischen, selten von
+                            religiösen oder kulturellen Grundthemen der Zeit und druckte
+                            unkommentiert Gerichtsurteile und Gesetzestexte, vor allem aus Bayern,
+                            ab. </note>
+               </seg> ist politischen Inhalts, als solche die Beförderung
+                    per <seg type="comment">
+                  <orig>Fahrpost</orig>
+                  <note xml:id="niq2_3wp_hlb">Postgeschichtlicher Begriff; bezeichnet im Gegensatz zur reitenden Post
+                            den Transport von Personen, Massensendungen oder sperrigen Gütern
+                            mithilfe von speziellen Wagen oder Postkutschen.</note>
+               </seg>
+                    grundsätzlich und dem Interesse gemäß nicht erfolgen kann. Nur solche
+                    Zeitschriften können durch die Fahrpost Beförderung erhalten, die im
+                    Zeitungs-Kreis-Journal besonders aufgeführt sind und deren moderierter Kreis
+                    dabei bemerkt ist. Die Augsburger Allgemeine Zeitung kann mithin nur für den
+                    tatsächlichen Preis von 8 Rtlr. besorgt werden.</p>
+				        <closer>
+                    <signed>Zeitungs-Expedition</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

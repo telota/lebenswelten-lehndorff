@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_znq_ycf_2cb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm </title>
+                <title>Hermann Alexander Richard Fürst zu Dohna an Kaiser Wilhelm II. Schlobitten,
+                    10. Januar 1938</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_znq_ycf_2cb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>BStU</institution>
+                        <idno>MfS, AB Neiber, Nr. 803, Bl. 73</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ly2_b3r_gz">Dohna-Schlobitten, Wilhelm Hermann Alexander Fürst
+                        zu (1899-1997)</persName>
+                    <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName>
+                    <date when="1938-01-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_n2s_bcb_dy">Preußen, Wilhelm II. König von, deutscher Kaiser
+                        (1859-1941)</persName>
+                </correspAction>
+                <note>Der Kaiser bedankte sich mit der Übersendung eines Bildes. Dohna dankte am 25.
+                    Januar und sprach <quote>zum 27. Januar in aller Ehrerbietung unseren
+                        aufrichtigsten Segenswunsche</quote> aus (Bl. 41). - Siehe auch: Kleine,
+                    Georg H., Adelsgenossenschaft und Nationalsozialismus, in: Vierteljahreshefte
+                    für Zeitgeschichte 26 (1978), S. 101–143. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Schlobitten, 10. Januar 1938 </dateline>
+					          <salute>Allergnädigster Kaiser, König und Herr!</salute>
+                </opener>
+                <p>Euer Majestät melde ich alleruntertänigst die glückliche Geburt unseres dritten
+                    Sohnes und fünften Kindes. Mutter und Kind befinden sich wohl.</p>
+                <p>Mit großem Interesse verfolgen wir die Nachrichten aus <placeName key="ed_rf5_lc5_zdb">Doorn</placeName>, die ich auch gelegentlich durch die
+                    Enkel Euer Majestät erfahre. Darf ich mir bei dieser Gelegenheit erlauben, Euer
+                    Majestät alleruntertänigst nachträglich ein gesegnetes Jahr 1938 zu
+                    wünschen.</p>
+                <p>Exzellenz von <persName key="ed_m1k_j2d_mfb">Berg</persName> hat mir mitgeteilt,
+                    dass Euer Majestät sich vor nicht langer Zeit nach <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName> erkundigt haben und nähere
+                    Nachrichten vermissten. Ich hätte selbstverständlich schon längst Näheres
+                    berichtet, wenn ich nicht geglaubt hätte, Euer Majestät vielleicht damit lästig
+                    zu fallen. Wenn ich auch selbst die Vorkriegszeit nur als kleiner Junge erlebt
+                    habe, so denke ich doch in dankbarer Erinnerung an die Wohltaten, die Euer
+                    Majestät insbesondere meinem verewigten Großvater erwiesen haben, und an die
+                    vielen Besuche Euer Majestät in <placeName key="ed_i5b_gd5_zdb">Prökelwitz</placeName> und in Schlobitten. Unvergesslich wird mir
+                    persönlich das Erlebnis bleiben, wie im Jahre 1910 meine Geschwister und ich als
+                    Kinder Euer Majestät in Schlobitten die Hand geben durften. Unsere engere
+                    Familie hat sich inzwischen sehr vergrößert. Von uns 5 Geschwistern sind 4
+                    verheiratet, und meine Mutter kann auf die stattliche Anzahl von 15 Enkeln
+                    blicken.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Das alte Schlobitten bildet, wie das selbstverständlich
+                            ist, für alle den Mittelpunkt. Das Schloss hat sich äußerlich gar nicht
+                            und innerlich nur wenig verändert. Aber sonst sind die Kriegsjahre und
+                            vor allem die schweren Nachkriegsverhältnisse nicht spurlos an dem
+                            Besitz vorübergegangen. Über 30 % der landwirtschaftlichen Flächen sind
+                            meist zu Siedlungszwecken abgegeben worden. Darunter sämtliche von
+                            meinem Großvater gekauften Güter einschließlich Behlenhof und außerdem
+                            in Prökelwitz Mathildenhof mit Armuth und Sakrinten. Es ist jedoch
+                            gelungen, insbesondere auch durch die Besserung der Verhältnisse seit
+                            1933, den Besitz jetzt so hinzustellen, dass er in normalen Zeiten sich
+                            halten kann.</orig>
+                  <note xml:id="nelg_cfd_mfb">Vgl. Dohna, Lothar Graf
+                            zu, Die Dohnas und ihre Häuser. Profil einer europäischen Familie. Bd 2:
+                            Schlobitten, Göttingen 2013. </note>
+               </seg> Prökelwitz ist wie auch
+                    früher neben dem gesamten Wald das Rückgrat des Ganzen. Wir lieben es alle
+                    besonders und verleben jeden Sommer dort einige schöne Wochen. Der Rehbestand
+                    hat sich wieder gehoben, wenn auch die besten nach dem Krieg dort erlegten Böcke
+                    nicht annähernd an die kapitalen heranreichen, die Euer Majestät in Prökelwitz
+                    erlegt haben. Die Gipsabgüsse, die Euer Majestät meinem Großvater zu schenken
+                    die Gnade gehabt haben, erwecken auch jetzt noch die Bewunderung aller
+                    Beschauer.</p>
+                <p>Von den alten Leuten, die die Besuche Euer Majestät hier noch erlebt haben, sind
+                    die meisten schon verstorben. Auch den getreuen Wildmeister Schmidt ebenso wie
+                    den Leibkutscher Will deckt längst der grüne Rasen. Nur Hausmeister Hoffmann,
+                    der nun schon 52 Jahre hier im Schloss ist, tut noch seinen Dienst. Inzwischen
+                    sind aber die Kinder unserer alten Leute wieder an die Stelle ihrer Eltern
+                    getreten, und ich bin stolz darauf, dass viele Familien seit Generationen in
+                    unserem Dienst stehen, einige schon in der 8. Generation. Es ist für mich eine
+                    Freude, mit meinen getreuen Beamten und Arbeitern zusamen hier wirken zu dürfen,
+                    und ich bemühe mich, den Posten, auf den ich gestellt worden bin, mit meiner
+                    ganzen Kraft auszufüllen zum Wohle unseres Vaterlandes.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Ich habe das Glück, in Schlobitten ein Stück
+                            preußischer Geschichte zu besitzen, in dem die Gnadenerweise, die die
+                            Hohenzollern viele Generationen hindurch meinen Vorfahren gezeigt haben,
+                            allen ernsten Besuchern deutlich vor Augen treten. Sei es, dass man die
+                            persönlich geschenkten Bilder aller Preußischen Königs betrachtet; sei
+                            es, dass man die vielen eigenhändigen Schreiben der Mitglieder des
+                            Königlichen Haues liest, oder sei es, dass man an die zahlreichen
+                            Geschenke Euer Majestät selbst denkt.</orig>
+                  <note xml:id="ne2m_x2d_mfb">Vgl. Dohna, Alexander zu/Grommelt, Carl /Mertens, Christine von, Das
+                            Dohnasche Schloß Schlobitten in Ostpreußen, Stuttgart 1965 (Bau- und
+                            Kunstdenkmäler des Deutschen Ostens, Reihe B, Bd. 5).</note>
+               </seg> Es
+                    ist für mich eine Selbstverständlichkeit tiefe Dankbarkeit gegenüber dem
+                    Hohenzollernhaus bis an mein Lebensende zu bewahren, wie meine Frau und ich
+                    diese gleiche Dankbarkeit auch unseren Kindern anerziehen werden.</p>
+				        <closer>
+					          <salute>ich verbleibe Euer Majestät alleruntertänigster und treu gehorsamster</salute>
+					          <signed>gez. Alexander Fürst zu Dohna-Schlobitten</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

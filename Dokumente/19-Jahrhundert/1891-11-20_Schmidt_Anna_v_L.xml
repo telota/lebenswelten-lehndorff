@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xch_hch_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Eduard Schmidt an Anna Gräfin von Lehndorff. Lötzen, 20. November 1891</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xch_hch_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Repräsentation/Geselligkeit</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 152, Bl. 165-165v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ecr_2lh_my">Schmidt(-Lötzen), Karl Eduard
+                        (1850-1927)</persName>
+                    <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>
+                    <date when="1891-11-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Die Zeitschrift „Daheim. Ein deutsches Familienblatt mit Illustrationen‟
+                    erschien von 1864 bis 1943 im Verlag Daheim-Expedition Leipzig, Bielefeld,
+                    Berlin. Das Blatt erschien anfangs wöchentlich, später 14-täglich, und war der
+                    „Gartenlaube‟ nachempfunden. Inhaltlich war es konservativ-christlich
+                    ausgerichtet. 1872 bis 1935 erschienen zusätzlich Daheim-Kalender, 1886 bis 1888
+                    auch Monatshefte. Häufig enthielt die Zeitschrift thematische Beilagen. Ab 1890
+                    war Hanns von <persName key="ed_qwx_jmh_my">Zobeltitz</persName> Schriftleiter.
+                    - In seinem Brief aus Berlin vom 28. November 1891 (APO, Bestand 382 FA
+                    Lehndorff, Nr. 367, Bl. 180) bemängelte  <persName key="ed_nml_dw2_cy">Heinrich
+                        von Lehndorff</persName>, dass bei den Geschlechtern, die das Land in Besitz
+                    nahmen, <quote>das unsrige als das pruzzische hätte hervorgehoben sein können,
+                        dass den Ort am Stein in der Wildnis bekam. Nachdem meines Wissens <persName key="ed_cm2_ksv_h2b">Treitschke</persName> festgestellt hat, dass wir
+                        eben niemals von irgendwo eingewandert, sondern immer und seit unendlichen
+                        Zeiten loco gewesen sind, fände ich dies die Gelegenheit, diese interessante
+                        und ehrwürdige Gewissheit weiteren Kreisen zur Kenntnis zu bringen.</quote>
+                    Indiskretionen habe er nicht gefunden, und wenn Anna dem Autor noch ein bisschen
+                    helfe, <quote>kann der Artikel ganz nett und fesselnd werden, auch für größeres
+                        Publikum.</quote> Heinrich von Treitschkes Deutsche Geschichte im 19.
+                    Jahrhundert, 4 Bde., Leipzig 1879, gehörte zur Lehndorffschen Bibliothek. Der
+                    Artikel konnte jedoch im „Daheim‟ zwischen dem angegebenen Datum bis 1892 nicht
+                    nachgewiesen werden.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/3/152/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lötzen, 20. November 1891</dateline>
+                    <salute>Hochgeborene Gräfin! <lb/>Gnädige Frau!</salute>
+                </opener>
+                <p>Herr Hanns von <persName key="ed_qwx_jmh_my">Zobeltitz</persName> schrieb mir,
+                    dass das <bibl sameAs="zotero-830786-JUQC8QDT">Daheim</bibl> gern einen Aufsatz
+                    über <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und die <persName key="ed_xsd_3mw_22b">Lehndorff</persName> mit Ansichten und Portraits
+                    bringen würde, nur komme es darauf an, möglichst viel Intimes und Persönliches
+                    darin zu verweben. Ob nun der Aufsatz, den ich Euer Gnaden zur Einsicht zu
+                    übersenden mir erlaube, und worin ich ganz gehorsamst etwaige Unrichtigkeiten zu
+                    berichtigen bitte, genügen wird oder ob ich <gap reason="illegible"/> Schloss
+                    sende ich zurück, weil ich aus <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> ein anderes nebst einer Ansicht vom Park erhalten.
+                    Euer Gaden haben aber vielleicht die Güte, mir einige Porträts (namentlich das
+                    Ihrige), <gap reason="illegible"/> dessen wohl in <gap reason="illegible"/>,
+                    Weiterbeförderung zu übermitteln. </p>
+            <p>Einem gütigen Befehle sehe ich entgegen </p>
+				        <closer>
+					          <salute>Euer Gnaden gehorsamster</salute>
+					          <signed>Dr. Schmidt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cgq_ytm_xz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Robert Victor von Puttkamer an die Direktion der Berliner Charité. Berlin,
+                    30. April 1880</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cgq_ytm_xz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 76 Va, Va Sekt. 2 Tit. XIX Nr. 32, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_hw2_gq2_cy">Puttkamer, Robert Victor von
+                        (1828-1900)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1880-04-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_usb_pfm_gbb">Charité zu Berlin</orgName>
+                </correspAction>
+                <note>Am 17. Juni 1880 schrieb <persName key="ed_hw2_gq2_cy">Puttkamer</persName> an
+                    Finanzminister <persName key="ed_oll_w2t_g2b">Bitter</persName>, es sei den
+                    Bemühungen seines Amtsvorgängers nicht gelungen zu verhindern, dass die Strecke
+                    der Stadtbahn zwischen Unterbaumstrasse und Alexanderufer über das Gräflich
+                    Lehndorffsche Terrain in eine Richtung geführt worden ist, welche zusammen mit
+                    der projektierten Anlage einer neuen Straße (Nr. VI) zwischen der
+                    Unterbaumstraße und dem Alexanderufer die Interessen der <orgName key="ed_usb_pfm_gbb">Charité</orgName> beeinträchtige. Das im Besitz der
+                        <persName key="ed_zkm_whl_2y">Grafen Lehndorff</persName> gebliebene Terrain
+                    liege als abgestumpftes Dreieck zwischen Stadtbahn, Unterbaumstraße und Straße
+                    VI, es sei ca. 281,3 Quadratruten groß. Dem Erwerb des Grundstücks für die
+                    Erweiterung der Charité stehe die Preisforderung des Grafen Lehndorff entgegen,
+                    der zuerst 3.000 M, neuerdings nach dem Bericht der Charité-Direktion 2.790 M
+                    pro Quadratrute beanspruche. Der Kaufpreis würde demnach 784.827 M betragen, von
+                    welcher Summe 1/3 sofort, die anderen 2 Drittel in 2 Jahresraten zu zahlen
+                    seien. <quote>Ich glaube nicht auf die Annahme verzichten zu dürfen, dass Graf
+                        Lehndorff sich dazu verstehen wird, sich mit einem geringeren Preis zu
+                        begnügen, der nach allseitiger Erwägung der für die Schätzung des Terrains
+                        an sich und speziell mit Rücksicht auf das Interesse der Charité daran
+                        maßgebenden Verhältnisse sich als angemessen herausstellen wird. Es ist von
+                        mir eine eingehende Ermittelung in letzterer Richtung angeordnet worden.
+                        Ohne einen Zuschuss aus Staatsfonds werde es auf keinen Fall gehen, die
+                        Charité sei nicht im Stande, mehr als 200.000 M aus eigenen Mitteln
+                        beizusteuern.</quote> Am 22. Juli 1880 schrieb Kultusminister <persName key="ed_tgh_2ft_g2b">Goßler</persName> an Finanzminister Bitter, die Charité
+                    könne nur 180.000 M beisteuern und Lehndorff habe auf 2.250 M/Quadratrute
+                    ermäßigt. Am 2. November 1880 teilte Puttkamer Innenminister <persName key="ed_vcq_4ft_g2b">Eulenburg</persName> mit, dass es keinen Grund für eine
+                    Kostenübernahme seitens der Stadt gäbe, der Bau werde am Neuen Tor auf dem zum
+                    Charité-Kirchhof belegenen Platz auszuführen sein. Siehe auch: LAB, A Rep.
+                    010-02 Magistrat der Stadt Berlin, Städtische Baupolizei, Nr. 5099: Bauakte
+                    Pulvermühlenstraße o. Nr. (Tiergarten) 1863-1882 (Eigentümer: Holzhändler
+                    Pfeffer, Gausel, Seidel, Graf Lehndorff). Demnach war das im April 1872 von
+                    Lehndorff erworbene Grundstück noch im Juli 1882 unbebaut und diente als
+                    Holzlager. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 30. April 1880</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>Der pp. erwidere ich auf den Bericht vom 10. v. M., dass ich die Erwägungen,
+                    welche sowohl den Erwerb eines gewissen Teils von dem Gräflich Lehndorffschen
+                    Terrain an der Stadteisenbahn, als auch die Beseitigung der Straße VI für die
+                        <orgName key="ed_usb_pfm_gbb">Charité</orgName> erwünscht machen, in vollem
+                    Maße anerkenne und würdige. </p>
+                <p>Die Realisierung beider Absichten wird indessen durch die hohe Preisforderung des
+                        <persName key="ed_zkm_whl_2y">Grafen Lehndorff</persName> in dem Grade
+                    erschwert, dass ich einstweilen außer Stande bin, meinerseits der Sache näher zu
+                    treten und namentlich mit dem Herrn <persName key="ed_oll_w2t_g2b">Finanzminister</persName> über die Frage, ob und in welchem Maße ein
+                    Zuschuss aus den allgemeinen Staatsfonds für den Ankauf gewährt werden könnte,
+                    mich in Verbindung zu setzen. Ich muss dies bis dahin aufschieben, dass die
+                    (Tit.) sich in der Lage befindet, die Angelegenheit mir unter wesentlich
+                    günstigeren finanziellen Bedingungen nochmals vorzulegen. Unter diesen Umständen
+                    habe ich auch von einer direkten Eröffnung meinerseits an den Grafen Lehndorff
+                    zur Zeit Abstand genommen, ermächtige aber die pp. mit demselben vorbehaltlich
+                    einer späteren Entschließung zu dem angegebenen Zwecke in weitere Verhandlungen
+                    zu treten. </p>
+                <p>Die Handzeichnung, welche dem Bericht vom 10. v. Mts. beigelegen, folgt zurück. </p>
+                <closer>
+                    <salute>Der Minister pp. <lb/>gez. von Puttkamer </salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

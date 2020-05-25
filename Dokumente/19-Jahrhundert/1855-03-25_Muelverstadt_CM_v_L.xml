@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mmp_jyj_h3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Adalbert von Mülverstedt an Carl Meinhard Graf von Lehndorff. Berlin,
+                    25. März 1855</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mmp_jyj_h3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Herkunft/Genealogie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_my1_zlb_1bb">Mülverstedt, George Adalbert von
+                        (1825-1914)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1855-03-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 25. März 1855 <lb/>Churmärkisches Landschaftshaus <lb/>
+                        Spandauer Str. N. 59 </dateline>
+					          <salute>Hochgeborener Herr Reichsgraf! <lb/>Hochzuehrender Herr Geheimer Legationsrat!</salute>
+                </opener>
+				        <p>Ew. Hochgeboren für mich so schmeichelhaftes Schreiben habe ich am Sonntag zu empfangen die
+                    Ehre gehabt und sage für das mir bewiesene Zutrauen den allerbesten Dank. Die
+                    von Ew. Hochgeboren mir gestellte Aufgabe habe ich vollkommen aufgefasst und
+                    mich sofort bemüht, von dem mir nahestehenden Herren Justizrat Dr. <persName key="ed_mkb_ppm_33b">Strach</persName> noch einige nähere Informationen
+                    einzuziehen. Nach einigen vergeblichen Zeugen, durch welche Ew. Hochgeboren auch
+                    die Verzögerung dieses Schreibens entschuldigen wollen, habe ich von dem
+                    genannten Herrn die Zusage erhalten, mir seine Manualakte nach einigen Tagen
+                    mitzuteilen, so dass ich denn demnächst an die erforderliche Korrespondenz gehen
+                    kann, wenn nicht schon ein hiesiger glücklicher Fund aus dem mir bekannten
+                    reichhaltigen Material der Königlichen Bibliothek und des <orgName key="ed_ard_2kg_my">Geheimen Staats- und Kabinettsarchivs</orgName>, in
+                    welchem ich als verpflichteter Hilfsarbeiter Zutritt habe, eines der erwünschten
+                    Resultate erzielen lässt. Insbesondere hoffe ich auch durch die Unterstützung
+                    und Bereitwilligkeit eines meiner hiesigen Gönner, des Herrn Geheimen Rats von
+                        <persName key="ed_cd5_spm_33b">Lancizolle</persName> aus dem für die
+                    Gräflich Schmettausche Familie bedeutenden Provinzialarchiv Schlesiens Nachricht
+                    zu erhalten, namentlich aber aus den reichen genealogischen Quellen der
+                    genannten Bibliothek und der Sammlung des Johanniter-Ritters Ehrenfels im
+                    Staatsarchiv, welche mir zur Benutzung freistehen, schöpfen zu können, ob mit
+                    Glück und Erfolg kann ich freilich jetzt schon, wo ich es vorerst für meine
+                    Pflicht halte, Ew. Hochgeboren neben meiner Dankbarkeit für Ihren mich ehrenden
+                    Auftrag meine Bereitwilligkeit und lebhaftem Eifer zur Ausführung desselben zu
+                    versichern, noch nicht sagen. Wenigstens wollen Ew. Hochgeboren überzeugt
+                    halten, dass alles geschehen soll, was noch in meinen Kräften steht. Bemerken
+                    darf ich wohl noch, dass ich bei Betreibung der Angelegenheit dieselbe als Sache
+                    meiner genealogischen Wissbegier nach außen hin darstellen werde, weil ich so
+                    hoffe, manche Nachrichten nicht zurückgehalten zu sehen. Vielleicht, dass auch
+                    Zirkulare an die reformierte Geistlichkeit Schlesiens und der Mark, die noch
+                    nicht untersucht zu sein scheinen, einen glücklichen Erfolg nach sich ziehen.
+                    Von des Herrn Grafen Dönhoff Exzellenz, welche mich vor 8 Tagen mit einer
+                    Einladung beehrt hatten, habe ich noch einige neue Fingerzeige erhalten. So
+                    wünsche ich denn aufrichtig, bei diesem Unternehmen mich desselben Erfolge
+                    erfreuen zu können, den ich bei ähnlichen Recherchen - freilich nach vieler Mühe
+                    - erzielte, und werde ich nicht unterlassen, Ew. Hochgeboren von Zeit zu Zeit
+                    von der Lage der unternommenen Nachforschungen ausführliche Kenntnis zu geben. </p>
+                <p>Ew. Hochgeboren lebhaftes Interesse an der Geschichte und den Taten der
+                    ritterlichen Vorfahren Ihrer eigenen Familie, welches die Frau Gräfin Dönhoff
+                    Exzellenz vollkommen teilt, hat mich mit ehrfürchtiger Freude erfüllt, umso
+                    mehr, als auch ich, von den geheimnisvollen Anfängen Ihrer Geschichte, die in
+                    eine viel frühere Zeit als die des Beginns der bekannten Stammbäume derselben
+                    reicht, angezogen, die Urgeschichte des Lehndorffschen Geschlechts und die
+                    Beweisführung, dass der Stamm des Siegers vor Wien auf dem heimatlichen Boden
+                    Preußens erwuchs, zum Gegenstand genauer und kritischer Forschung mit besonderer
+                    Vorliebe gemacht habe. Wenn Ew. Hochgeboren es nicht ungern sehen, soll bei
+                    einiger Muße in meiner jetzt freilich noch sehr beanspruchten Zeit bald ein
+                    längerer Aufsatz hierüber in den Preußischen Provinzialblättern jene Resultate
+                    meiner Forschungen an den Tag legen. </p>
+                <p>Es ist die vorzüglichste Hochachtung, mit der ich die Ehre habe mich zu nennen
+                    <lb/>des Herrn Reichsgrafen und Geheimen Legationsrats! ganz ergebenster</p>
+				        <closer>
+                    <signed>G. A. v. Mülverstedt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

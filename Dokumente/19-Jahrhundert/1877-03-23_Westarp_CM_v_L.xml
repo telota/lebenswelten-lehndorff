@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_o13_hbf_p3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Otto Franz Viktor von Westarp an Carl Meinhard Graf von Lehndorff. Gumbinnen,
+                    23. März 1877</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_o13_hbf_p3b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 943, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ccr_jvt_s3b">Westarp, Otto Graf von (1825-1879)</persName>
+                    <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>
+                    <date when="1877-03-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gumbinnen, 23. März 1877</dateline>
+					          <salute>Vertraulich!</salute>
+                </opener>
+				        <p>In der Matrikel-Kommission des Herrenhauses wurde bei der Prüfung der Legitimation des
+                    Rittergutsbesitzers von <persName key="ed_ohv_5vt_s3b">Simpson</persName> in
+                        <placeName key="ed_o3c_stc_py">Georgenburg</placeName> die Frage angeregt,
+                    ob nicht mit Rücksicht darauf, dass gegenwärtig in jedem der beiden
+                    Landschaftsbezirke Litauen und Masuren die nach § 9 der Verordnung vom 10.
+                    November 1865 erforderliche Anzahl der zur aktiven Wahl befähigten
+                    Rittergutsbesitzer vorhanden ist, die in Gemäßheit des § 11 der genannten
+                    Verordnung bisher bestandene Vereinigung der beiden Landschaftsbezirke nunmehr
+                    in Wegfall kommen müsse und demnächst zur Erreichung der in der Anlage zu § 11 c
+                    bestimmten Anzahl von je 2 Vertretern für jeden der beiden Landschaftsbezirke
+                    noch 2 Mitglieder für das Herrenhaus zu präsentieren seien.</p>
+                <p>Bei der letzten, im vergangenen Jahr abgehaltenen Wahl der vereinigten
+                    Landschaftsbezirke Litauen und Masuren waren, wie aus dem <seg type="comment">
+                  <orig>abschriftlich beiliegenden Verzeichnisse </orig>
+                  <note xml:id="nb31_2cf_p3b">Liegt nicht bei.</note>
+                    </seg>ersichtlich ist, in dem Landschaftsbezirke Litauen 20, in dem
+                    Landschaftsbezirke Masuren 11 zur aktiven Wahl befähigte Rittergutsbesitzer
+                    vorhanden, also in jedem derselben die zur Vollziehung gültiger
+                    Präsentationswahlen erforderliche Anzahl von mindestens 10 Wahlberechtigten. </p>
+                <p>Da die beiden auf Präsentation der vereinigten beiden Landschaftsbezirke in das
+                    Herrenhaus berufenen Rittergutsbesitzer <persName key="ed_jhn_y3q_f2b">Freiherr
+                        von Mirbach-Sorquitten</persName> und von <persName key="ed_ohv_5vt_s3b">Simpson-Georgenburg </persName>nach der Lage des betreffenden Grundbesitzes
+                    zum Landschaftsbezirk Masuren gehören, so würde deshalb eventuell der
+                    Landschaftsbezirk Litauen die in das Herrenhaus zu berufenden weiteren zwei
+                    Mitglieder zu präsentieren haben.</p>
+                <p>Der Herr Minister des Innern hat sich die Entscheidung in der Sache
+                    vorbehalten.</p>
+                <p>Bevor ich das von mir erforderte Gutachten abgebe, ersuche in Euer Hochgeboren
+                    ergebenst um gefällige baldige vertrauliche Äußerung darüber, ob Ihnen mit
+                    Rücksicht auf die Verhältnisse der zum Landschaftsbezirk Litauen gehörigen aktiv
+                    und passiv wahlberechtigten Rittergutsbesitzer die Wahl zweier für das
+                    Herrenhaus zu präsentierenden Mitglieder zur Zeit ausführbar und wünschenswert
+                    erscheint.</p>
+				        <closer>
+                    <signed>[Unterschrift]</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

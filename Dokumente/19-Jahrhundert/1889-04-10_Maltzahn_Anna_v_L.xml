@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_skc_bvg_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Graf von Maltzahn an Anna Gräfin von Lehndorff. Lyck, 10. April 1889</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_skc_bvg_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 484, Bl. 14-14v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_hxt_qch_1cb">Maltzahn, Graf von (-)</persName>
+                    <placeName key="ed_eby_wkz_ny">Lyck</placeName>
+                    <date when="1889-04-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Am 17. Oktober 1891 bedankte er sich aus Berlin, Schiffbauerdamm 29,  für
+                        <quote> Güte und Gastlichkeit</quote> in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>  und hoffe, man streiche ihn nicht aus dem Gedächtnis
+                    aufgrund längerer Abwesenheit.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/484/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lyck, 10.4.89</dateline>
+					          <salute>Hochverehrte gnädigste Gräfin!</salute>
+                </opener>
+                <p>Sie waren so gütig, mir eine Wiederholung meines Besuchs zu erlauben. Ich komme
+                    nun mit der unbescheidenen Bitte, ob <persName key="ed_twx_x35_h2b">Perponcher</persName> und ich zu Ihnen auf 3 Tage nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> kommen dürfen? Falls Sie, gnädigste
+                    Gräfin, mit unserer Bitte einverstanden sind, würden wir gern vom 20. bis 22.
+                    bei Ihnen bleiben.</p>
+				        <closer>
+					          <salute>Mit bestem Gruß an <persName key="ed_ik3_ckz_2y">Carol</persName> Ihr sehr
+                        gehorsamster</salute>
+					          <signed>v. Maltzahn</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

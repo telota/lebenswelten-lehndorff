@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_wl2_4pg_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Karl Ludwig Herzog von Holstein-Beck an Carl Friedrich Ludwig Graf von Lehndorff. Wellingsbüttel, 30. Oktober
+                    1810</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_wl2_4pg_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 895, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_txh_3w5_sy">Holstein-Sonderburg-Beck, Friedrich Karl Ludwig
+                        Herzog von (1757-1816)</persName>
+                    <placeName key="ed_nlq_jsl_ddb">Wellingsbüttel</placeName>
+                    <date when="1810-10-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Er bedankt sich bei seinem <quote>liebsten alten Freund</quote> für dessen Brief
+                    und Geburtstagsglückwünsche. Er berichtet seinen <quote>Lebenslauf</quote> seit
+                    seiner Rückkehr aus <placeName key="ed_hzr_c15_q2b">Louisenlund</placeName> und
+                        <placeName key="ed_ip4_b15_q2b">Kopenhagen</placeName>. Auch sei er
+                    Großvater geworden. Es freut ihn, dass Lehndorff sich für seine Landwirtschaft,
+                    besonders die Schafzucht interessiert, jedoch hätten auch diese Geschäfte ihre
+                        <quote>Dornen</quote>. Doch sei keines <quote>wichtiger, unterhaltender und
+                        lohnender</quote>, aber es gehöre auch viel Geduld dazu, weil jede,
+                        <quote>auch die geringste Operation wenigstens ein Jahr Zeit erfordert, um
+                        sie zu vollenden, und das Resultat davon zu sehen.</quote> Noch könne er
+                    nicht sagen, wie er seine Wirtschaft einrichten werde, könne aber frei
+                    entscheiden, denn noch existiere gar keine. Neben dem Ackerbau halte er die
+                    Viehzucht für das Wichtigste als Fleisch- und Milchlieferant. Er freue sich,
+                    dass Lehndorff mit der Wirtschaft in <placeName key="ed_iyy_gvm_zcb">Lindenau</placeName>
+                    <quote>nicht ganz unzufrieden</quote> gewesen sei und dass es ihm dort bei
+                    seinem Vetter gefallen habe. Die dortige Wirtschaft habe noch große Mängel, ohne
+                    den Krieg hätte er sie längst abgestellt. Von Lindenau könne Lehndorff die
+                    spanischen Schafe bekommen, die er in W. nicht halten könne. Er solle sie in
+                    Ehren halten und daraus eine reine, unvermischte Zucht aufbauen, damit der Stamm
+                    in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> nicht aussterbe.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

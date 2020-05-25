@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_oqf_rhn_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oberförster Walter an Anna Gräfin von Lehndorff. Mittenort, 20. Oktober
+                    1889</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_oqf_rhn_my</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 225, Bl. 3-4</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_hkh_3pg_my">Walter, (-)</persName>
+                    <placeName key="ed_zr1_c3n_my">Mittenort</placeName>
+                    <date when="1889-10-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Siehe auch das „Projekt zu einem Pachtvertrag über die Holznutzung des zum
+                    Majorat gehörigen Jankendorfer Waldes, vorgeschlagen durch <persName key="ed_p31_2k5_h2b">Schenck von Tautenburg</persName> auf <placeName key="ed_j3v_gk5_h2b">Partsch</placeName> (1890)‟, in:  APO, Bestand 382 FA
+                    Lehndorff, Nr. 170..</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/3/225/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Mittenort, 20. Oktober 1889</dateline>
+                    <salute>Hochgeborene gnädige Frau Gräfin!</salute>
+                </opener>
+                <p>Wegen des Verkaufs von Eichen stehe ich mit der Firma <orgName key="ed_jpj_53n_my">Stier &amp; Stephan</orgName> in <placeName key="ed_xrv_gwb_by">Berlin</placeName> in Verhandlung und scheint der
+                    Verkauf zu dem verlangten Preise von 30 Mark pro Festmeter ziemlich sicher; ein
+                    Vertreter der Firma kommt Ende dieses Monats zum Abschluss des Kontrakts
+                    hierher. Heute erhielt ich auch noch eine Anfrage nach Eichen von der
+                    Holzhandlung <orgName key="ed_yxf_1jn_my">Allendorff</orgName> in <placeName key="ed_iw5_fxl_2y">Breslau</placeName>. <unclear reason="illegible" cert="high">Wieszin</unclear> hat den Kontrakt bis jetzt noch nicht
+                    unterschrieben weil er, wie er mir mitteilte, die innerhalb 8 Tagen nach
+                    Kontraktschluss zu zahlende Kaution noch nicht beisammen hat. <seg type="comment">
+                  <orig>An den Ziegeleibesitzer <persName key="ed_ybs_cjn_my">Sawatzki</persName> habe ich 800 Raummeter Schnitt- und Krüppelholz
+                            verkauft.</orig>
+                  <note xml:id="nint_xym_ngb"> Der Bauunternehmer
+                                <persName key="ed_ybs_cjn_my">Otto Sawatzki</persName>, war sei 1893
+                            Ziegeleibesitzer im unweit von Steinort gelegenen Dorf <placeName key="ed_sz3_kqp_tcb">Thiergarten</placeName>.  </note>
+               </seg>
+                    Sawatzki sollte sich verpflichten, das Geld spätestens bis 1. März d. J. zu
+                    bezahlen, er ist jedoch nur darauf eingegangen, dasselbe bis zum 1. April
+                    spätestens bezahlt zu haben (bei früherer Abfuhr des Holzes erfolgt jedoch auch
+                    die Zahlung vor der Abfuhr). Ich habe die Bedingung des Sawatzki angenommen in
+                    der Voraussetzung Euer Hochgeboren werden dieselbe genehmigen. </p>
+            <p>Eicheln sind nur in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gesammelt, da in den
+                    anderen Beläufen zu wenig Mast vorhanden ist und die wenigen Eicheln daher vom
+                    Wilde sofort aufgesammelt werden. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Zu den neu anzulegenden Moordammwiesen in <placeName key="ed_ofx_nwf_cy">Nordenort</placeName>
+                        </orig>
+                  <note xml:id="nvbk_nrt_lcb">Nordenort war auch Forstgebiet, zu
+                            Holzverkäufen: APO, Bestand 382 FA Lehndorff, Nr. 18, Bl. 1 (Fa. August
+                            Richter &amp; Söhne, Samotschin 1894). Auch hier war wie oben eine
+                            Kautionszahlung verlangt worden. </note>
+               </seg> sind circa 10 Morgen
+                    planiert, und hoffe ich in dieser Woche auch mit den Gräben fertig zu werden. Es
+                    hat sich jedoch als notwendig herausgestellt, dass der Hauptabzugsgraben noch in
+                    diesem Herbst geräumt werden muss, ebenso die früher angelegten Gräben mit
+                    senkrechten Wänden. Diese Gelegenheit werde ich gleich benutzen, um die Wände
+                    etwas schräg zu legen. </p>
+            <p>In der Forst bin ich mit Stubbenroden und Umgraben der nächstjährigen <gap reason="illegible"/>
+                    beschäftigt. </p>
+            <p>Herr Oberförster von <persName key="ed_on4_3jn_my">Nordenflycht</persName> ist bei seiner
+                    Bereisung auf die Kulturmethode, wie sie vor Übernahme seiner Inspektion hier
+                    bestand und welche auf sein Anraten trotz meines Widerspruchs abgeschafft wurde,
+                    zurückgekommen. Er hat bestimmt, dass im nächsten Frühjahr wieder mit dem <seg type="comment">
+                  <orig>Erziehen von verschulten Fichten-Einzel- und
+                            Büschelpflanzen</orig>
+                  <note xml:id="ndgw_j4x_jlb">Bei der Aussaat werden
+                            die Pflanzen dicht gepflanzt. Damit sie sich nicht gegenseitig
+                            bedrängen, müssen sie nach einiger Zeit verschult werden. Hierbei werden
+                            die Pflanzen in das Verschulungsbeet im baumartenspezifischen Abstand
+                            gepflanzt.</note>
+               </seg> vorgegangen werden soll, allerdings nur mit der
+                    Hälfte der Pflanzen, während ich die verschulten Fichten-Pflanzen unter jeden
+                    Umständen den unverschulten vorziehe.</p>
+				        <closer>
+				           <salute>In aller Ehrfurcht Euer Hochgeboren gehorsamster</salute>
+					          <signed>Walter</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

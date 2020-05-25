@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_fhy_fwb_5bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Marie Oldenburg an Carl Meinhard Graf von Lehndorff. Königsberg, 17. Februar
+                    1883</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_fhy_fwb_5bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 395, Bl. 112-112v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_azg_gxf_ccb">Oldenburg, Marie (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1883-02-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Marie Oldenburg war Hauslehrerin, ihre Briefe an Anna von Lehndorff
+                    (1874-1893), in: APO, Bestand 382 FA Lehndorff, Nr. 329.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 17. Februar 1883</dateline>
+					          <salute>Geehrter Herr Graf!</salute>
+                </opener>
+				        <p>Ihr gütiges Schreiben habe ich H. v. H. abgegeben; ich war so dankbar, es zu besitzen, und es
+                    trug wesentlich dazu bei, mir über das etwas peinliche der Situation hinweg zu
+                    helfen. Herr v. H. trug mir eine ergebene Empfehlung für Herrn Grafen auf und
+                    dankt für die Zeilen, die ihm vielleicht den Mut geben, mir seine Kinder
+                    anzuvertrauen. Am 1. April werde ich nach <seg type="comment">
+                  <orig>Hohenfelde</orig>
+                  <note xml:id="nsy1_tbz_g2b">im Kreis
+                            Köslin?</note>
+               </seg> gehen und fünf Kinder unterrichten helfen. Ich
+                    arbeite gern und hoffe, es wird mir dort wohl sein. Frau v. H. ist eine feine
+                    und edle Erscheinung, sie gefiel mir sehr. Mir war es Bedürfnis, geehrter Herr
+                    Graf, Ihnen das Resultat meiner Reise mitzuteilen und Ihnen nochmal für die mir
+                    bewiesene Gastfreundschaft und Güte herzlich zu danken.</p>
+				        <closer>
+					          <salute>In aufrichtiger Verehrung <lb/>Ihre ergebene</salute>
+					          <signed>Marie Oldenburg</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

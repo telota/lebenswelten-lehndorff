@@ -1,0 +1,1720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_kvc_gzw_jlb">
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Auguste Victoria Königin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Prinzessin von Schleswig-Holstein-Sonderburg-Augustenburg</name>
+                    </persName>
+                    <birth>1858</birth>
+                    <death>1921</death>
+                </person>
+                <person xml:id="ed_kxl_m4p_jlb">
+                    <persName type="reg">
+                        <surname>Priddat</surname>
+                        <forename>Hugo</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Druckereibesitzer</note>
+                </person>
+                <person xml:id="ed_nwb_ddc_jlb">
+                    <persName type="reg">
+                        <surname>Pröll</surname>
+                        <forename>Dr. Gustav</forename>
+                    </persName>
+                    <birth>1870</birth>
+                    <death>1895</death>
+                    <note>ab 1851 Badearzt in Bad Gastein.https://www.sn.at/wiki/Gustav_Pröll</note>
+                </person>
+                <person xml:id="ed_ws2_24t_flb">
+                    <idno type="uri">https://d-nb.info/gnd/141421037</idno>
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Friedrich Heinrich Graf von</forename>
+                    </persName>
+                    <birth>1746</birth>
+                    <death>1804</death>
+                </person>
+                <person xml:id="ed_jcz_yz1_2lb">
+                    <idno type="uri">https://d-nb.info/gnd/102017077</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Luise Ulrike Prinzessin von</forename>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1782</death>
+                </person>
+                <person xml:id="ed_esh_m1x_clb">
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Johann Wilhelm von</forename>
+                    </persName>
+                    <birth>1677</birth>
+                    <death>1720</death>
+                    <note>Erbherr auf den Penkeschen Gütern; Rittmeister</note>
+                </person>
+                <person xml:id="ed_zzb_bdx_clb">
+                    <persName type="reg">
+                        <surname>Preiß</surname>
+                        <forename>Barthel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertan der Steinortschen Güter</note>
+                </person>
+                <person xml:id="ed_m1m_bbf_3fb">
+                    <persName type="reg">
+                        <surname>Packmohr</surname>
+                        <forename>Christoph von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberst; verkaufte 1703 Stawken und Pristanien an die Lehndorffs </note>
+                </person>
+                <person xml:id="ed_tnp_l2c_t2b">
+                    <persName type="reg">
+                        <surname>Packmohr</surname>
+                        <forename>Fräulein von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1727)</note>
+                </person>
+                <person xml:id="ed_gjm_nhx_vhb">
+                    <persName type="reg">
+                        <surname>Packmohr</surname>
+                        <forename>Julius Albrecht von</forename>
+                    </persName>
+                    <birth/>
+                    <death>vor 1717</death>
+                    <note>Kapitän, Oletzko</note>
+                </person>
+                <person xml:id="ed_ebk_zvs_g2b">
+                    <persName type="reg">
+                        <surname>Paczynski</surname>
+                        <forename>Marie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1880)</note>
+                </person>
+                <person xml:id="ed_jcc_cyj_d2b">
+                    <persName type="reg">
+                        <surname>Paczensky</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>General (1861)</note>
+                </person>
+                <person xml:id="ed_e1m_rq5_ncb">
+                    <persName type="reg">
+                        <surname>Pahlke</surname>
+                        <forename>Heinrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1891 Lehrer in Rehsau</note>
+                </person>
+                <person xml:id="ed_nsz_yww_h2b">
+                    <persName type="reg">
+                        <surname>Palfner</surname>
+                        <forename>Carl Wilhelm Eduard</forename>
+                    </persName>
+                    <birth>1836</birth>
+                    <death>1911</death>
+                    <note>1896 Komerzienrat in Rastenburg</note>
+                </person>
+                <person xml:id="ed_o1q_wyv_mbb">
+                    <persName type="reg">
+                        <surname>Pallas</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1775 Regimentsfeldscher</note>
+                </person>
+                <person xml:id="ed_mbc_flj_gy">
+                    <persName type="reg">
+                        <surname>Pallasch</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1795 Knecht in Steinort</note>
+                </person>
+                <person xml:id="ed_if3_1jv_12b">
+                    <persName type="reg">
+                        <surname>Panin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1947 Beauftragter des russischen Kommandanten von Waldheim</note>
+                </person>
+                <person xml:id="ed_ckn_c4w_h2b">
+                    <persName type="reg">
+                        <surname>Pankonowski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Arbeiter, 1894 Aufnahme im Angerburger Siechenhaus</note>
+                </person>
+                <person xml:id="ed_p1t_pw2_n2b">
+                    <persName type="reg">
+                        <surname>Papendick</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1843 Orgelbauer in Tilsit</note>
+                </person>
+                <person xml:id="ed_jfh_qpd_b2b">
+                    <persName type="reg">
+                        <surname>Pappenheim</surname>
+                        <forename>Lucie Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Hardenberg-Reventlow, von</name>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1854</death>
+                    <note>Tochter des königlich preußischen Staatskanzlers und Fürsten Karl August
+                        von Hardenberg; Heirat: Karl Theodor von Pappenheim, Trennung 1802; 2. Ehe:
+                        Hermann von Pückler-Muskau; während ihrer Aufenthalte in Berlin war sie
+                        häufig zu Gast im literarisch-musikalischen Salon von Elisabeth von
+                        Staegemann. https://de.wikipedia.org/wiki/Lucie_von_Hardenberg</note>
+                </person>
+                <person xml:id="ed_m4g_3hj_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/116058668</idno>
+                    <persName type="reg">
+                        <surname>Patow</surname>
+                        <forename>Robert von</forename>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1890</death>
+                </person>
+                <person xml:id="ed_zp4_54g_hy">
+                    <persName type="reg">
+                        <surname>Patz</surname>
+                        <forename>Ludwig Graf </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1830 Mitglied des Administrationsrats des Königreichs Polen (1818)</note>
+                </person>
+                <person xml:id="ed_zpf_b25_sdb">
+                    <persName type="reg">
+                        <surname>Paulick</surname>
+                        <forename>W.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gutsförster / dann Forstverwalter Kriebstein (1947)</note>
+                </person>
+                <person xml:id="ed_k5w_wkv_22b">
+                    <persName type="reg">
+                        <surname>Paulini</surname>
+                        <forename>Paul Nathanael</forename>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1886</death>
+                    <note>1845-1874 Superintendent und Pfarrer in Angerburg</note>
+                </person>
+                <person xml:id="ed_mq4_ggv_sy">
+                    <persName type="reg">
+                        <surname>Paulsen</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kommissionsrat; 1784 Besitzer des adligen Gutes Schilgallen</note>
+                </person>
+                <person xml:id="ed_h3k_rzj_ycb">
+                    <persName type="reg">
+                        <surname>Peiper</surname>
+                        <forename>Gotthold Maximilian Woldemar</forename>
+                    </persName>
+                    <birth>1841</birth>
+                    <death>1894</death>
+                    <note>Lehrer und Theologe, Seminarleiter in Angerburg</note>
+                </person>
+                <person xml:id="ed_r2r_p5g_my">
+                    <persName type="reg">
+                        <surname>Peischel</surname>
+                        <forename>Joaachim Victor</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: Dorothea, Sohn: August Rosenbaum, getauft 1833 in
+                        Rosengarten</note>
+                </person>
+                <person xml:id="ed_wsx_5lr_d2b">
+                    <persName type="reg">
+                        <surname>Pelet</surname>
+                        <forename>J.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1862 Oberamtmann; Pächter des Königlichen Domänen-Vorwerks
+                        Pierkunowen</note>
+                </person>
+                <person xml:id="ed_i1s_wqp_tdb">
+                    <persName type="reg">
+                        <surname>Pelet</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1767)</note>
+                </person>
+                <person xml:id="ed_izb_qlc_tcb">
+                    <persName type="reg">
+                        <surname>Pennavaire</surname>
+                        <forename>Jean</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1785 Hofmarschall und Kammerherr beym Prinzen Friedrich von
+                        Braunschweig</note>
+                </person>
+                <person xml:id="ed_fyw_2wh_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/1139728342</idno>
+                    <persName type="reg">
+                        <surname>Perbandt</surname>
+                        <forename>Karoline (Lina) Louise Amalie Auguste von</forename>
+                    </persName>
+                    <birth>1836</birth>
+                    <death>1897</death>
+                </person>
+                <person xml:id="ed_twx_x35_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/116082062</idno>
+                    <persName type="reg">
+                        <surname>Perponcher-Sedlnitzky</surname>
+                        <forename>Friedrich von</forename>
+                    </persName>
+                    <birth>1821</birth>
+                    <death>1909</death>
+                </person>
+                <person xml:id="ed_wht_2ns_33b">
+                    <persName type="reg">
+                        <surname>Peslack</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1771 bis 1774 Pächter des Kruges in Steinort </note>
+                </person>
+                <person xml:id="ed_kzn_xw2_2z">
+                    <idno type="uri">http://d-nb.info/gnd/118592904</idno>
+                    <persName type="reg">
+                        <surname>Pesne</surname>
+                        <forename>Antoine</forename>
+                    </persName>
+                    <birth>1683</birth>
+                    <death>1757</death>
+                </person>
+                <person xml:id="ed_wkg_5th_tcb">
+                    <persName type="reg">
+                        <surname>Peter</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1786 Richter in Gerdauen</note>
+                </person>
+                <person xml:id="ed_sgg_3pv_g2b">
+                    <persName type="reg">
+                        <surname>Peters</surname>
+                        <forename>Exzellenz von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1882)</note>
+                </person>
+                <person xml:id="ed_mvw_lhl_ddb">
+                    <persName type="reg">
+                        <surname>Petersdorff</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1851 Kölmer in Budschen</note>
+                </person>
+                <person xml:id="ed_e3v_qcv_22b">
+                    <persName type="reg">
+                        <surname>Petersen</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Chef der Kanzlei in Petersburg (1872)</note>
+                </person>
+                <person xml:id="ed_uw3_qcv_22b">
+                    <persName type="reg">
+                        <surname>Petersen</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1872)</note>
+                </person>
+                <person xml:id="ed_gbz_rc5_22b">
+                    <persName type="reg">
+                        <surname>Petitpierre</surname>
+                        <forename>Fräulein</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: Schumacher; 1870 Gouvernante der Lehndorffs</note>
+                </person>
+                <person xml:id="ed_fyf_hxt_g2b">
+                    <idno type="uri">https://d-nb.info/gnd/116143142</idno>
+                    <persName type="reg">
+                        <surname>Pfannschmidt</surname>
+                        <forename>Carl Gottfried</forename>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1887</death>
+                </person>
+                <person xml:id="ed_erk_d3j_w2b">
+                    <idno type="uri">https://d-nb.info/gnd/118740709</idno>
+                    <persName type="reg">
+                        <surname>Pfeffel</surname>
+                        <forename>Gottlieb Konrad</forename>
+                    </persName>
+                    <birth>1736</birth>
+                    <death>1809</death>
+                </person>
+                <person xml:id="ed_zy1_xcq_dz">
+                    <persName type="reg">
+                        <surname>Pfeiffer</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1852 Amtmann in Lyck</note>
+                </person>
+                <person xml:id="ed_xgf_h1g_vdb">
+                    <persName type="reg">
+                        <surname>Pfeiffer</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rechnungsrat (1856, 1861, 1870, 1872)</note>
+                </person>
+                <person xml:id="ed_opl_pc5_sdb">
+                    <persName type="reg">
+                        <surname>Pfeiffer</surname>
+                        <forename>Paul</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>seit 1937 Schlossverwalter in Kriebstein (1947)</note>
+                </person>
+                <person xml:id="ed_ddh_blh_lfb">
+                    <idno type="uri">https://d-nb.info/gnd/189443359</idno>
+                    <persName type="reg">
+                        <surname>Philippi</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1853</birth>
+                    <death>1930</death>
+                </person>
+                <person xml:id="ed_tsr_j4b_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/115741208</idno>
+                    <persName type="reg">
+                        <surname>Philippi</surname>
+                        <forename>Johann Albrecht</forename>
+                    </persName>
+                    <birth>1721</birth>
+                    <death>1791</death>
+                </person>
+                <person xml:id="ed_zxn_vfh_scb">
+                    <persName type="reg">
+                        <surname>Pietsch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Regimentsfeldscher (1740)</note>
+                </person>
+                <person xml:id="ed_ovr_nyl_cz">
+                    <idno type="uri">http://d-nb.info/gnd/118792113</idno>
+                    <persName type="reg">
+                        <surname>Pigalle</surname>
+                        <forename>Jean-Baptiste</forename>
+                    </persName>
+                    <birth>1714</birth>
+                    <death>1785</death>
+                </person>
+                <person xml:id="ed_ayd_s1v_vz">
+                    <idno type="uri">http://d-nb.info/gnd/120875683</idno>
+                    <persName type="reg">
+                        <surname>Pisanski</surname>
+                        <forename>Georg Christoph</forename>
+                    </persName>
+                    <birth>1725</birth>
+                    <death>1790</death>
+                </person>
+                <person xml:id="ed_uhx_5jq_tcb">
+                    <persName type="reg">
+                        <surname>Pisanski</surname>
+                        <forename>Jacob Ludwig</forename>
+                    </persName>
+                    <birth>1733</birth>
+                    <death>1810</death>
+                    <note>Superintendent, 1760-1810 Pfarrer zu Angerburg; Bruder von <persName
+                            key="ed_ayd_s1v_vz">Georg Christoph Pisanski</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_bhh_y3t_ncb">
+                    <persName type="reg">
+                        <surname>Pivorra</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Klein-Steinort (1784)</note>
+                </person>
+                <person xml:id="ed_ubw_l55_zdb">
+                    <persName type="reg">
+                        <surname>Planitz</surname>
+                        <forename>Fed Edler von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1944)</note>
+                </person>
+                <person xml:id="ed_lbw_4dm_w2b">
+                    <persName type="reg">
+                        <surname>Platen</surname>
+                        <forename>Sophia Susanne Charlotta von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Cocceji, von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: Dubislav Friedrich von Platen</note>
+                </person>
+                <person xml:id="ed_utg_lcx_42b">
+                    <persName type="reg">
+                        <surname>Platow</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Generalleutnant (1740)</note>
+                </person>
+                <person xml:id="ed_htf_hqk_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/1026888611</idno>
+                    <persName type="reg">
+                        <surname>Plehwe</surname>
+                        <forename>Bernhard Joachim von</forename>
+                    </persName>
+                    <birth>1792</birth>
+                    <death>1858</death>
+                </person>
+                <person xml:id="ed_ttg_4k5_22b">
+                    <idno type="uri">https://d-nb.info/gnd/116287489</idno>
+                    <persName type="reg">
+                        <surname>Pless</surname>
+                        <forename>Hans Heinrich Fürst von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Hochberg, Graf von</name>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1907</death>
+                </person>
+                <person xml:id="ed_cgy_ftp_rdb">
+                    <persName type="reg">
+                        <surname>Plessen</surname>
+                        <forename>Helmut Graf von</forename>
+                    </persName>
+                    <birth>1699</birth>
+                    <death>1761</death>
+                    <note>königlich polnischer und kurfürstlich sächsischer Kammerherr, Wirklicher
+                        Geheimer Rat, Staatsminister und Gesandter beim Dänischen Hof</note>
+                </person>
+                <person xml:id="ed_azr_wn5_ccb">
+                    <idno type="uri">http://d-nb.info/gnd/130425737</idno>
+                    <persName type="reg">
+                        <surname>Plessen</surname>
+                        <forename>Hans Georg Hermann von</forename>
+                    </persName>
+                    <birth>1841</birth>
+                    <death>1929</death>
+                </person>
+                <person xml:id="ed_ptn_snw_h2b">
+                    <persName type="reg">
+                        <surname>Plog</surname>
+                        <forename>Wally</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1894 Diakonisse im Angerburger Siechenhaus</note>
+                </person>
+                <person xml:id="ed_ip5_mcz_wy">
+                    <idno type="uri">http://d-nb.info/gnd/1026905818</idno>
+                    <persName type="reg">
+                        <surname>Plotho</surname>
+                        <forename>Carl Johann Joachim Friedrich Edler Herr und Freiherr
+                            von</forename>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1820</death>
+                </person>
+                <person xml:id="ed_vxh_1bk_d2b">
+                    <persName type="reg">
+                        <surname>Plüskow</surname>
+                        <forename>Hartwig von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1895</death>
+                    <note>Rittmeister, Herr auf Rehsau</note>
+                </person>
+                <person xml:id="ed_e4k_ws2_vz">
+                    <persName type="reg">
+                        <surname>Pociey</surname>
+                        <forename>Ludwig Constantin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Groß-Feldherr von Litauen und Kastellan von Vilna</note>
+                </person>
+                <person xml:id="ed_nfd_1kh_h2b">
+                    <persName type="reg">
+                        <surname>Podbielski</surname>
+                        <forename>Victor von</forename>
+                    </persName>
+                    <birth>1844</birth>
+                    <death>1916</death>
+                    <note>1885 -1890 Oberst und Kommandeur des Husaren-Regiments „ von Zieten“ Nr. 3
+                        in Rathenow.
+                        http://www.rathenow-kirchen.de/seite/408510/9-die-zietenhusaren.html</note>
+                </person>
+                <person xml:id="ed_ek1_pw5_vcb">
+                    <idno type="uri">https://d-nb.info/gnd/1018448586</idno>
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Constantin Guido von</forename>
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></persName><?oxy_custom_end?>
+                    <birth>1703</birth>
+                    <death>18.4.1762</death>
+                    <note>Heirat: 6.1.1744 Sophie Dorothea Gräfin von Lehndorff</note>
+                </person>
+                <person xml:id="ed_gcc_jkt_52b">
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Fräulein von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Nichte des Grafen Ernst Ahasverus Heinrich von Lehndorff, 1762 Hofdame der
+                        Prinzessin Amalie</note>
+                </person>
+                <person xml:id="ed_tkp_4cg_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/1015503209</idno>
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Grafen von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_zt5_y5b_tcb">
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1784/85)</note>
+                </person>
+                <person xml:id="ed_f4n_xvj_tcb">
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1793</death>
+                    <note>Rittmeister</note>
+                </person>
+                <person xml:id="ed_hv4_x2p_tdb">
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Friedrich Werner Graf von</forename>
+                    </persName>
+                    <birth>1742</birth>
+                    <death>1894</death>
+                    <note>auf Suckow; Sohn des Staatsministers <persName key="ed_vcf_fdg_vdb"
+                            >Heinrich Graf von Podewils</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_a4w_1cc_tcb">
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Hans Otto Graf von</forename>
+                    </persName>
+                    <birth>1759</birth>
+                    <death>1840</death>
+                </person>
+                <person xml:id="ed_vcf_fdg_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/116247592</idno>
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Heinrich Graf von</forename>
+                    </persName>
+                    <birth>1696</birth>
+                    <death>1760</death>
+                </person>
+                <person xml:id="ed_ctk_fcg_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/116247614</idno>
+                    <persName type="reg">
+                        <surname>Podewils</surname>
+                        <forename>Otto Christoph Graf von</forename>
+                    </persName>
+                    <birth>1719</birth>
+                    <death>1781</death>
+                </person>
+                <person xml:id="ed_cbc_pd1_4cb">
+                    <persName type="reg">
+                        <surname>Podlasky</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1820 Ökonomiekommissar; an der Separation in Steinort beteiligt</note>
+                </person>
+                <person xml:id="ed_om1_nxl_ddb">
+                    <persName type="reg">
+                        <surname>Pohl</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1856 Amtmann</note>
+                </person>
+                <person xml:id="ed_ovl_sjv_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/119181789</idno>
+                    <persName type="reg">
+                        <surname>Polen</surname>
+                        <forename>Cäcilia Renata Königin von </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Österreich, Erzherzogin von</name>
+                    </persName>
+                    <birth>1611</birth>
+                    <death>1644</death>
+                    <note>Großfürstin von Litauen; Heirat: <persName key="ed_gs3_fjv_c2b">Johann II.
+                            Kasimir König von Polen</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_gs3_fjv_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/119389118</idno>
+                    <persName type="reg">
+                        <surname>Polen</surname>
+                        <forename>Johann II. Kasimir König von, Großfürst von Litauen</forename>
+                    </persName>
+                    <birth>1609</birth>
+                    <death>1672</death>
+                </person>
+                <person xml:id="ed_prt_skl_ddb">
+                    <persName type="reg">
+                        <surname>Pollaschke</surname>
+                        <forename>Luise</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1854 Stallmädchen in Steinort</note>
+                </person>
+                <person xml:id="ed_lgn_53h_scb">
+                    <idno type="uri">http://d-nb.info/gnd/119475979</idno>
+                    <persName type="reg">
+                        <surname>Pöllnitz</surname>
+                        <forename>Karl Ludwig Freiherr von</forename>
+                    </persName>
+                    <birth>1692</birth>
+                    <death>1775</death>
+                </person>
+                <person xml:id="ed_wkt_5q4_s3b">
+                    <persName type="reg">
+                        <surname>Poltzien</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1883</death>
+                    <note>Tischlermeister in Steinort; Sohn von Gottfried und Caroline Poltzien;
+                        Heirat: 1832 Henriette Bartsch, aus Steinort gebürtig (1800-1888); Kinder:
+                        Henriette (1833-1834), Carl Paul Heinrich George (1835-1896), Rudolph
+                        Ahasver (1836-1841), Caroline Louise (1839), Lina (1840).
+                        datenbank-nord-masuren.besaweb.de</note>
+                </person>
+                <person xml:id="ed_pkh_3gv_mbb">
+                    <persName type="reg">
+                        <surname>Poltzien</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth>1773</birth>
+                    <death/>
+                    <note>aus Steinort gebürtig; Kämmerer des Grafen Lehndorff</note>
+                </person>
+                <person xml:id="ed_dlh_ybk_d2b">
+                    <persName type="reg">
+                        <surname>Poltzien</surname>
+                        <forename>Carl Paul Heinrich George</forename>
+                    </persName>
+                    <birth>1835</birth>
+                    <death>1896</death>
+                    <note>Groß Steinort, Eltern: Carl Poltzien und Henriette Bartsch; Tischler;
+                        Heirat: 1864 Henriette Puschke (1800-1888), Tochter des Steinorter Lehrers
+                        Friedrich August Puschke (1811-1874); Kinder: Paulie Lina (geb. 1865), Emma
+                        (1866), Carl Ahasverus (1868), Anna Luise (1869-1870), Albert Heinrich
+                        (1870-1871), Meinhard (1878). datenbank-nord-masuren.besaweb.de</note>
+                </person>
+                <person xml:id="ed_jxf_qym_s2b">
+                    <persName type="reg">
+                        <surname>Poltzien</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1716/1721 Pächter von Labab </note>
+                </person>
+                <person xml:id="ed_xll_ckm_33b">
+                    <persName type="reg">
+                        <surname>Poltzien</surname>
+                        <forename>Meinhard Erich</forename>
+                    </persName>
+                    <birth>1878</birth>
+                    <death/>
+                    <note>Steinort, Sohn von Carl Poltzien und Henriette Puschke; 1900-1902 Besuch
+                        der Münchener Fotoschule; Gastwirt, Posthalter und Fotograf; Heirat: 1911
+                        Antonie Maria Richter, Kaufmannstochter aus Berlin; Kinder: Margarethe Joh.
+                        Paula (1912), Emma Adelheid (1913), Christel Olga Helene (1916), Annemarie
+                        Toni (1917) </note>
+                </person>
+                <person xml:id="ed_c2m_tlp_tdb">
+                    <persName type="reg">
+                        <surname>Poniatowska</surname>
+                        <forename>(Katharine) Prinzessin </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1767)</note>
+                </person>
+                <person xml:id="ed_wx2_t4p_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/119095777</idno>
+                    <persName type="reg">
+                        <surname>Poniatowski </surname>
+                        <forename>Stanislaus II. August</forename>
+                    </persName>
+                    <birth>1732</birth>
+                    <death>1798</death>
+                    <note>König von Polen und Großfürst von Litauen</note>
+                </person>
+                <person xml:id="ed_wzg_5hy_ydb">
+                    <persName type="reg">
+                        <surname>Pöpelmann</surname>
+                        <forename>Karl August von</forename>
+                    </persName>
+                    <birth>1741</birth>
+                    <death>1805</death>
+                    <note>ab 1779 Domherr in Frauenburg; enger Mitarbeiter des Ermländer
+                        Fürstbischofs Ignacy Krasicki; er soll mehrere Sprachen gesprochen haben und
+                        begleitete Krasicki auf seinen Reisen; 1793 und 1794 leitete er das Bistum
+                        während der Abwesenheit des Bischofs</note>
+                </person>
+                <person xml:id="ed_t1y_xyh_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/118741497</idno>
+                    <persName type="reg">
+                        <surname>Popitz</surname>
+                        <forename>Johannes</forename>
+                    </persName>
+                    <birth>1884</birth>
+                    <death>1945</death>
+                </person>
+                <person xml:id="ed_vwt_3yt_sdb">
+                    <persName type="reg">
+                        <surname>Popp</surname>
+                        <forename>Albert</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Standartenführer; Neffe des Gauleiters von Sachsen, Martin
+                        Mutschmann</note>
+                </person>
+                <person xml:id="ed_by2_51q_h1b">
+                    <persName type="reg">
+                        <surname>Poppe</surname>
+                        <forename>Prof. Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Lehrer am Joachimsthalschen Gymnasium in Berlin</note>
+                </person>
+                <person xml:id="ed_pdq_hnc_kfb">
+                    <persName type="reg">
+                        <surname>Porembski</surname>
+                        <forename>Ella von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schrötter, Freiin von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schwägerin von <persName key="ed_vhr_wjh_cy">Anna Freiin von Schrötter,
+                            geb. Gräfin von Lehndorff</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_izd_tmt_scb">
+                    <persName type="reg">
+                        <surname>Porschke</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Arrendator (zwischen 1763 und 1784)</note>
+                </person>
+                <person xml:id="ed_ybs_f53_mfb">
+                    <idno type="uri">https://d-nb.info/gnd/116269952</idno>
+                    <persName type="reg">
+                        <surname>Posse</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth>1879</birth>
+                    <death>1942</death>
+                </person>
+                <person xml:id="ed_cg5_bdj_w2b">
+                    <idno type="uri">https://d-nb.info/gnd/118919016</idno>
+                    <persName type="reg">
+                        <surname>Potocki</surname>
+                        <forename>Roman Ignaz Franciszek </forename>
+                    </persName>
+                    <birth>1751</birth>
+                    <death>1809</death>
+                </person>
+                <person xml:id="ed_tsv_tfs_d2b">
+                    <persName type="reg">
+                        <surname>Pourtalès</surname>
+                        <forename>Anna Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Bethmann-Hollweg, von</name>
+                    </persName>
+                    <birth>1827</birth>
+                    <death>1892</death>
+                    <note>Heirat: Albert Graf von Pourtlès (1812-1861); 1865 Hofdame der Prinzessin
+                        Victoria</note>
+                </person>
+                <person xml:id="ed_hnc_qqs_g2b">
+                    <persName type="reg">
+                        <surname>Pourtalès</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1879)</note>
+                </person>
+                <person xml:id="ed_glb_bgl_hkb">
+                    <idno type="uri">https://d-nb.info/gnd/100230024</idno>
+                    <persName type="reg">
+                        <surname>Prades</surname>
+                        <forename>Jean Martin de</forename>
+                    </persName>
+                    <birth>um 1720</birth>
+                    <death>1782</death>
+                </person>
+                <person xml:id="ed_gpf_gw2_n2b">
+                    <persName type="reg">
+                        <surname>Preiß</surname>
+                        <forename>Fräulein von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pilwen (1784)</note>
+                </person>
+                <person xml:id="ed_hnw_l4w_12b">
+                    <persName type="reg">
+                        <surname>Preuß</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Geserichsee (1976)</note>
+                </person>
+                <person xml:id="ed_shg_m2y_m2b">
+                    <persName type="reg">
+                        <surname>Preuß</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth>1722</birth>
+                    <death>1798</death>
+                    <note>Orgelbauer in Königsberg.
+                        https://de.wikipedia.org/wiki/Johann_Preu%C3%9F_(Orgelbauer)</note>
+                </person>
+                <person xml:id="ed_vlm_b3p_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/119258447</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Albrecht Friedrich Herzog in</forename>
+                    </persName>
+                    <birth>1553</birth>
+                    <death>1618</death>
+                </person>
+                <person xml:id="ed_zy2_gbf_cy">
+                    <idno type="uri">http://d-nb.info/gnd/118501577</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Albrecht Prinz von</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1906</death>
+                </person>
+                <person xml:id="ed_zrl_rkd_2y">
+                    <idno type="uri">http://d-nb.info/gnd/1050543610</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Alexander Prinz von</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1896</death>
+                </person>
+                <person xml:id="ed_x11_dgn_fz">
+                    <idno type="uri">http://d-nb.info/gnd/118648659</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Amalie Prinzessin von</forename>
+                    </persName>
+                    <birth>1723</birth>
+                    <death>1787</death>
+                </person>
+                <person xml:id="ed_uqr_jxf_4y">
+                    <idno type="uri">http://d-nb.info/gnd/118651102</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Augusta Königin von, deutsche Kaiserin</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Sachsen-Weimar-Eisenach, Prinzessin von</name>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1890</death>
+                </person>
+                <person xml:id="ed_b15_ddw_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/11883231X</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>August Prinz von</forename>
+                    </persName>
+                    <birth>1779</birth>
+                    <death>1843</death>
+                </person>
+                <person xml:id="ed_b2n_k5c_mfb">
+                    <idno type="uri">https://d-nb.info/gnd/117746525</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>August Wilhelm Prinz von</forename>
+                    </persName>
+                    <birth>1887</birth>
+                    <death>1949</death>
+                </person>
+                <person xml:id="ed_q12_pqy_bz">
+                    <idno type="uri">https://d-nb.info/gnd/118505106</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>August Wilhelm Prinz von</forename>
+                    </persName>
+                    <birth>1722</birth>
+                    <death>1758</death>
+                </person>
+                <person xml:id="ed_a4l_ltl_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/118822837</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich Carl Alexander Prinz von</forename>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1883</death>
+                </person>
+                <person xml:id="ed_i2m_d4d_b2b">
+                    <idno type="uri">https://d-nb.info/gnd/119092085</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Charlotte Prinzessin von</forename>
+                    </persName>
+                    <birth>1798</birth>
+                    <death>1860</death>
+                    <note>Heirat: <persName key="ed_otg_2nd_b2b">Nikolaus I. Kaiser von
+                            Russland</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_bwq_lzl_2y">
+                    <idno type="uri">http://d-nb.info/gnd/119120674</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Elisabeth Christine Königin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Braunschweig-Wolfenbüttel-Bevern, Prinzessin von</name>
+                    </persName>
+                    <birth>1715</birth>
+                    <death>1797</death>
+                </person>
+                <person xml:id="ed_odq_wwf_4y">
+                    <idno type="uri">http://d-nb.info/gnd/118688634</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Elisabeth Königin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Bayern, Prinzessin von</name>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1873</death>
+                </person>
+                <person xml:id="ed_xfg_b5l_cz">
+                    <idno type="uri">http://d-nb.info/gnd/1018466282</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Elisabeth Luise Prinzessin von </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Brandenburg-Schwedt, Prinzessin von</name>
+                    </persName>
+                    <birth>1738</birth>
+                    <death>1820</death>
+                </person>
+                <person xml:id="ed_mn5_svg_hy">
+                    <idno type="uri">http://d-nb.info/gnd/117505471</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Ferdinand Prinz von</forename>
+                    </persName>
+                    <birth>1730</birth>
+                    <death>1813</death>
+                </person>
+                <person xml:id="ed_kkt_45j_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/121733394</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friederike Luise Königin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Hessen-Darmstadt, Prinzessin von</name>
+                    </persName>
+                    <birth>1751</birth>
+                    <death>1805</death>
+                </person>
+                <person xml:id="ed_syp_mzf_h1b">
+                    <idno type="uri">http://d-nb.info/gnd/118535730</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich I. König von</forename>
+                    </persName>
+                    <birth>1657</birth>
+                    <death>1713</death>
+                </person>
+                <person xml:id="ed_x2r_52f_cy">
+                    <idno type="uri">http://d-nb.info/gnd/118535749</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich II. König von</forename>
+                    </persName>
+                    <birth>1712</birth>
+                    <death>1786</death>
+                </person>
+                <person xml:id="ed_yzt_s1b_dy">
+                    <idno type="uri">http://d-nb.info/gnd/118535668</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich III. Kaiser von</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1888</death>
+                </person>
+                <person xml:id="ed_rb3_nr1_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/118552848</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich Karl Prinz von</forename>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1885</death>
+                    <note>Heirat: Maria Anna Prinzessin von Anhalt-Dessau</note>
+                </person>
+                <person xml:id="ed_xgg_vf2_b2b">
+                    <idno type="uri">https://d-nb.info/gnd/117742589</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich Prinz von</forename>
+                    </persName>
+                    <birth>1794</birth>
+                    <death>1863</death>
+                </person>
+                <person xml:id="ed_nyn_ffz_g1b">
+                    <idno type="uri">https://d-nb.info/gnd/118632884</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich Wilhelm I. König von</forename>
+                    </persName>
+                    <birth>1688</birth>
+                    <death>1740</death>
+                </person>
+                <person xml:id="ed_w15_bk5_sy">
+                    <idno type="uri">http://d-nb.info/gnd/11869362X</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich Wilhelm II. König von</forename>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1797</death>
+                </person>
+                <person xml:id="ed_tl1_nbf_4y">
+                    <idno type="uri">http://d-nb.info/gnd/118535986</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich Wilhelm III. König von</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1840</death>
+                </person>
+                <person xml:id="ed_bg5_tsf_4y">
+                    <idno type="uri">http://d-nb.info/gnd/118535994</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich Wilhelm IV. König von</forename>
+                    </persName>
+                    <birth>1795</birth>
+                    <death>1861</death>
+                </person>
+                <person xml:id="ed_mwt_5gm_cz">
+                    <idno type="uri">http://d-nb.info/gnd/119259745</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich Wilhelm Karl Prinz von</forename>
+                    </persName>
+                    <birth>1783</birth>
+                    <death>1851</death>
+                </person>
+                <person xml:id="ed_asr_nlj_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/11853596X</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Friedrich Wilhelm Kurfürst von</forename>
+                    </persName>
+                    <birth>1620</birth>
+                    <death>1688</death>
+                </person>
+                <person xml:id="ed_lw1_pld_2y">
+                    <idno type="uri">https://d-nb.info/gnd/101471920</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Georg Prinz von</forename>
+                    </persName>
+                    <birth>1826</birth>
+                    <death>1902</death>
+                </person>
+                <person xml:id="ed_ud1_g44_dz">
+                    <idno type="uri">http://d-nb.info/gnd/129202193</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Heinrich Karl Prinz von</forename>
+                    </persName>
+                    <birth>1747</birth>
+                    <death>1767</death>
+                </person>
+                <person xml:id="ed_ug2_glm_33b">
+                    <idno type="uri">https://d-nb.info/gnd/118709798</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Heinrich Prinz von</forename>
+                    </persName>
+                    <birth>1862</birth>
+                    <death>1929</death>
+                </person>
+                <person xml:id="ed_nvx_wcz_bz">
+                    <idno type="uri">http://d-nb.info/gnd/11870978X</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Heinrich Prinz von</forename>
+                    </persName>
+                    <birth>1726</birth>
+                    <death>1802</death>
+                </person>
+                <person xml:id="ed_mw2_lgm_cz">
+                    <idno type="uri">http://d-nb.info/gnd/118729225</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Louis Ferdinand Prinz von</forename>
+                    </persName>
+                    <birth>1772</birth>
+                    <death>1806</death>
+                </person>
+                <person xml:id="ed_p34_cnc_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/118575155</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Luise Königin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Mecklenburg-Strelitz, Prinzessin von </name>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1810</death>
+                </person>
+                <person xml:id="ed_dwz_ctw_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/118729667</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Luise Prinzessin von</forename>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1820</death>
+                </person>
+                <person xml:id="ed_jg4_sr1_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/1030502390</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Maria Anna Prinzessin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Anhalt-Dessau, Prinzessin von </name>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1906</death>
+                    <note>Heirat: Friedrich Karl Prinz von Preußen</note>
+                </person>
+                <person xml:id="ed_e1h_hd3_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/119259737</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Marianne Prinzessin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Hessen-Homburg, Prinzessin von </name>
+                    </persName>
+                    <birth>1785</birth>
+                    <death>1846</death>
+                </person>
+                <person xml:id="ed_tyt_5qj_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/119276135</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Marianne Prinzessin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Nassau-Oranien, Prinzessin von </name>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1883</death>
+                </person>
+                <person xml:id="ed_hx2_jjv_22b">
+                    <idno type="uri">https://d-nb.info/gnd/123774721</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Marie Prinzessin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Sachsen-Weimar-Eisenach, Prinzessin von </name>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1877</death>
+                </person>
+                <person xml:id="ed_cs4_jwb_ydb">
+                    <idno type="uri">https://d-nb.info/gnd/140611835</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Philippine Prinzessin von</forename>
+                    </persName>
+                    <birth>1745</birth>
+                    <death>1800</death>
+                    <note>Heirat: <persName key="ed_r1v_4wb_ydb">Friedrich II. Landgraf von
+                            Hessen-Kassel</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_ajb_mly_bz">
+                    <idno type="uri">http://d-nb.info/gnd/118798022</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Sophie Dorothea Königin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name> Braunschweig-Lüneburg, Prinzessin von</name>
+                    </persName>
+                    <birth>1687</birth>
+                    <death>1757</death>
+                </person>
+                <person xml:id="ed_y33_n5d_ndb">
+                    <idno type="uri">https://d-nb.info/gnd/131591754</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Sophie Dorothea Marie Prinzessin von</forename>
+                    </persName>
+                    <birth>1719</birth>
+                    <death>1765</death>
+                </person>
+                <person xml:id="ed_fc4_2bb_dy">
+                    <idno type="uri">http://d-nb.info/gnd/118626868</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Victoria Königin von, deutsche Kaiserin</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Großbritannien und Irland, Prinzessin von</name>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1901</death>
+                </person>
+                <person xml:id="ed_imv_tdb_dy">
+                    <idno type="uri">http://d-nb.info/gnd/130472158</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Viktoria Prinzessin von</forename>
+                    </persName>
+                    <birth>1866</birth>
+                    <death>1929</death>
+                </person>
+                <person xml:id="ed_lwx_y32_cy">
+                    <idno type="uri">http://d-nb.info/gnd/118535978</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Wilhelm I. König von, deutscher Kaiser</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1888</death>
+                </person>
+                <person xml:id="ed_n2s_bcb_dy">
+                    <idno type="uri">http://d-nb.info/gnd/118632892</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Wilhelm II. König von, deutscher Kaiser</forename>
+                    </persName>
+                    <birth>1859</birth>
+                    <death>1941</death>
+                </person>
+                <person xml:id="ed_gxd_5jp_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/122629825</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Wilhelmine Prinzessin von</forename>
+                    </persName>
+                    <birth>1751</birth>
+                    <death>1820</death>
+                    <note>Heirat: Prinz Wilhelm V. von Oranien</note>
+                </person>
+                <person xml:id="ed_uwp_1wg_2z">
+                    <idno type="uri">http://d-nb.info/gnd/142811424</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Wilhelmine Prinzessin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Hessen-Kassel, Prinzessin von </name>
+                    </persName>
+                    <birth>1726</birth>
+                    <death>1808</death>
+                </person>
+                <person xml:id="ed_xr4_stl_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/119259745</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Wilhelm Prinz von</forename>
+                    </persName>
+                    <birth>1783</birth>
+                    <death>1851</death>
+                </person>
+                <person xml:id="ed_fr3_vvy_fcb">
+                    <idno type="uri">http://d-nb.info/gnd/11877185X</idno>
+                    <persName type="reg">
+                        <surname>Preußen</surname>
+                        <forename>Wilhelm Prinz von</forename>
+                    </persName>
+                    <birth>1882</birth>
+                    <death>1951</death>
+                </person>
+                <person xml:id="ed_czp_znn_my">
+                    <persName type="reg">
+                        <surname>Priddat</surname>
+                        <forename>Friedrich-Julius</forename>
+                    </persName>
+                    <birth>1814</birth>
+                    <death>1887</death>
+                    <note>Druckereibesitzer; 1885 Schatzmeister des Vaterländischen Frauen-Vereins
+                        im Kreis Angerburg</note>
+                </person>
+                <person xml:id="ed_gwv_2gg_hy">
+                    <idno type="uri">http://d-nb.info/gnd/139237445</idno>
+                    <persName type="reg">
+                        <surname>Prittwitz</surname>
+                        <forename>Joachim Bernhard von</forename>
+                    </persName>
+                    <birth>1726</birth>
+                    <death>1793</death>
+                </person>
+                <person xml:id="ed_fcb_51l_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/104110538</idno>
+                    <persName type="reg">
+                        <surname>Prittwitz</surname>
+                        <forename>Karl von</forename>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1871</death>
+                </person>
+                <person xml:id="ed_wqp_pfg_hy">
+                    <persName type="reg">
+                        <surname>Prittwitz und Gaffron</surname>
+                        <forename>Friedrich Wilhelm Bernhard von</forename>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1843</death>
+                    <note>Geheimer Oberfinanzrat.
+                        https://de.wikipedia.org/wiki/Friedrich_Wilhelm_Bernhard_von_Prittwitz</note>
+                </person>
+                <person xml:id="ed_sph_phv_mbb">
+                    <persName type="reg">
+                        <surname>Probst</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Königsberg (1784/85)</note>
+                </person>
+                <person xml:id="ed_ssz_zr5_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/106769707</idno>
+                    <persName type="reg">
+                        <surname>Probszt</surname>
+                        <forename>Günther</forename>
+                    </persName>
+                    <birth>1887</birth>
+                    <death>1963</death>
+                </person>
+                <person xml:id="ed_rzn_5nw_mbb">
+                    <persName type="reg">
+                        <surname>Prziborowsky</surname>
+                        <forename>H.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Richter zu Drengfurth</note>
+                </person>
+                <person xml:id="ed_bl5_bxl_wcb">
+                    <idno type="uri">https://d-nb.info/gnd/1030515697</idno>
+                    <persName type="reg">
+                        <surname>Pückler</surname>
+                        <forename>Hermann Erdmann Konstantin Graf von</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1892</death>
+                </person>
+                <person xml:id="ed_o5r_3tv_scb">
+                    <persName type="reg">
+                        <surname>Puls</surname>
+                        <forename>Friedrich Wilhelm</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1784 Direktor am Hofgericht Insterburg</note>
+                </person>
+                <person xml:id="ed_n45_cmp_tdb">
+                    <persName type="reg">
+                        <surname>Puschetti</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note> General, gehört 1767 zum Hof des Großhetmanns der polnischen Krone,
+                            <persName key="ed_ljp_mkp_tdb">Branicki</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_ppc_hgv_mbb">
+                    <persName type="reg">
+                        <surname>Puschke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Husar, Landkeim (1785)</note>
+                </person>
+                <person xml:id="ed_bc1_knd_py">
+                    <persName type="reg">
+                        <surname>Puschke</surname>
+                        <forename>Friedrich (August?)</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1874</death>
+                    <note> Sohn der Pachthoffrau Anna Puschke aus Steinort; Heirat: 1824 Luise
+                        Bartsch aus Steinort (1811-1889), Tochter des Akzise-Offiziers Christian
+                        Bartsch aus Steinort; 1852 und 1871 als Lehrer in Steinort genannt; Kinder:
+                        Pauline Adelheid (geb. 1835), Louise Emilie (1836), Rosalie Henriette (1838,
+                        heiratet 1864 Tischlermeister Carl Poltzien), Anna Maria (1840), Friedrich
+                        (1842), Albert Ferdinand (1844), Carl Ludwig (1846), Heinrich Theodor
+                        (1848). http://www.datenbank-nord-masuren.besaweb.de/</note>
+                </person>
+                <person xml:id="ed_aqx_gmm_33b">
+                    <persName type="reg">
+                        <surname>Puschke</surname>
+                        <forename>Richard </forename>
+                    </persName>
+                    <birth>1876</birth>
+                    <death>1944</death>
+                    <note>Heirat: Gertrud Szimmat, Kinder: Hans Albert (geb. 1906), Eva Gertrud
+                        Therese (geb. 1911), Paul Ludwig Richard (geb. 1916); Neffe von Richard
+                        Franz Puschke, Rektor in Rosengarten 1905-1938; Rektor in Steinort.
+                        http://www.datenbank-nord-masuren.besaweb.de/</note>
+                </person>
+                <person xml:id="ed_b43_s4c_mfb">
+                    <persName type="reg">
+                        <surname>Puschke</surname>
+                        <forename>Richard Franz</forename>
+                    </persName>
+                    <birth>1853</birth>
+                    <death>1938</death>
+                    <note>Steinort; Sohn von Friedrich August Puschke; 1874-1920 Lehrer in Steinort,
+                        und Luise Bartsch; Heirat: Therese Marie David, Kinder: Elise Charlotte
+                        (1880), Richard Alexander (1883-1935), Paula (1885-1945), Albert (geb.
+                        1887), Anna (geb. 1891).
+                        http://www.datenbank-nord-masuren.besaweb.de/</note>
+                </person>
+                <person xml:id="ed_nyl_ngk_d2b">
+                    <persName type="reg">
+                        <surname>Putbus</surname>
+                        <forename>Wanda Fürstin zu</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Veltheim, von</name>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1867</death>
+                    <note>Heirat: Wilhelm Carl Gustav Malte zu Putbus, Fürst und Herr zu Putbus Graf
+                        von Wylich und Lottum</note>
+                </person>
+                <person xml:id="ed_yq2_d1v_22b">
+                    <persName type="reg">
+                        <surname>Puttkamer</surname>
+                        <forename>Ida von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Puttkamer, von</name>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1920</death>
+                    <note>Tochter des preußischen Landrats Albert von Puttkamer (1797–1861); Heirat:
+                        1854 <persName key="ed_hw2_gq2_cy">Robert Victor von Puttkamer</persName>;
+                        wirkte 1872 im VaterländischenBezirks-Frauen-Verein in Gumbinnen</note>
+                </person>
+                <person xml:id="ed_fp4_br3_jfb">
+                    <idno type="uri">https://d-nb.info/gnd/104131136</idno>
+                    <persName type="reg">
+                        <surname>Puttkamer</surname>
+                        <forename>Jesko von</forename>
+                    </persName>
+                    <birth>1855</birth>
+                    <death>1917</death>
+                </person>
+                <person xml:id="ed_jjv_yzg_ldb">
+                    <persName type="reg">
+                        <surname>Puttkamer</surname>
+                        <forename>Nikolaus Lorenz von</forename>
+                    </persName>
+                    <birth>1703</birth>
+                    <death>1782</death>
+                    <note>preußischer Generalleutnant, Kommandeur von Stettin.
+                        https://de.wikipedia.org/wiki/Nikolaus_Lorenz_von_Puttkamer</note>
+                </person>
+                <person xml:id="ed_hw2_gq2_cy">
+                    <idno type="uri">http://d-nb.info/gnd/116314338</idno>
+                    <persName type="reg">
+                        <surname>Puttkamer</surname>
+                        <forename>Robert Victor von</forename>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1900</death>
+                    <note>Heirat: <persName key="ed_yq2_d1v_22b">Ida von Puttkamer</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_bk5_ckj_gy">
+                    <persName type="reg">
+                        <surname>Puzyna</surname>
+                        <forename>Graf von </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Weihbischof (1795)</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

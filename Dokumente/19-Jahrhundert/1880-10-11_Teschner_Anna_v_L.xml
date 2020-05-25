@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_sfd_fzr_bbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Theodor Teschner an Anna Gräfin von Lehndorff. Rosengarten, 11. Oktober
+                    1880</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_sfd_fzr_bbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 82, Bl. 3-3v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_rvp_z2m_gbb">Teschner, Ernst Theodor (-)</persName>
+                    <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                    <date when="1880-10-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Die Bilanz des Angerburger Siechenhauses nach zweijähriger Arbeit (1882) in:
+                    LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 88, die <ref target="http://www.angerburg.de/rosengarten_kirchenchronik.htm">Chronik aus
+                        dem Jahr 1883, ebd., Nr. 90</ref>. Weiteres Material: APO, Bestand 382 FA
+                    Lehndorff, Nr. 603-64 (1882-1896). Auf das Angerburger Siechenhaus gehen die
+                    Bethesda-Wohltätigkeitsanstalten (1922) zurück, die über fünfzig Jahre von dem
+                    Superintendenten D. <persName key="ed_v5g_pvf_2y">Hermann Adalbert
+                        Braun</persName> geleitet wurden. - Mit Teschner und anderen Geistlichen
+                    stand Lehndorff über die Missionstätigkeit in regelmäßigen Kontakt durch den
+                    Austausch von Büchern, <quote>frommen Blättern</quote> und Zeitschriften, vgl.
+                    APO, Bestand 382 FA Lehndorff, Nr. 622, Bl. 20 (21. April 1882). Später übernahm
+                    Pfarrer <persName key="ed_zl4_tnt_g2b">Wolter</persName> in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> auch den Vertrieb des Kalenders
+                    der <orgName key="ed_bnt_4lz_ny">Berliner Stadtmission</orgName> „Der Deutsche
+                    Volksbote‟ (1893), ebd., Bl. 29-30v.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rosengarten, den 11. Oktober 1880</dateline>
+					          <salute>Hochverehrte, gnädigste Frau Gräfin!</salute>
+                </opener>
+				        <p>Sehr leid tut es mir noch immer, bei der Einweihung des <orgName key="ed_zxf_yqt_ncb">Siechenhauses in Angerburg </orgName> nicht zugegen gewesen zu sein. Um nun
+                    aber bei der Kreissynode am Mittwoch meine Anträge stellen zu können, auch weil
+                    ich sonst die Synode mit den Arbeiten der Inneren Mission im Kreise <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> bekannt machen will, ist es nötig,
+                    dass ich auch in Betreff des Siechenhauses in Angerburg unterrichtet bin, und
+                    bitte ich Sie daher, hochverehrte Frau Gräfin, weil ich vor dem Tage der Synode
+                    nicht mehr nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> kommen kann,
+                    mir gütigst schriftlich einige Mitteilungen über das Siechenhaus zukommen zu
+                    lassen. Dass das Haus Montag den 4. d. eingeweiht ist, weiß ich nun schon, aber
+                    ich wünsche auch gerne zu erfahren, ob schon einige und wie viel Sieche sich im
+                    Haus befinden, ob das Grundstück in Angerburg dazu angekauft ist, ob die Anstalt
+                    ein Hospital besitzt, wie sie sonst unterhalten wird, wieviel Kranke überhaupt
+                    darin aufgenommen werden können. <seg type="comment">
+                  <orig>Wenn ich darüber
+                            etwas Näheres der Synode berichten könnte, so wäre ich auch in der Lage,
+                            den Antrag zu stellen, dass der Kreis für diese Anstalt noch etwas tue,
+                            und umso mehr bin ich dazu berechtigt, weil ich auf der Synode überhaupt
+                            über die Arbeiten der Inneren Mission im Kreise Bericht erstatten
+                            werde.</orig>
+                  <note xml:id="ns1y_hsk_ycb">Vgl. APO, Bestand 382 FA
+                            Lehndorff, Nr. 596, passim.</note>
+               </seg> Vielleicht wäre es auch gut,
+                    wenn Sie, hochverehrte Frau Gräfin, es gestatten den Antrag zu stellen, dass die
+                    Innere Mission die Anstalt als Synodalinstitut übernehme. Ich bitte Sie daher,
+                    gnädigste Frau Gräfin, mir darüber gütigste Antwort zukommen zu lassen, so dass
+                    ich dieselbe morgen, Dienstag, mit der Post um 1 Uhr mittags schon hier erhalten
+                    kann. Ich wäre persönlich gekommen, um Sie um Rat zu fragen, doch wird es mir
+                    morgen meine Zeit nicht mehr erlauben. </p>
+            <p>Die <orgName key="ed_ocb_krt_ncb">Kleinkinderbewahranstalt in Angerburg</orgName> ist doch mit
+                    dem Siechenhaus verbunden, und wie Sie, hochverehrte Frau Gräfin, mir einmal
+                    mitteilten, sind es 90 Familien in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, welche diese Anstalt noch unterstützen, indem
+                    dieselben der Schwester Freitisch geben. </p>
+				        <closer>
+					          <salute>Mit der größten Hochachtung Ew. Hochgeboren treu ergebener</salute>
+					          <signed>Teschner</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

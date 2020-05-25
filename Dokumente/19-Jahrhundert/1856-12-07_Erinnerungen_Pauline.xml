@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_dwl_lqj_r2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aufzeichnung von Ida Rische. 7. Dezember 1856</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_dwl_lqj_r2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="editorial">
+                    <p>Am 16. März 1857 ist sie in Basedow zum Geburtstag des Grafen Bogdan. Auch
+                        die Gräfin Reichenbach ist anwesend. Die Gräfin Hahn ist schwer
+                        erkrankt.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 52: Kleine
+                            Erinnerungen aus dem Leben der Exzellenz Gräfin Pauline Lehndorff</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Typoskript. „Entnommen aus Briefen von Frau Pastorin Volkening -
+                            Jöllenbeck und deren Tochter, Frau Pastor Rische - Schwinkendorf, durch
+                            die Tochter der Letzteren, Paula, die ein Patenkind der obigen Gräfin
+                            Lehndorff war.‟ </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <creation>
+                <persName key="ed_wjt_k15_gfb">Rische, Frau (-)</persName>
+            <date when="1856-12-07" cert="high"/>
+         </creation>
+      </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Heute vor acht Tagen waren wir nach längerer Zeit mal wieder auf dem Schloss. Es
+                    war <persName key="ed_tcp_g3l_2y">Exzellenz</persName> ihr <seg type="comment">
+                  <orig>Geburtstag</orig>
+                  <note xml:id="nqfg_pq1_hfb">30.
+                        November</note>
+               </seg>. Weißt Du noch, vor zwei Jahren fuhr ich an dem Tag
+                    allein nach <placeName key="ed_tn4_fy5_h2b">Faulenrost</placeName>. Dies Mal,
+                    als wir ins Schloss kamen, trafen wir Exzellenz im Bett. Sie war spazieren
+                    gewesen und bei ihrer Rückkehr ohnmächtig geworden. So konnten wir sie nicht
+                    gleich sehen, wurden aber zur Tafel eingeladen, welche erst um 5 Uhr stattfand.
+                    Exzellenz hatte sich dann doch so weit erholt, dass sie noch erscheinen konnte.
+                    Sie ist in der letzten Zeit oft leidend gewesen. Es war eine glänzende
+                    Gesellschaft bei Tafel versammelt. Die Schwestern wird es interessieren, wenn
+                    ich darauf eingehe. Es waren: <seg type="comment">
+                  <orig>die jungen Lehndorffs
+                            beide </orig>
+                  <note xml:id="nwvk_5q1_hfb">
+                     <persName key="ed_zkm_whl_2y">Carl Meinhard</persName> und <persName key="ed_wms_mh2_cy">Anna</persName> von Lehndorff</note>
+                    </seg>und Graf <persName key="ed_nml_dw2_cy">Heinrich</persName>, ein Graf Fritz
+                        <persName key="ed_zf3_1r1_hfb">Schlippenbach</persName>, Leutnant von
+                        <persName key="ed_lbc_4r1_hfb">Kleist</persName> mit seiner jungen Frau
+                        geb.<persName key="ed_y2y_5r1_hfb"> Gräfin Schlippenbach</persName>, der
+                    Schwester <persName key="ed_lxr_yr1_hfb">Frau von Falkenstein</persName>, Graf
+                        <seg type="comment">
+                  <orig>Otto</orig>
+                  <note xml:id="nwbl_cs1_hfb">Schlippenbach?</note>
+               </seg> mit Tochter usw. <persName key="ed_bnr_4vl_gfb">August</persName> bekam seinen Platz neben Exzellenz;
+                    ich hatte die Ehre, von Graf Carl zu Tisch geführt zu werden. Wir sprachen von
+                        <placeName key="ed_xfd_wgt_c2b">Westfalen</placeName>, davon er auch sehr
+                    eingenommen war, dann über den geistlichen Tod <placeName key="ed_c3z_rjv_mbb">Mecklenburgs</placeName>. An meiner anderen Seite saß Graf <persName key="ed_mhm_32d_d2b">Werner</persName>, der mir erzählte, dass er seine
+                    Cousine Frau v. <persName key="ed_wym_ds1_hfb">Lepel</persName> besuchen wolle,
+                    d. h., fügte er hinzu, „wenn es meine Mutter erlaubt.‟ „Das versteht sich‟,
+                    antwortete ich. „Ja‟, erwiderte er zustimmend, und fügte flüsternd hinzu: „Wenn
+                    ich selbständig werde‟. „Dazu sind Sie aber zu jung‟, erwiderte ich, worauf er
+                    mir beweisen wollte, dass er im nächsten Jahr majoren werde. Ich musste ihm dann
+                    vorrechnen, dass das erst in drei Jahren der Fall sein könne. „O ja‟, fiel ihm
+                    dann ein, „das ist ja mein Bruder, der nächste Jahr majoren wird.‟</p>
+                <p>Einige Stunden vor Tisch hatte uns auch Graf <persName key="ed_vkr_zvw_c2b">Cuno</persName> begrüßt, welcher zwei Tage vorher mit dem jungen Herrn Zahn
+                    angekommen war. Bei der Tafel sah ich ihn nirgends. Als wir nachher in den Salon
+                    zurückgegangen waren, saßen August und ich mit Exzellenz und <persName key="ed_f5w_2fm_2y">Komtess</persName> zusammen und unterhielten uns über
+                    englische kirchliche Verhältnisse. Letztere war nämlich in den Tagen vorher aus
+                        <placeName key="ed_jxm_5vf_4y">England</placeName> zurückgekehrt. Dann
+                    reichte Exzellenz mir den Arm und schlug der Gesellschaft vor, ins Musikzimmer
+                    sich zu begeben. Dort angekommen (doch dies nur im tiefsten Vertrauen, sagt es
+                    nicht weiter, da man nicht weiß, wie es sich in der Welt herumsprechen kann),
+                    zog sie mich ins dunkle Turmzimmerchen und teilte mir mit, dass sie es mir sagen
+                    müsse, weshalb ihre Tochter so angegriffen aussehe. Cuno habe heute bei ihr um
+                    sie angehalten. Er hätte gebeten, ihm eine Unterredung mit Magdalena zu
+                    gewähren, was man ihm auch bewilligt habe. Magdalena habe ihm dann
+                    auseinandergesetzt, dass das nie und nimmer sein könne. Er wäre nun ganz
+                    zerschlagen und deshalb auch nicht bei Tisch erschienen. <seg type="comment">
+                  <orig>Die Gräfin <seg type="comment">
+                        <orig>Hahn-Hahn</orig>
+                        <note xml:id="njvv_4s1_hfb">
+                           <persName key="ed_bb3_qs1_hfb">Ida Gräfin
+                                        Hahn</persName>
+                        </note>
+                     </seg> wünscht es sehr, aber die
+                            Lehndorffs sind alle dagegen.</orig>
+                  <note xml:id="ndh4_5nb_ffb">Magdalena heiratete 1858 <persName key="ed_php_rqg_hy">Gustav Graf von
+                                Borcke</persName>, ein Verzeichnis der aus Kleidung (ca. 1850
+                            Rtlr.), Putz und Handschuhen (139 Rtlr.), Schuhen (64 Rtlr.), diversen
+                            Koffern ( 23 Rtlr.), Hauswäsche (ca. 500 Rtlr.), Silber (112 Rtlr.),
+                            Geschirr und Glas (760 Rtlr.) sowie Mobiliar (ca. 30 Rtlr.) bestehenden
+                            Mitgift in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                            96.</note>
+               </seg> Die Sache ist nun vorläufig abgemacht; ich bin
+                    gespannt, ob sie nicht noch einmal wieder aufgenommen wird. Es wurde viel
+                    musiziert und wir blieben, bis Graf Ottos Wagen kam, mit dem wir zusammen zu
+                    Werner fuhren.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

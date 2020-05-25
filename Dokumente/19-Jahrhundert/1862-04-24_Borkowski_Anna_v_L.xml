@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zy3_bjc_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Carl Borkowski an Anna Gräfin von Lehndorff. Rosengarten, 24. April
+                    1862</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zy3_bjc_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 576, Bl. 13</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_myw_dfy_ybb">Borkowski, Johann Carl (-1877)</persName>
+                    <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                    <date when="1862-04-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Der Frauenverein des <seg type="comment">
+                  <orig>Gustav-Adolf-Vereins </orig>
+                  <note xml:id="nsdm_l1r_d2b">Vgl. Stache, Christa, Evangelisch und deutsch. Das
+                            Wirken des Gustav-Adolf-Vereins im Ermland und in Masuren 1850-1914, in:
+                            Zeitschrift für die Geschichte und Altertumskunde Ermlands 52 (2007), S.
+                            173-189. </note>
+               </seg> im Kreis <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, dem sich der Kirchspielverein aufgrund der ihm
+                    zugegangene Statuten anschließen soll, wird am 27. des Monats im <seg type="comment">
+                  <orig>(Keilschen?) Lokal</orig>
+                  <note xml:id="ngcb_vcr_d2b">in
+                            Angerburg, vgl. Dokument vom <ref target="lehndorff_xrd_hck_gy">19. Juli
+                                1862</ref>
+                  </note>
+               </seg> einen Verkauf abhalten. Er sei beauftragt
+                    anzufragen, ob die Gräfin einige der Arbeiten nach dem beiliegenden Verzeichnis
+                    kaufen oder den Hauptverein mit Geldmitteln unterstützen wolle. Seine Schwägerin
+                    würde sich darum kümmern, wenn sie nicht Fräulein <persName key="ed_sdb_kqw_1bb">Brückhändler</persName> damit beauftragen wolle. Eventuell könne auch der
+                        <persName key="ed_zkm_whl_2y">Graf</persName>, wenn er <quote>zum Konzert
+                        führe, das <persName key="ed_ohj_sm5_3lb">Kellermann</persName> am nächsten
+                        Sonntag gibt</quote>, die Bestellung übermitteln.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/576/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

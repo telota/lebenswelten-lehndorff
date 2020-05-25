@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_q5y_p4x_ydb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, um
+                    den 16. April  bis  Juni 1780</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_q5y_p4x_ydb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Karl Eduard, Des Reichsgrafen Ernst
+                            Ahasverus Heinrich Lehndorff Tagebücher nach seiner Kammerherrenzeit, Bd.
+                            1, Gotha 1921, S. 134-138</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <date from="1780-04-16" to="1780-06-30" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <gap reason="insignificant"/> Ich bin immer auf dem Lande und baue mir
+                    Wirtschaftsgebäude, besonders eine Scheune. Meine Felder stehen - Gott sei
+                    gedankt! - sehr gut, und ich habe keinen Platz mehr, wenn die Ernte gut
+                    ausfällt. Auch an meinem Hause habe ich immer zu flicken; weder Türen noch
+                    Fenster kann ich so lassen. Den Garten verschönere ich immer mehr, und dabei bin
+                    ich so tätig, dass mich stets der Abend überrascht. Von Langeweile ist also
+                    keine Rede.</p>
+                <p>Übrigens bin ich meistens allein. Meine gewöhnliche Gesellschaft, die Familie
+                        <persName key="ed_cpm_33y_ydb">Schlieben</persName>, hat mich einen
+                    Augenblick verlassen und wird mich in ein paar Monaten ganz verlassen. Die liebe
+                    kleine <persName key="ed_ok2_3xf_hy">Herzogin</persName> ist schon fort und die
+                    beiden anderen gehen wieder zu ihren Gatten.</p>
+                <p>An meinem Geburtstag, dem 7. Mai, ist noch alles da. Auch die Schliebens aus
+                        <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> kommen herüber. Drei
+                    Tage hintereinander spielt man Theater. Zuerst führt meine Frau mit meinem Sohn
+                    ein ein Sprichwort entwickelndes Lustspiel auf. Dann geben meine Leute den <seg type="comment">
+                  <orig>„Edelknaben‟</orig>
+                  <note xml:id="nxvk_hnb_2lb">
+                     <ref target="http://www.theaterzettel-weimar.de/recherchetool/zurueck-zur-letzten-recherche.html?tx_jotheaterzettel_pi1001%5BjoOpus%5D=Der%20Edelknabe%24b66145f7ced5eae78086dc04ad590da1%24D&amp;tx_jotheaterzettel_pi1001%5Baction%5D=solrindex&amp;tx_jotheaterzettel_pi1001%5Bcontroller%5D=Theaterzettel&amp;cHash=2a7fd1af7ef123a7cdfd91b36ce38fc5">
+                        <ref target="https://www.europeana.eu/de/item/09428/urn_nbn_de_hbz_061_2_54404">Schauspiel in einem Akt</ref> von Johann Jacob Engel,</ref>
+                            nach einer Anekdote Friedrichs des Großen.</note>
+               </seg>, den zweiten Tag
+                        <seg type="comment">
+                  <orig>„Die drei Sultaninnen‟</orig>
+                  <note xml:id="nqlb_wnb_2lb">
+                     <ref target="https://archive.thulb.uni-jena.de/staatsarchive/receive/ThHStAW_performance_00024902">Soliman der zweite oder die drei Sultaninnen,</ref> Schauspiel mit
+                            Gesang und Tanz in drei Aufzügen.</note>
+               </seg> und den dritten <seg type="comment">
+                  <orig>„Hamlet‟</orig>
+                  <note xml:id="nexp_f4b_2lb">
+                     <ref target="https://de.wikipedia.org/wiki/Hamlet">Tragödie von William
+                                Shakespeare</ref>
+                  </note>
+               </seg>. Namentlich das letzte Stück gelingt
+                    über alle Erwartung gut. Es ist erstaunlich, wie die Leute ihre Rollen richtig
+                    erfasst haben.</p>
+                <p>Jetzt aber gerade, wie ich mich freue, dass mein kleines ländliches Theater sich
+                    so gut herausbildet, <seg type="comment">
+                  <orig>nimmt mir General <persName key="ed_gmr_4zs_xdb">Stutterheim</persName> ohne Erbarmen meinen
+                            Diener <persName key="ed_iqm_53y_ydb">Michel</persName>
+                            fort,</orig>
+                  <note xml:id="nrbh_nqx_ydb">Vgl. ebd., S. 138. Auch dessen
+                            Bruder, den Lehndorff in Königsberg das Schneiderhandwerk hatte erlernen
+                            lassen, wurde eingezogen.</note>
+               </seg> der einer der Hauptdarsteller
+                    war. Für einen denkenden Menschen ist die Willkürherrschaft doch mehr als
+                    grausam. Zehn Jahre lang habe ich den Menschen erziehen und ausbilden lassen.
+                    Mit vielen Kosten und Mühen ist mir dies gelungen. Nun aber, gerade wie ich
+                    glaube, den Lohn für alle Mühen ernten zu können, nimmt man mir ihn weg, und das
+                    einzig deshalb, weil er 8 Zoll misst. Da muss man wirklich daran zweifeln, dass
+                    wir in der besten der Welten leben.</p>
+                <p>Pfingsten verlebe ich in <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>,
+                    kehre dann aber mit Freuden in meinen Garten zurück. Ich lege hier eine <seg type="comment">
+                  <orig>Hopfenpflanzung</orig>
+                  <note xml:id="njry_qy5_q2b">Seit
+                            1746 wurde der Anbau von Hopfen gefördert, seit 9. Januar 1750 war eine
+                                <quote>kontinuierliche Einsendung von Angaben über den Umfang des
+                                Hopfenanbaus auf den Lehndorffschen Gütern</quote> einzureichen,
+                            vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 587 und
+                            588 (Edikte vom 18. Juli 1746 und 9. März 1750).</note>
+               </seg> an und
+                    säubere die Alleen, so dass ich wenigstens vier Stunden täglich im Garten zu tun
+                    habe. Dabei vernachlässige ich aber meine Korrespondenz mit <placeName key="ed_xrv_gwb_by">Berlin</placeName> durchaus nicht; ich bin immer
+                    ziemlich auf dem Laufenden.</p>
+                <p>
+               <gap reason="insignificant"/>
+                </p>
+                <p>Die Rücksichtslosigkeit und Gewalttätigkeit, die von militärischer Seite geübt
+                    wird, ruiniert <placeName key="ed_uvt_4j4_dz">Preußen</placeName> gänzlich. Man
+                    verliert allen Mut, man sieht sich genötigt, das Volk in seiner Unwissenheit zu
+                    lassen. Denn sobald man einen seiner Leute etwas lernen lässt, gleich stürzt
+                    sich der General <seg type="comment">
+                  <orig>Stutterheim</orig>
+                  <note xml:id="nidt_v5d_zdb">Bei dessen Tod im August 1783 schrieb Lehndorff:
+                                <quote>Preußen ist von einem Ungeheuer befreit</quote>. Allerdings
+                            war dessen Sohn, der im Herbst 1783 als Kapitän die
+                                <quote>Bezirksmusterung</quote> vorzunehmen hatte, auch nicht
+                            besser: <quote>Solche Widerwärtigkeiten verleiden einem den Aufenthalt
+                                auf dem Lande. Da überfällt uns plötzlich ein Mensch, nimmt uns die
+                                besten Leute weg, und wir müssen ihm noch den Hof machen und ihn gut
+                                aufnehmen</quote>, vgl. ebd., S. 335. </note>
+               </seg> wie ein
+                    Raubvogel auf ihn. <gap reason="insignificant"/>
+                </p>
+                <p>
+               <note type="editorial">Bei der <seg type="comment">
+                     <orig>Revue</orig>
+                     <note xml:id="ngf5_hpb_2lb">Vgl. Lorenz, Klemens, Eine friderizianische
+                                Truppenschau 1780, in: Heimatblätter des Neißegaus 14 (1929), S.
+                                73.</note>
+                  </seg> ging der <persName key="ed_x2r_52f_cy">König</persName>
+                        <quote>finsteren Blicks an dem liebenswürdigen Herzog von Holstein
+                            vorbei</quote>,</note> statt dessen sagt er dem pommerschen Adel
+                    allerlei Liebenswürdigkeiten und erklärt die Leute für seine teuersten
+                    Untertanen. Darauf begibt er sich nach <placeName key="ed_d31_lxj_gy">Marienwerder</placeName>,<seg type="comment">
+                  <orig> jagt den Geheimrat
+                                <persName key="ed_i42_43y_ydb">Vorhofff</persName> weg, den
+                            redlichsten Mann von der Welt, bloß weil er das Wohl des Landes
+                            vertreten hat,</orig>
+                  <note xml:id="nc2v_nrx_ydb">Vgl. Anm. 1 ebd. - Im
+                            Frühjahr 1780 war die Gegend an Weichsel, Netze und Drewenz durch
+                            Eisgang und Überschwemmung schwer geschädigt worden. Die Kammer hatte
+                            dies dem König mitgeteilt und um Hilfe gebeten. Daraufhin antworte der
+                            König <persName key="ed_thl_lrp_tdb">Domhardt</persName>: <quote>Ich
+                                muss Euch nur sagen, dass Eure Kammer zu Marienwerder toll geworden
+                                und Euer Direktor <persName key="ed_i42_43y_ydb">Vorhoff</persName>
+                                meritierte, dass ich ihn gleich wegjagte.</quote> Joachim, E., J. F.
+                            von Domhardt, Berlin 1899, S. 197 ff. - Als Domhardt 1781 starb notierte
+                            Lehndorff: <quote>Es ist ein großer Verlust, den mein armes Vaterland
+                                erleidet. Der Mann kannte Preußen von Grund auf, liebte es und
+                                wusste die Einführung mancher Neuerungen zu verhindern. Seinem König
+                                diente er mit größter Hingebung und Treue</quote>, vgl.
+                            Schmidt-Lötzen, Nachträge, Bd. 2, S. 203 f. </note>
+               </seg> und das arme
+                        <placeName key="ed_uvt_4j4_dz">Preußen</placeName> verfällt der
+                    schrecklichen Not, weil der Handel gänzlich daniederliegt und nichts geschieht,
+                    um ihn zu heben.</p>
+                <p> </p>
+            </div>
+        </body>
+    </text>
+</TEI>

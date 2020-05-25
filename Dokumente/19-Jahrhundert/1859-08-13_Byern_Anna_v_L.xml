@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_igt_xkh_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fedor Curd von Byern an Anna Gräfin von Lehndorff. Neustrelitz, 13. August 1859</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_igt_xkh_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 485, Bl. 9-9v</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_msj_ggj_d2b">Byers, von (-)</persName>
+                    <placeName key="ed_wrn_yfj_d2b">Neustrelitz</placeName>
+                    <date when="1859-08-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/485/str/1/1/10#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Neu Strelitz, den 13. August 1859</dateline>
+					          <salute>Gnädigste Frau Gräfin!</salute>
+                </opener>
+				        <p>Ihre freundlichen Zeilen, hochverehrte Frau Gräfin, haben auf verschiedenen Umwegen mich
+                    gestern erreicht. Vor allem meinen herzlichsten, innigsten Dank für Ihre gütige
+                    Teilnahme. </p>
+                <p>Ich war in den ersten Tagen des Juni mit meiner Familie nach <placeName key="ed_upm_lld_2y">Marienbad</placeName> gegangen und befand mich nach
+                    vollendeter Kur auf einem Gute bei <placeName key="ed_rnl_4gj_d2b">Merseburg</placeName>, als ich die Nachricht von meiner Entlassung aus dem
+                        <seg type="comment">
+                  <orig>Amt</orig>
+                  <note xml:id="nmmq_4hb_hfb">Er war
+                            Regierungspräsident von Gumbinnen.</note>
+               </seg> erhielt. Die letztere
+                    ist nicht, wie die Kreuzzeitung irrig meldete, auf meinen Wunsch erfolgt; ich
+                    habe es vielmehr unter den jetzigen Verhältnissen für meine Pflicht gehalten,
+                    trotz aller Widerwärtigkeiten so lange im Amt auszuharren, bis es dem <persName key="ed_lwx_y32_cy">Regenten</persName> belieben würde, mich des mir von
+                        <persName key="ed_bg5_tsf_4y">Sr. Majestät</persName> anvertrauten Postens
+                    zu entheben und dadurch anzuerkennen, dass diejenigen Ansichten und Prinzipien,
+                    welche zu verfechten ich mir zur Lebensaufgabe gestellt habe, nicht weiter vom
+                    Thron geteilt werden. Meiner innigsten Überzeugung nach, führt der Liberalismus
+                    in seinen Konsequenzen mit absoluter Notwendigkeit zur Anarchie. Zum Heile des
+                    Vaterlandes, der Kirche, des Throns wünsche ich, dass ich mich hierin täuschen
+                    möchte. </p>
+                <p>Über meine Entlassung an sich kann ich mich mit Grund nicht beklagen, nur die
+                    Art, die rücksichtslose Form, in der sie erfolgt ist, hat mich betrübt. Ich
+                    erhielt ein einfaches Notifikatorium der Minister <persName key="ed_mzj_dhj_d2b">Schwerin</persName> und <persName key="ed_m4g_3hj_d2b">Patow</persName>,
+                    dass der Prinz mich zur Disposition gestellt habe, und dazu die Bemerkung, dass
+                    ich in Folge dieser Allerh. Entschließung hiermit meiner Funktionen entbunden
+                    sei. Ich meine, der Prinz hätte einem Verwaltungschef, der bloß deshalb
+                    entlassen wird, weil er mit den politischen Ansichten der Minister nicht
+                    übereinstimmt, wohl direkt einige Worte des Abschieds sagen können, anstatt ihm
+                    in völliger Ungnade den Laufpass zu geben. Unter diesen Umständen habe ich auch
+                    Anstand genommen, nochmals nach <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> zurückzukehren. Meine Frau ist allein dorthin
+                    gereist, um das peinliche Geschäft der Auflösung unserer Häuslichkeit in
+                    Ausführung zu bringen. Ich muss daher auch auf den lange gehegten Wunsch, dem
+                    Sie, gnädigste Gräfin, durch Ihre freundliche Einladung so wohlwollend
+                    entgegengetreten sind, um in dem schönen <placeName key="ed_pxt_cnh_1y">Steinort</placeName> meine Frau und Tochter Ihnen vorzustellen, zu meinem
+                    tiefen Bedauern verzichten. Nehmen Sie, hochverehrte Frau, meinen besten,
+                    herzlichsten Dank für die Teilnahme, mit der Sie mich gütigst beehrt haben. Die
+                    Erinnerungen an Steinort, an Sie, gnädigste Frau Gräfin, und an ihr stilles
+                    christliches Wirken werden meinem Gedächtnis stets unvergesslich sein. </p>
+                <p>Mit Betrübnis erfuhr ich von der neuen schweren Prüfung, die Ihnen durch den
+                    unerwarteten <seg type="comment">
+                  <orig>Tod Ihres Herrn <persName key="ed_e2c_dfd_d2b">Vaters</persName>
+                  </orig>
+                  <note xml:id="nvwm_b3j_d2b">Friedrich Wilhelm Graf von Hahn war am 7. Juli
+                            1759 im Alter von 55 Jahren in <placeName key="ed_xrv_gwb_by">Berlin</placeName> verstorben. </note>
+               </seg> auferlegt wurde. Der
+                    Allmächtige legt aber niemandem mehr Leiden auf, als er ertragen kann, und Ihr
+                    Gemüt ist ja stark im Glauben und voll christlicher Ergebung. Der rechte Trost
+                    wird Ihnen daher nicht fehlen.</p>
+				        <closer>
+					          <salute>Gott schütze Sie. Mit innigster Verehrung Ihr ganz gehorsamster</salute>
+					          <signed>v. Byern</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

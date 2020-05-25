@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mpn_zhh_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Archibald Graf von Keyserlingk an Carl Friedrich Ludwig Graf von Lehndorff.
+                    Neustadt, 14. September 1853</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mpn_zhh_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 346, Bl. 4-4v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mqc_qwp_1fb">Keyserlingk, Archibald Graf von
+                        (1785-1855)</persName>
+                    <placeName key="ed_fvl_2r1_my">Neustadt</placeName>
+                    <date when="1853-09-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Siehe auch den Brief der <persName key="ed_e34_szq_hlb">Gräfin von
+                        Keyserlingk</persName> an <persName key="ed_wms_mh2_cy">Anna von
+                        Lehndorff</persName>, Neustadt, 1. Juli 1870, in: APO, Bestand 382, Nr. 494,
+                    Bl. 1-2v. Darin dankt sie für eine telegrafische Nachricht und erinnert an den
+                    Besuch in der <quote>schönen Provinz</quote> und in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> mit seinen
+                        <quote>Eichenwäldern</quote> und dem <quote>spiegelklaren See mit der darin
+                        versinkenden Sonne</quote>, dessen Lage <quote>trotz Dampfes-Eile</quote>
+                    noch immer eine Reise von vielen Stunden erfordere. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/346/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Schloss Neustadt, den 14. September  1853</dateline>
+					          <salute>Mein teurer Graf!</salute>
+                </opener>
+				        <p>Der schöne Tag ist erschienen und ich beeile mich, Ihnen meine besten Wünsche abermals
+                    auszusprechen, wenngleich ich mich schon seit einigen Jahren immer noch keiner
+                    Antwort von Ihnen zu erfreuen hatte. Da ich jedoch weiß, dass Sie wohl und
+                    forsch sind und mit Gräfin <seg type="comment">
+                  <orig>
+                     <persName key="ed_ic3_2st_c2b">Aurora</persName>
+                  </orig>
+                  <note xml:id="nr4p_h1r_fdb">Dönhoff</note>
+               </seg> wahrscheinlich die erste
+                    Polka getanzt, nachdem unser gnädiger <persName key="ed_bg5_tsf_4y">König</persName> Ihnen den ersten Orden der Welt - den <seg type="comment">
+                  <orig>schwarzen Adlerorden</orig>
+                  <note xml:id="nozd_gwt_gfb">Zur
+                            Verleihung siehe das Dokument vom <ref target="lehndorff_szs_prh_t1b">18. Januar 1853</ref>.</note>
+               </seg> - erteilt, als wahrer Preuße
+                    kann ich nur diesem die <gap reason="illegible"/> geben - was gewiss ein nur
+                    gerechtes Anerkenntnis <seg type="comment">
+                  <orig>meines edlen
+                            Generals</orig>
+                  <note xml:id="npdq_jcw_c2b">Unter dem Titel „Aus der
+                            Kriegszeit‟ veröffentlichte Keyserlingk 1847 und 1855 (bei A. Duncker in
+                            Berlin) seine militärischen Erlebnisse in den
+                        Freiheitskriegen.</note>
+               </seg> war, so bin ich auch der festen Überzeugung,
+                    dass Ew. Exzellenz noch oft die munteren Reihen erheitern werden. Mein Sohn, der
+                    Ihnen seine Verehrung darbringt, hat mir alles erzählt - recht ausführlich.</p>
+                <p>Wenn Sie mir auch wieder nicht schreiben, teurer Graf, so bewahre ich Ihnen in
+                    treuer Brust doch stets herzliche Erinnerung.</p>
+				        <closer>
+					          <salute>Es verharrt in begründeter Hochachtung und Bewunderung Ihr treu gehorsamster </salute>
+					          <signed>Archibald Keyserlingk</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

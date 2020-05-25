@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_am5_tdf_ndb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 9. bis 14. April
+                    1757</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_am5_tdf_ndb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 1, Gotha 1910, S. 96 f.</bibl> 
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date from="1757-04-09" to="1757-04-14" cert="high"/>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                
+				     <p>
+            <hi rendition="#u">9. bis 12. April</hi>. Das Land <placeName key="ed_akt_x2q_rdb">Kleve</placeName> ist von den Franzosen besetzt, die überall unser Wappen
+                abreißen und das der Königin von Ungarn anschlagen lassen. Die Politiker sagen, die
+                Höfe von Versailles und Wien hätten die Niederlande, Kleve, Ostfriesland und die
+                übrigen Staaten unseres Königs in Westfalen für die Infantin von Parma bestimmt.
+                Alle diese Provinzen sollen den Staat der Infantin bilden und Parma soll als Mitgift
+                der Prinzessin-Tochter der Infantin gegeben werden, die den Erzherzog heiraten wird.
+                Ganz hübsche Pläne, <seg type="comment">
+               <orig>wenn unser großer Monarch nur nicht
+                        über eine Armee von 200.000 wohl disziplinierten tapferen Soldaten verfügte,
+                        </orig>
+               <note xml:id="nnwy_1gf_ndb">Mit diesen rückte er wenig später nach
+                        Böhmen ein, vgl. ebd., S. 99 (21. April 1757).</note>
+            </seg>die bereit sind,
+                den letzten Blutstropfen für den größten der Könige zu vergießen. Man sagt auch, die
+                Schweden würden sich gegen uns erklären.</p>
+                <p>
+            <gap reason="insignificant"/>
+         </p>
+                <p>
+            <hi rendition="#u">14. April</hi>. <gap reason="insignificant"/> Abends kommen
+                Nachrichten aus <placeName key="ed_lpl_bfq_rdb">Lockwitz</placeName> an, wo
+                gegenwärtig das Hauptquartier des Königs ist. Sie sind traurig wegen der Umstände,
+                die dabei mitspielen, und die doch bloß nach dem Kriegsrecht Billigung finden
+                können. <seg type="comment">
+               <orig>Die Königin von Polen befindet sich in einer Art
+                        Haft, die Truppen des Königs halten ihr Vorzimmer besetzt, so dass niemand
+                        aus der Stadt sich zu ihr wagt,</orig>
+               <note xml:id="nucz_pxh_tdb">So auch
+                        der Eintrag vom 17. April 1757. Es sei den meisten <quote>Persönlichkeiten
+                            recht peinlich</quote>, doch habe der König nicht anders handeln können,
+                            <quote>warum verlegt diese alte launenhafte Königin ihren Wohnsitz nicht
+                            nach Polen?</quote>
+               </note>
+            </seg> und Graf <persName key="ed_lb4_dfq_rdb">Wackerbarth</persName> ist festgenommen und, wie man sagt, nach <placeName key="ed_ehf_3l1_tcb">Küstrin</placeName> gebracht worden. Ein junger <persName key="ed_ov5_jc3_tdb">Kalckreuther</persName>, Leutnant bei der Garde du Korps,
+                der wirklich krank ist, kommt um Urlaub ein und wird auf der Stelle kassiert. Das
+                alles lässt eine Verbitterung auf Seiten eines früher so guten und so geliebten
+                Herrn erkennen, den ich für meine Person immer innig verehrt und gegen den ich trotz
+                alles Schlimmen, das er mich hat durchmachen lassen, nie habe kaltherzig werden
+                können. Das hat sich erst letzthin wieder gezeigt. <ref target="lehndorff_gcm_zq2_2z">Als man uns die Geschichte von den abscheulichen
+                    Plänen jenes <persName key="ed_l3c_rr2_2z">Glasow</persName> erzählte, da
+                    überkam mich ein solcher Abscheu gegen diese Canaille, dass, wenn ich ihn gehabt
+                    hätte, er sicherlich in meinen Hände geblieben wäre.</ref> All das beweist, dass
+                man ein fühlendes Herz für seinen König hat, den man innig lieben würde, wenn er
+                seinen Untertanen nur ein wenig Güte bezeigen würde. Nach meinem Dafürhalten ist
+                dies nämlich das größte Lob, das man einem Fürsten spenden kann; denn nur die Güte
+                erwirbt sich die Lobsprüche des Herzens, Tapferkeit allein macht nur den Ruhm eines
+                Herrschers aus, die Güte aber das Glück seiner Völker. Die Siege bringen ihm nur
+                Achtung ein, die Güte aber gewinnt ihm die Herzen. Ein Eroberer ist er nur für sich,
+                ist er aber gütig, so geht das auch uns an, und Waffenruhm führt nicht weit, wenn
+                die Liebe der Völker ihn nicht unsterblich macht.</p>
+			
+            
+        </body>
+    </text>
+</TEI>

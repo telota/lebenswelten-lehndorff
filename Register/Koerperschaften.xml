@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="koerperschaften" xml:lang="de" xml:id="prov1154">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Register der Körperschaften</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org xml:id="ed_lxy_j3w_c2b">
+                    <orgName type="reg">Académie Militaire (Kriegsakademie) Berlin</orgName>
+                </org>
+                <org xml:id="ed_x5x_24h_my">
+                    <orgName type="reg">Actien-Bau-Verein „Unter den Linden‟</orgName>
+                </org>
+                <org xml:id="ed_wbv_fcq_f2b">
+                    <orgName type="reg">Adeliges Fräuleinstift der Oberlausitz</orgName>
+                </org>
+                <org xml:id="ed_unv_xvp_f2b">
+                    <orgName type="reg">Adliges Fräuleinstift Barth</orgName>
+                </org>
+                <org xml:id="ed_pzg_x25_sdb">
+                    <orgName type="reg">Albertinum Dresden</orgName>
+                </org>
+                <org xml:id="ed_yxf_1jn_my">
+                    <orgName type="reg">Allendorfsche Holzhandlung Breslau</orgName>
+                </org>
+                <org xml:id="ed_gcq_4sj_f3b">
+                    <orgName type="reg">Altstädtisches Gymnasium Königsberg</orgName>
+                </org>
+                <org xml:id="ed_r2q_dc1_tcb">
+                    <orgName type="reg">Amt Angerburg</orgName>
+                </org>
+                <org xml:id="ed_dh5_p4b_hkb">
+                    <orgName type="reg">Amt Barten</orgName>
+                </org>
+                <org xml:id="ed_wj1_2c1_tcb">
+                    <orgName type="reg">Amt Memel</orgName>
+                </org>
+                <org xml:id="ed_th3_ppv_ccb">
+                    <orgName type="reg">Amtsgericht Potsdam</orgName>
+                </org>
+                <org xml:id="ed_zsz_nj5_c2b">
+                    <orgName type="reg">Appellationsgericht Insterburg</orgName>
+                </org>
+                <org xml:id="ed_hxf_yhm_33b">
+                    <orgName type="reg">Arnstein und Eskeles Wien</orgName>
+                </org>
+                <org xml:id="ed_cyf_xfv_12b">
+                    <orgName type="reg">Artibus Kunsthandel Berlin</orgName>
+                </org>
+                <org xml:id="ed_rz1_dkl_gbb">
+                    <orgName type="reg">Auflösungsamt für Familiengüter Königsberg</orgName>
+                </org>
+                <org xml:id="ed_brz_g41_my">
+                    <orgName type="reg">Auswärtiges Amt Berlin</orgName>
+                </org>
+                <org xml:id="ed_xjb_j4m_zdb">
+                    <orgName type="reg">Automobil-Droschken-Gesellschaft, Inh. Friedrich Ehlert,
+                        Tilsit</orgName>
+                </org>
+                <org xml:id="ed_nty_1h4_my">
+                    <orgName type="reg">Bad Gastein, evangelische Kapelle</orgName>
+                </org>
+                <org xml:id="ed_hd4_zg4_my">
+                    <orgName type="reg">Bad Gastein, Haus Solitude</orgName>
+                </org>
+                <org xml:id="ed_tr2_yvl_w2b">
+                    <orgName type="reg">Bankhaus Eisenhardt Berlin</orgName>
+                </org>
+                <org xml:id="ed_iml_ywz_gbb">
+                    <orgName type="reg">Bankhaus Meyer Cohn Berlin</orgName>
+                </org>
+                <org xml:id="ed_dpm_hbq_tcb">
+                    <orgName type="reg">Bankhaus Redern Berlin</orgName>
+                </org>
+                <org xml:id="ed_wsj_qvg_hy">
+                    <orgName type="reg">Bank- und Handelshaus Splitgerber &amp; Daum</orgName>
+                </org>
+                <org xml:id="ed_bnt_4lz_ny">
+                    <orgName type="reg">Berliner Stadtmission</orgName>
+                </org>
+                <org xml:id="ed_gnt_ztc_mfb">
+                    <orgName type="reg">Bethesdaanstalt Angerburg</orgName>
+                </org>
+                <org xml:id="ed_ajw_1sy_fjb">
+                    <orgName type="reg">Buch-, Kunst- und Musikalien-Handlung Wilhelm Koch
+                        Königsberg</orgName>
+                </org>
+                <org xml:id="ed_cfr_v3w_h2b">
+                    <orgName type="reg">Bund der Landwirte</orgName>
+                </org>
+                <org xml:id="ed_l1k_cdj_f3b">
+                    <orgName type="reg">Bürgermeister und Rat zu Memel</orgName>
+                </org>
+                <org xml:id="ed_kjq_5tw_22b">
+                    <orgName type="reg">Carl Fr. Gottlob Eisenhard, Textilfabrikant,
+                        Berlin</orgName>
+                </org>
+                <org xml:id="ed_usb_pfm_gbb">
+                    <orgName type="reg">Charité zu Berlin</orgName>
+                </org>
+                <org xml:id="ed_k11_xgw_h2b">
+                    <orgName type="reg">Chemische Fabrik Petschow-Davidsohn Danzig</orgName>
+                </org>
+                <org xml:id="ed_jl1_22j_llb">
+                    <orgName type="reg">Comité der ostpreußischen und litauischen Stände</orgName>
+                </org>
+                <org xml:id="ed_w22_rsh_jlb">
+                    <orgName type="reg">Deutsche Actien-Gesellschaft für Bergbau, Eisen- und
+                        Stahlindustrie</orgName>
+                </org>
+                <org xml:id="ed_yfp_f3d_py">
+                    <orgName type="reg">Deutsche Bibelgesellschaft</orgName>
+                </org>
+                <org xml:id="ed_rvf_c4h_my">
+                    <orgName type="reg">Deutsche Eisenbahn-Gesellschaft</orgName>
+                </org>
+                <org xml:id="ed_il5_3qn_zdb">
+                    <orgName type="reg">Dingeldey und Werres Berlin</orgName>
+                </org>
+                <org xml:id="ed_utq_cr1_my">
+                    <orgName type="reg">Disconto-Gesellschaft</orgName>
+                </org>
+                <org xml:id="ed_uyf_nyh_mfb">
+                    <orgName type="reg">Dreifaltigkeitskirche Berlin</orgName>
+                </org>
+                <org xml:id="ed_ebc_fl5_h2b">
+                    <orgName type="reg">Druckerei Emil Rautenburg Königsberg</orgName>
+                </org>
+                <org xml:id="ed_jgv_gbz_5x">
+                    <orgName type="reg">Einkommensteuer-Einschätzungskommission, Kreis
+                        Angerburg</orgName>
+                </org>
+                <org xml:id="ed_dqv_hwz_g2b">
+                    <orgName type="reg">Elisabeth-Hospital Berlin</orgName>
+                </org>
+                <org xml:id="ed_qh1_1r1_tcb">
+                    <orgName type="reg">Erbhauptamt Gerdauen</orgName>
+                </org>
+                <org xml:id="ed_qhc_jkv_ccb">
+                    <orgName type="reg">Evangelische Kirche Rosengarten</orgName>
+                </org>
+                <org xml:id="ed_v1l_xkv_ccb">
+                    <orgName type="reg">Evangelischer Oberkirchenrat (EKO)</orgName>
+                </org>
+                <org xml:id="ed_fgn_hkv_ccb">
+                    <orgName type="reg">Evangelisches Konsistorium (EKBO)</orgName>
+                </org>
+                <org xml:id="ed_txv_k1k_ycb">
+                    <orgName type="reg">Evangelisches Seminar Angerburg</orgName>
+                </org>
+                <org xml:id="ed_tvs_tvs_zdb">
+                    <orgName type="reg">F. A. Perthes Verlag Gotha</orgName>
+                </org>
+                <org xml:id="ed_p1g_vl5_22b">
+                    <orgName type="reg">F. H. Koethe, Handlung, Königsberg</orgName>
+                </org>
+                <org xml:id="ed_u5j_f25_sdb">
+                    <orgName type="reg">Fa. Niethammer Kriebstein</orgName>
+                </org>
+                <org xml:id="ed_ykj_15y_fjb">
+                    <orgName type="reg">Finanzministerium Berlin</orgName>
+                </org>
+                <org xml:id="ed_v5h_ypj_tcb">
+                    <orgName type="reg">Französisches Colonie-Gericht Berlin</orgName>
+                </org>
+                <org xml:id="ed_yz5_xnm_zdb">
+                    <orgName type="reg">Franz Todtenhöfer und Co. Autopalast Königsberg</orgName>
+                </org>
+                <org xml:id="ed_e5f_zfj_ycb">
+                    <orgName type="reg">Frauen-Verein Angerburg</orgName>
+                </org>
+                <org xml:id="ed_cfj_cz5_22b">
+                    <orgName type="reg">Frauen-Verein Gumbinnen</orgName>
+                </org>
+                <org xml:id="ed_wzn_lbh_1cb">
+                    <orgName type="reg">Fürstlich Salm-Horstmarsche Hofverwaltung</orgName>
+                </org>
+                <org xml:id="ed_ard_2kg_my">
+                    <orgName type="reg">Geheimes Archiv Königsberg (Staatsarchiv
+                        Königsberg)</orgName>
+                </org>
+                <org xml:id="ed_qqv_4fl_gbb">
+                    <orgName type="reg">Generaldirektion der preußischen Staatsarchive</orgName>
+                </org>
+                <org xml:id="ed_tgz_3tn_zdb">
+                    <orgName type="reg">Georg Stilke Verlagsbuchhandlung Berlin</orgName>
+                </org>
+                <org xml:id="ed_cbm_pys_kfb">
+                    <orgName type="reg">Germanisches Nationalmuseum Nürnberg</orgName>
+                </org>
+                <org xml:id="ed_zpl_h2s_d2b">
+                    <orgName type="reg">Gesang- und Orgelschule Gumbinnen</orgName>
+                </org>
+                <org xml:id="ed_o5b_rtv_h2b">
+                    <orgName type="reg">Gesellschaft für Erleichterung des Personenverkehrs auf den
+                        masurischen Seen</orgName>
+                </org>
+                <org xml:id="ed_mbw_hdh_my">
+                    <orgName type="reg">Gräfe &amp; Unzer’sche Buch- und Landkarten-Handlung
+                        Königsberg</orgName>
+                </org>
+                <org xml:id="ed_cn4_qtq_jlb">
+                    <orgName type="reg">Graf Lehndorff-Stiftung</orgName>
+                </org>
+                <org xml:id="ed_ah4_dzt_sdb">
+                    <orgName type="reg">Grassi-Museum Leipzig</orgName>
+                </org>
+                <org xml:id="ed_nmm_qzp_wx">
+                    <orgName type="reg">Grundsteuer-Verhandlungskommission Kreis Angerburg</orgName>
+                </org>
+                <org xml:id="ed_fz1_2w5_22b">
+                    <orgName type="reg">Gustav-Adolf-Verein</orgName>
+                </org>
+                <org xml:id="ed_z1f_vxj_gz">
+                    <orgName type="reg">Handelsministerium Berlin</orgName>
+                </org>
+                <org xml:id="ed_ayv_1fl_gbb">
+                    <orgName type="reg">Handwerkerschule der Stadt Berlin</orgName>
+                </org>
+                <org xml:id="ed_x3b_hb1_tcb">
+                    <orgName type="reg">Hauptamtskammer Barten</orgName>
+                </org>
+                <org xml:id="ed_r2h_nwj_gy">
+                    <orgName type="reg">Heil- und Pflegeanstalt für Epileptische in Carlshof b.
+                        Rastenburg</orgName>
+                </org>
+                <org xml:id="ed_f4r_djw_12b">
+                    <orgName type="reg">Heimatmuseum Glauchau</orgName>
+                </org>
+                <org xml:id="ed_evd_qws_d2b">
+                    <orgName type="reg">Hilfsverein für Ostpreußen</orgName>
+                </org>
+                <org xml:id="ed_q2d_wp1_tcb">
+                    <orgName type="reg">Hofgericht Bromberg</orgName>
+                </org>
+                <org xml:id="ed_myk_cjr_gbb">
+                    <orgName type="reg">Hofgericht Insterburg</orgName>
+                </org>
+                <org xml:id="ed_hln_rnw_mbb">
+                    <orgName type="reg">Hofgericht Königsberg</orgName>
+                </org>
+                <org xml:id="ed_emc_hnc_d2b">
+                    <orgName type="reg">Industrieschule Taberlack</orgName>
+                </org>
+                <org xml:id="ed_cts_db5_sdb">
+                    <orgName type="reg">Internationaler Militärgerichtshof Nürnberg</orgName>
+                </org>
+                <org xml:id="ed_j1m_xch_my">
+                    <orgName type="reg">J. A. Stargardt Autographenhandlung</orgName>
+                </org>
+                <org xml:id="ed_rt5_bh5_ncb">
+                    <orgName type="reg">Joachimsthalsches Gymnasium</orgName>
+                </org>
+                <org xml:id="ed_lx1_fpw_mbb">
+                    <orgName type="reg">Justizamt Barten</orgName>
+                </org>
+                <org xml:id="ed_nyn_mhj_mfb">
+                    <orgName type="reg">Kaiser-Friedrich-Museum Berlin</orgName>
+                </org>
+                <org xml:id="ed_cs2_h4h_my">
+                    <orgName type="reg">Kaiser-Wilhelm-und Augusta-Stiftung Berlin</orgName>
+                </org>
+                <org xml:id="ed_ltn_1qj_tcb">
+                    <orgName type="reg">Kammergericht Berlin</orgName>
+                </org>
+                <org xml:id="ed_gpd_zzw_h2b">
+                    <orgName type="reg">Kanzlei Sello, Silberstein und Marwitz</orgName>
+                </org>
+                <org xml:id="ed_fm2_fyh_mfb">
+                    <orgName type="reg">Kirchliche Arbeitsgemeinschaft Dreifaltigkeit
+                        Berlin</orgName>
+                </org>
+                <org xml:id="ed_ocb_krt_ncb">
+                    <orgName type="reg">Kleinkinderbewahranstalt Angerburg</orgName>
+                </org>
+                <org xml:id="ed_djh_wll_xdb">
+                    <orgName type="reg">Klosterschule Rossleben</orgName>
+                </org>
+                <org xml:id="ed_v5s_52z_g2b">
+                    <orgName type="reg">Komitee zur Krönungsfeier der russischen
+                        Majestäten</orgName>
+                </org>
+                <org xml:id="ed_qym_54s_kfb">
+                    <orgName type="reg">Königliche Akademie der bildenden Künste Berlin</orgName>
+                </org>
+                <org xml:id="ed_m2g_qxp_hlb">
+                    <orgName type="reg">Königliche Gärtnerlehranstalt am Wildpark bei
+                        Potsdam</orgName>
+                </org>
+                <org xml:id="ed_ldm_q4s_kfb">
+                    <orgName type="reg">Königliche Nationalgalerie Berlin</orgName>
+                </org>
+                <org xml:id="ed_c4p_mdc_jlb">
+                    <orgName type="reg">Königliches Institut für Glasmalerei Berlin</orgName>
+                </org>
+                <org xml:id="ed_wbg_fmg_my">
+                    <orgName type="reg">Königlich-Preußische Akademie der Wissenschaften </orgName>
+                </org>
+                <org xml:id="ed_dll_dm5_1bb">
+                    <orgName type="reg">Königsberg, Haus auf dem Roßgarten</orgName>
+                </org>
+                <org xml:id="ed_ghg_5lb_tcb">
+                    <orgName type="reg">Königsbergsches Departement</orgName>
+                </org>
+                <org xml:id="ed_amf_ztp_mbb">
+                    <orgName type="reg">Kornmagazin Königsberg</orgName>
+                </org>
+                <org xml:id="ed_jmq_pz1_tcb">
+                    <orgName type="reg">Kornmagazin Nikolaiken</orgName>
+                </org>
+                <org xml:id="ed_zyz_2sr_kfb">
+                    <orgName type="reg">Krankenhaus der Barmherzigkeit Königsberg</orgName>
+                </org>
+                <org xml:id="ed_h3c_hsm_fx">
+                    <orgName type="reg">Kreisausschuss zu den Kommunalabgaben Kreis
+                        Rastenburg</orgName>
+                </org>
+                <org xml:id="ed_lnf_t5y_5x">
+                    <orgName type="reg">Kriegsministerium Berlin</orgName>
+                </org>
+                <org xml:id="ed_xkg_1yq_gbb">
+                    <orgName type="reg">Kriminalpolizeileitstelle Berlin</orgName>
+                </org>
+                <org xml:id="ed_qsy_xxh_my">
+                    <orgName type="reg">Kultusministerium Berlin</orgName>
+                </org>
+                <org xml:id="ed_mn2_rtt_sdb">
+                    <orgName type="reg">Kunstsammlungen Chemnitz</orgName>
+                </org>
+                <org xml:id="ed_imb_kqf_p2b">
+                    <orgName type="reg">Landesamt für Denkmalpflege in Sachsen</orgName>
+                </org>
+                <org xml:id="ed_qlh_nvk_gbb">
+                    <orgName type="reg">Landesregierung Sachsen</orgName>
+                </org>
+                <org xml:id="ed_cly_vxq_gbb">
+                    <orgName type="reg">Landgericht Königsberg</orgName>
+                </org>
+                <org xml:id="ed_lfn_4yk_gbb">
+                    <orgName type="reg">Landratsamt Döbeln</orgName>
+                </org>
+                <org xml:id="ed_k52_kng_hy">
+                    <orgName type="reg">Landwirtschaftliche Musteranstalt Möglin</orgName>
+                </org>
+                <org xml:id="ed_vlp_qlb_tcb">
+                    <orgName type="reg">Litauische Kriegs- und Domänenkammer</orgName>
+                </org>
+                <org xml:id="ed_kl3_ldv_22b">
+                    <orgName type="reg">Loescher und Petsch Atelier für Fotografie Berlin</orgName>
+                </org>
+                <org xml:id="ed_tgd_qyv_mbb">
+                    <orgName type="reg">Lustspielhaus Berlin</orgName>
+                </org>
+                <org xml:id="ed_w32_txd_py">
+                    <orgName type="reg">Magdalenenstift</orgName>
+                </org>
+                <org xml:id="ed_v3n_jfm_gbb">
+                    <orgName type="reg">Magistrat der Stadt Berlin</orgName>
+                </org>
+                <org xml:id="ed_jhq_xl1_tcb">
+                    <orgName type="reg">Magistrat der Stadt Königsberg</orgName>
+                </org>
+                <org xml:id="ed_dbc_15p_dz">
+                    <orgName type="reg">Marchsche Tonwaren-Fabrik Berlin</orgName>
+                </org>
+                <org xml:id="ed_cgf_4j2_3kb">
+                    <orgName type="reg">Märkisch-Oekonomische Gesellschaft</orgName>
+                </org>
+                <org xml:id="ed_nh1_fnj_ycb">
+                    <orgName type="reg">Masurisches Erziehungshaus</orgName>
+                </org>
+                <org xml:id="ed_wwk_2y1_1bb">
+                    <orgName type="reg">Ministerium für Landwirtschaft, Domänen und Forsten,
+                        Berlin</orgName>
+                </org>
+                <org xml:id="ed_fn5_gmk_wcb">
+                    <orgName type="reg">Model- und Experimentalwirtschaft Aweyden</orgName>
+                </org>
+                <org xml:id="ed_wbw_h5s_d2b">
+                    <orgName type="reg">München-Aachener Feuer-Versicherungs-Gesellschaft</orgName>
+                </org>
+                <org xml:id="ed_fh2_jst_zdb">
+                    <orgName type="reg">Münzkabinett Berlin</orgName>
+                </org>
+                <org xml:id="ed_vy4_czt_sdb">
+                    <orgName type="reg">Museum für Musikinstrumente Leipzig (Grassi Musum)
+                    </orgName>
+                </org>
+                <org xml:id="ed_vht_pp1_tcb">
+                    <orgName type="reg">Oberlandesgericht Königsberg</orgName>
+                </org>
+                <org xml:id="ed_vp1_rn5_ncb">
+                    <orgName type="reg">Oberlinstiftung</orgName>
+                </org>
+                <org xml:id="ed_vh2_hdl_w2b">
+                    <orgName type="reg">Obertribunal Berlin</orgName>
+                </org>
+                <org xml:id="ed_sv5_13d_d2b">
+                    <orgName type="reg">Oppenheim und Warschauer, Bankhaus, Königsberg</orgName>
+                </org>
+                <org xml:id="ed_a45_yp2_b2b">
+                    <orgName type="reg">Ossolinskisches National-Institut Breslau</orgName>
+                </org>
+                <org xml:id="ed_w13_vch_ldb">
+                    <orgName type="reg">Ostbahn-Direktorium</orgName>
+                </org>
+                <org xml:id="ed_q2v_w2m_xcb">
+                    <orgName type="reg">Ostpreußische General-Landschaftsdirektion</orgName>
+                </org>
+                <org xml:id="ed_kgc_v1q_f2b">
+                    <orgName type="reg">Ostpreußische Landschaftliche Darlehens-Kasse
+                        Königsberg</orgName>
+                </org>
+                <org xml:id="ed_glc_bp1_tcb">
+                    <orgName type="reg">Ostpreußische Regierung</orgName>
+                </org>
+                <org xml:id="ed_irr_zgw_h2b">
+                    <orgName type="reg">Ostpreußischer Landwirtschaftlicher Centralverein
+                        Königsberg</orgName>
+                </org>
+                <org xml:id="ed_nvv_5js_d2b">
+                    <orgName type="reg">Ostpreußischer Provinzialverein für Innere Mission</orgName>
+                </org>
+                <org xml:id="ed_mgd_rgv_sy">
+                    <orgName type="reg">Ostpreußisches Etats-Ministerium</orgName>
+                </org>
+                <org xml:id="ed_ddj_ktb_tcb">
+                    <orgName type="reg">Pensionsanstalt Königsberg</orgName>
+                </org>
+                <org xml:id="ed_ewq_4lq_f2b">
+                    <orgName type="reg">Physikalisch-ökonomische Gesellschaft Königsberg</orgName>
+                </org>
+                <org xml:id="ed_hsv_cfr_gbb">
+                    <orgName type="reg">Preußische General-Ordens-Kommission</orgName>
+                </org>
+                <org xml:id="ed_j3g_bvh_my">
+                    <orgName type="reg">Preußische Geologische Landesanstalt</orgName>
+                </org>
+                <org xml:id="ed_z5d_dl4_llb">
+                    <orgName type="reg">Preußischer Volksverein</orgName>
+                </org>
+                <org xml:id="ed_lc1_xcg_h1b">
+                    <orgName type="reg">Preußische Spezial Kirchen- und Schulkommission</orgName>
+                </org>
+                <org xml:id="ed_tq2_p2b_1bb">
+                    <orgName type="reg">Preußisches Staatsministerium</orgName>
+                </org>
+                <org xml:id="ed_tjg_t3d_mfb">
+                    <orgName type="reg">Preußische Zeitung Geschäftsstelle Kruglanken</orgName>
+                </org>
+                <org xml:id="ed_fqz_cb1_12b">
+                    <orgName type="reg">Provinzialdenkmalamt Königsberg</orgName>
+                </org>
+                <org xml:id="ed_l1j_zfh_my">
+                    <orgName type="reg">Rall &amp; Rongowikow Hofbankier</orgName>
+                </org>
+                <org xml:id="ed_inc_xft_zdb">
+                    <orgName type="reg">Realgymnasium Königsberg</orgName>
+                </org>
+                <org xml:id="ed_cyd_wtg_hy">
+                    <orgName type="reg">Regierung zu Gumbinnen</orgName>
+                </org>
+                <org xml:id="ed_rml_bbl_2z">
+                    <orgName type="reg">Regierung zu Königsberg</orgName>
+                </org>
+                <org xml:id="ed_vdz_tp1_tcb">
+                    <orgName type="reg">Regierung zu Marienwerder</orgName>
+                </org>
+                <org xml:id="ed_t1d_tr5_zdb">
+                    <orgName type="reg">Reichsbank Berlin</orgName>
+                </org>
+                <org xml:id="ed_apw_ssy_ybb">
+                    <orgName type="reg">Ressource Lötzen</orgName>
+                </org>
+                <org xml:id="ed_yvb_np2_3lb">
+                    <orgName type="reg">Ritterakademie Brandenburg</orgName>
+                </org>
+                <org xml:id="ed_c11_cdh_my">
+                    <orgName type="reg">Rudolphi'sche Buchhandlung Hamburg</orgName>
+                </org>
+                <org xml:id="ed_t5f_4sh_jlb">
+                    <orgName type="reg">Rumänische Eisenbahnen-Actien-Gesellschaft</orgName>
+                </org>
+                <org xml:id="ed_zxf_yqt_ncb">
+                    <orgName type="reg">Siechenhaus Angerburg</orgName>
+                </org>
+                <org xml:id="ed_kkj_z3n_ngb">
+                    <orgName type="reg">Societas Cassiana</orgName>
+                </org>
+                <org xml:id="ed_qj5_sm1_tcb">
+                    <orgName type="reg">Société de Journaux et de Livres</orgName>
+                </org>
+                <org xml:id="ed_a3z_hzt_sdb">
+                    <orgName type="reg">Staatliche Kunstsammlungen Dresden</orgName>
+                </org>
+                <org xml:id="ed_pgh_sxk_gbb">
+                    <orgName type="reg">Staatliche Schlösser, Burgen und Gärten Sachsen</orgName>
+                </org>
+                <org xml:id="ed_pj4_1tp_tcb">
+                    <orgName type="reg">Stadtgericht Berlin</orgName>
+                </org>
+                <org xml:id="ed_fw4_kdc_rhb">
+                    <orgName type="reg">Stadtgericht Königsberg</orgName>
+                </org>
+                <org xml:id="ed_ufs_jb1_12b">
+                    <orgName type="reg">Städtische Kunstsammlungen Königsberg</orgName>
+                </org>
+                <org xml:id="ed_e3t_l2n_4y">
+                    <orgName type="reg">Steinort, Archiv</orgName>
+                </org>
+                <org xml:id="ed_tjm_5dn_4y">
+                    <orgName type="reg">Steinort, Bibliothek</orgName>
+                </org>
+                <org xml:id="ed_qzw_l1z_ny">
+                    <orgName type="reg">Steinort, Gemäldegalerie</orgName>
+                </org>
+                <org xml:id="ed_nnc_rrz_g1b">
+                    <orgName type="reg">Steinort, Grabkapelle</orgName>
+                </org>
+                <org xml:id="ed_ltz_hdr_gbb">
+                    <orgName type="reg">Steinort, Patrimonialgericht</orgName>
+                </org>
+                <org xml:id="ed_jpj_53n_my">
+                    <orgName type="reg">Stier &amp; Stephan Holzhandlung, Berlin</orgName>
+                </org>
+                <org xml:id="ed_lhq_kkg_ldb">
+                    <orgName type="reg">Stift Schildesche</orgName>
+                </org>
+                <org xml:id="ed_nzz_jsk_gy">
+                    <orgName type="reg">Tattersall Berlin</orgName>
+                </org>
+                <org xml:id="ed_zbv_wvp_f2b">
+                    <orgName type="reg">Tettausches Fräuleinstift Königsberg</orgName>
+                </org>
+                <org xml:id="ed_tkm_ns5_zdb">
+                    <orgName type="reg">Treuhandverwaltung für Kulturgut München</orgName>
+                </org>
+                <org xml:id="ed_pyk_3cm_zdb">
+                    <orgName type="reg">Union Wasserversorgungs- und Pumpen-Industrie GmbH
+                        Berlin</orgName>
+                </org>
+                <org xml:id="ed_qhc_n45_c2b">
+                    <orgName type="reg">Universität Berlin</orgName>
+                </org>
+                <org xml:id="ed_xrl_tdr_gz">
+                    <orgName type="reg">Universität Bonn</orgName>
+                </org>
+                <org xml:id="ed_yhq_rnr_gbb">
+                    <orgName type="reg">Universität Königsberg</orgName>
+                </org>
+                <org xml:id="ed_xjy_b4n_my">
+                    <orgName type="reg">Vaterländischer Frauenverein</orgName>
+                </org>
+                <org xml:id="ed_onn_wlq_f2b">
+                    <orgName type="reg">Verein der Berliner Künstlerinnen</orgName>
+                </org>
+                <org xml:id="ed_vpl_g41_tcb">
+                    <orgName type="reg">Vereinigung der Johanniter-Ordensritter der Provinz
+                        Preußen</orgName>
+                </org>
+                <org xml:id="ed_xth_qdv_12b">
+                    <orgName type="reg">Volksgerichtshof</orgName>
+                </org>
+                <org xml:id="ed_syf_xww_h2b">
+                    <orgName type="reg">Vorschuss-Verein zu Angerburg</orgName>
+                </org>
+                <org xml:id="ed_smh_zgj_ycb">
+                    <orgName type="reg">Waisenhaus Drengfurth</orgName>
+                </org>
+                <org xml:id="ed_l3c_f55_22b">
+                    <orgName type="reg">Waisenhaus für Knaben Lötzen</orgName>
+                </org>
+                <org xml:id="ed_wmx_llz_ny">
+                    <orgName type="reg">Waisenhaus Lyck</orgName>
+                </org>
+                <org xml:id="ed_pqq_g4d_gy">
+                    <orgName type="reg">Waisenhaus Rosengarten</orgName>
+                </org>
+                <org xml:id="ed_fcz_n4m_zdb">
+                    <orgName type="reg">Weckert und Müller Möbeltransport und Spedition
+                        Königsberg</orgName>
+                </org>
+                <org xml:id="ed_sjb_tsh_h2b">
+                    <orgName type="reg">Weinhaus Borchardt Berlin</orgName>
+                </org>
+                <org xml:id="ed_bfw_stj_jlb">
+                    <orgName type="reg">Wilhelm-Augusta-Siechenhaus Preußisch Eylau</orgName>
+                </org>
+                <org xml:id="ed_v3z_bjl_gbb">
+                    <orgName type="reg">Wissenschaftliche Notgemeinschaft der deutschen
+                        Wissenschaft</orgName>
+                </org>
+                <org xml:id="ed_wrx_qbq_1fb">
+                    <orgName type="reg">Zakład Narodowy im. Ossolińskich Wrocław</orgName>
+                </org>
+                <org xml:id="ed_p2n_fsg_my">
+                    <orgName type="reg">Zeitungsexpedition Angerburg</orgName>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

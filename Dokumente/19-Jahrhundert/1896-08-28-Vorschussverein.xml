@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_d3z_jnr_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorschuss-Verein zu Angerburg an Carl Wilhelm Eduard Palfner. Angerburg, 28.
+                    August 1896</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_d3z_jnr_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 30, Bl. 20</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_syf_xww_h2b">Vorschuss-Verein zu Angerburg</orgName>
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    <date when="1896-08-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_nsz_yww_h2b">Palfner, Eduard (-)</persName>
+                </correspAction>
+                <note>Zum Vorschuss-Verein (später Volksbank) und Specovius: Pfeiffer, Erich, Der
+                    Kreis Angerburg. Ein ostpreußisches Heimatbuch, 2. Aufl., 1998. S. 607.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/2/30/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Angerburg, den 28. August 96</dateline>
+					          <salute>Herrn Ed. Palfner <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName>
+               </salute>
+                </opener>
+				        <p>In der Graf Lehndorff Steinortschen Sache bittet der unterzeichnete Verein die
+                    Verwaltungskommission ergebenst, welche besteht aus Herrn Graf <persName key="ed_gmh_w2s_d2b">Dönhoff</persName>, Kommmerzienrat <persName key="ed_nsz_yww_h2b">Palfner</persName> und Rechtsanwalt Dr. <persName key="ed_tgy_sww_h2b">Silberstein</persName>, um eine bindende schriftliche
+                    Erklärung, dass der dem Grafen <persName key="ed_ik3_ckz_2y">Meinhard</persName>
+                    Lehndorff <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gewährte
+                    Wechselkredit in Höhe von 13.800 Mark mit 5 % verzinst und nach zwei Jahren
+                    vierteljährlich durch ratenweise Abschlagzahlungen von 10 % des ursprünglichen
+                    Darlehens getilgt wird. Nach § 68 Abs. 2 unseres Statuts sind dies die
+                    weitgehendsten Konditionen, die wir einzuräumen in der Lage sind.</p>
+                <p>Die Erklärung erwarten wir binnen 14 Tagen, anderenfalls uns genötigt sehen, die
+                    Wechselklage gegen Herrn Grafen Lehndorff einzuleiten.</p>
+				        <closer>
+					          <salute>Hochachtend</salute>
+					          <signed>Vorschuss-Verein zu Angerburg <lb/>Eingetragene Genossenschaft mit unbeschränkter
+                        Haftpflicht <lb/>gez. Albert <persName key="ed_r2c_fxh_lfb">Specovius</persName> Direktor</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

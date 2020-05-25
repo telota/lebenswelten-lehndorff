@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_irc_xmk_fbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Eduard Schmidt an die Wissenschaftliche Notgemeinschaft. Lötzen, 22. September 1922</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_irc_xmk_fbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>BArch Berlin-Lichterfelde</institution>
+                    <idno>R 73/16203: Schmidt, Karl Eduard 1922-1926</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ecr_2lh_my">Schmidt(-Lötzen), Karl Eduard
+                        (1850-1927)</persName>
+                    <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>
+                    <date when="1922-09-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_v3z_bjl_gbb">Wissenschaftliche Notgemeinschaft</orgName>
+                </correspAction>
+                <note>Gutachter für die Notgemeinschaft war Felix <persName key="ed_qdg_1ts_zdb">Rachfahl</persName>, der eine Empfehlung vom Vorhandensein von
+                        <quote>genügend Mittel(n)</quote> abhängig machte, da das <quote>Werk von
+                        ca. 11 Bänden</quote> vor allem <quote>persönliches Interesse
+                    bietet</quote>. Am 4. November 1922 folgte die Ablehnung durch den
+                    Staatsminister, da <quote>die Notgemeinschaft Ihrem Antrag auf
+                        Druckunterstützung</quote> nicht entsprochen habe. Ein weiterer, 1925
+                    gestellter Antrag wurde ebenfalls abgelehnt, da man die Mittel der Gemeinschaft
+                    auf Literarische Zeitschriften nicht ausdehnen könne. Im Namen der Literarischen
+                    Gesellschaft Masovia stellte <persName key="ed_ecr_2lh_my">Schmidt</persName> am
+                    24. Juni 1926 einen dritten Antrag für einen Druckkostenzuschuss. Als Anlage gab
+                    er Heft 31 bei, <quote>in dem Sie einen Abschnitt aus den so hochwichtigen
+                        Lehndorffschen Tagebüchern finden</quote>. Er hoffte auf einen
+                        <quote>größeren Zuschuss</quote>, der die Gesellschaft in die Lage versetzen
+                    würde, in jedem Heft <quote>12 und mehr Bogen Lehndorff zum Abdruck zu
+                        bringen</quote>. Auch dieser Antrag wurde am 30. Juni 1926 abschlägig
+                    beschieden. Schmidt verstarb 1927, der Verbleib seines Nachlass ist unbekannt. -
+                    Seit 1902 (bis 1926?) wurde die Gesellschaft vom Provinziallandtag für die
+                    Herausgabe von jährlich zwei Heften mit 300 Mark bezuschusst. In der Begründung
+                    heißt es, die Mitteilungen würden eine: <quote>hervorragende
+                        praktisch-wissenschaftliche Bedeutung besitzen, gleichzeitig auch ein weit
+                        über die Grenze Masurens hinausreichendes wissenschaftliches Interesse
+                        beanspruchen. Hierzu kommt noch der eigentümliche Umstand, dass Masuren ein
+                        wirtschaftlich armes Grenzgebiet mit gemischter, überwiegend polnischer
+                        Bevölkerung und Sprache sei, und dass daher die 'Mitteilungen' ein nicht zu
+                        unterschätzendes und bereits eingebürgertes Kulturmittel bildeten, um in
+                            <placeName key="ed_y1h_tpk_wcb">Masuren</placeName> deutsche Forschung
+                        und Sinnesart dauernd zu hegen und zu pflegen.</quote>Vgl. GStA PK, XX. HA,
+                    Rep. 2 II, Nr. 2006: Akte des Oberpräsidiums von Ostpreußen betr. die
+                    Literarische Gesellschaft Masovia in Lötzen (1902). Mit der ab 1912
+                    herausgegebenen „Altpreußischen Rundschau‟ verschrieb sich die Gesellschaft,
+                    deren Ehrenvorsitzender Generalfeldmarschall von <persName key="ed_mq5_xkl_gbb">Hindenburg</persName> war, der <quote>Pflege des Gemeinsinns</quote> und
+                        <quote>dem Kampf gegen alles, was unser Altpreußen bedroht, wozu besonders
+                        das vordringenden Polentum gehört</quote> (Bl. 25, 20. Oktober 1912). Siehe
+                    auch: GStA PK, I. HA, Rep. 76 V<hi rendition="#sup">e</hi> Sekt.2 Abt. XII, Nr.
+                    1: Die Literarische Gesellschaft Masovia in Lötzen (1901-1926). Zum
+                    deutschtumsbezogenen „Masovia‟-Bewusstsein der Gesellschaft: Kossert, Andreas,
+                    Deutsche oder Polen? Die Masuren im Spannungsfeld des ethnischen Nationalismus
+                    1870-1956, Wiesbaden 2001, S. 93.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lötzen Ostpr., den 22. September 1922</dateline>
+                </opener>
+                <p>Im Schloss <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, dem Wohnsitz der
+                    Grafen Lehndorff, habe ich vor einigen Jahren <seg type="comment">
+                  <orig>18 Bde
+                            französisch geschriebener Tagebücher</orig>
+                  <note xml:id="nxpk_n1g_vbb">Daneben existieren eine Vielzahl von Notizblättern, Tagebuchnotizen auf
+                            Einzelblättern sowie Notizbücher des Grafen in deutscher und
+                            französischer Sprache, in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr.
+                            479 ff. </note>
+               </seg> eines Grafen <persName key="ed_csb_mdf_cy">Lehndorff</persName> entdeckt, der 1746-75 Kammerherr bei der <persName key="ed_bwq_lzl_2y">Gemahlin</persName> Friedrichs des Großen war, in der
+                    Zeit also, da die Gestalt dieses <persName key="ed_x2r_52f_cy">Königs</persName>
+                    im Mittelpunkt des europäischen Interesses stand. Die interessantesten Stellen
+                    aus der Kammerherrenzeit nahm <orgName key="ed_tvs_tvs_zdb">F. A. Perthes in
+                        Gotha in Verlag</orgName> unter dem Titel: <seg type="comment">
+                  <orig>Dreißig
+                            Jahre am Hofe Friedrichs des Großen … von K. E
+                            Schmidt-Lötzen</orig>
+                  <note xml:id="nmz3_qws_zdb">Schmidt-Lötzen, Karl
+                            Eduard (Hrsg.), Dreißig Jahre am Hof Friedrichs des Großen. Aus den
+                            Tagebüchern des Reichsgrafen Ernst Ahasverus Heinrich von Lehndorff,
+                            Kammerherr der Königin Elisabeth Christine von Preußen, Gotha 1907,
+                            Nachträge Gotha 1910, 1913 </note>
+               </seg>. Das Buch erregte großes
+                    Aufsehen, nicht bloß bei den Herren vom Hohenzollernschen Hausarchiv und dem
+                    Herausgeber der <seg type="comment">
+                  <orig>politischen Korrespondenz Friedrichs
+                            des Großen</orig>
+                  <note xml:id="ncvd_jvs_zdb">Die politische
+                            Correspondenz Friedrichs des Großen, 46 Bde. und ein Ergänzungsband,
+                            hrsg. von Johann Gustav Droysen u. a., Berlin und Leipzig
+                            1879-1939</note>
+               </seg>, welcher letzterer mir gelegentlich schrieb, er
+                    habe die Fortsetzung geradezu verschlungen, vom Hofleben in jener Zeit sei bis
+                    dahin nur wenig bekannt gewesen. Allerdings kamen auch Vorwürfe wegen begangener
+                    Indiskretionen, obwohl ich glaubte alles Anstößige und besonders das
+                    Herrscherhaus Bloßstellende ausgemerzt zu haben. </p>
+            <p>Weiter machte ich es nun so, dass ich die sogenannten Tagebuchnotizen – sie gehen bis 1806 – in
+                    den <seg type="comment">
+                  <orig>Jahresheften</orig>
+                  <note xml:id="nwpn_mws_zdb">Mitteilungen der Literarischen Gesellschaft Masovia, hrsg. von K. Ed.
+                            Schmidt, H. 2 ff., Lötzen 1896 ff. (H. 1 unter dem Titel: Beiträge zur
+                            Kunde der Masuren, 1895)</note>
+               </seg> unserer Literarischen Gesellschaft
+                    Masovia stückweise zum Abdruck brachte und Perthes sie zu Bänden vereinigte. Das
+                    letzte Heft, das die Veröffentlichung bis 1784 führt, ist uns aber so teuer
+                    gekommen, dass wir in Schulden geraten sind. Wenn wir nun auch den Jahresbeitrag
+                    auf 20 M erhöht haben, so genügt das bei der Mitgliederschaft von ca. 400 doch
+                    nicht, um unserer Aufgabe, die Ergebnisse der Forschungen über Masovien zu
+                    publizieren, gerecht zu werden. Die Lehndorffschen Tagebücher müssten nun ganz
+                    zurückgestellt werden. Da dieses sehr bedauerlich wäre, geht nun meine Bitte
+                    dahin, die Wissenschaftliche Notgemeinschaft wolle uns die Mittel gewähren, um
+                    die Publikation der Tagebücher fortzusetzen. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Bis jetzt sind 4 Bde. erschienen.</orig>
+                  <note xml:id="nwjl_gxs_zdb">Schmidt-Lötzen, Karl Eduard (Bearb.), Des Reichsgrafen Ernst Ahasverus
+                            Heinrich von Lehndorff Tagebücher nach seiner Kammerherrenzeit. Nach dem
+                            französischen Original bearb., Bd. 1, Gotha 1921, auch in: Masovia 22/23
+                            (1919), S. 1–172, 24/25 (1920), S. 1-128, Fortsetzung 30 (1925), S.
+                            1-96, 31 (1926), S. 1-96.</note>
+               </seg> Der 4., der im Jahr nach der
+                    Kammerherrenzeit beginnt, führt den Titel: „Des Reichsgrafen E. A. G. Lehndorff
+                    Tagebücher“ und reicht bis 1784. Manuskript für etwa 2 Bände, die Jahre bis 1789
+                    umfassend, liegt schon vor.</p>
+				        <closer>
+				           <salute>Um eine wohlwollende Erwägung bitte mit größter Hochachtung</salute>
+				           <signed>Geh. Studienrat Dr. E. Schmidt <lb/>Vorsitzender der Literarischen Gesellschaft
+                        Masovia</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_tfx_lll_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lehnstabelle. Angerburg, 15. März 1717</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_tfx_lll_2z</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Die Beantwortung der Fragen durch Maria Louisa von Lehndorff in: GStA PK, XX.
+                        HA, Ostpr. Fol. Nr. 386, Bl. 3-8 (siehe Digitalisate). Zur Übergabe von
+                        Gutsbesitz und Gutsverwaltung durch Maria Eleonora von <persName key="ed_wwb_gcm_2y">Lehndorff</persName> an ihre Söhne <persName key="ed_kyf_fpy_bz">Gerhard Ernst</persName> und <persName key="ed_wtg_nyl_2y">Ernst Ahasverus</persName> von Lehndorff vgl. GStA
+                        PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 317 (1718-1726). Vgl.
+                        auch in GStA PK, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 100, n. f.,
+                        Extrakt aus der Spezifikation derjenigen adligen Besitzer im Hauptbuch
+                        Gerdauen-Nordenburg, die 1699 bis 1727 neue Lehngüter requiriert und keine
+                        neue Verschreibung darüber ersucht und erhalten, aus dem <quote>Geh.
+                            Staats-Archiv in Berlin, Acta das neu revidierte Lehnsrecht in Preußen
+                            1730-32 betr.</quote> Hier unter Nr. 5: <quote>
+                     <persName key="ed_n4w_tht_ldb">Melchior Andreas von Lehndorff</persName>,
+                            Kapitän, Lehngut Elkenehlen</quote>, das er <quote>jure
+                            hereditaris</quote> erhalten, nachdem sein Vater <persName key="ed_fgb_slt_ldb">Friedrich Wilhelm</persName> es 1702 käuflich
+                        erworben hatte; da er im Kriegsdienst gewesen, habe er von der
+                            <quote>Lehnskonstitution keine Wissenschaft erlangt</quote>. Nach diesen
+                        Lehnstabellen befand sich <placeName key="ed_hts_ttp_vcb">Warglitten</placeName> noch im Besitz der Familie von Röder, <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> mit Vorwerk Lehden im Besitz
+                        der <persName key="ed_tkp_4cg_vdb">Podewilsschen Familie</persName>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA GR, Rep. 66: Allodifikation der Lehen, Nr. 51, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                <date when="1717-03-15" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <p>
+            <seg type="comment">
+               <orig>Amts Angerburg Tabelle über das von Seiner Königlichen
+                        Majestät als Allod relevierende <rs type="term" key="ed_w5p_2y3_nz">Lehn</rs>
+               </orig>
+               <note xml:id="npdr_yc2_dhb">Auf der Grundlage der
+                        Tabellen erstellte das Amt Angerburg sein „Register über die adeligen
+                        Angerburgischen Lehngüter‟. Für Steinort in: GStA PK, XX. HA Ostpr. Fol. Nr.
+                        386, Bl. 3-6. </note>
+            </seg>
+         </p>
+                <p>
+                    <table rows="21" cols="3">
+                        <row>
+                            <cell>1.</cell>
+                            <cell>Name des Lehnguts</cell>
+                            <cell>
+                     <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                  </cell>
+                        </row>
+                        <row>
+                            <cell>2.</cell>
+                            <cell>Wo / und unter welcher Hoheit selbiges belegen?</cell>
+                            <cell>Liegt im Königlich Preußischen Angerburgischen Amt</cell>
+                        </row>
+                        <row>
+                            <cell>3. </cell>
+                            <cell>Name des Vasallen</cell>
+                            <cell>
+                     <persName key="ed_wwb_gcm_2y">Maria Eleonora Gräfin von Lehndorff
+                            </persName>geborene Gräfin von <seg type="comment">
+                        <orig>Denhoff</orig>
+                        <note xml:id="na4h_jfk_nz">Dönhoff</note>
+                     </seg> mit ihren beiden Söhnen <persName key="ed_kyf_fpy_bz">Gerhardus Ernestus</persName> und <persName key="ed_wtg_nyl_2y">Ernestus Ahasverus </persName> Grafen von
+                            Lehndorff</cell>
+                        </row>
+                        <row>
+                            <cell>4.</cell>
+                            <cell>Ob der Vasall das Lehen selbst besitze / oder jemand
+                                anderes?</cell>
+                            <cell>Diese beide Brüder besitzen es mit ihrer Mutter in unzerteilten
+                                Gütern</cell>
+                        </row>
+                        <row>
+                            <cell>5. </cell>
+                            <cell>Wenn das Lehngut nicht in des Vasalli, sondern in eines Tertii
+                                Händen / quo jure es dieser letztere besitze?</cell>
+                            <cell>Es ist das Lehngut in des Vasalli Händen</cell>
+                        </row>
+                        <row>
+                            <cell>6.</cell>
+                            <cell>Ob es ein feudum promiscuum, oder zu was Rechten es sonst
+                                verliehen?</cell>
+                            <cell>Es ist zu Magdeburgischen und beider Kinder Rechten
+                                verschrieben</cell>
+                        </row>
+                        <row>
+                            <cell>7.</cell>
+                            <cell>Ob ein gewisser Lehnstamm dabei vorhanden?</cell>
+                            <cell>Es ist kein Lehnstamm dabei vorhanden, weilen die Vettern ohnedem
+                            Vollweisen</cell>
+                        </row>
+                        <row>
+                            <cell>8.</cell>
+                            <cell>Ob der Vasallus in casus aperturae, wegen Wiedererstattung des
+                                Kauf-Pretii und der Melioration Lehnsherrlichen Konsens habe?</cell>
+                            <cell>In casum apertura ist wegen des Kaufpretii der aus Gnaden den
+                                Lehndörffern verliehen worden, auch wegen der Melioration kein
+                                Konsens vorhanden</cell>
+                        </row>
+                        <row>
+                            <cell>9.</cell>
+                            <cell>Ohngefährlicher Wert des Lehens</cell>
+                            <cell>
+                     <seg type="comment">
+                        <orig>Ist laut dem Teilungs-Rezess 200.000 Tlr. geschätzt</orig>
+                        <note xml:id="nvz4_p5f_vz">Vgl. GStA PK, XX. HA, Nr. 21: Nachlass
+                                    Maria Louisa von Lehndorff, geb. von Wallenrodt <p> (1744, 1764)
+                                        1773-1777, intus: Erbvergleich; Beilagen zum
+                                        Erbteilungsrezess (Inventar der Besitztümer
+                                    etc.).</p>
+                        </note>
+                     </seg>
+                  </cell>
+                        </row>
+                        <row>
+                            <cell>10.</cell>
+                            <cell>Ob es auf dem Fall stehe? &amp;</cell>
+                            <cell>Es steht auf keinen Fall</cell>
+                        </row>
+                        <row>
+                            <cell>11.</cell>
+                            <cell>Si non, wieviel lehnsfähige Deszendenten? und</cell>
+                            <cell>Zwei Brüder Gerhard Ernestus und Ernestus Ahasverus, dann ein
+                                Halbbruder <persName key="ed_wxh_52j_nz">Friedrich Otto Graf von
+                                    Lehndorff</persName>
+                  </cell>
+                        </row>
+                        <row>
+                            <cell>12.</cell>
+                            <cell>Wieviel Gesamthänder dabei vorhanden?</cell>
+                            <cell>
+                     <seg type="comment">
+                        <orig>Erstlich ist das Steinortsche Haus,
+                                    hernach folgen der Lehndörffer von <seg type="comment">
+                              <orig>
+                                 <placeName key="ed_rbc_xhj_nz">Alkenälen</placeName>
+                              </orig>
+                              <note xml:id="ngdq_vhj_nz">Elkinehlen</note>
+                           </seg>, davon 3.
+                                    Bruder vorhanden</orig>
+                        <note xml:id="nrrw_vkw_4hb">Die 2. Linie
+                                    zu Statzen ist hier unterschlagen, was 1793 zu einem
+                                    Lehnsprozess führt. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                                    Lehndorff, Nr. 126 und 127.</note>
+                     </seg>
+                  </cell>
+                        </row>
+                        <row>
+                            <cell>13.</cell>
+                            <cell>Ob dieselbe alle oder einige davon in fremden Landen wohnen? Und
+                                wo?</cell>
+                            <cell>Ein Lehndorff von Alkenälen ist in Preußen und zwei in
+                                Holland</cell>
+                        </row>
+                        <row>
+                            <cell>14.</cell>
+                            <cell>Wer diese unter fremder Botmäßigkeit sich befindende Gesamthänder
+                                seien?</cell>
+                            <cell>Zwei Lehndörffer von Alkenälen sind in Holländischen Dienste, der
+                                Älteste ist Capitain, der Jüngste Lieutenant und hat 2 Söhne</cell>
+                        </row>
+                        <row>
+                            <cell>15.</cell>
+                            <cell>Ob Lehnsfehler bei dem Lehen vorgegangen und worin diese
+                                bestehen?</cell>
+                            <cell>Es sind keine Lehnsfehler dabei vorgegangen</cell>
+                        </row>
+                        <row>
+                            <cell>16.</cell>
+                            <cell>Was vor Lehndienste auf dem Lehn haften?</cell>
+                            <cell>Es haftet drauf ein Lehndienst oder Dienstpflichtiger</cell>
+                        </row>
+                        <row>
+                            <cell>17.</cell>
+                            <cell>Wie viel bisher wegen solcher Lehndienste gegeben worden?</cell>
+                            <cell>Seit ao. 1714 hat man jährlich davor 10 Tlr. gegeben</cell>
+                        </row>
+                        <row>
+                            <cell>18.</cell>
+                            <cell>Wie oft solches im nächst-verwichenen Seculo geschehen?</cell>
+                            <cell>Im verwichenen Seculo hat man wegen des Dienstes nichts gegeben,
+                                sondern auf Erfordern allemal den Dienstpflichtigen gestellt</cell>
+                        </row>
+                        <row>
+                            <cell>19.</cell>
+                            <cell>Ob seine Königliche Majestät oder dero hohe Vorfahren sonst
+                                einigen Nutzen aus diesem Lehn gehabt / und worin derselbe
+                                bestanden?</cell>
+                            <cell>Es haben Seine Königliche Majestät oder dero hohe Vorfahren davon
+                                keinen anderen Nutzen gehabt als dass die gewilligte Kontributiones
+                                davon sind gefallen</cell>
+                        </row>
+                        <row>
+                            <cell>20.</cell>
+                            <cell>Was vor Schulden auf dem Lehn haften?</cell>
+                            <cell>Die Gräfin Maria Eleonora von Lehndorff hat ihr eingebrachtes
+                            Heiratsgut gegen Vermachung der 17.000 Tlr. hierauf zu fordern, dann hat
+                            der <seg type="comment">
+                        <orig>Graf von Denhoff</orig>
+                        <note xml:id="nipl_h3j_nz">Bogislaw Friedrich von Dönhoff, verheiratet
+                                    mit Sophie Charlotte von Lehndorff</note>
+                     </seg> wegen seiner
+                            Gemahlin noch 1.000 Tlr. rückständiges <seg type="comment">
+                        <orig>Ehegeld</orig>
+                        <note xml:id="nmvw_5k5_1bb">Vgl. den
+                                    Ehevertrag vom 1. Juli 1701 in: GStA PK, XX. HA, Rep. 54
+                                    Gutsarchiv Lehndorff-Steinort, Nr. 29.</note>
+                     </seg> zu
+                            fordern</cell>
+                        </row>
+                        <row>
+                            <cell>21.</cell>
+                            <cell>Ob dieselbe <seg type="comment">
+                        <orig>konsentieret</orig>
+                        <note xml:id="nlzc_gz3_mbb">genehmigt</note>
+                     </seg> sein von Ihro
+                                Königliche Majestät? und</cell>
+                            <cell>Weilen es kein Kurlehn und die Schulden an sich selbst
+                                privilegiert, so ist hierüber kein Konsens geführt worden</cell>
+                        </row>
+                        <row>
+                            <cell>22.</cell>
+                            <cell>Von den Agnaten?</cell>
+                            <cell>Die Agnaten haben hierin auch nicht konsentieren dürfen, weilen es
+                                zu ihrer apertus nicht steht</cell>
+                        </row>
+                        <row>
+                            <cell>23. </cell>
+                            <cell>Ob Seine Königliche Majestät ex causa Domini einen Anspruch an das
+                                Lehn habe?</cell>
+                            <cell>Wenn <seg type="comment">
+                        <orig>alle diese Lehnsfolger sowohl männ-
+                                    als weiblichen Geschlechts</orig>
+                        <note xml:id="ntcl_ztb_t2b">Magdeburgisches Recht</note>
+                     </seg> sollten abgehen, so fällt
+                            das Lehn an Ihro Königliche Majestät</cell>
+                        </row>
+                    </table>
+                </p>
+            
+        </body>
+    </text>
+</TEI>

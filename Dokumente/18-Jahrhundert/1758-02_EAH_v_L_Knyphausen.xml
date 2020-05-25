@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hfs_jd5_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an Dodo Freiherr von Knyphausen.
+                    Berlin, vor dem 7. Februar 1758 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hfs_jd5_2z</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Volz, Gustav Berthold, Aus dem Briefwechsel des
+                            Prinzen von Preußen August Wilhelm mit dem Kammerherrn Graf Ernst
+                            Ahasverus Lehndorff, in: Masovia 9 (1903), S. 130-171, hier S.
+                            162-166</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date notBefore="1758-02-01" cert="high" notAfter="1758-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_kq5_2m2_2z">Inn- und Knyphausen, Dodo Freiherr zu
+                        (-)</persName>
+                </correspAction>
+                <note>Lehndorff schreibt Anfang Februar zur Besetzung <placeName key="ed_uvt_4j4_dz">Preußen</placeName>s: <quote>Bei allem Ruhm, den unser erhabener Herrscher
+                        erworben hat, leiden seine Staaten schrecklich. Mein armes Heimatland ist in
+                        der Gewalt der Russen, die Hauptstadt von ihren Truppen besetzt. Der ganze
+                        Adel ist geflohen, meine alte, bis dahin so glückliche <persName key="ed_q4s_xyl_2y">Mutter</persName>, die seit dreißig Jahren aus ihrem
+                        schönen, reizenden Landsitz nicht herausgekommen ist, hat in der
+                        schrecklichen Kälte alles im Stich lassen müssen und ist jetzt mit meiner
+                        Schwester <persName key="ed_osg_km4_hz">Ysenburg</persName> in <placeName key="ed_uyl_j3c_gy">Danzig</placeName>. Ich ziehe nicht einen Pfennig
+                        aus meinen Besitzungen und bin nahe daran, meine Freunde um Hilfe zu bitten,
+                        wenn man nur solche in diesen Zeiten des Elends hätte. Trotz dieses Elends,
+                        trotzdem man nur Papier erhält und man zittert vor dem, was in zwei Monaten
+                        und im Sommer geschehen kann, ist ganz <placeName key="ed_xrv_gwb_by">Berlin</placeName> mit einem Maskenfest beim Grafen <persName key="ed_lrq_vn2_2z">Eickstedt</persName> beschäftigt.</quote> Vgl.
+                    Giebel, Tagebücher, S. 413 f.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, Februar 1758</dateline>
+                </opener>
+               
+                <p>Ich hätte niemals gedacht, <seg type="comment">
+                  <orig>als ich <placeName key="ed_xrv_gwb_by">Berlin</placeName> im Monat Oktober
+                            verließ</orig>
+                  <note xml:id="nlcj_dmm_scb">zur Übersiedlung mit dem Hof
+                            nach <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName>
+                  </note>
+               </seg>,
+                    es bei meiner Rückkehr so froh und munter zu finden, wie es augenblicklich ist.
+                    Unsere Zusammenkünfte sind reizend, man tanzt da oft, man sieht die schönsten
+                    Mädchen, und Herr <persName key="ed_l3z_j25_2z">Thiele</persName> gibt uns große
+                    Soupers, wo die Schönheit seiner Frau und die Pracht von Frau von <persName key="ed_wkz_m4m_scb">Gören</persName> außerordentlich glänzen. Wir werden
+                        <seg type="comment">
+                  <orig>Fastnacht beim Grafen <persName key="ed_aqw_q25_2z">Eickstedt</persName> feiern, </orig>
+                  <note xml:id="nklw_fwb_pdb">Das Fest fand am 7. Februar statt, vgl. Lehndorffs
+                            Beschreibung vom selben Tag im Tagebuch. </note>
+               </seg>und die Hälfte der
+                    Stadt ist beschäftigt, seine Phantasie anzustrengen, um passende Masken für sich
+                    zu finden; ich hoffe, dass die Eigenliebe ihnen solche liefern wird, die das
+                    Publikum amüsieren. Außerdem gibt es zweimal in der Woche Maskenbälle in der
+                    Stadt, wo man für Geld hingeht. Ich spreche Ihnen von alledem nur vom
+                    Hörensagen; meine Krankheit und besonders die traurigen Nachrichten aus meinem
+                        <placeName key="ed_uvt_4j4_dz">Vaterland</placeName> machen mich nicht für
+                    solche Freuden empfänglich. Die armen Preußen befinden sich entweder auf der
+                    Flucht oder in den äußersten Ängsten, und niemand zieht einen Heller aus seinen
+                    Besitzungen. </p>
+            <p>
+               <seg type="comment">
+                        <orig>Die <persName key="ed_uwp_1wg_2z">Frau Prinzessin</persName> ist aus
+                            Magdeburg zurück</orig>
+                  <note xml:id="nzcd_kg5_2z">Die Gemahlin des
+                            Prinzen Heinrich traf am 30. Januar in Berlin ein.</note>
+                    </seg>, sehr mitgenommen durch ihre Krankheit; <seg type="comment">
+                        <orig>Frau von <persName key="ed_ux3_xmm_scb">Dönhoff</persName>
+                  </orig>
+                  <note xml:id="nwxv_lg5_2z">Deren Oberhofmeisterin. Sie stand in brieflichem
+                            Kontakt mit Lehndorff, vgl. Schmidt-Lötzen, Nachträge, Bd. 1, S. 29.
+                        </note>
+                    </seg> schlechter denn je, die schöne <persName key="ed_elx_wwg_2z">Forcade</persName> in Verzweiflung, nicht in <placeName key="ed_iw5_fxl_2y">Breslau</placeName> zu sein, und Fräulein <persName key="ed_tjq_pnm_scb">Morrien</persName> immer die Gleiche. Der <persName key="ed_g24_sfh_2z">Hofmarschall</persName>, so verrückt als ein Mensch sein kann, wenigstens
+                    von denen, die man frei herumlaufen lässt, behauptet, dass er mehr durch die
+                    Anordnungen für die Reise der Prinzessin in Anspruch genommen sei, als Ihr
+                    Politiker es eines Tages sein werdet, um den Frieden zu schließen. Seine
+                        <persName key="ed_btx_rfh_2z">Frau</persName> stellt so ziemlich einen
+                    Durchschnitt des Erdenglobus dar, dabei hübscher denn je, wenn nicht die
+                    Anwesenheit ihres unangenehmen Gatten das reizende Gesamtbild ihrer Züge stört
+                    und ihr einen schmollenden Ausdruck gibt, der ihr doch noch gut steht. Wir
+                    werden in Kurzem alle französischen Gefangenen aus <placeName key="ed_flc_kyf_hy">Leipzig</placeName> hier haben. Ich flehe Sie an,
+                    Fräulein von <persName key="ed_pkd_5wg_2z">Knesebeck</persName> davon zu
+                    benachrichtigen; vielleicht, dass diese Nachricht sie die Rückkehr wünschen
+                    lässt, denn man sagt mir, sie sei so sieghaft und so glücklich in <placeName key="ed_iw5_fxl_2y">Breslau</placeName>, dass wir nicht mehr uns zu
+                    schmeicheln wagen, noch den geringsten Anteil an ihrer Erinnerung zu haben. Ich
+                    habe einen <persName key="ed_kyf_fpy_bz">Bruder</persName>, Kapitän in diesem
+                    Lande, der mir von ihr mit Entzücken spricht: ihre weißen Hände, ihre königliche
+                    Haltung, ihre Lebhaftigkeit, alles ist ein Gegenstand der Verehrung für ihn. Die
+                    Nachricht von diesen gefangenen Offizieren hat zu einem recht drolligen
+                    Missverständnis geführt. Das Publikum hatte erfahren, dass die Franzosen in
+                    einigen Tagen hier sein würden, und bildet sich ein, dass es <seg type="comment">
+                        <orig>die Armee unter <persName key="ed_p3w_kvr_52b">Richelieu</persName>
+                            sei</orig>
+                  <note xml:id="nicx_1h5_2z">Der Herzog von Richelieu
+                            kommandierte die französische Hauptarmee auf dem westlichen
+                            Kriegsschauplatz.</note>
+                    </seg>; die einen packen, die anderen holen sich Rat, was zu tun sei. Man
+                    erfindet darüber die wunderbarsten Geschichten, und die Mutigsten behaupten,
+                    dass sie in der Tat die Elbe mit 16.000 Mann hätten überschreiten wollen, dass
+                    aber das Abenteuer des Pharao ihnen begegnet, dass das Eis geborsten und alles
+                    ertrunken sei. Könnten wir alle unsere Feinde so in <seg type="comment">
+                  <orig>Tritonien und Najaden</orig>
+                  <note xml:id="npf3_gwr_52b">Personifizierte Gottheiten der lebenden Natur</note>
+               </seg> verwandelt
+                    sehen! </p>
+            <p>Die österreichischen Gefangenen sind unleidlich; es ist wahr, dass die besten in <placeName key="ed_tjp_yh5_2z">Frankfurt</placeName> bleiben. Wir haben nur einen
+                    Prinzen von <persName key="ed_j4k_135_2z">Koburg</persName>, der ein guter Junge
+                    ist, und die Flamländer, die zu ihrem Aussehen von Gecken aus der Provinz die
+                    österreichische Fadheit hinzufügen, was eine der unangenehmsten Wirkungen
+                    hervorbringt. Das hindert trotzdem unsere Närrinnen nicht, ihnen nachzulaufen,
+                    als wenn es der Mühe wert sei. Frau von <persName key="ed_v45_f35_2z">Schulenburg</persName> und Frau von <persName key="ed_wkz_m4m_scb">Göhren</persName> übertreffen alle anderen; die erste erschien mit
+                    Augenbrauen, die schwärzer als meine Schuhe sind, und die andere erschien
+                    neulich bei einer tödlichen Kälte in einem Taftkleid aus China; ihr Kopf, mehr
+                    nach dem Geschmack des dortigen Landes, als nach dem des unsrigen frisiert,
+                    stellte ein so üppig mit Blumen bedecktes Beet dar, dass ein reicher Kaufmann
+                    aus Hamburg oder Amsterdam ganz glücklich wäre, soviel Tulpen in seinem Garten
+                    zu haben. <gap reason="insignificant"/>
+                </p>
+            <p>Ich habe den<seg type="comment">
+                  <orig> feierlichen Reden </orig>
+                  <note xml:id="nlhg_nxr_52b">Die
+                            Feier des Geburtstages des Königs (24. Januar) wurde durch eine
+                            Festsitzung der Akademie im 26. Januar 1758 begangen.</note>
+                    </seg>beigewohnt, die in der Akademie am Geburtstage unseres großen Monarchen
+                    gehalten wurden. Der ständige <seg type="comment">
+                  <orig>
+                     <persName key="ed_oqy_ys1_fz">Sekretär</persName>
+                  </orig>
+                  <note xml:id="nj2q_zlm_scb">
+                     <note xml:id="nybf_xs1_fz">Samuel <persName key="ed_oqy_ys1_fz">Formey</persName>, Professor der
+                                Philosophie</note>
+                  </note>
+               </seg> hat Wunder verrichtet, der Stoff ist
+                    ja auch so schön, dass man nur einen Auszug für die Zeitungsblätter zu machen
+                    brauchte, um das Auditorium zur Bewunderung zu bringen, Dann kam der Herr Graf
+                    von <persName key="ed_m34_dt1_fz">Redern</persName>, der sofort mit seinem
+                    beliebten Thema anfing, <seg type="comment">
+                        <orig>der Gründung eines neuen Preußen in den Tropen</orig>
+                  <note xml:id="nl2x_tt1_fz">Zu Rederns kolonialpolitischen Bestrebungen vgl.
+                            Ring, Viktor, Asiatische Handelskompagnien Friedrichs des Großen, Berlin
+                            1890, S. 334.</note>
+                    </seg>. Dann warf er sich auf das Lob des Königs und endete damit, sich selbst
+                    bescheidentlich Weihrauch zu streuen. Er sprach von der <seg type="comment">
+                        <orig>
+                     <persName key="ed_ajb_mly_bz">Königin -Mutter</persName>
+                  </orig>
+                  <note xml:id="nmf5_kt1_fz">Der am 28. Juni 1775 verstorbenen Sophie Dorothea,
+                            Gemahlin Friedrich Wilhelms I. </note>
+                    </seg> und sagte, dass er sie umso aufrichtiger beweine, als sie ihn immer wie
+                    einen Sohn behandelte, dass sie ihn oft mit diesem Namen beehrt, und dass sie
+                    ihm erlaubt habe, sie wie seine Mutter zu betrachten. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

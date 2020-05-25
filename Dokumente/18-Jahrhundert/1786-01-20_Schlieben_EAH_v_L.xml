@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dz4_gdh_jbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Leopold Graf von Schlieben an Ernst Ahasverus Heinrich Graf von Lehndorff. Gerdauen, 20. Januar 1786</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dz4_gdh_jbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 387, Bl. 54-55</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zqm_ymf_hy">Schlieben, Karl Leopold Graf von
+                        (1723-1788)</persName>
+                    <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>
+                    <date when="1786-01-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>In einem undatierten Brief (Bl. 116-117 v) bringt Schlieben Entschuldigungen
+                    vor, weshalb sein Besuch in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    noch ausstehe. Besuche, Aufgaben in der Wirtschaft, der Bau des Eiskellers, die
+                    Wolfsjagd hätten ihn gehindert, aber nun könne Lehndorff einen Termin bestimmen
+                        <quote>und alsdann haben Sie uns auf dem Halse wie ein Fleckfieber</quote>.
+                    Ein ihm übermittelter Auszug eines Briefes der Frau von der <persName key="ed_gpx_gv5_vcb">Groeben</persName>
+                    <quote>auf das Chapitre meines Schwiegersohnes und Tochter von
+                        Marienwerder</quote> (Marie Karoline von Schlieben (1752-1832) war
+                    verheiratet mit Friedrich Wilhelm von Schlieben) zeige deren <quote>gnädige und
+                        geneigte Denkungsart gegen uns</quote>, auch wenn er durch seine
+                    Bekanntschaft <quote>mit anderen würdigen Männern, die ihren Aufenthalt am Hof
+                        gehabt</quote>, wisse, <quote>dass der freie und artige Hof-Ton, allen
+                        Leuten was gracieuses und polies zu sagen, seine Anhänger nie
+                        verlassen</quote> habe. Sie wünschen, Herrn und Frau von der <persName key="ed_kgd_wxh_tcb">Groeben</persName> [auf Neudörfchen, Krs. Marienwerder;
+                    d. Bearb.] <quote>unsere wahre Hochachtung bezeugen zu können</quote>. Frau und
+                    Kinder würden Mitte Januar nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gehen, ihn hätten die Kinder in <placeName key="ed_d31_lxj_gy">Marienwerder</placeName> um einen Besuch gebeten.
+                    Fähnrich von <persName key="ed_rhw_nyh_tcb">Unruh</persName> werde einen Ball in
+                        <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> geben, wegen der
+                        <quote>gesegneten Umstände der <persName key="ed_jcy_213_tcb">Burggräfin</persName>
+               </quote> würden die Feierlichkeiten nicht auf dem
+                    Schloss, sondern im Haus des Richters <persName key="ed_wkg_5th_tcb">Peter</persName> stattfinden, auch <persName key="ed_csb_mdf_cy">Lehndorff</persName> sei willkommen - <quote>gewiss, diesen Vorfall ließ
+                        ich in die Bostoner Gazette [gemeint ist die Boston Gazette (1719-1798),
+                        eine in Boston, Massachusetts, in den britischen nordamerikanischen Kolonien
+                        veröffentlichte, wöchentlich erscheinende Zeitung. Sie gehörte zu den
+                        einflussreichsten Zeitungen in der amerikanischen Geschichte; d. Bearb.]
+                        einrücken</quote>. <persName key="ed_xp2_wcv_mbb">Bonais</persName> habe auf
+                    das Schreiben des Grafen geantwortet. <quote>Der gnädige Kammerherr spotten
+                        ihres Knechts, es dependiert ja alles von seinem gnädigen Befehl.</quote> -
+                        <quote>Die <persName key="ed_dxn_bb3_tcb">Kalneinsche</persName> Verlöbnis-
+                        und Ruptur-Historie</quote> gefalle ihm <quote>nicht übel</quote>; er müsse
+                    bekennen, dass ihn die <quote>Zernichtung dieses Verlöbnisses nicht so sehr
+                        befremdet hat, als das Verlöbnis selbsten</quote>.</note>
+            </correspDesc>
+            <abstract>
+                <p>Er bedankt sich für die Lieferung von Fischen. Er ist seit 6 Wochen erkrankt,
+                    müsse nun aber wegen einer finanziellen Angelegenheit nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. Nach seinen Nachrichten solle es
+                    dort recht manierlich zugehen. Man freit und lässt sich freien, <seg type="comment">
+                  <orig>Herr Graf <persName key="ed_kzh_z13_tcb">Truchseß von
+                                Capustigall</persName> mit Fräulein von <persName key="ed_dxn_bb3_tcb">Kalnein</persName>
+                  </orig>
+                  <note xml:id="no3t_rf3_tcb">Seine Ehe mit Amalie Albertine Wilhelmine von
+                            Ingersleben, Tochter von Johann Ludwig von Ingersleben, war 1783
+                            geschieden worden. Das Paar hatte drei Kinder. Am 30. März 1786 ging er
+                            mit der Gräfin von Kalnein, die nur fünf bzw. sechs Jahre älter als die
+                            Kinder aus der ersten Ehe war, die zweite Ehe ein. Beide hatten
+                            ebenfalls drei Kinder.</note>
+               </seg>, <seg type="comment">
+                  <orig>Herr von
+                                <persName key="ed_grx_cb3_tcb">Ostau</persName> von <placeName key="ed_nff_jb3_tcb">Quanditten</placeName> mit Fräulein von
+                                <persName key="ed_q3p_fb3_tcb">Tiedemann</persName>
+                  </orig>
+                  <note xml:id="nbfh_sg3_tcb">Er war 48, Landrat und Landesherr, sie 19
+                            Jahre.</note>
+               </seg>, welche beide Dames Stiefkinder überkommen, die
+                    teils älter wie sie selbsten sind, teils der Unterschied sehr gering. Wenn die
+                    avantageuse <seg type="comment">
+                  <orig>Verlobung des Grafen von
+                            Keyserlingk</orig>
+                  <note xml:id="na5r_2yk_w2b">Die erste Ehefrau,
+                            Charlotte Eleonore von Medem, war 1781 verstorben. Das Paar hatte drei
+                            Kinder. Mit seiner zweiten Ehefrau heiratete er in ein altes
+                            westfälisches Adelsgeschlecht ein. Die von bzw. zu Münster gehören zu
+                            den ältesten noch blühenden deutschen Adelsfamilien. </note>
+               </seg> so
+                    ist, wie man sie angibt, so gratuliere ihm dazu von ganzem Herzen, denn die
+                    Braut sei <quote>schön wie Venus, jung wie Hebe, tugendsam wie Minerva</quote>
+                    und besitze überdies ein Vermögen von 250.000 Rtlr. - Er bedauert die <persName key="ed_en5_n2v_scb">Baronin von Beynuhnen</persName>, deren Sohn
+                        <quote>seine besten Lebensjahre in der Festung verschleudern muss</quote>.
+                    Diese könne der <quote>gute Quittainer nicht wieder redressieren, und schreibe
+                        er auch noch etliche Briefe</quote>. Der aus <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zurückgekehrte Lehnssekretarius berichte, dass man
+                    dort weder von einer <quote>Landplage, noch von schlechten Zeiten</quote> etwas
+                    wisse, statt dessen gäbe es Soupers und Assembleen und die Ärzte seien mit
+                        <quote>Magenkuren</quote> beschäftigt. Auch General von <persName key="ed_zny_zpv_scb">Anhalt</persName> habe am Krönungstag, dem 18. Januar,
+                    eine Feierlichkeit gegeben, <quote>ein Zeichen, dass Exzellenz sich wieder
+                        kommunizieren</quote>. In der Sache des Herrn <persName key="ed_r3s_ymw_mbb">Glave</persName> soll es schlecht stehen und man sehe seiner Verhaftung in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> entgegen, doch könne
+                    man <quote>nicht immer glauben, was die Leute lügen</quote>.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

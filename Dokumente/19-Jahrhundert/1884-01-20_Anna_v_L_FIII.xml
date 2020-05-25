@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_n3t_s5l_l1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anna Gräfin von Lehndorff an Prinz Friedrich von Preußen. Steinort, 20. Januar 1884</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_n3t_s5l_l1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, FA v. Lehndorff (unverzeichnet)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Briefpapier mit Trauerrand. - Bei liegt der erwähnte Bericht,
+                            eingeschlagen in ein Blatt mit der Aufschrift: <quote>17. Vom
+                                Garde-Husaren-Regiment</quote>. Das Schriftstück gehörte zu einer
+                            Sammlung: <quote>Diverse Schriftstücke auf das Gräflich Lehndorffsche
+                                Geschlecht und das Leben des Grafen Carl Lehndorff
+                                bezüglich;</quote> das Verzeichnis zur Sammlung (möglicherweise als
+                            Umschlag) in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 398, Bl. 2. </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1884-01-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_yzt_s1b_dy">Preußen, Friedrich III. Kaiser von
+                        (1831-1888)</persName>
+                </correspAction>
+                <note>Der Bericht, der die Tätigkeit des Regiments bis zum 1. Januar 1814
+                    tagebuchartig beschreibt, wird von <persName key="ed_fd1_hc1_my">Schultze</persName> erwähnt und auszugsweise zitiert als
+                        <quote>Regimentsgeschichte des Ostpreußischen National-Kavallerie
+                        Regiments</quote>. Er lag im <orgName key="ed_e3t_l2n_4y">Steinorter
+                        Archiv</orgName> in mehreren Exemplaren als Abschrift vor undwurde durch
+                    Schultze erstmals veröffentlicht, vgl. Ders., Lebensbild, S. 421 ff. Zur
+                    Schlacht an der Katzbach S. 442 ff., Lehndorffs Bericht vom 28. August 1813 S.
+                    448 f.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 20. Januar 1884</dateline>
+					          <salute>Durchlauchtigster Prinz!</salute>
+                </opener>
+				        <p>Als ich im August v. J. das hohe Glück hatte, gemeinsam mit Eurer Königlichen Hoheit bei
+                    meinem <persName key="ed_obs_b5s_2y">Neffen Lehndorff</persName> Pate zu stehen,
+                    erlaubte ich mir Eurer Königlichen Hoheit eine Relation über den Anteil des
+                    National-Kavallerie-Regiments (jetzige Garde-Husaren) an der Schlacht bei der
+                    Katzbach zu versprechen, welche <seg type="comment">
+                  <orig>in den Archiven des
+                            Regiments</orig>
+                  <note xml:id="nc3q_jxr_kfb">Er war auch nicht im
+                            Kriegsarchiv überliefert.</note>
+               </seg> fehlt. </p>
+            <p>Der Bericht war anno 13 verloren gegangen, wie mir vom Regiment mitgeteilt worden war, als ich
+                    danach forschte. Inzwischen aber fand ich eine Kopie der Relation unter den
+                    nachgelassenen Papieren meines seligen <persName key="ed_k4z_jgl_2y">Schwiegervaters</persName>, welcher das Regiment 1813 errichtet und Gott
+                    sei Dank an der <seg type="comment">
+                  <orig>Katzbach</orig>
+                  <note xml:id="nvk5_4ph_4cb">Kleiner, sich in die Oder ergießender Fluss im
+                            preußischen Regierungsbezirk Liegnitz in Schlesien, welcher durch die
+                            1813 hier geschlagene Schlacht berühmt geworden ist. </note>
+               </seg> wie
+                    bei <placeName key="ed_flc_kyf_hy">Leipzig</placeName>
+                    <gap reason="illegible"/> dasselbe zum Sieg führen durfte, nach unendlichen
+                    Mühen seinerseits, ein Regiment aus ungedienten jungen Leuten zu einer halbwegs
+                    disziplinierten Truppe zu formieren <gap reason="insignificant"/>
+                </p>
+            <p>Obgleich Eure Königliche Hoheit inzwischen einem anderen Regiment
+                    aggregiert, wage ich doch noch diesen Bericht Hochdenenselben zu unterbreiten,
+                    weil ich mit dankbarer Freude bemerkt, dass Eure Königliche Hoheit eine warme
+                    Anhänglichkeit dem Regimente bewahren, welches für die Familie Lehndorff immer
+                    von besonderem Interesse sein wird. </p>
+            <p>Gestatten Eure Königliche Hoheit, dass ich zugleich mit meinem tief gefühlten Dank für Ihrer
+                    Königlichen Hoheit gnädigste Teilnahme an meinem schweren schmerzlichen <seg type="comment">
+                  <orig>Verlust</orig>
+                  <note xml:id="nulx_gph_4cb">Carl Meinhard
+                            Graf von Lehndorff war am 18. Oktober 1883 verstorben.</note>
+               </seg> mich
+                    zeichnen darf als</p>
+				        <closer>
+					          <salute>Euer Königlichen Hoheit gehorsamste </salute>
+					          <signed>Anna Gräfin Lehndorff geb. Gräfin Hahn</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

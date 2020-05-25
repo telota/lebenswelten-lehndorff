@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_fbr_pf5_vdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin,
+                    19./20. September  bis 24. November 1770</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_fbr_pf5_vdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 2, Gotha 1913, S. 145</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von (Landkeim
+                    7.5.1727-Steinort 19.5.1811)</persName>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date from="1770-09-19" to="1770-11-24" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <hi rendition="#u">19. September</hi>. <gap reason="insignificant"/>
+                    <note type="editorial">Lehndorffs Frau wird von einem Sohn entbunden.</note>
+                    Meine Freude übersteigt daher alle Grenzen. Wenn nur Gott mir diese
+                    inniggeliebte Frau erhält! <gap reason="insignificant"/> Meine Schwester
+                        <persName key="ed_d3h_sy4_mbb">Schlieben</persName> und der gute Arzt
+                        <persName key="ed_cnt_3b4_xdb">Brodthagen</persName> leisten mir bei dieser
+                    Gelegenheit gute Dienste. Die gute Gräfin <persName key="ed_m55_53y_rgb">Keyserlingk</persName> besucht uns gleich; dies vortreffliche Haus
+                    verleugnet sich eben bei keiner Gelegenheit. </p>
+                <p>
+               <hi rendition="#u">20. September</hi>. Ich lasse meinen Sohn durch Herrn
+                        <persName key="ed_o4g_zz1_tcb">Behr</persName> von der reformierten Kirche
+                    taufen. Er bekommt die Namen <persName key="ed_k4z_jgl_2y">Christian Friedrich
+                        Karl Ludwig</persName>. Graf Keyserlingk, dessen Frau Mutter, der
+                    Oberburggraf <persName key="ed_lrq_xcl_rbb">Kunheim</persName> und meine
+                    Schwester <persName key="ed_d3h_sy4_mbb">Schlieben</persName> halten ihn über
+                    die Taufe. Diese findet 12 Uhr statt, und um 1 Uhr ist schon alles vorbei. Ich
+                    liebe es nicht, dass man aus einer religiösen Handlung ein weltliches Fest
+                    macht.</p>
+                <p>Ich fühle mich in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> sehr
+                    glücklich; dieses Land würde mir noch mehr gefallen, wenn ich in meiner Familie
+                    jene Denkart fände, die ein Zusammenleben angenehm macht. Selbst das Klima sagt
+                    mir zu. Ich esse gute Früchte und fühle mich recht wohl dabei. <seg type="comment">
+                  <orig>Es ist besonders das <persName key="ed_jpf_mc4_xdb">Haus Keyserlingk</persName>, das mir Preußen so lieb
+                            macht.</orig>
+                  <note xml:id="niqr_m3y_rgb">Gemeint ist das Haus von
+                                <persName key="ed_bxp_z3y_rgb">Heinrich Christian</persName> und
+                                <persName key="ed_m55_53y_rgb">Charlotte Caroline Amalie von
+                                Keyserlingk.</persName> Mit ihrem Mann unterhielt Caroline in
+                            Königsberg den berühmten „<ref target="https://de.wikipedia.org/wiki/Caroline_von_Keyserling">Musenhof der Keyserlingks</ref>‟. </note>
+               </seg> Man findet in
+                    diesem Haus stets Fremde, die nach <placeName key="ed_iky_35l_cz">Russland</placeName> gehen oder von dort kommen. Eine für unsere Gegend
+                    sehr interessante Frau ist die <seg type="comment">
+                  <orig>Vicomtesse <persName key="ed_fhh_s5z_dlb">Herrera</persName>, die Frau des spanischen
+                            Gesandten</orig>
+                  <note xml:id="nrbj_j5z_dlb">1767 hatten Spanien und
+                            Preußen diplomatische Beziehungen aufgenommen. </note>
+               </seg>, die auch
+                    hier durchkommt. <gap reason="insignificant"/> Auch französische Offiziere
+                    reisen hier durch; es sind recht liebenswürdige Leute.</p>
+                <p>
+               <hi rendition="#u">Oktober</hi>. Ich bleibe bist Mitte des Monats noch in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> und begebe mich dann
+                    nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, wo ich mich 14 Tage
+                    aufhalte. Die Wege werden schon furchtbar schlecht, und obwohl ich hierher
+                    zurückkehren zu können hoffe, so kann ich mich doch nicht darauf verlassen. Über
+                        <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> und <placeName key="ed_dxb_zdf_4y">Sanditten</placeName> gehe ich also zurück, und die
+                    guten Keyserlingk kommen uns entgegen und bringen mich zu meiner Frau. Ich finde
+                    sie wieder gut hergestellt und meinen Jungen gesund und kräftig.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Prinz <persName key="ed_nvx_wcz_bz">Heinrich</persName>, der in <placeName key="ed_xhj_5b4_xdb">Stockholm</placeName> war, reist nach <placeName key="ed_qvp_nnz_2y">Petersburg</placeName>, einer Einladung der
+                            Kaiserin nachkommend,</orig>
+                  <note xml:id="niz4_kk5_vdb">Im selben Jahr
+                            war auch der König mit dem Kaiser zusammengetroffen, für Lehndorff ein
+                                <quote>Hauptereignis dieses Jahres</quote>, ebd. S.
+                        188.</note>
+               </seg> und wird über alle Beschreibung gefeiert. <seg type="comment">
+                  <orig>Man erwartet ihn in Preußen, und man quält mich, hier
+                            zu bleiben.</orig>
+                  <note xml:id="nfyp_cn5_vdb">Am 17. Februar kehrt der
+                            Prinz nach Berlin zurück. Zum Besuch in Petersburg ebd., S. 197
+                            f.</note>
+               </seg> Ich bleibe aber fest und reise ab. </p>
+                <p>
+               <note type="editorial">Am 12. November reist Lehndorff über <placeName key="ed_x12_zb4_xdb">Pillau</placeName> - <quote>zum Teil über die See,
+                            was mir etwas ungewohnt vorkommt</quote> - und <placeName key="ed_uyl_j3c_gy">Danzig</placeName> nach <placeName key="ed_xrv_gwb_by">Berlin</placeName>. Hier trifft er am 24. November
+                        ein. </note>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

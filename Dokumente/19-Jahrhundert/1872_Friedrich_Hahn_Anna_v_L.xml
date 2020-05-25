@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xz4_qxn_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Franz Graf von Hahn an Anna Gräfin von Lehndorff. Basedow
+                    1872</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xz4_qxn_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 412, Bl. 8-9</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_qcc_ygv_22b">Hahn, Friedrich Franz Graf von (-)</persName>
+                    <placeName key="ed_yps_bwn_my">Basedow</placeName>
+                    <date notBefore="1872-01-01" notAfter="1872-12-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/412/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>
+               <gap reason="lost"/>
+                    <seg type="comment">
+                  <orig>So ein elender Kerl,</orig>
+                  <note xml:id="ngc2_khv_22b">Da der Briefanfang fehlt, bleibt unklar, wer gemeint ist.</note>
+               </seg>
+                    meine Handlungsweise bei meiner Tante so gemein zu verdächtigen!</p>
+                <p>Erst fängt er damit an, meine Beamten zu verdächtigen, dann meinen Pächter, nun
+                    meinen Rechtsbeistand, nächstens wird er mir noch irgend sonst etwas
+                    anhängen!</p>
+                <p>Nicht einen Groschen bekommt er von mir. Wenn ich etwas übrig habe, so gehört es
+                    meinen Geschwistern und den armen Verwandten, nicht aber solchen Faulenzern,
+                    Tagedieben und ausgefeimten Unterwühlern. Ich werde mich nicht wundern, wenn ich
+                    das Nest ausgeräumt habe, dass dann die sozialdemokratischen Stimmen aufhören
+                    werden, welche die <gap reason="illegible"/>-Wahlen so würdevoll
+                    auszeichnen.</p>
+                <p>Bitte schreibe ihm, wenn Du es gut mit mir meinst, dass Du ihm nur raten
+                    könntest, sich so bald als möglich nach einer Stellung umzusehen, da Dein Neffe
+                    nie etwas ohne Überlegung täte und von seinem Entschluss nicht mehr abginge.</p>
+                <p>Ich werde ihm noch heute mitteilen, das nunmehr sein Maß voll wäre und dass ich
+                    nach der Gelegenheit mich sehne, ihn herauszujagen. Meine Langmut und Güte hat
+                    nunmehr ein Ende.</p>
+                <p>Wenn Du ihn hiernach aber für außerordentlich wertvoll hältst, so trete ich ihn
+                    Dir gerne ab, wenn Du ihn in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    brauchen kannst. Falls <gap reason="illegible"/> Dir zahlen sollte, werde ich
+                    nicht Veranlassung nehmen, das Geld ihm zu senden, sondern Dir selbst.</p>
+                <p>Für ihn wäre es weggeworfen, dann kannst Du es lieber <gap reason="illegible"/>
+                    weiter borgen.</p>
+                <p>Ich bitte Dich noch einmal, für die Zukunft solche Briefe dem Papierkorb zu
+                    übergeben.</p>
+				        <closer>
+					          <salute>Herzliche Grüße <lb/>Dein gehorsamster Neffe</salute>
+					          <signed>Hahn-Basedow</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

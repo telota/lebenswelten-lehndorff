@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_tyz_frr_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inventar. Steinort, 5. Januar 1897</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_tyz_frr_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="editorial">
+                    <p>Es waren wohl auch wichtigste Familiendokumente nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> verbracht worden, denn 1906
+                        schreibt <persName key="ed_gvq_lwl_ddb">Sommerfeldt</persName> in einem
+                        Aufsatz, dass das „Steinorter gräflich Lehndorffsche <orgName key="ed_e3t_l2n_4y">Familienarchiv</orgName> überdies seit vielen Jahren
+                        der Benutzung der Gelehrten entzogen ist, und der am 25. April 1905
+                        verstorbene Graf <persName key="ed_nml_dw2_cy">Heinrich von
+                            Lehndorff</persName> Exzellenz mich wiederholt versicherte, dass die
+                        alten, wertvollsten Bestände dieses Archivs von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> an die Generallandschaft nach
+                        Königsberg [das unten genannte Landschaftliche Depositorium? ] überführt
+                        sind und hier unter Verschluss gehalten werden, ohne dass ein Zutritt
+                        möglich ist.‟ Weitere Forschung sei nur möglich, wenn der Majoratsherr Graf
+                            <persName key="ed_ik3_ckz_2y">Carl von Lehndorff</persName> „die bei der
+                        Königsberger Generallandschaft befindlichen Teile seines Archivs wieder zu
+                        erlangen vermöchte‟, vgl. Sommerfeldt, Gustav, Die Lehndorff-Gräber in der
+                        Kirche zu Haffstrom bei Königsberg, Ostpr., in: Der Deutsche Herold,
+                        Zeitschrift für Wappen-, Siegel- und Familienkunde, Bd. 37, Berlin 1906, S.
+                        63-67. - 1913 erschien Sommerfeldts letzter Aufsatz (zweiter Teil) über die
+                        Grafen Lehndorff: Zur Lehndorff-Genealogie, in: Zeitschrift des
+                        Westpreußischen Geschichtsvereins 49 (1907), S. 101–130; 55 (1913), S.
+                        49–75.</p>
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 30, Bl. 67-69</idno>
+                    </msIdentifier>
+                  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1897-01-05" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/2/30/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Verzeichnis der zum Fideikommissgut <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gehörigen Silber- und Wertsachen, welche am 5. Januar
+                    cr. verpackt und in neun Kisten an das Landschaftlich Depositorium gesandt
+                    sind</p>
+                <p>
+               <note type="editorial">Kiste I enthielt:</note>1 Tablett, 1 Teemaschine mit
+                    Untersatz, 1 Teekanne mit Spülnapf, 2 Kaffeekannen (1 groß und 1 kleinere), 6
+                    Weinuntersätze, 2 Streuzuckerschalen, 2 Zuckerschalen, 2 Sahnetöpfe, 36
+                    Kaffeelöffel, 2 silberne und 2 vergoldete kleine Teller, 1 Abendmahlskelch und 1
+                    Oblatenteller</p>
+                <p>
+               <note type="editorial">Kiste II enthielt:</note> 36 Teelöffel, 36 Dessertlöffel,
+                    36 Dessertgabeln, 18 Dessertmesser ganz Silber, 18 dto. Stahlklingen, 36
+                    Essmesser mit Stahlklinge, 36 Gabeln, 24 Suppenlöffel, 2 Auflegelöffel
+                    (vergoldet), 1 Bowlelöffel dto., 5 Gemüselöffel, 2 Butter und Käsemesser, 2
+                    Weinscheren, 1 Marklöffel, 1 Spargelzange, 3 Bratenspieße, 3 Kuchenmesser, 1
+                    Streuzuckerlöffel, 1 Salatgabel, 1 Salatlöffel, 2 Fischgabeln, 1 Teesieb, 6
+                    vergoldete Salzfässer mit vergoldeten Löffeln, 6 Weinschilder, 2 fünfarmige
+                    Leuchter, 12 vergoldete Dessertlöffel, 12 Messer, 12 Gabeln, 18 Messer mit
+                    Stahlklinge, 18 Gabeln, 20 Suppenlöffel, 25 Teelöffel silberne, 29 dto.
+                    vergoldete, 2 Auflegelöffel, 1 Taufschale, 1 Bratenschüssel, 1 Tafelaufsatz, 1
+                    kleinere Bratenschüssel, 2 runde Schüsseln, 2 kleine Tabletts, 2 Brotkörbe, 1
+                    Toilettenspiegel, 3 Becher und 2 runde Teller</p>
+                <p>
+               <note type="editorial">Kiste III enthielt:</note> 2 neunarmige Leichter, 2
+                    zweiarmige Leuchter, 6 Spiegelleuchter</p>
+                <p>
+               <note type="editorial">Kiste IV enthielt:</note> 1 Waschschüssel nebst Kanne, 1
+                    goldene Klingel, 1 goldenes Kästchen, 1 vergoldeter Teller mit Becher, 2 Humpen
+                    innen vergoldet, 1 goldener Jumpen, 1 Talerhumpen innen vergoldet, 5 Kelche
+                    innen vergoldet, 1 Weinkanne, 1 anderer Humpen, 1 Kinderbecher, 2
+                    Zigarrenteller, 1 (Krümel) Tischbürste, 4 Tafelaufsätze (blaues Glas mit Silber
+                    beschlagen), 1 Glas zerbrochen, 2 Salzfässer, 1 Teekanne, 1 Teebüchse,1
+                    Zuckerschale mit Deckel, 1 Sahnetopf</p>
+                <p>
+               <note type="editorial">Kiste V enthielt:</note> 2 Tafelaufsätze, 1 Schreibzeug
+                    mit 2 Sandlöffeln, 2 Leuchter und 1 Figur, 2 Menagen nebst Gläsern, 1
+                    Zuckerkasten, 1 Saucenapf nebst Untersatz, 2 Kasserollen nebst Deckel, 2
+                    Weinkühler (bl. Glas mit Silberbeschlag), 1 Handleuchter, 1 kleinen Bescher, 2
+                    silberne und 1 vergoldetes Kinderbesteck, 2 Gemüselöffel, 1 Sahnelöffel, 1
+                    Auflegelöffel, 1 Streuzuckerlöffel, 1 Spargelzange, 1 Waschschüssel und
+                    vergoldete dazugehörige Schüssel und 1 kleine Jagdflasche</p>
+                <p>
+               <note type="editorial">Kiste VI enthielt:</note>
+                    <seg type="comment">
+                  <orig>1 Brautkranz, 1 Sahnekanne, 1 Sahnetopf, 1 Zuckerdose,
+                            1 Teekanne</orig>
+                  <note xml:id="nmv1_l5r_wcb">Darüber: zweifelhaft ob
+                            echt Silber</note>
+               </seg>, 1 Suppenterrine innen vergoldet mit Deckel, 1
+                    Terrine mit Kochuntersatz, 3 Bratenschüsseln, 1 runde Schüssel, 1 Kaffeekanne
+                    mit Untersatz, 2 kleinere Kaffeekannen, 4 Weinuntersätze, 6 Mokkalöffel, 1
+                    Teeschippe (golden), 4 Lichtscherenuntersätze, 23 Bratenspieße, 3
+                    Spiegelleuchter, 3 kleine Leuchter</p>
+                <p>
+               <note type="editorial">Kiste VIII enthielt:</note> 1 Bowleterrine mit Einsatz und
+                    Deckel, 1 Bowleterrine mit Löffel und Deckel, 2 Champagnerkühler, 18 Eierbecher </p>
+                <p>
+               <note type="editorial">Kiste VIII enthielt:</note> 2 ovale Deckel, 2 runde
+                    Deckel, 1 großes Tablett, 1 rundes Tablett, 4 viereckige Tablette, 2
+                    Champagnerkühler, 1 Teemaschine</p>
+                <p>
+               <note type="editorial">Kiste IX enthielt:</note> In einem besonderen kleinen
+                    Kistchen Raritäten aus dem Glasschrank der Bohnerstube: 1 Schale auf Fuß (Onyx),
+                    1 schwarzer Adlerorden mit Band, 3 andere Orden (einer mit Band), 1 schwarze
+                    Dose mit Gold, 1 Perlmutterring mit Gold eingelegt, 2 alte unechte Orden zu
+                    Kostümen, 1 silberne längliche Dose, 1 hellgrüne Dose (Malachit), 2 dunkelgrüne
+                    Dosen, 1 Perlmutterdose ajour gearbeitet in Gold, 1 Schildpattdose mit Gold
+                    eingelegt, 1 grüne Dose mit erhabener Malerei, 1 schwarze Dose mit Silber
+                    eingelegt, 1 Elfenbeindose, 1 grüne Dose mit Reliefportrait, 1 Horndose mit
+                    Portrait in Silber, 1 Porzellandose mit Landkarte, 1 Porzellandose mit Malerei,
+                    1 Dose in Gestalt einer Muschel, 1 kl, Monument St. Georg mit dem Drachen
+                    kämpfend, eine Dose in Gestalt eines Mönchs, 1 Porzellandose in Gestalt eines
+                    Mönchs, 1 Porzellandose in Gestalt eines liegenden Hirten, 1 kleine Liladose, 1
+                    kleine Kristalldose, 1 kleine Porzellandose, 1 kleiner Kristallflakon mit Gold,
+                    1 niedrige braune Schale, 1 längliche Dose (lila und weiß), 1 Etui für
+                    Handarbeitssachen länglich, 2 kleine Porzellanflakons, 1 länglicher
+                    Messingbehälter in Gold, 1 kleines vergoldetes Ding unbeschreibbar, 1
+                    Chatelaine, 1 kleiner Glasflakon mit Portrait, 1 kleines Holzschächtelchen mit
+                    Inhalt, 1 Stockknauf, 1 großer goldener Schlüssel mit band, 1 blauer Orden, 1
+                    Medaillon, 2 Ringe, 1 Medaillon, 1 Medaille mit Band, 1 Ende Kette, 2 falsche
+                    Perlen, 1 Glasflakon mit Steinen, 1 klein gefasster Stein und 1 silberner
+                    Deckel</p>
+                <p>1 silberner Sporn</p>
+                <p>Vorstehende Gegenstände sind in Gegenwart der Unterzeichneten eingepackt, welche
+                    die Richtigkeit und die Vollständigkeit der Einpackung hiermit bescheinigen.</p>
+                <p>Steinort, den 6. Januar 1897</p>
+                <p>gez. <persName key="ed_pjz_zpw_h2b">Wolff</persName>, landschaftlicher
+                    Verwalter</p>
+                <p>
+               <persName key="ed_r14_x4h_my">Schmidt</persName>, Amtsvorsteher</p>
+                <p>
+               <persName key="ed_y2h_tf3_vkb">Moddelsee</persName>, Inspektor</p>
+            </div>
+        </body>
+    </text>
+</TEI>

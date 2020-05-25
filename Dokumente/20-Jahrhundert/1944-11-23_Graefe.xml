@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_f5d_ybc_31b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aktennotiz. Dresden, 23. November 1944</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_f5d_ybc_31b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="editorial">Ab 1939 wurden Maßnahmen zum Schutz von Kulturgütern und
+                    Kunstwerken der Museen, Sammlungen und Schlösser durch den Reichsminister für
+                    Wissenschaft, Erziehung und Volksbildung getroffen. Am 11. Mai 1942 wurden
+                    Schlösser ausgewählt, die für die Unterbringung von Sammlungsgut geeignet waren,
+                    vgl. HStA Dresden, Bestand 10701, Nr. 320/01, Bl. 87. Im April 1944 wurde mit
+                    deren Beschlagnahme in Sachsen und im Sudetenland begonnen, vgl. ebd., Nr.
+                    320/25, ab Bl. 48. Noch im August 1944 ging man jedoch davon aus, dass die
+                    Kunstsammlungen in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> sicher
+                    seien; am 2. August riet der Oberbürgermeister dem <orgName key="ed_nyn_mhj_mfb">Kaiser-Friedrich-Museum</orgName> in <placeName key="ed_xrv_gwb_by">Berlin</placeName> sogar von einer Rückführung von Leihgaben ab.
+                    Museumsdirektor Alfred <persName key="ed_hyt_mmg_vdb">Rohde</persName>
+                    telegrafierte: <quote>Sie können unbesorgt sein</quote> (BStU, MfS, AB Neiber
+                    Nr. 382, Bl. 57-59). - Nach den Luftangriffen auf Königsberg wurde von Alfred
+                        <persName key="ed_pmx_wzz_zdb">Rosenberg</persName> im September 1944
+                        <persName key="ed_akd_1bl_gbb">Hitler</persName>, <persName key="ed_s5c_b11_12b">Bormann</persName> und <persName key="ed_kjl_f11_12b">Lammers</persName> der Vorschlag unterbreitet, die von Gauleiter <persName key="ed_udf_mxt_sdb">Koch</persName> in Ostpreußen u. a. in <placeName key="ed_z1v_zsn_my">Wildenhoff</placeName> (Dzikowo) eingelagerten
+                    Kunstschätze nach Mittel- oder Süddeutschland zu verlagern. Am 9. September 1944
+                    verließ ein erster Transport mit Bildern, Kristall, Porzellan, Literaturgut,
+                    Schriften, Wandteppichen, Ritterrüstungen und Waffen, Bernstein aus dem Bestand
+                    des Preußischen Museums für Bildende Kunst und aus Privatsammlungen Königsberg;
+                    die Listen dafür waren am 12. Dezember 1943 vorbereitet und der Transport von
+                    Prof. Dr. <persName key="ed_yt4_55b_mjb">Andrée</persName>, Prof. <persName key="ed_hyt_mmg_vdb">Rohde</persName> und den Stabsintendanturen des WK I
+                    und des Luftgaukommandos I in Königsberg/Pr. zusammengestellt worden, auch der
+                    Höhere SS- und Polizeiführer der SS-Gruppe Nord-Ost, Freiherr v. <persName key="ed_kvk_tb1_12b">Bassewitz</persName> war beteiligt, Gauleiter Koch soll
+                    dagegegn nicht informiert gewesen sein, vgl. BStU, MfS, AB Neiber Nr. 397, Bl.
+                    145 und Nr. 391, Bl. 378-381. - Am 4. Dezember 1944 traf <persName key="ed_hyt_mmg_vdb">Rohde</persName> in <placeName key="ed_dz5_2kn_4y">Dresden</placeName> ein und besichtigte für die von Gauleiter <persName key="ed_udf_mxt_sdb">Koch</persName> für das <orgName key="ed_fqz_cb1_12b">Provinzialdenkmalamt Königsberg</orgName> und die <orgName key="ed_ufs_jb1_12b">Städtischen Kunstsammlungen </orgName>erbetene
+                    Unterbringung sowohl die <placeName key="ed_w4n_gtt_sdb">Wechselburg</placeName>
+                    als auch <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName>. In Wechselburg
+                    standen die Schlosskirche, ein freier Raum und der große Saal im 1. OG sowie
+                    weitere 5 bis 6 Räume zur Verfügung. In Kriebstein konnten 4 Räume im Torbau zur
+                    Verfügung gestellt werden, die von der <orgName key="ed_a3z_hzt_sdb">Staatlichen
+                        Sammlung für Kunst und Wissenschaft</orgName> leer gezogen worden waren. Für
+                    die Einstellung von Sammlungsgut <quote>größeren Ausmaßes</quote> wünschte Rohde
+                    den Rittersaal. Am 8. Dezember kehrte er nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zurück, um den Versand zu veranlassen, vgl. HStA
+                    Dresden, Bestand 10701, Nr. 320/25, Bl. 50 und 51. Am 19. Dezember 1944 teilte
+                        <persName key="ed_zpf_b25_sdb">Paulick</persName> von der Burgverwaltung
+                    Kriebstein Regierungsdirektor <persName key="ed_vlk_xyk_gbb">Graefe</persName>
+                    mit, dass 2 Waggons aus <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    angemeldet worden seien, und bat um schriftliche Bestätigung, dass die
+                    Einlagerung erfolgen dürfe (Bl. 52), die am 22. Dezember erteilt wurde (Bl. 53).
+                    Am 24. Dezember 1944 trafen die Eisenbahnwaggons in Sachsen ein (Bl. 206). - Am
+                    11. Juli 1945 wurde <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> von
+                    Soldaten der russischen Trophäenkommission begutachtet und das Bergungsgut der
+                    Staatlichen Skulpturensammlung nach <placeName key="ed_dz5_2kn_4y">Dresden</placeName> gebracht (Bl. 62). Am 10. Dezember waren die weiteren
+                    Bergungsdepots <quote>in der Burg <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> b. Waldheim</quote> unversehrt. Die nicht
+                    besetzte Burg ging in den Besitz des Landkreises Döbeln über, mit der Aufsicht
+                    wurde der früherer Oberförster <persName key="ed_zpf_b25_sdb">Paulick</persName>
+                    beauftragt, der frühere  <persName key="ed_opl_pc5_sdb">Fremdenführer</persName>, der in der Burg auch wohnte, wurde dagegen <quote>aus
+                        politischen Gründen entfernt</quote> worden(Bl. 67). Die Rückführung des
+                    Museumsgutesvbegann am 3. Mai 1946. </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>HStA Dresden</institution>
+                        <idno>Bestand 10701 Staatskanzlei, Nr. 320/25, Bl. 48</idno>
+                    </msIdentifier>
+                    <p>.  </p>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                    <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+                    <date when="1944-11-23" cert="high"/>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                
+                    <dateline>Dresden, 23. November 1944</dateline>
+                   
+                
+                <p>Im Aufrag von <seg type="comment">
+               <orig>Gauleiter <persName key="ed_udf_mxt_sdb">Koch</persName>
+               </orig>
+               <note xml:id="nj5x_cl2_2cb">Nach dem Verlust der
+                        Ukraine 1943 war er nach Königsberg als sog. Reichsverteidigungskommissar
+                        zurückgekehrt. </note>
+            </seg> – <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> kam Herr <seg type="comment">
+               <orig>Landesbaurat
+                            <persName key="ed_q3t_255_12b">Friesen</persName>
+               </orig>
+               <note xml:id="nbrj_bp2_2cb">Provinzialdenkmalamt Ostpreußen. Er war im November
+                        1944 an den Verhandlungen zu Verbergungsorten in Dresden und anderen Orten
+                        in Sachsen (Kapelle auf der Sachsenburg, Räume in der Burg Kriebstein, Räume
+                        im Herrenhaus Großgrabe, Schloss Wechselburg, Augustusburg) beteiligt, vgl.
+                        BStU, MfS, AB Neiber Nr. 386, Bl. 36 ff. </note>
+            </seg> zu Herrn <seg type="comment">
+               <orig>Reichsstatthalter</orig>
+               <note xml:id="nhmq_jjj_mfb">Martin
+                            <persName key="ed_k2q_rxt_sdb">Mutschmann</persName>
+               </note>
+            </seg> und
+                verhandelte in Abwesenheit des Reichsstatthalters mit mir (ein entsprechender Brief
+                von Gauleiter Koch ist unterwegs). Es handelt sich um die <seg type="comment">
+               <orig>Unterbringung unersetzlicher Kunstschätze von hohem Denkmalwert aus
+                        der Provinz <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>
+               </orig>
+               <note xml:id="nmg1_vhb_vbb">Am 14. November
+                        1944 hatten der Generaldirektor der Staatsarchive und der Direktor des
+                        Reichsarchivs Potsdam als Kommissar für den Archivschutz betont, dass in
+                        alle Maßnahmen <quote>das nichtstaatliche (gemeindliche, kirchliche,
+                            korporative und private) Archivgut miteinbezogen worden</quote> sei. Am
+                        3. März 1945 berichtete Dr. <persName key="ed_lvh_l55_12b">Zipfel</persName>
+                        dem preußischen Ministerpräsidenten, dass seit Oktober 1944
+                            <quote>systematisch und teilweise gegen den Widerstand der
+                            Gauleiter</quote> Archivbestände verlagert worden seien. So habe das
+                            <orgName key="ed_ard_2kg_my">Staatsarchiv Königsberg</orgName>
+                        <quote>bis Anfang des Jahres 1945 sieben Waggons erstrangigen Archivgutes in
+                            das Salzbergwerk <placeName key="ed_nv2_5jj_mfb">Grasleben</placeName>
+                            nördlich Helmstedt verlagert. Weitere Waggons, die auch kommunales und
+                            privates Archivgut mitführen sollten, konnten Mitte Januar leider nicht
+                            mehr abgelassen werden, obwohl sie z. T. schon beladen waren <gap reason="insignificant"/>, die entscheidend wichtigen Abteilungen
+                            (Archiv des deutschen Ritterordens, des ostpreußische Etatsministeriums
+                            u. a.) sind jedoch in Mitteldeutschland in Sicherheit.</quote> Vgl. GStA
+                        PK, I. HA, Rep. 178, Nr. 2874, n. f. </note>
+            </seg> (z. B. das berühmte <seg type="comment">
+               <orig>Bernsteinzimmer, Geschenk Friedrichs des Großen an Zar
+                        Peter III., das bei dem Terrorangriff auf Königsberg mit gerettet werden
+                        konnte, ferner um wertvolle Gemälde, Plastiken und anderes mittelalterliches
+                        Kulturgut</orig>
+               <note xml:id="nijf_njl_gcb">Mitte Januar 1945 kam Ernstotto
+                        Graf <persName key="ed_cvg_y55_12b">Solms-Laubach,</persName> als
+                        „Kunstoffizier‟ mit seinem Mitarbeiter Dr. <persName key="ed_lbt_dv5_12b">Weihrauch</persName> u. a. nach <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName> mit dem Auftrag, die wichtigsten
+                        Kunstgegenstände zu retten. <quote>Leider kamen Graf Solms und seine Leute
+                            nur mit einem Lastwagen nach Schlobitten, und hier brach dann dieser
+                            auch zusammen. Versuche, beim Luftwaffenstab Hilfe zu erhalten, wurden
+                            vom Generalintendanten schroff abgelehnt.</quote> Dohna hatte am 18.
+                        Juli 1944 einen Möbelwagen mit Inventar, Kunstgegenständen, Büchern und
+                        Archivalien nach Bernburg geschickt. Zu den Verlagerung aus Schlobitten:
+                        Dohna-Schlobitten, Alexander Fürst zu, Erinnerungen eines alten
+                        Ostpreußen,München 1989, 6. Aufl. Würzburg 201, S. 284 f., 318
+                    ff.</note>
+            </seg>, schließlich um unersetzliche Archivalien, Bücher und
+                Ausstattungsstücke). Insgesamt wird ein Bergungsraum von etwa 300 qm benötigt. </p>
+         <p>Ich habe Herrn Landesbaurat <persName key="ed_q3t_255_12b">Friesen</persName> drauf hingewiesen,
+                    dass durch die außergewöhnliche Inanspruchnahme des sächsischen Raumes
+                    naturgemäß Raum nur in geringem Maße zur Verfügung steht. Es kann sich also bei
+                    der Unterbringung in Sachsen nur um die wirklich unersetzlichen Kulturgüter
+                    handeln. </p>
+         <p>Bei einer Zustimmung des Herrn <seg type="comment">
+               <orig>Reichsstatthalters</orig>
+               <note xml:id="ne41_nbm_cbb">Marginalie: <quote>Herrn Reichsstatthalter vorgetragen
+                            am 24.11.1944. genehmigt, ev. auch Augustusburg? gez.
+                        Schramm‟</quote>
+               </note>
+            </seg> kämen für die Unterbringung in Betracht:<seg type="comment">
+               <orig>
+                        <list>
+                            <item>1. die Kapelle auf der Sachsenburg (70-100 qm)</item>
+                            <item>2. einige Räume in der Burg <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> (50-70 qm)</item>
+                            <item>3. einige Räume im Herrenhaus Großgrabe (rund 70 qm).</item>
+                        </list>
+                    </orig>
+               <note xml:id="nsvx_srg_mbb">Nummer 1 rot unterstrichen, Nummer 2 und 3:
+                            <quote>wird besonders bearbeitet, Gr. 26.11.44.</quote>
+                    </note>
+            </seg>Die Unterbringungsverhandlungen würden durch die Abteilung IV, 7
+                geführt. Vom Gau Königsberg würde in der nächsten Woche Herr Museumsdirektor
+                    <persName key="ed_hyt_mmg_vdb">Rohde</persName>, Königsberg zur Besprechung der
+                Einzelheiten wegen des Transports und der Unterbringung hier sein. Gegebenenfalls
+                käme auch die <seg type="comment">
+               <orig>
+                  <placeName key="ed_w4n_gtt_sdb">Wechselburg</placeName>
+               </orig>
+                    <note xml:id="ni4j_yv2_2cb">Die Wechselburg wurde im Dezember 1944 noch nicht
+                        belegt, Rohde teilte erst im Januar 1945 Oberbürgermeister Will mit, dass
+                        nun auch nach Wechselburg verlagert werde, vgl. BStU, MfS, AB Neiber, Nr.
+                        755, Bl. 5. </note>
+            </seg>, die durch die Landesdenkmalpfleger betreut wird,
+                mit einigen Zimmern noch in Betracht. </p>
+         <p>Nachrichtlich </p>
+				     <closer>
+                    <signed>
+               <seg type="comment">
+                  <orig>
+                     <persName key="ed_vlk_xyk_gbb">Graefe</persName>
+                  </orig>
+                  <note xml:id="np5h_kbm_cbb">Arthur Graefe
+                            war 1929 in die Staatskanzlei Dresden als Leiter der Pressestelle der
+                            Sächsischen Regierung und zugleich als Referent für Ausstellungen
+                            berufen worden. Seit 1937 war er im Volksbildungsministerium tätig, wo
+                            die Staatlichen Museen, Burgen und Schlösser zu seinen Hauptreferaten
+                            gehörten. 1933 trat er in die NSDAP ein und wurde 1943
+                            Kulturhauptstellenleiter im Gau Sachsen. Von Oktober 1944 bis Mai 1945
+                            war er Leiter der Unterabteilung IV, 7 - Museen, Schlösser und Gärten im
+                            sächsischen Volksbildungsministerium und wurde am 9. Mai 1945 von der
+                            Sowjetischen Trophäenkommission zur Übergabe des staatlichen Kunst- und
+                            Museumsbesitzes verpflichtet. Dessen Lebenslauf in: BStU, MfS, AB
+                            Neiber, Nr. 397, Bl. 114.</note>
+               </seg>
+            </signed>
+                </closer>
+            
+        </body>
+    </text>
+</TEI>

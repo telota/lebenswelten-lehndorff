@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_xgp_pxt_33b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rekonstruktion eines </title>
+                <title>Bibliotheksinventars</title>
+                <title>. 1945</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_xgp_pxt_33b</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+                <note type="editorial">
+                    <p>Siehe zu den Erwerbungen für die 1799 eingerichtete Bibliothek: GStA PK, XX.
+                        HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 714.</p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <idno/>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1945-01-31"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Instruction pour les officiers d’infanterie contenant le service en garnison, en
+                    marche et en campagne (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 002</p>
+                <p>Model de la procedure qu’on doit faire contre les soldats la manière de tenir le
+                    conscrit de guerre (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 002</p>
+                <p>Les ordonnances du roi qui sont d’usage dans les services (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 002</p>
+                <p>Bötticher, Andreas, Discursus Juridicus de Prodigo, Jena 1648</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 401</p>
+                <p>Aristoteles, Philosophische Lehren, Bd. 1 und 2, 1655 und 1656 (Abschrift,
+                    Latein)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 402 und 403</p>
+                <p>Voltaire (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 432</p>
+                <p>Theorie der englischen Gartenkunst (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 432</p>
+                <p>Anleitung zur modernen Landschaftsgärtnerei (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 432</p>
+                <p>Dr. Keyserlingk (Mitau), Anleitung zur Züchtung stets blühender Erdbeerpflanzen
+                    (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 432</p>
+                <p>Rechenschaftsbericht des englischen Unterhauses (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 432</p>
+                <p>Charakterzüge von Kaiser Franz II. (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 432</p>
+                <p>Chronik von London (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 496</p>
+                <p>Polybius, Wahrheit und Geschichte (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 496</p>
+                <p>Pastoralbrief des Abbe Bernis, Graf von Lyon, Botschafter Frankreichs bei der
+                    Republik Venedig (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 496</p>
+                <p>Literaturkatalog (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 499</p>
+                <p>Briefe der Herzogin von Orléans, Bd. 1 und 2 (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 434 und 435</p>
+                <p>Französische Grammatik</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 501</p>
+                <p>Staatsformen der Antike</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 501</p>
+                <p>Enzyklopädist Rollin</p>
+                <p> StA L, 21950, Nr. 501</p>
+                <p>Erinnerungen des Marquis von Bethume (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 431</p>
+                <p>Hinweise zur Ernährung von Neugeborenen</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 504</p>
+                <p>Memoires de Christofle Bourggrave et Comte de Dhona (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 428</p>
+                <p>Anecdotes de la cour de France (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 428</p>
+                <p>Korrespondenz der Madame de Orléans bzw. Liselotte von der Pfalz (1715-1719)
+                    (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 428</p>
+                <p>Person und Hofhaltung Ludwig XIV. (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 428</p>
+                <p>Aufzeichnung zur Verbringung der Bibliothek von Tippo Saib nach England
+                    (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 428</p>
+                <p>Marmontel, Jean Francois, „La Veillée“(Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 428</p>
+                <p>Forstordnung für Ostpreußen und Litauen vom 3. Dezember 1775</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 048</p>
+                <p>Neue Taxe für die Geheime Staats-Kanzley in Berlin nebst den hinzugefügten
+                    Chargen- und Stempel-Gebühren, 1801</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 039</p>
+                <p>Einrichtung einer deutsch-französischen Erziehungsanstalt in Rheinsberg, 1778</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 099</p>
+                <p>Verbesserte Landtagsordnung für Livland, 1759</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr032</p>
+                <p>Vorschläge der vom Landtag 1786 gewählten Deputierten für Änderungen des
+                    Provinzial-Gesetzbuches bzw. Abweichungen von Gewohnheitsrechten 1786</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 034</p>
+                <p>Aufruf zum bewaffneten Volksaufstand an die Woywodschaften und Distrikte des
+                    Großfürstentums Litauen und alle freien Städte, 1794</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 035</p>
+                <p>Protokolle über die Grenzmarkierungen nach der dritten polnischen Teilung 1595,
+                    1797 (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 036</p>
+                <p>Trauerdichtung des evangelischen Pfarrers Johann Christoph Ludwig Winter auf
+                    Maria von Lehndorff, geb. von Haeseler, 1766</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 218</p>
+                <p>Briefe Friedrichs II. an Madame und Monsieur de Camas (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 478</p>
+                <p>Anordnungen beim Tode Friedrich Wilhelms I. am 31. Mai 1740 und Bericht über die
+                    Sterbestunde</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 479</p>
+                <p>General-Tax-Principia zur Abschätzung der adelichen Güter in Ostpreußen, 1781</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 271</p>
+                <p>Sammlung von Druckschriften der Konservativen Partei, 1848-1866</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 455</p>
+                <p>Liste der Mitglieder der Preußischen Provinzialgenossenschaft des
+                    Johanniter-Ordens, 1854-1881</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 045</p>
+                <p>Beyssell, Johannes, Prolog zur Feier des Fünfzigjährigen Bestehens der
+                    Garde-Husaren am 27. März 1863, Potsdam 1863</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 025</p>
+                <p>Yorck Graf von Wartenberg, Bericht der Herrenhauskommission zur Vorbereitung
+                    eines Gesetzes über Familienfideikommisse und Familienstiftungen, 1914</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 337</p>
+                <p>Köller, v. Justizrat, Die Auflösung der Familiengüter. Vortrag in der
+                    Hauptversammlung des Pommerschen Vereins der Fideikommissbesitzer am 31. Juli
+                    1919</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 337</p>
+                <p>Siebert, Rechtsanwalt, Die Aufhebung der Familienfideikommisse, Berlin 1919</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 337</p>
+                <p>Geschichte des Angerburger Siechenhauses, vom Vorstand erstellt, 1883
+                    (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 090</p>
+                <p>Reden anlässlich des 5.ordentlichen Adelstages am 20. Februar 1886
+                    (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 131</p>
+                <p>Hennig, George Ernst Sigismund, Präsident der Königlichen deutschen Gesellschaft
+                    in Preußen zu Königsberg, Entwurf einer Lehndorffschen Familien-Geschichte, 1792
+                    (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 120</p>
+                <p>Bender, Untersuchungen zur älteren Geschichte des Geschlechts von Lehndorff
+                    (Abschrift)</p>
+                <p>StA L, Bestand 21950 FA Lehndorff, Nr. 122</p>
+                <p>Budapester Chronik, Budapest, VII/63, vom 25. April 1882: Lebenslauf und Bildnis
+                    von Heinrich Emil von Lehndorff</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 211</p>
+                <p>Sammlung von Personalschriften zu Carl Meinhard von Lehndorff</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 221</p>
+                <p>Kleine Chronik des Adelsgeschlechts von Lehndorff von 1202 bis 1513, Ms.</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 129</p>
+                <p>Mülverstedt, Adalbert, Notizen aus der Urkundensammlung zur Geschichte und
+                    Genealogie der Grafen zu Eulenburg, Magdeburg 1879</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 159</p>
+                <p>Donnersmarck, Leo Amadeus Graf von, Stammtafeln der Reichsgrafen Henckel
+                    Freiherren von Donnersmarck, Freie Standesherren zu Beuthen in Oberschlesien.
+                    Ein Leitfaden zur Familiengeschichte, 1883</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 160</p>
+                <p>Henneberger, Genealogische Tabellen, 1872 (Abschriften)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 155</p>
+                <p>Hartung, Fragmenta Genealogica zur Genealogie der Herren vom Mercklichen Rade,
+                    auch von Losienen, die von Powarschen genannt (Abschriften)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 155</p>
+                <p>Stammtafel des Geschlechts von Hahn (DS)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr.179</p>
+                <p>Hartung, Genealogie der adligen Preußischen Familien (Abschriften)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 185</p>
+                <p>Graf Stillfried, Stammtafel des Geschlechts derer von Wallis (DS)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 195</p>
+                <p>Cedercrona, Daniel Gustav, Sweriges Rikes Ridderskaps och Adels Wapenbok,
+                    Stockholm 1746 (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 144</p>
+                <p>Leichenpredigt für Merten von Wallenrodt, 1632</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 214</p>
+                <p>Leichenpredigt für Maria von Wallenrodt, geb. von Lehwaldt</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 215</p>
+                <p>Lehndorffs, Ahasverus Gerhard von, Leichenpredigt für Rosina von Waldburg,
+                    1689</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 217</p>
+                <p>Nekrolog auf Carl Ludwig von Lehndorff, 1854</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 220</p>
+                <p>Kant, Reine Moral (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 502</p>
+                <p>Fénélon, La fidélité des pétites choses (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 502</p>
+                <p>Druckschriften zum 25-jährigen Dienstjubiläum Georg von Lehndorffs als
+                    Oberstallmeister des Gestüts Graditz bei Torgau, 1891 (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 463</p>
+                <p>Kolorierter Bilderbogen Nr. 712 zu Mathäus Kap. 7, Vers 13.14, Druck und Verlag
+                    F. W. Bergmann, Neu Ruppin 19. Jh. (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 468</p>
+                <p>Halter, Andreas, Verzeichnis von Schriften und Büchern des 16. und 17.
+                    Jahrhunderts, 1698 (Abschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 406</p>
+                <p>Bölmann, Hieronymus, Zeichenlehrbuch, Nürnberg 1733</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 415</p>
+                <p>Abschrift Jacob Böhms der Elementa Physices seu philisophiae von S. D. Gloria und
+                    der Metaphysik</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 408</p>
+                <p>Digesten Romano Hispanum (Auszüge, Abschriften)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 409</p>
+                <p>Lucath, Hofrat, Der Staat von Preußen, 1736</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 416</p>
+                <p>Bötticher, Johann Gottlieb, Notenbuch, 1771</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 420</p>
+                <p>Reglement wegen de Freyenwalder Brunnens, berlin 1772</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 421</p>
+                <p>Oelrichs, Johann Carl Conrad, Verzeichnis der von Dregerschen übrigen Sammlung
+                    Pommerscher Urkunden zur Fortsetzung Deßen Codicis Pomeraniae vicinarumque
+                    terrarum diplomatici, Alt Stettin 1795</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 426</p>
+                <p>Milchmeyer, P. J., Pianoforte-Schule, Dresden 1798</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 427</p>
+                <p>Rixner, Georg. Turnierbuch mit Beschreibungen von 935 bis 1487</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 443</p>
+                <p>Festschrift anlässlich der tausendjährigen Selbständigkeit Deutschlands am 11.
+                    August 1843</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 453</p>
+                <p>Eichler, G., Druckbogen zur Vierhundertjahrfeier der Erfindung der
+                    Buchdruckerkunst, Berlin 1840</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 452</p>
+                <p>Hagen, F. H. von der, Bilder aus dem Ritterleben und aus der Ritterdichtung nach
+                    Elfenbeingebilden und Gedichten des Mittelalters, Berlin 1856 (Abhandlungen der
+                    philosophisch-historischen Klasse der Königlichen Akademie der Wisssenschaften
+                    1855)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 456</p>
+                <p>Geschlechts-Sagen der Junker von Oberconreut, in: Kneipp’s Berliner Revüe.
+                    Social-politische Wochenschrift, Bd. 12, H. 4, Berlin 1858</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 457</p>
+                <p>Böttcher, U., Die Haustafel, hrsg. vom christlichen Verein im nördlichen
+                    Deutschland, Eisleben/Leipzig 1864</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 458</p>
+                <p>Krause, Gottlieb, Das Landwehrkreuz auf dem Rinauer Berge bei Galgarben, in:
+                    Altpreußische Monatsschrift, Bd. XXVI, H. 7 und 8 (Sonderdruck)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 461</p>
+                <p>Bujack, Georg, Gedenkschrift „Zum Andenken an die Mitglieder des Königsberger
+                    Landtags im Februar 1813, an die Ostpreußischen Landwehr-Bataillone und das
+                    Ostpreußische National-Cavallerie-Regiment anno 1813 und 1814“, Königsberg
+                    1890</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 462</p>
+                <p>Charisius, Arnold, Ramler’s Anakreontische Poesie im Briefwechsel aus seinen
+                    letzten Lebensjahren 1792-1797, Leipzig 1921</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 474</p>
+                <p>Diverse gedruckte und handschriftliche Notentexte in zwei Bänden</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 449 und 450</p>
+                <p>Gulestan (Rosengarten), (Auszüge, Abschrift in persischer Handschrift)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 467</p>
+                <p>Heydeck, J., Das Gräberfeld von Daumen und ein Rückblick auf den Anfang einer
+                    deutsch-nationalen Kunst (Sonderdruck), in: Altertumsgesellschaft Prussia, Bd.
+                    XIX, 1894.</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 464</p>
+                <p>Bibel (in deutscher Sprache, Fragment)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 470</p>
+                <p>Chalil, Hassan, Grammatik in arabischer Sprache</p>
+                <p> StA L, 21950, Nr. 465</p>
+                <p>Ben Kalaon, Ibrahim, Arabische Grammatik in persischer und in arabischer
+                    Sprache</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 466</p>
+                <p>Erzählungen und Gedichte in persischer Sprache (Fragment)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 467</p>
+                <p>Sechs Drucke von Lithographien zum Thema Erzbergbau und Stahlgewinnung. Entwurf
+                    und Zeichnung von E. Heuchler, Lithographie von Baesler, Druck von Louis
+                    Zoellner</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 469</p>
+                <p>Verzeichnis der in der Steinortschen Bibliothek vorhandenen und der noch
+                    fehlenden neueren Geschichtswerke, 19. Jh.</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 471</p>
+                <p>Druckschrift der „Nonnosgesellschaft“ zur Förderung der Übersetzung der
+                    „Dionysika“ aus dem Griechischen ins Deutsche, 1925</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 475</p>
+                <p>Collas, Johann von, Die wahre Beschaffenheit des Königreichs Preußen und dessen
+                    Interessen, Buchmanuskript 1716 (unvollst.)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 411</p>
+                <p>Europäische Regenten-Tafel, 1756</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 414</p>
+                <p>Notenbücher für Duette mit zwei Hörnern</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 445</p>
+                <p>Fahrplan der Postkutsche Berlin-Königsberg 1830</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 508</p>
+                <p>Gesetz über die Fürsorgeerziehung Minderjähriger vom 2. Juli 1900 nebst
+                    Ausführungsbestimmungen vom 18. Dezember 1900, Berlin 1900</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 473</p>
+                <p>Königsberger Gerichtsbuch über den Prozeß „In Sachen einer gemeinen Erbarenn
+                    Landtschafft von allen Stenden des Herzogkthumbs Preussen als Clegern ahn einem
+                    gegen und widder Magistrum Johan Funcken … als Beclagten andertheils“, 1566
+                    (Fragment)</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 399</p>
+                <p>Predigten zu den Sonn- und Feiertagen des Kirchenjahres, 1746-1747</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 419</p>
+                <p>Verfassung der Feuerversicherungsbank des deutschen Handelsstandes, Gotha
+                    1825</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 451</p>
+                <p>Entwurf des Statuts der Aktiengesellschaft „Zuckerfabrik Lötzen“, Insterburg
+                    1883</p>
+                <p> StA L, Bestand 21950 FA Lehndorff, Nr. 460</p>
+                <p> </p>
+                <p>*****</p>
+                <p> </p>
+                <p>Notizen über den Staat, das Staats- und Verfassungsrecht und ihre Geschichte,
+                    1850 (Abschrift)</p>
+                <p>APO, Bestand 392 FA Lehndorff, Nr. 646</p>
+                <p> </p>
+                <p>Einleitung zur Taktik mit Plänen, Karten und 7 Tafeln</p>
+                <p>APO, Bestand 392 FA Lehndorff, Nr. 647</p>
+                <p> </p>
+                <p>Fragment eines Korrigierten Bleistiftentwurfs der Geschichte der Familie in der
+                    Zeit von 1236-1728</p>
+                <p>APO, Bestand 392 FA Lehndorff, Nr. 648</p>
+                <p> </p>
+                <p>Der Geschichte Griechenlands III. Heft (Abschrift)</p>
+                <p>APO, Bestand 392 FA Lehndorff, Nr. 649</p>
+                <p> </p>
+                <p>Geschichte Preußens in möglichster Kürze (Auszug, Abschrift)</p>
+                <p>APO, Bestand 392 FA Lehndorff, Nr. 650</p>
+                <p> </p>
+                <p>Der kleine Herzog (12 Kapitel, Abschrift)</p>
+                <p>APO, Bestand 392 FA Lehndorff, Nr. 651</p>
+                <p> </p>
+                <p>Fragmente politischer Betrachtungen, die Lage und die Presse während des deutsch-
+                    französischen Krieges u. nach ihm betreffend,1914–1920</p>
+                <p>APO, Bestand 392 FA Lehndorff, Nr. 653</p>
+                <p> </p>
+                <p>Litographie einer blühenden Aloë in den gräflich Eulenburgschen Treibhäusern in
+                    Wicken bei Domnau, 1859</p>
+                <p>APO, Bestand 392 FA Lehndorff, Nr. 654</p>
+                <p> </p>
+                <p>Journal militaire depuis Frankfort (Fragment), 1795</p>
+                <p>APO, Bestand 392 FA Lehndorff, Nr. 634</p>
+                <p> </p>
+                <p>***</p>
+                <p> </p>
+                <p>Berlinische Nachrichten von Staats- und gelehrten Sachen, Königlich privilegierte
+                    Berlinische Zeitung, verschiedene Ausgaben 1812/13</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 61 und 62</p>
+                <p> </p>
+                <p>Von den Ursachen des Unfalls der Preußischen Reiterei 1815, Abschrift des
+                    Vortrags des <persName key="ed_cmb_1lg_hy">Generals von der Marwitz</persName>
+                    vom 13. August 1815, gehalten in Schloss Tolerner bei Vernanter, gedruckt in:
+                    Aus dem Nachlasse des Friedrich August von der Marwitz auf Friedersdorf, Bd. 2,
+                    Berlin 1832, S. 138-181</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 306</p>
+                <p> </p>
+                <p>Bemerkungen über die persönlichen Verhältnisse der Gutsherrn und ihrer
+                    Hintersassen in Ostpreußen und Litauen, über die Rechte der letzteren an ihren
+                    benutzten Grundstücken und über die Austuung der Bauernhuben zum Eigentum oder
+                    in Erbpacht nach Maßgabe der Verordnung vom 14. Februar 1808, § 6 Litt. B, 8 S.,
+                    ca.1808 (Abschrift)</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 377</p>
+                <p> </p>
+                <p>Bemerkungen über den Zustand der Kavallerie, auf den letzten Krieg angewandt, und
+                    über die jetzige Armeeverfassung, insoweit sie auf die Kavallerie Bezug hat,
+                    Gutachten des Generalleutnants Karl Heinrich Ludwig v. Borstell für den
+                    Feldmarschall Gerhard Leberecht Blücher von Wahlstatt, 1817 (Abschrift)</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 605</p>
+                <p> </p>
+                <p>„Halb Dutzend Stücke vor Cornu Primo et Cornu Secundi“, komponiert von Bachmann
+                    1815 </p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 673</p>
+                <p> </p>
+                <p>Gründe, warum das Edikt vom 15. September 1811 über die Regulierung der
+                    gutsherrlichen und bäuerlichen Verhältnisse in den Provinzen Ostpreußen und
+                    Litauen nicht anzuwenden ist. Denkschrift des Komitees der Ostpreußischen und
+                    Litauischen Stände, 15 S., Druck 2°, 1811</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 680</p>
+                <p> </p>
+                <p>Über die allgemeine Veredlung der Pferde in den preußischen Staaten und der
+                    sodann möglichen Aushebung der Remonte im Lande. Denkschrift des Marschalls
+                    Blücher von Wahlstadt, 1815 </p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 766</p>
+                <p> </p>
+                <p>Verschiedene Zeitungsausgaben: Staats- und gelehrte Zeitung, des Hamburgischen
+                    unparteiischen Correspondenten, Berlinische Nachrichten von Staats- und
+                    gelehrten Sachen, Königlich-Preußische Staats-, Kriegs- und Friedenszeitung, Die
+                    Zeit,, Hartungsche Zeitung, Le Moniteur universel, Landwirtschaftliche
+                    Mitteilungen, Intelligenzblatt: Jahrbücher der in- und ausländischen gesamten
+                    Medizin, Amtsblatt Gumbinnen, Ostpreußische Zeitung, St. Galler Blätter für
+                    häusliche Unterhaltung und literarische Mitteilungen, Der
+                    landwirtschaftlich-technische Fragekasten, Lötzener Kreisblatt, Volkszeitung.
+                    Organ für Jedermann aus dem Volke</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 848 bis 851</p>
+                <p> </p>
+                <p> Proposition zum Kreistag vom 10. November 1857, Druckschrift </p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 852</p>
+                <p> </p>
+                <p>Rede des Königs an die Deputierten des Magistrats, der Stadtverordneten und der
+                    Kaufmannschaft vom 10. Juni 1845 im Königsberger Schloss, Druckschrift</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 852</p>
+                <p> </p>
+                <p>Arien und Gesänge aus der Operette Röschen und Colas, Berlin 1788</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 877</p>
+                <p> </p>
+                <p>Couplets adressés à la Comtsse Betty Czetteritz la veille de ses nôoces. Par la
+                    marchande d'amours au moment ou elle lui présente un amour. 1800</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 877</p>
+                <p> </p>
+                <p>Abbildungen der Büsten europäischer Monarchen v. a. des 18. Jh., 2 Blätter
+                    (Fragment)</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 877</p>
+                <p> </p>
+                <p>Ehestands-ABC. Seinem Freude, dem Geheimen Kriegs- und Domänenrat Johann
+                    Ferdinand Rabe und dessen Braut Demoiselle Elisabeth Cesar gewidmet, Berlin
+                    1798</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 877</p>
+                <p> </p>
+                <p>Tabulatura guter gemeiner deutscher Tentze. Nicht allein auff einer Lauten in
+                    Sonderheit sondern auch auff zweyen Lauten durch Quasten zusamen zu schlagen …
+                    zu Ehren und Wolgefallen dem Edlen und Ehrenvesten Fabian v. L. und Bastian v.
+                    L. Gedruckt zu Franckfurt an der Oder … MDXCII</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 877</p>
+                <p> </p>
+                <p>Gedruckte Verzeichnisse von Staatspapieren, 1854-1858</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 878</p>
+                <p> </p>
+                <p>Dem Herrn Geheimen Kämmerier Rietz bei Einweihung seines neuen Hauses am 25.
+                    September 1797 gewidmet von seinem Freunde B.</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 881</p>
+                <p> </p>
+                <p>Der Geburtstagsfeier des Herrn Reichsgrafen von Lehndorff ehrerbietigst gewidmet,
+                    den 7. Mai 1800</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 881</p>
+                <p> </p>
+                <p>Atropos à son altesse royale Madame la Princesse Ferdinand de Prusse</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 881</p>
+                <p> </p>
+                <p>Die alte Linde</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 881</p>
+                <p> </p>
+                <p>Bekanntmachung, betreffend die Suspendierung des Kammerrats Ketelsen von seinem
+                    Amt als Amtsverwalter des Amtes Flensburg und von der Verwaltung der
+                    Hebungsgeschäfte der Uggel-Hardesvogtei, 1850</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 881</p>
+                <p> </p>
+                <p>Luisens Gedächtnis, Königsberg 19.8.1810</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 882</p>
+                <p> </p>
+                <p>Gesänge bei der Feier des Totenfestes in der Garnisonkirche zu St. Pantaleon,
+                    Köln, 26.11.18200</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 882</p>
+                <p> </p>
+                <p>Trauerreden bei der Gruft der Gräfin Luise Charlotte von Ysenburg-Büdingen</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 882</p>
+                <p> </p>
+                <p>Trauerreden bei der Gottesdienstlichen Feier des Krönungs- und Ordenfestes am 18.
+                    Januar 1817</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 882</p>
+                <p> </p>
+                <p>2 Bilder der Kaiserin Auguste Viktoria (1858-18921)</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 882</p>
+                <p> </p>
+                <p>Danskea har seier vundet! (Der Däne hat den Sieg errungen. Volksgesang auf den
+                    Kampf bei Fredeicia und zur Erinnerung an den helden General Rye (ca. 1850)</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 883</p>
+                <p> </p>
+                <p>12 Danske Sange (12 Dänische Gesänge. ca. 1848)</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 883</p>
+                <p> </p>
+                <p>Briefwechsel zwischen dem amtierenden Chef des Kabinettssekretariats seiner
+                    Majestät des Königs und den Herren Beseler und Reventlow sowie der Herren
+                    Mommsen, Prehn und Steindorff (1850), Druck</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 886</p>
+                <p> </p>
+                <p>Departementstidenden (Departementszeitung Nr. 47 vom 19.7.1849)</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 883</p>
+                <p> </p>
+                <p>Catalogue du propre fond de Birmann et Huber à Basle</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 885</p>
+                <p> </p>
+                <p>Bekanntmachung, betreffend die Zahlung der Abträge für das Jahr 1850 auf die im
+                    Jahre 1815 in den Herzogtümern Schleswig und Holstein ausgeschriebene gewzungene
+                    Anleihe (1859)</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 886</p>
+                <p> </p>
+                <p>Warnung der sämtlichen adeligen Gutsbeitzer an der geplanten Versammlung von
+                    Prälaten und Gutsbesitzern der Herzogtümer Schleswig und Holstein (1850)</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 886</p>
+                <p> </p>
+                <p>Cours XVIII aux Francois, 1.1.1814</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 887</p>
+                <p> </p>
+                <p>Deutsche Bundesakte (Fragment), 1815</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 887</p>
+                <p> </p>
+                <p>Mitteilung über die Errichtung eines Erzstandbildes des Herzogs Albrecht von
+                    Preußen durch ein zu diesem Zweck gebildetes Comité, 1883</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 887</p>
+                <p> </p>
+                <p>Mitteilung über die Errichtung eines Erzstandbildes des Herzogs Albrecht von
+                    Preußen durch ein zu diesem Zweck gebildetes Comité, 1883</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 888</p>
+                <p> </p>
+                <p>Einladung zu einem Verkaufsbasar zugunsten der 18 unter dem Protektorat der
+                    Königin Elisabeth stehenden Berliner Kinderbewahranstalten, 1868</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 888</p>
+                <p> </p>
+                <p>Aufgaben des engeren Ausschusses der landwirtschaftlichen Gesellschaft für
+                    Litauen, 1821</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 888</p>
+                <p> </p>
+                <p>Berichte von Kommissionen des Preußischen Herrenhauses, 1868, 1882</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 889</p>
+                <p> </p>
+                <p>Zehnter Jahresbericht über die Wirksamkeit des preußischen Provinzialvereins für
+                    Blindenuntertricht zu Königsberg, 2.-8.5.1857</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff, Nr. 889</p>
+                <p> </p>
+                <p>Statuten der Gesellschaft der Ressource zu Dresden, 1847</p>
+                <p>GStA PK, XX. HA, Rep. 54 Lehndorff (unverzeichnet)</p>
+                <p> </p>
+                <p>***</p>
+                <p> </p>
+                <p>16 Bände „Die ländlichen Wohnsitze, Schlösser und Residenzen der
+                    ritterschaftlichen Grundbesitzer in der preußischen Monarchie“, Band 1-16 </p>
+                <p>
+               <seg type="comment">
+                  <orig>
+                     <seg type="comment">
+                        <orig>erwähnt in: HStA Dresden,
+                                    Bestand 11402, Nr. 58, Bl. 2, Anlage Bl. 3</orig>
+                        <note xml:id="nbwv_j4v_pkb">Die folgende Literatur befand sich 1946 in
+                                    Kreibstein.</note>
+                     </seg>
+                  </orig>
+               </seg>
+            </p>
+                <p> </p>
+                <p>27 Bände „Großes Universallexikon aller Wissenschaften und Künste, welchen
+                    bishero durch menschlichen Verstand und Witz erfunden worden“, Halle und Leipzig
+                    Verlag Johann Heinrich Zedler 1739 Bd. 1/2, 5/6, 7/8, 11/12, 13/14, 15/16,
+                    17/18, 19/20, 23/24, 27/28, 29/30, 31/32, 33/34, 37/38, 39/49, 41/42, 43/44,
+                    45/46, 49/50, 51/52, 55/56, 57/58, 59/60, 61, 62, 63, 64</p>
+                <p>erwähnt in: HStA Dresden, Bestand 11402, Nr. 58, Bl. 2, Anlage Bl. 3</p>
+                <p> </p>
+             <p>1 Band Basilii Fabri Theasurus, Eruditionis Scholasticae (Lipsice Apud Thomas
+                    Fritsch, Anno MDCCA)</p>
+                 <p>erwähnt in: HStA Dresden, Bestand 11402, Nr. 58, Bl. 2, Anlage Bl. 3</p>
+             </div>
+            
+              
+            <div>
+                <p>Nicht mehr vorhanden:</p>
+                <p>Caspar Schützen chronica von A. 1599</p>
+                <p>Henneberg Chronica 1595</p>
+                <p>Christoph Hartknochs 1684</p>
+            </div>
+        </body>
+    </text>
+</TEI>

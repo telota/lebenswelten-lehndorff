@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hxy_ldm_zcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Friedrich August Berent. Boulay
+                    vor Metz, 20. Januar 1814</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hxy_ldm_zcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print"> Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 554-560</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_xhs_sdm_zcb">Boulay</placeName>
+                    <date when="1814-01-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-)</persName>
+                </correspAction>
+                <note>Der nächste Brief folgte aus <placeName key="ed_i55_csm_zcb">Soisson</placeName> am 7. März 1814 (ebd., S. 562 f.), in dem <persName key="ed_k4z_jgl_2y">Lehndorff</persName> nochmals ausführlich Anweisungen
+                    wegen der Pferdezucht erteilte. - Am 31. März 1814 war er im Gefolge <persName key="ed_f2c_1mp_vcb">Yorcks</persName> dabei, als die Verbündeten unter
+                    Führung des russischen Kaisers <persName key="ed_m25_tr1_1bb">Alexander
+                        I.</persName> und des preußischen Königs <persName key="ed_tl1_nbf_4y">Friedrich Wilhelm III. </persName>in <placeName key="ed_uyx_nvn_my">Paris</placeName> einzogen. Mitte April muss er sich in <placeName key="ed_cst_hsm_zcb">London</placeName> aufgehalten haben, kehrte dann nach
+                    Frankreich zurück, bevor er im Gefolge Yorcks vom 8. bis 26. Juni 1814 in London
+                    den Festlichkeiten beiwohnte, mit denen der Prinzregent <persName key="ed_hsc_msm_zcb">Georg von England</persName> seine kaiserlichen und den
+                    königlichen Gäste und deren Heerführer ehrte, vgl. ebd., S. 571 f.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Boulay vor Metz, den 20. Januar 1814</dateline>
+                    <salute>Mein lieber Berent!</salute>
+                </opener>
+				        <p>Ich habe Ihren Brief vom 19. November schon vor länger als 4 Wochen erhalten und mit wahrer
+                    Betrübnis die traurige Lage, in der mein Vaterland noch immer ist, sowie alle
+                    Hiobsnachrichten von den Gütern daraus erfahren. <gap reason="insignificant"/>
+            </p>
+                <p>Ich fühle sehr die Notwendigkeit meiner Anwesenheit in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> sowohl zur Erhaltung und Anordnung
+                    der Angelegenheiten der Güter, als zur definitiven Begründung meiner
+                    Familienverhältnisse, und habe alles angewandt, was mit Ehren geschehen konnte,
+                    um zu Ihnen zu kommen. <gap reason="insignificant"/> Da ich meinen Abschied vor
+                    begründetem Frieden nicht wohl nehmen konnte, s<ref target="lehndorff_gcg_g22_ycb">chrieb ich an den <persName key="ed_tl1_nbf_4y">König</persName> mit der Bitte, mich meines
+                        Kommandos des Regiments zu entbinden</ref> und mir einen Urlaub von einigen
+                    Monaten nach Preußen zu bewilligen, um meine in Unordnung hinterlassenen
+                    Familienangelegenheiten in Ordnung bringen zu können. Der König schlug mir den
+                    Urlaub auf eine recht gütige Art ab, machte mich aber zum Oberstlieutenant und
+                    gab mir das Eiserne Kreuz Erster Klasse. <gap reason="insignificant"/>
+            </p>
+                <p>Ich hoffe, dass <persName key="ed_izg_ssm_zcb">Majewsky</persName> nun die 2 mal
+                    500 Rtlr. wird gezahlt haben. Wenn es nicht geschehen, so dringen Sie darauf.
+                    Sie werden solche gewiss nötig brauchen. Die 2.000 Rtlr. - wenn Sie sie irgend
+                    noch auf das halbe Jahr entbehren können - lassen Sie ihm bis zu der verlangten
+                    Zeit, die in April oder Mai trifft. Es ist allerdings schwer für einen Kaufmann
+                    bei der Stockung des Kornhandels jetzt durchzukommen. Ich hoffe, dass der <seg type="comment">
+                  <orig>Fall von <placeName key="ed_uyl_j3c_gy">Danzig</placeName>
+                  </orig>
+                  <note xml:id="na5t_hpv_glb">Zur Belagerung
+                            Danzigs 1813 <ref target="https://de.wikipedia.org/wiki/Belagerung_Danzigs_(1813)">hier</ref>.</note>
+               </seg> eine günstige Veränderung im Kornhandel
+                    machen wird.</p>
+                <p>Die erstaunend geringe Winteraussaat dieses Jahres, welche die Nässe verursacht,
+                    ist wirklich das größte Unglück, welches diese unselige Witterung
+                    hervorgebracht. Denn dadurch wird selbst aufs künftige Jahr die Hoffnung
+                    vereitelt, den Schaden dieses Jahres zu ersetzen, und da alles so schlecht
+                    eingebracht, so haben wir leider mit Gewissheit eine Missernte zu gewärtigen.
+                        <gap reason="insignificant"/>
+            </p>
+                <p>Dass <seg type="comment">
+                  <orig>der Flügel</orig>
+                  <note xml:id="ntng_wfm_zcb">Anbau
+                            an das Schloss</note>
+               </seg> unter Dach gekommen, freut mich. Vergessen
+                    Sie doch nicht, den Winter über Vorkehrungen zu dessen Ausbau zu treffen. Dahin
+                    gehört, dass der Tischler das Holz zu den Fensterläden präpariere, wenn er auch
+                    solche nicht ganz anfertigt. Ich wünsche, dass die Fensterköpfe in denen für
+                    mich bestimmten beiden Stuben so gemacht werden, dass der untere Teil im Ganzen
+                    aufgemacht werden könne, Landbaumeister <persName key="ed_t1f_mgr_gbb">Vogt</persName> wird Ihnen das Weitere erklären, das Holz zu den beiden
+                    Türen vorbereitet und vor allen Dingen, dass alles gut austrockne. Auch die
+                    Bretter zu den Dielen müssen, wenn solche vorrätig sind, schon jetzt zur
+                    völligen Austrocknung an eine trockenen Ort gebracht werden, etwa auf einen der
+                    oberen Räume des Speichers. Denn sonst wirft sich alles, und ich habe nach 4
+                    Monaten wieder einen Fußboden, wo man Hals und Beine darauf bricht, wie in allen
+                    Stuben von <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, und sollten
+                    unglücklicherweise keine solchen Bretter vorrätig sein, so würde das Beste sein,
+                    welche zu kaufen. Herr <persName key="ed_if5_ftm_zcb">Bless</persName> müsste
+                    sich danach umtun. Die Bretter müssten recht breit von schönem, gleichen
+                    Tannenholz (nicht Fichte) sein, welches wenig Äste hat. Denn wenn man jetzt erst
+                    solche Bretter schneiden wollte, so werden sie in 3 Jahren nicht so trocken
+                    sein, wie sie sein müssten.</p>
+                <p>Der Verlust der <seg type="comment">
+                  <orig>
+                     <placeName key="ed_icf_3tm_zcb">Fürstenau</placeName>-Jagd </orig>
+                  <note xml:id="npcl_5gm_zcb">Fürstenau bei Drengfurth. Der Wald grenzt an den von <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>. Die Jagd war bisher von
+                            Graf Lehndorff gepachtet worden, durch die Teilnahme am Feldzug war sie
+                            ihm bei der Neuverpachtung entgangen. </note>
+               </seg>kränkt mich noch
+                    immer sehr. Ich hoffe doch, wenn ich nach <placeName key="ed_uvt_4j4_dz">Preußen</placeName> komme, sie auf irgend eine Art wieder zu erhalten,
+                    damit der ganze Rehbestand nicht auf einmal draufgehe. Auch selbst auf die Hunde
+                    erstreckt sich all unser diesjähriges Unglück. <seg type="comment">
+                  <orig>Sorgen
+                            Sie doch, lieber Freund, dass wenigstens unsere gute Rasse Wind- und
+                            Hühnerhunde nicht ganz ausgehe.</orig>
+                  <note xml:id="nf1v_wpv_glb">Die
+                            Akten zur Hundezucht fehlen, es ist nur eine Korrepondenzakte vom Ende
+                            des 19. Jahrhunderts im APO überliefert. </note>
+               </seg> Aus den
+                    Jagdhunden mache ich mir nichts. Um den guten alten Zephir tut es mir besonders
+                    leid.</p>
+                <p>Auch unser Tuchhandel will also nicht glücken. Es ist ein undankbares Land, unser
+                    gutes Vaterland. Keine Spekulation reüssiert, welche an anderen Orten mit
+                    weniger Muße glückt. Das Land, wo wir jetzt sind, gehört zu den besonders
+                    auserwählten, Klima, Industrie, Absatz, allgemeine Wohlhabenheit begünstigen es.
+                    Wir haben hier einen wunderschönen Winter, gelinden trockenen Frost. Wie ist es
+                    denn damit bei uns? Erlauben die Wege, das Versäumte nachzuholen?</p>
+                <p>Ihre Nachrichten über die Schäferei sind die einzigen tröstlichen, wenn nur das
+                    Übel nicht nachkommt, und gegen das Frühjahr die Folgen der großen Nässe sich
+                    zeigen. Gehen Sie doch mit dem Schäfer zu Rate, oder lieber mit sonst einem
+                    Tierarzneiverständigen, ob man nicht Präservative gebrauchen kann, etwa Salz
+                    etc. Wenn der Schäfer bis zur Schur alles glücklich durchbringt, so geben Sie
+                    ihm doch eine kleine Gratifikation, etwa 3 Taler ihm und jedem Knecht 1. Sollte
+                    die Herde in <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> sich zu
+                    sehr anhäufen, so rangieren Sie das schlechteste in der Wolle von den Schafen 1.
+                    Generation aus und geben es nach <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, um diese zu vermehren, lassen Sie doch auch
+                    fortwährend Listen über die Schäferei halten, wie ich das Schema dazu gegeben.
+                        <persName key="ed_irv_ptm_zcb">Wilimzig</persName>, der einmal weiß, wie ich
+                    es wünsche, müsste das Geschäft und die Zählung übernehmen. Haben Sie im Herbst
+                    viele Hammel verkauft, und zu welchen Preisen? Mästet Hr. <persName key="ed_tc2_stm_zcb">Gaeler</persName> welche? Von ihm erfahre ich ja gar
+                    nichts. Hat er eine reiche Kartoffelernte gehabt? Wie hat er sie in <placeName key="ed_xzt_112_gy">Stawisken</placeName> aufbewahrt? Sagen Sie ihm doch,
+                    das er mir einige Details über seine Wirtschaft gebe. - Die Wolle steigt hier
+                    und in <placeName key="ed_xrv_gwb_by">Berlin</placeName> erstaunlich im Preise.
+                    Das macht der eröffnete Handel, die enorme Konsumtion an Tüchern und durch die
+                    Armeen, die Verheerung der Herden in <placeName key="ed_p2v_pc3_ycb">Sachsen</placeName>, und es ist zu vermuten, dass sich sehr hohe Preise
+                    einstellen und wenigstens ein paar Jahre anhalten werden. Haben Sie daher den
+                    diesjährigen Wollertrag noch nicht verkauft und die Preise sich nicht gebessert,
+                    so asservieren Sie ihn bis zur neuen Schur oder bis ich Ihnen weitere Nachricht
+                    davon gebe. Man hat mir schon früher aus Berlin sehr ansehnliche Preise für die
+                    durch Sie an <persName key="ed_vhq_1tg_gcb">Schröder</persName> geschickten
+                    Wollproben geboten, und seitdem ist die Wolle auf 25-30 pr. c. gestiegen.
+                    Antworten Sie mir doch ja auf diesen Artikel.</p>
+                <p>Nun noch einige Fragen, lieber Berent:</p>
+                <p>Wie ist es mit <persName key="ed_tjf_ytm_zcb">Rohde</persName>? Haben Sie einen
+                    anderen, guten, tüchtigen und vorzüglich ganz sicheren und ehrlichen
+                    Kassenführer? Wie gesagt, der <persName key="ed_jsw_b5m_zcb">Bless
+                        junior</persName> wäre mir der allerliebste, da seine nun 2-jährige Praxis
+                    ihn in Übung gebracht. Ich will mich aber der erwähnten Ursachen halber nicht
+                    darin mengen.</p>
+                <p>Wie geht es mit dem Holzverkauf in den Waldungen überhaupt? Hat Hr. <persName key="ed_if5_ftm_zcb">Bless</persName> einige Kenntnisse davon? Ich weiß
+                    nicht, ob unter den Büchern, welche ich dem <persName key="ed_r1k_vn5_scb">Wittke</persName> gegeben hatte, und die als Inventarium zurückgeblieben,
+                    eins war, betitelt: <seg type="comment">
+                  <orig>Lehrbuch für Förster und die es
+                            werden wollen von G. L. Hartig</orig>
+                  <note xml:id="nsks_j5m_zcb">Haertig, Georg Ludwig. Erschienen im Cotta'schen Verlag, Stuttgart
+                            1861.</note>
+               </seg>? Wenn es da ist, so empfehlen Sie es doch H.
+                        <persName key="ed_if5_ftm_zcb">Bless</persName> ganz besonders zum Lesen und
+                    Studieren. Es ist ein vortreffliches Werk. Freilich ist nicht alles, was darin
+                    steht, auf unsere Verhältnisse, Klima etc. anwendbar. Darum muss man es nicht
+                    verwerfen. Keine Lehre in der Welt passt auf alle Verhältnisse, und es ist die
+                    Sache eines denkenden und vernünftigen Menschen, das Anwendbare herauszuwählen
+                    und das Nützliche den Umständen anzupassen. Sollte es nicht da sein, so
+                    schreiben Sie es mir, dass ich es hier kaufe und einst mitbringe.</p>
+                <p>Lassen Sie doch <seg type="comment">
+                  <orig>
+                     <placeName key="ed_x4d_jc2_gy">Amalienruh</placeName>
+                  </orig>
+                  <note xml:id="nx24_rkm_zcb">Kleines
+                            Gehöft am Weg von <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                            nach <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, unmittelbar am
+                            Mauersee gelegen.</note>
+               </seg> nicht ganz verfallen, bei gutem
+                    Schlittweg alle dort sich befindenden Möbel, alten Familiengemälde etc. laut
+                    Register nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> schaffen und
+                    auf einen Raum auf dem Boden oder sonstwo zusammen hinstellen. Lassen Sie
+                    Bohlen, Schwellen und auch Steine und etwas Kalk nach Amalienruh bringen, um
+                    künftigen Sommer die Reparatur vorzunehmen. Das Dach ist noch gut und brauchbar,
+                    nur müsste ein gutes Fundament, wie zu den Forsthäusern, untergemauert werden,
+                    die Wände repariert etc. nach Ihrer besten Einsicht. Die innere Einrichtung
+                    wünsche ich verändert und so, wie alle anderen Forsthäuser eingerichtet. Da es
+                    aber, wie ich glaube, die Breite nicht hat, so werde es meines Erachtens
+                    ungefähr nach beigefügter kleiner <seg type="comment">
+                  <orig>Zeichnung</orig>
+                  <note xml:id="ndfz_glm_zcb">Die Zeichnung folgt
+                            mit weiteren Hinweisen zum Ausbau.</note>
+               </seg> eingerichtet sein, damit
+                    eine Seite allenfalls etwas hübscher zu einem Absteigequartier eingerichtet
+                    werden könnte. <gap reason="insignificant"/>
+            </p>
+                <p>Hat der Schweinehof dieses Jahr meinen Wünsche gemäß gepflastert werden können,
+                    und sind die Fresstonnen darauf angebracht?</p>
+                <p>Dass der Stall gut geglückt ist, freut mich sehr. Ist auch das Erkerfenster von
+                    dem Hause vom Werder über der Tür angebracht? Ist eine neue recht feste und
+                    hübsche Tür vor dem Stall gemacht und die Gittertür nach dem Model in <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName>? Wenn alles so weit ist, so
+                    lassen Sie es nur bis zu meiner Ankunft. Die inneren Einrichtungen sind bald
+                    vervollständigt. Ich habe ohnedem noch so manches gesehen, was ich dabei
+                    nachahmen möchte. Sorgen Sie nur für trockene Bretter.</p>
+                <p>Meine <persName key="ed_gnc_c1m_2y">Mutter</persName> sprach mir in einem ihrer
+                    Briefe von <persName key="ed_ywf_25m_zcb">Wittke</persName> in einem Ton, als
+                    wenn er abziehen wollte. Es schien sich auf eine frühere Benachrichtigung zu
+                    beziehen, die ich wahrscheinlich nicht bekommen habe. Ich habe deshalb bei ihr
+                    nachgefragt, aber nichts erfahren. Sagen Sie mir doch, was damit ist, auch wie
+                    es dem <persName key="ed_dr2_s5m_zcb">Graumann</persName> geht.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Da ich nun einmal im Schreiben bin, muss ich Ihnen noch
+                            von den Pferden sprechen.</orig>
+                  <note xml:id="nemn_1rv_glb">Zur
+                            Pferdezucht in Steinort liegen Akten im APO, darunter  Stammbäume und
+                            Abstammungsverzeichnisse.  </note>
+               </seg> Ich wünsche, dass dieses
+                    Frühjahr alles belegt werde, was irgend ein halbwegs Füllen produzieren kann,
+                    auch die 4-jährigen Stuten, welche stark und ausgewachsen sind. Was zurück
+                    geblieben ist, muss übergangen werden oder gar nicht angespannt; nur alles nach
+                    Stand und Würden. Ich werde einen ausgezeichneten Hengst aus <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName> erhalten, und Landstallmeister
+                    von <persName key="ed_ddh_x5m_zcb">Below</persName> wird Sie wegen dessen
+                    Abholung benachrichtigen. Im Monat März oder auch schon im Februar und wenn Sie
+                    etwa bei letztem Schlittwege eine gute Gelegenheit dazu haben, lassen Sie doch
+                    die beiden Hengste von meinem <persName key="ed_pv1_b4g_hy">Bruder</persName>
+                    holen. Wenn ich noch Zeit habe, werde ich Ihnen mit diesem Schreiben, wo nicht
+                    mit nächstem, einen Brief an meinen Bruder schicken, den Sie ihm zugleich
+                    übersenden können. Die Hengste müssen aber durch einen nüchternen Menschen, und
+                    der fahren kann, abgeholt werden. Dann kommen wieder die allerbesten Stuten zu
+                        <persName key="ed_dlv_cjv_mbb">Farenheid</persName>, der mir 3 belegen zu
+                    lassen versprochen hat. Sie können nach Umständen unter den 2 Englischen
+                    Braunen, der Schimmelstute, der Reißenschen Schimmelstute und den beiden
+                    schwarzen wählen. Die übrigen recht guten Stuten erhält der Trakehner und die
+                    schlechteren der Herkules. Sorgen Sie nur, dass der Augenblick der vollkommenen
+                    Roßigkeit angepasst werde, damit sie bleiben und sparen nicht die Sprünge. In
+                    der guten Zeit kann die Stute alle drei Tage einen erhalten. Die 4-jährigen
+                    Pferde, welche Sie aufstellen wollen, und die Sie künftige Jahre denken arbeiten
+                    zu lassen, würde es mir lieb sein, wenn sie jetzt aufgestellt würden, aber unter
+                    Ihren Augen, um noch im leichten Schlitten und auf kleinen Touren eingefahren zu
+                    werden. Es wäre mir schon ganz recht, wenn Sie alles zur Arbeit gewöhnen
+                    könnten, auch die kleine 5-jährige Trakehnsche, die Reißensche Schimmelstute
+                    etc. Was die jungen Hengste anbetrifft, so bin ich noch nicht recht deshalb
+                    entschlossen. Ich hatte erst den Gedanken, mir ein paar Pferde mit der
+                    Ersatzmannschaft, die monatlich aus Preußen und von dem Depot meines gewesenen
+                    Regiments kommt, mitkommen zu lassen. Doch scheint mir auf die gewaltige
+                    Entfernung, welche sich mit jedem Tage vermehrt, zu viel Risiko dabei. Ich
+                    glaube also, Sie täten gut, wenn Sie den jungen Schimmelhengst, welcher ohnedem,
+                    wie mir Farenheid schreibt, noch nicht vollkommen ausgewachsen ist, aufs
+                    Frühjahr wieder in den Roßgarten nach <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> brächten, den großen braunen aber allmählich
+                    anspannen ließen. Ist er aber noch nicht ganz formiert, so könnte er auch noch
+                    wieder auf die Weide kommen. Der Ressort müsste aufgestellt bleiben und an eine
+                    mäßige Arbeit gewöhnt. Ich habe immer noch die Idee, ihn einmal als Reitpferd zu
+                    berauchen. Schreiben Sie mir doch überhaupt, wie diese Hengste eingeschlagen.
+                        <persName key="ed_dlv_cjv_mbb">Farenheid</persName> hält fast am meisten von
+                    dem Ressort. Lassen Sie nur ja die Ställe luftig und offen halten. </p>
+                <p>Vergessen Sie doch nicht, wenn es irgend möglich ist, nach <placeName key="ed_iyy_gvm_zcb">Lindenau</placeName> zur Abholung der
+                    Ackerbauwerkzeugen zu schicken, und sagen Sie mir, ob wir Schlitttweg haben.</p>
+                <p>Ich wollte meiner Mutter noch gerne einige Worte sagen, habe aber nicht Zeit
+                    dazu, empfehlen Sie mich Ihr zu Gnaden und herzlichst. Sie können Ihr diesen
+                    Brief mitteilen, ich habe keine Geheimnisse für meine geliebte Mutter.</p>
+                <p>Wir stehen hier zwar in einem gesegneten Land und im Überfluss, aber wie der
+                    Vogel auf dem Dache 2 Meilen von der großen und mächtigen Festung <placeName key="ed_tc4_3vm_zcb">Metz</placeName>, wo sich ein Rache schnaubender Feind
+                    in ungeheurer Anzahl sammelt. Unsere Stellung ist sehr ausgedehnt und dünn, und
+                    es sollte mich sehr wundern, wenn wir nicht dieser Tage heftig ins Feuer kommen
+                    sollten. Unsere Fortschritte sind ungeheuer, doch, wenn ich aufrichtig reden
+                    soll, sehr gewagt, und unserem Feinde bleibt noch eine starke Macht, die täglich
+                    anschwillt. Der gehoffte Volksaufstand will sich nicht zeigen, und in <placeName key="ed_uyx_nvn_my">Paris</placeName> und den nicht von uns besetzten
+                    Provinzen ist alles ruhig und man legt dort <persName key="ed_xzh_bgg_h1b">Napoleon</persName> keine Hindernisse in den Weg. Manche glauben an
+                    Frieden, die meisten bezweifeln ihn und ich auch. Gibt es keinen, so wird es
+                    noch viele blutige Köpfe setzen. Lassen Sie sich von dem ewigen Zurückziehen der
+                    Franzosen nicht blenden. Napoleon muss seine Kräfte konzentrieren, um etwas
+                    Großes und Entscheidendes tun zu können.</p>
+				        <closer>
+					          <salute>Gott mit Ihnen</salute>
+					          <signed>Lehndorff</signed>
+				        </closer>
+            </div>
+            <postscript>
+                <p/>
+                <p>
+               <seg type="comment">
+                  <orig>Ich bin schon in <placeName key="ed_okj_snv_vcb">Nancy</placeName> gewesen,</orig>
+                  <note xml:id="nhb4_bqm_zcb">Anlässlich der Ankunft <persName key="ed_jnh_mvm_zcb">Blüchers</persName> am 17. Januar, der dort mit großer Parade
+                            seinen Einzug hielt.</note>
+               </seg> und es war mir recht froh ums Herz,
+                    diesen Ort unter so günstigen Verhältnissen zu besuchen, wo ich mich vor 6
+                    Jahren so unglücklich fand.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

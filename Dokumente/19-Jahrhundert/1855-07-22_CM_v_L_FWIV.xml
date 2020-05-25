@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_qqy_fzf_j1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Meinhard Graf von Lehndorff an Friedrich Wilhelm IV. König von Preußen.
+                    Steinort, 22. Juli 1855</title>
+                <title> </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_qqy_fzf_j1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 402, n. f.</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1855-07-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_bg5_tsf_4y">Preußen, Friedrich Wilhelm IV. König von
+                        (1795-1861)</persName>
+                </correspAction>
+                <note>In der Akte folgen gutachtliche Bemerkungen zum Entwurf der Stiftungs-Urkunde
+                    für ein Gräflich-Lehndorffsches Fideikommiss zu Steinort, Königsberg 8. Juni
+                    1867, Ertragsberechnungen zu § 5 sowie ein Konzept der Urkunde. Weiteres
+                    Material in: <ref target="lehndorff_dyc_wc5_h1b">GStA PK, XX. HA, Rep. 54
+                        Gutsarchiv Lehndorff-Steinort, Nr. 60: Einrichtung eines
+                        Familienfideikommiss der Familie von Lehndorff durch Carl Meinhard von
+                        Lehndorff, 1855, 1857 (intus: Stiftungsurkunde)</ref>. Siehe auch: GStA PK,
+                    XX. HA, Rep. 2 II, Nr. 8: Akte des Kgl. Oberpräsidiums zu Königsberg, die
+                    Erhaltung des ländlichen Grundeigentums in den Familien der Besitzer (1858) und
+                    Nr. 1928: Familienfideikommisse (1847-1913).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, 22. Juli 1855</dateline>
+                    <salute>Allerdurchlauchtigster Großmächtigster König, <lb/>Allergnädigster König
+                        und Herr!</salute>
+                </opener>
+                <p>Der Grundbesitz, den ich von meinen Vorfahren übernommen habe, ist bisher nur
+                    durch eine Reihe von günstigen, doch mehr oder minder zufälligen Umständen vor
+                    Zersplitterung oder übermäßiger Verschuldung bewahrt worden. </p>
+            <p>Diese Schicksale haben in der hiesigen Provinz die meisten größten Güter bereits getroffen und
+                    zahlreiche adlige Familien zu Grunde gerichtet; diese traurige Zukunft von
+                    meiner Familie fern zu halten, ist mein sehnlichster Wunsch. Ich wünsche daher,
+                    falls Eure Königliche Majestät mir die Allerhöchste Genehmigung dazu
+                    Allergnädigst zu erteilen geruhen wollen, den sehr bedeutenden Teil des
+                    Grundbesitzes meiner Vorfahren, der in meine Hände gelangt ist, nach Maßgabe der
+                        <seg type="comment">
+                  <orig>Stiftungsurkunde</orig>
+                  <note xml:id="nc5y_45z_gfb">Siehe das Konzept in der Akte.</note>
+               </seg>, die ich angebogen Eurer
+                    Königlichen Majestät alleruntertänigst einzureichen wage, in ein
+                    Familienfideikommiss zu verwandeln. </p>
+            <p>Die gesetzmäßige Stempelsteuer von der Errichtung dieses Fideikommisses würde jedoch eine für
+                    meine jetzigen Verhältnisse fast unerschwingliche Höhe erreichen. Ich wage es
+                    daher, Eure Königliche Majestät um Allergnädigsten Erlass dieser Abgabe nach dem
+                    Vorgang ähnlicher Allerhöchster Gnadenbezeugungen alleruntertänigst zu bitten. </p>
+            <p>Die Beilassungsverzeichnisse zu § 4 der Stiftungsurkunde habe ich noch nicht ganz vollenden
+                    können. Ich bitte alleruntertänigst, Eure Königliche Majestät wollen diesen
+                    Mangel allergnädigst zu verzeihen geruhen. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

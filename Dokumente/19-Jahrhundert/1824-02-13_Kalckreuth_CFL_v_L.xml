@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mnv_bmz_ny">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ludwig Ernst Heinrich Graf von Kalckreuth an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Berlin, 13. Februar 1824</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mnv_bmz_ny</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 333, Bl. 5-6v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_rk2_mmz_ny">Kalckreuth, Graf (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1824-02-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Zu Oberst von Kalckreuth: Schultze, Lebensbild, S. 104 ff. - Lehndorff, der
+                    sich in <placeName key="ed_uyl_j3c_gy">Danzig</placeName> befand, erhielt von
+                    Kalckreuth regelmäßig Briefe aus <placeName key="ed_xrv_gwb_by">Berlin</placeName>, in denen er über die politische Lage ebenso wie über
+                    die Vorgänge in der Gesellschaft und am Hof berichtete.</note>
+            </correspDesc>
+            <abstract>
+                <p>Er beantwortet Lehndorffs Brief vom 28. Januar. Alle 8 Tage schreibe er an
+                        <persName key="ed_av4_s32_b2b">Holzendorff</persName> und werde künftig mit
+                    seinen Berichten aus <placeName key="ed_xrv_gwb_by">Berlin</placeName> und vom
+                    Hof zwischen ihm und Lehndorff <quote>alternieren</quote>. - Seit dem Vortrag
+                    sei der bisherige Schlosshauptmann <persName key="ed_gz3_bbl_wcb">Georg Carl
+                        Vollrath von Buch</persName> zum Oberzeremonienmeister bestellt und Louis
+                        <persName key="ed_rly_wmz_ny">Wartensleben</persName> zum Schlosshauptmann.
+                    Flügeladjutant Karl von <persName key="ed_fcb_51l_wcb">Prittwitz</persName> wird
+                    die Hofdame <persName key="ed_zlr_jbl_wcb">Fräulein von Berg</persName>
+                    heiraten, der Adjutant Graf <persName key="ed_b1y_z32_b2b">Schlieben</persName>
+                    die Hofdame Gräfin <persName key="ed_wfd_bj2_b2b">Hacke</persName>. <persName key="ed_njh_zbl_wcb">Waldersee</persName> soll etatsmäßiger, aber in Berlin
+                    bleibender Stabsoffizier geworden sein. <persName key="ed_kvn_xbl_wcb">Zastrow</persName> ist zum Adjutanten ernannt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/333/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

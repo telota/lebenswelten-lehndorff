@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cvn_hwd_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Louise de Gonzague an Carl Meinhard Graf von Lehndorff. Amiens, nach dem 18.
+                    März 1871</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cvn_hwd_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 27, Bl. 4-5v</idno>
+                    </msIdentifier>
+                     
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_shp_pwd_gy">Gonzague, Louise (-)</persName>
+                    <placeName key="ed_pnr_xrg_hy">Amiens</placeName>
+                    <date from="1871-03-18" to="1871-03-20" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Euer Hochwohlgeboren <lb/>Geehrter Herr Präfekt.</salute>
+                </opener>
+                <p>Bevor ich die Antwort erhielt, worin Sie uns die Versicherung Ihres gnädigen
+                    Wohlwollens geben, hatte ich schon dem lieben Papa die Befürchtungen meines
+                    Herzens ausgesprochen über die Gefahr, worin unsere Gemeinde schwebte, da ihr
+                    ein Lazarett bevorstand. Ich bat den guten Papa, Ihnen, geehrter Herr Graf,
+                    einige Zeilen zu adressieren mit der Bitte, im Namen der Freundschaft der
+                    Beschützer meiner geliebten Adoptivfamilie zu sein; ich bin ihr so viel Liebe
+                    und Dankbarkeit schuldig. Wenn Ihnen demnach, Herr Präfekt, ein Brief von Eduard
+                    zukommt, so ist dieses nicht der Erfolg eines neuen Schrittes, es wäre eine
+                    unverzeihliche Undankbarkeit meinerseits nach dem Beweise so großer Güte und
+                    Dienstfertigkeit, womit Sie uns beehren. Auch erlaube ich mir, Ihnen im Namen
+                    unserer würdigen Mutter unsere innigste Dankbarkeit auszudrücken. Mein deutsches
+                    Herz wird nie Ihre freundlichen Gesinnungen vergessen. </p>
+            <p>Durch so große Güte aufgemuntert wage ich es, hochgeehrter Herr Graf, Ihnen im Interesse meiner
+                    teuren Gemeinde eine Bitte auszusprechen, welche Sie gewiss gnädig gewähren
+                    werden. Der Waffenstillstand gibt uns Hoffnung, unsere noch fehlenden Zöglinge
+                    bald zu empfangen. Wäre es denn möglich, ohne die lieben preußischen Verwundeten
+                    zu beeinträchtigen, uns die Betten zurückzugeben, welche wir in das Museum
+                    geliehen haben; wir würden uns sonst in einer misslichen Lage befinden. </p>
+            <p>Wir fügen hier die Liste bei,
+                    worin alle Angebungen sich befinden. Die Betten sind in grünem Gusseisen und die
+                    Springbetten in grünem Damast. Alles wurde mit Bezeichnungen versehen, sie
+                    könnten jedoch durch das Hin- und Hertragen verloren sein. Jedenfalls aber wären
+                    sie leicht erkennbar, da sie alle gleich sind. Es wäre uns jedoch unendlich
+                    leid, wenn unsere neuen Landesgenossen dadurch leiden sollten.  </p>
+            <p>Wenn Sie
+                    mir wieder die Ehre Ihres gütigen Besuchs bereiten, wird es mich freuen, etwas
+                    mehr von meinem lieben Bruder und von unserer Heimat zu sprechen.
+                    </p>
+            <p>Genehmigen Sie, Herr Präfekt, den Ausdruck der tiefen Hochachtung, welchen
+                    unsere würdige Mutter Ihnen darbietet, und die Versicherung meiner steten
+                    Dankbarkeit </p>
+				        <closer>
+					          <salute>Ihre ergebenste Dienerin</salute>
+					          <signed>Sour Louise de Gonzague <lb/>Klarisse de la visitation Sainte Marie <lb/>Dieu doit
+                        beni</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cmk_chw_t1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kriegs- und Domänenrat Becherer an Ernst Ahasverus Heinrich Graf von Lehndorff.
+                    Gumbinnen, 14. Mai 1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cmk_chw_t1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke </p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 379, Bl. 122-123v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_cx3_pc1_hy">Becherer, (-)</persName>
+                    <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>
+                    <date when="1784-05-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gumbinnen, den 14. Mai 1784</dateline>
+					          <salute>Hochgeborener Herr <lb/>Höchstgeehrter Herr Wirklicher Kammerherr <lb/>Hochgeneigtester
+                        Gönner und Herr!</salute>
+                </opener>
+				        <p>
+               <seg type="comment">
+                  <orig>Ew. Hochgeboren mit meinen Briefen bis auf <placeName key="ed_xrv_gwb_by">Berlin</placeName> gleichsam verfolgen zu
+                            müssen,</orig>
+                  <note xml:id="nhc5_rgh_vbb">Im Mai 1784 hielt sich
+                            Lehndorff wieder am Berliner Hof auf, vgl. dessen Kalender vom Mai 1784
+                            bis zum Mai 1785 in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 489.
+                        </note>
+               </seg> habe ich wohl immer geglaubt, nur dass es eine mich selbst
+                    angehende dringliche Sache betreffen würde, konnte ich nicht voraussehen. </p>
+            <p>Mir ist nach einer neuen Departements-Verteilung nicht nur das
+                    Angerburgische, sondern ein jedes auswärtige Departement genommen, dahingegen
+                    gut ein Dritteil von Kammer- und lauter Rechnungs- und Zahlen-Geschäften
+                    übertragen worden. </p>
+            <p>Mein Kopf ist dazu nicht mehr so recht ausgelegt, meine Augen aber <seg type="comment">
+                  <orig>(ich
+                            konnte ja auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName> auf
+                            der großen Karte nicht mit bloßen Augen den Staswin-See finden)
+                            </orig>
+                  <note xml:id="nhkn_gpj_w2b">Gemeint ist wohl die große
+                            Fischereikarte, die mehrfach in den Inventaren der Urkunden und
+                            Dokumente des eisernen Kastens erwähnt wird, vgl. GStA PK, XX. HA, Rep.
+                            54 Gutsarchiv Lehndorff-Steinort (unverzeichnet). Möglicherweise hatte
+                            Becherer hieran sein <ref target="lehndorff_rwj_yyd_zdb">Meliorationsprojekt im Vorjahr</ref> erläutert. </note>
+               </seg> sind
+                    seit 22 Jahren bei Zahlen und übermäßigem Arbeiten verbraucht worden. Ich habe
+                    dahero gemäß <seg type="comment">
+                  <orig>Anschluss</orig>
+                  <note xml:id="ngfv_zcy_m2b">Anlage. Liegt dem Brief nicht bei.</note>
+               </seg>
+                    des Herrn Etatsministers von <persName key="ed_u4q_5bw_mbb">Gaudy</persName>
+                    Exzellenz Vorstellung darüber getan, und dem Herrn Kammer-Assessor von <persName key="ed_hrk_ddv_mbb">Reck</persName> mit Abtretung eines Teils meines
+                    Appointements 1/3 Teil meiner künftigen Arbeiten abgeben müssen. </p>
+            <p>Ew. Hochgeboren bitte ich gehorsamst, die Unzuverlässigkeit meines Gesichts einzuzeugen, und
+                    falls Seine Exzellenz sich über meinen Vorschlag ausließen, solchen sowohl als
+                    das Gesuch wegen des Rastenburgischen Steuerratspostens höchstgeneigtest zu
+                    unterstützen, von wo ich, wenn Ew. Hochgeboren dereinst nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> retournierten, ich mehrmalen die
+                    vorzüglichste Ehre, Denenselben mit ruhigerem Gemüte aufzuwarten, haben könnte.
+                    Herr Kammerassessor v. <persName key="ed_otk_njt_scb">Kortzfleisch</persName>
+                    hat das Angerburgische Departement erhalten, ich habe selbigem auch alle
+                    Kommissaria extradieret, nur das wegen Ablassung der Seen und sonderlich des
+                    Staswin-Sees habe mir noch vorbehalten. Der Staswin-See gibt den <placeName key="ed_fn1_3mw_mbb">Neuhoffschen Gütern</placeName> die Vorflut und der
+                    Bürgermeister <persName key="ed_pwr_1jx_42b">Lenée</persName> hat mir letzthin
+                    gesagt, dass Ew. Hochgeboren befohlen, Deroselben die Anschläge davon
+                    zuzuschicken. </p>
+            <p>Die Anschläge werden immer ungewiss sein und in der Folge würde es sonderlich darauf ankommen,
+                    wie viel annoch auf Melioration, derer diese Güter sehr fähig sind, verwandt
+                    wird; jetzt tragen sie 2.940 Rtlr. Mithin würde man im Ankauf wohl bis 45/m
+                    Rtlr. gehen können. <persName key="ed_pwr_1jx_42b">Lenée</persName> vermeinte,
+                    Ew. Hochgeboren hätten, falls dieselben das Kammer-Amt <placeName key="ed_fn1_3mw_mbb">Neuhoff</placeName> und die Lablicksche Güter
+                    erkauften, auch ein Absehn auf die Ublickensche für 10/m Rtlr. Hierzu rate ich
+                    noch nicht, der Wald ist ausgehauen und der Konkurs nicht mehr weit, und Ew.
+                    Hochgeboren würde sie für weit weniger haben können. </p>
+            <p>Dem sei indes wie ihm wolle, und Ew. Hochgeboren mögten in der Folge die Neuhoffschen Güter
+                    anständig sein oder nicht, so wäre die Ablassung des Staswin-See immer eine
+                    herrliche Sache und Ew. Hochgeboren würden mir eine Gnade erweisen, gelegentlich
+                    und im Gespräch mit Sr. Exzellenz dem Herrn Minister von <persName key="ed_u4q_5bw_mbb">Gaudy</persName>, dessen Meinungen hierüber und ob mir
+                    wohl diese See-Ablassung auf eigene Entreprise gegen billige Konditiones
+                    überlassen werden mögte, zu erforschen, da ich ganz gewiss glaube, dass Sr.
+                    Exzellenz mit daran gelegen sein müsste,<persName key="ed_x2r_52f_cy"> Sr.
+                        Königl. Majestät</persName> die Ausführung eines so großen Werks durch einen
+                    Kriegsrat von einer unter Sr. Exzellenz stehenden Kammer anzeigen zu können. </p>
+            <p>Dergleichen Unternehmen ist jetzt nach meinen Erfahrungen recht für mich, und für die
+                    Meliorations-Kasse, da ich es auf meine Risique entrepreniere, nichts zu
+                    besorgen; selbige bekäme 4 p Cent, höher müsste selbige nicht gesetzt werden.
+                    Beständig dürfte ich auch eben nicht in <placeName key="ed_h1w_jc2_gy">Upalten</placeName> oder <placeName key="ed_qnv_qmw_mbb">Staswin</placeName> gegenwärtig und von hiesigem Collegio abwesend sein,
+                    und dann und wann könnte mein Herr Korreferent meine Arbeiten sehr gut
+                    übernehmen. Ew. Hochgeboren würde im künftigen Sommer selbsten Ihr Vergnügen
+                    dabei haben, und <seg type="comment">
+                  <orig>die Bahn zu Ablassung der polnischen
+                            Seen würde gebrochen und vielleicht auf immer währende Zeiten was Gutes
+                            gestiftet.</orig>
+                  <note xml:id="nz33_bmt_scb">Vgl. hierzu Annalen der
+                            Landwirtschaft in den Königlich-Preußischen Staaten, hrsg. vom Präsidium
+                            des Königlichen Landes-Ökonomie-Kollegiums, 5. Jg., Bd. 10, Berlin 1847,
+                            S. 16 f. Die Entwässerung, als wichtigstes Kulturmittel bezeichnet, des
+                            Kruklinner und des Staswin-Sees wird hier erst in die 1830 Jahre
+                            datiert. - Zum Plan des Ablassens eines Sees vgl. den Tagebucheintrag
+                            vom <ref target="lehndorff_rwj_yyd_zdb">Oktober 1783</ref>.
+                        </note>
+               </seg>
+                </p>
+            <p>Der
+                    Hochgräflichen Frau Gemahlin Gnaden nicht weniger Ew. Hochgeboren empfehle mich
+                    untertänig und bin mit größtem Respekt</p>
+				        <closer>
+					          <salute>Ew. Hochgeboren ganz gehorsamster treuer Diener</salute>
+					          <signed>Becherer</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

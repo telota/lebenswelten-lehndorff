@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_lbs_3l2_qbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rezension. 1903</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_lbs_3l2_qbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+                <note type="editorial">Rezension in 4 Fortsetzungen ohne Hinweis, in welcher Zeitung
+                    sie erschienen ist. - Siehe die biographischen Angaben in: Schultze, Lebensbild
+                    sowie APO, Bestand 382 FA Lehndorff, Nr. 293 und Nr. 302.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution>LASA, StA M</institution>
+                        <idno>E 130 George Adalbert v. Mülverstedt, Nr. 36/1: Ad Genealogiam der
+                            Grafen von Lehndorff, Bl. 1-9</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <date notBefore="1903-01-01" notAfter="1903-12-31" cert="high"/>
+                
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <p>Carl Reichsgraf Lehndorff-Steinort <note place="mBottom" hand="#author">Christian
+                    Friedrich Carl Ludwig Reichsgraf Lehndorff-Steinort, weil. Kgl. preuß.
+                    Generalleutnant a. D., Landhofmeister des Königreichs Preußen, Ritter des hohen
+                    Ordens vom Schwarzen Adler usw. usf. 17. September 1770 bis 8. Februar 1854. Ein
+                    Lebensbild auf Grund hinterlassener Papiere. Herausgegeben von Maximilian
+                    Schultze. Mit zwei Porträts und einem Bild des Schlosses Steinort. Berlin, R.
+                    Eisenschmidt 1903. Gr. 8°. 665 S. Preis 18 M.</note>
+            <lb break="no"/>(1770 bis
+                1854)</p>
+                <p>I.</p>
+                <p>Zu den altpreußischen Geschlechtern, deren Namen mit der Geschichte des
+                Vaterlandes eng verwoben ist, zählen mit Recht die Reichsgrafen Lehndorff. Im
+                Gefolge und Dienst des deutschen Ritterordens kamen die Lehndorff - preußischer
+                Uradel aus dem unteren Weichselgebiet - aus dem preußischen Oberland, wo sie durch
+                ausgebreiteten Landbesitz sich auszeichneten, fast auf dem gleichen Gebiet wie
+                nachher die <persName key="ed_n2h_2xz_g2b">Burggrafen zu Dohna</persName>, nach dem
+                östlichen Preußen und der Umgebung von <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. Unter den preußischen Herzögen gewannen sie ihren
+                heutigen Herrschaftssitz <placeName key="ed_pxt_cnh_1y">Steinort</placeName> am
+                Mauersee. Von da stammt, während alle übrigen Seitenlinien wiederum eingingen, auch
+                die 1791 erst von König <persName key="ed_tl1_nbf_4y">Friedrich Wilhelm
+                    III.</persName> in den preußischen Grafenstand erhobene, jene glänzende Reihe
+                von Staatswürdenträgern, Generalen usw., die den Namen Lehndorff zu seiner Höhe in
+                der Geschichte Preußens erhoben haben, von dem ersten Reichsgrafen <persName key="ed_zyw_ncf_2y">Ahasverus Gerhard,</persName> dem Oberburggrafen (+ 1688)
+                bis auf die heutigen Träger des Namens, unter denen <seg type="comment">
+               <orig>
+                  <persName key="ed_nml_dw2_cy">Reichsgraf Heinrich</persName>, der
+                        getreue General- und Flügeladjutant weiland Kaiser <persName key="ed_lwx_y32_cy">Wilhelms I.</persName>
+               </orig>
+               <note xml:id="nr35_12z_fcb">
+                  <persName key="ed_ar3_sz1_dy">Eulenburg</persName>
+                        charakterisierte ihn als <quote>Mann von vielem Verstand, vornehm, schön,
+                            ritterlich</quote>, vgl. Aus 50 Jahren. Erinnerungen, Tagebücher und
+                        Briefe aus dem Nachlass des Fürsten Philipp zu Eulenburg-Hertefeld, Berlin
+                        1923, S. 60. </note>
+            </seg> mit seinem Bruder <persName key="ed_hbs_sct_2y">Reichsgraf Georg</persName> den Namen Lehndorff zu besonders hellem Klang
+                gefördert haben.</p>
+            <p>Dank der hochherzigen Fürsorge Sr. Exz. des Herrn Reichsgrafen <persName key="ed_nml_dw2_cy">Heinrich Lehndorff</persName> hat in den letzt vergangenen
+                Weihnachtstagen ein Werk zur Ausgabe gelangen dürfen, das den Namen Lehndorff in dem
+                Lebensgang eines seiner bedeutendsten Glieder historisch wie urkundlich
+                festzustellen bestimmt ist, in „Lebensbild‟ weiland des Reichsgrafen Carl
+                Lehndorff-Steinort. Man darf es wohl als etwas mehr bezeichnen, als was unter diesem
+                einfachen Namen genannt ist. Denn es ist ein Denkmal nicht nur der Pietät eines
+                Sohnes, der das Gedächtnis seines Vaters nicht dahinschwinden sehen möchte, sondern
+                ein Denkmal für einen der besten und dienstfreudigsten Söhne des Vaterlandes aus
+                schwerer, leidensvoller Zeit, der aber der Ersatz für ihre Leiden in der
+                wiedererkämpften Größe nicht fehlen sollte, ein Denkmal nicht des Ruhmes einer
+                Person, sondern der Wirksamkeit und der Erfolge eines ganzen Mannes von Herz,
+                Tätigkeitsdrang und Charakter. - Der Verfasser gibt diesem Denkmal in den letzten
+                Worten seines Werkes gleichsam die Inschrift: Graf Lehndorff - ein Mann der Tat! Wir
+                möchten beinahe meinen, sie laute besser und treffender: Graf Lehndorff - ein Mann
+                der Arbeit!, so stark tritt gerade in den Hauptabschnitten seines tatenreichen
+                Lebens diese seine Lust an der Arbeit in die Erscheinung, und wo wir ihn auch sehen,
+                sei es im Heeresdienst seines Königs in Krieg und Frieden, auf den Fluren seines
+                heimischen <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, stets zeigt er ein
+                Bild, das voll befriedigt; in allem liegt das Licht des Gedankens, der eine
+                Männerseele zu rastlosem Schaffen bewegt.</p>
+                <p>Zu <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> i, Pr., den 17.
+                September 1770 geboren, genoss er seine erste Erziehung und Ausbildung im Elternhaus
+                zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Noch vor vollendetem
+                vierzehnten Lebensjahre kam er auf das<orgName key="ed_rt5_bh5_ncb">
+                    Joachimsthalsche Gymnasium</orgName> nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> und dann als „Pensionär‟ auf die von <persName key="ed_x2r_52f_cy">Friedrich dem Großen</persName> geschaffene <orgName key="ed_lxy_j3w_c2b">Académie Militaire</orgName> daselbst, den Ursprung der
+                gegenwärtigen Kriegsakademie. Ende 1788 wurde er als Freikorporal in das Königliche
+                Bataillon Garde eingestellt, wenig nach seiner eigenen Neigung, denn von Jugend auf
+                an das Pferd gewöhnt, schlug sein Herz nur für die Reiterei. Aber des Vaters Wille
+                entschied für die Infanterie. Graf <persName key="ed_csb_mdf_cy">Ahasverus Heinrich
+                    Lehndorff </persName> folgte hierin wohl der Anschauung seines Jugendfreundes,
+                des <persName key="ed_nvx_wcz_bz">Prinzen Heinrich von Preußen</persName>, der
+                merkwürdigerweise, wenigstens zu damaliger Zeit, wenig für die Kavallerie übrig
+                hatte. Der Herbst 1789 sah den jungen Grafen als Fähnrich und damit als Offizier. Er
+                stand an der Schwelle des Glanzes, wenigstens nach seiner damaligen Meinung. Die
+                Zukunft belehrte ihn eines anderen. Aller Glanz der Umgebung (die Offiziere des
+                Bataillons Leibgarde gehörten zum Hause, nicht nur zum Hofe der Hohenzollern) konnte
+                ihn nicht befriedigen. Das Genussleben seines Standes führte ihn noch weniger zur
+                Erfüllung seines Wunsches. Da erklang der Ruf ins Feld für die preußische Armee,
+                Ende 1792 auch für die Garden zu Fuß. Mit hohen Erwartungen zog der Graf mit der
+                Armee an den Rhein, aber Gelegenheit zur Auszeichnung gab es nicht für sein
+                Bataillon, ängstlich wurde es geschont, wie das kostbarste Gut seines Königs.
+                Tatenlos war es umherbewegt worden und ohne Lorbeeren kehrte es 1795 nach Potsdam
+                zurück. Was der junge Graf von den Ufern des Rheins mitbrachte, waren gewiss
+                nützliche Erfahrungen des Kriegslebens für den Dienst, denn er hatte das seine
+                getan, diesen kennenzulernen, obwohl sein Bataillon selbst wenig Gelegenheit dazu
+                bot. Aber für die Friedenszeit der Garnison gab es keine fördernden Erfahrungen aus
+                dem Krieg, die altgewohnte Form des Dienstes blieb das Entscheidende. Was Wunder,
+                dass sie dem lebhaften Geiste nicht mehr genügen wollte, und dass er sich mehr davon
+                versprach, zu Pferde zu dienen? Das lenkte doch auch von den Sorgen ab, die mehr und
+                mehr das Herz beschwerten, jenen Sorgen, die, als die Folgen vornehmen
+                Garnisonlebens ins Feld mitgenommen, hier durch das leichtlebige Kriegswesen nur
+                vermehrt in die Heimat mit zurückgenommen waren. Nun verbitterten sie die Tage,
+                störten vor allem den Herzensfrieden mit den eigenen Eltern. Das Avancement aber
+                ließ warten, während die Verpflichtungen des Lebens mit dem Hof blieben, mochten
+                König <persName key="ed_tl1_nbf_4y">Friedrich Wilhelm III. </persName> und Königin
+                    <persName key="ed_p34_cnc_tcb">Luise</persName> dafür auch noch so bescheidene
+                Grenzen ziehen. Endlich mit dem neuen Jahrhundert versetzte der König den Grafen als
+                Premierleutnant, aber aggregiert, zu dem Regimente der Garde du Corps! Da war das
+                Ziel der nächsten Wünsche erreicht, aber nicht die Freiheit von der Sorge. Denn sein
+                Vater war auch jetzt noch nicht für den Reiterdienst des Sohnes zu gewinnen und der
+                Aufwand war nur gewachsen. </p>
+                <p>Mit dem Dienst in der Kavallerie fühlt sich der Graf so recht an seinem Platz und
+                ist beglückt, seine Gaben frei entfalten zu können. <seg type="comment">
+               <orig>Das
+                        gelingt ihm vollkommen, und in besonderer Anerkennung dafür versetzt ihn der
+                        König unter Beförderung zum Kapitän, wie der Rittmeister damals noch bei den
+                        Dragonern hieß, zu dem anfangs 1802 neu errichteten 13. Dragonerregiment,
+                        nachher nach seinem einzigen Chef v. <persName key="ed_cks_tq4_vcb">Rouquette</persName> benannt.</orig>
+               <note xml:id="ngxv_ljk_kcb">Vgl.
+                        Schultze, Lebensbild, S. 81 ff., nach Briefen in Steinort. Zu Oberst
+                        Rouquette S. 90 ff.</note>
+            </seg> Es geht von <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> nach <placeName key="ed_lym_y4l_ddb">Mlawa</placeName> und
+                    <placeName key="ed_gjk_bpl_ddb">Przasnitz</placeName> in Neuostpreußen, aus dem
+                Glanz der Königsresidenz in eine elende, schmuddelige, polnische Landstadt, in der
+                nicht einmal ein erträgliches Quartier zu finden ist. Aber das macht nichts, denn es
+                geht zu einem Platz, an dem der Mann sich zeigen und bewähren kann, im eifrigen
+                Dienst des Vaterlandes in tätiger Arbeit ein Muster zu schaffen, dem gleich, das die
+                Armee auch damals noch in ihren alten Kavallerieregimentern besaß. Fünf ernste
+                Arbeitsjahre verlaufen hier für den Kapitän und jungen Major, zu dem er bereits Ende
+                1804 emporsteigt. Die Mobilmachung von 1805 brachte die erste Erschütterung des
+                Lebens mit ihrer aufregenden Erwartung, ihren aufreibenden Märschen erst an die
+                Gestade des heimischen Mauersees, dann in die fruchtbare Niederung <placeName key="ed_tjn_3rc_py">Schlesiens</placeName> bei <placeName key="ed_rch_2pl_ddb">Goldberg</placeName> und <placeName key="ed_h1j_gpl_ddb">Haynau</placeName>.
+                Aber das Schwert ward nicht gezogen. Das Frühjahr 1806 sah alles wieder in der
+                gewohnten Garnison. Mit machtvollen Schlägen machte sich dafür der Herbst dieses
+                Unheiljahres bemerkbar. Das Regiment v. Rouquette gehörte nicht zu den Truppen, die
+                den Katastrophen des Oktobers 1806 erlagen. Ein gnädiges Geschick gab ihm
+                Gelegenheit, vor dem Feind sich zu bewähren und nach dem Frieden wenigstens zur
+                Neuformation des ältesten, noch bestehenden Kürassierregiments verwendet zu werden.
+                So blieb sein Name der Armee, nicht minder auch der Schweiß der Edlen, die ihn
+                getragen. Denn ob sie auch das harte Geschick des Vaterlandes nicht aufhalten
+                konnten, die Rouquette-Dragoner kämpften doch mit Eifer und Hingabe im Winter
+                1806/07 unter ihrem Chef im preußischen <placeName key="ed_p2t_bpt_sdb">Oberland</placeName>, bis sie vor des Feindes Übermacht nach <placeName key="ed_uyl_j3c_gy">Danzig</placeName> weichen mussten. Am 11. Februar 1807
+                führte sie General <persName key="ed_cks_tq4_vcb">Rouquette</persName> tapferen
+                Mutes bei <placeName key="ed_d31_lxj_gy">Marienwerder</placeName> den Franzosen noch
+                einmal entgegen, leider ohne Erfolg und unter schweren Opfern. Auch Major Graf
+                Lehndorff gehörte zu diesen. Verwundet fiel er besinnungslos dem Feind in die Hände.
+                So kam er kriegsgefangen nach Frankreich, zunächst nach <placeName key="ed_okj_snv_vcb">Nancy</placeName>, dann durfte er <placeName key="ed_uyx_nvn_my">Paris</placeName> aufsuchen. Ein günstiges Geschick
+                entführte ihn der Gefangenschaft schon Ende August des Jahres, und der nächste Monat
+                sah ihn, von dem preußischen Gesandten mit Depeschen an den <persName key="ed_tl1_nbf_4y">König</persName> gesandt, an dem Hofe in <placeName key="ed_oxb_txl_5y">Memel</placeName>. Welche traurige Veränderung der
+                Verhältnisse musste er hier finden! Überall, wohin er sah, traten ihm Niedergang,
+                Zerfall, Hilflosigkeit, was aber noch weit schlimmer war Schwäche,
+                Unentschlossenheit und Uneinigkeit entgegen. Im eigenen Haus sah es nicht minder
+                traurig aus. Sein greiser <persName key="ed_csb_mdf_cy">Vater</persName> siechte
+                seit Jahresfrist an schleichendem Leiden dahin. Sein <placeName key="ed_pxt_cnh_1y">Steinort</placeName> starrte ihm als Wüste entgegen, Freund und Feind hatten es
+                in gleicher Verheerung ausgesogen. Der Besitz des Hauses erforderte ein kräftige
+                Hand zur Erhaltung und Bewahrung vor gänzlichem Verderben. Da legt der Graf den
+                Pallasch ab und greift zum Pflug, die Armee wird ohnehin verringert, sie kann ihn
+                entbehren, das Vaterland bedarf jetzt des tätigen, emsigen Bürgers.</p>
+                <p>II.</p>
+                <p>So wird Graf Carl Lehndorff Landwirt im besten Sinne des Wortes, der Neugründer
+                und Neuschöpfer seines <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Er nimmt
+                seine Arbeit ernst, denn er steht nicht an, nach <placeName key="ed_lpt_52g_hy">Möglin</placeName> zu dem Staatsrat <persName key="ed_tkl_kvp_vcb">Thaer</persName> zu ziehen und dort Landwirtschaft auch zu studieren, um seinem
+                Haus den Segen neuer Wirtschaftsgedanken und -grundsätze zuzuführen. Nie ist ein
+                Mannesherz treuer in hingebender Arbeit aufgegangen als das des Grafen in jenen
+                Jahren der bitteren Knechtschaft unter der Fremdherrschaft. Die Lage des Vaterlandes
+                wird immer trüber. Zu den auswärtigen Verlegenheiten kommen die Wehen einer alle
+                Verhältnisse tief erschütternden, wirtschaftlichen und gesellschaftlichen
+                Gesetzgebung, neben den denkbar schwersten finanziellen Leistungen des Volkes eines
+                der tiefgreifendsten Anforderungen an seine Vaterlandsliebe und Königstreue. Wir
+                wissen, dass diese neuen Lasten nicht überall willig aufgenommen wurden und dass
+                namentlich in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> sich ernster
+                Widerspruch dagegen erhob. Auch Graf Lehndorff konnte nicht mit allem sich
+                einverstanden erklären. Seine Versuche, für seine Standesgenossen einzutreten und
+                die Regierung zu einer Zurückhaltung zu bewegen, die der Zeit und ihrer heilenden,
+                tröstenden Linderung überließ, was doch nicht in Eile und im Sturm eingetrieben
+                werden konnte, blieben erfolglos. Da zog er sich ganz zu seiner Arbeit in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zurück, besseren Tagen in Ergebung
+                entgegenharrend. Aber erst sollte noch einmal die Zeit der Prüfung kommen, als
+                    <persName key="ed_xzh_bgg_h1b">Napoleons</persName> Heer sich durch <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> nach <placeName key="ed_iky_35l_cz">Russland</placeName> wälzte und der Sommer 1812 dort nahm, was die letzten
+                bösen sechs Jahre noch übrig gelassen hatten. Dann aber schlug endlich die Stunde
+                der Erlösung und ihr erster Schlag führte den arbeitsfreudigen Standesherrn von
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName> aus der Stille seiner Äcker
+                und Wiesen, seiner Forsten und Herden hinweg in das bewegte Getriebe des
+                Staatslebens und der Politik.</p>
+                <p>
+            <seg type="comment">
+               <orig>Den Anfang machte sein Ritt zu General <persName key="ed_f2c_1mp_vcb">Yorck</persName> nach <placeName key="ed_k13_kxp_vcb">Tauroggen</placeName> im Auftrag <persName key="ed_q1t_d2f_4y">Schöns</persName> und anderer Patrioten.
+                        </orig>
+               <note xml:id="nj1z_tw3_wcb">Vgl. Thimme, Friedrich, Zur Vorgeschichte
+                        der Konvention von Tauroggen, in: FBPG 13 (1909), S. 246-264 sowie Schultze,
+                        Maximilian, Zur Geschichte der Konvention von Tauroggen, Berlin 1898.</note>
+                </seg>Der sendete ihn zu <seg type="comment">
+               <orig>
+                  <persName key="ed_vhm_mqk_wcb">Massenbach</persName>
+               </orig>
+               <note xml:id="nv45_clk_kcb">Vgl. Schultze,
+                        Lebensbild, S. 92.</note>
+            </seg> nach <placeName key="ed_olw_h3d_py">Tilsit</placeName>, ihm beizustehen in der Stunde der Entscheidung. So hat Graf
+                Lehndorff seinen Anteil an beiden Tagen, deren Gewicht den ersten Stein zum Grunde
+                legte für das Wiedererstehen der preußischen Macht. Es folgen die bewegten und
+                erregten Tage in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> wie im
+                gesamten <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>, in denen das
+                Erwachen einer neuen Zeit sich ankündigt, in denen die Gewissheit; „Jetzt, oder
+                nie!‟ die Herzen erweckt zu gewaltigen Taten. Die Franzosen war man los, aber dem
+                Könige musste auch geholfen werden, dass er nicht ein Opfer der Macht Russlands
+                werde. So kam der Ostpreußische Landtag zu <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> im Februar 1813, nicht ohne ernsten Kampf gegen die
+                Macht einer Persönlichkeit, von der man seinerzeit alles erhofft hatte und die nun
+                fast ganz versagte - der des <persName key="ed_hcy_qpp_vcb">Freiherrn von
+                    Stein</persName>! Es kamen jene entschlossenen, schnellen und so mustergültig
+                taktvollen Beschlüsse des Landtages über die Sammlung der Wehrkraft Altpreußens in
+                der Landwehr, um nun auch das letzte in die Hand des Königs zu legen, was man noch
+                hatte, sich selbst. <seg type="comment">
+               <orig>Bei allem stand Graf Lehndorff im
+                        Brennpunkt der Verhandlungen ratend, führend, versöhnend und doch wieder
+                        über alle sich emporschwingend mit dem Gedanken seines
+                        „National-Kavallerie-Regiments‟. Führte der Schluss des Landtages die
+                        anderen wieder zurück zu der Stelle des heimischen Herdes, so trat Graf
+                        Lehndorff mit der Bildung des ostpreußischen National-Kavallerie-Regiments
+                        erst recht in den Mittelpunkt aller patriotischen Tätigkeit der Provinzen
+                        östlich der Weichsel, so wurde er mit dieser seiner Schöpfung recht
+                        eigentlich das Sprachrohr ihres kriegerischen Geistes. In mühevollen Sorgen
+                        um dies sein Werk vergingen die nächsten Woche und Monate und mit den ersten
+                        Tagen des Mai konnte das wohlgebildete Regiment dem Heere entgegen ziehen.
+                        </orig>
+               <note xml:id="ntrq_fph_vbb">Vgl. Meyerinck, Hubert v., Das Königlich
+                        Preußische Garde-Husaren-Regiment und seine Abstammung von der
+                        Garde-Normal-Husaren-Escadron des leichten Garde-Cavallerie-Regiments und
+                        dem ostpreußischen National-Cavallerie-Regiment, Potsdam 1869, S.
+                        20-55.</note>
+            </seg> In vielem blieb es freilich ein Sorgenkind seines
+                Meisters, aber auf dem Schlachtfeld sollte es sich bewähren und diese Genugtuung ist
+                ihm doch bis an sein Lebensende geblieben. Schon in den ersten Gefechtstagen der
+                schlesischen Armee zeigte es sich als brauchbar und in der Katzbachschlacht
+                bewährten Mann und Ross zum ersten Mal ihre ostpreußische Herkunft. In oft recht
+                mühevollem Zug ging es dann von der Katzbach an die Elbe. <persName key="ed_ixm_njw_c2b">Katzeler</persName> hatte es mit in seine
+                Avantgardenkavallerie genommen, es war dort an seinem Platz. Bei <placeName key="ed_cwc_tql_ddb">Rothnaußlitz</placeName> trat es in seinen Leistungen
+                wohlberechtigt anderen alten Regimentern zur Seite und bei <placeName key="ed_trv_24g_2z">Möckern</placeName> spielte es mit vollen Ehren, wie die
+                gesamte Kavallerie des Yorckschen Korps, den Franzosen den Kehraus, wie einst wenige
+                Meilen davon der größte Reiterführer des Großen Friedrich bei <placeName key="ed_svx_5ql_ddb">Roßbach</placeName>. In entbehrungsvollem Zug führte es
+                Graf Lehndorff dann bis an den Rhein, zunächst zur Blockade von <placeName key="ed_xtz_qql_ddb">Mainz</placeName>, dann in Erholungsquartiere. Hier kam der
+                Tag, wo er seine Führung in andere Hände legen konnte, wie seit langem sein Wunsch
+                war. Er selbst ward zur persönlichen Dienstleistung bei General <persName key="ed_f2c_1mp_vcb">Yorck</persName> zu dessen Stab versetzt. In <placeName key="ed_zy5_jhm_gbb">Wiesbaden</placeName> erkrankte er auf den Tod, aber nicht
+                zum Tod, Mitte Januar 1814 konnte er schon wieder mitziehen - gen <placeName key="ed_uyx_nvn_my">Paris</placeName>. Er sollte es wiedersehen, aber nicht, wie
+                er es 1807 als Kriegsgefangener zum ersten Mal betreten mit zerrissenem Herzen,
+                sondern frohen Herzens als Sieger. Zuvor hatte er freilich an <persName key="ed_f2c_1mp_vcb">Yorcks</persName> Seite noch manch bösen Tag durchkämpfen
+                müssen, Den Siegeszug der Deutschen nach <placeName key="ed_jxm_5vf_4y">England</placeName> unter <persName key="ed_jnh_mvm_zcb">Blücher</persName>
+                durfte er im Stab Yorcks im Juni 1814 ebenfalls mitmachen, dann eine lange Zeit des
+                Urlaubs genießen, den er auf Reisen verlebte, so dass er bis nach <placeName key="ed_ztb_bm1_my">Wien</placeName> zum dortigen Kongress kam.</p>
+                <p>Erst der Januar 1815 sah in wieder in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Ihm schien seine Militärdienstzeit damit beendigt. Für
+                Staatsdienste dachte er mehr an eine Verwendung seiner Person als Diplomat. Aber
+                    <persName key="ed_xzh_bgg_h1b">Napoleon</persName> machten allen Plänen darüber
+                schleunigst ein Ende. Sein Erscheinen in Frankreich trieb auch den Grafen wieder von
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName> hinweg nach <placeName key="ed_xrv_gwb_by">Berlin</placeName>, sich dort wieder zur Verfügung zu
+                stellen. Er hoffte auf die Führung einer Kavalleriebrigade, denn er war inzwischen
+                Oberst geworden. Aber er kam zu spät. Es war kein solcher Posten mehr zu vergeben,
+                wenigstens nicht bei der Feldarmee, und an einer anderen lag ihm nichts. So musste
+                er sich damit begnügen, wieder eine Stelle im Stab „zu persönlicher Dienstleistung‟,
+                dieses Mal bei General v. <persName key="ed_xyh_mfr_gbb">Zieten</persName>,
+                einzunehmen. Mitten in der Vorbereitung seines Abgangs von <placeName key="ed_xrv_gwb_by">Berlin</placeName> traf die Nachricht von dem Schlag
+                    <persName key="ed_xzh_bgg_h1b">Napoleons</persName> wider <persName key="ed_jnh_mvm_zcb">Blücher</persName> bei <placeName key="ed_cyf_grl_ddb">Ligny</placeName> ein, am Tag, da er den Wagen bestieg, die des fröhlichen
+                Sieges von Belle-Alliance. Hals über Kopf ging es nun der Arme nach, aber erst am 9.
+                Juli fand er seinen Chef in <placeName key="ed_uyx_nvn_my">Paris</placeName>, wie
+                alles zu Ende zu sein schien. Dennoch gab es auch für ihn zu tun. <persName key="ed_xyh_mfr_gbb">Zieten</persName> wurde mit der Blockierung von la Fère und
+                    <placeName key="ed_qbf_xgs_bdb">Laon</placeName> beauftragt. Es gelang unter
+                geschickter Benutzung der in Laon herrschenden Verhältnisse diesen Platz zur
+                Übergabe zu bewegen. Graf Lehndorff führte die Verhandlungen, vollzog das
+                Kapitulationsdokument, führte auch auf Grund der zugestandenen Bedingungen die
+                Besatzung bis nach <placeName key="ed_xg1_lrl_ddb">Orléans</placeName> über die
+                Loire. Ihre Offiziere gaben ihm beim Abschied in Orléans als Zeichen ihrer
+                Hochachtung ein Fest! Welcher französische Offizier wohl 1870 an ein ähnliches
+                Zeichen ritterlicher Gesinnung gedacht hätte! In <placeName key="ed_uyx_nvn_my">Paris</placeName> fand Graf Lehndorff den General <persName key="ed_xyh_mfr_gbb">Zieten</persName> wieder; der Sommer verging für ihn in
+                verschiedenen besonderen Aufträgen zum Ankauf von Remonten für die Armee, zu
+                Unterhandlungen mit den französischen Ministern wegen des Unterhalts der preußischen
+                Truppen und dglm. Im Herbst 1815 wurde die Besatzung Frankreichs durch Truppen der
+                anderen Mächte geordnet. Zieten blieb als kommandierender General des preußische
+                Armeekorps, Oberst Graf Lehndorff kommandierte unter ihm eine Kavalleriebrigade.
+                Diese Stellung behielt er bis Ende 1818, dann kam er in gleicher Stellung nach
+                    <placeName key="ed_hkz_d1b_1bb">Köln</placeName> als Kommandeur der 15.
+                Kavalleriebrigade. Das blieb er bis er 1820, zum Generalmajor befördert, nach
+                    <placeName key="ed_uyl_j3c_gy">Danzig</placeName> versetzt wurde als Kommandeur
+                der 2. Kavalleriebrigade. Als er 1832 um seinen Abschied bat, erteilte ihm
+                Königliche Huld noch den Charakter als Generalleutnant; 1845 erhielt er die Würde
+                des Landhofmeisters im Königreich Preußen, am 18. Januar 1853 den höchsten Schmuck
+                des States: den hohen Orden vom Schwarzen Adler. Am 8. Februar 1854 entschlief er
+                still ohne besondere Krankheit in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> i. Pr. Kurz zuvor hatte er sein <placeName key="ed_pxt_cnh_1y">Steinort</placeName> noch im Gefühl guter Rüstigkeit
+                verlassen und in den letzten Tagen dort sich sogar noch mit dem Einreiten junger
+                Pferde persönlich beschäftigt.</p>
+                <p>III.</p>
+                <p>Nur unvollkommen lässt sich aus dieser Skizze der reiche Gehalt beurteilen, der
+                dies Leben auszeichnete. Als das erste tritt die militärische Dienstzeit des Grafen
+                hervor, glänzend nach außen und innen hauptsächlich durch ihren Erfolg. An drei
+                verschiedene Truppenteile gliedert sie sich in drei verschiedenen Feldzügen. In
+                interessanten Bildern schildert der junge Freikorporal seinen Dienst wie seine
+                Erlebnisse im Bataillon Leibgarde zu <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>, und der Fähnrich schwingt sich ebenfalls auf zu Berichten
+                über sein Feldzugsleben am Rhein 1793/94 wider die Heere der französischen Republik,
+                die noch ganz ihren jakobinischen Charakter tragen. So wenig umfassend diese
+                Mitteilungen an sich sind, so sehr lassen sie nach Inhalt und Form bedauern, dass
+                sie nur Bruchteile geben, so sehr bezeugen sie sich selbst als rein geschichtliche
+                Mitteilungen über Ereignisse einer Zeit, deren Quellenmaterial und Akten überhaupt
+                nur beschränkt sind. Man freut sich, in diesen Briefen und Tagebuchstücken wirklich
+                nur Geschichtserzählung zu finden, frei von dem gefühlsseligen Beigeschmack der
+                Zeit, von der sie berichten, und dass der junge Fähnrich der Garde, wenn er sich
+                einmal herausriss aus den Wirrnissen von Vergnügungen und Genüssen, ohne die es
+                damals auch im Feldlager nicht ging, zur Feder gegriffen und sich gleichsam als
+                Historiker bewiesen hat, kritisch den Stoff beherrschend, um ihn, als wüsste er,
+                dass seine Aufzeichnungen einstmals nach Menschenaltern geschichtlichen Wert zeigen
+                würden, auch frei zu lassen von dem, dass die Nachwelt nicht interessieren dürfte.
+                So sind diese Mitteilungen von kriegsgeschichtlichem Wert. In noch höherem Maße
+                tritt solche Bedeutung aber hervor in den Berichten des Grafen aus dem Feldzuge
+                1806/07, in dem sein Regiment, die Rouquette-Dragoner, mit anderen Truppen zu einem
+                besonderen Detachement unter seinem Chef vereinigt, einen mühevollen, aber leider
+                wenig erfolgreichen Kampf gegen französische Übermacht zu führen hatten. Die Sorge,
+                das wenige, was man noch hatte, ganz zu verlieren, lähmte auch hier die Tatkraft;
+                der üble Umstand, dass Wünsche und Vorschläge der verschiedensten Seiten zu
+                berücksichtigen waren, erwies sich auch hier von übelster Wirkung, Nur von kleinen
+                Erfolgen, die den Gang des Ganzen nicht beeinflussen konnten, konnte die Rede sein,
+                bis endlich doch zur unrechten Stunde ein größerer Einsatz versucht wurde und trotz
+                allen Mutes und aller Hingabe des einzelnen fehlschlug. Ergreifend tönt aus diesen
+                Monaten die Klage des Grafen in seinen Berichten an seine Angehörigen um die Not des
+                Vaterlandes, um die Notlage der eigenen Truppe und der eigenen Person, und wie das
+                Verhängnis einer Katastrophe lähmt der Gedanke an die Zukunft die Tatkraft des
+                Mannes, während der Gedanke an das eigene Ende wohl deutlich, aber nie gefürchtet
+                ihm vorschwebt. Auch für das unglückliche Vaterland bleibt ihm der Tod süß. Aber es
+                sollte nicht dazu kommen, dafür sollte etwas ihn treffen, das der Seele weit
+                schmerzlicher werden sollte - das Los der Gefangenschaft. Doch nicht untätig hat er
+                diese verlebt. <placeName key="ed_okj_snv_vcb">Nancy</placeName> mit seiner Hochflut
+                von Leidensgefährten konnte ihn nicht fesseln. Trotz aller Gesellschaft, die ihm
+                dort sich bot, suchte und fand er die Erlaubnis nach <placeName key="ed_uyx_nvn_my">Paris</placeName> gehen zu dürfen. Aber es waren nicht die Genüsse der
+                Weltstadt, die ihn hier fesselten, seine Aufzeichnungen von dort zeigen, wie tief
+                ihn das Leben zum Nachdenken, Vergleichen und Prüfen angeregt und gewissermaßen zum
+                Studium beeinflusst hat. Seine Aufzeichnungen über Paris und die Franzosen, über die
+                Umgebung der Stadt wie über die Verhältnisse lesen sich als das Urteil eines Mannes
+                von Verstand und Welterfahrung, und das Bild, das sie vor unseren Augen entrollen,
+                wirkt ebenso anziehend durch das Kolorit wie durch die Naturtreue der Darstellung.
+                Die dritte Periode seines Militärdienstes wird nun endlich die des Erfolges und der
+                Anerkennung. Können wir die erste die des Glanzes und Genusses ohne Erfolg nennen,
+                verlangt die zweite die Bezeichnung der Periode erfolgloser Tätigkeit, so darf die
+                dritte in Wahrheit die der wohlverdienten Lorbeeren, ja des Ruhmes genannt
+                werden.</p>
+                <p>Das Ostpreußische National-Kavallerieregiment, sein Gedanke und seine Schöpfung,
+                wurde auch die Waffe, mit der er sich seinen Platz in der Geschichte der preußischen
+                Armee nicht nur, sondern auch in der des preußischen Vaterlandes erkämpft hat. Zwei
+                Zeugen gewichtiger Natur stehen ihm noch heute dafür zur Seite, und so lange sie
+                bestehen, wird auch der Name Graf Lehndorff in der Armee seinen Platz behalten: das
+                Leib-Garde-Husarenregiment und das Ulanenregiment von <persName key="ed_ek2_tmt_c2b">Schmidt</persName>, jenes mit drei Schwadronen, dieses mit seiner ersten
+                Schwadron Nachfolger und Erbe des Ostpreußischen National-Kavallerie-Regiments. In
+                behaglicher Ausdehnung konnte der Verfasser der Tätigkeit des Grafen an diesem Werk
+                und seiner Führung des Regiments gerecht werden, da ihm ein überreicher Stoff dafür
+                zur Verfügung stand. Die beiden größten Abschnitte des Werkes sind ihr gewidmet, der
+                eine der Seite der Errichtung und Ausbildung, der andere der Tätigkeit vor dem
+                Feinde bis Ende 1813. Seine Arbeit wird dadurch von besonderem Wert auch für die
+                Geschichte des Stammes der obgenannten Regimenter, die bisher des vollkommenen und
+                rechten Lichtes noch entbehrte. Wie es die Natur der Verhältnisse mit sich zu
+                bringen pflegt, dass die Geschichte einer Körperschaft, die nach kurzer Tätigkeit
+                wieder zu leben aufgehört fast von selbst zur Sage und Legende wird, so auch die
+                Geschichte des ostpreußischen National-Kavallerie-Regiments. Der Verfasser konnte
+                daher hier an die Lösung einer Aufgabe gehen, die bei der Fülle des gefundenen
+                Aktenstoffes den wertvollsten Erfolg versprach, und den erreicht zu haben, darf er
+                wohl für sich in Anspruch nehmen. Viel hat ihm die weil. Frau Reichsgräfin <persName key="ed_wms_mh2_cy">Anna Lehndorff,</persName> geb. Gräfin Hahn, deren Mitarbeit
+                er im Vorwort rühmend gedenkt, darin vorgearbeitet, deren Herzenswunsch die
+                Herausgabe des Werkes gewesen und die in ihrer weit umfassenden gesegneten Tätigkeit
+                auch dazu so manches vorzubereiten wusste. Jedenfalls geben diese beiden Abschnitte
+                über das ostpreußische National-Kavallerie-Regiment eine urkundliche und aktenmäßige
+                Darstellung der Errichtungsgeschichte, des inneren Zustandes wie der kriegerischen
+                Tätigkeit dieser Truppe bis zum Schluss des Jahres 1813, deren Bild und Erscheinung
+                im Rahmen der Armee festgefügt zu haben ein Erfolg von besonderer Bedeutung genannt
+                werden darf. Vieles ist dadurch und zwar dokumentarisch festgestellt, so die inneren
+                Schwierigkeiten, um nicht zu sagen die Wirren, an denen das Regiment lange gelitten,
+                weil sich seine Glieder vielfach wohl als Teil eines Volksheeres, aber nicht einer
+                Berufsarmee fühlen wollten, einer Miliz mit allen Schäden und Schrecken der
+                Indisziplin und Insubordination, der Ruhmsucht und Anmaßung des einzelnen, aber
+                nicht mit dem Geist der treuen Gefolgschaft und Einordnung in das Gesetz des
+                Gehorsams, noch mit dem Gedanken der Selbstlosigkeit in der Hingabe für König und
+                Vaterland. Es hat des vollen Einsatzes der Person des Grafen Lehndorff mit seinem
+                bewährten Takt und seiner sicheren Menschenkenntnis bedurft, um diese vielen Wirren
+                zu klären, ohne dass das Ganze dabei Schaden gelitten oder der einzelne der Untreue
+                gegen den Beruf verfallen wäre. Es gehört zu dem Lehrreichsten, was die Geschichte
+                nach dieser Richtung hin zu verzeichnen hat, denn es bringt einen vollwichtigen
+                Beitrag zu der Frage von den Schwierigkeiten, mit denen die Verwendung einer reinen
+                Miliztruppe vor dem Feinde verbunden sind, eine aktenmäßige Verurteilung all der
+                Empfehlungen, mit denen dieser Form einer Kampftruppe noch heutzutage, selbst nach
+                den bitteren Erfahrungen der Franzosen 1870/71, so gern der Vorzug zugesprochen
+                wird. Auch für die Kriegstätigkeit des Regiments bringt dies Lebensbild Neues, das
+                bisher noch unbekannt war, so über seine Teilnahme an der Schlacht an der Katzbach
+                und über sein Aufgaben in den Tagen unmittelbar vor der Schlacht bei Leipzig, von
+                dem die bisher veröffentlichten Nachrichten nichts kannten.</p>
+                <p>IV.</p>
+                <p>Ein überaus fesselndes Bild entwerfen die Abschnitte des Buches, die von der
+                Tätigkeit des Grafen in der Zeit handeln, da er statt des Schwertes den Pflug
+                ergriffen hatte. „Unter dem Drucke der Fremdherrschaft auf Steinort‟ heißt der eine
+                der beiden Abschnitte, die davon handeln, „Die Konvention von Tauroggen und der
+                Ostpreußische Landtag‟ der andere. Jener gibt weit mehr, als seine Überschrift
+                besagt, denn der Graf greift in seinen Briefen und Berichten nicht selten,
+                namentlich in den Jahren 1808 und 1812, auch in die Politik ein, und dann enthält er
+                auch den schätzenswerten Bericht über seinen Aufenthalt bei <persName key="ed_tkl_kvp_vcb">Thaer</persName> in <placeName key="ed_lpt_52g_hy">Möglin</placeName> auf dessen landwirtschaftlicher Akademie, für deren Besuch
+                der Graf durch den Gemahl seiner Cousine, der Gräfin Friederike <persName key="ed_ok2_3xf_hy">Schlieben</persName>, den Herzog <persName key="ed_txh_3w5_sy">Karl Friedrich von Holstein-Beck</persName> gewonnen war,
+                der bekanntlich einer der einflussreichsten Gönner und Förderer Thaers gewesen und
+                dessen Name in Möglin noch heute fortlebt. Die Briefe des Grafen an den Herzog aus
+                und über Möglin im Winter 1809 und 1810 gehören gewiss zu den beachtenswertesten
+                nicht nur aus des Grafen Leben, sondern aus seiner gesamten Zeit. Übrigens ist der
+                Herzog von Holstein-Beck auch in anderer Beziehung von großem Einfluss auf den
+                Grafen gewesen, da beider Häuser einander nicht nur nahe verwandt, sondern auch eng
+                befreundet waren, und bis der Herzog 1810 <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> mit <placeName key="ed_nlq_jsl_ddb">Wellingsbüttel</placeName> in Holstein vertauscht, auf das lebhafteste
+                miteinander verkehrten. Die Mutter des Grafen, Frau Gräfin <persName key="ed_gnc_c1m_2y">Amélie Lehndorff,</persName> geborene Gräfin Schmettow,
+                führte einen sehr lebhaften Briefwechsel mit der Herzogin von Holstein bis an deren
+                Tod 1827. Ihr Sohn gab sie der Gräfin zurück, auch von ihnen findet sich manches in
+                diesem Lebensbild. Sie sind ein getreuer Spiegel des gesellschaftlichen Lebens in
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> i. Pr. wie der Ereignisse
+                des Lehndorffschen Hauses und des inneren Lebens ihrer geistreichen, wahrhaft
+                frommen und edlen Verfasserin aus der Zeit von 1812 bis 1827. Es sei noch
+                hinzugefügt, dass der hier genannte Herzog von Holstein-Beck und seine Gemahlin die
+                Großeltern väterlicherseits des regierenden Königs <persName key="ed_cz3_psl_ddb">Christian IX. von Dänemark</persName> waren. </p>
+                <p>Eingehend schildert der Verfasser den schon früher veröffentlichten Anteil des
+                Grafen Lehndorff an der Konvention von <placeName key="ed_k13_kxp_vcb">Tauroggen</placeName>. Zu Hilfe kommt ihm, dass er selber vor Jahren in der
+                Frage, ob <persName key="ed_f2c_1mp_vcb">Yorck</persName> dazu bevollmächtigt,
+                instruiert usw. war, in einer besonderen Abhandlung sich gegen <persName key="ed_dth_4x3_wcb">Droysens</persName> Darstellung in seiner Biographie Yorcks
+                und zu Gunsten einer Instruktion und dadurch einer gewissen Teilnahme König
+                    <persName key="ed_tl1_nbf_4y">Friedrich Wilhelms III.</persName> an der Sache
+                entschieden hatte. Zwar bringt er Neues nicht weiter bei. Aber durch die Behandlung,
+                welche die Frage auf Grund jener Schrift von verschiedenen Seiten erfahren, ist doch
+                    <seg type="comment">
+               <orig>so viel dokumentarisches Material (namentlich in dem
+                        Berichte des Generalleutnants Ludwig v. <persName key="ed_s2f_r5j_d2b">Wrangel</persName> aus dem Jahr 1838 an den damaligen Kronprinzen
+                            <persName key="ed_bg5_tsf_4y">Friedrich Wilhelm</persName>, den
+                        Friedrich <persName key="ed_qt1_vkw_c2b">Thimme</persName> veröffentlicht)
+                        </orig>
+               <note xml:id="nt2c_rhb_mfb">Vgl. Thimme, Friedrich, Die geheime
+                        Mission des Flügeladjutanten von Wrangel (1812). Ein Nachwort, in: FBPG 21
+                        (1908), S. 199-213 und Ders., König Friedrich Wilhelm III., sein Anteil an
+                        der Konvention von Tauroggen und an der Reform von 1807-1812, in: FBPG 18
+                        81905), S. 1-59.</note>
+            </seg>beigebracht worden, dass er mit gutem Rechte
+                für den Grafen auch an dieser Stelle in Anspruch nehmen darf, was er früher schon
+                von ihm behauptet, besonders, da er hier auch die Namen derer nennen darf, die noch
+                aus des Grafen Mund selbst den Bericht empfangen haben, von dem zum Teil ihr
+                schriftliches Zeugnis beigebracht werden kann. Wertvoll für die Beurteilung jener
+                Tage in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> i. Pr. erscheint ein
+                Schreiben des Prof. Dr. J. G. <persName key="ed_dth_4x3_wcb">Droysen</persName> an
+                den Grafen aus dem Jahre 1851, das hier zur Wiedergabe gelangt, weil es voll des
+                Lobes und der Anerkennung seiner Wirksamkeit in jenen Zeiten ist. </p>
+                <p>Wir müssen es aufgeben, noch weiter in das Werk selbst einzudringen, der Raum
+                fehlt uns hierzu. Nur das eine sei bemerkt, dass es durchweg eine umfassende
+                Sammlung von Briefen und Akten aus dem Hausarchiv in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> enthält, in der die eigenen Briefe und sonstigen
+                Aufzeichnungen des Grafen Lehndorff selbst den Hauptstock bilden. Unter ihnen seien
+                die an seinen Oberinspektor <persName key="ed_yx5_cbg_nbb">Behrend</persName> in
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName> aus der Zeit von 1813 bis
+                1818 noch besonders hervorgehoben. Sie gehören zu dem Interessantesten, was von
+                Aufzeichnungen über die Bewirtschaftung einer umfangreichen Herrschaft der Neuzeit
+                vorliegen dürfte. Sie sind umso wertvoller, als sie gerade in der Zeit ihren Anfang
+                genommen, da der Graf zu Felde lag, ein bewunderungswürdiges Zeugnis seiner
+                geistigen Kraft und seiner Liebe zur Sache. Denn sie sind vielfach am Biwakfeuer
+                geschrieben und doch verleugnen sie in keinem Wort den Geist, mit dem der Graf auch
+                unter dem Klang der Feldtrompeten das zu beherrschen wie zu pflegen wusste, was er
+                mit Recht als die Summe seiner Pflichten gegen sein eigenes Haus wie gegen dessen
+                Zukunft betrachtetet. Dazu war er damals noch unverheiratet, und lebte der
+                Anschauung, dass ein Sohn seiner Schwester, der <persName key="ed_z12_bwf_hy">Gräfin
+                    Dönhoff</persName>, einst sein Erbe in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> werden solle. Als Gegenstück dazu könnten die Berichte des
+                genannten Beamten über seine Erlebnisse in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> aus dem Feldzuge 1807 gelten, mit ihren unglaublichen
+                Verwüstungen für die Herrschaft, bei denen man wirklich nicht recht klar wird, wer
+                hier mehr als der Feind aufgetreten sein dürfte; die Franzosen oder die verbündeten
+                Russen? Sehr interessante Briefen, die einen aufklärenden und unterrichtenden Blick
+                in so manche Verhältnisse <placeName key="ed_uvt_4j4_dz">Ostpreußens</placeName>,
+                sei es in politischer, sei es in wirtschaftlicher und gesellschaftlicher Art,
+                erlauben, finden sich von den verschiedensten Persönlichkeiten aus der Umgebung des
+                Grafen von 1812 und 1813, unter denen wir den Bericht des Landstallmeisters v.
+                    <persName key="ed_wgw_p35_ncb">Burgsdorff</persName> über seine Erlebnisse mit
+                dem <placeName key="ed_efn_v5l_wcb">Trakehner</placeName> Gestüt im Jahr 1813, als
+                es über Pommern nach Oberschlesien geführt war, besonders hervorheben möchten.</p>
+                <p>Alles in allem haben wir hier das Bild eines Mannes von der denkbarsten
+                Vielseitigkeit in seinen Beziehungen zu dem öffentlichen Leben, wie es in seinen
+                Verhältnissen, die dem Ganzen trotz seines erheblichen Umfangs den Reiz der Anregung
+                und die Fessel des Interesses verleiht. Es ist in keiner Weise ein Memoirenwerk und
+                wer derartiges suchen wollte, möchte sich wohl täuschen. Aber es ist ein Spiegelbild
+                der Zeit, der der Graf angehört hat, getreu in ihrem Schatten wie nicht minder
+                deutlich in ihrem Lichte, und dass dieses Licht nicht grell und abstoßend, sondern
+                echt deutsch gemütlich zum Herzen spricht, dafür hat am meisten schon der biedere,
+                freundliche und doch so energische Charakter gesorgt, der hier in dem Kriegshelden,
+                dem Patrioten, dem altpreußischen Landeskind zum Ausdruck kommt. Dafür sogt auch der
+                Fleiß und die genaue Selbstkritik, mit der die zur Behandlung gebrachten
+                geschichtlichen Ereignisse klargelegt werden, bei denen vieles auf Grund der
+                benutzten Quellen, so vornehmlich auch des Kriegsarchivs des Großen Generalstabs, in
+                ein ganz neues Licht gestellt wird, so dass manchen alten Legenden der Boden für
+                immer entzogen erscheint.</p>
+                <p>Dass ein guter Teil des Ganzen in französischer Sprache sich darstellt, darf
+                nicht störend wirken. Da für gewisse Zeiten dieses Lebens Umgangs- und
+                Schriftsprache das Französische war, sind auch sehr viele der wiedergegebenen
+                Schriftstücke darin verfasst. Eine Übertragung ins Deutsche hätte sie ihrer Eigenart
+                völlig beraubt und den Charakter der historischen Treue des Werkes geschädigt. Im
+                übrigen stellen sie nach Stil und Ausdruck keine hohen Ansprüche an die Beherrschung
+                dieser Sprache.</p>
+                <p>Die beigegebenen Porträts des Grafen und seiner Gemahlin <persName key="ed_tcp_g3l_2y">Pauline Reichsgräfin Lehndorff, geb. Gräfin
+                    Schlippenbach</persName>, wie das Bild des Schlosses <placeName key="ed_pxt_cnh_1y">Steinort</placeName> sind gewiss eine willkommene Ergänzung
+                des Werkes. Stimmen doch namentlich die Gesichtszüge des Grafen so ganz mit dem
+                überein, wie er in seinen eigenen Aufzeichnungen sich gibt, namentlich in dem
+                freundlichen, etwas kritischen und doch so energischen Zug um die Lippen und dem
+                Geistesblitze der Augen, die oft genug im entscheidenden Augenblick anderen den Weg
+                zu weisen verstanden haben.</p>
+                <p>Alles in allem: Es ist ein würdiges Denkmal, das hier der Sohn dem lange in Gott
+                ruhenden Vater hat errichten lassen, von dem Stein und Erz sonst kein Zeugnis geben.
+                Es ist umso wirkungsvoller, als es nicht an die Scholle gebunden ist, und Taten wie
+                Namen, die es verkündigt, weit hinaus tragen kann über das gesamte Vaterland. Das
+                soll ihm auch gegönnt sein. Diesen Erfolg aber wird es mit Sicherheit gewinnen, wenn
+                in den Häusern des preußischen Adels sowohl wie in denen seiner anderen Stände immer
+                das Wort lebendig bleibt, das Graf Lehndorff einst in seinem Schreiben an König
+                    <persName key="ed_bg5_tsf_4y">Friedrich Wilhelm IV.</persName> so treffend
+                gegeben hat: „Denn das menschliche Herz hängt an der Erinnerung redlicher
+                Voreltern.‟</p>
+                
+            
+        </body>
+    </text>
+</TEI>

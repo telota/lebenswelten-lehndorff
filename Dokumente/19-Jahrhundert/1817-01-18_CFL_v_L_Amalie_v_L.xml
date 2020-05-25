@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_hfx_3cc_cdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Berlin, 18. Januar 1817</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_hfx_3cc_cdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 614 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1817-01-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (Hirschberg 9.4.1751-Königsberg, Roßgärter Markt
+                        12.11.1830)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 18. Januar 1817</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>
+               <note type="editorial">Er habe länger in <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                        bleiben können, da der <persName key="ed_tl1_nbf_4y">König</persName> seinen
+                        Urlaub um vier Wochen verlängert habe.</note>
+                    <seg type="comment">
+                  <orig>Ich regulierte nun mit dem <persName key="ed_rlb_wx1_1bb">Finanzminister</persName> meine
+                            Hausangelegenheiten nach vielen Weitläuftigkeiten und Umständen und
+                            Abzwackungen doch endlich zu meiner Zufriedenheit und habe meine Basis
+                            in den Hauptsachen richtig behauptet, ein Beweis, dass das Recht ganz
+                            auf meiner Seite war.</orig>
+                  <note xml:id="nept_vz4_1fb">Vgl. die
+                            Anmerkung zum Brief vom <ref target="lehndorff_a5p_xzb_cdb">10.
+                                September 1816</ref>.</note>
+               </seg> Denn man hat alles angewandt, um
+                    mich darin zu beschränken. Obgleich ich nun mit dem Handel ganz zufrieden bin
+                    und wirklich einmal in meinem Leben Glück damit gehabt habe, welches mir in
+                    pekuniärer Hinsicht so selten geschieht, so ist doch nicht zu leugnen, dass,
+                    wenn ich die Umstände so alle gewusst hätte, wie sie sich ereigneten, und sie
+                    hätte benutzen können, ich noch einen glänzenden Coup damit hätte machen können,
+                    und ohne Gewissensskrupel, denn das Phantom, dessen vielseitiger Begriff sich
+                    unter dem Namen Staat konzentriert und mit dem ich gehandelt, hat uns seit
+                    mehreren Jahren so viel und willkürliches von der Seele gerissen, dass ich auf
+                    diesem Wege mit gutem Gewissen eine noch immer nicht vollständige Idemnität
+                    hätte erzielen können. Es war so über den Steuern beschlossen. <gap reason="lost"/>
+            </p>
+                <p>
+               <placeName key="ed_xrv_gwb_by">Berlin</placeName> ist dieses Jahr recht brillant.
+                    Die auswärtigen Gesandten machen vortreffliche Häuser. Bei den Staatsräten und
+                    Ministern zehrt man von seinem eigenen Fett. Es haben sich einige sehr angenehme
+                    Häuser organisiert, wo man alle Abend hingehen kann, und unter denen das der
+                    Gräfin <persName key="ed_jfh_qpd_b2b">Pappenheim</persName> das beste ist. Der
+                    Luxus steigt zu einem wahren Schwindel, und es ist kein Wunder, dass wir so
+                    ungeheuer bezahlen müssen, um all diese Hauswesen zu unterhalten. Des <persName key="ed_tl1_nbf_4y">Königs</persName> Haus ist das bescheidenste, <seg type="comment">
+                  <orig>die der Juden die impertinent opulentesten.</orig>
+                  <note xml:id="nhs1_lfc_cdb">Gneisenau schreibt in selber Zeit an Niebuhr über
+                            das Berliner Leben: <quote>Es hat sich ein verderblicher, der Nachwelt
+                                nicht frommender Luxus eingefunden, der zeit- und geldraubend und
+                                geisttötend zugleich ist. Mahlzeiten und Mahlzeiten und in diesen
+                                eine Menge kostbarer Gerichte jagen sich. Die Esslust hat sich aller
+                                Stände bemächtigt. Wir werden bald unsere Lorbeeren ver-schmaust
+                                haben und vielleicht auch die Erinnerung
+                    daran.</quote>
+                  </note>
+               </seg>
+            </p>
+                <p>Ich habe dabei unsere vortrefflichen <persName key="ed_mnq_wpd_b2b">Dönhoffs</persName> nicht negligiert und sehe sie öfters. Die <seg type="comment">
+                  <orig>Schwerinen</orig>
+                  <note xml:id="nfxp_5hc_vkb">Sophie von
+                            Dönhoff hatte 1805 ihren Onkel Wilhelm Werner Otto von Schwerin, den
+                            jüngeren Bruder ihrer Mutter, geheiratet, und war mit ihm nach Berlin
+                            gezogen. </note>
+               </seg> und Cäcilie sind noch nicht hier, den anderen
+                    sieht man äußerlich von all dem unsäglichen erlittenen Unglück nicht viel mehr
+                    an. Das ist die Frucht der Resignation und der Vernunft, die sich nie zum
+                    Schauspiel gibt. Die jüngste, die <seg type="comment">
+                  <orig>Amélie</orig>
+                  <note xml:id="nns5_njc_vkb">Amalie von Dönhoff. Sie heiratete 1818 Conrad
+                            Freiherr von Romberg.</note>
+               </seg>, spricht jetzt viel und kommuniziert
+                    sich sehr artig, und wenn <seg type="comment">
+                  <orig>August</orig>
+                  <note xml:id="nd2d_pwd_b2b">Sein Bruder Heinrich August?</note>
+               </seg> nur
+                    diesen Mangel an ihr findet, so würde ich raten und wünschen, dass er sie noch
+                    einmal besehe. Mir gefällt hier nichts so recht aus dem Grunde, von denen
+                    wenigstens, die hier zu haben sind, obgleich nicht zu leugnen ist, dass einige
+                    recht hübsche und artige Mädchen hier herumspringen. Dagegen sind ein Paar,
+                    leider verheiratete, Frauen hier, die wirklich ganz zum Verlieben eingerichtet
+                    sind. Die Blume von allen ist die seit ein paar Tagen hier eingetroffene <seg type="comment">
+                  <orig>
+                     <persName key="ed_ns1_1rd_b2b">Kanitz</persName>
+                  </orig>
+                  <note xml:id="nmd1_yfc_cdb">Luise von Kanitz,
+                            geb. Gräfin Schulenburg-Beetzendorf, Gemahlin des Flügeladjutanten Major
+                            Graf Kanitz</note>
+               </seg>, die Sie in Preußen gesehen haben. Ich habe
+                    gestern mit ihr bei der <seg type="comment">
+                  <orig>
+                     <persName key="ed_kyz_dvd_b2b">Ompteda</persName>
+                  </orig>
+                  <note xml:id="nhld_bgc_cdb">Gemahlin des
+                            hannoverischen Gesandten am Berliner Hof, Ludwig von Ompteda, geb.
+                            Gräfin Schlippenbach-Arrendsee, Vaterschwester der späteren Gemahlin
+                            Lehndorffs</note>
+               </seg> gegessen und kam neben ihr zu sitzen, wo mir
+                    wahrhaftig das Wasser im Munde sehr zusammengelaufen ist. Wie doch manche
+                    Menschen Glück haben, so eine Kleinodie aufzufinden, und dabei spricht sie so
+                    lieb und hübsch, dass man es nicht lassen kann, ihr ins Auge zu sehen. - Eine
+                    andere <seg type="comment">
+                  <orig>allerliebste Frau ist die des Hofmarschalls
+                                <persName key="ed_nv3_qvd_b2b">Malzahn</persName>.</orig>
+                  <note xml:id="nmhj_ggc_cdb">Friederike, geb. Seelmann</note>
+               </seg> Sie war
+                    früher Gouvernante seiner Kinder, und er hat sie nach dem Tode seiner ersten
+                    Frau geheiratet und hat sehr recht daran getan, was auch ein jeder findet. So
+                    siegt der wahre Wert über die Macht des Vorurteils. </p>
+                <p>Bei Hof ist nichts, was des Ansehens wert wäre. Von Politik, Administration und
+                    alles, was reell und wichtig ist, hört man hier wenig sprechen. <gap reason="insignificant"/>
+            </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

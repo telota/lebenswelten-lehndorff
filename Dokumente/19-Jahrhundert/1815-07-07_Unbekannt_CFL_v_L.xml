@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mv1_sny_ddb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>N. N. an Carl Friedrich Ludwig Graf von Lehndorff. Berlin, 7. Juli
+                    1815</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mv1_sny_ddb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 532, Bl. 1-2v</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1815-07-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/532/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 7. Juli 1815</dateline>
+                    <salute>Sehr hochgeehrter Freund!</salute>
+                </opener>
+                <p>Ihren Brief vom 26. v. M. habe ich richtig empfangen und mich gefreut, dass Sie
+                    mit den Ihrigen wohl sind und die Flure der Heimat des Himmelreiches Segen
+                    versprechen. Dieser soll überall in hohem Grade vorhanden sein, und in den
+                    Ländern, wo nicht innere Industrie und eine zureichende Konsumtion stattfindet,
+                    oder ihn verbrauchen kann, wird er dem ländlichen Gutsbesitzer, nach Abzug der
+                    hohen Kosten, wenig Einkommen gewähren. <seg type="comment">
+                  <orig>Aus Ihrer
+                            Zurückgezogenheit werden Sie durch die gestrige Kriegsbotschaft
+                            herausgezogen und angenehm überrascht sein. </orig>
+                  <note xml:id="npvx_ddw_glb">Der <ref target="https://de.wikipedia.org/wiki/Sommerfeldzug_von_1815#3._Juli">Sommerfeldzug von 1815</ref> war die letzte militärische Aktion
+                            Napoleons und dauerte vom März bis Juli1815.</note>
+               </seg>Der Schlag ist
+                    entscheidend gewesen, kostet aber beide Armeen ungeheuer viel Menschen, aber
+                    durch ihren unübertrefflichen Mut, durch ihre Ausdauer, durch ihre moralischen
+                    Rechte treten sie auf die gleiche Weise hervor. <placeName key="ed_ust_ky4_dz">Frankreich</placeName> ist nach einem einzigen Schlag und mit dem Verlust
+                    einer Armee von 150.000 Mann zu Boden geworfen, und hieraus erkennt man schon
+                    den Mangel an Treue, Freiheit des Willens und der Kraft. Ich sage Ihnen nichts
+                    von den Nachrichten, die Sie auch dort alle schnell erhalten, und Sie können
+                    sich die allgemeine Freude und Teilnahme denken. Gestern sagte man, <persName key="ed_jnh_mvm_zcb">Blücher</persName> habe den 1. nach neuer vorläufiger
+                    Konvention in <placeName key="ed_uyx_nvn_my">Paris</placeName> einrücken wollen,
+                    und in der <seg type="comment">
+                  <orig>Börsenhalle</orig>
+                  <note xml:id="nwfy_2md_b2b">1805 gegründete, zweimal täglich erscheinende
+                            Zeitung für <quote>Börsen-, Handels- und Verkehrsinteressen</quote>,
+                            vgl. <ref target="http://www.zeno.org/Meyers-1905/A/Hamburgische+B%C3%B6rsenhalle">http://www.zeno.org</ref>
+                        </note>
+               </seg> steht, dass man <persName key="ed_xzh_bgg_h1b">N.</persName>
+                    angehalten, und bei einer Aufruhr <persName key="ed_rnr_mjk_wcb">Davoust</persName> Carnot Fouché erschlagen habe, dergleichen Auftritte
+                    sind nun fast unvermeidlich. Der Erfolg ist so erstaunlich, dass die Monarchen
+                    überrascht und in Verlegenheit sein werden, eben so schnell und mit berechneter
+                    Klugheit zu handeln. Ich fürchte oft, wir werden die alte Bahn verfolgen. Auch
+                    für uns entsteht unmittelbar die gesegnete Folge, dass die Lieferungen abgesagt
+                    und also vorläufig ganz aufgehoben sind. Den Maßstab, nach welchem die
+                    Lieferungspflichtigkeit der Provinzen bestimmt ist auszumitteln, bleibt für uns
+                    unmöglich, und schwer würde eine Präparation der Provinzen gegeneinander zu
+                    beweisen sein; auch kann sie nicht in dem Willen der Oberen Staatsadministration
+                    liegen, vielmehr in der Unvollständigkeit jenes Maßstabes der ursprünglichen
+                    Anlage des Verhältnisses<seg type="comment">. </seg>
+                    <gap unit="pages" quantity="2" reason="insignificant"/>
+            </p>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_gq2_fd3_yz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kirchen- und Schulkommission an Friedrich Wilhelm III. König von Preußen.
+                    Königsberg, 29. Januar 1803</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_gq2_fd3_yz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, EM, Tit. 42 a, Nr. 214, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_lc1_xcg_h1b">Preußische Spezial Kirchen- und
+                        Schulkommission</orgName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1803-01-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_tl1_nbf_4y">Preußen, Friedrich Wilhelm III. König von
+                        (1770-1840)</persName>
+                </correspAction>
+                <note>Siehe hierzu die Patronatsakte zu den Schulen auf den Gütern, auch <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> betreffend, in: APO, Bestand 382 FA
+                    Lehndorff, Nr. 541.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 29. Januar 1803</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>Euer Königlichen Majestät haben wir alleruntertänigst anzuzeigen, dass der
+                    Gutsbesitzer <persName key="ed_ojg_bdg_h1b">Gumboldt</persName> auf <placeName key="ed_jp5_cdg_h1b">Rosenstein</placeName> sich mit dem Grafen <persName key="ed_csb_mdf_cy">Lehndorff</persName> auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName> wegen der <rs type="term" key="ed_xfn_ffg_h1b">Schule</rs> in <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> am 16.
+                    Dezember nach dem Bericht des Probstes <persName key="ed_uhx_5jq_tcb">Pisanski</persName> vom 29. Dezember pr. dergestalt verglichen hat, dass
+                    wir dabei nichts zu erinnern finden und der desfalls bei einem Königlichen
+                        <unclear reason="illegible" cert="high">Insterburgschen</unclear> Hofgericht
+                    angestrebte Rezess durch diesen Vergleich beendiget worden.</p>
+				        <closer>
+                    <salute>Preußische Spezial Kirchen- und Schulkommission <lb/>(gez. Winterfeld
+                            <gap reason="illegible"/> Borkowski <gap reason="illegible"/>)</salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

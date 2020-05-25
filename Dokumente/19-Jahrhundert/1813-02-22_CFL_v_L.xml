@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_crd_13q_bbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Landsleute. Königsberg, 22. Februar 1813</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_crd_13q_bbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 20, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Bujack, Georg, Zum Andenken an die Mitglieder des
+                            Königsberger Landtags im Februar 1813, an die Ostpreußische
+                            Landtags-Bataillone und das Ostpreußische National-Kavallerie-Regiment
+                            anno 1813 und 1814</bibl>, Königsberg 1890, S. 53 f. </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1813-02-22" cert="high"/>
+                </correspAction>
+                <note>Die Bekanntmachung erfolgte zuerst in der Königsberger (Hartungschen)
+                    Königlich Preußischen Krieges- und Friedens-Zeitung am 22. Februar 1813. Am 25.
+                    März wurde Lehndorff Kommandeur des Preußischen National-Kavallerie-Regiments.
+                    Am 27. März 1813 erhielt der Aufruf Lehndorffs die ausdrückliche Billigung des
+                    Königs, vgl. den Kabinetts-Befehl in: Bujack, Georg, Zum Andenken an die
+                    Mitglieder des Preußischen Landtags im Februar 1813 zu Königsberg und an die
+                    Taten der preußischen Landwehr und des Preußischen National-Kavallerie-Regiments
+                    in den Jahren 1813 und 1814, neu bearb. von Adalbert Bezzenberger, Königsberg
+                    1900, S. 54. - Weitere, zum Teil stark beschädigte Unterlagen zum Ostpreußischen
+                    National-Kavallerie-Regiment 1812-1817 in der Akte (Geldsammlung zur Ausrüstung,
+                    Formation des Regiments, Personal). Siehe auch: Schultze, Lebensbild; Dönhoff,
+                    August Friedrich Philipp Reichsgraf, Königsberg und Ostpreußen zu Anfang 1813.
+                    Ein Tagebuch vom 1. Januar bis 25. Februar 1813, hrsg. von Maximilian Schultze,
+                    Berlin 1901 (Bausteine zur preußischen Geschichte, 1, 2). - <quote>Beiträge zur
+                        Geschichte des Jahres 1813, die Bildung der Landwehr in den Provinzen Ost-
+                        und Westpreußen und Litauen betreffend</quote> auch in: Militär-Wochenblatt.
+                    Unabhängige Zeitschrift für die deutsche Wehrmacht, 18. Jg., Nr. 883, 25. Mai
+                    1833, Bl. 4934 ff. und Nr. 884, 1. Juni 1833, Bl. 4939 ff.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, Montag den 22. Februar 1813</dateline>
+					          <salute>Meine Landsleute!</salute>
+                </opener>
+				        <p>
+               <seg type="comment">
+                  <seg type="comment">
+                     <orig>Der hochherzige Held des Vaterlandes, unser
+                                General-Gouverneur von <persName key="ed_f2c_1mp_vcb">Yorck</persName>, hat mich zu dem schönen Beruf erwählt, die
+                                würdigen Söhne Preußens unter das Panier des Vaterlandes zu sammeln,
+                                sie zu einem National-Kavallerie-Regiment zu bilden und sie zu
+                                führen unter Gottes Schutz zu Kampf und Sieg, für König und
+                                Vaterland, für Ehre und Nationalfreiheit, für alles, was dem
+                                Menschen das Heiligste ist. </orig>
+                     <note xml:id="nicp_hnd_ycb">Die
+                                offizielle Bekanntmachung der Übertragung der Organisation des
+                                Regiments an Graf von Lehndorff erfolgte am 12. Februar 1813, vgl.
+                                Amtsblatt der Königlichen Regierung zu Gumbinnen 1813, S. 105
+                                f.</note>
+                  </seg>
+               </seg>
+            </p>
+            <p>Aus dem, denen hier versammelt gewesenen Repräsentanten der Nation vorgelegten Plan des
+                    Stellvertreters unseres <persName key="ed_tl1_nbf_4y">Königs</persName>, des
+                    Herrn General-Lieutenant von <persName key="ed_f2c_1mp_vcb">Yorck</persName>
+                    lege ich Euch die Grundzüge vor, welche derselbe zur <seg type="comment">
+                  <orig>Bildung dieses National-Korps </orig>
+                  <note xml:id="nnkl_dlm_2cb">Als Generalgouverneur der Provinz hatte <persName key="ed_f2c_1mp_vcb">Yorck </persName> am 30. Dezember 1812 die Konvention von
+                                <placeName key="ed_k13_kxp_vcb">Tauroggen</placeName> ausgehandelt.
+                            Als russische Truppen am 5. Januar 1813 in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> einrückten, wurden sie
+                            (anders als im Siebenjährigen Krieg) als Befreier begrüßt. Dem sollte
+                            ein politischer Frontwechsel folgen. Als (gezwungene) Verbündete der
+                            Franzosen wollten die Preußen zu den Russen wechseln, in deren Diensten
+                            bereits Freiherr vom <persName key="ed_hcy_qpp_vcb">Stein</persName> als
+                            Kommissar stand. Nachdem Yorck die Aufstellung des Ostpreußischen
+                            National-Kavallerie-Regiments befohlen hatte, rief <persName key="ed_kv3_vsz_wy">Ludwig Graf zu Dohna</persName> die ost- und
+                            westpreußischen Landstände zusammen. Die 64 Delegierten kamen am 5.
+                            Februar 1813 in die Ostpreußische Generallandschaftsdirektion. Zwei Tage
+                            später wurde die von <persName key="ed_nwb_xxp_vcb">Clausewitz</persName>, <persName key="ed_kv3_vsz_wy">Dohna</persName> und <persName key="ed_f2c_1mp_vcb">Yorck</persName> aufgestellte Landwehrordnung vom Landtag
+                            einstimmig angenommen. Ab März 1813 stellte Karl Alexander von <persName key="ed_rg1_ktp_vcb">Bardeleben</persName> 19 Landwehr-Bataillone, 3
+                            Landwehr-Kavallerie-Regimenter, 4 Landwehr-Feldbatterien und 2
+                            Landwehr-Train-Bataillone mit 20.000 Mann auf. Die drei in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> aufgestellten
+                            Landwehr-Bataillone wurden zum Königsberger Landwehr-Regiment formiert.
+                            Das Königsberger Regiment kämpfte in den Schlachten bei Großbeeren und
+                            Dennewitz, nahm an der Völkerschlacht bei <placeName key="ed_flc_kyf_hy">Leipzig</placeName> teil und erstürmte am 19. Oktober 1813 das
+                            Grimmaische Tor, wodurch die Verteidigung Leipzigs zusammenbrach. Alle
+                            anderen ostpreußischen Einheiten bildeten die Landwehr-Division unter
+                            Graf Ludwig zu <persName key="ed_kv3_vsz_wy">Dohna</persName>, die an
+                            der Belagerung von <placeName key="ed_uyl_j3c_gy">Danzig</placeName>
+                            teilnahm. Von ihren etwa 9.000 Mann fielen 2.500 oder starben an
+                            Krankheiten. Sie sollte die einzige Division der deutschen Geschichte
+                            bleiben, in der alle Offiziere gewählt wurden. Als einzige Provinz
+                            stellte Ostpreußen Landwehr-Artillerie und Landwehr-Train-Formationen
+                            auf. - <seg type="comment">
+                        <note xml:id="nw3p_1md_ycb">In späteren
+                                    Jahren schrieb Theodor von Schön über diese Idee: <quote>Ein
+                                        Gutsbesitzer, der früher Militär gewesen war, fasste den
+                                        Entschluss, aus Freiwilligen, welche sich selbst
+                                        equipierten, ein National-Kavallerie-Regiment zu errichten.
+                                        Mehrere seiner Freunde stellten ihm vor, dass neben den
+                                        Scharnhorstschen Freiwilligen und neben der Landwehr sein
+                                        Vorhaben nicht gelingen könne. Er baute aber fest drauf, ein
+                                        Regiment von ausschließlich Preußen aus dem gebildeten
+                                        Stande errichten zu können, und der brave Mann, fortwährend
+                                        an nichts denkend, als an sein National-Kavallerie-Regiment,
+                                        und unbedingt nichts wollend, als die Errichtung dieses
+                                        Regiments, obgleich ihm selbst keine Geldmittel dazu zu
+                                        Gebote standen, führte sein Vorhaben brillant aus.</quote>
+                                    Aus den Papieren des Ministers und Burggrafen von Marienburg
+                                    Theodor von Schön, Bd. 6, Berlin 1883, S. 59.</note>
+                     </seg>
+                        </note>
+                    </seg>festgesetzt hat. Hoch wünscht er es zu stellen, gewiss werden wir seine
+                    Absicht erfüllen. Durchdrungen von diesem hohen Beruf trete ich zum ersten Mal
+                    unter Euch, meine Brüder, und fordere Euch auf zur heiligen Pflicht, die eines
+                    jeden Preußen Brust erfüllt. Gott selbst hat den Völkern ein Zeichen gegeben,
+                    vertrauensvoll folgen wir seinem Wink. Zur Errettung des Vaterlandes werden wir
+                    fechten! Dieser Gedanke erfülle stets unserer Krieger Brust und stärke unseren
+                    Arm. Im heiligen Kampfe sei unser Losungswort: </p>
+            <p>Gut und Blut für König und Vaterland!</p>
+				        <closer>
+                    <salute> </salute>
+                    <signed>Graf Lehndorff <lb/>Major der Kavallerie</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

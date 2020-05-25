@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_ifb_l4r_bbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vollmacht. Steinort, 9. Juni 1824</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_ifb_l4r_bbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">Die Lehndorffschen <orgName key="ed_ltz_hdr_gbb">Patrimonialgerichts-Protokolle</orgName> waren nach Auflösung der
+                    Patrimonialgerichtsbarkeit zum 2. Januar 1849 in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> verblieben, vgl. APO, Bestand 382 FA Lehndorff, Nr.
+                    544 (30 Protokolle aus <placeName key="ed_h35_jqh_my">Drengfurth</placeName>,
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, 1723-1743, 1752-1792), Nr.
+                    545-549 (Einzelfälle, 1734-1836). An das <orgName key="ed_ard_2kg_my">Königsberger Archiv</orgName> abgegebene Patrimonialgerichtsakten (alte
+                    Rep. 38e), z. B. der Familie <persName key="ed_swg_hdl_wcb">Dohna</persName> auf
+                        <placeName key="ed_z3s_whp_tdb">Karwinden</placeName>, waren Einzelfälle, so
+                    die Stellungnahme des Staatsarchive gegenüber dem Senatspräsidenten des
+                    Fideikommiss- und des Zivilsenats des Kammergerichtszur Frage der Sicherung der
+                    Fideikommiss-Archive, in: GStA PK, I. HA, Rep. 178, Nr. 1048, n. f. (31. Oktober
+                    1938). </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 74, Bl. 1-1v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1824-06-09" cert="high"/>
+                
+              
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <opener>
+                    <dateline> </dateline>
+                    <salute>Verhandelt beim <orgName key="ed_ltz_hdr_gbb">Patrimonialgericht</orgName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, den 9. Juni 1824.</salute>
+                </opener>
+				     <p>Vor dem unterschriebenen Patrimonialrichter erschien der persönlich und als dispositionsfähig
+                bekannte hiesige Guts- und Gerichtsherr Herr Generalmajor Reichsgraf <persName key="ed_k4z_jgl_2y">Friedrich Ludwig Carl von Lehndorff</persName> und gab
+                folgende Vollmacht zum gerichtlichen Rezess. </p>
+         <p>Bei seiner Abwesenheit in seinen Dienstverhältnissen habe er den Herrn
+                Feuersozietäts-Kassen-Rendanten <persName key="ed_afr_tvf_2y">Carl Leopold
+                    Werner</persName> aus <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> zu
+                seinem <seg type="comment">
+               <orig>Bevollmächtigten</orig>
+               <note xml:id="nn2j_5tp_1fb">
+                  <persName key="ed_afr_tvf_2y">Carl Leopold Werner</persName> war
+                        Landsteuersozietäts-Kassen-Rendant. Er stammte aus Bischdorf und war erst
+                        1816 in Angerburg eingebürgert worden. 1817 wurde er Stadtverordneter. Er
+                        starb 1835. Dessen Korrespondenzakten für die Jahre 1817-1819 in: LASA, StA
+                        L, Bestand 21950 FA Lehndorff, Nr. 388 (1817-1819) und APO, Bestand 382 FA
+                        Lehndorff, Nr. 109 (1830-1834.</note>
+            </seg> erwählt und beauftrage zufolge
+                denselben, alle die <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und
+                    <placeName key="ed_ugy_1pg_hy">Rehsauschen</placeName> Güter betreffende
+                Angelegenheiten in seinem Namen gültig zu besorgen, vorzüglich Kontrakte aller Art
+                abzuschließen, Grundstücke in den Gütern von denen eigentümlichen Besitzern zu
+                akquirieren oder in der Subhastation zu erstehen, die Abrechnungen mit denen Käufern
+                der genannten Güter zu halten, die Administrationsrechnungen zu revidieren und nach
+                Befund der Richtigkeit zu dechargieren, insoweit, wie besonderer Auftrag dazu von
+                dem Herrn Komparenten erfolgt, imgleichen in allen Domanial- und polizeilichen
+                    Angelegenheiten<seg type="comment">
+               <orig>
+                        <gap reason="illegible"/>
+               </orig>
+               <note xml:id="nl5g_gc2_p2b">unleserlich; im
+                        Sinne von Prokura</note>
+            </seg> wahrzunehmen, Vergleiche zu schließen und
+                Entsagungen gültig zu erklären. </p>
+         <p>Alles dasjenige, was nun der Bevollmächtigte vermöge dieses Auftrages bereits getan oder noch tun
+                werde, genehmige derselbe hiermit und in Kraft dieser Vollmacht, verpflichte sich
+                auch, den Bevollmächtigten wegen gehabter barer Auslagen und Kosten überall zu
+                entschädigen. </p>
+         <p>Herr Komparent trägt an: Diese Vollmacht dem Herrn Rendanten <persName key="ed_afr_tvf_2y">Werner</persName> zu seiner Legitimation auf den gehörigen Stempel urkundlich
+                auszufertigen, und unterschrieb auf eigene Durchlesung diese Erklärung eigenhändig. </p>
+				     <closer>
+                    <salute> </salute>
+                    <signed>Graf Lehndorff <lb/>Königlich Preußischer Generalmajor <lb/>
+                    <lb/>a. a. s. <lb/>
+               <persName key="ed_gjf_4j2_b2b">Horn</persName>
+                    <gap reason="illegible"/>
+                    <lb/>Jurist</signed>
+                </closer>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_m2s_f2b_kz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Testament. Steinort, 26. Juli 1780</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_m2s_f2b_kz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="editorial"> Inventarverzeichnisse und das Legat für Landkeim und
+                    Laserkeim (Nachlassregulierung für <persName key="ed_q4s_xyl_2y">Maria Louisa
+                        von Lehndorff</persName>, geb. von Wallenrodt) in: LASA, StA L, Bestand
+                    21950 FA Lehndorff, Nr. 329 (1776-1797). Die Spezifikation der zu den
+                    Landkeimschen Gütern laut Übergabe-Rezess gehörenden Erbuntertanen dagegen in:
+                    APO, Bestand 382 FA Lehndorff, Nr. 198. - Der Erbvergleich über das Vermögen des
+                    1811 verstorbenen Grafen <persName key="ed_csb_mdf_cy">Lehndorff</persName>, in:
+                    StA L, Bestand 21950 FA Lehndorff, Nr. 333 (1813, 1862). Nachlasssachen auch in:
+                    GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 10 und 12
+                    (Erbteilungsverhandlungen, Eheverträge, Bestandsaufnahme der Güter) .</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 330, Bl. 1-2v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1780-07-26" cert="high"/>
+                
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                
+                <p>Ich verlange und setze dieses als mein Testament fest, dass nach meinem Ableben
+                derjenige von meinen Söhnen, so <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                erhält, alle Mobilia, so sich alsdann im Steinortschen Haus und in denen anderen
+                Häusern, so zu denen Steinortschen Gütern gehören, finden, unentgeltlich voraus
+                haben soll. Nur einzig und allein Silber und Juwelen müssen geteilt werden. </p>
+         <p>Es versteht
+                    sich von selbsten, dass diese Mobilia bei dem Hause bleiben müssen und nicht
+                    veräußert werden, und verlange ich auch, dass derjenige von meinen Söhnen, so
+                    Steinort und also die Mobilia erhält, dieselbe Einrichtung für die zukünftigen
+                    Besitzer von Steinort beobachten soll. </p>
+         <p>Er zahlt dafür an jeden von seinen
+                        <seg type="comment">
+               <orig>Brüdern</orig>
+               <note xml:id="nxgc_yqs_gbb">1819
+                            erklärte Heinrich von Lehndorff seine Schulden gegenüber seinen
+                            Geschwistern im Erbfall, in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr.
+                            301.</note>
+            </seg> oder Schwestern, jedoch nicht mehr als sie mündig sind
+                    und ohne Interesse, fünfhundert Reichstaler in alsdann laufender Münze. Seine
+                    Schwestern und Brüder nehmen aus der ganzen Masse der Mobilien ein jeder 12
+                    Gedecke, Tischzeug und zwölf Bettbezüge nebst einem aufgemachten Bette ein
+                    jeder. </p>
+                <p>Meine innigst geliebteste Frau nimmt aus dem Silber für dreitausend Reichstaler
+                welche Stücke sie haben will zum Voraus, weilen ich für dreitausend Reichstaler
+                Silber von ihrem Gelde gekauft und es ihr in Rechnung gebracht. Ich rate auch meiner
+                lieben Frauen, sich an ihr eingebrachtes, in 105.000 Rtlr. bestehendes Kapital zu
+                halten, und das übrige meinen Kindern zu überlassen, weilen sie sonsten in viele
+                Verlegenheit kommen würden und die Güter sich nicht erhalten könnten. Es versteht
+                sich aber von selbsten, dass, wenn sie Belieben findet, in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu wohnen, sie so lange, als sie nicht
+                zur zweiten Ehe schreitet, daselbst alle Mobilia gebrauchen kann. Deswegen ich sie
+                vorzüglich nicht will veräußert wissen. </p>
+         <p>Das <placeName key="ed_xrv_gwb_by">Berlinische</placeName> Haus mit allen Mobilien soll meiner
+                würdigen Frauen, der Amalia, geborene Gräfin <persName key="ed_gnc_c1m_2y">Schmettau</persName>, eigen sein, welches gemäß unseren Ehepakten ist, darinnen
+                ich ihr versprach, mein damaliges Vermögen ihr nach meinem Tode zu lassen, und ich
+                versichern kann, dass <seg type="comment">
+               <orig>mein damaliges Vermögen weiter
+                        nichts als das Haus mit den darauf haftenden 9.000 Rtlr. Schulden und meine
+                        Mobilien wahren,</orig>
+               <note xml:id="nrvj_tqs_gbb">Vgl. LASA, StA L, Bestand
+                        21950 FA Lehndorff, Nr. 295 und 297. Nach dem Vermögensstand 1800 waren
+                            <quote>die Steinortschen Güter, soviel ich weiß, ohne Schuld</quote>,
+                        ebenso die Häuser in Berlin und in Königsberg. An Kapitalien besaß Lehndorff
+                        6.000 Rtlr. aus Hypotheken in Litauen und 5.800 Rtlr. aus Pfandbriefen in
+                        der Landschaft, dazu kamen Bankobligationen in Höhe von 28.900 Rtlr.,
+                        Seehandlungsobligationen (1.000 Rtlr.), Obligationen Breslauer Banken (1.000
+                        Rtlr.) und diverse Wechsel privater Personen. Allein bares Geld war wenig
+                        vorhanden, er verweist aber in seiner Aufstellung auf verschiedene
+                        Münzbeutel und eine mit Brillanten besetzte Tabatiere mit <quote>altem
+                            Gelde</quote> - möglicherweise Teil der späteren Münzsammlung, ebd., Nr.
+                        300, Bl. 1-1v. Siehe auch: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                        Lehndorff-Steinort, Nr. 779 zur Verwaltung der Kapitaleinkünfte (1707, 1779,
+                        1787).</note>
+            </seg> denn was ich jetzt besitze, habe ich <seg type="comment">
+               <orig>erstlich anno 1775 von meiner Mutter geerbt.</orig>
+               <note xml:id="nu12_th1_hbb">Maria Luisa von Lehndorff, geb. von Wallenrodt war
+                        1775 verstorben. Nach dem beim Tod ihres Ehemannes am 30. November 1731
+                        aufgestellten Inventarverzeichnis war Steinort 165.971 Fl. wert, die
+                        Schulden betrugen jedoch 158.652 Fl., es verblieben 7.319 Fl., die auf die
+                        sechs gräflichen Kinder zu verteilen waren, ebd., Nr. 320. Nach dem
+                        Erbteilungsrezess vom 1. Dezember 1777, ebd., Nr. 13, bestand die
+                            <quote>Massa haereditaria </quote> in 108.480 Rtlr., 70 Gr. und 4 1/2 D.
+                        Nach Abzug der Passiva in Höhe von 32.798 Rtlr., 24 Gr., 10 1/2 D. blieben
+                        75.682 Rtlr., 35 Gr., 12 D die auf die Erben - Lehndorff, seine Schwestern
+                        Podewils und Schlieben sowie seine Nichte Schlieben zu verteilen waren,
+                        wobei jeder einen Anteil von 18.920 Rtlr., 53 Gr. und 16 1/2 D. zu erhalten
+                        hatte. Da Lehndorff Steinort und Pristanien <quote>als Lehn</quote> erhielt,
+                        hatte er die übrigen Erben zu entschädigen. </note>
+            </seg>
+            </p>
+         <p>
+            <seg type="comment">
+               <orig>Alle Mobilia im <placeName key="ed_ysw_qr1_dy">Königsbergschen</placeName> Haus kommen zur Teilung oder können mit dem
+                        Haus, welches zur Teilung kommt, verkauft werden, </orig>
+               <note xml:id="nj5b_lxq_r2b">Vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                        Lehndorff-Steinort, Nr. 128 und 130. Lehndorff hatte das Haus nach dem Tod
+                        der Mutter in der Erbteilung für den Wert von 5.000 Rtlr. angenommen. Es
+                        wurde später an den Königsberger Kaufmann Johann Georg Siericke
+                        veräußert.</note>
+                </seg>das einzige <seg type="comment">
+               <orig>
+                  <orgName key="ed_qzw_l1z_ny">Familienporträt</orgName>, von <persName key="ed_cpg_3vz_g1b">Tischbein</persName> gemalt,</orig>
+               <note xml:id="nmvh_stx_kfb">Siehe
+                        hierzu  Heck, Kilian, Lehndorff en famille. Johann Heinrich Wilhelm
+                        Tischbein und sein Familienbildnis des Kammerherren Ernst Ahasverus Graf von
+                        Lehndorff-Steinort, in: Badstübner-Kizik, Camilla/Kizig, Edmund (Hrsg.),
+                        Entdecken – Erforschen – Bewahren. Beiträge zur Kunstgeschichte und
+                        Denkmalpflege. Festgabe für Sibylle Badstübner-Gröger zum 12. Oktober 2015,
+                        Berlin 2016, S. 32–41. Das Bild war während Lehndorffs Aufenthalt in Berlin
+                        entstanden, wo sich auch Tischbein 1778/79 aufhielt, vgl. Mikulski,
+                        Korespondencja, Bd. 1, S. 371 f. (Brief vom 31. Oktober 1779). </note>
+            </seg>
+                welches eisern bei der Familie bleibt und nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gebracht wird.</p>
+            <p>
+                Steinort, den 26. Juli 1780</p>
+                <p>Ahasverus Heinrich <lb/>Graf von Lehndorff</p>
+            
+            
+            
+                <p>Die <placeName key="ed_enz_4vz_g1b">Landkeimschen</placeName> Güter nebst allem,
+                was dazu gehört, wenn meine Frau sie nicht für 40.000 Rtlr. behalten will, können
+                verkauft werden, jedoch also, dass der darauf haftende <seg type="comment">
+               <orig>Fideikommiss</orig>
+               <note xml:id="nosz_zjn_2cb">Einrichtung des Erb-
+                        und Sachenrechts, wonach durch Stiftung das Vermögen einer Familie, meist
+                        Grundbesitz, auf ewig geschlossen erhalten werden sollte und immer nur ein
+                        Familienmitglied allein, der Fideikommissbesitzer, das Nießbrauchrecht inne
+                        hat. Bei einer Revision der im Steinorter Archiv vorhanden Dokumente wird
+                        unter <quote>Inventarium Nr. 2</quote> in den 1850er oder 1860er Jahren als
+                        Nummer 22 das <quote>Projekt eines Steinortschen Fideikommisses de
+                            1780</quote> genannt, in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                        Lehndorff-Steinort (unverzeichnetes Material). - Lehndorff hatte Landkeim
+                        und Laserkeim nach dem Tod seiner Mutter für 380.000 Rtlr. (nach
+                        Versteigerung) am 3. März 1777 käuflich erworben, ebd., Nr. 13. n. f. 1799
+                        trat sein Sohn Carl Friedrich Ludwig dem Vater eine Forderung aus dem
+                        großmütterlichen Erbe in Höhe von 10.000 Talern ab, ebd., Nr. 307. -Zu den
+                        Hypothekenangelegenheiten und der Veräußerung von Laserkeim nach dem Tod des
+                        Grafen: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 129. -
+                    </note>
+            </seg> von 20.000 Reichstalern als erste Hypotheque darauf stehen bleibt,
+                oder so anderswo platziert wird, das die <seg type="comment">
+               <orig>
+                  <persName key="ed_cpm_33y_ydb">Schlieben</persName>
+               </orig>
+               <note xml:id="nvmm_dv5_scb">Karl Leopold Graf von Schlieben war mit der Marie
+                        Eleonore Gräfin von Lehndorff, der Schwester von Ahasverus Heinrich Graf von
+                        Lehndorff, verheiratet. </note>
+            </seg> es nicht in Händen bekommen, bis mein
+                Sohn <persName key="ed_k4z_jgl_2y">Carl</persName> mündig selbsten darin
+                entscheidet.</p>
+            
+            <p>Steinort, den 26. Juli 1780</p>
+            <p>Ahasverus Heinrich <lb/>Graf von Lehndorff <lb/>
+         </p>
+            
+                <p>Sollte mein ältester Sohn <persName key="ed_k4z_jgl_2y">Carl</persName>, wie es
+                am schicklichsten wäre, die Güter annehmen, so könnte das <placeName key="ed_enz_4vz_g1b">Landkeimsche</placeName>
+                <rs type="term" key="ed_vjn_brd_gy">Fideikommiss</rs>, in 20.000 Rtlr. bestehend,
+                auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gebracht werden, um dadurch
+                desto leichter die Auseinandersetzung zu befördern, und will ich einmal für allemal
+                festsetzen, dass die Steinortischen Güter mit allem dazu gehörigen, wie auch die
+                    <placeName key="ed_h35_jqh_my">Drengfurther Heide</placeName> in der
+                brüderlichen Auseinandersetzung niemals höher als 160.000 Reichstaler geschätzt
+                werden können. Ich kann aus der Erfahrung bezeugen, dass diese Güter nicht höher
+                können geschätzt werden. Dieses ist mein wohlbedächtiger letzter Wille.</p>
+                <p>Steinort, den 26. Juli 1780</p>
+            
+            <signed>Ahasverus Heinrich <lb/>Graf von Lehndorff <lb/>
+         </signed>
+        </body>
+    </text>
+</TEI>

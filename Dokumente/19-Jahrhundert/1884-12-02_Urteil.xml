@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_oxz_yfz_pcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gerichtsurteil. 2. Dezember 1884</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_oxz_yfz_pcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Der Akte liegt der Auseinandersetzungsrezess vom 22. Mai 1885, einschl. der
+                        tabellarischen Zusammenstellung der abzulösenden Leistungen, zwischen der
+                        Kirchengemeinde <placeName key="ed_h35_jqh_my">Drengfurth</placeName> und
+                            <persName key="ed_ik3_ckz_2y">Graf Lehndorff</persName> bei. Demnach
+                        bestanden die Lieferungen an die polnische Pfarrstelle in Roggen, Hafer,
+                        Erbsen, Flachs, Heu und in der Entrichtung einer Geld- und Holzabgabe; an
+                        die Rektorstelle in Roggen, Gerste und Hafer; an die Kirche in Geldabgaben,
+                        die jährlich am 1. Oktober postnumerando zu zahlen waren. Die Realabgaben
+                        waren im Hypothekenbuch nicht verzeichnet. - Der Rezess betr. die Ablösung
+                        der auf dem Fideikommiss <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                        für die geistlichen Institute in <placeName key="ed_epz_y2c_gy">Engelstein</placeName> haftenden Realsteuern einschl.
+                        Ablösungsberechnung in: APO, Bestand 382 FA Lehndorff, Nr. 568 (1884/85),
+                        für die zu Steinort gehörigen Güter des Kirchspiels <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> ebd., Nr. 571 (1884),
+                        Abschrift des Rezesses mit Berechnung der Ablösungssumme in Nr. 572
+                        (1884/85).</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>EZA</institution>
+                        <idno>507/3242, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1884-12-02" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Im Namen des Königs</p>
+                <p>In Sachen betreffend die Ablösung der auf der Fideikommissherrschaft <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, Kreis Angerburg, haftenden
+                    Reallasten, insonderheit in Sachen der evangelischen Kirchengemeinde zu
+                        <placeName key="ed_h35_jqh_my">Drengfurth</placeName>, vertreten durch den
+                    Gemeindekirchenrat,</p>
+                <p>Klägerin</p>
+                <p>wider</p>
+                <p>den <persName key="ed_ik3_ckz_2y">Grafen von Lehndorff auf Steinort</persName>,
+                    vertreten durch den Oberinspektor <persName key="ed_f5b_5q1_h2b">Droz</persName>,</p>
+                <p>Beklagten,</p>
+                <p>hat die Königliche Generalkommission für die Provinzen Ost- und Westpreußen und
+                    Posen zu Bromberg in der Sitzung am 2. Dezember 1884, an welcher Teil genommen
+                    haben:</p>
+                <p>der Präsident Beutner, <lb/>der Regierungspräsident und Landesökonomie-Rat
+                    Kummer, <lb/>die Regierungsräte Kuthe, Knatz, Lüdemann, Thomas, Kneuper, Perrin,
+                    Dr. Pelizaens, <lb/>der Ökonomie-Kommissions-Rat Picht, <lb/>der
+                    Regierungsassessor Ramkoff, <lb/>der Gerichtsassessor Stobbe,<lb/>
+            </p>
+                <p>in Erwägung,<list>
+                        <item>1. <seg type="comment">
+                        <orig>dass der Beklagte unterm 27. Dezember
+                                    1883 auf Ablösung der auf seiner Herrschaft Steinort und den
+                                    dazu gehörigen Gütern für die Kirchen, Schulen etc. haftenden
+                                    Reallasten provoziert hat</orig>
+                        <note xml:id="nazb_tfs_kfb">Siehe das Dokument vom <ref target="lehndorff_pzk_h5l_2cb">27.
+                                        Dezember 1883</ref>.</note>
+                     </seg>;</item>
+                        <item>2. <seg type="comment">
+                        <orig>zu den hiernach Berechtigten auch die
+                                    katholischen Institute zu Drengfurth, und zwar die Kirche, die
+                                    polnische Pfarrstelle und die Rektorstelle gehören;</orig>
+                        <note xml:id="np1d_s4v_xcb">APO, Bestand 382 FA Lehndorff, Nr. 540:
+                                    Rezess betr. die Ablösung der auf dem Fideikommiss Steinort,
+                                    Krs. Angerburg für die geistlichen Institute in Drengfurth
+                                    haftenden Reallasten (1885).</note>
+                     </seg>
+                  </item>
+                        <item>3. der Verpflichtete außer anderen Abgaben auch aus den Steinorter
+                            Forsten alljährlich 23 und 16 Kubikmeter weiches Klobenholz an die
+                            polnische Pfarrstelle zu Drengfurth und zwar <hi rendition="#u">mit
+                                Anfuhr</hi> zu leisten hat;</item>
+                        <item>4. die Parteien die kommissarische Abblösungsberechnung vom 29. Mai
+                            1884 mit alleiniger Ausnahme der daselbst ausgenommenen Entschädigung
+                            für die Anfuhr des Holzes als richtig und zutreffend anerkannt
+                            haben;</item>
+                        <item>5. gegen letztere Berechnung, nach welcher eine Entfernung von 2 1/2
+                            Meilen zugrunde gelegt ist, aber von dem Beklagten protestiert ist, weil
+                            die durchschnittliche Entfernung der Gräflich Lehndorffschen Forsten,
+                            aus welchen die Lieferung und Anfuhr des Holzes für die polnische
+                            Pfarrstelle zu bewirken, nur auf eine Weile anzunehmen sei, was
+                            klägerischerseits auch zugestanden und daher bei der Berechnung der
+                            Entschädigung auch nur diese Entfernung, und zwar gemäß der
+                            kommissarischen Berechnung mit 90 Pf. pro Kubikmeter zugrunde gelegt
+                            werden dürfe;</item>
+                        <item>6. demgegenüber aber Klägerin behauptet hat, dass die Entfernung der
+                            nächsten Königlichen Forst, aus welcher demnächst der Ankauf des Holzes
+                            für die berechtigte Kirche zu besorgen sein würde, für die Berechnung
+                            der Anfuhr entscheidend sei;</item>
+                        <item>7. diese Entfernung aber, worüber die Parteien einig sind, auf drei
+                            Meilen anzunehmen ist: <lb/>8. in weiterer Erwägung, dass bei der
+                            Berechnung des Preises für die Holzanfuhr nur der Zustand resp. die
+                            Verhältnisse zugrunde gelegt werden können, welche mit der Ablösung
+                            aufhören, nicht dagegen diejenigen, welche event. künftig stattfinden
+                            sollen, weil anderenfalls die qu. Reallast, welche trotz Umwandlung und
+                            Übernahme durch die Rentenbank immer als solche in gleichem Umfange
+                            bestehen bleibt, ihrer <hi rendition="#u">Natur</hi> nach und nicht nur
+                                <hi rendition="#u">der Art der Leistun</hi>g nach, was allein durch
+                            das Reallasten-Ablösungsgesetz bezweckt ist, geändert würde (Striethorst
+                            Archiv 95 Seite 149) demnach die klägerische Behauptung hinfällig ist,
+                            und die Entfernung, welche bisher für die Naturalleistung maßgebend war,
+                            auch für die Ablösungsberechnung maßgebend bleiben muss; <lb/>endlich
+                            hinsichtlich des Kostenpunktes § 87 der Zivilprozessordnung in
+                            Verbindung mit § 1 des Gesetzes vom 18. Februar 1880  </item>
+                    </list>
+            </p>
+                <p>für Recht erkannt:</p>
+                <p>
+                    <list>
+                        <item>1. der Ablösungsberechnung bezüglich der Entschädigung für die
+                            Holzanfuhr ist die Entfernung der Gräflich Lehndorffschen Forsten von
+                            der polnischen Pfarrstelle und zwar in einer Ausdehnung von einer Meile
+                            zugrunde zu legen.</item>
+                        <item>2. die Kosten des Rechtsstreits fallen der Klägerin zur Last.</item>
+                    </list>
+                </p>
+                <p>
+               <hi rendition="#u">Von rechts Wegen</hi>.</p>
+                <p>Urkundlich unter Beidrückung unseres größeren Siegels und der verordneten
+                    Unterschrift ausgefertigt.</p>
+                <p>Königliche Generalkommission für die Provinzen Ost- und Westpreußen und Posen</p>
+                <p>[Unterschrift]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

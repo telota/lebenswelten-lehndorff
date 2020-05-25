@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_gnw_vgn_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cuno Graf von Hahn an Anna Gräfin von Lehndorff. 9. September 1870</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_gnw_vgn_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 401, Bl. 21</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_vkr_zvw_c2b">Hahn, Cuno Graf von (1832-1885)</persName>
+                    <date when="1870-09-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>
+               <persName key="ed_vkr_zvw_c2b">Cuno Graf von Hahn</persName> und <persName key="ed_enz_yk5_22b">Editha Gräfin von Wartensleben</persName> hatten 1857
+                    geheiratet. Pastorin <persName key="ed_wjt_k15_gfb">Rische</persName>, die in
+                    enger Verbindung zu den Hahns und zu <persName key="ed_tcp_g3l_2y">Pauline von
+                        Lehndorff</persName> stand, schrieb: <quote>Wie die Schlippenbachs zu dieser
+                        Verbindung stehen, ist mir nicht klar. Exzellenz schien die letzten Male,
+                        als ich sie sah, sehr gedrückt zu sein.</quote> Der <quote>alte Graf</quote>
+                    sei sehr glücklich und habe Schmuck für die Braut ausgesucht, vgl. GStA PK, XX.
+                    HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 52 (7. Dezember 1857).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/401/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>9. September 1870</dateline>
+					          <salute>Meine liebe Anna!</salute>
+                </opener>
+				        <p>Du wirst wohl erfahren haben, dass auch wir, wie einige andere unserer Landsleute, hier in
+                        <placeName key="ed_yps_bwn_my">Basedow</placeName> ein Lazarett errichtet
+                    und dazu das Torhaus für 20 Verwundete, welche wir jeden Augenblick erwarten,
+                    eingerichtet haben. Da ich nun vom Fürsten <persName key="ed_ttg_4k5_22b">Pless</persName> durch unseren Landesdelegierten, General von <persName key="ed_jhs_sk5_22b">Zülow</persName>, zum Direktor dieses Lazaretts
+                    beordert bin, so habe ich reichlich zu tun; darum mein Schweigen bis heute. Auch
+                    hatte <seg type="comment">
+                  <orig>
+                     <persName key="ed_enz_yk5_22b">Editha</persName>
+                  </orig>
+                  <note xml:id="ngw3_msn_2db">geb. Gräfin
+                            Wartensleben, Schwägerin Anna von Lehndorffs; deren Briefe in: APO,
+                            Bestand 382 FA Lehndorff, Nr. 405 (1861-1892).</note>
+               </seg> beim
+                    Einrichten so viel zu tun, und ist sie auch seit einiger Zeit so angegriffen,
+                    dass sie nicht schreiben kann.</p>
+                <p>Nun habe ich aber heute, Freitag früh, 1 Stunde Zeit; da will ich eben suchen, so
+                    gut es ich kann, Dir Deinen letzten Brief zu beantworten. Vorher aber danke ich
+                    Dir noch recht herzlich für Deinen lieben Brief zum 26. mit den aufrichtigen
+                    Glücks- und Segenswünschen für mich, so wie auch für dein trefflich gelungenes
+                    Bild. Bitten tue ich Dich aber noch um die Bilder Deiner Kinder, die ich bis
+                    jetzt nur <seg type="comment">
+                  <orig>en miniature auf einem Bilde mit
+                            Dir</orig>
+                  <note xml:id="nn4y_q3b_jlb">
+                     <ref target="https://digilib.bbaw.de/digitallibrary/digilib.html?fn=silo10/lehndorff/bilder/portraets/6_Anna_Gr%C3%A4fin_von_Lehndorff_geb_Gr%C3%A4fin_von_Hahn.jpg">Carl E. von Lorck, (Hrsg.), Die Schröttersche Chronik aus
+                                Wohnsdorf, hrsg. unter Mitwirkung von Johann Georg von Rappard,
+                                Limburg/Lahn 1969</ref>.</note>
+               </seg> zusammen besitze, und möchte
+                    sie doch gern einzeln haben. <gap reason="insignificant"/>
+            </p>
+                <p>Wir danken Dir auch recht herzlich, dass Du uns <persName key="ed_zkm_whl_2y">Carls</persName> Brief hast übersenden lassen. Es hat uns ungemein
+                    interessiert, als wir ihn lasen, er schildert alles so genau. Gott gebe nur,
+                    dass er nach dem Kriege wohl, frisch und gesund zu Dir und Deinen Kindern
+                    zurückkehren möge.</p>
+                <p>
+               <note type="editorial">
+                  <note type="editorial">Er sei recht gesund, konnte aber
+                            nicht nach <placeName key="ed_z3x_3l5_22b">Helgoland</placeName> fahren,
+                            wo er sonst immer seine Rückenschmerzen kuriert habe. </note>
+               </note>
+            </p>
+                <p>Der Verwundete <persName key="ed_upc_pl5_22b">Graf Wartensleben</persName> ist
+                    mein dritter Schwager Alfred, der beim ersten Garde-Regiment stand. Der
+                    Beinknochen über dem Knöchel ist zerschmettert, so dass ich fürchte, dass eine
+                    Amputation unvermeidlich. Sollte das aber nicht sein und er kann transportiert
+                    werden, so reise ich nach <placeName key="ed_tjp_yh5_2z">Frankfurt</placeName>
+                    und hole ihn ab hierher.</p>
+                <p>
+               <gap reason="insignificant"/>
+            </p>
+				        <closer>
+					          <salute>Bitte grüße von mir alle Deine Gäste freundlich und behalte lieb Deine Dich treu und
+                        innig liebenden Geschwister!</salute>
+					          <signed>Cuno und Editha</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

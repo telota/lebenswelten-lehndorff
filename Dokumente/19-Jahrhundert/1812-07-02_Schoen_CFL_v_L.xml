@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_rxn_qpd_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Theodor von Schön an Carl Friedrich Ludwig Graf von Lehndorff. Gumbinnen, 2. Juli 1812</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_rxn_qpd_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 279 f. </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q1t_d2f_4y">Schön, Theodor von (1773-1856)</persName>
+                    <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>
+                    <date when="1812-07-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>Dass man in <placeName key="ed_xrv_gwb_by">Berlin</placeName> die von
+                        <persName key="ed_q1t_d2f_4y">Schön</persName> geschilderte Lage <placeName key="ed_uvt_4j4_dz">Ostpreußens</placeName> nicht richtig einschätzte, zeigt
+                    die Kabinettsordre <persName key="ed_tl1_nbf_4y">Friedrich Wilhelms
+                        III.</persName> vom 14. Juli 1812 (ebd., S. 280), die sich als Abschrift
+                    unter Lehndorffs Papieren befindet. Der König schreibt: <quote>Ich vertraue der
+                        Regierung, dass sie <gap reason="insignificant"/> dem Elende und der Not, so
+                        weit irgend ihre Mittel reichen, entgegenarbeitet und darin nicht ermüden
+                        werde, und hoffe von günstigeren Umständen und einem ruhigeren Zustand der
+                        Dinge die Mittel, wodurch die Prärogativen, von welchen die Provinz vor
+                        anderen betroffen ist, ausgeglichen werden können. <gap reason="insignificant"/> Übrigens wird die Zahl der der Provinz
+                        genommenen Pferde auf Vierzigtausend angegeben; sie ist so exzessiv, dass
+                        wohl ein Schreibfehler dabei zum Grunde zu liegen scheint, und Ich will
+                        daher hierüber bestimmtere Anzeige erwarten. </quote> - Tatsächlich handelte
+                    es sich sogar um 104.710 Pferde, die die preußischen Provinzen östlich der
+                    Weichsel 1812/13 für militärische Zwecke hatte bereitstellen müssen.
+                    (Militärwochenblatt 1846, Beihefte Januar bis inkl. Oktober 1846, S. 117).
+                    Minister <persName key="ed_qv5_zdq_mbb">Alexander Graf zu Dohna</persName>
+                    berichtete am 29. Oktober 1813, den Provinzen <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> und <placeName key="ed_z15_pdp_tcb">Litauen</placeName> würden gegenüber den Vorjahren 71.851 Pferde, 76.847
+                    Ochsen, 114.175 Kühe, 245.985 Schafe fehlen.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gumbinnen, 2. Juli 12</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>Noch ist das Elend nicht zu Ende, aber was ich besonders fürchte ist der Unglaube in
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> an unseren Verlust. Ich
+                    habe alles aufs treuste geschildert, aber dies kommt in Hände von Männern, die
+                    kein Interesse dafür, im Gegenteil das haben, alles schön zu finden, ich habe es
+                    als ganz unmöglich geschildert, jetzt nur die Vermögenssteuer auszuschreiben,
+                    habe im Gegenteil dringend verlangt, dass um den ewigen Requisitionen der
+                    nachziehenden Truppen und Depots zu genügen, aufs schleunigste alles Geld, was
+                    die anderen Provinzen nur irgend zusammenbringen können, dieser leidenden
+                    Schwester geschickt werde. Präsident v. <persName key="ed_bl2_lpk_wcb">Schimmelpfennig</persName> war eben hier und will im Namen des<placeName key="ed_rdg_jkc_gy"> Insterburgischen Kreises</placeName> mit vielen
+                    mehreren Gutsbesitzern die Lage des Landes unmittelbar dem <persName key="ed_tl1_nbf_4y">Könige</persName> vorstellen. <seg type="comment">
+                  <orig>Tun Sie, lieber Graf! doch für <placeName key="ed_y1h_tpk_wcb">Masuren</placeName> ein Gleiches. Wir sind ja freie Untertanen und
+                            müssen alles daran setzen, damit er weiß, er wirklich selbst erfährt,
+                            wie es uns geht. Schildern Sie nur die Wahrheit, sie ist grässlich
+                            genug.</orig>
+                  <note xml:id="nppj_nsd_wcb">Nach Schultze kam Lehndorff
+                            Schöns Aufforderung nach. Die Immediatvorstellung ist nicht überliefert.
+                            Lehndorff war deshalb persönlich am 22. Juli 1812 in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>, auch ein Schreiben Schöns
+                            an Lehndorff vom 27. Juli nimmt darauf Bezug. Generaladjutant von
+                                <persName key="ed_prs_vpk_wcb">Köckritz</persName> bestätigte
+                            Lehndorff den Eingang, er habe die Immediatvorstellung dem König nach
+                                <placeName key="ed_f43_1qk_wcb">Teplitz</placeName> geschickt:
+                                <quote>Gebe Gott, dass die Umstände es dem Monarchen gestatten
+                                mögen, sich der dortigen Gegend in der nachgesuchten Art willfährig
+                                zu bezeigen!</quote>, vgl. ebd., S. 281 f. </note>
+               </seg> Jeder wird
+                    dies mit unterschreiben, die Treue gegen den König bezeichne jede Zeile, aber
+                    auch jedes Wort drücke das Elend aus, in dem wir sind, und das uns noch
+                    bevorsteht. Verlieren Sie keine Zeit. Die Sache ist höchst wichtig.</p>
+				        <closer>
+					          <salute>Gott erhalte Sie wohl!</salute>
+					          <signed>S.</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

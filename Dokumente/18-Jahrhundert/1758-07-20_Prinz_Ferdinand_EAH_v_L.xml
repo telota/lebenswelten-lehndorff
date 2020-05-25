@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_snp_qrm_cz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Vor Königgrätz, 20. Juli 1758</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_snp_qrm_cz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>Kategorie: Beziehungen zum preußischen Hof </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750–1804), in: Masovia 11 (1906), S. 118-154, hier S.
+                            132-134</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <placeName key="ed_sqc_vrm_cz">Königgrätz</placeName>
+                    <date when="1758-07-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lager vor Königgrätz, 20. Juli 1758</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Ich bin Ihnen von Herzen dankbar, lieber Graf, für
+                    den Anteil, den Sie an dem lebhaften Schmerz nehmen, welchen mir der <seg type="comment">
+                  <orig>Tod meines <persName key="ed_q12_pqy_bz">Bruders</persName>, des Prinzen von Preußen</orig>
+                  <note xml:id="nlx2_5sm_cz">Er war am 12. Juni 1758 verstorben, vgl. Giebel,
+                            Tagebücher, S. 426 ff.</note>
+               </seg>, verursacht. Sie entwerfen in Ihrem
+                    Briefe eine ausgezeichnete Charakteristik der guten, ausgezeichneten und
+                    seltenen Eigenschaften, die er besaß. Weshalb muss ein Mann von so gutem
+                    Charakter seine Tage im blühendsten Alter enden? Ich finde darin, ich gestehe
+                    es, eine Art Ungerechtigkeit. Ich bedaure diesen lieben Bruder, ich beweine
+                    seinen Tod und bin untröstlich über diesen großen Verlust. Die Stelle Ihres
+                    Briefes, in der Sie berichten, dass mein Bruder zu Ihnen <seg type="comment">
+                  <orig>am Tage seiner Abreise</orig>
+                  <note xml:id="ncjn_btm_cz">in
+                            Dresden am 2. August 1757</note>
+               </seg> nach <placeName key="ed_oyr_ysm_cz">Oranienburg</placeName> sagte: „Das war des Ferdinand
+                    seine Kommission, mich einzuschläfern‟, und die Freude, die, wie Sie schreiben,
+                    meine Briefe ihm bereitet haben, alles das hat mich einen Strom von Tränen
+                    vergießen lassen. Indem ich diesen Bruder verliere, verliere ich alles Teuerste,
+                    was ich besaß; ich gestehe, dass ich mich an die Idee nicht gewöhnen kann, dass
+                    er nicht mehr ist, sie erscheint mir schrecklich, und alles, was die Vernunft
+                    mir sagen kann, reicht nicht aus, um mir als Trost zu dienen. Ich werde die
+                    Leere nicht los, die mich unaufhörlich an die guten und glücklichen Zeiten
+                    erinnert, die ich mit diesem lieben und wahrhaft verehrungswürdigen Bruder
+                    verbracht habe. Dahin für mich jede Freude, jede Befriedigung, denn die größte,
+                    die ich hatte, sie ist dahin. Es wird bald ein Jahr her sein, seit ich ihn zum
+                    letzten Male sah, es war <seg type="comment">
+                  <orig>am 2. August, </orig>
+                  <note xml:id="nv14_gvm_cz">1757. August Wilhelm hatte sich nach der
+                            Katastrophe zunächst nach Dresden begeben.</note>
+               </seg> als das
+                    Armeekorps des Marschalls <persName key="ed_bsz_bvm_cz">Keith</persName>, bei
+                    dem ich mich befand, durch <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+                    zog, um sich nach der <placeName key="ed_bcj_kvm_cz">Lausitz</placeName> zu
+                    begeben. Sie können sich nicht vorstellen, wie sehr er mich an jenem Tage mit
+                    Freundschaft und Zärtlichkeit überhäufte; er schien mit aller denkbaren
+                    Festigkeit den Kummer zu ertragen, der ihn niederdrückte und dem ich seinen Tod
+                    zuschreibe. Ich hatte noch die Freude bei ihm zu bleiben, bis er zu Bett
+                    gegangen und eingeschlafen war; ach, wer hätte gesagt, dass ich ihn verließ, um
+                    ihn niemals wiederzusehen! Kurz, ich kann Sie wahrheitsgemäß versichern, dass
+                    ich mich nicht entsinne, während meines ganzen Lebens einen heftigeren,
+                    empfindlicheren Kummer gehabt zu haben; ich werde dem Gedächtnis meines Bruders,
+                    den ich geliebt, verehrt und geachtet habe, dauernd ein <seg type="comment">
+                  <orig>trauerndes Angedenken</orig>
+                  <note xml:id="ncml_zrm_scb"> Anfang
+                            der 1790er Jahre errichtete der Prinz auf einem Hügel am Grienericksee
+                            gegenüber von Schloss Rheinsberg einen Obelisk zu Ehren seines Bruders.
+                            Die Vorderfront trägt ein Reliefporträt des Prinzen und die Inschrift: À
+                            L'ÉTERNELLE MÉMOIRE D'AUGUSTE WILHELM PRINCE DE PRUSSE, SECOND FILS DU
+                            ROI FRÉDÉRIC GUILLAUME. Zu dessen feierlicher Einweihung vgl. das
+                            Dokument vom <ref target="lehndorff_ek3_kwj_dbb">13. Juni 1792</ref>.
+                        </note>
+               </seg> bewahren. </p>
+            <p>Die Einzelheiten, die Sie mir über Ihre Ankunft in <placeName key="ed_oyr_ysm_cz">Oranienburg</placeName> berichten, der traurige und schreckliche Anblick,
+                    den Sie gehabt haben, werden Sie erschreckt und Ihren Schmerz vermehrt haben.
+                    Ich war erschüttert, als ich all dies erfuhr, umso mehr, als ich nicht ahnte,
+                    dass ein so kostbares Leben in Gefahr wäre. Am 18. Juni kam ein Feldjäger im
+                    Generalquartier <placeName key="ed_vkn_3my_bz">Schmirsitz</placeName> an, in dem
+                    Augenblicke, wo der <persName key="ed_x2r_52f_cy">König</persName> sich von der
+                    Tafel erhoben hatte; ich fragte ihn, von wo er käme, aber ohne etwas zu erwidern
+                    brachte er dem König seine Briefe, der sogleich hinausging, um sein Pferd zu
+                    besteigen; ich sehe ein schwarzes Siegel und wie nun eine lange Unterhaltung mit
+                    dem Feldjäger beginnt; als der König fort geritten war, fragte ich den Jäger,
+                    was er gebracht hätte, da übergab er mir den Brief <seg type="comment">
+                  <orig>meiner Schwester</orig>
+                  <note xml:id="nxyd_jl4_dz">wahrscheinlich
+                            der Markgräfin Sophie Dorothea von <persName key="ed_e1j_nl4_dz">Schwedt</persName>
+                  </note>
+               </seg> Denken Sie sich meinen Kummer,
+                    meine Niedergeschlagenheit und Traurigkeit, als ich diese traurige,
+                    schreckliche, unerwartete Nachricht erhielt! Die Generale mussten den König
+                    begleiten, um mehr aus der Nähe die Bildung des Terrains zu erkennen, aber ich
+                    besaß nicht die Kraft dazu, und ich begab mich in mein Quartier, um meinem
+                    Schmerz freien Lauf zu lassen. Weshalb muss ich aufgespart werden, um ein so
+                    großes Unglück zu überleben? Ich finde darin, das gestehe ich, eine Art
+                    Ungerechtigkeit!</p>
+                <closer rend="paragraph">
+                    <salute>Leben Sie wohl, lieber Graf, seien Sie überzeugt, dass Sie immer in mir
+                        einen ganz aufrichtigen Freund finden werden und fahren Sie fort, mir von
+                        Ihnen Nachricht zu geben.</salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

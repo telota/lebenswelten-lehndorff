@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_sw5_cqm_cz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Ruppin, 30. April 1754</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_sw5_cqm_cz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750-1804), in: Masovia 11 (1906), S. 118-154, hier S. 127
+                            f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <placeName key="ed_uxr_bxq_bz">Ruppin</placeName>
+                    <date when="1754-04-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Ruppin, 30. April 1754</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Der Graf von <persName key="ed_xcs_sqm_cz">Schaffgotsch</persName> ist
+                    soeben abgereist, ich habe mich bemüht, gegen ihn recht höflich zu sein, weiß
+                    aber nicht, ob es mir gelungen ist. Sie würden mir ein Vergnügen machen, wenn
+                    Sie mir darüber schrieben, aber mit jener Offenheit, die Ihrer Natur entspricht,
+                    und ohne die geringste Schmeichelei. </p>
+            <p>Ich bin oft in <seg type="comment">
+                  <orig>
+                     <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName>
+                  </orig>
+                  <note xml:id="ncqq_zqm_cz">bei Prinz
+                            Heinrich</note>
+               </seg> gewesen, habe dort die <seg type="comment">
+                  <orig>neuen Gebäude</orig>
+                  <note xml:id="ny2b_hll_scb">Zu den Umbauten
+                            in Rheinsberg: Bentzien, Hans, Nur in Rheinsberg bin ich glücklich
+                            gewesen. Kronprinz Friedrich in Küstrin, Ruppin und Rheinsberg,
+                            Berlin/Bonn 2001. </note>
+               </seg> gesehen <gap reason="insignificant"/>;
+                    ich lese viel, gehe in meinem Garten spazieren und fühle mich sehr glücklich,
+                    weil ich ein ruhiges Leben führen kann. <gap reason="insignificant"/> Übermorgen
+                    reise ich nach <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> ab, ich habe
+                        <seg type="comment">
+                  <orig>ihn</orig>
+                  <note xml:id="nxdy_1rm_cz">den
+                            König</note>
+               </seg> darum gebeten, um Exerzieren zusehen, denke aber,
+                    mich dort nur ein oder zwei Tage aufzuhalten.</p>
+                <closer rend="paragraph">
+                    <salute>Addio, caro amico</salute>
+                    <signed>Ferdinand</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>Seien Sie überzeugt, dass ich Sie mit jener Ungeduld erwarten werde, die Ihnen
+                    bekannt ist.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

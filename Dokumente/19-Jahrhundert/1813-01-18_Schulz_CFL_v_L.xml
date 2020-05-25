@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_n5n_csj_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Regierungsrat Schulz an Carl Friedrich Ludwig Graf von Lehndorff. Memel, 18. Januar 1813</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_n5n_csj_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+              
+                        <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 20, n. f. (mit Anlage)</idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 330 f.</bibl>
+                    </witness>
+                </listWit>
+                   
+                       
+                    
+                  
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yy1_cyl_5y">Schulz, (-Memel, 2.2.1813)</persName>
+                    <placeName key="ed_oxb_txl_5y">Memel</placeName>
+                    <date when="1813-01-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Memel, den 18. Januar 1813</dateline>
+                </opener>
+				        <p>Was ich an <persName key="ed_icj_rqp_vcb">Gisevius</persName> geschrieben, zeigt Ihnen die
+                        <seg type="comment">
+                  <orig>Anlage</orig>
+                  <note xml:id="ni4t_ysj_wcb">Ebd., S.
+                            331 f. Hierin versicherte er <persName key="ed_icj_rqp_vcb">Gisevius</persName>, dass <persName key="ed_f2c_1mp_vcb">Yorck</persName> auf <placeName key="ed_y1h_tpk_wcb">Masuren</placeName> rechnen könne. Außer den Krümpern und
+                            Kantonisten, die zum Yorckschen Korps eingezogen werden, könne man noch
+                            2-3.000 Mann in 14 Tagen in Masuren zusammenbringen. Für den südlichen
+                            Teil sollen <persName key="ed_vkb_2rk_wcb">Stenzler</persName> oder
+                                <persName key="ed_nly_hpk_gbb">Bergau</persName> wirken, für den
+                            Norden <persName key="ed_k4z_jgl_2y">Lehndorff</persName>. <quote>Die
+                                Hydra ist noch nicht tot. Die Zeit und das mildere Wetter wird die
+                                Wiedererzeugung von Köpfen befördern, die Russen allein werden
+                                Preußen nicht wiederherstellen, werden Deutschland bis zum Rhein
+                                nicht befreien. Es ist unsere Sache, aufs wirksamste
+                                zusammenzutreten und jeder Augenblick wiegt Millionen. Mit Yorcks
+                                Sinken und Fallen sinkt und fällt sehr viel.</quote>
+                  </note>
+               </seg>.
+                    Sie, lieber Freund, gehen gleich nach <placeName key="ed_jng_zqk_wcb">Angerapp</placeName>, bei <persName key="ed_dlv_cjv_mbb">Farenheid</persName> finden Sie ebenfalls einen Brief von mir vor. Was und
+                    wie p. v. <persName key="ed_q1t_d2f_4y">Schön</persName> in diesem Augenblicke
+                    die Sache treibt, weiß ich nicht genau. Seine und jedes Preußen Richtung kann
+                    jetzt nur eine sein, ich halte mich zunächst an <persName key="ed_f2c_1mp_vcb">Yorck</persName>, an den mich p. v. Schön und der Wille Gottes gewiesen
+                    hat. p. Yorck denkt sehr hoch von Ihnen, durch Gottes Hilfe wird er in kurzem
+                    noch höher von Ihnen denken. Sind Sie Militär und Preuße genug, so stellen Sie
+                    sich an die Spitze. Sie passen dazu mehr als tausend andere, und dem Gutsherrn
+                    von <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, dem Jugendfreund
+                    unseres <persName key="ed_tl1_nbf_4y">Königs</persName>, dem deutschen Ritter
+                    folgt im Kampfe für die deutsche Sache eine größere Anzahl Krieger, als einem
+                    anderen simplen Militär. Die Jugend verleitet mich nicht, einen Trumpf auf das
+                    Gedeihen aller dieser Bemühungen zu setzen, es ist nur Gott und die gute Sache,
+                    die ich um Erfolg bitten kann, und stündlich bitte. Für den Augenblick bleibe
+                    ich hier und wirke für p. Yorck</p>
+				        <closer>
+                    <signed>Schulz <lb/>Reg. Rat</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

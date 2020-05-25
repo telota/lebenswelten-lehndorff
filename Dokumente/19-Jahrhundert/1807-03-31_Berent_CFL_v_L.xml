@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ots_tqv_vcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich August Berent an Carl Friedrich Ludwig Graf von Lehndorff.
+                    Steinort, 31. März  bis 19. September 1807</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ots_tqv_vcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 199-206</bibl> 
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date from="1807-03-31" to="1807-09-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+                <note>
+               <quote>Brief No. 4</quote> vom 7. Februar 1807 als Antwort auf Lehndorffs
+                    Brief vom 15. Januar 1807 in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                    Lehndorff-Steinort, Nr. 865. - Der Friede von <placeName key="ed_olw_h3d_py">Tilsit</placeName> wurde am 9. Juli 1807 unterzeichnet. In einem Brief an
+                    seine <persName key="ed_gnc_c1m_2y">Mutter</persName> vom 1. Oktober 1807 (ebd.,
+                    S. 207-210) schildert Lehndorff die Situation so: <quote>Un malheureux ordre de
+                        l'Empereur au corps d'armée, qui a passé ici, de se fournir en route les
+                        moyen de subsistance pour tout l'hiver en Pologne, nous a coûté au delà de
+                        700 pièces de bétail, en tout genre, chevaux, bœufs, vaches, etc. non compté
+                        les grains, fourrages, voitures, toile, outils de toute espèce, et tout cela
+                        pris avec un désordre, qui rend le dommage plus grand.</quote> [„Eine
+                    unglückliche Ordre des Kaisers an das Armeekorps, die hier erlassen wurde, sich
+                    unterwegs mit Lebensmitteln für den ganzen Winter in Polen einzudecken, hat uns
+                    mehr als 700 Stück Vieh aller Art, Pferde, Ochsen, Kühe etc. gekostet, nicht
+                    gezählt das Getreide, das Viehfutter, die Wagen, Tuch, Werkzeuge aller Art, und
+                    alles wurde in einer Unordnung genommen, die den Schaden noch größer macht.”
+                    Übersetzung: Dorothea Wagner, BBAW] - Zu dem, was geschlachtet, verbacken,
+                    verzehrt, müsse sie das rechnen, was den Russen geliefert und was nicht bezahlt
+                    ist und wohl nie bezahlt werden wird, und das, was der eigenen Armee geliefert
+                    und auch nicht bezahlt ist, dazu der Verlust des Inventars von <placeName key="ed_xjg_d12_gy">Stobben</placeName>, das von den Franzosen völlig
+                    ausgeraubt worden ist. Da die Felder nicht bestellt, Wiesen abgehütet, Sachen
+                    verdorben, Bauern geplündert seien, werde der <quote>nachteilige
+                        Einfluss</quote> auf Jahre hinweg zu spüren sein, wenn <quote>nicht
+                        ungesäumt eine sehr aktive Hilfe und Mühe angewendet wird</quote>. <persName key="ed_yx5_cbg_nbb">Berent</persName> sei exzellent, aber zu zaghaft.
+                        <quote>Zwar benutzt der träge Bauer diese Verhältnisse, das nicht zu tun,
+                        was er auch allenfalls noch mit Anstrengung tun könnte, und die Arbeit, die
+                        ihm obliegt, und die er immer schon schlecht tat, unterbleibt ganz. Die
+                        Pächter, welche alles verloren, benutzen zwar und mit einigem Recht diese
+                        Gründe, um Einwendungen gegen ihren Kontrakt zu machen. Ein unseliger Geist
+                        des Freiheitsschwindels, den uns die Franzosen zurückgelassen, manifestiert
+                        sich unter allen, auch unter den untersten Klassen, und wird wie gewöhnlich
+                        bei unkultivierten Leuten zur Unterlassung ihrer Pflichten benutzt. Dies ist
+                        die natürliche Folge der mir so verhassten Bauernwirtschaft und
+                        Untertänigkeit, die auf die Länge sich unmöglich soutenieren kann. Ich habe
+                        darüber notwendige Pläne, die ich Ihnen mündlich explizieren und zu deren
+                        Ausführung wir <persName key="ed_lpv_jjp_tcb">Schrötter</persName> brauchen
+                        werden. Doch muss man erst handeln dürfen und wirklich Ruhe im Land
+                        sein.</quote> Zu allen Beschwernissen kam noch die Beschaffung der
+                    Kriegssteuern (2.580 Rtlr.), für die in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> Kapitalien zu 6 und 8 Prozent Zinsen aufgenommen
+                    werden mussten, vgl. ebd., S. 211 f. - Siehe auch: GStA PK, XX. HA, Rep, 2 I,
+                    Tit. 37 Nr. 10 2 Bde. sowie Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 670:
+                    Aufstellung der vom französischen Militär durch Requisition verursachten Schäden
+                    auf den Lehndorffschen Gütern und Vorwerken (1807) und Nr. 567: Grundsätzliche
+                    Entwürfe zur Verpachtung der Güter 1815-1830. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>31. März 1807</p>
+                <p>Wir sind wieder hart mit Einquartierungen und Transportfuhren mitgenommen. In
+                        <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> und <placeName key="ed_nkz_b12_gy">Stawken</placeName> haben wir wieder 4.000 russische
+                    Jäger zur Einquartierung, in <placeName key="ed_xpm_112_gy">Labab</placeName>
+                    100 Kosaken gehabt. Vielen Bauern mangelt alles Brot. Gestern erfuhr ich, dass
+                    16.000 Mann wieder im Anmarsch hierher begriffen sind. In <placeName key="ed_rdg_jkc_gy">Insterburg</placeName> und <placeName key="ed_exy_rfk_wcb">Goldap</placeName> werden ungeheure russische Magazine
+                    angelegt und leider durch Landesfuhren der Armee zugeführt, was den Landmann
+                    ganz ruinieren wird, da der üble Weg und Mangel an Futter dem größten Teil der
+                    Pferde die letzten Kräfte nehmen und die Saatbestellung verhindern wird. Wir
+                    müssen wieder eine zweimonatliche Lieferung leisten, hier zum Glück nach
+                        <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, wo ich vielleicht das
+                    Getreide an Ort und Stelle kaufen kann, unerachtet der Hafer 2 Rtlr., das Mehl 6
+                    Rtlr. der Scheffel kosten und 2 Tlr. der Zentner Heu. Da unser Roggen nur
+                    leicht, musste ich 5/4 Scheffel zu 1 Scheffel Mehl maganzinmäßiges Gewicht
+                    geben, um keinen Schikanen ausgesetzt zu sein.</p>
+                <p>10. April 1807</p>
+                <p>Vor einigen Tagen erschien ein Befehl vom Landrat, alles zu leisten und zu
+                    gestellen, was von den Behörden (deren wir jetzt sehr viele haben) requiriert
+                    werden wird, und wenn auch allen Pferden und Gütern dadurch der gänzlich
+                    Untergang zugezogen würde. Die Aushebungen der Kantonisten schwächen auch an
+                    Menschen, und habe schon 3 Gestellungen zu 5, 6 und 7 Mann befolgt, und muss am
+                    17. abermals 9 Mann stellen, worunter der Schäfer und 2 Hofknechte.</p>
+                <p>21. April 1807</p>
+                <p>Der Not in den Gütern bin ich nicht im Stande abzuhelfen. Bei der traurigen
+                    Witterung fehlt es an Futter. Wir werden mit Fuhren und Einquartierungen so
+                    überhäuft, dass kein Bauernpferd mehr gehen kann und die höfischen Pferde bald
+                    ebenso weit sind. Das größte Übel aber ist die russische Fouragierung. Den 18.
+                    19. und 20. habe ich sie in den Gütern gehabt, den 19. noch gelbe Husaren in
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, die 50 Scheffel Hafer
+                    und 6 Zentner Heu nahmen. Gestern und vorgestern waren 40 Mann und Offiziere
+                    Kürasserie von <placeName key="ed_ynm_2zv_scb">Rössel</placeName> und nahmen von
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName> 52 Sch. Hafer, 22 Sch.
+                    Gerste, 3 Zentner Heu und hier 100 Sch. Hafer und 15 Ztn. Heu mit. Ich habe die
+                    Lieferungen gekauft und hier erspart, wo ich konnte, und nun nimmt man mir Saat
+                    und Futter weg, lässt das Vieh verhungern und die Äcker unbesät, und dazu muss
+                    ich die Fourage bei den üblen Wegen bis <placeName key="ed_ynm_2zv_scb">Rössel</placeName> fahren. Sie hatten aus <placeName key="ed_xzt_112_gy">Stawisken</placeName> und <placeName key="ed_xpm_112_gy">Labab</placeName>
+                    auch alles genommen, indessen stehen da die russischen Dragoner einquartiert. 13
+                    Bauernhöfe sind schon ledig und dieses nun in der Zeit von 4 Wochen
+                    eingetreten.</p>
+                <p>25. April 1807</p>
+                <p>Die russische Kavallerie hat sich sämtlich in unsere Gegend zurückgezogen. Mangel
+                    an Magazinbeständen jeder Art zwingt sie zu foragieren, und so nehmen sie, wo
+                    sie was bekommen. Hat einmal einer ein mitleidiges Herz, so kommt ein anderer
+                    und verfährt wie ein Barbar. Sie sollen 4 Wochen hier stehen bleiben, dann
+                    bleibt in der ganzen Gegend keine Saat noch Brot mehr und sie werden genötigt
+                    sein, die Wintersaaten abzuhüten.</p>
+                <p>27. April 1807</p>
+                <p>Mit zitternder Hand und voll Empörung über unser Schicksal muss ich unsere
+                    traurige Lage melden. Die Russen haben sämtliches Heu und Hafer weggenommen.
+                    Pachtvieh und -pferde müssen ausgetrieben werden, um nicht Hungers zu sterben.
+                    Ich ließ von den Vorwerksspeichern, um gegen den Raub mich zu sichern, alles
+                    Getreide nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> bringen, und
+                    kaum war das geschehen, so kam ein Kürassier-Offizier mit 40 Pferden und
+                    besetzte Steinort und steht heute schon 11 Tage hier und habe ich ihm 400
+                    Scheffel Hafer gegeben, und da dieser jetzt alle ist, ließ er mit Gewalt 2
+                    Schildwachen vor den Speicher stehen, und das letze und 40 Sch. Gerste nehmen.
+                    Jetzt bekomme ich Befehl vom General, noch 500 Scheffel Gerste zu liefern, die
+                    ich zwar nicht habe, und ich muss ihn bitten, einige Scheffel Erbsen herunter
+                    nehmen zu dürfen. <lb/>Kein Bauer hat mehr Saat und Brot, und ihre Pferde können
+                    nicht mehr gehen. Dabei haben wir doch fast alle Tage noch neue Einquartierung.
+                    Die Menschen werden gemisshandelt, um gutes Essen zu geben, und dann kommen sie
+                    zu mir, und ich kann ihnen nicht helfen. Die Husaren und Towarzysz haben mir 15
+                    Wagen à 1 4 Pferde mit Heu und Hafer genommen, und heute ist der 6. Tag und noch
+                    ist keiner zurück. Die Einquartierung fortzuschaffen, muss ich sämtliche
+                    Vorwerkspferde, welche noch gehen konnten, geben. Sie hören in Kurzem aber auch
+                    auf, ihre Dienste zu tun, indem ich sie nicht mehr füttern kann, und an Säen ist
+                    nicht zu denken. Die Menschen schleichen ohne Bestimmung umher, alles bleibt
+                    liegen, alle Ordnung der Dinge hört auf und unser Elend ist wirklich groß. Ich
+                    erfuhr, dass der <seg type="comment">
+                  <orig>Großfürst</orig>
+                  <note xml:id="nvps_hvv_vcb">Großfürst <persName key="ed_ssb_lgk_wcb">Konstantin von Russland</persName>
+                  </note>
+               </seg> in <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName> und schickte zu <seg type="comment">
+                  <orig>
+                     <persName key="ed_yqf_pgk_wcb">Doene</persName>
+                  </orig>
+                  <note xml:id="nl1s_3vv_vcb">Doene war der
+                            Amtmann des Grafen Dönhoff in Dönhoffstädt.</note>
+               </seg> wegen einer
+                        <seg type="comment">
+                  <orig>Sauvegarde</orig>
+                  <note xml:id="nxdm_h2j_y2b">Schutzwache</note>
+               </seg>, bekam aber die Nachricht, dass es bei ihm
+                    ebenso ginge und an Sauvegarde nicht zu denken sei. Ich ritt nach <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> und bat den preußischen Leutnant,
+                    welcher mit einem Kommando Husaren dort steht, er schickte mir zum Schein 2
+                    Husaren, die richten aber nichts aus, und sagte zu mir, das Fouragieren sei von
+                    den Preußen-Oberen sanktioniert, wo sie kein Heu, Hafer und Gerste finden,
+                    könnten sie alles nehmen und darüber quittieren, und dies geschieht doch nur so,
+                    so. Wenn ich es schon woanders kaufen wollte, wer wird es holen, da kein Pferd
+                    mehr gehen kann. Eben erhalte ich die tröstliche Nachricht, dass Exzellenz für
+                    die Bauern Saatgetreide senden, aber keiner der Bauern ist im Stande, es 4-5
+                    Meilen weit abzuholen. Doch tue ich alles, um die Menschen zu retten, lange kann
+                    Gott unmöglich diese Vernichtung mehr gleichgültig mit ansehen, Hier in der
+                    Gegend gilt der Hafer 3 Tlr. und ist doch keiner zu haben.</p>
+                <p>5. Mai 1807</p>
+                <p>Ich habe noch immer das Kommando von den Kürassieren. Der Offizier reitet zwar
+                    manchmal weg, anderweitig zu fouragieren, lässt mir aber immer 12-20 Mann mit
+                    der Ausrede, um mich gegen andere Räubereien zu schützen. Allein was ist uns
+                    noch zu nehmen. Auf den Vorwerken bin ich ganz ausgeplündert, hier hat er mir
+                    500 Scheffel Hafer und 300 Scheffel Gerste genommen, und mit den Bauern sieht es
+                    ganz kläglich aus. Seit 14 Tagen haben wir auf allen Dörfern 4 mal
+                    Einquartierung gehabt. Mancher Ochse und Kuh ist verzehrt, Fuhren und
+                    Gestellungen nehmen kein Ende, und die Bauernpferde können nicht mehr gehen.
+                    Gestern trieb ein Kommando Husaren die letzten Pferde zusammen, um russische
+                    Naturalien zu der Arme zu führen. Die Fouragierer nahmen den Bauern die Saat vom
+                    Felde, samt Säcken, Pferden und Wagen, und viele, von denen man nicht weiß, wo
+                    sie hinkommen, kehren nicht zurück. Von sämtlichen Bauern hat nicht der 6. Teil
+                    sein Sommerfeld zugesät, und auf den Vorwerken wird wohl der 3. Teil liegen
+                    bleiben, sowie der größte Teil der Bauerngärten. Die Bauern wollen zum
+                    Teil,wenigstens die Hälfte ihrer Erde abgeben und als Knechte und Mägde
+                    auswandern. Brot habe ich ihnen lange nicht gegeben. Saat und Angespann für
+                    solche Menge bin ich außer Stande. Wie das im Winter werden soll, weiß Gott
+                    allein, ich weiß mir keinen Rat mehr und meine Nächte sind ohne Schlaf. Eben
+                    erhalte ich ein Circulaire, nach dem ich am 10. wieder 5 Kantonisten stellen und
+                    binnen 3 Tagen 3 große beschlagene Wagen bespannt nach <placeName key="ed_lfw_2fg_hy">Friedland</placeName> zum Train (das sind also die
+                    Pferde von 2 Vorwerken, indem höchstens 8 auf jedem stehen), senden soll.</p>
+                <p>15. Mai 1807</p>
+                <p>Mein Kommando Kürassiere bin ich Gottlob vor 4 Tagen endlich los geworden,
+                    nachdem der Offizier mir inklusive verfutterten Hafers 611 Scheffel Hafer und
+                    300 Scheffel Gerste genommen und doch am Ende wie ein schlechter Kerl
+                    quittierte, indem er nämlich mit der letzten Quittung zögerte und weg ritt, so
+                    dass ich <persName key="ed_uyq_v3k_wcb">Szeska</persName> nachschicken musste,
+                    die Quittung von seinem Chef abzuholen. Sein Regiment war aber vorgerückt, und
+                    er schickte mir dann eine richtige Quittung, aber nur über Hafer und nicht die
+                    Gerste.</p>
+                <p>20. Mai 1807</p>
+                <p>Unser Schicksal wird mit jedem Tag schlechter, und ich weiß mir keinen Rat mehr.
+                    Das Hin und Herziehen der russischen Truppen hat kein Ende. Die Straßen sind
+                    immer voll, die Bauern verlassen ihr Erbe, weil sie nichts unternehmen können.
+                    An den Straßen wird alles abgehütet und zerfahren. Keiner hat mehr Lust, etwas
+                    zu machen, fängt er heute an, die Gartenzäune aufzurichten, sind sie über Nacht
+                    wieder umgeworfen. Sie haben den Bauern das Saatgetreide, welches ich ihnen
+                    gegeben und sie in ihren Betten versteckt hatten, weggenommen, Wenn sie kommen,
+                    wird alles untersucht; was sie finden wird genommen. Vorgestern haben sie einige
+                    20 Wagen, worunter auch 4 von Vorwerken, genommen, und weiß Gott, wann sie
+                    wiederkommen. Vor 5 Tagen musste ich 34 Fuhren gestellen, die mir durch Husaren
+                    abgeholt wurden, wovon nur wenige erst zu Hause, die ihre Wagen im Stich
+                    gelassen und mit den Pferden sich in der Nacht weggestohlen haben. Der Pächter
+                    von <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> ließ mir gestern durch
+                    seinen Bruder sagen, dass er das Vorwerk verlassen will. Kein Bauer kann ihm
+                    mehr Dienste tun, kein Zaun im Garten und Feld kann gemacht werden, und kein
+                    Mensch will hin, weil die Russen wie Unmenschen verfahren, wenn sie nicht alles
+                    bekommen (weil nichts mehr vorhanden), was sie haben wollen. Ebenso die Bauern
+                    wollen alle fort, und es ist oft mit größter Mühe nicht möglich, einen Fuhrmann
+                    bei Gestellung der Wagen aufzutreiben. Sie verstecken sich im Walde, weil die
+                    Russen die Menschen zu sehr prügeln, wenn die Pferde ermüden, kurz, ich sehe gar
+                    nicht ab, wie die Menschen zu erhalten sein werden. Ich frage auch an, wie ich
+                    die Knechte und Mägde der eingegangenen Bauern entschädigen soll, da die Bauern
+                    ihnen nichts mehr geben konnten, und den Witwen, deren Männer Soldaten waren,
+                    gewiss schon 10-12 <gap reason="illegible"/>
+            </p>
+                <p>3. Juni 1807</p>
+                <p>Sonnabend, den Tag meiner Nachhausekunft, bekamen unsere Güter 330 Kosaken mit
+                    1.300 Pferden, teils Remonte, teils eigene. Sie hatten ein Kammerschreiben bei
+                    sich, nach dem jeder Quartierstand verpflichtet blieb, für ihre Beköstigung und
+                    Grasung zu sorgen. Was diese Pferde in 24 Stunden für Gras von den besten
+                    Wiesenstücken teils verzehrt, teils zertreten (denn auf schlechte Weide lassen
+                    sie sie nicht), ist unsagbar. Eine Eskadron Dragoner kam nach <placeName key="ed_xjg_d12_gy">Stobben</placeName> und rekognoszierte den Werder
+                        <placeName key="ed_h1w_jc2_gy">Upalten</placeName>. Da der Major dort gute
+                    Weide und wenig Mühe beim Hüten fand, ließ er seine Pferde mir nichts dir nichts
+                    heraufschwimmen und verloste die Dragoner nach <placeName key="ed_xjg_d12_gy">Stobben</placeName> und <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>. Er blieb in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> und schickte 2 Offiziere, seine Maßregel
+                    vorzustellen, und will die Weide bezahlen. Geht das so fort, dann ist es am
+                    besten, sobald das Vieh die Weide aufgefressen, es zu verkaufen. Die
+                    Fuhrengestellungen gehen immer fort. Gestern musste ich 18 und heute 13 Fuhren
+                    nach <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> zum Transport der
+                    russischen Naturalien an die Armee gestellen. Die Kommandos der Husaren und
+                    Dragoner haben gesten Ordre bekommen, sich nach <placeName key="ed_z15_pdp_tcb">Litauen</placeName> zurückzuziehen. </p>
+                <p>7. Juli 1807</p>
+                <p>Die Requisitionen sind ohne Ende, und man weiß am Ende selbst nicht, was man tun
+                    soll. Das 1. französische Carabiniere Regiment steht in <placeName key="ed_h35_jqh_my">Drengfurth</placeName>. An dessen Chef wandte ich mich,
+                    der gab mir eine Sauvegarde von 1 Wachtmeister und 4 Mann. Von Pferden sind 9
+                    Stücke von den Vorwerken und 6 Stück den Bauern durch die Polen gestohlen. Ich
+                    soll 412 Rtlr. bar, 150 Scheffel Roggen und 20 Scheffel Hafer, 10 Ochsen, 1.040
+                    Ellen Leinwand, einige Scheffel Graupen und Grütze, Branntwein und Leder
+                    liefern, sonst Geld dafür bezahlen. In <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> sind 10 Mann und 20 Pferde, die außerordentlich viel
+                    kosten, mein Klee in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ist
+                    wegfouragiert, und sollte ich so unglücklich sein, das Getreide in natura
+                    liefern zu müssen, dann weiß ich in der Welt nicht, was die Menschen machen
+                    werden. Hier in unserer Gegend ist für Geld weder Getreide, noch in den Städten
+                    Ware zu bekommen.</p>
+                <p>13. Juli 1807</p>
+                <p>Unsere Lage wird von Tag zu Tag kummervoller, und mein Kopf schwindelt von allen
+                    Requisitionen. Ich habe hier im <placeName key="ed_pxt_cnh_1y">Schloss</placeName> 1 Oberst von <persName key="ed_cks_tq4_vcb">Rouquette</persName> und 1 Oberstleutnant, 1 Wachtmeister, 7 Gemeine, 2
+                    Bediente, 15 Pferde; in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> 6
+                    Mann, in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> 19 Mann, in
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_xpm_112_gy">Labab</placeName> je 6 Mann, in <placeName key="ed_xjg_d12_gy">Stobben</placeName> 3 Mann. Was diese Menschen kosten,
+                    kann ich nicht beschreiben. 2 mal Kaffee, Bier, Branntwein, so viel sie trinken,
+                    fein Brot, Fleisch und Butter, so viel sie essen wollen. Zu unseren Offizieren
+                    kommen immer Freunde, und da muss alles in Hülle und Fülle sein. Wie ich es mit
+                    dem Wein und Arrak machen soll, weiß Gott am besten. In den kleinen Städten ist
+                    nichts zu bekommen, und das wollen die Herren nicht glauben. Dem Chef des
+                    Regiments musste ich die 2 besten Pferde mit Geschirr und der gelben Halbchaise
+                    geben. Die beiden Reitpferde des jungen Herrn Grafen sind weg, der Oberst nahm
+                    sie, 18 Scheffel Hafer, 6 Scheffel Roggen, all mein schöner Klee, einige Fuder
+                    Heu, sogar meine Pfeife mit Silberbeschlag nahm mir der Wachtmeister, der
+                    Sauvegarde musste ich Hosen, Hemden, Gamaschen und Halstücher geben, und wenn
+                    ihnen ein paar Stiefel entzwei ging, hieß es gleich: lass zurecht machen. Zum
+                    Marsch sind mir auch die Requisitionen vorgeschrieben, außer vielen Viktualien
+                    ein Korb mit Wein und Arrak, 1 Fässchen Branntwein, Wachslichte, 2 Pferde und
+                    Wagen. Bei all dem Wirrwarr ist der Ausblick trostlos, denn wie werden sich
+                    unsere Menschen ernähren? Die Polen haben aus Stadt <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> allein für 23.000 Taler Salz und
+                    für 11.000 Fl. Requisitionen genommen. Heute geht die Sauvegarde ab, morgen aber
+                    kommen 6 andere, die equipiert werden sollen.</p>
+                <p>21. Juli 1807</p>
+                <p>Am 15. verließen uns die französischen Gäste, nachdem sie sich mit allen nur
+                    möglichen Lebensmitteln von hier versehen hatten. Der Herr Oberst ließ 30
+                    Bouteillen Wein, 4 dito Arrak, Schinken, Butter, Hühner, sogar Rindfleisch, 24
+                        <seg type="comment">
+                  <orig>Stof</orig>
+                  <note xml:id="nb4y_5hk_wcb">1 Stof =
+                            1,145 l .</note>
+               </seg> Branntwein und viele andere Sachen auf den Weg
+                    mitgeben. Beim Abmarsch befahl er mir von meinem Pferde meinen Sattel, Zaum,
+                    Decke und Gurt mitzugeben. Diese Menschen, die wir 17 Tage gepflegt und die uns
+                    zuletzt das Blut unter den Nägeln ausgesogen, waren kaum weg, so fing der
+                    Rückmarsch vom 15. bis heute wieder an. <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName>,
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>, <placeName key="ed_s3k_b12_gy">Taberlack</placeName> haben schon 2 mal Einquartierung
+                    gehabt, und in großen Mengen Husaren, Dragoner und Infanterie gehabt. In
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> war der Divisionsgeneral
+                        <persName key="ed_tjw_j3k_wcb">Carrier</persName>, 1 Adjutant, 2 Offiziere,
+                    12 Mann Dragoner, 1 Wache, 1 Koch, 15 Bediente und 36 Pferde, die alsdann die
+                    letzten Vorräte verzehrten, teils wegnehmen ließen. Des anderen Tages regnete es
+                    sehr. Da musste ich mit der grünen Halbchaise und 4 Pferden ihn bis <placeName key="ed_m2f_zhk_wcb">Windheim</placeName> fahren lassen und außerdem ihm
+                    noch 10 Pferde geben, nachdem er schon vorher mir 3 edle Pferde genommen. In
+                        <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> sind 7 Ochsen und 2
+                    Kühe drauf gegangen, dem Pächter außerdem 7 Pferde und 1 Ochse. Aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName> sind 8 Pferde, aus <placeName key="ed_xjg_d12_gy">Stobben</placeName> 5, von jedem Vorwerk 3 fort
+                    genommen. Gestern sind 800 Mann hier durch nach <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> gegangen. Eben erhalte ich Ordre, 23 Wagen nach
+                        <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> zu stellen, weil noch
+                    eine Armee von 10.000 Mann hier durchgehen soll. Gott stehe uns bei, zu geben
+                    hat ein großer Teil nichts mehr. Nächstens stehen alle Dörfer leer!</p>
+                <p>23. Juli 1807</p>
+                <p>Die Russen, besonders die Kosaken nehmen den Bauern das letzte, ohne zu zahlen
+                    oder zu quittieren, wir haben ihren Besuch sehr häufig. <seg type="comment">
+                  <orig>Das russische Lazarett von wenigstens 3.000 Mann Kranke und
+                            Blessierte sind auch durch unsere Güter gefahren,</orig>
+                  <note xml:id="nxlp_5xb_wcb">Wahrscheinlich von den Schlachten bei <placeName key="ed_hdy_n3y_bcb">Heilsberg</placeName> am 10. und bei <placeName key="ed_lfw_2fg_hy">Friedland</placeName> am 14. Juni
+                        1807.</note>
+               </seg> blieben über Nacht, mussten gespeist und weitergefahren
+                    werden. Von dem nun einrückenden Siedmoretzkischen Korps haben <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> und <placeName key="ed_nkz_b12_gy">Stawken</placeName> 2 mal 4-500 Kosaken Einquartierung
+                    gehabt, beide Dörfer überhaupt 8 Einquartierungen. Die Fuhren nehmen kein Ende
+                    und Lieferungen werden immer aufs Neue ausgeschrieben und wie sollen die Bauern
+                    ihr Leben fristen! Das Amt <seg type="comment">
+                  <orig>Bischdorf</orig>
+                  <note xml:id="nfxr_y43_ycb">Bischwitz bei Strehlen?</note>
+               </seg> ist von den
+                    Franzosen abgebrannt mit Vieh und Pferden, soweit diese von ihnen nicht genommen
+                    sind, weil der Beamte Lebensmittel und Fourage nicht mehr leisten konnte und
+                    wollte.</p>
+                <p>30. August 1807</p>
+                <p>Habe ich im letzten Briefe nur das Vorspiel der Gräueltaten der Franzosen melden
+                    können, heute muss ich es leider mit empörter Wut tun, denn schändlicher und
+                    barbarischer könnten unmöglich die Araber in der Wüste gegen Menschen verfahren.
+                    Alle Auftritte und Gräuel, die sie hier in der Gegend verübt, sind nicht
+                    aufzuzählen. <lb/>Nach dem General <persName key="ed_tjw_j3k_wcb">Carrier</persName> habe ich einen holländischen General <persName key="ed_fs3_fjk_wcb">Duruy</persName>, 1 Eskadron Kürassiere und 7
+                    Offiziere, dann den Divisionsgeneral <persName key="ed_wcp_kjk_wcb">Lacour</persName> nebst 5 Offizieren und 1 Grenadier Kompagnie hier gehabt,
+                    die letzten 3 Tage lang. Durch die Güter zogen die Truppen vom Korps des
+                    Marschall <persName key="ed_rnr_mjk_wcb">Davoust</persName>, und sind die Güter
+                    6 Tage belegt gewesen zu 36 und 20 Mann in jedem Hause. Ehe ich noch solche 6
+                    Tage wieder erlebe, möchte ich 6 Klafter unter der Erde sein. Wenn die Menschen
+                    ihnen kein Bier, Branntwein und Brot geben konnten, misshandelten sie solche,
+                    plünderten sie, verwüsteten alles. Die Dörfer blieben fast leer. Alles floh in
+                    die Wälder. 200 Stück Vieh und 150 Pferde sind genommen, ohne das, was sie
+                    verzehrt haben. Auf dem Vorwerk <placeName key="ed_xjg_d12_gy">Stobben</placeName> wurde die ganze Pacht, alle Pferde, Ochsen, Schafe
+                    genommen, und bleiben nur 3 Bauernkühe; Instleute, Fischer, Kämmerer haben alle
+                    ihre Kühe verloren. In <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> 16
+                    Ochsen, 9 Pferde, 5 Kühe und <placeName key="ed_s3k_b12_gy">Taberlack</placeName> 10 Ochsen, 1 Pferd, 8 Stück Jungvieh. In <placeName key="ed_xzt_112_gy">Stawisken</placeName> 14 Pferde, 16 Ochsen, 6 Kühe und
+                        <placeName key="ed_xpm_112_gy">Labab</placeName> 8 Pferde, 8 Ochsen, 40
+                    Schafe. - Als der <persName key="ed_rnr_mjk_wcb">General</persName> hier
+                    wegging, nahm er Betten und Matratzen nebst einer Partie Bücher, den grünen
+                    Wagen, meine Flinte und 14 Pferde mit. Ich musste auf seinen Befehl alle
+                    Zimmern, Gewölbe und Keller öffnen lassen, er hat alles mit seinen Adjutanten
+                    durchsucht. Gott lasse doch Kindeskind solche Tage nicht wieder erleben! Mein
+                    Gott, was werde ich mit den armen Menschen anfangen! Mancher Bauer hat nichts
+                    behalten, kein Vieh, keinen Ochsen, keine Kuh und kein Brot.</p>
+                <p>15. September 1807</p>
+                <p>Unsere Lage ist noch immer sehr übel, indem die Krankheiten, Ruhr und
+                    Nervenfieber, noch immer fortwüten, viele Menschen sterben, und die Viehseuchen
+                    unter dem Vieh grassieren, dabei die Ernte schlecht. In <placeName key="ed_nkz_b12_gy">Stawken</placeName> sind 40 Stück gefallen, in
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> bis jetzt 24 Stück.
+                        <seg type="comment">
+                  <orig>Kumst</orig>
+                  <note xml:id="nmpj_dgj_y2b">Sauerkohl</note>
+               </seg>, Kohl und <seg type="comment">
+                  <orig>Wrucken</orig>
+                  <note xml:id="nxgx_2gj_y2b">Steckrüben</note>
+               </seg>
+                    sind von den Raupen verzehrt, und alles außerordentlich teuer. 1.400 Taler habe
+                    ich zur Komplettierung der Bauernpferde angewandt, und mein Vieh auf den
+                    Vorwerken verteilt, damit die Armen doch etwas Milch zur Nahrung haben.</p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dy3_ss2_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz August Wilhelm von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Um den 22. März 1757</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dy3_ss2_2z</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Volz, Gustav Berthold, Aus dem Briefwechsel des
+                            Prinzen von Preußen August Wilhelm mit dem Kammerherrn Graf Ernst
+                            Ahasverus Lehndorff, in: Masovia 9 (1903), S. 130-171, hier S.
+                            137-141</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q12_pqy_bz">Preußen, August Wilhelm Prinz von (-)</persName>
+                    <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+                    <date from="1757-03-20" to="1757-06-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_mdx_dk2_2z">11. Dezember 1756</ref>. - Die <ref target="https://de.wikipedia.org/wiki/Schlacht_bei_Prag">Schlacht bei Prag
+                    </ref>fand am 6. Mai 1757 statt und war die zweite Schlacht zwischen Preußen und
+                    Österreich im Siebenjährigen Krieg. Während <persName key="ed_nvx_wcz_bz">Prinz
+                        Heinrich</persName> sich in diesen Schlachten verdient machte, blieb
+                        <persName key="ed_q12_pqy_bz">August Wilhelm</persName> unfreiwillig
+                    Zuschauer des Kampfes. Er nahm am Schicksal der Toten und Verwundeten in seinen
+                    Briefen Anteil: <quote>Ich zolle den Berlinern meinen Beifall, dass sie für die
+                        Nachricht von der Niederlage der Feinde erkenntlich sind. Ich wünschte, dass
+                        weniger Familien in Trauer versetzt wären; aber das ist Kriegsschicksal. Die
+                        Verwundeten sind noch unglücklicher, denn sie leiden. Ich habe an diesem
+                        großen Ereignis keinen Anteil.</quote>
+            </note>
+            </correspDesc>
+            <abstract>
+                <p>Der Prinz berichtet Lehndorff in mehreren Briefen über den Kriegsverlauf und
+                    seine Besorgnisse, <seg type="comment">
+                  <orig>ebenso über das Wohlergehen von
+                            dessen Bruder, dem preußischen Hauptmann <persName key="ed_kyf_fpy_bz">Gerhard Ernst von Lehndorff</persName>.</orig>
+                  <note xml:id="nhhn_gdk_hkb">Am 22. März 1757 erfuhr Lehndorff so von dessen
+                            Beförderung, was ihm eine <quote>lebhafte Freude verursachte</quote>,
+                            vgl. Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs des Großen
+                            ... Nachträge, Bd. 1, Gotha 1910, S. 92. Gerhard Ernst starb im Dezember
+                            1758 in <placeName key="ed_nhm_rdz_bz">Glogau</placeName> an den bei
+                            Hochkirch erhaltenen Verletzungen.</note>
+               </seg> Er bittet Lehndorff nach
+                    der Belagerung von <placeName key="ed_uw4_cn1_my">Prag</placeName> ihm zu
+                    schreiben, <quote>was für einen Eindruck all diese überraschenden Nachrichten in
+                            <placeName key="ed_xrv_gwb_by">Berlin</placeName> machen</quote>. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

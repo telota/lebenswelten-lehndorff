@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_x4z_2ql_l1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oberst von Keffenbrinck an Carl Meinhard Graf von Lehndorff. Potsdam, 21. Mai 1863</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_x4z_2ql_l1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, FA v. Lehndorff (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nb1_jmw_1bb">Keffenbrinck, (-)</persName>
+                    <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>
+                    <date when="1863-05-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+                </correspAction>
+                <note>Siehe den Prolog zur Feier des Fünfzigjährigen Bestehend der Garde-Husaren am
+                    27. März 1863. Gedichtet von Johannes Beyssell, in: LASA, StA L, Bestand 21950
+                    FA Lehndorff, Nr. 25. Zur Geschichte des Garde-Husaren-Regiments: <ref target="https://digital.zlb.de/viewer/image/15811174/1/">Meyerinck, Hubert
+                        von, Das Königlich Preußische Garde-Husaren-Regiment und seine Abstammung
+                        von der Garde-Normal-Husaren-Escadron des leichten
+                        Garde-Cavallerie-Regiments und dem Ostpreußischen
+                        National-Cavallerie-Regiment</ref>, Potsdam 1869.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Potsdam, den 21. Mai 1863</dateline>
+					          <salute>Ew. Hochgeboren</salute>
+                </opener>
+				        <p>erlaube ich mir ergebenst mitzuteilen, dass am 27. d. Mts., an welchem Tage laut
+                    Kabinettsordre Seiner Majestät des Königs <persName key="ed_tl1_nbf_4y">Friedrich Wilhelm III. </persName> die Fortdauer des Ostpreußischen <rs type="term" key="ed_v1j_btz_wy">National-Kavallerie-Regiments</rs> bestätigt
+                    ist, eine Vorstellung von Husaren in hiesigen Staaten stattfindet, deren Ertrag
+                    zum Besten der aus den Freiheitskriegen noch lebenden hilfsbedürftigen Veteranen
+                    derjenigen Truppenteile, aus denen das Garde-Husaren-Regiment gebildet ist,
+                    verwendet werden soll. </p>
+            <p>Am Vormittag dieses Tages um 11 Uhr wird das Regiment auf dem dortseitigen Husarenhof versammelt
+                    sein, ihm in kurzer Ansprache die Bedeutung des Tages ausgeführt, dann
+                    geschießet und hierauf vom Offizierskorps ein Dejeuner eingenommen werden. </p>
+            <p>Wir alle wissen, mit welcher rastlosen Tatkraft, mit welchem patriotischen Eifer und mit welcher
+                    kavalleristischen Sachkenntnis Ew. Hochgeboren <persName key="ed_k4z_jgl_2y">Vater</persName> anno 13 unendlich viel zur schleunigen Organisation und
+                    Ausbildung des Ostpreußischen National-Kavallerie-Regiments getan hat und wie er
+                    dies Regiment in blutigen Schlachten zu Sieg und Ruhm geführt hat. </p>
+            <p>Auch als Begründer des Garde-Husaren-Regiments können wir demnach Ihren Herrn Vater ansehen, und
+                    da er leider nicht mehr unter den Lebenden, so bitten wir als ein Zeichen, wie
+                    hoch wir die patriotischen und militärischen Verdienste Ihren Herrn Vaters noch
+                    im Grabe ehren möchten, dass Ew. Hochgeboren uns am 27. d. mit Ihrer Gegenwart
+                    beehren möchten.</p>
+				        <closer>
+					          <salute>Mit der vorzüglichsten Hochachtung habe ich die Ehre zu sein Ew. Hochgeboren
+                        ergebenster</salute>
+					          <signed>von Keffenbrinck <lb/>Oberst-Lieutenant und Kommandeur</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

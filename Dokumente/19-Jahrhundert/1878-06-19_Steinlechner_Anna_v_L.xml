@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ust_3hy_ny">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maria Steinlechner an Anna Gräfin von Lehndorff. Bad Gastein, 19. Juni
+                    1878</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ust_3hy_ny</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Repräsentation/Geselligkeit</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 320, Bl. 44-45</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_s3g_5g4_my">Steinlechner, Maria (-)</persName>
+                    <placeName key="ed_avy_p42_cy">Bad Gastein</placeName>
+                    <date when="1878-06-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+                <note>Zur Baugeschichte der Kapelle siehe die Dokumente vom<ref target="lehndorff_bb2_n55_hdb"> 15. Mai 1870</ref> und <ref target="lehndorff_qdc_lf4_my">29. August 1871</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/320/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gastein, 19. Juni 1878</dateline>
+					          <salute>Hochgeborene, gnädigste Frau Gräfin</salute>
+                </opener>
+                <p>Ihr liebes Schreiben vom 13. d. M. habe ich erhalten. Es freut uns alle von
+                    ganzem Herzen, dass gnädigste Frau Gräfin am 10. Juli wieder nach <placeName key="ed_avy_p42_cy">Gastein</placeName> kommen, wir waren schon in großen
+                    Ängsten, dass gnädigste Frau Gräfin wegen dem <seg type="comment">
+                  <orig>schrecklichen Unglück, welches den so guten sorgevollen <persName key="ed_lwx_y32_cy">Kaiser</persName> getroffen hat, </orig>
+                  <note xml:id="nong_rmx_f2b">Gemeint ist das <ref target="https://www.dhm.de/lemo/kapitel/kaiserreich/innenpolitik/attentate-auf-kaiser-wilhelm-i.html">Attentat auf Wilhelm I.</ref> am 2. Juni 1878 in Berlin. Siehe die
+                            Anmerkung zum Dokument vom <ref target="lehndorff_hhv_4nh_my">12. Juni
+                                1878</ref>.</note>
+               </seg> heuer gar nicht <placeName key="ed_avy_p42_cy">Gastein</placeName> besuchen werden, deshalb wir immer
+                    mit Sehnsucht auf einen Brief warteten. Hochgeborene, gnädigste Frau Gräfin! Der
+                    Herr Pastor kam am 14. d. M. abends ganz glücklich und wohlbehalten hier an; er
+                    ist ein herzlich freundlicher liebevoller Herr und fühlt sich ganz wohl in
+                    Gastein. Vergangenen Sonntag war dann erster Gottesdienst, wo sich trotz des
+                    schlechten Wetters viele Herrschaften einfanden. Gnädigste Frau Gräfin! Die
+                    Baronin <persName key="ed_dtx_xmx_f2b">Todesco</persName> aus <placeName key="ed_ztb_bm1_my">Wien</placeName> möchte gern für den Juli in unserem
+                    Hause acht Zimmer nebst Küche mieten, und ich möchte daher gnädigste Frau Gräfin
+                    ganz inständig bitten, mir recht bald zu schreiben, ob gnädigste Frau Gräfin
+                    vielleicht früher gesonnen sind zu kommen, überhaupt wie lange gnädigste Frau
+                    Gräfin hier bleiben, damit ich mit der Bestellung darauf eingehen kann.
+                    Hochgeborene gnädigste Frau Gräfin! <seg type="comment">
+                  <orig>Alle Gasteiner
+                            bedauern den Kaiser von ganzem Herzen und sind ganz verzagt, dass Seine
+                                <persName key="ed_lwx_y32_cy">Majestät</persName> nicht nach Gastein
+                            kommen.</orig>
+                  <note xml:id="nhn1_nlx_f2b">Er kam im September, vgl.
+                            dessen Brief an <persName key="ed_uqr_jxf_4y">Augusta</persName> aus
+                            Gastein vom 3. September 1878, in: GStA PK BPH, Rep. 51 J, Nr. 509 b,
+                            Bd. 23, Bl. 30-31.</note>
+               </seg>
+            </p>
+				        <closer>
+					          <salute>Mit der Bitte, an die Hochgräfliche Familie einen teuren Handkuss zu entrichten,
+                        unterzeichnet sich Euer Hochgeboren gnädigste Frau Gräfin stets
+                        untertänigste Dienerin</salute>
+					          <signed>Maria Steinlechner</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_er1_rdm_xdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht. August 1944</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_er1_rdm_xdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Widerstand 1944</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution>GDW</institution>
+                        <idno>aus: Materialsammlung Lehndorff</idno>
+                    </msIdentifier>
+                    <p> (BArch/SAPMO I/2/3/151, Bl. 201-204)</p>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1944-08-01" notAfter="1944-08-30" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Bericht über den 5. Prozess gegen die Verräter- und Verschwörer-Clique des 20.
+                    Juli 1944 für „Die Lage‟</p>
+                <p>In dem 5. Abschnitt des Prozesses gegen die Verräter und Verschwörer-Clique des
+                    20.7.44. wurden vor dem Ersten Senat des <orgName key="ed_xth_qdv_12b">Volksgerichtshofes</orgName> unter Vorsitz von Senatspräsident <persName key="ed_drl_xvz_zdb">Nebelung</persName> vier ehemalige aktive Offiziere und
+                    ein ehemaliger Reserveoffizier abgeurteilt, die sich von den Haupttätern als
+                    Handlanger bei den Vorbereitungen des Attentates und des geplanten Putsches
+                    gebrauchen ließen. Es handelt sich um</p>
+                <list>
+                    <item>den ehemaligen Oberst Kurt <persName key="ed_ssn_2wz_zdb">Hahn</persName>,</item>
+                    <item>den ehemaligen Major <persName key="ed_psr_kwz_zdb">Knaak</persName>,</item>
+                    <item>den ehemaligen Hauptmann Graf von <persName key="ed_ufx_swz_zdb">Drechsel</persName>,</item>
+                    <item>den ehemaligen Oberstleutnant <seg type="comment">
+                     <orig>Ernst</orig>
+                     <note xml:id="npy3_zwz_zdb">Hans Otto!</note>
+                  </seg>
+                        <persName key="ed_y2x_yc3_4cb">Erdmann</persName> und</item>
+                    <item>den ehemaligen Oberleutnant d. Res. <persName key="ed_eq5_1t1_dy">Graf von
+                            Lehndorff</persName>.</item>
+                </list>
+                <p>Die verbrecherische Treulosigkeit des Angeklagten <hi rendition="#u">
+                  <persName key="ed_ssn_2wz_zdb">Hahn</persName>
+               </hi> ist umso fluchwürdiger, als er
+                    für seine Teilnahme an dem Marsch zur Feldherrenhalle am 9. November 1923 als
+                    damaliger Angehöriger der Infanterieschule den Blutorden erhalten hat. Trotzdem
+                    hat er nicht nur keine Meldung erstattet, als er im Herbst 1943 von seinem
+                    Vorgesetzten, dem bereits abgeurteilten ehemaligen General <persName key="ed_zcx_jwk_gcb">Fellgiebel</persName>, in dessen Dienststelle er Chef
+                    des Stabes war, von einem auf den Führer geplanten Mordanschlag erfuhr, er hat
+                    auch kurz vor dem 20.7.44 an einer Besprechung teilgenommen, in der von dem
+                    abgeurteilten ehemaligen Generalleutnant <persName key="ed_pqv_cxz_zdb">Thiele</persName> und dem durch Selbstmord aus dem Leben geschiedenen
+                    ehemaligen General <persName key="ed_mhn_qb3_4cb">Wagner</persName> die
+                    Attentatspläne eingehend erörtert und der Attentatstermin vorgesehen wurde. Er
+                    hat dem Verräter <persName key="ed_y1g_1cl_gbb">Stief</persName> den Auftrag
+                    Wagners übermittelt, dass das Attentat auf den Führer nur stattfinden dürfe,
+                    wenn gleichzeitig der <seg type="comment">
+                  <orig>Reichsführer SS</orig>
+                  <note xml:id="npqq_dy3_mfb">Heinrich <persName key="ed_ijg_3y3_mfb">Himmler</persName>
+                  </note>
+               </seg> beseitigt werden könne, und hat
+                    sich auch am 20.7.44 selbst im Führerhauptquartier den Verrätern zur Verfügung
+                    gehalten.</p>
+                <p>Der ehemalige Major <persName key="ed_psr_kwz_zdb">Knaak</persName>, der als
+                    Kommandeur eines Pionier-Bataillons Frontoffizier war, wurde von seinem Freund,
+                    dem ehemaligen Major <persName key="ed_afy_kxz_zdb">Kuhn</persName>, einem
+                    Untergebenen des Verräters <persName key="ed_y1g_1cl_gbb">Stief</persName>, in
+                    den Verrat verstrickt. Sein Verhalten ist umso unverständlicher, als er auch
+                    gesinnungsmäßig mit der defätistischen Offiziers-Clique an sich nichts zu tun
+                    hatte. Dadurch aber, dass er es aus falsch verstandener Freundschaft unterließ,
+                    Kuhn zu melden, als ihm dieser während eines Heimaturlaubes im November 1943 von
+                    dem Attentatsplan Kenntnis gab und ihn fragte, ob er Sprengstoff besorgen könne,
+                    hat er sich in die Hand des Verräters begeben. So hat er den abgeurteilten
+                    Oberleutnant von <persName key="ed_q3x_pxz_zdb">Haeften</persName>, der im
+                    Dezember 1943 im Auftrag Kuhns zu ihm kam, 3 Sprengstoffbüchsen und 3
+                    Brennzünder ausgehändigt, obwohl er sich darüber im Klaren war, dass dieser
+                    Sprengstoff zu einem Attentat verwendet werden sollte. An der Verwerflichkeit
+                    dieses Verbrechens wird auch dadurch nicht das geringste geändert, dass dieser
+                    Sprengstoff zu dem Attentat wenig geeignet war und auch nicht dazu gebracht
+                    worden ist.</p>
+                <p>Der Angeklagte <hi rendition="#u">
+                  <persName key="ed_y2x_yc3_4cb">Erdmann</persName>
+               </hi>. Während des ersten Weltkrieges
+                    Reserveoffizier, dann Postinspektor, im Jahre 1935 als E-Offizier reaktiviert,
+                    und zuletzt I a beim Stellv. Generalkommando in Königsberg, ist eine subalterne
+                    Natur, der dem Einfluss des Mörders <persName key="ed_v5s_2zh_4cb">Stauffenberg</persName> sofort unterlag, als dieser ihn anlässlich einer
+                    dienstlichen Besprechung Ende Juni 1944 in den Attentatsplan kurz einweihte und
+                    ihn beauftragte, auf ein Stichwort hin den <seg type="comment">
+                  <orig>Gauleiter
+                            von Ostpreußen</orig>
+                  <note xml:id="nrb4_xxz_zdb">Erich <persName key="ed_udf_mxt_sdb">Koch</persName>
+                  </note>
+               </seg> zu verhaften und
+                    die öffentlichen Gebäude und den Rundfunksender zu besetzten. Zur Durchführung
+                    dieses Auftrages hat er Vorbereitungen zu treffen versucht; er hat auch mit
+                    einem Mitverschwörer, einem ehemaligen Rittmeister, vereinbart, dass dieser eine
+                    Kompanie Soldaten zur Verfügung stelle, und er hat schließlich mit dem
+                    Mitangeklagten ehemaligen Oberleutnant der Reserve Graf <persName key="ed_uck_v2f_2y">Lehndorff</persName> vorbereitende Maßnahmen für den
+                    Putsch besprochen. </p>
+                <p>Der Angeklagte <hi rendition="#u">
+                  <persName key="ed_eq5_1t1_dy">Lehndorff</persName>
+               </hi>, Besitzer eines 24.000 Morgen großen Gutes in
+                    Ostpreußen, ist der Typ des preußischen „Junkers‟, wie sein Freund und
+                    Gesinnungsgenosse, der fahnenflüchtige General von <persName key="ed_yn5_myh_4cb">Tresckow</persName>, ihn und sich selbst einmal
+                    bezeichnet hat. Durch seinen Freund wurde Lehndorff im Dezember 1943 in die
+                    Umsturzpläne eingeweiht und im März 1944 von dem Mörder <persName key="ed_v5s_2zh_4cb">Stauffenberg</persName> als sogenannter
+                    „Verbindungsoffizier‟ beim Stellv. Generalkommando I bestellt. Dass er am
+                    20.7.44 nicht in Aktion trat, obwohl er sich bereits in das Stellv.
+                    Generalkommando begeben hat, ist nur darauf zurückzuführen, dass ein gütiges
+                    Geschick das Attentat und den Putschplan vereitelte.</p>
+                <p>Der Angeklagte Graf von <hi rendition="#u">
+                  <persName key="ed_ufx_swz_zdb">Drechsel</persName>
+               </hi> hat sich dem bereits abgeurteilten ehemaligen
+                    Major von <hi rendition="#u">
+                  <persName key="ed_rxc_fyz_zdb">Leonrod</persName>
+               </hi>, einem Vertrauten <persName key="ed_v5s_2zh_4cb">Stauffenbergs</persName>, bedenkenlos als sogenannter „Verbindungsoffizier‟
+                    zur Verfügung gestellt, obwohl er sich über den dadurch begangenen Verrat im
+                    Klaren war.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

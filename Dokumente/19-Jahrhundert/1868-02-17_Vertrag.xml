@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_zlm_q3d_f3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vertrag. Berlin, 17. Februar 1868</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_zlm_q3d_f3b</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 294, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                <date when="1868-02-17" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Die unterzeichneten Herren</p>
+                <p>
+               <persName key="ed_orj_lj3_jfb">Herzog von Ujest</persName>
+            </p>
+                <p>
+               <persName key="ed_fnx_kp5_g2b">Herzog von Ratibor</persName>
+            </p>
+                <p>
+               <persName key="ed_zkm_whl_2y">Graf Lehndorff-Steinort</persName> und</p>
+                <p>
+               <persName key="ed_cws_vm1_my">Dr. Strousberg</persName>
+            </p>
+                <p>haben sich zur gemeinschaftlichen Erlangung der Konzession zur Ausführung des
+                    Rumänischen Eisenbahnnetzes vereinigt.</p>
+                <p>Die demnächstige Bauausführung und Beschaffung der Geldmittel für dieselbe bleibt
+                    dem Herrn Dr. Strousberg allein überlassen und gehören ihm die hieraus zu
+                    erzielenden Vorteile natürlich auch ausschließlich und allein.</p>
+                <p>Dagegen fallen den jetzigen Konzessionären in Gemeinschaft mit den Personen,
+                    welche gemeinschaftlich noch kooptiert werden, diejenigen Vorteile gleichmäßig
+                    zu, die aus dem Eisenbahnbetriebe und sonstiger Ausbeutung der Konzession sich
+                    ergeben mögen.</p>
+                <p>Von dem Baukapital, für welches Herr Dr. Strousberg die Ausführung der Bahnen
+                    übernimmt, verspricht er seinen Mitkonzessionären einen Gewinnanteil von ein und
+                    einem halben Prozent in den Valuten zu gewähren, welche er für die Bauausführung
+                    erhält, und zwar in dem Verhältnisse ratenweise, wie er selbst Zahlung
+                    erhält.</p>
+                <p>Ein Viertel von diesen 1 1/2 % soll für geheime Präliminar-Unkosten ohne
+                    Rechnungslegung  in Abzug kommen. </p>
+                <p>Berlin, den 17. Februar 1868</p>
+                <p>Hugo Fürst von Hohenlohe</p>
+                <p>Victor Herzog von Ratibor</p>
+                <p>Carl Graf Lehndorff</p>
+                <p>D. Strousberg</p>
+            </div>
+        </body>
+    </text>
+</TEI>

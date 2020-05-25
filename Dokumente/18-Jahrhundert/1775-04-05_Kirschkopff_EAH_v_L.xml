@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ml4_lyr_33b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hoffiskal Kirschkopff an Ernst Ahasverus Heinrich Graf von Lehndorff.
+                    Königsberg, 5. April 1775</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ml4_lyr_33b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 307, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_m1z_pcv_1bb">Kirschkopff, (-)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1775-04-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                </correspAction>
+                <note>Siehe in der Akte das <ref target="lehndorff_erf_hbd_m3b">Promemoria</ref>
+                    <persName key="ed_m1z_pcv_1bb">Kirschkopffs</persName> vom 12. Mai 1715 sowie
+                    den von ihm aufgestellten Plan zur Interims-Verteilung des Nachlasses vom 31.
+                    Januar 1776.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 5. April 1775</dateline>
+                    <salute>Hochgeborener Reichsgraf!   <lb/>Hochzuehrender Herr
+                        Kammerherr!<lb/>
+               </salute>
+                </opener>
+				        <p>Das über den väterlichen Nachlass <ref target="lehndorff_ajm_l2s_33b">in ao. 1730
+                        aufgenommenen Inventarium</ref> ist nicht der Art, dass ich daraus eine
+                    Information von der Qualität der <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Güter oder von dem Erbrecht nehmen könnte,
+                    welches Ew. Hochgeboren nun geltend zu machen berechtigt sind. Ich erbitte mir
+                    also den <ref target="lehndorff_zmn_2fb_4fb2">Erbvergleich vom 16. Februar
+                        1724</ref>, imgleichen diejenigen Dokumente, woraus eigentlich die Erbfolge
+                    und die Art derselben konstatiert. Soviel ich im Inventario ersehe, so sind bei
+                    der damaligen exdivision die Güter nicht als Lehn behandelt, sondern man hat
+                    alles ohne die geringste Separation wie allodial zusammengeworfen und <hi rendition="#u">NB</hi> in 6 gleiche Teile verteilt, bei denen Gütern selbst
+                    aber fol. 77 es jedem geneigten Leser zum Erraten überlasen, wer dermalen das
+                    Eigentum für 88.000 Fl. bekommen hat. Ich gestehe, dass der damalige beobachtete
+                    modus exdivisionis alle meine Begriffe, die ich von Lehn- oder Allodialgütern
+                    habe, sehr weit übersteigt. <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> und <placeName key="ed_nkz_b12_gy">Stawken</placeName> ist nach pag. 70 ein pures oder Mannlehn; die
+                        <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Güter nebst den
+                    Vorwerken <placeName key="ed_hrb_hc2_gy">Surwillen</placeName> scheinen mir
+                    Magdeburgisches Lehn zu beider Kinder Rechten sein zu sollen; <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> ist schlicht Kölmisch und wohin
+                    die Windmühle gehört, ist nicht bemerkt. Es müssten demnach diese ganz
+                    ungebührlich zusammengeworfenen Rechte durch die pacta familiae erläutert und
+                    nach deren Vorschrift auseinandergesetzt werden. So viel ist gewiss, dass Ew.
+                    Hochgeboren ao. 1730 bei der exdivision das Eigentum der Güter nicht übernommen
+                    haben, auch nicht haben übernehmen können, zumalen damals noch 2 ältere Brüder
+                    am Leben gewesen sind, mithin sie sämtlich zusammengenommen neun Teile aus dem
+                    Lehn hätten bekommen sollen, auch gewöhnlich der älteste Bruder immer die Güter
+                    anzunehmen <gap reason="illegible"/>, wenigstens deshalb immer etwas gewisses
+                    mit denen anderen abgemacht werden muss. Jetzt aber, da dieses alles nicht
+                    geschehen ist, da die Güter damals eigentlich niemandem zugeschlagen sind, da
+                    die Vormünder die legale Verteilung der Erbmasse haben geschehen lassen, und da
+                    das Inventarium vom Pupillen Collegio konfirmiert ist, auch Ew. Hochgeboren nun
+                    sowenig als Dersoselben Herren Brüder nach erlangter Majorennität innerhalb <gap reason="illegible"/> 4 Restitutions-Jahren keine Monita dawieder gemacht
+                    haben, so scheint mir dieses alles die Folge nach sich zu ziehen, dass Ew.
+                    Hochgeboren entweder den jetzigen Testamentspreis sich gefallen lassen oder auf
+                    eine neue und gerichtliche Taxe provozieren müssen. Jedoch suspendiere ich noch
+                    mein Sentiment, bis ich die pacta familiae, Erbvergleiche p. weiter gelesen
+                    haben.</p>
+                <p>Ew. Hochgeboren habe ich von Deroselben letzteren Abreise, ob es gleich mein
+                    fester Vorsatz war, nicht persönlich aufwarten können. Ich behalte es mir
+                    indessen vor und statte Hochdenenselben für das Überschickte den gehorsamsten
+                    verbindlichsten Dank ab und werde es zum Beweise Dero gnädigen Andenkens wohl
+                    konservieren. </p>
+				        <closer>
+					          <salute>Verharre übrigens mit der vorzüglich vollkommensten Hochachtung <lb/>Ew. Hochgeboren
+                        ganz gehorsamster Diener</salute>
+					          <signed>Kirschkopff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

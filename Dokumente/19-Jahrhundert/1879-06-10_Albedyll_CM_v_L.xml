@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cwf_rzz_sbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gustav von Albedyll an Carl Meinhard Graf von Lehndorff. 10. Juni 1879</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cwf_rzz_sbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 395, Bl. 7</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ybk_vmv_22b">Albedyll, Gustav von
+                        (1823-1891)</persName>
+                    <placeName key="ed_znc_cnv_22b">Karnitten</placeName>
+                    <date when="1879-06-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+                <note>Zu <persName key="ed_ybk_vmv_22b">Albedylls</persName> Engagement als
+                    Vorsitzender des Vereins der <orgName key="ed_bnt_4lz_ny">Berliner
+                        Stadtmission</orgName> vgl. dessen Brief aus Karnitten an Anna von Lehndorff
+                    am 31. Oktober 1878 in: APO: Bestand 382 FA Lehndorff, Nr. 501, Bl. 3. Zu diesem
+                    Zeitpunkt war er nach einem Aufenthalt in <placeName key="ed_bql_l5b_ycb">Karlsbad</placeName> und <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+                    in die <placeName key="ed_uvt_4j4_dz">Provinz</placeName> zurückgekehrt und
+                    schreibt: <quote>Mit unserer Stadtmission ist es bis jetzt allerdings noch nicht
+                        sehr weit gediehen, aber wenn wir berücksichtigen, dass erst Ende August die
+                        Sache angefangen hat in den Gang zu kommen, so können wir in den wenigen
+                        Wochen noch keine großen Erfolge erwarten und müssen uns gedulden, was der
+                        Januar bringen wird.</quote> Er legte einen Brief des Predigers <persName key="ed_whr_15t_g2b">Behr</persName> bei, der seine Ansicht des Abwartens
+                    teile. Er werde nach <placeName key="ed_tmv_fmm_zdb">Lugowen</placeName> reisen,
+                    auch <placeName key="ed_i1v_z4t_g2b">Reddenau</placeName> und <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> besuchen, um die nächsten Schritte
+                    zu besprechen. In <placeName key="ed_xrv_gwb_by">Berlin</placeName> habe er
+                        <persName key="ed_xkb_vvc_gy">Stoecker</persName> gebeten, <quote>Geduld mit
+                        uns zu haben und nicht zu große Ansprüche zu machen</quote>.</note>
+            </correspDesc>
+            <abstract>
+                <p>Einladung zu einer Vorstandssitzung des Vereins der <orgName key="ed_bnt_4lz_ny">Berliner Stadtmission</orgName> am 21. Juni um Hotel Deutsches Haus in
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. Handschriftlich ist
+                    zugesetzt: <quote>Denselben Tag nachmittags 5 Uhr hält der Königliche
+                        Hofprediger Herr <persName key="ed_xkb_vvc_gy">Stoecker</persName> in der
+                            <seg type="comment">
+                     <orig>Tragheimer Kirche</orig>
+                     <note xml:id="nnfc_y4s_g2b"> nordwestlich vom Schloss gelegener Stadtteil
+                                von Königsberg</note>
+                  </seg> einen Vortrag über die <orgName key="ed_bnt_4lz_ny">Berliner Stadtmission</orgName>. Der
+                        Vorstandssitzung wird Herr Stoecker als Direktor des Vereins
+                        beiwohnen.</quote>
+            </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

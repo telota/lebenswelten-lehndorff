@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zg5_c11_fy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich Graf von Lehndorff an Friedrich Theodor Althoff. Preyl, 13. Mai 1903</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zg5_c11_fy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, Nachlass Friedrich Theodor Althoff, Nr. 824, Bl. 2-2v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nml_dw2_cy">Lehndorff, (Ahasverus) Heinrich (August Otto
+                        Magnus Ferdinand) Graf von (Königsberg, 1.4.1829-Preyl bei Wargen,
+                        24.4.1905)</persName>
+                    <placeName key="ed_o23_l11_fy">Preyl bei Wargen</placeName>
+                    <date when="1903-05-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_uf2_pxz_2y">Althoff, Friedrich Theodor (1839-1908)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Preyl bei Wargen Ostpreußen, 13. Mai 1903</dateline>
+					          <salute>Hochverehrte <seg type="comment">
+                     <orig>Exzellenz</orig>
+                     <note xml:id="nbdp_vxl_zdb">Althoff war Ministerialdirektor im
+                        Kultusministerium.</note>
+                  </seg>
+               </salute>
+                </opener>
+                <p>Bezüglich einer Angelegenheit, deren Gelingen mich hochgradig interessiert, hat
+                    Herr Professor <persName key="ed_zjk_p5l_zdb">Zorn</persName> aus <orgName key="ed_yhq_rnr_gbb">Königsberg</orgName> mit Ihnen bereits in Verbindung
+                    gestanden, und hat Ihnen meinen großen Wunsch auch wohl nicht vorenthalten. So
+                    bleibt mir nur übrig, in der allerkürzesten Form zu bestätigen, dass es uns
+                    allerdings eine <hi rendition="#u">große</hi> Freude sein würde, wenn Dr.
+                        <persName key="ed_kzg_z11_fy">Langer</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zum Universitäts-Professor
+                    daselbst ernannt werden könnte. Langer ist mein langjähriger Hausarzt und hat
+                    sehr sehr schwere Zeiten mit mir durchgemacht – was ihm mehrfach vielleicht noch
+                    immer in nicht ferner Zeit bevorstehen dürfte. Er ist dabei ein ausgezeichneter
+                    Arzt und ganz vortrefflicher Mensch von hoher medizinischer Bildung, was Sie
+                    gewiss besser wissen als ich. Das legt nahe, dass sie natürlich mir ein sehr
+                    großes Gefallen erweisen würden, wenn sein Wunsch in Erfüllung ginge, was
+                    allerdings für Euer Exzellenz kaum maßgebend sein kann, aber ich versuche für
+                    Lange gern alles, was in meinen schwachen Kräften steht</p>
+				        <closer>
+					          <salute>als Euer Exzellenz ergebenster</salute>
+					          <signed>Graf von Lehndorff General</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

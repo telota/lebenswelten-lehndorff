@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_ypf_q1j_r2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aufzeichnung von Ida Rische. Faulenrost, 30. August 1854</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_ypf_q1j_r2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="editorial">
+                    <p>Auch am 31. Dezember war <persName key="ed_wms_mh2_cy">Gräfin
+                            Lehndorff</persName> in <placeName key="ed_tn4_fy5_h2b">Faulenrost</placeName> und besuchte die dortige Kirche. Die Pastorin
+                        stand am Fenster, als sie abfuhr. <quote>Da wehte Exzellenz mit dem weißen
+                            Taschentuch aus dem Wagen. Sie fuhr in ihre Einsamkeit
+                        zurück.</quote>
+               </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 52: Kleine
+                            Erinnerungen aus dem Leben der Exzellenz Gräfin Pauline Lehndorff</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Typoskript. „Entnommen aus Briefen von Frau Pastorin Volkening -
+                            Jöllenbeck und deren Tochter, Frau Pastor Rische - Schwinkendorf, durch
+                            die Tochter der Letzteren, Paula, die ein Patenkind der obigen Gräfin
+                            Lehndorff war.‟ </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_wjt_k15_gfb">Rische, Frau (-)</persName>
+                <placeName key="ed_tn4_fy5_h2b">Faulenrost</placeName>
+                <date when="1854-08-30" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>30. August 1854 (von Frau Pastor Rische)</p>
+                <p>
+               <note type="editorial">Auf <quote>Einladung von Exzellenz</quote> ist sie zum
+                        Kaffee in <placeName key="ed_tn4_fy5_h2b">Faulenrost</placeName>,
+                        Sommerwohnsitz der Hahns. </note>
+                </p>
+                <p>
+               <gap reason="insignificant"/>
+            </p>
+                <p>
+               <persName key="ed_tcp_g3l_2y">Exzellenz</persName> war ganz entrüstet über die
+                    Erlaubnis zur Sonntagsarbeit. Sie sagte, sie hätte aber wenigstens ihrem Herzen
+                    Luft gemacht und am Sonnabend an den Minister v. <persName key="ed_x5d_mb5_gfb">Schröter</persName> geschrieben. Auch dem Inspektor hier hat sie ihre
+                    Meinung gesagt. Ich begreife es auch nicht, wie es möglich ist, dass die
+                    mecklenburgische Regierung für drei Sonntage die Arbeit erlauben konnte. Die
+                    Entheiligung des Sonntags und dies Hinken auf beiden Seiten, dies
+                    „Berücksichtigen der Verhältnisse‟, wie man es hier nennt, ist ein Fluch, der
+                    auf <placeName key="ed_c3z_rjv_mbb">Mecklenburg</placeName> liegt. Exzellenz
+                    sagte: „Solche gemeine Habgier der Freundlichkeit des segnenden Gottes gegenüber
+                    sei ihr entsetzlich zuwider.‟ Die Gräfin schrieb auch von Rehme aus an August,
+                    die Pastoren möchten doch darüber wachen, dass ihre Inspektoren sich nicht
+                    solcher Sünde teilhaftig machen. Der hiesige Inspektor hatte schon einen Sonntag
+                    eingefahren. Da hat aber Exzellenz ihm das Gewissen heiß gemacht. Es ist
+                    interessant zu hören, wenn sie in ihrer eifrigen Weise dergleichen erzählt. Ich
+                    freue mich sehr ihrer Entschiedenheit.</p>
+                <p>Leider befand ich mich so wenig gut in <placeName key="ed_tn4_fy5_h2b">Faulenrost</placeName>, dass ich glaubte, ich würde ganz krank. Es war
+                    sonst so sehr hübsch dort und wir fahren immer so gern nach Faulenrost. Ich
+                    wünsche von Herzen, dass das Bad in <placeName key="ed_kby_wb5_gfb">Rehme</placeName> der Gräfin gut tun möge; es würde doch in vieler
+                    Beziehung recht schlimm sein, wenn sie stürbe. Sie hat sich so über Vaters
+                        (Pastor<persName key="ed_ct4_dvl_gfb"> Volkening</persName> - Jöllenbeck)
+                    Besuch gefreut.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

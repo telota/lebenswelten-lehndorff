@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_xv5_k1g_j1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ein- und Ausfuhr von Waren aus anderen Ländern nach Steinort. 1766/67</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_xv5_k1g_j1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>1) Ein- und Ausfuhr 1763/64 (Aufstellung aus 1766); 2) Aufstellung aus 1767.
+                        Vgl. auch ebd., Nr. 900: Spezial-Extrakt der von den Steinortschen Gütern in
+                        auswärtige Länder, nach Königsberg und in andere Städte des Königsberger
+                        Departements exportierten Waren 1767.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 295, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1766-01-31" notAfter="1766-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <note type="editorial">Aus Hamburg, Lübeck, England, Holland und Dänemark,
+                        Frankreich, aus den Reichsprovinzen, Braunschweig, Lüneburg, Schlesien,
+                        Italien, Schweiz, Polen, Danzig, Russland, Schweden wurde nichts
+                        eingeführt.</note>
+            </p>
+                <table rows="15" cols="3">
+                    <row>
+                        <cell/>
+                        <cell>
+                     <note type="editorial">aus</note> anderen königlichen Provinzen
+                            1763/64</cell>
+                        <cell>1767</cell>
+                    </row>
+                    <row>
+                        <cell>Spanische, ungarische und französische Weine </cell>
+                        <cell>6 Rt.</cell>
+                        <cell>für 6 Rt. aus Königsberg</cell>
+                    </row>
+                    <row>
+                        <cell>Salz</cell>
+                        <cell>300 Rt.; für 6 Rt. aus den Städten des Königsberger Distrikts,</cell>
+                        <cell>für 300 Rt. aus Königsberg</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <p>Tee</p>
+                        </cell>
+                        <cell>10 Rt.</cell>
+                        <cell>10 Rt. aus Königsberg</cell>
+                    </row>
+                    <row>
+                        <cell>Kaffee</cell>
+                        <cell>6 Rt.</cell>
+                        <cell>8 Rt. aus Königsberg</cell>
+                    </row>
+                    <row>
+                        <cell>Schokolade</cell>
+                        <cell>2 Rt.</cell>
+                        <cell>-</cell>
+                    </row>
+                    <row>
+                        <cell>Zucker</cell>
+                        <cell>10 Rt. </cell>
+                        <cell>
+                            <p> 12 Rt. aus Königsberg</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>Zitrusfrüchte (<seg type="comment">
+                        <orig>Granaten</orig>
+                        <note xml:id="nqxy_hb4_g2b">Granatäpfel</note>
+                     </seg>, Zitronen,
+                            Pomeranzen, <lb/>Pomes de China)</cell>
+                        <cell>
+                            <p> 2 Rt.</p>
+                        </cell>
+                        <cell>1 Rt. aus Königsberg</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <p>Porzellanwaren</p>
+                        </cell>
+                        <cell>2 Rt.</cell>
+                        <cell>-</cell>
+                    </row>
+                    <row>
+                        <cell>Ganz und halbseidene Waren </cell>
+                        <cell>40 Rt.</cell>
+                        <cell>54 Rt. aus Königsberg</cell>
+                    </row>
+                    <row>
+                        <cell>Baumwolle</cell>
+                        <cell>50 Rt.</cell>
+                        <cell>6 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>Wollene Waren</cell>
+                        <cell>15 Rt.</cell>
+                        <cell>15 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <p>Leinene Waren</p>
+                        </cell>
+                        <cell>5 Rt.</cell>
+                        <cell>6 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <p>Tücher</p>
+                        </cell>
+                        <cell>- </cell>
+                        <cell>4 Rt. aus Königsberg.</cell>
+                    </row>
+                    <row>
+                        <cell>Spezerei-Materialien, Apothekerkram, gemeine kurrente <lb/>Waren wie
+                            Feder, Fischbein</cell>
+                        <cell>12 Rt.; 30 Rt. </cell>
+                        <cell>10 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>Inländischer Tabak </cell>
+                        <cell>
+                            <p>20 Rt.</p>
+                        </cell>
+                        <cell> 12 Rt. aus dem Königsberger Departement, <lb/> 14 Rt. aus
+                            Königsberg</cell>
+                    </row>
+                    <row>
+                        <cell>Kupfer und Messing</cell>
+                  <cell>16 Rt.; 15 Rt. </cell>
+                  <cell>18 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <p>Zinn und Blei</p>
+                        </cell>
+                  <cell>4 Rt.</cell>
+                  <cell>5 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>Eisen und Stahl</cell>
+                  <cell> 40 Rt.</cell>
+                  <cell>
+                            <p>60 Rt.</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <p>div. rohes Material wie Flachs, Hanf, Häute, Farbe, <lb/>Wachs,
+                                Honig, Hopfen, Pottasche </p>
+                        </cell>
+                  <cell>80 Rt.</cell>
+                  <cell>50 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>Holz und Holzwaren, Baumaterial, Bohlen, Stroh</cell>
+                  <cell>- </cell>
+                  <cell> 3 Rt. aus Königsberg</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <p>Summe:</p>
+                        </cell>
+                  <cell>550,45 Rt.</cell>
+                  <cell>625 Rt.</cell>
+                    </row>
+                    
+                </table>
+                <p/>
+               <p/>
+                <p>
+               <note type="editorial">Waren, die 1766 an die</note> Adelichen dieses
+                        Distrikts<note type="editorial"> und in auswärtige Länder verschickt
+                        sind</note>
+            </p>
+                <table rows="8" cols="3">
+                    <row>
+                        <cell>Weizen</cell>
+                        <cell>100 Rt. </cell>
+                        <cell>15 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>Roggen</cell>
+                        <cell>1.000 Rt. </cell>
+                        <cell>15 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>Gerste</cell>
+                        <cell>121 Rt.</cell>
+                        <cell> 20 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>Erbsen, Bohnen, Linsen, Grütze</cell>
+                        <cell>15 Rt.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Gänse</cell>
+                        <cell>7 Rt.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Hühner</cell>
+                        <cell>9 Rt.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Leinenwaren</cell>
+                        <cell>
+                            120 Rt.
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Wolle</cell>
+                        <cell>127 Rt.</cell>
+                        <cell> 20 Rt.</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <p>Summe: </p>
+                        </cell>
+                        <cell>1.499 Rt. </cell>
+                        <cell>55 Rt.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

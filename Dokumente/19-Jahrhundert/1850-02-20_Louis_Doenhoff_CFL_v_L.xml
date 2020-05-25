@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_slw_qg3_wz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Louis Graf von Dönhoff an Carl Friedrich Ludwig Graf von Lehndorff. Potsdam, 20. Februar 1850</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_slw_qg3_wz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 378, n. f.</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_v43_db1_hy">Dönhoff, Louis (Friedrich Wilhelm Stanislaus) Graf
+                        von Dönhoff (1799-1877)</persName>
+                    <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>
+                    <date when="1850-02-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, (Christian Friedrich) Carl (Ludwig)
+                        Graf von (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Potsdam, 20. Februar 1850</dateline>
+					          <salute>Mein lieber teurer Onkel,</salute>
+                </opener>
+				        <p>Dein lieber gnädiger Brief vom 15. d. Mts. ist mir gestern zugegangen und ich ersehe daraus
+                    mit Bedauern, dass mir die Freude entgangen ist, Dich selbst mit <persName key="ed_nml_dw2_cy">Heinrich</persName> hier ankommen zu sehen, wie es Deine
+                    Absicht gewesen ist. Und auch Dir würde es eine Freude gewesen sein, Heinrichs
+                    Equipierung und Einrichtung hier allmählich werden zu sehen, in ähnlichen
+                    Verhältnissen und in demselben Regimente, als Du selbst es in jüngeren Jahren
+                    betratest. Mein lieber teurer Onkel, ich muss beinahe fürchten, dass ein
+                    Ausdruck, den ich in meinem früheren Briefe an <seg type="comment">
+                  <orig>Amelie</orig>
+                  <note xml:id="nbkp_h4m_wcb">Dönhoff?</note>
+               </seg>
+                    über <seg type="comment">
+                  <orig>Heinrichs Versetzungsangelegenheit</orig>
+                  <note xml:id="nt1z_x2f_3lb">
+                     <ref target="lehndorff_srm_rvg_cdb">Zur Garde du
+                                Corps</ref>
+                  </note>
+               </seg> gebraucht haben mag, etwa, dass ich eine
+                    persönliche Verantwortlichkeit für alle bei einem jungen Manne denkbaren
+                    Eventualitäten der Conduite für Heinrich als sein naher Verwandter dennoch nicht
+                    speziell zu übernehmen vermögte, dass solcher Ausdruck mir in Deinen Augen,
+                    lieber Onkel, den Anschein gegeben haben muss, als wolle ich, der mir so
+                    natürlich und in jedem Betracht obliegenden näheren Fürsorge für Heinrich mich
+                    irgendwie entziehen. Das ist wahrlich nicht der Fall. Ich hoffe es Dir, lieber
+                    Onkel, durch die Tat zu beweisen, und es soll überall und mit umso mehr
+                    Freudigkeit geschehen, als ich Dir selbst damit einen Dienst und eine Beruhigung
+                    zu gewähren weiß. </p>
+            <p>Habe die Gnade, lieber Onkel, die Summe, die Du für Heinrichs Equipierung einstweilen liquide
+                    gemacht hast, mir direkt anzuvertrauen. Ich lasse eben die letzten im Regiment
+                    vorgekommenen solchen Equipierungsfälle in den Kosten umständlich
+                    zusammenstellen und werde Dir, lieber Onkel, das Durchschnittsresultat dann
+                    sogleich genauer melden. Wenn Du mir fürs erste 500 Rtlr. zuweisen willst, so
+                    werde ich damit wirtschaften und sehen, wie weit ich komme. Das Pferd, was ich
+                    hier zu ermitteln suchen werde, ist aber dabei nicht mitgerechnet. Noch muss ich
+                    erwähnen, dass eigene Meubles und Betten hier Bedürfnis sind, nicht nur in den
+                    Kasernen-Wohnungen, sondern auch in den sonstigen städtischen Quartieren aller
+                    drei Garnisonen, da möblierte Quartiere unverhältnismäßig teuer sind oder in den
+                    Kasernen-Quartieren die Miete für Möbel und Betten. Diese Artikel bitte ich
+                    daher um Erlaubnis ebenfalls in Rechnung bringen zu dürfen, und werde jedem
+                    Luxus darin nach Kräften entgegen steuern, der gerade in diesem Artikel unter
+                    den jungen Herren sehr an der Tagesordnung ist. </p>
+            <p>Dein Wunsch, lieber Onkel, Heinrich zunächst in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> etabliert zu sehen, und zwar in einem
+                    Kasernen-Quartier, ist mit den hiesigen Rücksichten dienstlicher Erfordernisse
+                    ganz vereinbar, und ich werde die Anordnungen dazu treffen. Leider muss ich mich
+                    jetzt sehr bald auf einige Monate vom Regiment trennen, da ich zum Abgeordneten
+                    des hiesigen Wahlbezirks für den <seg type="comment">
+                  <orig>Erfurter
+                            Reichstag</orig>
+                  <note xml:id="ne1c_w4m_wcb">Das <ref target="https://de.wikipedia.org/wiki/Erfurter_Unionsparlament">Erfurter <ref target="https://de.wikipedia.org/wiki/Erfurter_Unionsparlament">Unionsparlament</ref>
+                            </ref>war ein Organ, das über die Erfurter Unionsverfassung beraten
+                            sollte. Es tagte vom 20. März bis zum 29. April 1850 in der Erfurter
+                            Augustinerkirche. </note>
+               </seg> gewählt worden bin, der in 4 Wochen
+                    eröffnet wird. Ein Regimentskommando ist aber wie ein legitimer Thron, bei dem
+                    es, wie sonst wie in Frankreich, heißt: <seg type="comment">
+                  <orig>le roi est
+                            mort, vive le roi</orig>
+                  <note xml:id="nzvh_tph_2fb">Der König ist tot,
+                            lang lebe der König.</note>
+               </seg>, und mein Stellvertreter wird auch dem
+                    jüngsten Offizier gegenüber seine Verpflichtungen gewissenhaft erfüllen. </p>
+            <p>Was die monatliche Zulage betrifft, die Du Heinrich bestimmen willst, so bin ich sehr erbötig,
+                    sie ihm in den richtigen Terminen zu verabfolgen, wenn Du mich damit beauftragen
+                    wirst. Der Rechnungsführer des Regiments ist zwar in aller Art durchaus
+                    zuverlässig und gediegen, er ist aber nur Wachtmeister und seine Stellung würde
+                    daher, bei etwaigen Zumutungen außer dem Termin, dem jungen Offizier gegenüber
+                    schwieriger sein. </p>
+            <p>Nun aber, lieber Onkel, ist es auch Zeit, dass Heinrich sich bald herbegibt, und ich hoffe wohl,
+                    dass dieser Brief ihn nicht mehr dort antrifft. Seit der Kabinettsordre vom 22.
+                    d. M. betrachten wir ihn hier als unseren Angehörigen und da er keinen
+                    ausdrücklichen Urlaub hat, so ist seine längere Abwesenheit nicht mehr gut zu
+                    vertreten. Bis jetzt gebe ich immer noch dortige Pferde-Arrangements als den
+                    Grund an, warum er noch nicht eingetroffen ist. Jedenfalls hoffe ich doch, ihn
+                    am 1. k. M. dem <persName key="ed_bg5_tsf_4y">König</persName> vorstellen zu
+                    können, da ich schon am vorigen 1. dem Königs die erfolgte Herversetzung
+                    meldete. </p>
+            <p>Somit wollen wir, lieber teurer Onkel, Heinrichs ferneres Schicksal in Gottes Hand legen. ER möge
+                    es zu Deiner Freude lenken. </p>
+            <p>Ich empfehle mich Deinem ferneren gütigen Wohlwollen, lieber Onkel, womit Du mich seit meinen
+                    frühesten Erinnerungen beglückt hast. Ich bitte meiner verehrten Schwägerin mich
+                    zu Füßen zu legen</p>
+				        <closer>
+					          <salute>Dein untertänigster Neffe</salute>
+					          <signed>L. C. v. Dönhoff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

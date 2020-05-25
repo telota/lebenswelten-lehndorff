@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_ls2_3tr_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Denkschrift. Königsberg, 4. April 1831</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_ls2_3tr_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="editorial">
+                    <p>Gehört zum Aktenkonvolut <quote>Des Abgeordneten Carl Graf Lehndorff Akten
+                            zum 4. und 5. Provinziallandtag der Stände des Königreichs
+                            Preußen</quote> (1831-1834). - Ein Verzeichnis aller Denkschriften des
+                        IV. Provinzialständischen Landtags, bei dem Lehndorff dem Ausschuss VIII für
+                        ständische Angelegenheiten angehörte, in: APO, Bestand 382 FA Lehndorff, Nr.
+                        627, Bl. 5-6 (Nr. 34). Zum V. Provinziallandtag 1834 ebd., Nr. 626. Hier Bl.
+                        3-4 ein Auszug aus Lehndorffs Eingabe (Nr. 133), die sich mit den
+                        Stadtschulen gewöhnlicher Kreisstädte auseinandersetzte, die nach Lehndorffs
+                        Auffassung unzulänglich <quote>für Kinder gebildeter Stände</quote>waren, da
+                        sie den Familienvater dazu zwingen würden, den Sohn auf ein Gymnasium zu
+                        schicken, um eine <quote>zu allen Verhältnissen des Lebens</quote>
+                        notwendige wissenschaftliche Ausbildung zu erhalten. Dazu müsse er den Sohn
+                        noch in ein Pensionat geben, könne also seiner Aufsichtspflicht nicht
+                        nachkommen. Disziplinarverstöße seien die Folge und die Gymnasien würden zum
+                            <quote>Herde der Demagogie ausarten</quote>. Bl. 5-6v ein Entwurf über
+                        notwendige Veränderungen des bestehenden Schulsystem in <quote>Schulen für
+                            Arbeiter der rohen Hand (Elementarschulen) und gelehrte Schulen
+                            (Gymnasien)</quote>: <quote>Für den eigentlichen Stand der Nation, für
+                            den Landstand, für den Gutsbesitzer, für den Offizier, für den großen
+                            und den kleinen Kaufmann, für den Dirigenten einer Fabrik, für den
+                            Landmesser und Baumeister, für den Forstmann und für den gewöhnlichen
+                            Administrationsbeamten sowohl im kommunalen als im Staatsdienst haben
+                            wir noch keine Schule.</quote> Lehndorffs Eingabe wurde im Ausschuss für
+                        Kirchen- und Schulangelegenheiten am 21. Februar 1834 behandelt (Bl. 7-10).
+                        - Verhandelt wurde von den Provinzialständen  am 17. Februar 1834 (Bl.
+                        11-23) ebenso der <quote>Entwurf zur Verordnung wegen Abänderung und näheren
+                            Bestimmung der im ostpreußischen Provinzialrecht Zusatz 213 § 13
+                            erteilten Vorschriften betreffend die Verteilung der nach den
+                            Haushaltungen zu entrichtenden Abgaben an Kirche und Schule und deren
+                            Beamte</quote>. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 626, Bl. 1-2v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                <date when="1831-04-04" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/626/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Denkschrift der alleruntertänigsten Provinzialstände des 4. Landtages in Preußen,
+                    die allergehorsamste Bitte um Errichtung von höheren Bürgerschulen
+                    betreffend</p>
+                <p>Der Allerhöchsten Gnade Eurer Majestät hat die Provinz eine hinreichende Zahl von
+                    Gymnasien zu danken. Sie bilden höhere Staatsdiener, Geistliche, Lehrer für
+                    höhere wissenschaftliche Schulen, Philologen und Gelehrte von Profession, aber
+                    eine höchst bedeutende Lücke wird zwischen dem Gymnasial- und
+                    Elementarunterricht täglich fühlbar.</p>
+                <p>Während erstere streng in ihrem Zweck mit Anwendung aller ihnen zu Gebote
+                    stehende Lehrstunden und Übung der Geisteskräfte hauptsächlich durch gelebte
+                    alte Sprachen halten, können letztere nur einen dürftigen Unterricht in den
+                    niederen Elementarkenntnissen bieten. </p>
+                <p>Aber Gewerbe, Kunst, Handel, Geschäftsleben in administrativer Anwendung, alles
+                    dieses hat einen hohen Aufschwung und größte Ansprüche in der Ausübung
+                    genommen.</p>
+                <p>Die Entdeckungen in den genannten Wissenschaften, Länder und Völkerkunde, lebende
+                    Sprachen dürfen dem gebildeten Mittelstande nicht mehr  fehlen, wenn er tätig
+                    und erwerbend neben den Nachbarvölkern stehen will.</p>
+                <p>Hierzu scheint es uns unverzichtlich der mehreren Verbreitung der <seg type="comment">
+                  <orig>höheren Bürgerschulen</orig>
+                  <note xml:id="ndvp_q5q_hlb">Zur Eirichtung siehe <ref target="https://de.wikipedia.org/wiki/B%C3%BCrgerschule">hier</ref>
+                  </note>
+               </seg> zu bedürfen.</p>
+                <p>Das Gymnasium arbeite auf abstrakte Wissenschaften fort, es bilde zu den
+                    Universitäten vor, es schaffe Gelehrte. Die höhere Bürgerschule verbreite nicht
+                    Gelehrsamkeit, aber höhere Bildung, sie gebe uns einen kräftigen Gewerbestand,
+                    der in Handel, Gewerbe, Ackerkultur usw. sich die neueren Erfahrungen zur
+                    Benutzung zu eigen machen könne, den die empfangene Bildung in Stand setzt, jede
+                    Entdeckung der Chemie und Mechanik in seinem Gewerbe zum Leben zu bringen. Sie
+                    bilde uns Offiziere, die durch lebende Sprache und mehrere Kenntnis vom
+                    Geschäfte, Geographie und Hilfswissenschaften, als die Gymnasien zu geben
+                    pflegen, gleich sich zu ihrem Stand vorbereiten, und so wird diese Lücke
+                    schwinden, ja es wird die höhere Bürgerschule den Gymnasien nützlich werden, da
+                    es ihnen die Überfüllung entzieht und möglich macht, die Klassen Sexta, Quinta,
+                    vielleicht auch Quarta abzuschneiden, die den Gymnasien nur lästig sein sollten,
+                    den Anforderungen an dasselbe ganz fremd sind, aber geduldet werden müssen, da
+                    keine anderen Schulen da sind, die Schüler der höheren Mittelklasse aufzunehmen,
+                    woher der Übelstand kommt, dass die Hälfte der Gymnasialschüler kaum bis Sekunda
+                    den Unterricht genießen und das Gymnasium verlassen, ihre Zeit verloren und dem
+                    Zweck der gelehrten Ausbildung nicht entsprochen haben. </p>
+                <p>Wenn in 2-3 landrätlichen Kreisen eine höhere Bürgerschule gegründet, tüchtige
+                    Lehrer angestellt und ein zweckmäßiger Lehrplan befolgt würde, so würde bald
+                    sich Kenntnis allgemein verbreiten, und Handel und Gewerbe in Blüte treiben.</p>
+                <p>Das höhere Schulgeld würde einen Teil der Kosten decken, Gebäude sich wohl
+                    ermitteln lassen, aber sich ohne eine Beihilfe von Seiten des Staats die
+                    Errichtung der höheren Bürgerschulen nicht durchweg durchführen, daher Ew.
+                    Königl. Majestät wir alleruntertänigst bitten:</p>
+                <p>Die Errichtung der höheren Bürgerschulen in der gegebenen Art und Zweck für
+                    mehrere Kreise Allergnädigst anordnen zu lassen, allerhuldreichst, wo es nötig
+                    wird, Zuschüsse zu bewilligen, <seg type="comment">
+                  <orig>und diese Anordnung
+                            vorzüglich und zuerst in der Stadt <placeName key="ed_fyb_kgq_1fb">Hohenstein</placeName> in Anwendung zu bringen,</orig>
+                  <note xml:id="no1d_y5q_hlb">Das <ref target="https://books.google.de/books?id=VXtPAQAAMAAJ&amp;pg=PA495&amp;lpg=PA495&amp;dq=Hohenstein+h%C3%B6here+B%C3%BCrgerschule&amp;source=bl&amp;ots=_9u1xpL7CL&amp;sig=ACfU3U2WcgGlTmlwAwYjOd9Ehrrqa7-Haw&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwiO5IKrm9voAhXMwAIHHaFJCLoQ6AEwAXoECAsQKw#v=onepage&amp;q=Hohenstein%20h%C3%B6here%20B%C3%BCrgerschule&amp;f=false">Progymnasium in Hohenstein</ref> wurde erst 1843
+                            eingerichtet.</note>
+               </seg> für welchen Ort nach den Gutachten und
+                    Schriftwechseln des hiesigen Königlichen Oberpräsidii mit dem Königlichen
+                    Ministerio der geistlichen und Schulangelegenheiten eine höhere Bürgerschule
+                    weit nützlicher und den örtlichen Bedürfnisse zeitgemäßer erscheint, als die
+                    früher angetragene Errichtung eines Gymnasii.</p>
+                <p>Königsberg den 4. April 1831</p>
+                <p>Die Provinzialstände des Königreichs Preußen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

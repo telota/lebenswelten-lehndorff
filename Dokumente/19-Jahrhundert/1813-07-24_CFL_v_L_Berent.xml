@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mc4_wf2_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Friedrich August Berent. Ohlau, 24.
+                    Juli 1813</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mc4_wf2_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 431 f.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_rgx_zf2_ycb">Ohlau</placeName>
+                    <date when="1813-07-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-)</persName>
+                </correspAction>
+                <note>Im Brief vom 8. Juli 1813 an seine Mutter hatte er zur Lage drastische Worte
+                    gefunden: <quote>Seitdem ich im Hauptquartier war, ist mir der Mut oder die
+                        Hoffnung womöglich noch mehr gesunken, als sie es früher schon war.
+                        Zwiespalt zwischen den alliierten Heeren, Hass und Neid zwischen den
+                        Generalen - große Blindheit - Egoismus der Mächte selbst - tiefe
+                        Herabwürdigung der so gepriesenen und so genannten Teutschen lassen wenig
+                        Hoffnung für den Ausgang der Sache. Ich sage mir oft - dies soll die
+                        Täuschung deines Lebens sein. Ich bin 12 Stunden in <placeName key="ed_xrv_gwb_by">Berlin</placeName> gewesen einiger
+                        Regimentsgeschäfte halber. Ich habe die vortrefflichen <persName key="ed_kph_h2r_v2b">Dönhoffs</persName> gesehen. Mit dem Haus ist
+                        gegenwärtig schlechterdings nichts zu machen, <persName key="ed_vhq_1tg_gcb">Schröder</persName> versichert mir, es wären 260 Häuser in Berlin zum
+                        Verkauf gestellt, und niemand früge danach. Das ist auch bei der
+                        gegenwärtigen Lage der Dinge ganz natürlich.</quote> Zum Sparen von Kosten
+                    solle sie nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gehen,
+                    unbedingt aber <quote>das bisschen Pretiosen, was wir und was Sie noch haben,
+                        als die Schatulle vom seligen <persName key="ed_csb_mdf_cy">Vater</persName>, die Medaillen, Ihr Silber, ein paar Kästchen, die bei der
+                        Invasion der Franzosen vor 6 Jahren nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> geschickt wurden</quote>, mit nach Steinort
+                    nehmen oder in sicheren Gewahrsam bringen, <persName key="ed_yx5_cbg_nbb">Berent</persName> könnte einen Packwagen nach Königsberg schicken, denn sie
+                    wisse <quote>aus Erfahrung, dass Dienstleuten nicht zu trauen ist.</quote> Er
+                    öffnete den Brief nochmals um ihr mitzuteilen, dass der <persName key="ed_m25_tr1_1bb">Kaiser</persName> und der <persName key="ed_yzt_s1b_dy">König</persName> mit großem Gefolge durch <placeName key="ed_rgx_zf2_ycb">Ohlau</placeName> nach <placeName key="ed_exj_4f3_ycb">Trachenberg</placeName> gehen, um mit dem <persName key="ed_qqv_tf3_ycb">Kronprinzen von Schweden</persName> zusammenzutreffen, und es Gerüchte über
+                    einen erneuten Kriegsbeginn gebe. - Die Mutter muss sich auf Anforderung des
+                    Oberlandesgerichts unterdessen mit der Aufstellung eines neuen Inventars - d.h.
+                    einer Spezifikation <quote>meiner Mobilien, Betten, Hausgerät, Silber,
+                        Küchengeschirr etc.</quote> herumschlagen, die auch von den Erben zu
+                    testieren  war, da das nach dem Tod des Vaters erstellte Inventar <quote>zu
+                        oberflächlich</quote> gewesen war und anscheinend nicht genug Stempelgelder
+                    eingebracht hatte, vgl. ebd., Bl. 434 f. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>
+               <gap reason="insignificant"/> Ohnerachtet des Waffenstillstandes und eines
+                    wahrscheinlichen Frieden (obgleich es nicht so heißen soll) werde ich mit meinem
+                    Regiment herumgeschleppt mehr als mir lieb ist. Der <persName key="ed_tl1_nbf_4y">König</persName> hat es absolut bei seiner Armee haben
+                    wollen und es ist auf dem Marsch nach <placeName key="ed_tjn_3rc_py">Schlesien</placeName>, leider auf einem großen Umwege, da die Franzosen
+                    fast ganz Schlesien besetzt haben, wie Sie aus den Zeitungen ersehen haben. </p>
+                <p>
+               <note type="editorial">Berent solle ihm fleißig schreiben und die Briefe an
+                            <quote>den alten <persName key="ed_vhq_1tg_gcb">Schröder</persName> in
+                            meinem Hause hinter dem Gießhaus Nr. 2</quote> adressieren. Alles
+                        interessiere ihn, <quote>was aus dem lieben Ort meiner Väter kommt!</quote>
+                    </note>
+                </p>
+                <p>Wie geht es denn dieses Jahr mit der <placeName key="ed_xnn_d12_gy">Kittlitzer</placeName> Wirtschaft, wie in <placeName key="ed_nkz_b12_gy">Stawken</placeName>, welche Stuten sind bei <persName key="ed_dlv_cjv_mbb">Farenheid</persName> gewesen, was hat der Steinsetzer gemacht? Wie geht es
+                    mit dem Bau? Sagen Sie doch dem Landbaumeister, dass, wenn er es besser,
+                    zweckmäßiger und hübscher fände, so könne er auch die Fenster im neuen Flügel so
+                    einrichten lassen, dass beide Flügel in eins aufgehen, wie er es mir
+                    vorgeschlagen. Ich überlasse es ganz ihm. <seg type="comment">
+                  <orig>Beim Bau und
+                            Arrangement des Stalls haben Sie, lieber Berent, doch ja immer selber
+                            das Auge drauf! </orig>
+                  <note xml:id="nnzn_cn2_ycb">Hierzu nochmals im
+                            Brief vom 8. August 1813, ebd., S. 436 f.</note>
+                    </seg>Das ist ein Gegenstand, dessen gutes Gelingen mich über alles
+                    interessiert. Wie geht es denn mit den jungen Pferden und wie ist der Klee
+                    eingeschlagen? Geht der neu gesäte auf und wie ist die Witterung? Hier ist sie
+                    überaus günstig und nie habe ich schönere Felder und besseres Getreide gesehen,
+                    als hier in Schlesien dieses Jahr. <seg type="comment">
+                  <orig>Das arme Land aber
+                            wird schrecklich mitgenommen, ungefähr so, wie es uns schon öfters in
+                                <placeName key="ed_uvt_4j4_dz">Preußen</placeName> ging.</orig>
+                  <note xml:id="ngbn_4l2_ycb">Vgl. ebd., S. 435 f. seinen Brief vom 1. August
+                            1813. Es sei mit dem Regiment nach dem <quote>schönen und
+                                bedauernswerten Schlesien gegangen</quote>, 80.000 Preußen und
+                            50.000 Russen würden es <quote>verzehren und verheeren</quote>, so wie
+                            vor 6 Jahren Preußen. <quote>Bitterer Hass</quote> trenne die
+                            verbündeten Nationen und müsse sich auch auf die Souveräne übertragen.
+                                <quote>Die Generale neiden und hassen sich unter sich in denselben
+                                Armeen</quote>, <persName key="ed_xzh_bgg_h1b">Napoleon</persName>
+                            gereiche dies alles zum Vorteil, er habe <quote>448.000 Mann in
+                                Teutschland schlagfertig; was ist unter solchen Umständen von einem
+                                neuen Krieg zu erwarten - Und Friede? - was davon zu hoffen und auf
+                                wie lange?</quote>.</note>
+                    </seg> - Der <persName key="ed_tl1_nbf_4y">König</persName> ist nach <placeName key="ed_dwb_ng3_ycb">Kudowa</placeName> in Böhmen gegangen, auch der
+                        <persName key="ed_m25_tr1_1bb">Kaiser von Russland</persName>, wie es heißen
+                    soll, ins Bad. Ich kann mir aber nicht denken, dass man in einem Augenblick, wie
+                    dieser ist, an Baden oder an Vergnügungen denken kann. <seg type="comment">
+                  <orig>Also vermute ich, dass eine Zusammenkunft mit dem Kaiser von
+                            Österreich statt haben wird, ohne jedoch zu glauben, dass dabei etwas
+                            Gescheutes aus geheckt werden wird.</orig>
+                  <note xml:id="nazq_4bj_1fb">Das Ergebnis war der sog. <ref target="https://de.wikipedia.org/wiki/Trachenberg-Plan">Trachenberg-Plan</ref>.</note>
+               </seg> - Sie werden wahrscheinlich
+                    auch in Preußen von einem vornehmen Kranken in <placeName key="ed_dz5_2kn_4y">Dresden</placeName> gehört haben, in dem man denn, wie immer, Napoleon
+                    erkennen will. Glauben Sie aber nicht daran! <persName key="ed_xzh_bgg_h1b">Napoleon</persName> wird immer dicker und befindet sich wohl. Es ist der
+                    Leichnam von Marschall <persName key="ed_g54_rg3_ycb">Duroc</persName>, der dort
+                    einbalsamiert worden ist und Anlass zu dem Gerede gegeben hat. - Die Russen
+                    schlagen sich höchst erbärmlich und sagen ganz laut, dass sie nun nicht mehr
+                    wüssten, warum sie sich schlagen sollten. - Die Österreicher haben nicht Luft,
+                    anzubeißen, wir sind also wieder wie verraten und verkauft. </p>
+                <closer>
+                    <salute>Gott mit Ihnen, lieber Berent, und mit allen meinen guten
+                        Steinortern.</salute>
+                    <signed>Lehndorff</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

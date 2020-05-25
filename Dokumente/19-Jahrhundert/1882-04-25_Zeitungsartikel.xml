@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_e52_dqj_dbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zeitungsartikel. Budapest, 25. April 1882</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_e52_dqj_dbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+                <note type="editorial">
+                    <p>Die Zeitschrift brachte regelmäßig Porträts zum Abdruck. Ein Bild desselben
+                        in: BArch Freiburg, MSG 2/1603 (1892). - Heinrich von Lehndorff-Preyl ist
+                        wohl das im LASA, StA L, Bestand 21050 FA Lehndorff, als Nr. 509 vorhandene
+                        Tagebuch einer Reise nach Italien (1892-1894) zuzuordnen. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 211, n. f.</idno>
+                    </msIdentifier>
+                  
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Budapester Chronik. Illustrierte Zeitschrift, 7. Jg., Nr.
+                            63, 25. April 1882</bibl> 
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_fxh_w1h_1cb">Budapest</placeName>
+                <date when="1882-04-25" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <persName key="ed_nml_dw2_cy">Graf Heinrich von Lehndorff.</persName>
+            </p>
+                <p>Graf Heinrich Ahasverus Emil August von Lehndorff aus dem Hause Steinort, Erbherr
+                    zu <placeName key="ed_hts_ttp_vcb">Warglitten</placeName> und <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> im Kreise Fischhausen in
+                    Ostpreußen, ist am 1. April 1829 zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName> geboren. </p>
+            <p>Nachdem seine erste Erziehung im elterlichen Hause selbst geleitet worden, besuchte der junge
+                    Graf verschiedene Ritter-Akademien und trat mit dem 19. Jahre als Avantageur in
+                    das 5. Kürassier-Regiment ein. </p>
+            <p>Doch schon 1850 zum Seconde-Lieutenant ernannt, erfolgte seine Versetzung nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> ins Regiment Gardes du Corps, und
+                    schloss sich später daran die Beförderung zum Premier-Lieutenant 1857 und zum
+                    Rittmeister 1859. </p>
+            <p>Mit dieser Charge war nun die Staffel erklommen, auf der die Söhne des Mars ausharren müssen, ehe
+                    sich Gelegenheit zu weiterem Avancement bietet. </p>
+            <p>Aber vor den Augen der Glücksgöttin - ist sie doch ein Weib - fand die hohe imponierende
+                    Persönlichkeit, die kräftige, martialische <seg type="comment">
+                  <orig>Gestalt des
+                            Grafen Lehndorff</orig>
+                  <note xml:id="ngh2_qp4_jlb">Siehe dessen Porträt
+                            in: <ref target="https://de.wikipedia.org/wiki/Heinrich_von_Lehndorff#/media/Datei:Ahasverus_von_Lehndorff_(1829-1905).JPG">Wagner, Wulf D./Lange, Heinrich, Das Königsberger Schloss. Eine Bau
+                                und Kulturgeschichte, Regensburg 2011, S. 155</ref>. </note>
+               </seg>
+                    besondere Gnade, sie warf ihm einen ihrer heißesten Liebesblicke zu und heftete
+                    sich fortan an seine Ferse. </p>
+            <p>Im Januar 1856 schon musste er die Reihen der bisherigen Kameraden verlassen, um unter die Zahl
+                    der Flügel-Adjutanten seines <persName key="ed_bg5_tsf_4y">Königs</persName>
+                    aufgenommen zu werden. </p>
+            <p>Hiermit war der
+                    Graf auf die erste Sprosse der Leiter gehoben, die hinauf führt zu den
+                    glänzendsten Höhen des irdischen Lebens! Seine schöne militärische Figur, seine
+                    liebenswürdige interessante Persönlichkeit erwarben ihm bald die volle Huld des
+                    Königs, so dass auch das Avancement nicht ausblieb. </p>
+            <p>Schon am 8. Juni des Kriegsjahres 1866 glänzten die Majors-Epauletten auf seiner Achsel, und zwei
+                    Jahre später erfreute ihn sein gnädig gesinnter <persName key="ed_lwx_y32_cy">König</persName> an seinem eigenen Geburtstag, am 22. März 1868, mit dem
+                    Geschenk des Oberstlieutenants-Ranges. </p>
+            <p>Der französische Krieg sah den Grafen Lehndorff an der Seite des obersten Kriegsherrn in Feindes
+                    Land, und nachdem der greise Monarch nach langer Abwesenheit als Kaiser von
+                    Deutschland zu seinem Volke heimkehrte, ließ er den Lieblings-Adjutanten im
+                    kommenden Sommer (18. August 1872) zum Oberst avancieren. </p>
+            <p>Kurz hintereinander folgte nun binnen zwei Jahren die Ernennung zum Kommandeur der Leib-Gendarmen
+                    und der Rang eines Brigadekommandeurs, bis wiederum ein kaiserlicher Geburtstag
+                    (der 22. März 1876) auch unserem Grafen ein herrliches Angebinde bescherte - die
+                    Beförderung zum Generalmajor. </p>
+            <p>Inzwischen war er aber auch von anderer Seite ausgezeichnet worden, <ref target="lehndorff_orc_f3h_t1b">indem der Johanniter-Orden ihn zu seinem
+                        Ehrenritter erwählte</ref>. </p>
+            <p>So hat Graf Lehndorff alle Sprossen der Glücksleiter hinter sich gebracht und lebt augenblicklich
+                    - nachdem das Jahr 1881 ihm noch den Rang eines Generallieutenants mit dem Titel
+                    Exzellenz zugeführt - in voller Manneskraft auf einer der höchsten dieser
+                    Sprossen, die ein Sterblicher wohl erreichen kann. </p>
+            <p>Das Bild eines echten Aristokraten ist Graf Lehndorff, Kavalier vom Scheitel bis zur Sohle.
+                    Selbst ein vorzüglicher Reiter, interessiert er sich auch angelegentlich für den
+                    Sport, liebt die Jagd, ist ein vortrefflicher Schütze, was er zur Genüge auf den
+                    Sommerreisen Kaiser Wilhelms (in <placeName key="ed_avy_p42_cy">Gastein</placeName>) bewiesen, wo er im Verein mit österreichischen Edlen
+                    oftmals den flüchtigen Gemsen in die luftige Höhe ihrer Schneeberge gefolgt ist
+                    und eine gute Anzahl erlegt hat. </p>
+            <p>Nunmehr siebenzehn Jahre ein ergebener Diener seines Königs, erscheint der Graf immer noch als
+                    Repräsentant schönster Männlichkeit in dem Rahmen, der das Bild des preußischen
+                    Königshofes mit allen seinen Figuren umschließt. Sein ausgezeichneter,
+                    unbestrittener Platz ist neben seinem ihm so huldvoll geneigten Kaiser, und hat
+                    derselben den Lieblings-Adjutanten zur Seite, so kann er gewiss sein, dass ein
+                    treues Auge ihn bewacht und ein starker Arm bereit ist ihn zu schützen und zu
+                    stützen. Dass Graf Lehndorff während seiner glänzenden Laufbahn auch<seg type="comment">
+                  <orig> „genossen das irdische Glück, gelebt und
+                            geliebt‟</orig>
+                  <note xml:id="npft_mq4_jlb">Zitat aus dem Gedicht <ref target="http://www.zeno.org/Literatur/M/Schiller,+Friedrich/Gedichte/Gedichte+(1789-1805)/Des+M%C3%A4dchens+Klage">„Des Mädchens Klage‟ von Friedrich Schiller</ref>.</note>
+               </seg>,
+                    ist selbstverständlich. </p>
+            <p>Trotzdem aber fehlte ihm immer noch das Eine, welches
+                    das Leben seinen Bevorzugten hieniden zu bieten vermag: die treue Liebe eines
+                    edlen Weibes und eine eigene glückliche Häuslichkeit! </p>
+            <p>Zu allen Errungenschaften sollte aber Fortunas Schützling auch dies beides noch gewinnen, bevor
+                    sein Fuß an die Schwelle der Türe rührte, hinter der die Jahre liegen, <seg type="comment">
+                  <orig>„welche den Menschen nicht gefallen‟</orig>
+                  <note xml:id="nrb2_dr4_jlb">„Denk an deinen Schöpfer, solange du noch jung
+                            bist, ehe die schlechten Tage kommen und die Jahre, die dir nicht
+                            gefallen werden. <p>Dann verdunkeln sich dir Sonne, Mond und Sterne und
+                                nach jedem Regen kommen wieder neue Wolken. Dann werden deine Arme,
+                                die dich beschützt haben, zittern und deine Beine, die dich getragen
+                                haben, werden schwach. Die Zähne fallen dir aus, einer nach dem
+                                anderen; deine Augen werden trüb und deine Ohren taub. Deine Stimme
+                                wird dünn und zittrig. Das Steigen fällt dir schwer, und bei jedem
+                                Schritt bist du in Gefahr zu stürzen. Draußen blüht der Mandelbaum,
+                                die Heuschrecke frisst sich voll und die Kaperfrucht bricht auf;
+                                aber dich trägt man zu deiner letzten Wohnung. Auf der Straße
+                                stimmen sie die Totenklage für dich an.‟ (Prediger 12,1-7).
+                            </p>
+                  </note>
+               </seg>
+            </p>
+            <p>Die jugendliche Gräfin <persName key="ed_zrm_nts_2y">Margarethe von Kanitz</persName> (geboren
+                    den <seg type="comment">
+                  <orig>5. März</orig>
+                  <note xml:id="nuvl_b5j_dbb">handschriftlich korrigiert 6. März</note>
+               </seg> 1858), einige Zeit
+                    Hofdame Ihrer Majestät der Kaiserin <persName key="ed_uqr_jxf_4y">Augusta</persName>, wurde das Glück seiner Augen. </p>
+            <p>Am 26. Oktober 1880 entzündete Hymen für beide seine Fackel! Das zierliche Efeureis rankte sich
+                    um den kräftigen Eichenstamm! </p>
+            <p>Ein am 7. September 1881 geborenes <seg type="comment">
+                  <orig>Knäblein</orig>
+                  <note xml:id="nqfr_hnv_g2b">Wilhelm, geb. 7.9.1881, gest.
+                        18.10.1906</note>
+               </seg>, welches außer von dem einen Großen, dem <persName key="ed_lwx_y32_cy">Kaiser Wilhelm</persName>, noch von zwei bedeutenden
+                    Männern, dem Fürsten <persName key="ed_atc_ls2_cy">Bismarck</persName> und dem
+                    Generalfeldmarschall Grafen <persName key="ed_ow2_mdd_py">Moltke</persName>, aus
+                    der Taufe gehoben wurde, machte das eheliche Glück vollkommen. </p>
+            <p>Mit Befriedigung kann Graf Lehndorff auf seine
+                    Vergangenheit zurückblicken, den Reiz der Gegenwart voll genießen und nur den
+                    einen Wunsch im Herzen tragen: „möge ihm sein Glück noch lange hold sein!‟</p>
+                <p>
+               <persName key="ed_mnw_t1h_1cb">A. Hermanny</persName>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_bgx_bwf_cdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Berlin, 26. Januar 1817</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_bgx_bwf_cdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 618-620 </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1817-01-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (Hirschberg 9.4.1751-Königsberg, Roßgärter Markt
+                        12.11.1830)</persName>
+                </correspAction>
+                <note>1.000 Rtlr. aus dem Verkauf des Berliner Hauses hatte <persName key="ed_k4z_jgl_2y">Lehndorff</persName> für den Ankauf von 100
+                    Mutterschafen und 2 Böcken verwendet, die Ende September in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> in schlechter Verfassung ankamen.
+                    Er beauftragte <persName key="ed_yx5_cbg_nbb">Berent</persName>, sich um die
+                    Schafe zu kümmern und sich <quote>recht in das Schäferhandwerk</quote>
+                    einzuarbeiten, denn die Schafe in Sachsen seien sehr verwöhnt und es sei sein
+                        <quote>Lieblingszweig</quote> der Wirtschaft; dem alten Schäfer in
+                        <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> traue er diese
+                    Aufgabe nicht mehr zu, eher noch dem Schäfer aus <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, vgl. Schultze, Lebensbild, S. 619 f. - Die
+                    Beziehung zu <persName key="ed_tkl_kvp_vcb">Thaer</persName> hielt Lehndorff
+                    auch über die 1820er Jahre hinaus aufrecht, vgl. Thaers Briefe in: GStA PK, XX.
+                    HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865. Zur Bildung des Festkomitees
+                    anlässlich <quote>des fünfzigjährigen Doktor-Jubiläums des verdienten Herrn
+                        Amtsrat Thaer</quote> im Mai in <placeName key="ed_kbf_hfz_ny">Freienwalde</placeName> (9. März 1824) sowie wegen der Subskription für ein
+                    Denkmal des verstorbenen Oberregierungsrats Thaer und dessen <quote>Verdienste
+                        um die Landwirtschaft</quote> (3. Dezember 1828): APO, Bestand 382 FA
+                    Lehndorff, Nr. 332, Bl. 36-36v, 46-47. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 26. Januar 1817</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>Ich habe hier durch den Staatsrat <persName key="ed_tkl_kvp_vcb">Thaer</persName> noch
+                    Gelegenheit gefunden, aus den <seg type="comment">
+                  <orig>Königlichen
+                            Schäfereien</orig>
+                  <note xml:id="nis2_3zf_cdb">in Sachsen</note>
+               </seg>
+                    sehr schöne edle Schafe zu erhalten, welche in künftigem Sommer nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> geschickt werden sollen. Wie dieser
+                    Transport bewerkstelligt werden kann, ist noch nicht ausgemacht. Wahrscheinlich
+                    geschieht er durch den Schafknecht, der die Schafe aus <placeName key="ed_ust_ky4_dz">Frankreich</placeName> gebracht hat und den ich
+                    engagiert habe. Jedoch ist dieser Mensch auf Urlaub nach <placeName key="ed_tjn_3rc_py">Schlesien</placeName> gegangen und es ist möglich, dass
+                    er nicht zurück käme.<seg type="comment">
+                  <orig> Auf den Fall wird Staatsrat
+                                <persName key="ed_tkl_kvp_vcb">Thaer</persName> an Sie schreiben
+                            oder an <persName key="ed_b4v_4ld_b2b">Schmalz</persName> und dieser
+                            wird sich an Sie richten.</orig>
+                  <note xml:id="ncp4_lm2_p3b">Deren Briefe
+                            in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865, n.
+                            f.</note>
+               </seg> Auf diesen Fall bitte ich Sie nach dem Sinne der
+                    Vorschläge zu handeln, welche diese beiden Herren machen werden. Es wird alsdann
+                    das Beste sein, einen Menschen oder nach Maßgabe der Umstände auch 2 bei Thaer
+                    hinzuschicken, um diese Schafe abzuholen, doch dieses ist noch in weitem Felde,
+                    und es ist nur als eine Benachrichtigung für Sie auf unvorhergesehene Fälle
+                    anzusehen. </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

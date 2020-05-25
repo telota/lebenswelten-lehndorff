@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_jfm_pwm_xcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Baumeister Laudien an Carl Meinhard Graf von Lehndorff. Barten, 20. November
+                    1854</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_jfm_pwm_xcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 254, Bl. 8-9</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_thf_5tp_dz">Laudien, (-)</persName>
+                    <placeName key="ed_y5w_wtp_dz">Barten</placeName>
+                    <date when="1854-11-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Barten, den 20. November 1854</dateline>
+					          <salute>Euer Wohlgeboren!</salute>
+                </opener>
+				        <p>erhalten beigehend die <ref target="lehndorff_bpn_zxy_dcb">Zeichnung</ref> sowie die
+                    Materialienberechnung zum Bau des Erbbegräbnisses zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName> mit dem ergebenen Bemerken, dass
+                    diese Zeichnung meines Wissens nach die letzte ist, die S. Exzellenz der
+                    verstorbene Herr Graf  erhalten hat und zur Ausführung bestimmte. Gleichzeitig
+                    erlaube ich mir noch zu bemerken, dass S. Exzellenz es mir ans Herz legte, das
+                    Gebäude so zu konstruieren, dass es, seinen Worten gemäß, ewig stehen kann. Aus
+                    diesem Grunde wird auch das viele Mauermaterial zu den starken Mauern gebraucht.
+                    Um in dem Sinne der verstorbenen Exzellenz zu handeln wage ich es, dem Herrn
+                    Grafen von Lehndorff zur Ausführung der wenigen Fenster in diesem Gebäude das
+                    Gusseisen vorzuschlagen, und bin gerne bereit, hierzu die Zeichnung sowie die
+                    Bestellung zu übernehmen. Das Projekt ist im Rohbau gehalten und ist daher auch
+                    angenommen, dass die Gesimsziegel, derer hier nicht viele und einfach sind, vom
+                    Töpfer gefertigt werden. Haben Sie die Güte, mir über die letzten Punkte
+                    Auskunft zu geben, damit ich mich hiernach richten kann.</p>
+                <p>Wie ist Herr Graf mit diesem Entwurf zufrieden? <seg type="comment">
+                  <orig>Um eine
+                            größere Anzahl Särge in das Gewölbe stellen zu können,</orig>
+                  <note xml:id="na5s_q34_xcb">Vgl. APO, Bestand 382 FA Lehndorff, Nr. 150 und
+                            151 zu Tischlerarbeiten und zur Verfertigung von Särgen für Steinort
+                            (1854-1855, 1858-1864, 1866-69, 1873/1874). </note>
+               </seg> habe ich
+                    letzteres so weit erhöht, dass man ein Gerüst in demselben anbringen kann, und
+                    später eine zweite Reihe Särge über die erste setzen kann.</p>
+				        <closer>
+					          <salute>Mit Hochachtung zeichne ich mich als Ew. Wohlgeboren ganz ergebenster</salute>
+					          <signed>
+                  <seg type="comment">
+                     <orig>Laudien</orig>
+                  </seg>
+               </signed>
+				        </closer>
+            </div>
+            <postscript>
+                <p>PS. <seg type="comment">
+                  <orig>Wo haben die Zeichnungen gesteckt?</orig>
+                  <note xml:id="ng3m_xc5_gfb">Vgl. das PS. zum Dokument vom <ref target="lehndorff_d4n_kjc_py">25. August 1854</ref>.</note>
+               </seg>
+                    L.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_tlq_41d_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich Graf von Lehndorff an Alfred von Waldersee. Ems, 18. Juli 1871</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_tlq_41d_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, Nachlass Alfred von Waldersee, B I Nr. 31, Bl. 1-2</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nml_dw2_cy">Lehndorff, (Ahasverus) Heinrich (August Otto
+                        Magnus Ferdinand) Graf von (Königsberg, 1.4.1829-Preyl bei Wargen,
+                        24.4.1905)</persName>
+                    <placeName key="ed_tnj_fcd_gy">Bad Ems</placeName>
+                    <date when="1871-07-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_o1b_2bd_gy">Waldersee, Alfred von (1832-1904)</persName>
+                </correspAction>
+                <note>Zum Aufenthalt in Ems ab 10. Juli 1871: <ref target="https://edoc.bbaw.de/frontdoor/index/index/searchtype/authorsearch/author/%22Huch%2C+Gaby%22/docId/2988/start/6/rows/10">Huch, Gaby, Zwischen Ehrenpforte und Inkognito: preußische Könige auf
+                        Reisen. Quellen zur Repräsentation der Monarchie zwischen 1797 und 1871
+                        Berlin 2016</ref>, Bd. 2, S. 1444 ff. - Die Nachlässe von Heinrich Graf von
+                    Lehndorff sowie dessen Ehefrau Margarethe befinden sich im LA Baden-Württemberg,
+                    Abt. Generallandesarchiv Karlsruhe, FA N 3045 und Nr. 3046. Ein Bild des
+                    Generals der Kavallerie in: LA Baden-Württemberg, Hauptstaatsarchiv Stuttgart,
+                    Bildersammlung, M 712 Nr. 8. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Ems, 18. Juli</dateline>
+                    <salute>Mein lieber Waldersee,</salute>
+                </opener>
+                <p>Ihre Sendung ist angekommen und hat <persName key="ed_lwx_y32_cy">S.
+                        M.</persName> unsern Allergnädigsten Herrn sehr amüsiert, Er lässt Ihnen
+                    bestens danken. Mit <persName key="ed_m3x_11d_gy">Albedyll</persName> besprach
+                    ich Ihr Wohl und Wehe, er wird sich direkt an <persName key="ed_atc_ls2_cy">Bismarck</persName> wenden, um einen <seg type="comment">
+                  <orig>Druck auf
+                            Ihre Entbindung zu üben, und hat den Eindruck bekommen, dass Sie gern zu
+                            Ihrem Regiment gingen.</orig>
+                  <note xml:id="nzvw_hpl_3fb">1871 war
+                            Waldersee als diplomatischer Geschäftsträger des Deutschen Reichs in
+                            Paris. 1873 wurde er Stabschef des X. Armeekorps in
+                        Hannover.</note>
+               </seg> Das ist ja die Hauptsache, den Erfolg seiner Schritte
+                    muss man abwarten, Ich wünschte, da sie den Spaß aus der Satisfaktionierung
+                    haben, dass Sie möglichst bald umbeschäftigt aus dem ronge entschlüpften. </p>
+                <p>Hier geht es im allgemeinen gut, mit kleinen Unterbrechungen durch
+                    Magen-Derangements verläuft die Kur glatt; wir hoffen dass der Herr nachher nach
+                        <placeName key="ed_avy_p42_cy">Gastein</placeName> geht, was Ihm unbedingt
+                    recht notwendig wäre, aber bestimmt wird es nichts – wie gewöhnlich! Außer uns
+                    ist <unclear reason="illegible" cert="low">Alter</unclear> mit, sonst viel
+                    Kabinett beiderlei Geschäfts. <placeName key="ed_tnj_fcd_gy">Ems</placeName> ist
+                    nicht so voll wie sonst, weniger vertraute Weiber – wenigstens nicht die Klasse.
+                    Ein paar <gap reason="illegible"/> tiefer ist das Bedürfnis an Ruhe vollkommen
+                    gedeckt. Ihre Beschreibungen aus <placeName key="ed_pvh_k2d_gy">Versailles</placeName> und dass Sie nicht mehr ohne Millionen ausgehen, hat
+                    dem Herrn Spaß gemacht. Heute hatten wir hier zwei Hagelschläge, wie ich sie nie
+                    erlebte. Der Wein wird barbarisch geklopft sein! – Bleiben Sie wohl und lassen
+                    Sie es sich so gut, wie ich es Ihnen von Herzen wünsche, <supplied cert="high">gehen</supplied>. Wie schon aus vielen ronges, so werden Sie auch aus
+                    diesem gut und rechtzeitig herauskommen. </p>
+                <closer>
+                    <signed>Ihr guter Freund Lehndorff</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

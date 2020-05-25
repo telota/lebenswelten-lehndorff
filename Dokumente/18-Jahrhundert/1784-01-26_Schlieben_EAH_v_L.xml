@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ftl_ytk_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Leopold Graf von Schlieben an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Gerdauen, 26. Januar 1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ftl_ytk_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Repräsentation/Geselligkeit</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 379, Bl. 19-20</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zqm_ymf_hy">Schlieben, Karl Leopold Graf von
+                        (1723-1788)</persName>
+                    <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>
+                    <date when="1784-01-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gerdauen, 26. Januar 1784</dateline>
+					          <salute>Mein würdigster Graf!</salute>
+                </opener>
+                <p>Eine wahre Freude hat mir die Nachricht von Ihrem allseitigen Wohlbefinden
+                    verursacht. So wie ich es von jeher weiß und meine öfteren Nachrichten von
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> es bestätigen, so ist
+                    und bleibt Steinort ein Sitz der Freuden und des Vergnügens. Ich preise einen
+                    jeden Kosmopoliten gleichlich, der davon profitieren kann; ja noch mehr: Ich
+                    muss es bekennen, dass ich ihn beneide, da mein Herz es mir bishero verboten,
+                    unerachtet Ihrer so gütigen Erlaubnis, mit daran partizipieren zu können. Sie
+                    sind zu just und zu sehr von meiner Denkungsart und aufrichtigen Ergebenheit
+                    gegen Ihnen überzeugt, als dass Sie es einer Nachlässigkeit, Ihnen unsere
+                    Attention zu bezeugen, zuschreiben sollten. Meine Krankheit, die mich dieses Mal
+                    ziemlich mitgenommen, und nachhero der Besuch <seg type="comment">
+                  <orig>des
+                            Herzogs</orig>
+                  <note xml:id="nlvl_dw5_sy">Friedrich von
+                                Holstein-<persName key="ed_txh_3w5_sy">Beck</persName>, vermählt mit
+                            der Tochter Schliebens, <persName key="ed_ok2_3xf_hy">Friederike
+                                Amalie</persName>
+                  </note>
+               </seg> und des Grafen <persName key="ed_kzh_z13_tcb">Truchseß von Capustigall</persName> werden mich bei
+                    Ihnen entschuldigen. Nachhero hat Graf <persName key="ed_csn_2kt_2cb">Dönhoff
+                        von Dönhoffstädt</persName> und der Baron <seg type="comment">
+                  <orig>
+                     <persName key="ed_wkx_bxs_ncb">Löw</persName>
+                  </orig>
+                  <note xml:id="ncqh_3jt_2cb">Baron Löwenstein, aus Livland, vgl. Ziebura,
+                            Tagebuch, S. 141. </note>
+               </seg> einen Stabsmeister aus <placeName key="ed_wms_sgc_gy">Hannover</placeName> an mich adressiert, welchem einige
+                    Nachrichten in Anschaffung junger Hengste erteilen musste, und heute hat meine
+                        <seg type="comment">
+                  <orig>Engels-Baronin aus </orig>
+                  <note xml:id="njfz_j1y_m2b">Gräfin von Eulenburg</note>
+               </seg>
+               <placeName key="ed_wkm_lx5_sy">Beynuhnen</placeName> mich verlassen, welche aufs Neue
+                    ihr Gnaden-Antlitz zu mir gewandt, dass mir also keine Zeit übrig war, von Haus
+                    abzukommen. </p>
+            <p>Von <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> habe nichts Neues, was Sie, mein bester
+                    Graf, nicht alles wissen sollten. Die vom Regimentsfeldscher <persName key="ed_wgr_fxs_ncb">Gerlach</persName> verschriebene Medizin soll noch
+                    nicht gänzlich bei dem Präsidenten ihre Wirkung verloren haben, sondern noch
+                    dann und wann Rezidive verursachen. Das <seg type="comment">
+                  <orig>schwarze
+                            Ungewitter, welches sich über die heilige Justiz zusammenzog</orig>
+                  <note xml:id="nlmn_fzs_scb"> Seit 1751 war eine Neuordnung des preußischen
+                            Rechtswesens angedacht, die sich über Jahrzehnte hinzog. Großkanzler
+                            Johann Heinrich von <persName key="ed_rwj_n5g_hy">Carmer</persName>
+                            sollte die Aufgabe zum Abschluss bringen. Mit den Geheimen Räten Carl
+                            Gottlieb <persName key="ed_yf3_v41_tcb">Svarez</persName> und Otto
+                            Nathanael <persName key="ed_ywr_w41_tcb">Baumgarten</persName> war er im
+                            September 1781 nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gekommen, um sich ein Bild von der
+                            Rechtspflege zu machen. Die vorgefundenen Missstände wollten sie durch
+                            eine Reform des Gerichtsverfassungsrechts beseitigen. So wurden alle
+                            königlichen Gerichte 1782 als „Ostpreußische Regierung“ zusammengefasst,
+                            zuständig für alle Zivil- und Kriminaljustizsachen, Hypotheken-,
+                            Pupillen- und Depositalsachen, die vor ein Obergericht der
+                            landesherrlichen Gerichtsbarkeit gehörten. Der Erste Senat der
+                            Ostpreußischen Regierung entsprach dem früheren Hofgericht, der Zweite
+                            dem Tribunal, aus dem 1815 das Oberlandesgericht Königsberg hervorging.
+                            Die ersten Chefpräsidenten der Ostpreußischen Regierung waren <persName key="ed_lfj_dp1_tcb">Friedrich Alexander von Korff </persName>und
+                                <persName key="ed_vz3_gpp_mbb">Ludwig Finck von
+                                Finckenstein</persName> (1784). Die Neuordnung leitete die Trennung
+                            von Justiz und Verwaltung ein. Als Obergerichte wurden außerdem das
+                                <orgName key="ed_myk_cjr_gbb">Hofgericht zu Insterburg</orgName>, in
+                            Westpreußen die <orgName key="ed_vdz_tp1_tcb">Regierung zu
+                                Marienwerder</orgName> und das <orgName key="ed_q2d_wp1_tcb">Hofgericht zu Bromberg</orgName> begründet. </note>
+               </seg>, hat sich
+                    durch den Ableiter der Exzellenz von <unclear reason="illegible" cert="high">Rebeux</unclear> zerteilt, welcher eine Versetzung nach <placeName key="ed_uvt_4j4_dz">Preußen</placeName> schlechterdings ausgeschlagen. </p>
+            <p>Der <persName key="ed_gnc_c1m_2y">Gemahlin</persName> Gräfin Gnaden und dero sämtlichen in
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> versammelten illustren
+                    Sozietät empfehle mich zu Gnaden. Meine <persName key="ed_zsm_n55_sy">Frau</persName> und Kinder versichern Ihnen allerseits ihre vollkommenste
+                    Hochachtung,</p>
+				        <closer>und ich lebe, sterbe, bin auch jenseits des Grabes <signed>ihr Knecht Schlieben</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

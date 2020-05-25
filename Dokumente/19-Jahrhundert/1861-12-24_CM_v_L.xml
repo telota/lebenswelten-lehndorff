@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_tww_wps_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zeitungsinserat. 24. Dezember 1861</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_tww_wps_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="editorial">Ein zweites Konzept in der Akte, Bl. 15. Bl. 22-23v eine
+                    Übersicht der Abgeordneten und ihrer Stellvertreter beim Landtag der Provinz
+                    Preußen; Graf <persName key="ed_zkm_whl_2y">Lehndorff-Steinort</persName> wird
+                    als Vertreter des <persName key="ed_qsh_tbg_h1b">Grafen von
+                    Farenheid</persName>-Angerapp für den Wahlkreis <placeName key="ed_omg_5xl_5y">Darkehmen</placeName> (I. Litauen) genannt, Graf <persName key="ed_nml_dw2_cy">Lehndorff-Warglitten</persName> gemeinsam mit <persName key="ed_rr4_z2k_d2b">Maraun</persName>-Condehnen als Abgeordneter für den
+                    Wahlkreis <placeName key="ed_ofb_m4r_gbb">Schaken</placeName> (Ostpreußen).
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 632, Bl. 13</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1861-12-24" cert="high"/>
+                
+              
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/6/632/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="document">
+        <body>
+                <p>Nachstehende Annonce wolle eine <gap reason="illegible"/> Kreisblattexpedition
+                    gef. in das nächste Kreisblatt aufnehmen und die Insertionsgebühren durch
+                    Postvorschuss auf mich entnehmen.</p>
+                <p>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName> b. Rosengarten 24.12.61</p>
+                <p>
+            <persName key="ed_zkm_whl_2y">Graf Lehndorff</persName>
+         </p>
+                <p>Wahlangelegenheit.</p>
+                <p>Diejenigen Herren Wahlmänner, die bei der Nachwahl eines Abgeordneten für
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>-<placeName key="ed_bzz_pwf_cy">Lötzen</placeName> ihre Stimme in
+                konservativ-konstitutionellem Sinne abzugeben beabsichtigen, benachrichtige ich
+                ergebenst, dass ich eine Wahl nicht annehmen würde, und dass auch kein anderer
+                konservativer Kandidat aus unserer Mitte auftritt. Die große Majorität, mit der die
+                Wahlmännerschaft einen Kandidaten der Deutschen Fortschrittspartei gewählt hat,
+                macht es ohnehin unzweifelhaft, dass die Bemühungen der Konservativen diesmal
+                vergeblich sein würden. Die Ereignisse müssen erst lehren, ob diese Majorität das
+                Richtige für das Gemeinwohl getroffen hat. </p>
+                <p>Inzwischen kann ich denjenigen konservativ gesinnten Herren Wahlmännern, denen
+                    etwas an meiner Ansicht gelegen sein sollte, nur raten, diesmal ihre Stimme für
+                    den <hi rendition="#u">Minister Grafen <persName key="ed_r21_kfk_d2b">Bernstorff</persName>
+                    </hi>abgeben zu wollen. Derselbe ist noch nicht Mitglied des Abgeordnetenhauses
+                    und es erscheint nach konstitutionellem Gebrauch doch angemessen, dass der Mann,
+                    der die wichtigsten Angelegenheiten des Landes dem Auslande gegenüber vertritt,
+                    auch einen Vertrauensbeweis vom Land selbst erhalte. Die Herren Wahlmänner, die
+                    Herrn Dr. <persName key="ed_sww_pfk_d2b">Bender</persName> gewählt haben, machen
+                    sich durch diese Wahl des Grafen Bernstorff einer <gap reason="illegible"/>
+                    nicht schuldig, da Dr. Bender ihnen von der Fortschrittspartei durchaus nicht
+                    als ein Gegner des Ministeriums dargestellt worden ist. Die Wahl des diesmal von
+                    den Herren Kreisrichtern vorgeschlagenen Herren von <persName key="ed_ej2_1rg_hy">Saucken</persName> halte ich für ebenso schädlich als
+                    die des Herrn Dr. Bender. </p>
+                <p>Graf Lehndorff Steinort</p>
+            
+        </body>
+    </text>
+</TEI>

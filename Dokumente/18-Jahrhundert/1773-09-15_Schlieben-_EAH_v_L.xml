@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_yh2_3zn_cbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ludwig Friedrich Leopold Graf von Schlieben an Ernst Ahasverus Heinrich Graf
+                    von Lehndorff. Königsberg, 15. September 1773</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_yh2_3zn_cbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 374, Bl. 98-98v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wmt_g5z_g1b">Schlieben, Ludwig Friedrich Leopold Graf von
+                        (1748-1799)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1773-09-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Lehndorff kam nicht nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, sondern reiste direkt nach <placeName key="ed_xrv_gwb_by">Berlin</placeName>, wo er am 13. Oktober eintraf. Der
+                    Plan, in <placeName key="ed_uyl_j3c_gy">Danzig</placeName> einen Aufenthalt zu
+                    nehmen, wurde verworfen, da er zu der für Ende Oktober geplanten Einweihung der
+                    katholischen Kirche durch <persName key="ed_gbs_p1m_2y">Ignacy
+                        Krasicki</persName> in Berlin anwesend sein wollte, die dann auf den 1.
+                    November verschoben wurde, vgl. Nachträge, Bd. 2, S. 285-287 und <ref target="https://de.wikipedia.org/wiki/St.-Hedwigs-Kathedrale">https://de.wikipedia.org/wiki/St.-Hedwigs-Kathedrale</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 15. September 1773</dateline>
+					          <salute>Monsieur et très gracieux Oncle</salute>
+                </opener>
+				        <p>Ganz <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> ist au désespoir, dass es der
+                    gnädige Oncle nicht mit ihrer angenehmen Gegenwart beehren wollen. Die Gräfin
+                        <persName key="ed_m55_53y_rgb">Keyserlingk</persName>, welche gestern bei
+                    meinem <seg type="comment">
+                  <orig>Vater</orig>
+                  <note xml:id="nxqj_2vv_mbb">
+                            <persName key="ed_nlp_5nr_52b">Karl Leopold Graf von
+                                Schlieben-Sanditten</persName>. Er war seit 1747 verheiratet mit
+                                <persName key="ed_d3h_sy4_mbb">Marie Eleonore</persName>, Schwester
+                            von <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich Graf von
+                                Lehndorff</persName>, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 26 (Ehevertrag).</note>
+               </seg> soupiert hat, kann
+                    sich gar nicht zufrieden geben, Ihnen aus Preußen gehen zu sehn, ohne Sie
+                    sprechen zu können. Lassen Sie also das Bitten der Gräfin, meines Vaters und
+                    meiner Wenigkeit stattfinden, und ändern Sie ihre Denkungsart auf das chapitre. </p>
+            <p>Obgleich ich nichts davon
+                    profitieren könnte, wenn mon cher Oncle auch mitkämen, so würde ich doch meinen
+                    reellen Anteil an dem Vergnügen so vieler redlich denkender Leute in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, welches durch ihre Ankunft
+                    veredelt werden würde, nehmen. </p>
+            <p>Ich gehe morgen Abend von hier ab, Sie werden also erlauben, dass ich mich Ihnen zu Gnade
+                    empfehlen darf. Der Himmel bringe Ihnen, gnädiger Oncle, gesund und wohl nach
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName>, und konserviere Sie mir
+                    allemal der mir unschätzbare Gnade. Sie werden mir verstatten, dass ich mich
+                    öfters von meiner Garnison aus nach der Gesundheit erkundigen darf, und dass ich
+                    mich ins Künftige so conduiere, wie es einem ehrliebenden Neveu gehört. </p>
+				        <closer>
+					          <salute>Der gnädigen Tante versichere meiner mehren Ehrfurcht und Ergebenheit, und ich verharre
+                        mit dem tiefsten Respekt <lb/>Monsieur et très gracieux Oncle <lb/>Votre
+                        très humble et très obéissant serviteur</salute>
+					          <signed>Comte de Schlieben</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_tkb_gsb_31b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Schreiber-Weigand an die Landesregierung Sachsen. Chemnitz, 19. November
+                    1948</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_tkb_gsb_31b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>HStA Dresden</institution>
+                        <idno>Bestand 11401, Nr. 2375, Bl. 341, Anlage Bl. 342 </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zhf_cvk_gbb">Schreiber-Weigand, (-)</persName>
+                    <placeName key="ed_zwl_qvk_gbb">Chemnitz</placeName>
+                    <date when="1948-11-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_qlh_nvk_gbb">Landesregierung Sachsen</orgName>
+                </correspAction>
+                
+                <note>Die Schlösser im Landkreis Rochlitz befanden sich Ende 1945 noch in der
+                    Verwaltung der Roten Armee. Zur <placeName key="ed_w4n_gtt_sdb">Wechselburg</placeName>, die nach Sprengungen in den letzten Kriegstagen
+                    zudem in einem schlechten baulichen Zustand war, hatte nur der Bürgermeister
+                    Zutritt, vgl. HStA Dresden, Bestand 11401, Nr. 2419, Bl. 14 (Bericht des
+                    Landrats des Kreises Rochlitz an die Landesverwaltung Sachsen, 19. November
+                    1945). Am 26. März 1946 erfolgte eine Besichtigung und Bestandsaufnahme. Dabei
+                    wurde festgestellt, dass im Schloss <quote>gelagert bzw. untergestellt</quote>
+                    seien: die Kirchenakten von Rochlitz, die Gerichtsakten des Landeshauptarchivs,
+                        <quote>Möbel der Familie Liddy aus Frankreich</quote> sowie der Firma
+                        <quote>Möbel Pfau Wechselburg</quote>. Am 29. April 1946 berichtete der mit
+                    der Erfassung des Inventars der Schlösser im Kreis Rochlitz beauftragte W. K.
+                        <persName key="ed_wgc_5w5_12b">Zülch</persName>: <quote>In <placeName key="ed_ost_53w_12b">Wolkenburg</placeName> und <placeName key="ed_w4n_gtt_sdb">Wechselburg</placeName> sind durch neuerliche
+                        Anforderungen der Russen fast alle Bestände fortgeführt. Der Verbleib
+                        unbekannt, da von den Russen keine Auskunft zu erhalten war. Die in
+                        Wolkenburg und Wechselburg verbliebenen Reste müssen bald abgeholt werden,
+                        auch die Bibliothek.</quote> Er schlug eine Verbringung in das <placeName key="ed_rg5_v3w_12b">Glauchauer</placeName> Schloss - jetzt <orgName key="ed_f4r_djw_12b">Heimatmuseum</orgName> - vor, wo Räume und
+                    Arbeitskräfte vorhanden wären, auch wäre Glauchau sicherer als <placeName key="ed_dz5_2kn_4y">Dresden</placeName>. Bei seiner nächsten Besichtigung am
+                    13. Mai 1946 vereinbarte er mit dem Direktor des Heimatmuseums <persName key="ed_pd3_2jw_12b">Schott</persName>, was von der Wechselburger Bibliothek
+                    nach Glauchau zu bringen wäre. Die Überführung der dortigen Kunstschätze
+                    scheiterte jedoch an mangelnden Transportmöglichkeiten. Auf Grundlage des
+                    SMA-Befehls 209 drohte der Kreisrat Rochlitz der Gemeinde den Abbruch des
+                    Schlosses an, es sei denn, es werde sozialen Zwecken zur Verfügung gestellt. Ab
+                    Dezember 1947 wurde das Schloss (zwangs-)geräumt, die Akten des Sächsischen
+                    Landeshauptarchivs im Februar 1948 nach Dresden gebracht. Im Mai 1948 begann der
+                    Umbau zum Kinderheim, ab November 1948 wurde ein Sakristei-Raum in der
+                    Schlosskirche errichtet. Im Dezember 1949 verzichtete der Kreistag des
+                    Landkreises Rochlitz auf das Schloss, jedoch exklusive der Schlosskirche und der
+                    Sakristei. Die Übernahme erfolgte im Januar 1950 (Kindererholungsheim „Clara
+                    Zetkin‟), vgl. LASA, StA L, Bestand 20236 Kreistag Rochlitz, Nr. 1271 und 1272.
+                    - In der am 20. März 1946 aufgestellten Liste von Bergungsorten gemäß SMA-Befehl
+                    Nr. 58 taucht ausschließlich der Besitz der <orgName key="ed_a3z_hzt_sdb">Staatlichen Museen</orgName> auf. Mit dem Abtransport aus der <placeName key="ed_w4n_gtt_sdb">Wechselburg</placeName> wurde Amtmann <persName key="ed_v1d_fyk_gbb">Gruve</persName> (Großdepot der Staatlichen Museen:
+                    Gemäldegalerie, Kupferstichkabinett etc.) beauftragt, vgl. HStA Dresden, Bestand
+                    11401, Nr. 2420. Am 23. Oktober 1948 teilte <persName key="ed_zhf_cvk_gbb">Weigand</persName> als Direktor der <orgName key="ed_mn2_rtt_sdb">Städtischen Kunstsammlung zu Chemnitz</orgName> der <orgName key="ed_qlh_nvk_gbb">Landesregierung Sachsen</orgName>, Ministerium für
+                    Volksbildung, mit: <quote>Eben sind die Herren der Leipziger Fahndungskommission
+                        unter Führung von Herrn Dr. <persName key="ed_g31_tjw_12b">Engemann</persName> bei uns und erkundigen sich nach dem herrenlosen
+                        Gut, dass in der <placeName key="ed_w4n_gtt_sdb">Wechselburger</placeName>
+                        Kirche gestanden hat. Es befindet sich z. Zt. im Keller des <placeName key="ed_zwl_qvk_gbb">Chemnitzer</placeName> Museums, wohin es im
+                        Einverständnis mit unserem Dezernenten, Stadtrat Riesner, durch den
+                        Unterzeichneten gebracht wurde, weil sich niemand mehr darum bekümmerte und
+                        weil nach Aussagen des Kastellans dieser den Auftrag hatte, die Kisten und
+                        Möbel aus der Kirche abtransportieren zu lassen. Da wir schon seit Jahr und
+                        Tag beobachtet hatten, wie das Gut langsam verfiel und dass eine Bergung und
+                        Schützung dringend notwendig sei, glaubten wir im Interesse des Ganzen zu
+                        handeln, wenn wir erst einmal das herrenlose Gut in Museumsbesitz
+                        übernahmen. Wir werden Gelegenheit nehmen, bei unserer nächsten Anwesenheit
+                        in <placeName key="ed_dz5_2kn_4y">Dresden</placeName> persönlich in dieser
+                        Sache vorzusprechen. Da nach Aussage der Leipziger Herren das Hauptinteresse
+                        für die beide eisernen Truhen besteht, die natürlich uneröffnet bei uns
+                        geblieben sind, so schlagen wir vor, diese nach <placeName key="ed_dz5_2kn_4y">Dresden</placeName> abtransportieren zu lassen, um
+                        dort die Öffnung in geeigneter Weise vorzunehmen.</quote> (Bl. 350).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>19. November 1948</dateline>
+                </opener>
+                <p>Betr. Herrenloses Gut der <placeName key="ed_w4n_gtt_sdb">Wechselburger</placeName> Kirche </p>
+            <p>In Anordnung Ihres Schreibens vom 9.11. haben wir lt. beiliegendem Protokoll vom 16.11. die
+                    beiden eisernen Truhen des herrenlosen Guts aus der Wechselburger Kirche im
+                    Beisein uns erbetener Beamter der Kriminalpolizei öffnen lassen. <seg type="comment">
+                  <orig>Es wurde dabei festgestellt, dass das aus <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, Kr. Angerburg/Ostpreußen
+                            stammende Gut aus dem Besitz des Grafen <persName key="ed_eq5_1t1_dy">Lehndorff</persName> stammt, der am 20. Juli 1944 beteiligt war und
+                            deshalb samt der gesamten Familie ausgerottet wurde.</orig>
+                  <note xml:id="nvh2_l2m_xdb">Diese Behauptung war bereits im <ref target="lehndorff_rjy_vwq_3bb">Februar 1947 im Zusammenhang mit der
+                                Bergung in Kriebstein </ref>aufgestellt worrden. </note>
+               </seg> Wie
+                    wir richtig vermuteten, befanden sich in den beiden eisernen Truhen keinerlei
+                    belastende Korrespondenzen aus der Nazizeit, sondern nur schnell
+                    zusammengeraffte Skripturen aller Art aus den Regalen und Schreibkommoden des
+                    gräflichen Besitzes. Dem Inhalt der Truhe I sah man es deutlich an, dass das
+                    Verpacken der Skripturen in höchster Eile geschehen sein musste, denn es lagen
+                    wahllos Briefwechsel, allerhand wertlose aufgehobene Drucksachen wie
+                    Speisekarten von Berliner Hotels, Zeitungsausschnitte unwesentlichen Inhalts u.
+                    a. nebeneinander. In dieser Truhe waren noch einige <seg type="comment">
+                  <orig>Pergamentbände mit handgeschriebenen Aufzeichnungen persönlicher
+                            Art in französischer Sprache</orig>
+                  <note xml:id="nedk_zwt_sdb">Die
+                            Tagebücher des Kammerherrn Ernst Ahasverus Heinrich Graf von
+                            Lehndorff</note>
+               </seg>. Truhe II enthielt hauptsächlich Aktenbündel
+                    Erbschaftsangelegenheiten betreffend usw. Als interessantes Stück ist die <seg type="comment">
+                  <orig>Urkunde mit der reichsgräflichen Ernennung und dem
+                            Wappenbrief und dem doppelseitigen kaiserlichen Metallsiegel</orig>
+                  <note xml:id="njdr_2xt_sdb">Heute wieder in Privatbesitz, siehe das Foto in
+                            der Bildersammlung.</note>
+               </seg> anzusprechen. </p>
+            <p>Das Einverständnis der Landesregierung vorausgesetzt, wird alles aktenmäßige Material dem
+                    Stadtarchiv zur Aufnahme und zur Weiterleitung an das Landesarchiv übergeben.
+                        <seg type="comment">
+                  <orig>Das wertlose Papier und wohl auch die Briefe, die
+                            rein familiären Inhalts sind, können vernichtet werden.</orig>
+                  <note xml:id="ncwg_pkw_12b">Es handelt sich um den Teil des Familienarchiv in:
+                            LASA, StA L, Bestand 21950. Inwieweit tatsächlich eine Vernichtung
+                            erfolgte, ist nicht klar. In der Bestandsakte im LASA, StA L werden
+                            neben den Akten aus Kriebstein weitere <quote>5 Schachteln
+                                Archivgut</quote>, übergeben am 18. Dezember 1975 von der
+                            Staatlichen Archivverwaltung, aufgeführt. </note>
+               </seg> Ihr
+                    Einverständnis vorausgesetzt, werden wir dem Fahndungsamt der Stadt Leipzig eine
+                    Abschrift des Protokolls zugehen lassen, da dieses besonderes Interesse für die
+                    eisernen Truhen hatte und in <placeName key="ed_flc_kyf_hy">Leipzig</placeName>
+                    das Gerücht aufgekommen war, <seg type="comment">
+                  <orig>die Truhen enthielten
+                            wertvolles Material des Gauleiters <persName key="ed_udf_mxt_sdb">Koch</persName> und des Statthalters <persName key="ed_k2q_rxt_sdb">Mutschmann</persName>.</orig>
+                  <note xml:id="nl2z_vyt_sdb">Vgl. BStU,
+                            MfS, AB Neiber, Nr. 383, Bl. 205 ff. Im November 1944 hatte der
+                            ostpreußische Gauleiter <persName key="ed_udf_mxt_sdb">Koch</persName>
+                            an Martin <persName key="ed_k2q_rxt_sdb">Mutschmann</persName>,
+                            Gauleiter in Sachsen, wg. der Unterbringung von Kunst- und Kulturgütern
+                            aus <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> geschrieben.
+                            Seine eigene Sammlung brachte er, als „Museumsgut‟ deklariert, nach
+                            Thüringen. Sie traf mit einem LKW-Transport am 9. Februar 1945 in
+                                <placeName key="ed_hdc_kl3_tcb">Weimar</placeName> ein und wurde im
+                            Landesmuseum untergestellt, vgl. das Verzeichnis in BStU, MfS, AB
+                            Neiber, Nr. 391, Bl. 74-84. Eine Abholung von 2/3 der eingelagerten
+                            Gegenstände erfolgte am 9./10. April 1945 unter der Leitung des
+                            „Hausverwalters‟ (Albert <persName key="ed_vwt_3yt_sdb">Popp</persName>). Der Rest der Sammlung wurde von der SMAD
+                            beschlagnahmt, vgl. BStA, MfS, AB Neiber, Nr. 386, Bl. 73.</note>
+               </seg>
+                    Es liegt uns bei dieser Gelegenheit daran, eine Entscheidung herbeizuführen, was
+                    nun mit dem anderen herrenlosen Gut geschehen soll, das, wie aus beiliegender
+                    Liste ersichtlich, ausschließlich aus Möbeln besteht. Wir schlagen vor, dem
+                        <orgName key="ed_mn2_rtt_sdb">Chemnitzer Museum</orgName> in seine Textil-
+                    und Kunstgewerbe-Sammlung zu überlassen WB 1-5, 10-15, 19-31. Das<orgName key="ed_ah4_dzt_sdb"> Leipziger Museum</orgName> würde, wie sein Direktor
+                    Dr. <persName key="ed_qrx_mlw_12b">Bethke</persName> versicherte, dankbar sein,
+                    wenn ihm folgende Stücke überlassen würden: WB 9, 16, 17, 18, 6, 7, 8. Dem
+                        <orgName key="ed_vy4_czt_sdb">Museum für Musikinstrumente in Leipzig
+                    </orgName> könnte das Giraffenklavier (WB 16) zugeführt werden. Die Überlassung
+                    würde seitens der Landesregierung in der Form der Leihgabe geschehen können, wie
+                    es ähnlich bei den Objekten der Schlossbergungsaktion gewesen ist. Da das
+                        <orgName key="ed_a3z_hzt_sdb">Dresdener Museum</orgName> unter dem in
+                        <placeName key="ed_dz5_2kn_4y">Dresden</placeName> aufgespeicherten Gut aus
+                    der Schlossbergungsaktion seine Wahl treffen konnte, glauben wir, dass es an den
+                    weniger wertvollen Stücken dieser Bergung kein Interesse haben wird. </p>
+				        <closer>
+                    <signed>Leitung der Städtischen Kunstsammlung <lb/>Schreiber-Weigand
+                        <lb/>Direktor</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>
+               <hi rendition="#u">Anlage 1</hi>
+            </p>
+                <p>Protokoll. </p>
+            <p>Am 16. November 1948 wurden im Beisein von 2 Vertretern des Kriminalamtes Chemnitz, der Herren
+                    Herbert <persName key="ed_ekb_slw_12b">Clauß</persName> und Curt <persName key="ed_omz_5lw_12b">Uhlmann</persName>, dem unterzeichneten Museumsdirektor
+                        <persName key="ed_zhf_cvk_gbb">Schreiber-Weigand</persName>, dem Hausmeister
+                    des Museums Eckert und dem Schlossermeister Berthold die zwei alten eisernen
+                    Truhen, die mit herrenlosen Möbeln aus der Kirche zu <placeName key="ed_w4n_gtt_sdb">Wechselburg</placeName> in das <orgName key="ed_mn2_rtt_sdb">Chemnitzer Museum</orgName> überführt worden sind,
+                    durch den Schlossermeister Berthold geöffnet und der Inhalt in Augenschein
+                    genommen. (Die Truhen haben die Größe 83 x 45 x 46 und 76 x 47 x 47). In Truhe I
+                    fanden sich ausschließlich persönliche Briefe, Zeitungsausschnitte,
+                    Aufzeichnungen, Briefdurchschläge und in französischer Sprache geschriebene
+                    Chroniken aus dem Ende des 18. Jahrhunderts. In Truhe II waren ausschließlich
+                    Aktenbündel, z. T. testamentarischen Inhalts, z. T. verwaltungsmäßigen, z. T.
+                    enthielten sie Erbschaftsangelegenheiten usw. Als besonderes Stück wurde in
+                    einem Blechkasten eine in einen Samteinband gebundene alte <seg type="comment">
+                  <orig>Urkunde mit der reichsgräflichen Ernennung vom 23. Februar 1687,
+                            auf Pergament geschrieben mit anhängendem, in Metall ausgeführtem
+                            kaiserlichen doppelseitigen Sigelzeichen</orig>
+                  <note xml:id="nin4_kc2_2cb">Vgl. die digitale Aufnahme in: Österreichisches
+                            Staatsarchiv, AT-OeStA/AVA Adel RAA 253.54 Löhndorff (Lehndorff),
+                            Ahasverus von. </note>
+               </seg> vorgefunden. </p>
+            <p>Leitung der Städtischen Kunstsammlung (Stempel) <lb/>gez. <persName key="ed_zhf_cvk_gbb">Schreiber-Weigand</persName> Direktor <lb/>gez. Herbert <persName key="ed_ekb_slw_12b">Clauß</persName>
+                    <lb/>gez. Kurt <persName key="ed_omz_5lw_12b">Uhlmann</persName>
+                </p>
+                <p>
+               <hi rendition="#u">Anlage 2</hi>
+            </p>
+                <p>Städtische Kunstsammlung Chemnitz <lb/>Az. 320-0 <lb/>
+               <seg type="comment">
+                  <orig>Aufstellung der von <placeName key="ed_w4n_gtt_sdb">Wechselburg</placeName> sichergestellten Gegenstände</orig>
+                  <note xml:id="nrqh_s15_sdb"> Nach dem Schreiben vom 26. Februar 1949 wurden
+                            die Möbel zwischen Chemnitz und Leipzig (hier *) aufgeteilt, vgl. in der
+                            Akte, Bl. 344 und 348.</note>
+               </seg>
+                    <list>
+                        <item>WB 1 Dreiteiliger Aufsatz-Schrank 1850-60</item>
+                        <item>WB 2 Schreibschrank mit Spiegeltüren 19. Jahrhundert</item>
+                        <item>WB 3 Zweiteiliger Kommodenschrank etwa 1740</item>
+                        <item>WB 4 Bürgerliche Barockkommode 1760</item>
+                        <item>WB 5 Gebrauchte Rokokokommode 1750</item>
+                        <item>WB 6* Gegenstück dazu</item>
+                        <item>WB 7* Renaissance-Schrank frühes 17. Jahrhundert</item>
+                        <item>WB 8* Truhe frühes 17. Jahrhundert</item>
+                        <item>WB 9* Truhe 1622</item>
+                        <item>WB 10, 11 2 Hohe Kirchenstühle 18. Jahrhundert</item>
+                        <item>WB 12, 13 2 Renaissance-Stühle</item>
+                        <item>WB 14 Blumenbank 18. Jahrhundert</item>
+                        <item>WB 15 Lehnstuhl und 3 Stühle frühes 19. Jahrhundert</item>
+                        <item>
+                     <seg type="comment">
+                        <orig>WB 16* Giraffenklavier 1840</orig>
+                        <note xml:id="nuds_4df_qcb"> Nach dem Schreiben vom 26. Februar 1949
+                                    war das Giraffenklavier für die Musikinstrumentensammlung in
+                                    Leipzig <quote>sehr erwünscht</quote>, in der Akte, Bl.
+                                    345.</note>
+                     </seg>
+                  </item>
+                        <item>WB 17*, 18* 2 eiserne Truhen</item>
+                        <item>WB 19 gewölbte Truhe mit Beschlägen</item>
+                        <item>WB 20 Ostasiatisches Kohlenbecken</item>
+                        <item>WB 21 Gobelin-Sofabezug</item>
+                        <item>WB 22 Gobelin und Schawl stark defekt</item>
+                        <item>WB 23 4 St. alte Tapeten</item>
+                        <item>WB 24 1 Gobelin-Kniestück</item>
+                        <item>WB 25, 26 2 St. alte Leinenstickerei</item>
+                        <item>WB 27 1 Seidenrest, Rosenmuster</item>
+                        <item>WB 28, 29 2 Kleiderreste</item>
+                        <item>WB 30 1 Kissenbezug</item>
+                        <item>WB 31 1 Stuhlsitzbezug Gobelin</item>
+                    </list>
+            </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

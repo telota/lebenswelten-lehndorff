@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mv4_bhh_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an Dodo Freiherr von Knyphausen.
+                    Berlin, Anfang Januar 1758 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mv4_bhh_2z</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Volz, Gustav Berthold, Aus dem Briefwechsel des
+                            Prinzen von Preußen August Wilhelm mit dem Kammerherrn Graf Ernst
+                            Ahasverus Lehndorff, in: Masovia 9 (1903), S. 130-171, hier S.
+                            160-162</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date notBefore="1758-01-04" cert="high" notAfter="1758-01-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_kq5_2m2_2z">Inn- und Knyphausen, Dodo Freiherr zu
+                        (-)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, Anfang Januar 1758</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/>
+                    <seg type="comment">
+                        <orig>wir haben <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> mit
+                            Bedauern verlassen;</orig>
+                  <note xml:id="ntmb_cc5_2z">Am 3. Januar 1758.
+                            Zur Verabschiedung in Magdeburg und der Reise nach Berlin vgl. Giebel,
+                            Tagebücher, S. 408.</note>
+                    </seg> Sie wissen, wie angenehm wir dort lebten. Die ganze Stadt war in Bewegung
+                    bei unserer Abreise und der ganze Adel in Tränen. Die reichsten Bürger in
+                    Uniform, bedeckt mit Bändern, und Musik voraus, geleiteten uns, und die
+                        <persName key="ed_bwq_lzl_2y">Königin</persName> hat Leute von 100.000
+                    Talern während der ganzen Nacht vor ihrer Türe als Schildwache gehabt. Ihre
+                    Majestät schlief die erste Nacht in <placeName key="ed_c3h_d3h_2z">Burg</placeName>. Wir wurden daselbst mit dem ganzen Gepränge empfangen,
+                    das man in so einer kleinen Stadt aufstellen kann. Alle Einwohner hatten Bänder
+                    von der Farbe der Zitronen, auf welchen stand: „Es lebe des größten Königs
+                    Königin!‟ Sie glichen ziemlich den Sternenrittern in Schweden. Während der
+                    ganzen Nacht waren die Fenster illuminiert und die Rufe: „Es lebe die Königin!‟
+                    hinderten jedermann am Schlafen, worüber die Gräfin <persName key="ed_jkw_tr2_2z">Camas</persName> und noch mehr wir anderen
+                    verzweifelten. Das Bewundernswerteste war ein Konzert, das der Magistrat der
+                    Stadt uns während des Soupers gab, bestehend aus Pauken und Trompeten; unsere
+                    Ohren wurden daher davon nicht so angenehm berührt wie unsere Herzen; die gute
+                    Absicht entschuldigt alles. </p>
+            <p>Wir kamen am anderen Tag in <placeName key="ed_xjc_ttl_cz">Brandenburg</placeName> an, begleitet
+                    von Freudenrufen, von der Musik der Posthörner und den schlechtesten
+                    Staatstrompeten des <persName key="ed_x2r_52f_cy">Königs</persName>. Die
+                    Domherren und der Dechant empfingen uns; die Frau des Letzteren hat sehr <seg type="comment">
+                        <orig>zur Unzeit</orig>
+                  <note xml:id="nxjb_fc5_2z">am 5. Januar</note>
+                    </seg> ein Kind bekommen, was uns der Annehmlichkeit beraubte, sie die Honneurs
+                    des Kapitels machen zu sehen. Ich verweise Sie auf die <seg type="comment">
+                  <orig>Berliner Zeitung</orig>
+                  <note xml:id="ngwl_2jm_scb">Berlinische
+                            priviegierte Zeitung</note>
+               </seg>, um darin den Empfang, der uns hier
+                    bereitet worden, zu lesen. Niemals ist eine Freude wahrer und aufrichtiger
+                    gewesen. </p>
+            <p>Sie werden bald <seg type="comment">
+                        <orig>zwei unserer Prinzessinnen</orig>
+                  <note xml:id="nmhs_gc5_2z">Prinzessin
+                                <persName key="ed_x11_dgn_fz">Amalie</persName> und Prinzessin
+                                <persName key="ed_xfg_b5l_cz">
+                        <persName key="ed_xfg_b5l_cz">Anna
+                                    Elisabeth Luise</persName>
+                     </persName>, Gemahlin des Prinzen
+                                <persName key="ed_mn5_svg_hy">Ferdinand von
+                            Preußen</persName>
+                  </note>
+                    </seg> in <placeName key="ed_iw5_fxl_2y">Breslau</placeName> sehen, und Fräulein
+                    von <persName key="ed_pkd_5wg_2z">Knesebeck</persName> wird Ihnen eine
+                    ausgiebige Schilderung unserer jetzigen Freuden machen. </p>
+            <p>Ich werde soeben durch einen Mann unterbrochen, der mich beschwört, ihn Ihnen zu nennen; es ist
+                    ein junger <persName key="ed_q5p_mtm_scb">Gualtieri</persName>, der sagt, er
+                    habe die Ehre gehabt, Sie in <placeName key="ed_uyx_nvn_my">Paris</placeName> zu
+                    sehen. Er scheint Geist zu haben und stirbt vor Sehnsucht, <seg type="comment">
+                        <orig>bei dem <persName key="ed_x2r_52f_cy">Könige</persName> als Vorleser
+                            angestellt zu werden.</orig>
+                  <note xml:id="niyf_xc5_2z">de <persName key="ed_glb_bgl_hkb">Prades</persName>, der bisherige Vorleser, war
+                            Ende 1757 auf die Festung Magdeburg gebracht worden, da er sich zu
+                            Spionagediensten hatte missbrauche lassen. - Einen jungen Kandidaten,
+                            der mit <quote>viel Beredsamkeit</quote> in der Werderschen Kirche
+                            gepredigt habe, erwähnt Lehndorff in seinen Tagebüchern am 4. März
+                            1753.</note>
+                    </seg> Wenn eine <persName key="ed_wcr_pdy_bz">Voltaire</persName> vollkommen
+                    gleichende Physiognomie, wenn der Titel eines Neffen des verstorbenen <persName key="ed_h5r_dd5_2z">Jordan</persName>, wenn ihn ein großer Diensteifer für
+                    Seine Majestät Ihre Protektion verdienen lassen kann, bitte ich Sie, an ihn zu
+                    denken, im Fall, dass Sie ihm nützlich sein könnten.</p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

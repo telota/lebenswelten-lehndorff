@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_qjz_q1f_hy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an Ludwig Graf Finck von
+                    Finckenstein. Nach dem 6. Januar 1785</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_qjz_q1f_hy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 387, Bl. 183-183v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, (Ernst) Ahasverus Heinrich Graf von
+                        (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <date notBefore="1785-01-06" notAfter="1785-01-15" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_vz3_gpp_mbb">Finck von Finckenstein, Ludwig Graf
+                        (1743-1803)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>In diesem Augenblick wende ich mich an Euer Hochwohlgeboren nicht als an den Chef
+                    der Regierung, sondern an den Freund, der meinen <persName key="ed_k4z_jgl_2y">Sohn</persName> verehrt und liebt. Ich habe hier in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> das Reskript des <orgName key="ed_myk_cjr_gbb">Insterburgischen Hofgerichts</orgName> durch meinen
+                    Steinortischen Justitiario den 6. Januario erhalten, obschon es Ende November
+                    datiert war. Es war eben in der Zeit, da ich mich von meinem <persName key="ed_k4z_jgl_2y">Sohn</persName> trennte, der nach unserem 3-monatlichen
+                    Urlaub wiederum nach seinem Posten im ersten Bataillon Garde nach <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> zurückreiste. Ich gehe in einigen
+                    Tagen nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, von da ich
+                    schuldigermaßen eine Antwort sogleich übermachen werde. Ich bitte also Ew.
+                    Hochwohlgeboren, mir eine gütige Nachsicht zu verstatten, wenn diese Antwort
+                    etwas später eintreffen würde. Habe ich gefehlet, so ist das wirklich unwissend
+                    geschehen. Ich erinnere mich des <seg type="comment">
+                  <orig>Reskripts von 1781.
+                            </orig>
+                  <note xml:id="nfh3_tqp_mbb">Die von König <persName key="ed_nyn_ffz_g1b">Friedrich Wilhelm I.</persName> dem
+                            Justizminister Samuel von <persName key="ed_hkg_s5c_5db">Cocceji</persName> aufgegebene Neuordnung des preußischen
+                            Rechtswesens zog sich über Jahre hin. Nachdem Cocceji 1751 bereits zu
+                            einer Inspektionsreise nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gekommen war, sollte Großkanzler Johann
+                            Heinrich von <persName key="ed_rwj_n5g_hy">Carmer</persName> die Aufgabe
+                            zum Abschluss bringen. Er kam am September 1781 nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, um sich ein Bild zu
+                            machen. 1782 wurden alle königlichen Gerichte als „<orgName key="ed_glc_bp1_tcb">Ostpreußische Regierung</orgName>‟
+                            zusammengefasst, die für alle Zivil- und Kriminalsachen, Hypotheken,
+                            Pupillen- und Depositalsachen zuständig war, die vor ein Obergericht der
+                            landesherrlichen Gerichtsbarkeit gehörten. Dessen erster Senat entsprach
+                            dem früheren Hofgericht, der zweite dem Tribunal, vgl. Goldenbaum,
+                            Ursula, Appell an das Publikum. Die öffentliche Debatte in der deutschen
+                            Aufklärung 1687-1796, Berlin 2015, S. 770 ff. </note>
+               </seg> Allein ich
+                    bin auch Zeuge in <placeName key="ed_xrv_gwb_by">Berlin</placeName> gewesen, als
+                    diese Verordnung hier eine widrige Sensation machte und dasselbe nicht
+                    durchging. Unser so großer <seg type="comment">
+                  <orig>König, damals Prinz von
+                            Preußen</orig>
+                  <note xml:id="nkqr_1xk_w2b">Friedrich II.</note>
+               </seg>,
+                    nahm den väterlichsten Anteil an diesem allgemeinen Leiden. Ihre Exzellenz der
+                    Herr Großkanzler von <persName key="ed_rwj_n5g_hy">Carmer</persName> geruhten
+                    mir damals gütigst bekannt zu machen, dass es vielmehr ein väterlicher Rat als
+                    eine Ordre wäre; und also glaubte ich, dass wir auch hier in <placeName key="ed_uvt_4j4_dz">Preußen</placeName> bei unseren alten <rs type="term" key="ed_cf5_l5g_hy">Privilegien</rs> würden erhalten werden. Ich werde mich
+                    niemals der Konfirmation eines Justitiario weigern. Allein ihn ohne limitierte
+                    Zeit anzunehmen und bestätigt zu sehen, scheint mir sehr hart und unmöglich zu
+                    sein. </p>
+            <p>Wie oft habe ich Gelegenheit gehabt, in <placeName key="ed_xrv_gwb_by">Berlin</placeName> die
+                    wahre Verehrung an den Tag zu legen, so mir Ew. Hochwohlgeboren vortreffliche
+                    Denkungsart einflößt. Ich habe immer in Ihnen dasselbe menschenliebende Begehren
+                    gefunden, so mich so unumschränkt mit Ihro Exzellenz dem Herrn Großkanzler
+                    verbindet. Dieses flößt mir jetzt das Vertrauen ein, mich an Euer
+                    Hochwohlgeboren in meinem Partikulier-Schreiben zu wenden, mir Ihren würdigen
+                    freundschaftlichen Rat auszubitten, wonach ich meine Antwort an die Regierung
+                    einreichen werde.</p>
+                <closer>
+                    <salute>Ich bin mit unumschränkter Hochachtung</salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

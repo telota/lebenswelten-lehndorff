@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mzn_5bs_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kanzlei Sello, Silberstein und Marwitz an Heinrich Graf von Lehndorff.
+                    Berlin, 7. Juli 1898</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mzn_5bs_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 30, Bl. 106-107</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_gpd_zzw_h2b">Kanzlei Sello, Silberstein und Marwitz</orgName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1898-07-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_nml_dw2_cy">Lehndorff, Heinrich Graf von (Königsberg
+                        1.4.1829-Preyl 24.4.1905)</persName>
+                </correspAction>
+                <note>Vgl. die der Akte beiliegenden Briefe aus den Vorjahren bzgl. der
+                    Sequestration Steinorts. Per 1. Juli 1896/97 waren 50.825, 52 Mark, 1897/98
+                    24.092,32 Mark und 1898/99 35.579,98 Mark zur Schuldentilgung eingeliefert
+                    worden (Bl. 141-141v). Siehe auchdie Aufstellung der <quote>dauernden
+                        Lasten</quote> (Staatssteuern, Kreiskommunalbeitrag von der Grund- und
+                    Gebäudesteuer bzw. von der Ergänzungs- und Einkommensteuer, Einkommensteuer,
+                    Beitrag zur Landwirtschaftskammer, Kirchenumlagen, Patronatsbeitrag zur
+                    Feuerversicherung der Kirche, Lehrergehalt, Lehrerwitwenkassenbeitrag,
+                    Kanalkassenbeitrag, Altersversicherung, Unfallversicherung,
+                    Krankenkassenbeitrag, Abgaben für das Dienstland von Forsthaus Steinort,
+                    Hagelversicherung, Feuerversicherung für das Schloss und das Inventar, die
+                    Wirtschaftsgebäude, für Inventar, Ernte und Vorräte, Zinsen für die Lehnsstämme,
+                    zum Fideikommiss-Schuldentilgungsfonds, Lebensversicherungsprämie) Bl. 142-145.
+                    Diese <quote>dauernden Lasten</quote> betrugen 1896/97 24.815,25 M, 1897/98
+                    24.758,78 M und 1898/99 25.422,97 M. Dazu kamen sogenannte <quote>temporäre
+                        Ausgaben</quote>: Pfandbriefzinsen von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> (in: APO, Bestand 382 FA Lehndorff, Nr. 41:
+                    Überweisung der Schuld- und Pfandverschreibung über 450.000 Mark an die
+                    Fideikommissbehörde zwecks Eintragung auf Steinort, 11. Februar 1886) und
+                        <placeName key="ed_qr3_qst_ncb">Haarszen</placeName>, Zinsen und
+                    Amortisation des Meiereidarlehens und für die Revenuen-Hypothek, Zinszahlungen
+                    auf 30.000 Mark (1.350 Mark) an Graf <persName key="ed_gmh_w2s_d2b">Dönhoff</persName>, Zinsen für <placeName key="ed_xjg_d12_gy">Stobben</placeName> und <placeName key="ed_epz_y2c_gy">Engelstein</placeName>, Rentenbankrente, Domänenzins, Armenlasten,
+                    Amtsunkosten, Fischereiaufsicht, Rohrpacht, Beaufsichtigung des Fideikommisses,
+                    Beaufsichtigung des Schlossinventars, Gehälter und Löhne für die Wirtschaft
+                    (einschl. Bespeisungsgeld), Forst (einschl. Deputat), Schloss und Garten,
+                    Pensionen, Tagelöhne an eigene Leute, Fremde und für den Garten, diverse Kosten
+                    für den Forst (Schlagelöhne, für Kulturen, für die Jagd, Bauten). Die Summe der
+                        <quote>temporären Ausgaben</quote> belief sich für 1896/97 auf 95.817, 68
+                    Mark, für 1897/98 auf 95.654,65 M und für 1898/99 auf 98.462,98 M. Als dritte
+                    Ausgabe kamen dazu sogenannte <quote>einmalige Ausgaben</quote>:
+                    Wirtschaftsrechnungen, Neubauten, Reparaturbauten, Reparaturen am Schloss,
+                    Ausgaben für den Garten, Weihnachtsgeschenke, Kosten für die verpachteten
+                    Vorwerke sowie aus der Zeit der Einleitung der Sequestration. Diese beliefen
+                    sich für 1896/97 auf 81.588,99 M, 1897/98 auf 62.627,29 M, für 1898/99 auf
+                    61.563 Mark. - Die Kosten wurden teils von der Landschaftsdirektion bezahlt,
+                    teils direkt beglichen. Schlussendlich lasteten Pfandbriefzinsen auf <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> für Pfandbriefe in Höhe von 200.000
+                    (Zins: 8.110 M) und 500.000 Mark (Zins: 2.250 M). Für <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> waren an Baronin <persName key="ed_vhr_wjh_cy">Schrötter</persName> Zinsen für einen Pfandbrief in Höhe
+                    von 300.000 Mark zu zahlen (Höhe nicht ausgewiesen). Bl. 146v-152 die
+                    detaillierte Auflistung der genanten, für die Vorwerke geleisteten Zahlungen
+                    sowie die Einnahmen aus den Vorwerken.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/2/30/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin W, den 7. Juli 1898</dateline>
+					          <salute>Sehr verehrter Herr Graf!</salute>
+                </opener>
+				        <p>In der Graf Lehndorffschen Schuldenregulierungssache sind nunmehr wiederum mehrere Wochen
+                    vergangen, ohne dass das in Aussicht genommene Zirkular an die Gläubiger
+                    erlassen worden ist. Ich bin zu meinem Bedauern nicht in der Lage, die Sache
+                    weiter zu führen, wenn Sie, sehr geehrter Herr Graf, mich nicht umgehend in den
+                    Stand setzen, das Zirkular abzufassen und an die Gläubiger zu versenden.</p>
+                <p>Die Verwaltung dauert jetzt zwei Jahre, ohne dass für die <seg type="comment">
+                  <orig>Personalgläubiger</orig>
+                  <note xml:id="nwjw_jks_wcb">Vgl. APO,
+                            Bestand 382 FA Lehndorff, Nr. 27, 33 und 34 sowie die Korrespondenz des
+                            Justizrats Dr. <persName key="ed_apz_m2m_xcb">Loewenfeld</persName> in
+                                <placeName key="ed_xrv_gwb_by">Berlin</placeName> mit den Gläubigern
+                            1906-1908, Nr. 38.</note>
+               </seg> etwas Wesentliches dabei herausgekommen
+                    ist. Die Aussichten sind auch anstatt besser zu werden in der letzten Zeit immer
+                    schlechter geworden. <seg type="comment">
+                  <orig>Meine Vorschläge, die Lage
+                            dadurch zu verbessern, dass die dem Grafen <persName key="ed_ik3_ckz_2y">Lehndorff</persName> gewährte Apanage zugunsten der Gläubiger
+                            verkürzt werde</orig>
+                  <note xml:id="nr5r_qgm_xcb">
+                     <persName key="ed_ik3_ckz_2y">Carol von Lehndorff</persName> lebte anscheinend
+                            auch in den Folgejahren auf großem Fuß. Von Oktober 1903 bis August 1905
+                            bestellte er Weine, Cognac und Zigarren im Gesamtwert von 589,36 Mark,
+                            ohne diese Rechnung zahlen zu können. Der Lieferant G. Hähling aus
+                            Königsberg reihte sich in die Gläubigerliste ein, wollte sich aber mit
+                            einer Schuldurkunde begnügen, vgl. APO, Bestand 382 FA Lehndorff, Nr.38,
+                            Bl. 19 und 22-23. Belege zu den Ausgaben des Schlosshaushalts 1891 bis
+                            1924 bzw. zur Steinorter Gutswirtschaft 1895 in: APO, Bestand 382 FA
+                            Lehndorff, Nr. 171 und 177; Geschäftsbriefe 1883-1887 bzw. 1893 bis 1919
+                            in Nr. 173. </note>
+               </seg> oder dass die Agnaten in gewisser Weise
+                    zurückstehen, haben Ihre Billigung nicht gefunden, ja ich erfahre jetzt zu
+                    meinem Erstaunen von Herrn Kommerzienrat <persName key="ed_nsz_yww_h2b">Palfner</persName>, dass der Plan der <orgName key="ed_q2v_w2m_xcb">Landschaft</orgName>, Barmittel durch das Fällen und den Verkauf von Eichen
+                    zu erlangen, auf das Betreiben eines der Herrn Agnaten fallen gelassen worden
+                    ist.</p>
+                <p>Die Gläubiger haben im Vertrauen auf die Erklärungen der Verwaltungskommission
+                    von einem Vorgehen gegen Herrn <persName key="ed_ik3_ckz_2y">Grafen
+                        Lehndorff-Steinort</persName> Abstand genommen; weder Herr Kommerzienrat
+                    Palfner noch ich sind in der Lage, noch länger durch Untätigkeit das in uns
+                    gesetzte Vertrauen der Gläubiger zu täuschen oder wenigstens uns einem
+                    derartigen Verdachte auszusetzen. Wir halten beide den bisherigen Gang der
+                    Angelegenheit für geeignet, die Verwaltungskommission den schärfsten Vorwürfen
+                    ausgesetzt zu sehen, und sind nicht willens, die Sache erst soweit kommen zu
+                    lassen, das Verdächtigungen ausgesprochen werden.</p>
+                <p>Ich ersuche Sie daher, sehr geehrter Herr Graf, umgehend auf den Betrieb der
+                    Angelegenheit Bedacht zu sein, andernfalls ich meinen bzw. Herrn Dr.
+                    Silbersteins Austritt aus der Kommission den Gläubigern mitteilen müsste. Herr
+                    Kommerzienrat Palfner hat mich ermächtigt, in seinem Namen zu erklären, dass
+                    auch er die Sache nicht ruhig länger mit ansehen können.</p>
+				        <closer>
+					          <salute>Mit vorzüglicher Hochachtung ergebenst</salute>
+					          <signed>Dr. Marwitz <lb/>Rechtsanwalt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

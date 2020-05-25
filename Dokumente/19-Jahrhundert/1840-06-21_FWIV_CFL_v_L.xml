@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_az1_thk_dbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Wilhelm IV. König von Preußen an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Berlin, 21. Juni 1840</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_az1_thk_dbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 213, Bl. 23</idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903</bibl>, S. 660 </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bg5_tsf_4y">Preußen, Friedrich Wilhelm IV. König von
+                        (1795-1861)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1840-06-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Zum Ständischen Huldigungslandtag 1840: GStA PK, XX. HA, Rep. 127, Nr. 34-40
+                    .</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 21. Juni 1840</dateline>
+					          <salute>An den General-Lieutenant Grafen von Lehndorff auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               </salute>
+                </opener>
+				        <p>Da bei den früheren zu <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> abgehaltenen
+                    Landeshuldigungen die Stände des Königreichs Preußen sich zu diesem Behufe zu
+                    einem Landtage versammelt haben, so habe Ich angeordnet, <seg type="comment">
+                  <orig>dass auch bei Gelegenheit der am 10. September d. J.
+                            stattfindenden Huldigung der Preußische Provinzial-Landtag am 5.
+                            desselben Monats zusammentrete.</orig>
+                  <note xml:id="niff_ldm_wcb">Vgl.
+                            Bergius, Carl Julius, Preußen in staatsrechtlicher Beziehung, Münster
+                            1843, S. 94 ff. </note>
+               </seg> Ich finde Mich bewogen, Sie zum
+                    Landtags-Marschall für diesen Landtag hiermit zu ernennen. Sie wollen hierin ein
+                    Zeichen Meines Vertrauens und Meines Anerkenntnisses Ihrer patriotischen
+                    Gesinnungen erkennen.</p>
+				        <closer>
+                    <salute> </salute>Friedrich Wilhelm </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

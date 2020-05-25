@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_flt_cb1_tbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Clemens Graf von Klinckowström an Carl Meinhard Graf von Lehndorff. Hannover, 13. Januar 1882</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_flt_cb1_tbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword"> </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 395, Bl. 70-71</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_rrz_vhv_g2b">Klinckowström, Clemens Graf von
+                        (1846-1902)</persName>
+                    <placeName key="ed_wms_sgc_gy">Hannover</placeName>
+                    <date when="1882-01-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff-Steinort, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Hannover, 13.1.82</dateline>
+					          <salute>Verehrter Graf!</salute>
+                </opener>
+				        <p>Sehr erfreut sind wir über die Aussicht, Sie und Ihre Familie voraussichtlich hier begrüßen
+                    zu können, und vor allem weiß ich, wie glücklich es meine Schwester machen
+                    würde, Gräfin <persName key="ed_ggg_cbm_2y">Agnes</persName> hier zu haben. </p>
+                <p>Um Ihre Frage erschöpfend beantworten zu können, wandte ich mich heute gleich
+                    nachdem ich Ihren Brief erhalten an den Hofmarschall <persName key="ed_rht_ggv_g2b">Schulenburg</persName>, der übrigens nur Exzellenz von
+                    seinen Bekannten genannt wird, was er keineswegs ist, und erfuhr von ihm
+                    folgendes: Ziemlich sicher findet ein Ball im Schloss zu Fastnacht, also am 21.
+                    Februar statt, vorher noch einer, der noch nicht zu bestimmen, weil er abhängig
+                    von der Rückkehr des Prinzen aus <placeName key="ed_xrv_gwb_by">Berlin</placeName>. Nach Fastnacht, aber spät, ein Hofkonzert. In der
+                    Fastenzeit Empfang, Diner, auch Thees wahrscheinlich. Am 8. und 16. Februar
+                    sollen Bälle beim Oberpräsidenten stattfinden. Mehr konnte ich selbst beim
+                    Hofmarschall nicht in Erfahrung bringen.</p>
+                <p>Eine sehr gute Gesangslehrerin ist hier. Es ist die erste Sängerin an der
+                    hiesigen Oper eine Frau <persName key="ed_mnj_tgv_g2b">Koch-Bosenberger</persName>. Von der Tochter der verstorbenen Frau
+                        <persName key="ed_a32_1hv_g2b">von Gersdorff </persName>hörte ich, dass
+                    diese Dame sehr guten Unterricht erteilt, auch Anfängerinnen im Gesang. Außerdem
+                    hat Jenny <persName key="ed_cyv_bhv_g2b">Korsch</persName> mit vielem Erfolg
+                    hier Gesangsunterricht gehabt, bei wem weiß ich allerdings nicht. Meine
+                    Schwester ist von Berlin aus gleich weiter nach <placeName key="ed_ixc_hlg_ccb">Brunn</placeName> gefahren, und erwarten wir sie hier am 20. spätestens.
+                    Mein Wunsch, sie bereits am 18. an ihrem Geburtstag hier zu sehen, scheint nicht
+                    in Erfüllung zu gehen. Ich hoffe, dass Sie nun sicher mit <persName key="ed_cpm_33y_ydb">Schliebens</persName> am 19. oder 20. kommen.</p>
+                <p>Wie ich höre, wird Gräfin <persName key="ed_ikd_rdt_kfb">Schwerin</persName> auch
+                    auf einige Wochen hierher nach <placeName key="ed_wms_sgc_gy">Hannover</placeName> kommen, so dass sich hier eine ganze Kolonie der
+                    Ältesten und Besten aus unserer <placeName key="ed_uvt_4j4_dz">Provinz</placeName> versammelt.</p>
+				        <closer>
+					          <salute>Mit der Bitte, mich Ihrer Hochverehrten Frau <persName key="ed_wms_mh2_cy">Gemahlin</persName> bestens zu empfehlen, Ihr ganz ergebener</salute>
+					          <signed>Gf. Klinckowström</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

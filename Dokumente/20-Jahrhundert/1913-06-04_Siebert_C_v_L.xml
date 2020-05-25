@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ekf_5tq_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title>Karl Siebert an Carol Graf von Lehndorff. Berlin, 4. Juni 1913</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ekf_5tq_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 337, Bl. 164-165v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_f2s_t3q_pz">Siebert, (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1913-06-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ik3_ckz_2y">Lehndorff-Steinort, Carl Meinhard (Carol) Graf von
+                        (1860-1936)</persName>
+                </correspAction>
+                <note>Handschriftlicher Zusatz: Eilt sehr! - Vgl. den Entwurf zum Verkauf der
+                    Marschallheide an <persName key="ed_xbd_43m_zdb">Albrecht Graf zu
+                        Stolberg-Wernigerode </persName> zu Dönhoffstädt in: LASA, StA L, Bestand
+                    21950 FA Lehndorff, Nr. 337, Bl. 153-159; zum Verkauf an einen Holzverwerter Bl.
+                    164-165v.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin NW 21, 4. Juni 1913</dateline>
+					          <salute>Hochgeehrter Herr Graf,</salute>
+                </opener>
+				        <p>ich Sachen <placeName key="ed_op5_ngz_g1b">Marschallheide</placeName> habe ich von Ihrer
+                    Exzellenz Frau Gräfin <persName key="ed_zrm_nts_2y">Margarete von
+                        Lehndorff</persName>
+                    <seg type="comment">
+                  <orig>die in Kopie beiliegende Erklärung vom 17. v.
+                            Mts.</orig>
+                  <note xml:id="nxxf_j54_42b">Liegt der Akte bei, Bl.
+                            169.</note>
+               </seg> erhalten. </p>
+            <p>Wie Sie sehen, ist diese Erklärung am 23. Mai d. Js. auch von Seiner Exzellenz Herrn
+                    Oberlandstallmeister a. D. Grafen <persName key="ed_sjx_pfm_2y">Georg von
+                        Lehndorff</persName> vollzogen worden. Er war an diesem Tage bei uns und
+                    schloss sich in der Erklärung seiner Schwägerin an. </p>
+            <p>Auch Herr Graf <seg type="comment">
+                  <orig>Heinrich Lehndorff </orig>
+                  <note xml:id="nhdh_x3m_zdb">Sohn der oben Genannten, er fiel 1914.</note>
+                    </seg>hat aus Wien <seg type="comment">
+                  <orig>den in Kopie beiliegenden Brief vom
+                            30. d. Js.</orig>
+                  <note xml:id="nxt3_254_42b">Liegt der Akte bei, Bl.
+                            168.</note>
+               </seg> eingesandt. </p>
+            <p>Herr Graf <persName key="ed_obs_b5s_2y">Manfred</persName> endlich war am 30. v. Mts. bei mir und
+                    ließ sich über die Details Ihrer Absichten genau unterrichten. Er war mit Ihren
+                    Plänen durchaus einverstanden. Seiner Ansicht nach ist es, wenn nur eine
+                    Differenz von 15.000 bis 20.000 Mark in Frage steht, wünschenswert, den Wald an
+                    Herrn Grafen <persName key="ed_xbd_43m_zdb">Stolberg</persName> zu verkaufen und
+                    nicht an einen Holzhändler. Gerade aus den <ref target="lehndorff_iqm_nmb_kz">Bestimmungen des Fideikommissstifters</ref> über die Erhaltung des Waldes
+                    hält er es für den Interessen und dem Ansehen der Familie nicht entsprechend,
+                    wenn der Wald an einen Holzhändler zum Abholzen vergeben wird. </p>
+            <p>Herr Graf Manfred betonte weiter, dass der Verkauf der Marschallheide natürlich nur einheitlich
+                    mit den übrigen in unser neulichen Denkschrift behandelten Transaktionen
+                    vorgenommen werden könne. Es müsse also auch die Sicherheit dafür gegeben sein,
+                    dass nach Verkauf der Marschallheide das Gut <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> zugeschlagen werde. Ich konnte ihm darauf
+                    antworten, dass dies selbstverständlich den Wünschen Euer Hochgeboren entspricht
+                    und dass jederzeit, soweit das nach dem früheren Vertrage noch notwendig sei,
+                    eine Erklärung gegeben werden könne, in der Euer Hochgeboren sich verpflichten,
+                    Rosengarten Zug um Zug gegen den Verkauf der Marschallheide dem Fideikommiss zu
+                    den in unserem Bericht erwähnten Bedingungen zum Taxwert zuzuschlagen.
+                    Vielleicht kann ich eine derartige Erklärung entwerfe und gelegentlich zur
+                    Vollziehung vorlegen. </p>
+            <p>Heute morgen rief mich Herr Graf Stolberg-Wernigerode an und teilte mir mit, es sei für ihn
+                    äußerste Eile geboten. Er habe seine anderweiten Pläne schon mehr als zulässig
+                    hinausgeschoben und möchte nun gern innerhalb der nächsten Tage wissen, ob aus
+                    der Sache noch etwas werde. Man habe ihm sogar schon erzählt, <placeName key="ed_mfq_ny3_tdb">Karlswalde</placeName> sei inzwischen verkauft worden.
+                    Ich habe ihm geantwortet, dass letzteres nicht der Fall sei und ihn gebeten,
+                    sich noch etwas zu gedulden. Er erklärte, dass er höchstens noch acht Tage
+                    warten wolle und meinte dann, dass er ungeachtet seiner neulichen Erklärung, den
+                    Preis von 320.000 Mark nicht mehr aufrecht erhalten zu wollen, sich doch zu
+                    diesem Preis verstehen wolle, wenn die Sache zum Abschluss komme. Herr Graf
+                    Stolberg hat mir nämlich inzwischen den in Kopie beiliegenden Brief vom 23. Mai
+                    d. Js. zugesandt und darin, wie Sie sehen, sein Angebot auf 310.000 Mark
+                    ermäßigt. Nach seiner heutigen Erklärung scheint es ihm damit aber nicht so sehr
+                    ernst zu sein. </p>
+            <p>Ich bitte Sie, hochgeehrter Herr Graf, nun sehr ergebenst, baldgefälligst eine Entscheidung
+                    darüber zu treffen, ob Sie die Marschallheide für die 320.000 Mark an Herrn
+                    Grafen Stolberg-Wernigerode verkaufen wollen. Wegen einer Differenz von nicht
+                    mehr als 20.000 Mark würde ich persönlich den Verkauf an einen Holzhändler nicht
+                    vorziehen, denn wenn der Wald zum Zweck der Abholzung verkauft wird, würden wir
+                    erhebliche Schwierigkeiten bei der Fideikommissrechtlichen Durchführung der
+                    Sache haben. Außerdem befürchte ich, dass man Ihnen einen solchen Verkauf
+                    vielleicht doch hier und da verübeln würde, und auch das Oberlandesgericht würde
+                    diese Gelegenheit benutzen, sei es aus eigener Initiative, sei es auf
+                    Veranlassung des Herrn Grafen <persName key="ed_ugc_tjm_zdb">Schwerin-Mildenitz</persName>, als „Aufsichtsbehörde‟ tätig zu werden. Über
+                    die neulichen Einwirkungen des Herrn Grafen Schwerin auf das Oberlandesgericht
+                    sprach übrigens Herr Graf Manfred Lehndorff seine lebhafte Verwunderung aus. Wir
+                    kamen auf diese Einwirkung zu sprechen, da das Königliche Oberlandesgericht eine
+                    ähnliche Verfügung wie Ihnen auch ihm und seinem Bruder, Herrn Grafen Heinrich,
+                    hatte zugehen lassen. </p>
+            <p>Sollte auf die mir mit dem geehrten Schreiben Euer Hochgeboren vom 25. Mai d. Js. übersandte
+                    Anfrage bei Herrn Grafen <persName key="ed_zbn_2km_zdb">Eulenburg-Prassen</persName> eine Antwort eingegangen sein, dann darf ich
+                    wohl um eine freundliche Übermittlung bitten. </p>
+            <p>Herrn <persName key="ed_mqh_hkm_zdb">Kuchenbecker</persName> in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>, der erneut bei mir angefragt hat, habe ich zunächst
+                    noch einmal hinhaltend geschrieben.</p>
+				        <closer>
+					          <salute>In ausgezeichneter Hochachtung ergebenst</salute>
+					          <signed>Siebert <lb/>Rechtsanwalt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

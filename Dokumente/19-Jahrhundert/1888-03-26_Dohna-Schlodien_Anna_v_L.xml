@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_sc5_whg_j1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Adolf Burggraf und Graf zu Dohna an Anna Gräfin von Lehndorff. Königsberg,
+                    26. März 1888</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_sc5_whg_j1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 416, n. f. </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_d5z_l45_ccb">Dohna-Schlodien, Adolf Graf zu
+                        (1846-1905)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1888-03-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 26. März 1888</dateline>
+					          <salute>Gnädigste Gräfin</salute>
+                </opener>
+                <p>Auf das gnädige Schreiben vom 22. d. Mts. beehre ich mich mit großem Dank zu
+                    erwidern: Die Idee, das Andenken unseres hingegangenen unvergesslichen <persName key="ed_lwx_y32_cy">Kaisers</persName> durch Kirchenbau in der
+                    Reichshauptstadt zu ehren, ist mir so schön und edel, dass man nicht zweifelhaft
+                    sein darf, sie werde in unserem Volke vollen Anklang und Boden finden. Ob
+                    dieselbe soweit zu realisieren sein wird, dass eine jede Provinz ihren
+                    besonderen Kaiserbau ausführen könne, erscheint allerdings sehr zweifelhaft,
+                    insbesondere in Anbetracht der dadurch bedingten Dotationen. Besonders fürchte
+                    ich, dass auch hier die weltlichen Forderungen den geistlichen schwere
+                    Konkurrenz machen werden, auch in unserer Provinz, wo der Wunsch besonders nahe
+                    liegt, dem verewigten teuren Herrn in der Krönungsstadt ein würdiges Denkmal in
+                    Gestalt einer <seg type="comment">
+                  <orig>Reiterstatue</orig>
+                  <note xml:id="nksk_jzs_kfb">Vgl. <ref target="https://de.wikipedia.org/wiki/Kaiser-Wilhelm-I.-Denkmal_(K%C3%B6nigsberg)">https://de.wikipedia.org/wiki/Kaiser-Wilhelm-I.-Denkmal_(Königsberg)</ref>.</note>
+               </seg>
+                    zu setzen. Trotzdem bin ich gern bereit, für die in dankenswerter Weise in
+                    Anregung gebrachte Idee persönlich einzutreten in der Hoffnung, wenigstens
+                    einigermaßen zur Befriedigung des schwer auf <placeName key="ed_xrv_gwb_by">Berlin</placeName> lastenden religiösen Bedürfnisses beitragen zu können.
+                    Nach dem Osterfeste beabsichtige ich eine Versammlung des ostpreußischen
+                    Pastoral-Hilfsvereins einzuberufen, und wenn der vorliegende Gegenstand auch
+                    nicht in direkter Verbindung mit den Zwecken des Vereins steht, so wird mir doch
+                    Gelegenheit gegeben sein, denselben im Kreise von Männern zu besprechen, denen
+                    ich ein warmes Herz für die Sache zutraue. Besonders wird zu erwägen sein, ob es
+                    sich empfiehlt, das Vorgehen nach diesem Ziel für Preußen und Deutschland zu
+                    zentralisieren oder provinziell zu bewirken. Sobald ich über die Sache etwas
+                    Positives mitteilen kann, werde ich nicht verfehlen, gnädigste Gräfin, weitere
+                    Mitteilungen zu machen. </p>
+				        <closer>
+				           <salute>Mit tiefer Verehrung habe ich die Ehre mich zu nennen
+				        Gnädigster Gräfin ganz gehorsamster
+				    </salute>
+					          <signed>Dohna-Schlodien</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

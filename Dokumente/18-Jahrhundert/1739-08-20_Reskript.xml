@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_sh2_y5v_q2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reskript. Königsberg, 20. August 1739</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_sh2_y5v_q2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="editorial">
+                    <p>Am 12. September wurde <persName key="ed_q4s_xyl_2y">Gräfin
+                            Lehndorff</persName> aufgefordert, sich in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> einzufinden, um mit dem
+                        Hofgerichtsrat <persName key="ed_drn_pbj_f3b">Grabowski</persName> und dem
+                        Propst <persName key="ed_ccw_sfj_f3b">Helwing</persName> über den Zustand
+                        der Schulen und den Unterhalt der Schulmeister in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, <placeName key="ed_bxm_sxb_5bb">Doben</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName>, <placeName key="ed_xjg_d12_gy">Stobben</placeName>, <placeName key="ed_xpm_112_gy">Labab</placeName> und
+                            <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu konferieren. in
+                        Am 7. Oktober 1739 kommunizierte das Hauptamt Barten das königliche Reskript
+                        nochmals, da nach dem Bericht des <quote>Erzpriesters <persName key="ed_pjq_fdx_fhb">Schumann</persName> an vielen Orten</quote>
+                        noch immer zahlreiche Mängel sowohl hinsichtlich der Schulgebäude als auch
+                        der <quote>Subsistenz derer Schulmeister</quote> bestanden (in der Akte).
+                        Schumann werde zeitnah <quote>alle Schulen bereisen und alles genau dabei
+                            visitieren, auch examinieren, und die Saumseligen aufzeichnen und
+                            selbige seiner Königlichen Majestät bekannt machen</quote>. Die darauf
+                        folgenden Strafen müssten sie sich dann selber zuschreiben. Am 28. März 1740
+                        empfahl Probst <persName key="ed_ccw_sfj_f3b">Helwing</persName> aus
+                            <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> wegen der Besetzung
+                        der Lehrerstelle in <placeName key="ed_bxm_sxb_5bb">Doben</placeName> den
+                        Studiosus <persName key="ed_gjh_ggj_f3b">Hoffmann</persName>. Er habe in
+                            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> studiert, sei dann
+                        Organist in <placeName key="ed_lrv_kgj_f3b">Dombrowken</placeName> gewesen
+                        und habe die Jugend in <placeName key="ed_n5r_g45_ncb">Posessern</placeName>
+                        unterrichtet. Ebd., Nr. 262, n. f.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 464, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                <date when="1739-08-20" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Verbesserung der Schulverhältnisse und der Versorgung der Lehrer in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, <placeName key="ed_bxm_sxb_5bb">Doben</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName>,
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>, <placeName key="ed_xpm_112_gy">Labab</placeName> und <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

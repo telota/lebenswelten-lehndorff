@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ib4_nlc_p2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hans Mirecki an Werner Manneberg. Kriebstein, 20. Februar 1947</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ib4_nlc_p2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 20232 Kreistag Döbeln, Nr. 1315, Bl. 35</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_dwy_zsf_p2b">Mirecki, Hans (-)</persName>
+                    <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName>
+                    <date when="1947-02-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_b4z_sqf_p2b">Manneberg, (-)</persName>
+                </correspAction>
+                <note>
+               <persName key="ed_dwy_zsf_p2b">Mirecki</persName> war Betreiber der Gaststätte
+                    Talsperre Kriebstein. Auf dem von ihm erwähnten Antrag vom 19.Oktober 1946, ihn
+                    als ehrenamtlichen Burgverwalter einzusetzen (Bl. 7) ist notiert:
+                        <quote>Ablehnen, da es Kreismuseum wird und der Kultusabteilung unterstellt
+                        wird, die die Burg in Ordnung bringen wird. M.</quote> Mirecki wurde am 18.
+                    März 1947 abschlägig beschieden (Bl. 34). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Kriebstein, den 20.2.1947</dateline>
+					          <salute>
+                  <seg type="comment">
+                     <orig>Sehr geehrter Herr Landrat!</orig>
+                     <note xml:id="nrvx_mb3_xkb">Das Schreiben ging an Manneberg, 1945 bis 1949 Sekretär des
+                                Landrats in Döbeln. </note>
+                  </seg>
+               </salute>
+                </opener>
+				        <p>Ich betrachte es als meine Pflicht, Ihnen folgendes mitzuteilen:</p>
+                <p>
+               <seg type="comment">
+                  <orig>Vor ein paar Wochen hatte ich Gelegenheit, erstmalig
+                            Burg <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> zu
+                            besuchen.</orig>
+                  <note xml:id="nvcq_ypc_p2b">Vom 3. bis 5. Februar 1947
+                            hatte eine Revision in der Försterei Kriebstein stattgefunden. Dabei
+                            wurde Revierförster <persName key="ed_zpf_b25_sdb">Paulick</persName>
+                            verhaftet und es fand eine polizeiliche Durchsuchung der Burg statt.
+                            Mirecki war von der Kreispolizei aufgefordert worden, daran
+                            teilzunehmen. Er führte auch das Verhör Paulicks in Gegenwart der
+                            Polizei. Waffen wurden bei der Durchsuchung nicht entdeckt, dafür aber
+                            u. a. <quote>Tafelgeschirr, Meißner Porzellan mit dem
+                                Drachenmuster</quote>. Mirecki nahm es an sich mit der Begründung,
+                                <quote>dass es Millionenwerte seien</quote>. Über den weiteren
+                            Verbleib des Porzellans, so das Kommunalwirtschaftsamt des Landkreises
+                            Döbeln am 8. Februar 1947, sei <quote>nichts bekannt</quote> (Bl. 39 und
+                            43). - Ab November 1948 wurde Kriebstein durch Revierförster Paulick
+                            verwaltet; Forstwart <persName key="ed_rth_b5t_sdb">Kunz</persName>
+                            nebenamtlich Führungen durch (Bl. 48). </note>
+               </seg> Ich habe
+                    festgestellt, dass sich dort Kunstgegenstände befinden, die, auch nicht nur von
+                    künstlerischer Seite betrachtet, einen sehr hohen Wert haben. Wie ich die
+                    Verhältnisse des Auslandes kenne, geht der Wert mancher Gegenstände in die
+                    Millionen. Bilder, Malereien, <seg type="comment">
+                  <orig>Bücher</orig>
+                  <note xml:id="nbjm_j4c_p2b">Auch die Arnimsche Bibliothek befand sich am 20.
+                            Februar 1947 noch in Kriebstein. Sie wurde auf Veranlassung der
+                            Landesregierung der Stadt Leipzig übergeben, einzelne Bände gingen an
+                            die Parteischule in Kriebstein (Bl. 36).</note>
+               </seg>,
+                    Bildhauerarbeiten, Schnitzereien und viele andere Kunstgegenstände liegen dort
+                    ohne jeglichen Schutz und ohne Pflege und werden von Ratten und Insekten
+                    gefressen. Durch zerstörte Fenster sind diese Sachen der Witterung ausgesetzt
+                    und niemand kümmert sich darum.</p>
+                <p>Auch das Schloss selbst mit seiner Inneneinrichtung gehört zu den ganz großen
+                    Seltenheiten. Derartige historische Bauten stehen im Ausland unter behördlichem
+                    Schutz.</p>
+                <p>Burg Kriebstein befindet sich nicht etwa in den Händen eines erfahrenen
+                    Kunstfachmanns, im Gegenteil, es herrschen dort Zustände, die die Burg
+                    rettungslos der Vernichtung preisgeben.</p>
+                <p>Ich verstehe, dass Sie, Herr Landrat, jetzt Wichtigeres zu erledigen hatten. Denn
+                    die Zeit ist schwer und das erste Gebot der Stunde ist, die Leute vor Hunger und
+                    Kälte zu bewahren; aber in einigen Jahren sind die Verhältnisse wesentlich
+                    anders und wir können den Schaden nicht wieder gut machen, den Burg Kriebstein
+                    in dieser Zeit erlitten hat.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Vor einigen Monaten schlug ich in einem Schreiben dem
+                            Herrn Landrat vor, mich als ehrenamtlichen Verwalter für Burg Kriebstein
+                            einzusetzen. </orig>
+                  <note xml:id="nqy3_f4c_p2b">In der Akte, Bl.
+                            7.</note>
+                    </seg>Aus reiner Leidenschaft für Kunst wollte ich aus eigenen Mitteln die
+                    notwendigen Reparaturen und Wiederherstellungarbeiten an Gebäude und Einrichtung
+                    durchführen. Sollten Sie, Herr Landrat, mich persönlich als Verwalter für nicht
+                    geeignet halten, so gäbe es doch sicher im Kreis Döbeln oder in der weiteren
+                    Umgebung einen ehemaligen Lehrer oder Professor oder anderen Kunstverständigen,
+                    der sich als Burgverwalter bereitfinden würde.</p>
+                <p>Sollten im Haushaltsplan des Kreises Döbeln entsprechende Mittel fehlen, so wäre
+                    ich gern bereit, meine privaten Finanzmöglichkeiten zur Verfügung zu
+                    stellen.</p>
+				        <closer>
+					          <salute>Hochachtungsvoll</salute>
+					          <signed>Mirecki</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

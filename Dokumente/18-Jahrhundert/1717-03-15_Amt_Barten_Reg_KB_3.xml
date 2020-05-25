@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_cjm_chv_xhb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lehnstabelle. Barten, 15. März 1717</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_cjm_chv_xhb</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA GR, Rep. 66: Allodifikation der Lehen, Nr. 51, n. f</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_y5w_wtp_dz">Barten</placeName>
+                <date when="1717-03-15" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <table rows="22" cols="3">
+                    <row>
+                        <cell>1.</cell>
+                        <cell>Name des Lehnguts</cell>
+                        <cell>
+                     <placeName key="ed_pxt_cnh_1y">Surwillen</placeName>
+                  </cell>
+                    </row>
+                    <row>
+                        <cell>2.</cell>
+                        <cell>Wo / und unter welcher Hoheit selbiges belegen?</cell>
+                        <cell>Liegt im Königreich Preußen im Amte Barten</cell>
+                    </row>
+                    <row>
+                        <cell>3. </cell>
+                        <cell>Name des Vasallen</cell>
+                        <cell>
+                     <persName key="ed_wwb_gcm_2y">Maria Eleonora Gräfin von Lehndorff
+                            </persName>geborene Gräfin von <seg type="comment">
+                        <orig>Denhoff</orig>
+                        <note xml:id="na4h_jfk_nz">Dönhoff</note>
+                     </seg> mit ihren beiden Söhnen <persName key="ed_kyf_fpy_bz">Gerhardus Ernestus</persName> und <persName key="ed_wtg_nyl_2y">Ernestus Ahasverus </persName> Grafen von
+                            Lehndorff</cell>
+                    </row>
+                    <row>
+                        <cell>4.</cell>
+                        <cell>Ob der Vasall das Lehen selbst besitze / oder jemand anderes?</cell>
+                        <cell>Die Frau Gräfin von Lehndorff besitzt es mit ihren beiden Söhnen, Graf
+                            Gerhard Ernst und Ernst Ahasverus</cell>
+                    </row>
+                    <row>
+                        <cell>5. </cell>
+                        <cell>Wenn das Lehngut nicht in des Vasalli, sondern in eines Tertii Händen
+                            / quo jure es dieser letztere besitze?</cell>
+                        <cell>Es ist das Lehngut in des Vasallen Händen, und besitzen es juro
+                            emptionis</cell>
+                    </row>
+                    <row>
+                        <cell>6.</cell>
+                        <cell>Ob es ein feudum promiscuum, oder zu was Rechten es sonst
+                            verliehen?</cell>
+                        <cell>Es ist zu Magdeburgischen und beider Kinder Rechten
+                            verschrieben</cell>
+                    </row>
+                    <row>
+                        <cell>7.</cell>
+                        <cell>Ob ein gewisser Lehnstamm dabei vorhanden?</cell>
+                        <cell>Nein</cell>
+                    </row>
+                    <row>
+                        <cell>8.</cell>
+                        <cell>Ob der Vasallus in casus aperturae, wegen Wiedererstattung des
+                            Kauf-Pretii und der Melioration Lehnsherrlichen Konsens habe?</cell>
+                        <cell>Über das Kaufpretium ist ein lehnsherrlicher Consens vorhanden</cell>
+                    </row>
+                    <row>
+                        <cell>9.</cell>
+                        <cell>Ohngefährlicher Wert des Lehens</cell>
+                        <cell>Ist laut  Kaufkontrakt mit 200.000 Tlr. bezahlt</cell>
+                    </row>
+                    <row>
+                        <cell>10.</cell>
+                        <cell>Ob es auf dem Fall stehe? &amp;</cell>
+                        <cell>Es steht auf keinen Fall</cell>
+                    </row>
+                    <row>
+                        <cell>11.</cell>
+                        <cell>Si non, wieviel lehnsfähige Deszendenten? und</cell>
+                        <cell>Maria Eleonora Gräfin von Lehndorff hat 2 Söhne als Gerhard Ernestus
+                            und Ernestus Ahasverus Grafen von Lehndorff, die Tochter <persName key="ed_oln_sw4_mbb">Sophia Charlotta </persName>ist an den
+                                <persName key="ed_m5q_z52_vz">Boguslaw Friedrich Grafen von
+                                Dönhoff</persName> zu Groß Wolfsdorf vermählt, deren vier Kinder am
+                            Leben</cell>
+                    </row>
+                    <row>
+                        <cell>12.</cell>
+                        <cell>Wieviel Gesamthänder dabei vorhanden?</cell>
+                        <cell>Über die No. II spezifizierten Lehnsfolger sind keine gesamte Händer
+                            vorhanden</cell>
+                    </row>
+                    <row>
+                        <cell>13.</cell>
+                        <cell>Ob dieselbe alle oder einige davon in fremden Landen wohnen? Und
+                            wo?</cell>
+                        <cell>Gerhard Ernst Graf von Lehndorff ist Obrister in Hessen-Kasselschen
+                            Diensten, die anderen sind alle in Preußen</cell>
+                    </row>
+                    <row>
+                        <cell>14.</cell>
+                        <cell>Wer diese unter fremder Botmäßigkeit sich befindende Gesamthänder
+                            seien?</cell>
+                        <cell>Es sind keine gesamte Händer unter fremder Botmäßigkeit</cell>
+                    </row>
+                    <row>
+                        <cell>15.</cell>
+                        <cell>Ob Lehnsfehler bei dem Lehen vorgegangen und worin diese
+                            bestehen?</cell>
+                        <cell>Es sind keine Lehnsfehler dabei vorgegangen</cell>
+                    </row>
+                    <row>
+                        <cell>16.</cell>
+                        <cell>Was vor Lehndienste auf dem Lehn haften?</cell>
+                        <cell>Es haftet drauf kein Lehndienst</cell>
+                    </row>
+                    <row>
+                        <cell>17.</cell>
+                        <cell>Wie viel bisher wegen solcher Lehndienste gegeben worden?</cell>
+                        <cell>Weilen keiner darauf haftet, so hat man auch nichts gegeben</cell>
+                    </row>
+                    <row>
+                        <cell>18.</cell>
+                        <cell>Wie oft solches im nächst-verwichenen Seculo geschehen?</cell>
+                        <cell>Man hat keins mal was gegeben</cell>
+                    </row>
+                    <row>
+                        <cell>19.</cell>
+                        <cell>Ob seine Königliche Majestät oder dero hohe Vorfahren sonst einigen
+                            Nutzen aus diesem Lehn gehabt / und worin derselbe bestanden?</cell>
+                        <cell>Es haben Ihro Königl. Majestät oder dero Lehn-Vorfahren davon keinen
+                            weiteren Nutzen gehabt, als dass die gewilligten Kontributiones davon
+                            sind gefallen</cell>
+                    </row>
+                    <row>
+                        <cell>20.</cell>
+                        <cell>Was vor Schulden auf dem Lehn haften?</cell>
+                        <cell>Es haften darauf keine Schulden</cell>
+                    </row>
+                    <row>
+                        <cell>21.</cell>
+                        <cell>Ob dieselbe <seg type="comment">
+                        <orig>konsentieret</orig>
+                        <note xml:id="nlzc_gz3_mbb">genehmigt</note>
+                     </seg> sein von Ihro
+                            Königliche Majestät? und</cell>
+                        <cell>Cessat</cell>
+                    </row>
+                    <row>
+                        <cell>22.</cell>
+                        <cell>Von den Agnaten?</cell>
+                        <cell>Cessat</cell>
+                    </row>
+                    <row>
+                        <cell>23. </cell>
+                        <cell>Ob Seine Königliche Majestät ex causa Domini einen Anspruch an das
+                            Lehn habe?</cell>
+                        <cell>Wenn die Lehnsfolger sowohl männ- als weiblichen Geschlechts sollten
+                            abgehen, so fällt das Lehn an Ihro Königliche Majestät</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>E. A. G. v. Lehndorff</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

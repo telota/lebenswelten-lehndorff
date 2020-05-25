@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_f2j_qdk_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Meinhard Graf von Lehndorff an die Einschätzungskommission für die
+                    Einkommensteuer. Steinort, 24. Dezember 1869 </title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_f2j_qdk_gy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 286, Bl. 6-7</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1869-12-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_jgv_gbz_5x">Einschätzungskommission zur Einkommensteuer, Kreis
+                        Angerburg </orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, 24. Dezember 1869</dateline>
+                </opener>
+                <p>Eine löbliche Kreis-Unterstützungskommission für die <rs type="term" key="ed_nbb_3dk_gy">Einkommensteuer</rs> hat mich laut Benachrichtigung vom
+                        <seg type="comment">
+                  <orig>9. Dezember</orig>
+                  <note xml:id="nxdk_gm2_3fb">Vgl.
+                            das Dokument vom <ref target="lehndorff_sqm_tck_gy">9. Dezember
+                                1869</ref>.</note>
+               </seg> für das Jahr 1870 zur 17. Steuerstufe
+                    eingeschätzt. Ich halte diese Einschätzung für zu hoch und reklamiere dagegen.
+                    Indem ich mich zunächst auf <seg type="comment">
+                  <orig>meine Reklamation vom 9.
+                            Januar d. J.</orig>
+                  <note xml:id="nqpb_g2k_gy">Liegt der Akte nicht
+                            bei.</note>
+               </seg> beziehe, glaube ich dort nachgewiesen zu haben, dass
+                    meine Einnahmen aus verpachteten Gütern und Administration in den Jahren 1867 zu
+                    68 so bedeutende Einbußen erlitten haben, dass dadurch, nach dreijähriger
+                    Fraktion gerechnet, auch meine Einnahme per 1870 noch um ein erhebliches
+                    vermindert wird. Es kommt dazu, dass meine Wirtschaftskasse für das
+                    Wirtschaftsjahr Juli 1868/69 nicht, wie ich in jener Reklamation veranschlagt
+                    hatte, mit einem Minus von 2.542 Talern, sondern mit einem solchen von 9.350
+                    abgeschlossen hat. </p>
+            <p>Der schwache Körnerertrag und die ganz niedrigen Getreidepreise der Ernte von 1869 lassen bereits
+                    mit Bestimmtheit voraussehen, dass der Abschluss meiner Wirtschaftskasse pro
+                    1869/70 nicht entfernt ein solches Resultat ergeben wird, dass dadurch der
+                    Minus-Ertrag des letzten Jahres auch nur einigermaßen übertragen werden könnte.
+                    Was das Kapitalvermögen meiner <persName key="ed_wms_mh2_cy">Frau</persName>
+                    betrifft, so habe ich bereits in <seg type="comment">
+                  <orig>meiner Reklamation
+                            vom 9. Januar d. J. und der Erläuterung dazu vom 4. August</orig>
+                  <note xml:id="nad4_k2k_gy">Liegen der Akte nicht bei.</note>
+               </seg>
+                    nachgewiesen, dass das Einkommen aus demselben jetzt höchstens auf 3.000 Rtlr.
+                    veranschlagt werden kann. Hieran hat sich seither nichts verändert. <lb/>Die
+                    außerordentlich geringen Einnahmen des laufenden Jahres und die
+                    nichtsdestoweniger hervorgetretene Notwendigkeit zu bedeutenden Reisen und
+                    Aufenthalten meiner Familie im Ausland haben dazu geführt, dass ich unter
+                    anderem die Kautionen der Pächter von <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_sc5_c12_gy">Pristanien</placeName>, welche mir in meiner Einschätzung bisher stets mit
+                    400 Rtlr. Zinsgenuss angerechnet worden sind, nicht mehr besitze. <seg type="comment">
+                  <orig>Außerdem habe ich bei dem Banquier <persName key="ed_vxc_p2k_gy">Meyer</persName>
+                            <persName key="ed_a5r_tfk_gy">Cohn</persName> und der Credit-Bank von
+                            Hermann <persName key="ed_jvc_t2k_gy">Henkel</persName>, beide in
+                                <placeName key="ed_xrv_gwb_by">Berlin</placeName>, eine
+                            Kontokorrentschuld von zusammen 12.000 Rtlr., die ich mit 5 % verzinse,
+                            wodurch sich ein neuer Ausfall von 600 Rtlr. ergibt. </orig>
+                  <note xml:id="nsmt_fd5_ncb">Vgl. APO, Bestand 382 FA Lehndorff, Nr. 19, 21 und
+                            22. </note>
+               </seg>Endlich habe ich auch in diesem Jahre wieder bedeutende
+                    Ausfälle an meinen Pachterträgen gehabt, z. B. von <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> die ganze Pacht, 800 Rtlr., von
+                        <placeName key="ed_sc5_c12_gy">Pristanien</placeName> 1.100, von <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> 300, Summa 2.200 Rtlr., ohne dass
+                    von den alten Pachtresten etwas eingegangen wäre. <lb/>Ich beantrage demnach:
+                    eine löbliche Einschätzungskommission wolle mich auch in diesem Jahre wie im
+                    vorigen in die 15. Steuerstufe einschätzen. </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

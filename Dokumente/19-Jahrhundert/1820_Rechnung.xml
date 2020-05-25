@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_afj_zwm_33b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rechnung. Steinort, April 1820</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_afj_zwm_33b</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note>Die Aufstellung nennt die tätig gewesenen Handwerker und die ausgeführten
+                    Reparaturen und Neubauten, wie z. B. Arbeiten für die neue Windmühle in
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> oder für die neue
+                    Vorwerkscheune in <placeName key="ed_xjg_d12_gy">Stobben</placeName>. Siehe auch
+                    die Nachweisung der auf den Steinortschen Gütern befindlichen Gebäude, Pläne zu
+                    Bau- und Reparaturvorhaben an Wirtschaftsgebäuden 1812 sowie Inventarlisten
+                    1819/20, ebd., Nr. 501, 503 und 520. - Siehe auch: Lorck, Carl E. v., Groß
+                    Steinort. Der Bauvorgang eines Barockschlosses im deutschen Osten, Pillkallen
+                    1937; Korduba, Piotr/Poczobutt, Anna, Das Schloss der Grafen von Lehndorff in
+                    Steinort im Lichte neuer Quellen, in: Berichte und Forschungen. Jahrbuch des
+                    Bundesinstituts für Kultur und Geschichte der Deutschen im östlichen Europa 16
+                    (2008), S. 25-48.</note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff, Nr. 858, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date from="1820-04-01" to="1820-04-30" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Rechnung über die pro 1. Januar bis ultimo Dezember 1818 verausgabten Gelder für
+                    die Neubauten und Reparaturen sowie für verschiedene Baumaterialien in den
+                    Reichsgräflich Steinortschen Gütern, verfertigt im Monat April 1820 durch den
+                    Kassenführer <persName key="ed_bxf_12r_gbb">Gregorovius</persName>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

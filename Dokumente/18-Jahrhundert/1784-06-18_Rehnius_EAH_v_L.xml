@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ohh_h4q_51b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Rhenius an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 18. Juni 1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ohh_h4q_51b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 379, Bl. 153-154v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bpl_fsj_gy">Rhenius, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1784-06-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Lehndorff beauftragte Rhenius, ihm über alle <placeName key="ed_pxt_cnh_1y">Steinort</placeName> betreffenden Vorgänge <quote>alle 14 Tage zu
+                        schreiben</quote>, vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr.
+                    380, Bl. 3-5v (9. Juli 1784). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 18. Juni 1784</dateline>
+                    <salute>Hochwürdiger und Hochgeborener Reichsgraf <lb/>Gnädigster Graf und
+                        Herr!</salute>
+                </opener>
+                <p>Zuerst muss Ew. Hochgeboren die sehr angenehme Nachricht untertänig melden, dass
+                    beim Graben des Fundaments zum Speicher (dazu sich Meister <persName key="ed_ibl_wpw_mbb">Schirrwagen</persName> den 14. dieses hier eingefunden
+                    und den Anfang mit dem Bau gemacht hat) die Rinne, welche den großen Brunnen mit
+                    Wasser versehen hat, und von der so vieles gesprochen wurde, glücklich entdeckt
+                    worden; auch habe sie schon bis an den Brunnen aufgraben lassen, und jetzt läuft
+                    schönes reines Wasser ohne Aufhören in den Brunnen. Das Wasser kommt aber nicht
+                    aus dem Keller am alten Flügel (wie die Tradition erzählte), sondern es muss
+                    eine besondere Wasserleitung nahe oder gar unter dem alten Flügel angelegt sein.
+                        <seg type="comment">
+                  <orig>Ich werde jetzt diese kostbaren und sehr
+                            nützlichen Werke bis zu ihrer ersten Vollkommenheit zu bringen mir recht
+                            sehr angelegen sein lassen.</orig>
+                  <note xml:id="nlw4_4dm_3bb">Nach
+                            seinem Brief vom 12. November 1784 muss ihm dies gelungen sein. Er
+                            berichtet: Dass <quote>Wasser im Brunnen hat noch immer einen starken
+                                Zufluss.</quote> Deshalb sei auch die Brau- und Brennerei
+                                <quote>außerordentlich gut, so dass sich sogar schon fremde Käufer
+                                aus angrenzenden Amtsdörfern einfinden</quote>, vgl. LASA, StA L, Bestand
+                            21950 FA Lehndorff, Nr. 380, Bl. 120-121v.</note>
+               </seg>
+                    <note type="editorial">Wegen Labab erbittet er sich eine Resolution.</note>
+                </p>
+                <p>Es ist der Kreis-Justiz-Kommission abermal, und zwar bei 5 Rtlr. Strafe,
+                    anbefohlen, den Knecht <persName key="ed_svq_dqw_mbb">Schönfeld</persName> zu
+                    verhören. Ich habe ihn aber doch nicht eingesandt, sondern mich so gut als
+                    möglich deshalb entschuldigt. Die deshalb allhier eingegangene Verfügung und
+                    meine Gegendarstellung überreiche ich in Kopie untertänigst sub <seg type="comment">
+                  <orig>Beilage A</orig>
+                  <note xml:id="nbrt_pj5_scb">Liegt dem
+                            Brief nicht bei.</note>
+               </seg>. </p>
+                <p>Der Richter in <placeName key="ed_h35_jqh_my">Drengfurth</placeName> ist noch
+                    nicht daselbst eingezogen. </p>
+                <p>Dem <persName key="ed_old_v4w_mbb">Brosch</persName> habe die <placeName key="ed_hrb_hc2_gy">Serwillsche</placeName> Kuhpacht und dem <persName key="ed_pnr_jqw_mbb">Jerominski</persName>
+                    <seg type="comment">
+                  <orig>das Salz </orig>
+                  <note xml:id="nipf_wm5_q2b">Wohl die
+                            Führung der Salzbücher, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 464, Edikt Königsberg 16. Februar 1739:
+                            Gewissenhafte Führung des Salzwesens. Führung der Salzbücher und der
+                            Protokolle der Konsumenten. </note>
+               </seg>übergeben, wozu ich ihn gleich
+                    bei der projektierten Versetzung des Brosch bestimmt hatte, und da es sein
+                    Vorteil ist, hat er es gerne übernommen. Die Kuhpacht bezahlt er richtig und ist
+                    von mir aufs neue mit der erhöhten Pacht von 4 Rtlr. engagiert. </p>
+                <p>Herr Major <persName key="ed_oss_x4h_xkb">v. Trenck</persName> hatte um einen
+                    guten ledigen Menschen in dem Kutschstall ersucht. Hierauf hat er den Reitknecht
+                    des verstorbenen H. Generals v. <persName key="ed_tcf_wqw_mbb">Lossow</persName>, der 21 Jahr in dessen Stall gedient, empfohlen. Da dieser
+                    Mensch aber eine Frau und fünf Kinder hat, so fand ich dabei Ew. Hochgeboren
+                    Absicht zu wenig erfüllt und antwortete H. Major, dass Hochdieselben vorzüglich
+                    einen ledigen Menschen in dem Kutschstall haben wünschten, ich also vorhero
+                    nähere Befehle erwarten müsste, ehe ich diesen Mann engagieren könne. <persName key="ed_sny_yqw_mbb">Dusig</persName> ist seit Höchstdero Abreise immer im
+                    Stall und nicht wieder krank geworden. Herr v. <persName key="ed_zt5_y5b_tcb">Podewils</persName> (der mich ersuchte, allemal, wenn ich schreibe, seinen
+                    untertänigsten Respekt zu versichern) besucht den Kutschstall fleißig und reitet
+                    die Hengste. </p>
+                <p>Herr Pfarrer hat die 100 Fl. Mantel-Gelder erhalten. Sein ganzes Betragen ist von
+                    der Art, dass ich hoffe, Ew. Hochgeboren werden mit ihm auch in der Folge
+                    zufrieden sein. Die letzten drei Predigten haben mir so gefallen, dass ich mir
+                    fest vorgenommen, wenn es irgend möglich, in Zukunft keine zu versäumen. Er
+                    brauchte Leinsaat und habe ich ihm einen Scheffel geschickt und erbitte einen
+                    gnädigen Befehl, ob ich die Bezahlung dafür annehmen soll. </p>
+                <p>Der <seg type="comment">
+                  <orig>Rektor</orig>
+                  <note xml:id="nifk_sgv_scb">
+                     <persName key="ed_hm2_g3t_ncb">Strugull</persName> Siehe hierzu auch im
+                            Folgenden. Strugull war bereits vor 1774 Rektor, vgl. dessen
+                            Geburtstagsschreiben an den Grafen in: LASA, StA L, Bestand 21950 FA
+                            Lehndorff, Nr. 374, Bl. 160-161 (17. September 1774).</note>
+               </seg> hat
+                    eine ledige Person, die Brot auf die Dörfer zum Verkauf trägt, geschwängert,
+                    welches diese Person Herrn Pfarrer angezeigt, der Rektor hat es demselben
+                    anfänglich auch schon eingestanden, jetzo aber sagt er zu ihm, dass er diese
+                    Sache nicht bekennen würde. <seg type="comment">
+                  <orig>Als ich Herrn Pfarrer das
+                            Kircheninventarium nebst der Orgel übergab, fand sich es, dass der
+                            Zimbel-Stern und noch ein Zug ganz verdorben und die ganze Orgel
+                            verstimmt ist.</orig>
+                  <note xml:id="ncxc_j5r_gbb">Die Orgel war am 17.
+                            Dezember 1775 geweiht worden, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 43 (Entwurf des Weihespruchs). - Auf eine
+                            Anfrage des General-Direktoriums vom Mai 1785 wegen der Ansetzung eines
+                            vierten Orgelbauers für Ostpreußen an die Ostpreußischen, Litauischen
+                            und Ermländischen Kircheninspektoren hatte der Inspektor für Rosengarten
+                            erklärt, dass es schon vor 1771 in Rosengarten ein <quote>kleines
+                                Positiv</quote> gegeben hätte, das 1775 durch die neue Orgel von
+                            Orgelbauer <persName key="ed_shg_m2y_m2b">Johann Preuß</persName> aus
+                                <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> ersetzt worden
+                            sei. Dazu war am 11. Mai 1774 in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ein Vertrag mit der <persName key="ed_q4s_xyl_2y">Reichsgräfin Lehndorff </persName>geschlossen
+                            worden. Die Zahlungen sollten in drei Terminen erfolgen. Am 11. Oktober
+                            1775 quittierte Preuß über 500 Gulden <quote>auf die neu zu erbauende
+                                Kirche nach Rosengarten als den zweiten Termin am heutigen Dato bar
+                                und richtig</quote>, und am 3. Adventssonntag konnte die Orgel in
+                                <quote>Gegenwart des Herrn Lehns-Patron der gedachten Kirche, Herrn
+                                Reichsgrafen <persName key="ed_csb_mdf_cy">Ahasverus von Lehndorff
+                                </persName>auf Steinort und anderen eingewidmeten Hochadelichen
+                                Herrschaften von Herrn Pfarrer <persName key="ed_iy2_gv2_n2b">Triczewski</persName> aus <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> abgenommen</quote> werden. An der
+                            Finanzierung der Orgel (1.400 Rtlr. zzgl. Nebenkosten in Höhe von ca.
+                            188 Rtlr.) hatten sich neben Graf und Gräfin Lehndorff  (133 und. 400
+                            Rtlr.) auch die <quote>Frau Etatsministerin <persName key="ed_d3h_sy4_mbb">Gräfin von Schlieben</persName>
+                     </quote>
+                            (100 Rtlr.), die <persName key="ed_cdm_bw2_n2b">Gräfin von
+                                Schlieben</persName>, geb. Gräfin von Ysenburg und Büdingen (100
+                            Rtlr.), <persName key="ed_fzw_2w2_n2b">Fräulein von Bork</persName> und
+                            Fräulein von <persName key="ed_gpf_gw2_n2b">Preiß</persName> aus Pillwen
+                            (18 bzw. 30 Rtlr.), Fräulein von <persName key="ed_hyb_zqv_scb">Gohr</persName> aus Steinort (18 Rtlr.), der Arrendator <persName key="ed_yw5_yv1_vdb">Hoffmann</persName> aus <placeName key="ed_xpm_112_gy">Labab</placeName> (3 Rtlr.), die Knechte und
+                            Mägde, Dienst-Jungen, Gärtner, Instleute und Hirten der Steinortschen
+                            Güter sowie zahlreiche Rosengartener mit kleineren Beiträgen beteiligt,
+                            dazu kamen Kirchen-Kollekten und Sammlungen in den Dörfern und
+                            Vorwerken. <persName key="ed_qzz_2lm_ngb">Baron Schenk zu
+                                Tautenburg</persName> auf <placeName key="ed_bxm_sxb_5bb">Doben</placeName>, den Lehndorff um einen Beitrag gebeten hatte,
+                            hatte diesen erst zugesagt, entzog sich aber noch 1776 mit der
+                            Begründung, <quote>jetzo nicht bei Kasse</quote> zu sein, vgl. EZA,
+                            Bestand 507, Nr. 2043, Bl. 1-13, Zeichnung Bl. 61. - Anscheinend war
+                            auch 1784 vorgesehen, die Instleute, Knechte und Mägde des Rosengartener
+                            Kirchspiels mit kleinen Beiträgen zur Finanzierung der Reparatur
+                            heranzuziehen, vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 267,
+                            Bl. 4-5. - Erst nach dem <quote>Ministerial-Reskript vom 19. Dezember
+                                1823 (v. Kamptz, Annalen, 6.7. S. 842)</quote> war die Gemeinde und
+                            nicht mehr der Kirchenpatron zur Unterhaltung der Orgel verpflichtet,
+                            vgl. EZA, Bestand 507, Nr. 2043, Bl. 17-18. Am 2. Januar 1844 wurde auf
+                            Grundlage einer Regierungsverfügung vom 6. Mai 1843 zwischen dem
+                            Kirchenkollegium resp. Pfarrer <persName key="ed_gjh_zmd_py">Bolle</persName> und dem Orgelbauer <persName key="ed_p1t_pw2_n2b">Papendick</persName> aus <placeName key="ed_olw_h3d_py">Tilsit</placeName> eine jährliche Revision der Rosengartener Orgel
+                            vereinbart, die jedoch aufgrund der großen Kosten, die die Reisen des
+                            Orgelbauers verursachten, nicht regelmäßig ausgeführt wurde. In der
+                            Akte, Bl. 22-22v, der Bericht vom 14. Juni 1847 mit einer eingehenden
+                            Beschreibung der Orgel und Hinweisen zu deren unpraktischer Aufstellung
+                            und grundsätzlicher Verstimmung (Bl. 26-26v). 1862 sollte die
+                                <quote>höchst baufällige</quote> Orgel auf Veto des Landratsamtes
+                            durch ein neues Instrument ersetzt werden (der Kostenvoranschlag des
+                            Orgelbauers W. <persName key="ed_qmq_sw2_n2b">Scherwitz</persName> lag
+                            bei 1.000 Tlr.). Auch diesmal wurden in den <quote>deutschen und
+                                polnischen Haupt-Gottesdiensten</quote> die Gemeindemitglieder zu
+                            Spenden aufgefordert (Bl. 63-98). Lehndorff als Kirchenpatron übernahm
+                            die Ausfertigung des Vertrages und beharrte auf seinem Recht der
+                            Bauausführung; er sagte einen freiwilligen Beitrag in Höhe der Hälfte
+                            der Kosten zu, die andere Hälfte sollte durch ein einjährigen
+                                <quote>Real- und Personaldezem</quote> aufgebracht werden. Eine
+                            finanzielle Verpflichtung des Barons Schenk zu Tautenburg als Patron von
+                            Doben und Besitzer von im Kirchspiel belegener Orte verneinte die
+                                <orgName key="ed_cyd_wtg_hy">Regierung zu Gumbinnen</orgName>. Vgl.
+                            hierzu GStA PK, XX., HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 43,
+                            n. f. (durch Johannes Voigt als Direktor des Geheimen Archivs am 28.
+                            November 1851 gefertigte Urkundenabschriften zu den Verhältnissen der
+                            Kirche in Doben). Im Juni 1884 erklärte die Orgelbau-Anstalt Wilhelm
+                                <persName key="ed_wh3_ww2_n2b">Sauer</persName> zu <placeName key="ed_s3m_f12_ycb">Frankfurt an der Oder</placeName>, die z. B. in
+                            der <placeName key="ed_xrv_gwb_by">Berliner</placeName> St. Thomas- und
+                            Jerusalemer Kirche, in <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> (St. Johannis), <placeName key="ed_bp5_xch_ldb">Bromberg</placeName> (St. Paul), im <placeName key="ed_d31_lxj_gy">Marienwerder</placeName> Dom, in <placeName key="ed_s3m_f12_ycb">Frankfurt an der Oder</placeName> (St. Nikolai
+                            u. a.) und im Palais des <persName key="ed_ssb_lgk_wcb">Großfürsten
+                                Konstantin</persName> in <placeName key="ed_qvp_nnz_2y">St.
+                                Petersburg</placeName> Orgeln gebaut hatte, eine Reparatur sei
+                            ausreichend, eine zweijährige Revision notwendig. Die Kosten würden sich
+                            auf ca. 170 Mark belaufen. Den Wert der Orgel bezifferte sie mit 3.600
+                            Mark. Zur Reparatur der Orgel in Rosengarten, Kostenvoranschläge und
+                            Korrespondenz der Orgelbaumeister <persName key="ed_wh3_ww2_n2b">Sauer</persName>, Carl <persName key="ed_sbv_fx2_n2b">Novak</persName>
+                            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, Ed. <persName key="ed_ixj_3x2_n2b">Wittek</persName> Hof-Orgelbaumeister
+                                <placeName key="ed_ed2_4r1_my">Elbing</placeName>, E. <persName key="ed_i41_lx2_n2b">Kemper</persName> &amp; Sohn <placeName key="ed_jc4_nx2_n2b">Lübeck</placeName>, auch zum pneumatischen
+                            Umbau 1927: EZA, Bestand 507, Nr. 2047 und 2049 (ganze Akte). </note>
+                    </seg> Der Rektor entschuldigte sich auf Befragen damit, dass dieses schon lange
+                    so gewesen. Dass <persName key="ed_hm2_g3t_ncb">Strugull</persName> die Person
+                    geschwängert, hat Herr Pfarrer Herrn <persName key="ed_sph_phv_mbb">Probst</persName> angezeigt, er sagte mir aber ins Ohr, es scheint, als
+                    wenn Herr Probst den Rector „protegiert‟. </p>
+                <p>Es ist hier eine anhaltende Dürre gewesen, die das Sommerfeld und die Wiesen in
+                    eine traurige Lage versetzte. Das Winterfeld erhielt sich besser. Seit 8 Tagen
+                    haben wir aber fast alle Tagen einen sanften Regen und dabei die fruchtbarste
+                    Witterung, es regnet auch eben jetzt. Das Sommerfeld verspricht eine gänzliche
+                    Erholung und das Winterfeld ist ganz vortrefflich, ausgenommen die Weizenstücke,
+                    wo der tiefe Schnee so lange gelegen. Bei der jetzigen Düngerfuhre kommt uns der
+                    sanfte Regen zum Stürzen sehr zustatten. Soviel als möglich wird am Zaun beim
+                    kleinen Eichwald gearbeitet. Zum Speicher-Fundament lasse jetzt noch recht große
+                    Steine durch die Kutschpferde, zu ihrer Motion allmählich und mit aller
+                    Vorsicht, anrücken. Ein so großen Segen an Wolle als dieses Jahr habe noch nie
+                    gehabt, von 1.196 Stück zweischurigen Schafen 53 <unclear reason="illegible" cert="high">Pfund</unclear> von einer Frühjahrsschur. Sie ist schon in
+                        <placeName key="ed_omg_5xl_5y">Darkeim</placeName> a 17 Fl. verkauft und
+                    bezahlt, in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> hat sie nur 12
+                    und die beste 14 Fl. gegolten. Die Frau <seg type="comment">
+                  <orig>Majorin Gräfin
+                            v. Schlieben</orig>
+                  <note xml:id="ne3q_wm5_scb">
+                     <persName key="ed_q41_t2q_tcb">Marie Sophie Gräfin von Schlieben</persName>,
+                            Ehefrau des Majors <persName key="ed_hkx_x2q_tcb">Friedrich Wilhelm
+                                Ernst Reichsgraf von Schlieben</persName> und Tochter des
+                            königlich-preußischen Etatministers <persName key="ed_zqm_ymf_hy">Karl
+                                Leopold Graf von Schlieben</persName>
+                  </note>
+               </seg>, welche hier zum
+                    Besuch mit <seg type="comment">
+                  <orig>Korklackschen Pferden</orig>
+                  <note xml:id="nnmg_vl5_scb">Im Kreis Gerdauen, Sitz der Familie von der
+                                <persName key="ed_sn2_jy2_n2b">Goltz</persName>.</note>
+               </seg>
+                    angekommen, sind gestern wieder mit Korklackschen Pferden abgereist. </p>
+            </div>
+            <div type="writingSession">
+                <p>Herrn <persName key="ed_nl1_5n5_scb">Berger</persName> habe ich besucht, aber
+                    nicht zu Hause gefunden. Was er mir auf meine schriftliche Anfrage geantwortet,
+                    überreiche in der <seg type="comment">
+                  <orig>Anlage B</orig>
+                  <note xml:id="njpl_pn5_scb">Liegt der Akte nicht bei.</note>
+               </seg>
+                    untertänigst. Ohne die Erträge der Güter einige Zeit hier zur Stelle
+                    durchzulesen, kann ich über deren Wert nichts zuverlässiges melden. Das bloße
+                    Besehen der Güter, ohne die Erträge in Händen zu haben, lässt noch weniger etwas
+                    Sicheres bestimmen, als die Erträge allein zu haben und die Güter nicht zu
+                    sehen. Dass Acker, Wiesen und Weide überaus vortrefflich sind, ist schon eine
+                    bekannte Sache. Der jüngste <persName key="ed_r1k_vn5_scb">Wittke</persName>
+                    würde sich vor allen hiesigen Knaben beim Herrn Berger am besten schicken, und
+                    werde ich nicht verfehlen, dieses baldmöglichst einzurichten. </p>
+                <p>Die <seg type="comment">
+                  <orig>Turowschen</orig>
+                  <note xml:id="ncj5_g2y_m2b">Tyrow?</note>
+               </seg> Akten übersende hierbei ganz gehorsamst, nebst
+                    einem P. M. von dem ganzen Zusammenhang dieser Sache. Was Herr Regierungsrat
+                        <persName key="ed_r3s_ymw_mbb">Glave</persName> durch die
+                    Kreis-Justiz-Kommission in <placeName key="ed_h35_jqh_my">Drengfurth</placeName>
+                    in Ansehung meiner an die hiesige Jurisdiktion verfügen lassen, überreiche in
+                    Originali sub <seg type="comment">
+                  <orig>Beilage C. </orig>
+                  <note xml:id="nx4t_zn5_scb">Liegt der Akte nicht bei.</note>
+               </seg> Den wahren
+                    simplen Zusammenhang in dieser Sache, welche diese Verfügung veranlasst, habe
+                    hinter der Verfügung notiert. Den Empfangsschein, den die
+                    Kreis-Justiz-Kommission darüber verlangt, bitte mir zur weiteren Absendung
+                    gnädigst zukommen zu lassen. Welche Weitläuftigkeiten die Frau Richterin
+                        <persName key="ed_ovk_245_scb">Jeroisch</persName> gemacht, ehe sie die 20
+                    Rtlr. ausgezahlt, welche der <persName key="ed_ig4_c45_scb">Hurtian</persName>
+                    bei ihrem verstorbenen Mann zu den Prozesskosten deponiert, ist aus der von mir
+                    gut aufbehaltenen Korrespondenz leicht zu ersehen. Es scheint mir fast, als wenn
+                    Herr <persName key="ed_r3s_ymw_mbb">Glave</persName> auf mich böse, dass ich
+                    hinter die 20 Rtlr. so geschwinde gewesen, denn seine ganze Verfügung grenzt an
+                    die bitterste Schikane. </p>
+                <p>Im übrigen ist hier Gottlob alles wohl und gesund und empfehlen sich alle zu
+                    Gnaden. Auf den Dörfern haben viele gefährlicher Krankheiten grassiert, der
+                    gütige Gott hat aber die Arzneimittel so gesegnet, dass niemand gestorben. Herr
+                        <persName key="ed_xcb_gsw_mbb">Mondzig</persName> hat uns in <placeName key="ed_gcr_vcg_hy">Statzen</placeName> oft besuchen müssen. </p>
+                <closer>
+                    <salute>Der ich mit tiefstem Respekt ersterbe <lb/>Ew. Hochgeboren treu
+                        untertänigster Diener</salute>
+                    <signed>Rhenius</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>NB. Die Dielen aus <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> sind vorige
+                    Woche angekommen. Die Rehkuh hat vor 8 Tagen einen jungen Bock und ein Kalb
+                    geworfen. Beide Jungen befinden sich wohl.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

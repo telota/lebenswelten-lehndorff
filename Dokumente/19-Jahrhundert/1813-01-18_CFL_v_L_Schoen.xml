@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_fnt_r1z_wy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an Theodor von Schön. Ca. 18. Januar 1813</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_fnt_r1z_wy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+               <witness>
+                  <bibl type="print">Briefe und Aktenstücke zur Geschichte Preußens unter Friedrich Wilhelm
+                            III. vorzugsweise aus dem Nachlass von F. A. Stägemann hrsg. von Franz
+                            Rühl, Bd. 1, Leipzig 1899, S. 284-287</bibl>
+               </witness>
+            </listWit>
+               
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <date from="1813-01-18" to="1813-01-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q1t_d2f_4y">Schön, Theodor von (1773-1856)</persName>
+                </correspAction>
+                <note>Zum Verhältnis des Grafen <persName key="ed_k4z_jgl_2y">Lehndorff</persName>
+                    zu dem damaligen Regierungspräsidenten von Gumbinnen, Theodor von <persName key="ed_q1t_d2f_4y">Schön</persName>, vgl. Schultze, Lebensbild, S. 277 f.
+                    Schultze, der das Familienarchiv benutz hatte, betonte S. 283 und nochmals S.
+                    296, dass <quote>vom Grafen Lehndorff keine Mitteilung über seine
+                        Tätigkeit</quote> hinsichtlich des Zustandekommens der Konvention von
+                        <placeName key="ed_k13_kxp_vcb">Tauroggen</placeName> überliefert sei und er
+                    sich auf die Überlieferung in den Papieren Schöns, namentlich auf den von J. G.
+                    Droysen herausgegebenen Briefwechsel, stützen musste. Er bezweifelte, ob darüber
+                    je <quote>etwas in Akten oder Briefen gestanden hat</quote>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Ich benutze die abgehende Estafette, welche Euer Hochwohlgeboren die Ankunft des
+                    Ministers von <persName key="ed_hcy_qpp_vcb">Stein</persName> zu <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> melden wird, worüber Major v.
+                        <persName key="ed_ip5_mcz_wy">Plotho</persName> des Weiteren berichtet, um
+                    auch meine kleine Lebensgeschichte in Kurzem beizufügen. Von <persName key="ed_dlv_cjv_mbb">Farenheid</persName> und ich kamen den 18. Abends an,
+                    fanden <placeName key="ed_eby_wkz_ny">Lyck</placeName> noch ziemlich leer -
+                    veränderte Disposition des russischen Hauptquartiers hatte Regierungsrat
+                        <persName key="ed_ddn_kqp_vcb">Kolhoff</persName> nach <placeName key="ed_dgd_mqp_vcb">Kalinowen</placeName> gerufen, wohin er kommen sollte.
+                    Der Ort fand sich zu klein, und heute früh wurden wir durch den Vortrag des
+                    Hauptquartiers benachrichtigt, dass der <persName key="ed_m25_tr1_1bb">Kaiser</persName> noch heute eintreffen würde; ich ging bei Superintendent
+                        <persName key="ed_icj_rqp_vcb">Gisevius</persName> und sprach mit dem
+                    Magistrat, welche beide sehr bereitwillig alles das ihrige zum Empfang (analog
+                    der kleinen Städte und der wenigen Mittel) anwenden wollten. Postillons, eine
+                    kleine Art von Bürgergarde, ritten dem Kaiser entgegen, die Geistlichkeit
+                    empfing ihn am Eingange der Stadt, das Volk rief Hurra usw., von <persName key="ed_yrm_5qp_vcb">Salzwedel</persName> war angekommen, weiter war kein
+                    vernünftiger Repräsentant aufzutreiben, alles, was von <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> ausgegangen war, versammelte sich
+                    auf dem Amt. Der Kaiser sollte auf dem Schloss logieren und sehr gut. Er kam um
+                    2 Uhr an, wir empfingen ihn an der Treppe, wurden in ein Vorzimmer geführt, bald
+                    nachher kam er heraus, redete mich französisch an, welches mir lieb war, weil
+                    mir schmeichelhafte Worte in dieser Sprache besser vom Munde gehen, ich sagte
+                    ihm - etwas geordnet -, was Sie den Abend meiner Abreise von <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> gebilligt hatten, er sagte mir:
+                        <seg type="comment">
+                  <orig>je n'entre pas dans ce pays comme ennemi, je suis
+                            l'ami du roi, j'oublieres volontié ca qui s'est passé entre nous, - j'ai
+                            donné les ordres les plus strictes pour que l'ordre soit maintenu et
+                            qu'aucon excès ne se commette</orig>
+                  <note xml:id="nl5t_lmy_4kb">So im
+                            Original. Übersetzung: Ich betrete dieses Land nicht als Feind, ich bin
+                            der Freund des Königs, ich vergesse bereitwillig, was zwischen uns
+                            geschehen ist. Ich habe die strengsten Befehle erteilt, damit die
+                            Ordnung aufrechterhalten wird ... </note>
+               </seg> etc. Das waren die
+                    Hauptpunkte dessen, was er antwortete, mehrere Artigkeiten folgten, er ließ sich
+                    durch Major v. <persName key="ed_ip5_mcz_wy">Plotho</persName> alle Anwesenden
+                    nb. alle <seg type="comment">
+                  <orig>...</orig>
+                  <note xml:id="najz_4nc_ffb">So
+                            bereits in der Abschrift.</note>
+               </seg> Offiziere, Regierungsmitglieder -
+                    und mehrere Alotrias, von welchen es mir nicht lieb war, dass sie sich dorthin
+                    gedrängt hatten, vorstellen, und entfernte sich. Wir gingen in Masse zum
+                    Feldmarschall <persName key="ed_wkf_kpp_vcb">Kutusow</persName>. Er sprach viel
+                    mit uns und gerne hätte ich gefragt, was war der kurze Sinn der langen Rede, ich
+                    sage nichts über ihn, es gehört nicht für einen Brief, aber was soll man von der
+                    Weltgeschichte halten, wenn man bedenkt, dass dieser Mann dazu geboren ist, nach
+                    200 Jahren als der Besieger <persName key="ed_xzh_bgg_h1b">Napoleons</persName>
+                    darin zu prangen!!! - einst mehr davon. <seg type="comment">
+                        <orig>
+                     <persName key="ed_y3n_mlh_4cb">Natzmer</persName> ist nicht mehr im
+                            Hauptquartier, sondern schon nach <placeName key="ed_xrv_gwb_by">Berlin
+                            </placeName>zurückgegangen,</orig>
+                        <note xml:id="nfkl_1lz_wy">Vgl. Natzmer, Gneomar Ernst von, Aus dem Leben
+                            des Generals Oldwig von Natzmer, Berlin 1876.</note>
+                    </seg> ich habe einen Major <persName key="ed_y53_hlz_wy">Lützow</persName> hier
+                    wiedergefunden, der zwei Tage im Hauptquartier gewesen und heute nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> zurückgeht. Er war früher mein
+                    Regimentsgefährte bei der Garde, und es ist mir interessant gewesen, ihn
+                    wiederzusehen, doch gewährt sein Hiersein keinen großen Haltungspunkt, - nur
+                    soviel, dass Sie über die Lage der Sache ganz richtig geurteilt. Der <persName key="ed_m25_tr1_1bb">Kaiser</persName> kam von <placeName key="ed_fgc_prp_vcb">Ratzken</placeName>, 6 Meilen von hier, sein gestriges
+                    Nachtquartier, zu Pferde hier an, ohne Überrock; es tut mir in jeder Hinsicht
+                    leid, dass ich nicht in seiner Haut stecke, und wahrlich des Vorrats an
+                    Wärmestoff halber nicht am wenigsten. Graf <persName key="ed_rxb_hpp_vcb">Tolstoi</persName> sagte, mais l'Europe entière riroit, si ces deux
+                    souverains ne seroient pas alliés - indem er von unsern Verhältnissen sprach.
+                    Fürst <persName key="ed_bcm_mpp_vcb">Wolkonsky</persName>, erster
+                    Generaladjutant des Kaisers, ist der eigentliche faiseur alles dessen, was in
+                    militärischer Hinsicht geschieht. Regierungsrat <persName key="ed_ddn_kqp_vcb">Kolhoff</persName>, der heute ganz früh wiedergekommen, hat noch eine <seg type="comment">
+                        <orig>élumination</orig>
+                        <note xml:id="nww1_hnz_wy">Illumination.</note>
+                    </seg> für heute Abend, eine grüne Dekoration am Eingange der Stadt. welche
+                    denselben als solchen bezeichnete, besorgt und alles gut in Bewegung gesetzt. </p>
+            <p>
+               <seg type="comment">
+                        <orig>Der Kaiser bleibt noch drei Tage hier und geht dann direkt nach
+                                <placeName key="ed_rlk_zpp_vcb">Johannisburg</placeName>;</orig>
+                        <note xml:id="nwqq_ppz_wy">Zum Empfang in Johannisburg war auch Graf
+                                <persName key="ed_fl1_lgs_lcb">Georg Adam von Schlieben</persName>
+                            aus <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> seitens der
+                            Ostpreußischen Stände gekommen, vgl. ebd., S. 2089 f., Major von Plotho
+                            an Schön, 23. Januar 1813.</note>
+                    </seg> die Russen geben sich 20.000 Mann an, es ist aber höchst wahrscheinlich,
+                    dass sie nur 7-8.000 Mann sind; was aus dem übrigen Teil der Kutusowschen Armee
+                    geworden ist, ist mit Gewissheit nicht ausfindig zu machen, so wie es mir bisher
+                    noch nicht gelungen ist, etwas sicheres über die Österreicher zu hören. Sonntag
+                    sollen Patrouillen von ihnen in Johannisburg, ja selbst in <placeName key="ed_ol1_bsp_vcb">Willenberg</placeName> gewesen sein, an erstem Orte
+                    sicher - ich denke, Sie werden von Herrn v. <persName key="ed_hcy_qpp_vcb">Stein</persName> alles richtiger erfahren, <seg type="comment">
+                  <orig>noch
+                            ist es mir nicht gelungen, mit Herrn von Stein ordentlich zu
+                            sprechen,</orig>
+                  <note xml:id="nqqh_wjm_5gb">Kaiser Alexander hatte Stein
+                            am 18. Januar 1813  volle Gewalt über Ostpreußen erteilt, bis die
+                            Verhandlungen mit dem König zu einem solchen Ziel geführt haben würden,
+                            dass man ihm die Verwaltung der Provinz zurückgeben könne. Stein hielt
+                            den König für unfähig, noch unter dem Druck französischer Waffen
+                            richtige Entschlüsse zu fassen, weshalb er auf diesem Weg zum Bündnis
+                            mit Russland gezwungen werden sollte, vgl. Dönhoff, August Friedrich
+                            Philipp Reichsgraf, Königsberg und Ostpreußen zu Anfang 1813. Ein
+                            Tagebuch vom 1. Januar bis 25. Februar 1813, hrsg. von Maximilian
+                            Schultze, Berlin 1901 (Bausteine zur preußischen Geschichte, 1, 2), S.
+                            69 f.</note>
+                    </seg>er ist beständig alternativé beim <persName key="ed_m25_tr1_1bb">Kaiser</persName> oder bei <persName key="ed_wkf_kpp_vcb">Kutusow</persName>, doch habe ich mehrere Gründe, die mir den innigen
+                    Wunsch einflößen, dass Euer Hochwohlgeboren ihn mit ruhigem Sinn empfangen und
+                    anhören, sich nicht bestechen noch momentan einnehmen lassen; verzeihen Sie der
+                    unberufenen Meinung, sie ist wahrlich treu gemeint, auch kann ich mich
+                    vielleicht irren. </p>
+            <p>Mir ist heute sehr unwohl und ich zweifle, dass ich meinem Versprechen und meinem Wunsch werde
+                    genügen können, selber schon morgen nach <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> zu kommen; da Minister von <persName key="ed_hcy_qpp_vcb">Stein</persName> selber kommt, werde ich Sie auch noch
+                    lieber ein paar Tage später sehen. Verzeihen Sie meinem Kopfweh die Unordnung
+                    dieses Briefes.</p>
+                <closer>
+                    <salute>Gott erhalte Sie und sei Ihr Schutz  <lb/>das von Herzen</salute>
+                    <signed>Lehndorff</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_kfq_3fk_dbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hans Graf von Zieten an Carl Friedrich Ludwig Graf von Lehndorff. Sedan, 29. September 1817</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_kfq_3fk_dbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 213, Bl. 12</idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. </bibl>609 </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xyh_mfr_gbb">Zieten, Hans Graf von (-1848)</persName>
+                    <placeName key="ed_mzz_jfr_gbb">Sedan</placeName>
+                    <date when="1817-09-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Dokument vom <ref target="lehndorff_jkk_fbk_dbb">20.
+                        Januar 1815</ref>. - Weitere Briefe Zietens an Lehndorff (10. Januar 1802,
+                    12. Juni 1803, 4. Juni 1831), u. a. über die Cholera in <placeName key="ed_uyl_j3c_gy">Danzig</placeName>, in: APO, Bestand 382 FA Lehndorff,
+                    Nr. 334. - In Sedan hatte am 2. September 1817 eine große Parade vor <persName key="ed_yzt_s1b_dy">Friedrich Wilhelm III.</persName> stattgefunden, an die
+                    sich ein Manöver anschloss, vgl. Schultze, Lebensbild, S. 607 f. Zur Zeit in
+                        <placeName key="ed_mzz_jfr_gbb">Sedan</placeName> auch der Brief an die
+                    Mutter vom 17. September 1817, S. 615-618. Lehndorff schreibt: <quote>So rückte
+                        die Ankunft des Königs heran im Monat August, welche der Lohn für alle unsre
+                        Mühe sein sollte. Wie ich es lange überzeugt war, aber (unter uns gesagt)
+                        diese ganze Revue nur der Deckmantel zu einer Reise Serenissimi nach
+                            <placeName key="ed_uyx_nvn_my">Paris</placeName>, dessen Reizungen der
+                        Allerdurchlauchtigste sehr wohl zu würdigen weiß.</quote> Für Lehndorff
+                    brachte die Revue eine Zuschuss von ca. 600 Rtlr. - <quote>gewiss von allen
+                        Vergünstigungen mir die liebste, da das Gehalt doch eigentlich im Frieden
+                        und meinen Verhältnissen zuliebe der einzige Bewegungsgrund ist, warum ich
+                        diene.</quote> Die Reise des Königs nach Paris werde viel gescholten, er
+                    gehöre nicht zu den Schimpfenden: <quote>Warum soll er sich selbst bestrafen,
+                        König zu sein? Ich wünsche ihm Gegenteils Glück dazu, für solche
+                        unschuldigen Freuden noch so viel Vorliebe zu haben. Man lebt nur einmal auf
+                        dieser doch immer recht angenehmen Welt. Wenn Er nur sonst gut regiert und
+                        sein Volk möglichst glücklich macht, so kann man ihm ja wohl diese kleine
+                        Zerstreuung erlauben.</quote>
+            </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Hauptquartier Sedan, den 29. September 1817</dateline>
+					          <salute>An den Königlichen Obrist, Brigade-Kommandeur und Ritter pp. Herrn Grafen von Lehndorff
+                        Hochgeboren</salute>
+                </opener>
+				        <p>Um Euer Hochgeboren einen Beweis zu geben, wie sehr ich die Ordnung zur Manneszucht der Ihrem
+                    Befehl untergebenen Truppen zu schätzen weiß, bin ich bei des <persName key="ed_xzh_bgg_h1b">Königs von Frankreich Majestät</persName> um eine
+                    Auszeichnung für dieselben eingekommen. Allerhöchstdieselben haben Euer
+                    Hochgeboren zum Kommandeur der Ehrenlegion zu ernennen geruht. </p>
+            <p>Indem es mir zu besonderem Vergnügen gereicht, Euer Hochgeboren anliegend die desfallsige
+                    Dekoration ergebenst zu übersenden, behalte ich mir vor, dieselben von der
+                    Erlaubnis <persName key="ed_tl1_nbf_4y">Sr. Majestät des Königs</persName> zur
+                    Tragung dieses Ehrenzeichens zu benachrichtigen, als um welche ich bereits
+                    eingekommen bin.</p>
+				        <closer>
+                    <salute> </salute>
+                    <signed>Zieten</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

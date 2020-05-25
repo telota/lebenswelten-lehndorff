@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_jxm_whj_mdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 21. Mai 1753</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_jxm_whj_mdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 1, Gotha 1910, S. 26 f.</bibl> 
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1753-05-21" cert="high"/>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <p>
+            <seg type="comment">
+               <orig>O unselige Liebe!</orig>
+               <note xml:id="ndpx_xvd_ndb">Durchgestrichen</note>
+            </seg> ich kann mich nicht enthalten, ernste
+                Betrachtungen über mich anzustellen. <seg type="comment">
+               <orig>Ich verhehle mir
+                        nichts. </orig>
+               <note xml:id="npjq_nwd_ndb">Ab diesem Satz bis zum Ende
+                        durchgestrichen. - Nach Anm. 1 gab es weitere Streichungen, die nach
+                        Schmidt-Lötzen Unwichtiges enthielten. </note>
+            </seg>Folgendes Bild mache ich
+                mir von mir selbst. Ich weiß mir zur Genüge durch meine Zuvorkommenheit die Achtung
+                der Großen und meinesgleichen zu erwerben, ich weiß meine Laune zu zügeln, meine
+                Fehler zu verbergen, meinen guten Ruf mir zu erhalten, von den gröblichen
+                Ausschweifungen, zu denen sich die Jugend nur zu oft hinreißen lässt, mich
+                fernzuhalten, andererseits nimmt <seg type="comment">
+               <orig>das, was die Welt
+                        zärtliche Anhänglichkeit nennt, </orig>
+               <note xml:id="ntqy_1wd_ndb">Überschrieben: und was im Grunde ein Fehler ist</note>
+            </seg> mein Herz dann
+                und wann gefangen (nur gebietet mir die Vernunft, mich dessen zu entschlagen). Ich
+                wünschte mir eine Tafel, an der die Feinheit herrscht, ich liebe eine prächtige
+                Wohnungseinrichtung, ebenso Equipagen und Kleider, kurz, ich möchte alles, was das
+                Leben verschönt, haben wollen. Mein Herz ist gut, das erkenne ich an der Freude, die
+                ich empfinde, wenn ich anderen einen Dienst erweisen kann. Ich freue mich über das
+                Glück, das meinen Freunden zuteil wird, ebenso, als wiederführe es mir selbst. Mit
+                Vergnügen ergreife ich darum die Gelegenheit, denen, die meine Hilfe brauchen,
+                gefällig zu sein. Meine Liebe zu denen, die meine Freundschaft gewinnen, grenzt an
+                Abgötterei. Indes ist das nur selten der Fall, da ich recht viele gute Eigenschaften
+                entdecken muss, ehe ich heftig liebe. <seg type="comment">
+               <orig>Kaum dreimal ist
+                        dies in meinem ganzen Leben vorgekommen.</orig>
+               <note xml:id="ntf4_hwd_ndb">Am Rand: Um meiner Ruhe willen hätte das niemals vorkommen sollen; ihr
+                        Verlust hat mich jedes Mal zur Verzweiflung gebracht.</note>
+            </seg> Mein Hass
+                kann ebenso groß sein wie meine Liebe. Mit großen Hoffnungen trat ich in die Welt.
+                Sie sind zum Teil zuschanden geworden; es bleiben mir nur noch wenige. Ich liebe die
+                Welt, und ich finde wieder Liebe in ihr; doch das gibt mir nicht die Ruhe der Seele,
+                die ich suche und immer nicht finde. Mein Verstand sagt mir oft genug, dass es
+                vollkommenere Dinge gibt, die ich suchen soll. Mit meinem Benehmen bin ich selbst
+                nicht immer zufrieden, aber die Vernunft kämpft gegen meine Neigungen an, und ich
+                gehe mit meinen Verfehlungen streng ins Gericht. Ich mache Anstrengungen, um meine
+                Fesseln zu sprengen, ich sage mich von manchen Leuten los, aber meine
+                Herzensneigung, die Freundschaft <seg type="comment">
+               <orig>mit H.</orig>
+               <note xml:id="nhj3_rvd_ndb">mit <persName key="ed_nvx_wcz_bz">Prinz
+                            Heinrich</persName>
+               </note>
+            </seg> bleibt bestehen. Sobald ich mich von
+                ihm lossagen will, sind meine Bemühungen den Anstrengungen vergleichbar, die ein vom
+                Schlaf Überwältigter macht, um aufzuwachen, und die nur dahin führen, ihn in einen
+                noch tieferen Schlaf zu versenken. </p>
+            
+        </body>
+    </text>
+</TEI>

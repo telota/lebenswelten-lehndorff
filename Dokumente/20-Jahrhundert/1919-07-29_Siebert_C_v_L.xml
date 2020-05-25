@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_fyn_kzq_pz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+               
+                <title>Karl Siebert an Carol Graf von Lehndorff. Berlin, 29. Juli 1919</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_fyn_kzq_pz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 337, Bl. 265</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_f2s_t3q_pz">Siebert, (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1919-07-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ik3_ckz_2y">Lehndorff-Steinort, Carl Meinhard (Carol) Graf von
+                        (1860-1936)</persName>
+                </correspAction>
+                <note>Am 21. Juli 1919 hatte der Anwalt bei Lehndorff <quote>in der Angelegenheit
+                        betreffend die Faulhödener Spitze</quote> nachgefragt, <quote>ob der Lehrer
+                        Herr <persName key="ed_b43_s4c_mfb">Puschke</persName> bereits Gelegenheit
+                        gefunden hat, in dem dortigen <orgName key="ed_e3t_l2n_4y">Archiv</orgName>
+                        nach den alten Lehnsurkunden zu suchen</quote> (Bl. 266). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin NW 21, 29. Juli 1919</dateline>
+					          <salute>Hochgeehrter Herr Graf!</salute>
+                </opener>
+				        <p>Herr Freiherr <persName key="ed_phk_z14_zdb">Schenk zu Tautenburg</persName> hat auf unseren
+                    neulichen schönen Brief ganz kurz geantwortet: </p>
+            <p>„Sehr geehrter Herr Rechtsanwalt! </p>
+            <p>Ich bestätige dankend Ihr gefälliges Schreiben vom 18. d. M. Wie ich Ihnen bereits in meinem
+                    letzten Schreiben mitteilte, habe ich von dem Verkauf von <placeName key="ed_f5p_bb4_zdb">Kirsaiten</placeName> an Herrn Grafen <persName key="ed_ik3_ckz_2y">Lehndorff</persName> aus den Ihnen bekannten Gründen
+                    endgültig Abstand genommen. </p>
+            <p>Mit
+                    der vorzüglichsten Hochachtung </p>
+            <p>ergebenst </p>
+            <p>gez. Frh. Schenk zu
+                    Tautenburg.‟ </p>
+            <p>Was machen wir nun? Sollen wir endgültig davon Abstand nehmen, ihn weiter zu bekriegen? Sollen
+                    wir warten, bis seine anderweiten Verkaufsverhandlungen gescheitert sind? Soll
+                    ich gelegentlich meiner Anwesenheit in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> eine ungezwungene Gelegenheit suchen, wieder mit ihm
+                    Fühlung zu bekommen?</p>
+				        <closer>
+					          <salute>Ihrer gefälligen Äußerung entgegensehend, <lb/>in ausgezeichneter Hochachtung
+                        ergebenst</salute>
+					          <signed>Siebert <lb/>Rechtsanwalt</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

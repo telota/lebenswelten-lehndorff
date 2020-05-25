@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zmn_2fb_4fb8">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an Friedrich Wilhelm II. König von Preußen. Berlin, 29. Dezember 1790</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zmn_2fb_4fb8</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 7, Nr. 13, I Lit. L Paket 498, Nr. 15, Bl. 1-1v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1790-12-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_w15_bk5_sy">Preußen, Friedrich Wilhelm II. König von
+                        (1744-1797)</persName>
+                </correspAction>
+                <note>Das <ref target="lehndorff_kd1_4l5_jz">Grafendiplom für die Linie zu Statzen
+                        wurde am 3. Januar 1791 erteilt</ref>, ebd., Bl. 4-7. Beschreibung des
+                    Wappens und Abbildung Bl. 9-10.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 29. Dezember 1790</dateline>
+					          <salute>Allerdurchlauchtigster Großmächtigster König! <lb/>Allergnädigster König und
+                        Herr!</salute>
+                </opener>
+				        <p>Die Gnade, welche Eure <persName key="ed_w15_bk5_sy">Königliche Majestät</persName> mir so
+                    vielfältig bezeiget, macht mich so dreist, Sie untertänigst zu bitten, dass
+                    Höchstdieselben die Gräfliche Würde, welche mein Großvater, der
+                    General-Lieutenant und Staatsminister <persName key="ed_zyw_ncf_2y">von
+                        Lehndorff</persName>, bereits unter dem großen Kurfürsten im Jahr 1679 von
+                        <persName key="ed_y2r_khv_c2b">Kaiser Leopold</persName> erhalten, auch auf
+                    die zweite Linie meiner Vettern zu extendieren und ihnen ein Grafen-Diploma
+                    ausfertigen zu lassen mit der untertänigsten Bitte, ihnen die Chargen und
+                    Stempel-Jura zu entlassen. Ich bitte diese Standeserhöhung<lb/>1) für den
+                        <persName key="ed_byt_ptq_h1b">Leopold Melchior Gerhard von
+                        Lehndorff</persName> auf <placeName key="ed_bdw_bnm_cbb">Maxkeim</placeName>
+                    in Preußen, welcher den ganzen Siebenjährigen Krieg als Capitain mitgemachet,
+                    <lb/>2) für seinen Sohn <persName key="ed_utb_sz1_t2b">August Adolph von
+                        Lehndorff</persName>, <lb/>3) für seine Tochter <persName key="ed_tvf_qnj_tcb">Maria Juliana von Lehndorff</persName>. <lb/>Diese
+                    meine Verwandten sind umso mehr zu einer solchen Standeserhöhung qualifiziert,
+                    da sie sich in glücklichen Vermögens-Umständen befinden und ihre Voreltern die
+                    ansehnlichsten Stellen in Preußen bekleidet und überhaupt unsere Familie,<seg type="comment">
+                  <orig> welche mit dem teutschen Orden im 13. Jahrhundert nach
+                            Preußen gekommen, </orig>
+                  <note xml:id="nvbb_vgq_fhb">In dem in
+                            französischer Sprache abgefassten Schreiben steht 1328, ebd., S.
+                            3-3v.</note>
+                    </seg>dem durchlauchtigsten Hause Brandenburg jederzeit mit der größesten Treue
+                    und Anhänglichkeit zugetan gewesen und viele von ihnen in derselben Dienst ihr
+                    Leben in denen berühmtesten Feldschlachten von Hochstädt, <placeName key="ed_xbw_2kv_mbb">Malplaquet</placeName> und <placeName key="ed_c12_42q_tdb">Hochkirch</placeName> aufgeopfert haben. Ich hoffe
+                    also, dass Euer Königliche Majestät obgedachter meiner Bitte gnädigst statt
+                    geben werden, welches für mich und meine ganze Familie ein neuer Bewegungsgrund
+                    sein wird, die untertänigste Treue und Ergebenheit zu verdoppeln, mit der ich
+                    zeitlebens sein werde<lb break="no"/>
+            </p>
+				        <closer>
+					          <salute>Euer Königlichen Majestät alleruntertänigster treu gehorsamster</salute>
+					          <signed>Graf Lehndorff <lb/>Kammerherr</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

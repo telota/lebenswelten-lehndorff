@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_l1d_phm_bdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Berlin, 19. Mai 1815</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_l1d_phm_bdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 579 f. </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1815-05-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (Hirschberg 9.4.1751-Königsberg, Roßgärter Markt
+                        12.11.1830)</persName>
+                </correspAction>
+                <note>Auch am 24. Mai beklagte er die Abwesenheit des <persName key="ed_tl1_nbf_4y">Königs</persName>, den man erst am 1. Juni erwartete. Niemand wisse, ob
+                    Krieg oder Frieden wird. Auch sein eigenes Schicksal sei ungewiss. - Am 8. Juni
+                    gehörte <persName key="ed_k4z_jgl_2y">Lehndorff</persName> interimistisch zum 1.
+                    Armeekorps <quote>zu besonderem Auftrag</quote>. In den Tagen seit der Ankunft
+                    des Königs habe man <quote>viel Wirtschaft, Paraden, Couren, Revuen, Diners,
+                        Ausmärsche</quote> gehabt. Die Großfürsten seien <quote>nette Jungs</quote>
+                    auf Brautschau. Die Politik sei <quote>ungewiss und schwankend</quote>, viele
+                    würden am Ausbruch des Krieges zweifeln, doch wisse er nicht, <quote>wie es
+                        anders auseinander gehen sollte</quote>. - Vgl. auch das bei Schultze,
+                    Lebensbild, in Auszügen abgedruckte Tagebuch Lehndorffs aus dem Feldzug 1815, S.
+                    584-587.</note>
+            </correspDesc>
+            <abstract>
+                <p>Sie möge ihre Post nach Berlin an das <seg type="comment">
+                  <orig>
+                     <quote>alte Haus
+                                hinter dem Gießhaus</quote>
+                  </orig>
+                  <note xml:id="nvjv_tkd_b2b">Hinter
+                            dem Gießhaus Nr. 2</note>
+               </seg> adressieren. - In <placeName key="ed_xrv_gwb_by">Berlin</placeName> gefalle ihm vieles nicht. <quote>Der
+                            <persName key="ed_tl1_nbf_4y">König</persName> ist nicht hier in dieser
+                        wichtigen Epoche</quote>, niemand wisse Bescheid und er sei <quote>noch gar
+                        nicht aus den Prinzen-Diners herausgekommen</quote>.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

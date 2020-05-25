@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ekw_hjs_51b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Louis Graf von Dönhoff an Carl Friedrich Ludwig Graf von Lehndorff. Potsdam, 17. Juli 1850</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ekw_hjs_51b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword"> </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 378, n. f.</idno>
+                    </msIdentifier>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_v43_db1_hy">Dönhoff, Louis (Friedrich Wilhelm Stanislaus) Graf
+                        von Dönhoff (1799-1877)</persName>
+                    <placeName key="ed_jbg_kpz_2y">Potsdam</placeName>
+                    <date when="1850-07-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, (Christian Friedrich) Carl (Ludwig)
+                        Graf von (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Dönhoff teilt Lehndorff die Kabinettsordre des <persName key="ed_bg5_tsf_4y">Königs</persName> vom 10. Juli 1850 betr. dessen Sohn <persName key="ed_nml_dw2_cy">Heinrich</persName> und die näheren Umstände dazu mit.
+                    Lehndorff hatte auf offener Straße den Apotheker <persName key="ed_eyv_jpm_wcb">Hensel</persName> umgeritten, nachdem seine Begleiter geäußert hatten:
+                        <quote>wenn doch einer den Demokraten umreiten wolle</quote>, worauf er
+                    dessen Verfolgung aufnahm mit dem Bemerken: <quote>so etwas müsse im Galopp
+                        ausgeführt werden</quote>. Lehndorff wurde dafür vom Dienst suspendiert und
+                    mit einer Verwarnung und Arrest bestraft, da er den Ruf des Offizierskorps in
+                    Gefahr gebracht habe. Dönhoff habe ihn aus <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> nach <placeName key="ed_ykj_s2b_1bb">Charlottenburg</placeName> versetzt, um eine mögliche Begegnung mit
+                        <persName key="ed_eyv_jpm_wcb">Hensel</persName> zu vermeiden. Der <persName key="ed_bg5_tsf_4y">König</persName> habe mit ihm mündlich über die
+                    Angelegenheit gesprochen, sei aber <quote>milder darüber gesinnt</quote>, als er
+                    es angenommen habe, da der <quote>Apotheker <persName key="ed_eyv_jpm_wcb">Hensel</persName> als demokratischer Clubbist</quote> bekannt sei, auch
+                    habe er den Antrag des Generalkommandos um Versetzung des Grafen <persName key="ed_nml_dw2_cy">Heinrich</persName> von der <seg type="comment">
+                  <orig>Garde</orig>
+                  <note xml:id="np2v_s3k_dbb">Erst <ref target="lehndorff_srm_rvg_cdb">im Januar 1850 war Lehndorff auf das
+                                Gesuch seines Vaters hierher versetzt worden</ref>. </note>
+               </seg>
+                    abgelehnt. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

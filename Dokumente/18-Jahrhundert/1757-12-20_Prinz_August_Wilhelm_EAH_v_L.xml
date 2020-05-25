@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ysz_rfg_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz August Wilhelm von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Nach dem 20. Dezember 1757</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ysz_rfg_2z</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Volz, Gustav Berthold, Aus dem Briefwechsel des
+                            Prinzen von Preußen August Wilhelm mit dem Kammerherrn Graf Ernst
+                            Ahasverus Lehndorff, in: Masovia 9 (1903), S. 130-171, hier S.
+                            147</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q12_pqy_bz">Preußen, August Wilhelm Prinz von (-)</persName>
+                    <date notBefore="1757-12-20" notAfter="1757-12-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_mdx_dk2_2z">11. Dezember 1756</ref>. - Lehndorff schrieb
+                    Ende November: <quote>In kurzer Zeit ist in <placeName key="ed_tjn_3rc_py">Schlesien</placeName> alles wieder gewonnen, was verloren war. Unsere
+                        Angelegenheiten stehen also äußerst günstig, das hindert aber nicht, dass
+                        die Klarsehenden den dringenden Wunsch hegen, der König möge Frieden
+                        schließen. Die große Zahl unserer Feinde wird uns schließlich erdrücken, und
+                        dieses Russland wird uns wohl noch manchen bösen Streich spielen.</quote>
+                    Vgl. Giebel, Tagebücher, S. 407. Ende Juli hielt Lehndorff in Anbetracht der
+                    Lage einen Friedensschluss für ratsam: <quote>In Preußen die Russen, in Pommern
+                        die Schweden, im Magdeburgischen die Franzosen, in Schlesien die
+                        Österreicher, das ist doch zum Verzweifeln! Es ist ganz unmöglich, aus
+                        alldem herauszukommen; denn wenn wir auf der einen Seite siegreich wären,
+                        würde man uns auf der anderen alle Provinzen abnehmen!</quote> Vgl.
+                    Schmidt-Lötzen, Nachträge, Bd. 1, S. 134.</note>
+            </correspDesc>
+            <abstract>
+                <p>Lehndorff hatte dem Prinzen in seinem Brief die am 20. Dezember erfolgte
+                    Wiedereroberung <placeName key="ed_iw5_fxl_2y">Breslaus</placeName> durch den
+                        <persName key="ed_x2r_52f_cy">König</persName> geschildert. Der Prinz
+                    schreibt in seiner Antwort darauf: <quote>Vielleicht werden Sie noch beschäftigt
+                        sein, mit Tedeums die Einnahme von Breslau zu feiern; wohl bekomme es Ihnen.
+                        Aber machen Sie doch, dass ihre Gebete größere Wirkung haben, und
+                        verschaffen Sie dem Publikum, was es am heißesten wünscht: den <rs type="term" key="ed_t5d_tm4_dz">Frieden</rs>.</quote>
+                </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

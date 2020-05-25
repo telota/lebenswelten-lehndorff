@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cjv_2v5_cbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Christoph von Grabowski an Maria Louisa Gräfin von Lehndorff. Angerburg, 7. Januar 1751</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cjv_2v5_cbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 907, n.
+                                    f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_drn_pbj_f3b">Grabowski, Johann Christoph von
+                        (1692-1762)</persName>
+                    <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    <date when="1751-01-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_q4s_xyl_2y">Lehndorff, Marie Louise Henriette Gräfin von, geb.
+                        Gräfin von Wallenrodt (Ragnit, 12.10.1697-Ragnit, 12.11.1776)</persName>
+                </correspAction>
+                <note>Nach der großen Missernte 1745 und den folgenden Notjahren stellte der König
+                    jährlich Geld zur Verfügung, um für neue Notzeiten Getreide in den Königlichen
+                    Kornmagazinen einzulagern. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Angerburg, den 7. Januar 1751</dateline>
+					          <salute>Hochgeborene Reichsgräfin, gnädige Frau!</salute>
+                </opener>
+				        <p>Ihro Königliche Majestät haben vermöge Reskript vom 30. Dezembris 1750 allergnädigst
+                    resolvieret, eine Quantität Roggen zu dem <orgName key="ed_amf_ztp_mbb">Königsberger Magazin</orgName> aufkaufen und mit 37 1/2 Gr. per Scheffel
+                    bezahlen zu lassen. Wofern Dieselben hiervon profitieren wollen, so werden Dero
+                    Erklärung a dato binnen 14 Tagen unfehlbar erwarten, wie viel Wispeln Dieselben
+                    zu liefern gedenken. Der Roggen muss aber rein, schwer und magazinmäßig sein,
+                    auch auf jeden Wispel a 24 Scheffel ein Scheffel Übermaß geliefert werden,
+                    dagegen alles beim Abmessen scharf gestrichen werden soll. </p>
+				        <closer>
+					          <salute>Ich bin mit besonderem Respekt Euer Gnaden gehorsamster Diener</salute>
+					          <signed>
+                  <persName key="ed_ewn_dvq_ybb">Grabowski</persName>
+               </signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

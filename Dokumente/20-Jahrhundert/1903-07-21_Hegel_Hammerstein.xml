@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_jh4_xmf_cy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm von Hegel an Hans Christian Friedrich Freiherr von Hammerstein.
+                    Gumbinnen, 21. Juli 1903</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_jh4_xmf_cy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 76 VII neu Sekt. 3 A Teil IV, Nr. 10, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_zyv_rv5_ccb">Hegel, Wilhelm von (Berlin, 4.12.1849-Merseburg,
+                        31.1.1925)</persName>
+                    <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>
+                    <date when="1903-07-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+               <persName key="ed_djv_pp3_llb">Hammerstein-Loxten, Hans Christian Friedrich Freiherr
+                    von (1843-1905)</persName>
+            </correspAction>
+                <note>Unterlagen <persName key="ed_wms_mh2_cy">Anna von Lehndorffs</persName> über
+                    die <orgName key="ed_pqq_g4d_gy">Waisenhäuser Rosengarten</orgName> und <orgName key="ed_smh_zgj_ycb">Drengfurth</orgName> und die <orgName key="ed_ocb_krt_ncb">Kleinkinderschule</orgName> 1881-1887 in: LASA, StA L,
+                    Bestand 21950 FA Lehndorff, Nr. 87, sowie in: APO, Bestand 382 FA Lehndorff, Nr.
+                    588-594 (Drengfurth), Nr. 595 und 596 (Rosengarten), Nr. 597
+                    (Kleinkinderschule).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Betrifft das <orgName key="ed_pqq_g4d_gy">Mädchenwaisenhaus in
+                        Rosengarten</orgName>, Kreis Angerburg. <lb/>Ohne Erlass.
+                    <lb/>Berichterstatter: Regierungsrat Rothe. <lb/>Mitberichterstatter.
+                    Regierungsrat Graff. <lb/>
+               <seg type="comment">
+                  <orig>Anlagen:</orig>
+                  <note xml:id="nqlz_c2v_ccb">Die nachfolgend genannten Anlagen liegen der Akte
+                            nicht bei.</note>
+               </seg>
+                    <lb/>A. Ein Heft hiesiger Vorgänge <lb/>B. Beglaubigte Abschrift der
+                    Stiftungsurkunde für das Waisenhaus zu Rosengarten</p>
+                <p>In <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, Kreises Angerburg,
+                    besteht seit dem Jahr 1872 ein evangelisches <orgName key="ed_pqq_g4d_gy">Mädchenwaisenhaus</orgName>, das von dem Hauptverein des <rs type="term" key="ed_tj3_4qd_gy">Vaterländischen Frauen-Vereins </rs> in Berlin und der
+                    verstorbenen <persName key="ed_wms_mh2_cy">Gräfin Lehndorff-Steinort</persName>
+                    ursprünglich für die Waisen der bei den Typhus- und Cholera-Epidemien in der
+                    hiesigen Provinz Ausgang der 60er Jahre des vergangenen Jahrhunderts gegründet
+                    war. Später wurden in das Waisenhaus auch Zwangszöglinge aufgenommen und <seg type="comment">
+                  <orig>nach Inkrafttreten des <rs type="term" key="ed_j44_qqd_gy">Fürsorge-Erziehungsgesetzes</rs> vom 2. Juli
+                            1900</orig>
+                  <note xml:id="ngl5_bxf_cy">„Gesetz über die Fürsorgeerziehung
+                            Minderjähriger vom 2. Juli 1900 nebst Ausführungsbestimmungen vom 18.
+                            Dezember 1900, Berlin 1900‟, in: LASA, StA L, Bestand 21950 FA
+                            Lehndorff, Nr. 473.</note>
+               </seg> war die Mehrzahl der Waisenhauskinder
+                    Fürsorgezöglinge. </p>
+            <p>Die Kinder wurden vom 6. Jahre ab in das
+                    Waisenhaus aufgenommen, blieben dort noch über die Konfirmation hinaus ein Jahr
+                    und wurden dann in Dienststellen untergebracht, wo sie noch einige Jahre lang
+                    von der Anstalt aus überwacht wurden. Die Anstalt trug und trägt noch jetzt
+                    einen familienartigen Charakter, da sie nur für einige 20 Zöglinge eingerichtet
+                    ist. </p>
+            <p>Zur Erreichung der Anstaltszwecke diente ein Grundstück von etwa 7 Morgen und einige Gebäude, die
+                    auf den Namen des Vaterländischen Frauen-Vereins in Berlins ins Grundbuch
+                    eingetragen sind, außerdem milde Gaben und die für die Kinder entrichteten
+                    Pflegegelder. Dazu hatte die Gräfin Lehndorff-Steinort der evangelischen
+                    Kirchengemeinde Rosengarten im Jahr 1894 ein Kapital von 23.000 M mit der
+                    Bestimmung vermacht, die Einkünfte daraus nur für das Mädchenwaisenhaus zu
+                    verwenden. Außerdem hatte die im Jahre 1893 in Lötzen verstorbene Frau Lina
+                        <persName key="ed_hdk_dvf_cy">Borkmann</persName>, geb. Raphael das
+                    Mädchenwaisenhaus in Rosengarten zu ihrem Erben eingesetzt, und da das
+                    Waisenhaus im Grundbuch von Rosengarten als Eigentum des Hauptvereins des <rs type="term" key="ed_sfr_j4n_my">Vaterländischen Frauen-Vereins</rs> zu
+                    Berlin eingetragen war, wurde dieser Hauptverein formell als der im Testament
+                    eingesetzte Erbe angesehen und daher auch für ihn die Allerhöchste Genehmigung
+                    zur Annahme der Zuwendung erwirkt (Anlage A Bl. 49 ff. Bericht des
+                    Polizeipräsidenten zu Berlin vom 11. Mai 1894 I. B. 2226 und dortiger <seg type="comment">
+                  <orig>Erlass vom 26. Juni 1894 I. B. 4822</orig>
+                  <note xml:id="nrr2_mvf_cy">Bericht und Erlass in: GStA PK, I. HA, Rep. 77 B,
+                            Nr. 680, n. f.</note>
+               </seg>). </p>
+            <p>Die Regulierung dieser letzterwähnten Erbschaft begegnete jedoch insofern erheblichen
+                    Schwierigkeiten, als der Grundbuchrichter die Umschreibung der in Frage
+                    kommenden Hypothekenforderungen sowohl auf den Namen des Vaterländischen
+                    Frauen-Vereins in Berlin als auch auf den des Mädchenwaisenhauses in Rosengarten
+                    ablehnte, weil Letzteres nicht die Rechte einer juristischen Person hatte und
+                    für die Ersteren nicht nachgewiesen war, dass das Mädchenwaisenhaus ihm
+                    unterstellt war. </p>
+            <p>Die dem Waisenhaus aus dem Borkmannschen Testament zugefallene Erbschaft beträgt zurzeit 6.950 M,
+                    wovon nach Auszahlung von Hypothekenforderungen 5.750 M bei der hiesigen
+                    Regierungshauptkasse hinterlegt und 2 Hypotheken über 750 M und 450 M auf die
+                    Grundstücke Willkassen No. 126 und No. 71 eingetragen sind. Die betreffenden
+                    Hypotheken-Dokumente befinden sich in Gewahrsam des Justizrats <persName key="ed_gp1_cwf_cy">Koch</persName> in <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>, des Sachverwalters des noch lebenden Ehemanns <persName key="ed_l3b_2wf_cy">Borkmann</persName>. Den Nießbrauch der gesamten Summe
+                    von 6.950 M hat der Borkmann stets ungestört gehabt. Borkmann ist jetzt 82 Jahre
+                    und lebt in <placeName key="ed_ofx_nwf_cy">Nordenort</placeName> in
+                    auskömmlichen, wenn auch bescheidenen Verhältnissen. Aus der Ehe mit der
+                    Erblasserin sind keine Kinder vorhanden, sondern nur aus erster Ehe eine
+                    verheiratete Tochter, deren Ehemann im Irrenhaus lebt. Diese Tochter hat zwei
+                    Töchter von 14 und 15 Jahren, ist gesund und arbeitsfähig und lebt mit dem Vater
+                    zusammen. Bei dessen Tode wird sie ein Vermögen von 7.050 M erben. <seg type="comment">
+                  <orig>Borkmann hat außerdem nur noch eine verwitwete
+                            Schwester, die in völlig auskömmlicher Lage sich befindet</orig>
+                  <note xml:id="nm23_qxf_cy">Am 18. Mai 1903 schloss Borkmann mit dem Waisenhaus
+                            einen Vergleich, demzufolge er <quote>nunmehr auf die ganze Erbschaft
+                                zugunsten des Waisenhauses unter der Bedingung (verzichtet), dass
+                                ihm bis zu seinem Lebensende ein Kapital von 6.500 Mark mit 4
+                                Prozent verzinst sowie die Einziehung der Zinsen von der auf dem
+                                Grundstück Willkassen Bl. Nr. 71 eingetragenen Hypothek von 450 Mark
+                                überlassen werden</quote>, in: GStA PK, I. HA, Rep. 76 VII neu Sekt.
+                            3 A Teil IV, Nr. 10, n. f.</note>
+               </seg>. </p>
+            <p>Das Waisenhaus in Rosengarten ist nun jetzt genötigt, umfangreiche Bauten auszuführen. Die alten
+                    Gebäude sind so unzweckmäßig angelegt und so baufällig, dass der Landeshauptmann
+                    der Provinz dem Waisenhaus nicht eher wieder Fürsorgezöglinge überweisen will,
+                    als bis die Wohngebäude zum Teil neu gebaut worden sind. Das erforderliche
+                    Baugeld will der Landeshauptmann aus der Provinzialhilfskasse hergeben. Der
+                    Vaterländische Frauen-Verein in Berlin kann und will keine Mittel zum Neubau
+                    bewilligen, hat sich aber dem Waisenhausvorstand gegenüber bereit erklärt, auf
+                    die Rückzahlung der seinerzeit für das Waisenhaus bei der Gründung aufgewendeten
+                    Beträge zu verzichten und darein zu willigen, dass die Grundstücke und Gebäude
+                    im Grundbuch von seinem Namen auf den einer selbständigen Stiftung „Waisenhaus
+                    Rosengarten“ umgeschrieben werden, wenn der Vorstand des Waisenhauses zu einer
+                    selbständigen Stiftung gestalten würde. </p>
+            <p>Das Waisenhaus trug bisher einen privaten Charakter und konnte als eine Einrichtung des
+                    Vaterländischen Frauen-Vereins angesehen werden; es gab keine Statuten und auch
+                    keinen eigentlichen Vorstand. Der ursprüngliche Vorstand bestand aus der
+                    Mitstifterin, der Gräfin Lehndorff-Steinort, dem Pfarrer von Rosengarten und
+                    einem Pächter des Lehndorffschen Gutes Taberlack. Nach dem Tod der Gräfin
+                    Lehndorff im Jahre 1894 und dem Abgang des Pächters führte der Pfarrer von
+                    Rosengarten allein die Verwaltung des Waisenhauses, ein Zustand, an welchem sich
+                    bis jetzt nichts geändert hat, zumal der jetzige Majoratsherr <persName key="ed_ik3_ckz_2y">Graf Lehndorff-Steinort</persName> kein Interesse an dem
+                    Waisenhaus bewies und in Vermögensverfall geriet, so dass die Lehndorffsche
+                    Begüterung schließlich unter die noch jetzt bestehende landschaftliche
+                    Zwangsverwaltung kam. </p>
+            <p>Um nun in die ungeordneten Verhältnisse Klarheit zu bringen und dem Waisenhaus neue
+                    Lebensfähigkeit zu verschaffen, haben die vereinigten Gemeindeorgane der
+                    Kirchengemeinde Rosengarten, darunter auch der bisherige Vertreter des
+                    Waisenhauses, Pfarrer <persName key="ed_h2d_fhf_cy">Junkuhn</persName> in
+                    Rosengarten, beschlossen, die der Kirchengemeinde von der verstorbenen Gräfin
+                    Lehndorff-Steinort vermachten 23.000 M für eine selbständige Waisenhausstiftung
+                    unter dem Namen; „Gräflich Lehndorffsches Mädchenwaisenhaus zu Rosengarten“ zu
+                    stiften. Die über die Stiftung aufgenommene Urkunde vom 12./14. Februar cr.
+                    (Anlage B) enthält zugleich die statuarischen Bestimmungen für die Stiftung und
+                    hat nach Form und Inhalt die Zustimmung des Konsistoriums in Königsberg gefunden
+                    (Anlage A Bl. 1 ff. 20 ff.). </p>
+            <p>Demgemäß bitte ich Euer Exzellenz, die Allerhöchste Genehmigung zu der Stiftung und der
+                    Stiftungsurkunde erwirken zu wollen. Durch diese Genehmigung wird die Stiftung
+                    rechtsfähig, wird in die Lage versetzt, ein Provinzialhilfskassendarlehen
+                    aufzunehmen, wird nach der Vereinbarung mit dem Vaterländischen Frauen-Verein
+                    demnächst eingetragene Eigentümerin der Waisenhausgrundstücke und wird
+                    schließlich auch unschwer in den Besitz des Borkmannnschen Nachlasses gelangen.
+                    Die Stiftung der ursprünglich der Kirchengemeinde Rosengarten seitens der Gräfin
+                    Lehndorff vermachten 23.000 M liegt vollständig im Sinne der Erblasserin und nur
+                    auf solche Weise wird es möglich werden, ein lebensfähiges Waisen- und
+                    Erziehungshaus zu schaffen. </p>
+            <p>Die in der Angelegenheit hier entstandenen Vorgänge werden mit Bitte um Rückgabe nebst einer
+                    beglaubigten Abschrift der Stiftungsurkunde der neuen Stiftung beigefügt. </p>
+                <closer>
+                    <signed>i. V. <unclear reason="illegible" cert="high">Schicken</unclear>
+               </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

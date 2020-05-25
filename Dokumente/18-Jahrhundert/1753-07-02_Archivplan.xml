@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_dc5_z5h_v2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verzeichnis der Akten. Steinort, 2. Juli 1753</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_dc5_z5h_v2b</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Die Nummerierung des Verzeichnisses deutet auf das alte Ordnungsprinzip der
+                        Akten nach Schiebladen. Siehe in diesem unverzeichneten Material auch eine
+                        „Spezifikation über alle Dokumente und Schriften, welche wegen der
+                        Steinortschen Güter vorhanden sind‟ (71 Nummern), beginnend mit der
+                        Verschreibung über die Steinortsche Wildnis durch Markgraf Albrecht d. Ä.
+                        auf alle drei Brüder vom 6. April 1554, sowie das Konzept zur „Consignation‟
+                        sowie auch die  <ref target="lehndorff_uvy_qry_yhb"> Consignation vom 15.
+                            November 1730 </ref>(15 Nummern und einige spätere Nachträge) über
+                            <quote>Pristaniensche Akten</quote>, beginnend mit der Verschreibung
+                        über Pristanien und Stawken 1558. Die Dokumente befanden sich <quote>im
+                            kleinen Kasten</quote>.  <ref target="lehndorff_vhg_nty_yhb">1862
+                            erstellte Anna von Lehndorff  ein Inventar der Dokumente </ref>im
+                        eisernen Kasten, möglicherweise sie sie geordnet hatte. Es verzeichnet nun
+                        50 Nummern des Familien-Archivs - Säcke und Pakete -, beginnend mit den
+                            <quote>Original-Urkunden-Verleihungen auf Pergament</quote>, schließend
+                        mit <quote>ein Paket enth. Papiere über die Solitude in Gastein</quote>,
+                        sowie 19 die Güter betreffende Pakete (nach Orten geordnet), dazu
+                        Kirchensachen, Fischereisachen, Mühlensachen etc. Abschließend aufgeführt
+                        sind das kaiserliche Grafendiplom, die kurfürstliche Bestätigung, 6
+                            <quote>unterschiedliche Stammbäume</quote> und eine Fischereikarte.</p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort (unverzeichnet)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Gebundene Akte. </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1753-07-02" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Consignation der im eysernen Kasten befindlichen Schriften, die Anno 1753 den 2.
+                    July revidieret </p>
+                <p>No. I <seg type="comment">
+                  <orig>Steinortsche Sachen</orig>
+                  <note xml:id="nkhh_bc3_v2b">Nr. 1-5: Königsberg, 6.4.1554; Eylau 20.12.1560;
+                            29.3.1565; 20.10.1570; 20.8.1572 </note>
+               </seg>
+            </p>
+                <p> No. II <seg type="comment">
+                  <orig>Fischerei-Sachen</orig>
+                  <note xml:id="na2x_fc3_v2b">Nr. 1-11: darunter 1612; 1.2.1613, Kopien 1572,
+                            1613; 1711 </note>
+               </seg>
+            </p>
+                <p>No. III <seg type="comment">
+                  <orig>Heirats-Noteln</orig>
+                  <note xml:id="ndqy_pc3_v2b">Nr. 1-14 </note>
+               </seg>
+                </p>
+                <p>No. IV <seg type="comment">
+                  <orig>Waldungs-Sachen</orig>
+                  <note xml:id="ntm2_wc3_v2b">Nr. 1-4</note>
+               </seg>
+            </p>
+                <p>No. V <seg type="comment">
+                  <orig>Rosengartensche Sachen</orig>
+                  <note xml:id="nvts_xc3_v2b">Nr. 1-6, darunter: 1437, 1636</note>
+               </seg>
+                </p>
+                <p>No. VI <seg type="comment">
+                  <orig>Pristaniensche und Stawkensche
+                            Sachen</orig>
+                  <note xml:id="nt1n_bd3_v2b">Nr. 1-19, darunter: 1558,
+                            1661</note>
+               </seg>
+                </p>
+                <p>No. VII <seg type="comment">
+                  <orig>Taberlacksche Sachen</orig>
+                  <note xml:id="njhc_fd3_v2b">Nr. 1-5, darunter: 1423, 1416,
+                    1565</note>
+               </seg>
+            </p>
+                <note type="editorial"> Die Nummer VIII fehlt </note>
+                <p/>
+                <p>No IX <seg type="comment">
+                  <orig>Briefschaften</orig>
+                  <note xml:id="nr11_hd3_v2b">Nr. 1-11, darunter Königliche Handschreiben, Amtsschreiben, Briefe der
+                            Kaiserin Eleonora und des Kaisers Leopold etc.</note>
+               </seg>
+                </p>
+                <p>No. X <seg type="comment">
+                  <orig>Queden</orig>
+                  <note xml:id="nv5c_nd3_v2b">Nr.
+                            1-2</note>
+               </seg>
+                </p>
+                <p>No. XI <seg type="comment">
+                  <orig>Doliewensche Sachen</orig>
+                  <note xml:id="nffj_4d3_v2b">Nr. 1-3</note>
+               </seg>
+                </p>
+                <p>No. XII <seg type="comment">
+                  <orig>Qvitanzen</orig>
+                  <note xml:id="nh2j_pd3_v2b">Nr.
+                            1-8</note>
+               </seg>
+            </p>
+                <p>No. XIII <seg type="comment">
+                  <orig>Königsbergsche Sachen</orig>
+                  <note xml:id="nj55_qd3_v2b">Nr. 1-8</note>
+               </seg>
+                </p>
+                <p>No. XIV <seg type="comment">
+                  <orig>Lababsche Sachen</orig>
+                  <note xml:id="nw23_td3_v2b">Nr. 1-6</note>
+               </seg>
+                </p>
+                <p>No. XV <seg type="comment">
+                  <orig>Inventaria</orig>
+                  <note xml:id="nchh_5d3_v2b">Nr.
+                            1-12</note>
+               </seg>
+            </p>
+                <p>No. XVI <seg type="comment">
+                  <orig>Wandlacksche Sachen</orig>
+                  <note xml:id="neyz_vd3_v2b">Nr. 1-2</note>
+               </seg>
+                </p>
+                <p>No. XVII <seg type="comment">
+                  <orig>Rastenburgsche Sachen</orig>
+                  <note xml:id="nuxq_wd3_v2b">Nr. 1-4</note>
+               </seg>
+            </p>
+                <p>No. XVIII <seg type="comment">
+                  <orig>Woplacksche Sachen</orig>
+                  <note xml:id="nlg1_yd3_v2b">Nr. 1-2</note>
+               </seg>
+            </p>
+                <p>No. XIX <seg type="comment">
+                  <orig>Pfand-Verschreibungen</orig>
+                  <note xml:id="ngtr_yd3_v2b">Nr. 1-4</note>
+               </seg>
+                </p>
+                <p>No. XX <seg type="comment">
+                  <orig>Obligationes</orig>
+                  <note xml:id="nldt_zd3_v2b">Nr. 1-9</note>
+               </seg>
+                </p>
+                <p>No. XXI <seg type="comment">
+                  <orig>Nachrichten und Urkunden</orig>
+                  <note xml:id="nymf_b23_v2b">Nr. 1-31: <quote>Herrn Oberburggrafen und andere
+                                Herrn von der Familie betreffend</quote>
+                  </note>
+               </seg>
+                </p>
+                <p>No. XXII <seg type="comment">
+                  <orig>Testamente</orig>
+                  <note xml:id="nf5q_323_v2b">Nr. 1-4, 5 bis 9 später zugesetzt</note>
+               </seg>
+            </p>
+                <p>No. XXIII <seg type="comment">
+                  <orig>Surwillensche Sachen</orig>
+                  <note xml:id="ncm3_k23_v2b">Nr. 1-4</note>
+               </seg>
+                </p>
+                <p>No. XXIV <seg type="comment">
+                  <orig>Untertanen-Sachen</orig>
+                  <note xml:id="njyf_l23_v2b">Nr. 1-6</note>
+               </seg>
+                </p>
+                <p>No. XXV Ein Päckchen Amts-Schreiben nebst einem alten Privilegio auf Pergament,
+                    so nicht nach Steinort gehört </p>
+                <p>No. XXVI Frau Gräfin von Lehndorff Dokumenta </p>
+                <p>No. XXVII A Miscellanea von allerhand Schriften, so ebenso nicht nach Steinort
+                    gehören, dennoch aber beizubehalten</p>
+                <p>No. XXVII B Miscellanea II. Schwerinsche Sachen, Beynuhnen, Angerapp usw. </p>
+                <p>No. XXVIII<list>
+                        <item>1. Die güldene Bulle Kayser Leopoldi</item>
+                        <item>2. Kopie derselben</item>
+                        <item>3. Konfirmation dieser Bulle von Friedrich Kurfürst</item>
+                        <item>4. Kaiserliches Diploma, welches die Grafen von Finckenstein Anno 1710
+                            erhalten</item>
+                        <item>5. Abschrift aller Fischzüge auf den Steinortschen Seen, auf
+                            Royal-Papier sauber geschrieben und eingebunden</item>
+                        <item>6. Ein Päckchen Risse, als des Steinortschen Hauses, einer Spritze,
+                            Windmühle etc.</item>
+                        <item>7. Eine Nachricht, darin Personalia von Meinhard von Lehndorff
+                            vorhanden, gebunden</item>
+                        <item>8. Ein Päckchen mit Nachrichten vom Johanniter-Orden und die deshalb
+                            ausgefertigten Patente</item>
+                        <item>9. Ein Päckchen Quittungen vom sel. Herrn General Grafen von Lehndorff
+                            über die empfangenen Interessen der Pristanienschen Güter </item>
+                        <item>10. Expensen bei der Oration des Grafen Gerhard Ernst von Lehndorff d.
+                            18. Januar 1739 </item>
+                        <item>11. Mühlen-Sachen und die Dezision von 1733 d. 19. März, dass in den
+                            Steinortschen Gütern 4 Mühlen können gebaut werden</item>
+                        <item>
+                            <p>
+                                <seg type="comment">
+                           <orig>12. Einschreibung des Grafen Heinrich,
+                                        meines jüngsten Sohnes, in den Johanniter Orden, ist im
+                                        eisernen Kasten</orig>
+                           <note xml:id="nvy5_s23_v2b">später
+                                        dazugesetzt</note>
+                        </seg>
+                            </p>
+                        </item>
+                    </list>
+                </p>
+                <p>
+               <seg type="comment">
+                  <orig>Bei der Revision am 31. Okt. 1853 fehlten von obigen
+                            Nachrichten die Nrn. 4, 6, 10 u. 12, wovon sich Nr. 12 wahrscheinlich
+                            unter den Briefabschriften in der Bibliothek befindet</orig>
+                  <note xml:id="nxzr_523_v2b">später zugesetzt</note>
+               </seg>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

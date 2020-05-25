@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_djk_xtl_l1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anton Graf zu Stolberg an Carl Friedrich Ludwig Graf von Lehndorff. Berlin, 20. Februar 1846</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_djk_xtl_l1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, FA v. Lehndorff (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_vdm_f3r_gz">Stolberg-Wernigerode, Anton Graf zu
+                        (1785-1854)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1846-02-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 20. Februar 1846</dateline>
+                </opener>
+                <p>Aus den mir vorgelegten Verhandlungen, welche mit den jagdberechtigten Herren
+                    Gutsbesitzern in der Umgegend des Forstreviers <placeName key="ed_kwd_gkm_wcb">Bludau</placeName>, wegen einstweiliger unbedingter Schonung des auf ihre
+                    Reviere überwechselnden Elchwildes gepflogen worden sind, habe ich mit mehrer
+                    Freude Eurer Exzellenz Geneigtheit erfahren, für Ihren Teil eine solche Schonung
+                    mit großer Liberalität beobachten zu wollen. </p>
+            <p>Obgleich nun die Erreichung des den bemerkten Verhandlungen zum Grunde liegenden Zwecks bei dem
+                    Widerstreben mehrere anderer der dabei beteiligten Herren Gutsbesitzer leider
+                    zweifelhaft erscheint, so kann ich mir doch nicht versagen, Eurer Exzellenz für
+                    die bewiesene so ehrenwerte Bereitwilligkeit zur Erfüllung desselben hiermit
+                    meinen verbindlichsten Dank zu sagen.</p>
+				        <closer>
+                    <signed>Gr. v. Stolberg</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

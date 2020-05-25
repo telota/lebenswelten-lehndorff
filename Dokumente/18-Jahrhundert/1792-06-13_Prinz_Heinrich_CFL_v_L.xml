@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ek3_kwj_dbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Heinrich von Preußen an Carl Friedrich Ludwig Graf von
+                    Lehndorff. Rheinsberg, 13. Juni 1792</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ek3_kwj_dbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 213, Bl. 3</idno>
+                    </msIdentifier>                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nvx_wcz_bz">Preußen, Heinrich Prinz von (1726-1802)</persName>
+                    <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName>
+                    <date when="1792-06-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                </correspAction>
+                <note>Die Akte (eine Sammlung von Schriftstücken zur Dokumentation der militärischen
+                    Laufbahn mit Beförderungen und Auszeichnungen Carl Friedrich Ludwig von
+                    Lehndorffs aus der Zeit von 1789 bis 1853) enthält eine Vielzahl von Abschriften
+                    von Briefen des Königs, der Prinzen und ranghoher Militärs.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rheinsberg, den 13. Juni 1792</dateline>
+					          <salute>Wohlgeborener Herr Lieutnant!</salute>
+                </opener>
+				        <p>Ich habe den 9. Juli zur <seg type="comment">
+                  <orig>Einweihung eines militärischen
+                            Monuments,</orig>
+                  <note xml:id="nhkb_4sj_tcb">Anfang der 1790er Jahre hatte der Prinz auf einem Hügel am Grienericksee
+                            gegenüber von Schloss <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName> einen Obelisk zu Ehren seines Bruders
+                                <persName key="ed_mn5_svg_hy">Ferdinand</persName> errichten lassen.
+                            Die Vorderfront trägt ein Reliefporträt des Prinzen und die Inschrift: À
+                            L'ÉTERNELLE MÉMOIRE D'AUGUSTE WILHELM PRINCE DE PRUSSE, SECOND FILS DU
+                            ROI FRÉDÉRIC GUILLAUME. Das Monument ist allen Helden des Siebenjährigen
+                            Krieges gewidmet, die, wie eine zweite Inschrift ausspricht, „durch ihre
+                            Tapferkeit und Einsicht verdient haben, dass man sich ihrer auf immer
+                            erinnere‟. Jedem der Offiziere widmete Prinz Heinrich eine auf
+                            Französisch selbst verfasste Inschrift auf einer jeweils eigenen
+                            Gedenkplatte. <p>In den Wanderungen durch die Mark Brandenburg hat
+                                Theodor Fontane das Denkmal in Erinnerung gebracht. Dass es nach
+                                Ansicht von Prinz Heinrich eben diejenigen ehrt, die von Friedrich
+                                II. nicht gebührend gewürdigt wurden, hat Fontane als einen Akt der
+                                Opposition gegen den König gedeutet. Vgl. Bülow, Adam Heinrich
+                                Dietrich von, Prinz Heinrich von Preußen: Kritische Geschichte
+                                seiner Feldzüge, Bd. 1, Berlin 1805, v. a. S. 383–395 (Übersetzung
+                                der Inschriften).</p>
+                  </note>
+               </seg> welches ich allhier
+                    habe errichten lassen, bestimmt, und ersuche Dieselben, diesem Feste, welches am
+                    benannten Tage zum Mittag seinen Anfang nehmen soll und 2 Tage dauern wird,
+                    beizuwohnen, der ich übrigens mit vieler Achtung bin</p>
+				        <closer>
+					          <salute>des Herrn Lieutenant wohlaffektionierter Freund</salute>
+					          <signed>Heinrich</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_sgw_vgj_3bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+               
+                <title>Wilhelm Rhenius an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 12. Oktober 1784</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_sgw_vgj_3bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 380, Bl. 97-98v</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bpl_fsj_gy">Rhenius, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1784-10-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, 12. Oktober 1784</dateline>
+                    <salute>Hochwürdiger und Hochgeborener Reichsgraf <lb/>Gnädigster Graf und
+                        Herr!</salute>
+                </opener>
+                <p>Heute ist auch die <seg type="comment">
+                  <orig>Kantons-Revision
+                            beendiget.</orig>
+                  <note xml:id="nf21_n4j_nbb">Sie fand am 11. und 12.
+                            Oktober statt. Der Landrat, Obristleutnant von <persName key="ed_ihv_cdk_w2b">Graevenitz</persName>, musste den Major dabei
+                            begleiten, vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 387, Bl.
+                            135-136v (Fragment). </note>
+               </seg> Herr Major von <persName key="ed_u23_j5p_tcb">Rüchel</persName> hat sich dabei zwar als ein exakter
+                    Offizier im Dienst, übrigens aber ganz gefällig und freundschaftlich betragen,
+                    auch soviel, als von ihm abgehangen, hiesige Leute konservieret. Er empfiehlt
+                    sich zu Gnaden und bittet um gnädige Verzeihung, dass seine Geschäfte ihm nicht
+                    verstattet, das erhaltene Schreiben schriftlich zu beantworten. <seg type="comment">
+                  <orig>In Kantons-Sachen dependieret das wichtigste allemal
+                            direkt von Herrn Generalleutnant v. <persName key="ed_zny_zpv_scb">Anhalt</persName> Exzellenz</orig>
+                  <note xml:id="nl4v_hqv_scb">Der
+                            am 20. Mai 1782 zum Generalleutnant ernannte von Anhalt wurde 1783
+                            Generalinspekteur der ostpreußischen Infanterie und Gouverneur von
+                            Königsberg. Dieses Amt behielt er bis zu seiner Dimission am 16. Oktober
+                            1786. </note>
+               </seg>, dahero Herr Major von Rüchel mir auch unter der
+                    Hand zu verstehen gegeben, dass es das sicherste wäre, <seg type="comment">
+                  <orig>wenn Euer Hochgeboren wegen Herrn <persName key="ed_isn_43v_mbb">Schultz</persName> unverzüglich an Herrn Generalleutnant zu
+                            schreiben geruhen möchten</orig>
+                  <note xml:id="nev2_bfm_3bb">Das muss
+                            Lehndorff getan haben. In seinem Brief vom 12. November 1784 übermittelt
+                            Rhenius dessen Dank und <quote>innige Rührung</quote>, ebd., Bl.
+                            120-121v. Zugleich lobt Rhenius dessen Fähigkeiten, Eifer und
+                            Fleiß.</note>
+               </seg>, und versicherte mir dabei, dass Ihro Exzellenz als
+                    ein wahrer Freund von Ew. Hochgeboren ihn alsdann nicht würden einziehen lassen.
+                        <seg type="comment">
+                  <orig>Schultz ist 7 Zoll 1 Strich groß, und nach den
+                            Regiments-Anordnungen müsste er jetzt eingezogen werden. </orig>
+                  <note xml:id="nzjx_ymj_nbb">Vgl. den Brief vom Herbst 1784, in: LASA, StA L,
+                            Bestand 21950 FA Lehndorff, Nr. 397, Bl. 135-136v (Fragment). Hierin
+                            hatte Rhenius Lehndorff mitgeteilt, dass Generalleutnant von Anhalt
+                            verfügt habe, dass alle Kantonisten zur Kantonsrevision, <quote>sie
+                                mögen auch noch so entfernt sich aufhalten</quote>, sich in ihrem
+                            Geburtsort einzufinden hätten. Dies habe im ganzen Land <quote>viel
+                                Gegenvorstellung und selbst von seiten der Kriegs- und
+                                Domänenkammern verursacht, es ist aber alles fruchtlos
+                                gewesen</quote>, auch <persName key="ed_isn_43v_mbb">Schultz</persName> müsse sich in <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>
+                            <quote>gestellen, weil er zu diesem Regiment gehört und der Magistrat
+                                deshalb 2 Mal an mich geschrieben.</quote>
+                        </note>
+               </seg>Hierbei halte mich noch verpflichtet besonders anzumerken, dass
+                    Herr Schultz für seine Jahre und Lage ein außerordentlich guter Mensch, er ist
+                    in seinem Dienst bis zur Bewunderung unverdrossen fleißig, und da er mit der
+                    hiesigen Verfassung schon so gut bekannt, diesen Gütern fast unentbehrlich. </p>
+                <p>Das Dach des Speichers ist nunmehro unter göttlicher gnädiger Abwendung allen
+                    Schadens aufgesetzt, und mit Biberschwänzen belegt, die unterste Schüttung wird
+                    auch fertig werden. Die letzte Ankunft des Meisters <persName key="ed_rbb_d4w_mbb">Bräse</persName> war hier sehr nötig, da seine Gesellen
+                    etwas zu dreiste wurden. Sie forderten alle Abend ein Licht, Bett und andere
+                    Dinge, die ich ihnen nicht akkordieren konnte, weil es ganz ungewöhnliche
+                    Neuerungen waren, eben hatten sie sich übernommen, den <seg type="comment">
+                  <orig>enterhol</orig>
+                  <note xml:id="nurs_xpf_4bb">Rhenius meint wohl
+                            Entresol, ein Zwischengeschoss. Hierzu würde auch die Beschreibung ebd.,
+                            Nr. 387, Bl. 135-136v, passen: <quote>Sobald die Zimmerleute vom
+                                Speicherbau werden abkommen können, wird der enterhol und das Balkon
+                                fertig gemacht werden, die Wand in der großen Stube im neuen Flügel
+                                ist bereits fertig.</quote> Auch in folgenden Briefen beschwert er
+                            sich über die schlechte Arbeit und die Widerspenstigkeit der Zimmerleute
+                                <persName key="ed_rbb_d4w_mbb">Bräses</persName>, so Bl. 157-157v
+                            (18. Oktober 1784). - Ein Entresol hatte Prinz <persName key="ed_nvx_wcz_bz">Heinrich</persName> 1777 in einem Flügel seines
+                            Palastes einziehen lassen, Lehndorff erwähnt es mehrfach, vgl.
+                            Schmidt-Lötzen, Nachträge, Bd. 2, u. a. S. 76. </note>
+               </seg> im Flügel zu
+                    machen, da ich aber ihr Verlangen nicht bewilligte, kündigten sie die Arbeit auf
+                    und ließen alles liegen. Eben kam Meister <persName key="ed_rbb_d4w_mbb">Bräse</persName> und bezeigte über ihr Betragen die größte Unzufriedenheit.
+                    Dem Rädelsführer gab er sogleich seinen Lohn und den völligen Abschied aus
+                    seiner Arbeit. Nachhero sagte mir <persName key="ed_rbb_d4w_mbb">Bräse</persName>, dass ihm seine Leute erzählt hätten, dass allein der
+                    Kammerdiener <seg type="comment">
+                  <orig>
+                     <persName key="ed_bnz_hjt_ncb">Kahnert</persName>
+                  </orig>
+                  <note xml:id="ngfh_zcm_3bb">Über diesen
+                            hatte sich Rhenius gegen Lehndorff mehrfach beschwert, in seinem Brief
+                            vom 12. November 1784 kündigt er dessen Abreise nach <placeName key="ed_nnd_ztf_nbb">Warschau</placeName> für den Folgetag an, ebd.
+                            Nr. 380, Bl. 120-121v.</note>
+               </seg> zu dieser Unordnung diese Leute
+                    gereizet, welches ich leicht glauben kann, da er sie in seiner Stube öfters mit
+                    Bier und Branntwein bis in die späte Nacht freundschaftlich bewirtet, und da die
+                    Blumin als Nachbarin über den späten Durchgang unwillig geworden, so sollen die
+                    Gäste nachhero durch die Fenster nach dem Garten ihren Ein- und Ausgang genommen
+                    haben. Dieses wusste zwar schon lange, ich wollte Ew. Hochgeboren aber nicht mit
+                    so vielen unangenehmen Kleinigkeiten belästigen. Da das Übel aber immer ärger
+                    wird, so bin gezwungen, es anzuzeigen. </p>
+                <p>Der Knecht <persName key="ed_mbc_flj_gy">Pallasch</persName>, welchem voriges Mal
+                    die Desertion mit dem Komplott nicht gelungen, ist nunmehro doch entlaufen und
+                    hat von den ihm sogleich nachgeschickten Leuten nicht eingeholt werden können.
+                    Der Knecht <persName key="ed_fnv_3rv_scb">Hube</persName> ist bei dieser
+                    Gelegenheit auch in <seg type="comment">
+                  <orig>
+                     <placeName key="ed_d31_sqv_scb">Ridzawen</placeName>
+                  </orig>
+                  <note xml:id="namf_pqv_scb">Rydzewen im
+                            Kreis Lötzen</note>
+               </seg> gewesen, wo Herr v. <persName key="ed_hyb_zqv_scb">Gohr</persName> mir zur Warnung sagen lassen, dass der
+                    Kutscher <persName key="ed_xw1_drv_scb">Martin</persName> seinem letzt hier
+                    gewesenen Knecht im Vertrauen entdeckt, dass er willens wäre, bald in dortige
+                    Gegend zu kommen, um Bosniaque zu werden. Dieses musste mir umso mehr
+                    befremden, da dieser Mensch es wirklich recht gut hat, und ich immer mit ihm
+                    zufrieden bin. Ich habe ihn nichts von diesem merken lassen, auch dem <persName key="ed_fnv_3rv_scb">Hube</persName> scharf verboten, es <seg type="comment">
+                  <orig>niemand</orig>
+                  <note xml:id="ndbz_jcf_n2b">jemand</note>
+               </seg> zu
+                    sagen, und <seg type="comment">
+                  <orig>da der <persName key="ed_sny_yqw_mbb">Dusig</persName> schon über 1/4 Jahr nicht einen Tag in den Stall
+                            gekommen</orig>
+                  <note xml:id="nkn2_rj1_h3b">George Dusig war Kutscher auf
+                            Groß Steinort, vgl. dessen Lohn- und Deputatzettel in: GStA PK, XX. HA,
+                            Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 270.</note>
+               </seg>, sondern
+                    nur seine Krankheit vorschützt, so habe im letzten Quartal sein Lohn und Bier
+                    eingezogen, und dem <persName key="ed_xw1_drv_scb">Martin</persName> den vollen
+                    Lohn, so <persName key="ed_sny_yqw_mbb">Dusig</persName> bisher gehabt,
+                    ausgezahlt, vielleicht wird ihn dieses auf andere Gedanken bringen. </p>
+                <p>Der Knecht <persName key="ed_jbt_qkt_ncb">Ribbert</persName>, der so lange in
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> auf dem Vorwerk gedient
+                    und seit einiger Zeit hier ist, wünscht, da ihm seine Frau gestorben, die
+                        <persName key="ed_z1d_lsv_scb">Gonekin</persName> zu heiraten. Er will sich
+                    gerichtlich verpflichten, lebenslang in den Gütern zu bleiben, die Kinder von
+                    der Gonekin sollen Untertanen sein und die 4 Kinder von der ersten Frau auch in
+                    diesen Gütern dienen. Die Gonekin hält es mit ihm und dem <seg type="comment">
+                  <orig>
+                     <persName key="ed_ubr_4sv_scb">Mohren</persName>
+                  </orig>
+                  <note xml:id="nmql_cvk_kcb">Hannibal der Mohr war als Diener in das Schloss
+                                <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gekommen.
+                            Anscheinend war er auch 1803 noch nicht verheiratet, denn er habe in
+                            diesem Jahr eine <quote>düchtige Mensche</quote> aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName> erwählt, die
+                                <quote>natürliche Abneigung der Masurinnen vor der dunklen
+                                Hautfarbe</quote> habe jedoch die Heirat vereitelt. Vgl. Schultze,
+                            Lebensbild, S. 107. </note>
+               </seg> und ist ganz gleichgültig, wer sie von
+                    beiden erhält, einen Mann will sie aber gern haben. </p>
+                <p>Die Brau- und Brennerei geht noch sehr gut; auch die Führung des Brauers. <seg type="comment">
+                  <orig>Unter verhoffender hoher Genehmigung ist er vorigen
+                            Sonntag mit der jüngsten Tochter des verstorbenen Schulmeisters
+                            proklamieret.</orig>
+                  <note xml:id="ngqk_wbm_3bb">Lehndorff erteilte nicht
+                            nur dazu seine Genehmigung, sondern befürwortete alle Hochzeiten, vgl.
+                            den Brief vom 12. November 1784, ebd., Nr. 380, Bl. 120-121v. - Im
+                            selben Brief berichtete Rhenius, die Hochzeit sei ohne Störung des
+                            Braugeschäftes in aller Stille gehalten worden. Fräulein von <persName key="ed_hyb_zqv_scb">Gohr</persName> habe ihn ermuntert, dazu 1
+                            Scheffel Weizen, 1 Scheffel Korn und 1 Schaf zu geben, er habe 1 Tonne
+                            Bier hinzugefügt. Für den Wunsch des Brauers, ein Schwein <quote>auf der
+                                Mastung zu halten</quote>, bitte er um Genehmigung. </note>
+               </seg>
+                </p>
+                <p>Voriges Jahr kaufte ich in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    holländische Saat-Erbsen. Davon überschicke, da sie hier so gut geraten, etwas
+                    zur Probe, durch <seg type="comment">
+                  <orig>Herrn Grafen v. <persName key="ed_shm_g3w_mbb">Dönhoff</persName>
+                  </orig>.<note xml:id="nfg5_kgl_3bb">Dieser befand sich in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, vgl. ebd., Nr. 387, Bl.
+                            158-158v.</note>
+               </seg> Es ist hier nun anhaltende trockene Witterung,
+                    und da noch vor <seg type="comment">
+                  <orig>Michael</orig>
+                  <note xml:id="npvk_pcf_n2b">Michaelistag, 29. September</note>
+               </seg> sich
+                    starke Nachtfröste eingestellt, so ist die Wintersaat noch wenig grün. </p>
+                <p>Fortsetzung den 17. Oktober </p>
+                <p>Soeben komme von <placeName key="ed_rdg_jkc_gy">Insterburg</placeName>. Ich
+                    machte mir die <seg type="comment">
+                  <orig>Abwesenheit von Herrn <persName key="ed_r3s_ymw_mbb">Glave</persName>
+                  </orig>
+                  <note xml:id="noml_w52_zdb">Dieser war im Oktober in Berlin, vgl. Nachträge
+                            1775-1806, S. 422, wo Lehndorff ihn zum Essen einlud, und mit ihm
+                                <quote>eine Art Abkommen</quote> schloss, um die
+                            Justizangelegenheiten <quote>in Gang zu bringen</quote>.</note>
+               </seg>
+                    zunutze, um beim <orgName key="ed_myk_cjr_gbb">Hofgericht</orgName> Ew.
+                    Hochgeboren gnädigstem Befehle gemäß Herrn <persName key="ed_sgc_2wf_2y">Leitner</persName> als Interims-Jusititiarius bestätigen zu lassen. Um
+                    dieses desto sicherer zu erhalten, reiste ich selbst dahin, besprach mich mit
+                    Herrn <seg type="comment">
+                  <orig>
+                     <persName key="ed_qhx_gxv_scb">Zudnochowsky</persName>
+                  </orig>
+                  <note xml:id="ngyt_ftv_scb">Wohl
+                            Czudnochowsky, dessen Profession ließ sich nicht ermitteln </note>
+               </seg>
+                    und erbat mir dabei seine Vermittlung, wozu er sehr bereitwillig war und mich
+                    Herrn Hofgerichts-Direktor <persName key="ed_o5r_3tv_scb">Puls</persName>
+                    vorstellte, welcher auch mein Gesuch sehr gütig bewilligte, und nun erwarte ich
+                    nächstens darüber die schriftliche Bestätigung. <seg type="comment">
+                  <orig>Da ich
+                            nun diese Sache ganz für mich und also ohne Ew. Hochgeboren Vorwissen
+                            betrieben</orig>
+                  <note xml:id="nwkp_l1m_3bb">Vgl. dessen Brief vom 12.
+                            November 1784, ebd., Nr. 380, Bl. 120-121v.</note>
+               </seg>, so habe ich
+                    mich auch laut dem gnädigen Befehl auf kein festes Gehalt eingelassen, sondern
+                    ein K. Hofgericht gebeten, ihm <seg type="comment">
+                  <orig>tägliche Diäten
+                            festzusetzen, womit <persName key="ed_sgc_2wf_2y">Leitner</persName>
+                            auch zufrieden ist.</orig>
+                  <note xml:id="nvdr_c3j_nbb">Das Gehalt wurde
+                            auf 15 Rtlr pro Quartal festgesetzt, vgl. Rhenius Brief von Ende
+                            Oktober, ebd., Nr. 387, Bl. 109-109v.</note>
+               </seg> Bei dieser
+                    Gelegenheit habe auch auf dem Hofgericht die <placeName key="ed_fn1_3mw_mbb">Neuhoffschen</placeName> Anschläge durchgesehen, und überreiche davon in
+                    der <seg type="comment">
+                  <orig>Anlage</orig>
+                  <note xml:id="nzjq_gnj_nbb">Ebd., Nr.
+                            387, Bl. 158-158v.</note>
+               </seg> einen kleinen Extrakt. Herr Zudnochowsky
+                    ist zu dem Ankauf dieser Güter sehr anrätig. Ein gewisser Amtmann <persName key="ed_sj3_qtv_scb">Eckert</persName> hatte die Anschläge dieser Güter zu
+                    hoch angefertigt, dahero wurden sie von dem Hofgericht verworfen und Herr Dr. R.
+                        <persName key="ed_hjq_ttv_scb">Henrici</persName> auf <placeName key="ed_y5w_wtp_dz">Barten</placeName> musste andere Anschläge machen,
+                    welche viel niedriger als die vorigen, <seg type="comment">
+                  <orig>und der
+                            beikommende Extrakt ist auf dem Anschlage Herrn Dr. R. Henrici.
+                            </orig>
+                  <note xml:id="nqmg_c2t_s2b">Vgl. die Veranschlagung der
+                            Lehndorffschen Besitzungen in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 650 (ca. 1784).</note>
+               </seg> Auf der Retour von
+                        <placeName key="ed_rdg_jkc_gy">Insterburg</placeName> besuchte ich <persName key="ed_sgc_2wf_2y">Leitner</persName>, um mit ihm über Verschiedenes zu
+                    sprechen. Herr Kriegsrat <persName key="ed_cx3_pc1_hy">Becherer</persName> war
+                    eben in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> und ließ mich
+                    sogleich zu sich rufen. Er war ganz von Dankbarkeit, Liebe und Ergebenheit für
+                    Ew. Hochgeboren belebt, mit seinem nun erhaltenen Departement ist er ungemein
+                    zufrieden, <seg type="comment">
+                  <orig>und da er es allein Höchstdero gnädiger
+                            Vermittlung zuschreibet</orig>
+                  <note xml:id="nrs3_4wl_3bb">So hatte er
+                            sich auch gegenüber Probst <persName key="ed_uhx_5jq_tcb">Pisanski</persName> geäußert, vgl. dessen Brief vom 10. November
+                            1784 an Lehndorff, ebd., Nr. 380, Bl. 118-119v. Zum Vorgang auch
+                            Becherers Briefe vom 14. Mai und 24. August 1784.</note>
+               </seg>, so hat
+                    er mich ersucht, seinen untertänigen Respekt und pflichtvollsten Dank für die
+                    gnädige Verwendung Ew. Hochgeboren vorläufig untertänigst zu vermelden. Er wird
+                    aber auch nächstens selbst seine Schuldigkeit schriftlich zu beobachten nicht
+                    verfehlen. Es wurde auch an die Neuhoffschen Güter gedacht, Herr Kriegsrat
+                        <persName key="ed_cx3_pc1_hy">Becherer</persName> hat sie diesen Sommer
+                    gründlich bereist und kennengelernt, seine unbegrenzte Treue und Ergebenheit für
+                    Ew. Hochgeboren fordern ihn nunmehro doppelt auf, Hochdenenselben mit dem
+                    rechtschaffenden Eifer zu dem Ankauf dieser Güter zu raten, weil daselbst noch
+                    neue Schöpfungen anzubringen sind, er hätte letzthin zwar nur 45.000 Rtlr. als
+                    den Verkaufspreis gemeldet, alleine jetzt wäre er hinlänglich informiert, dass
+                    Herr Etats-Rat <persName key="ed_ssd_45v_scb">Kulemann</persName>, der dass
+                    mehreste Geld in diesen Gütern stehen hat, bei diesem Preis viel verlieren und
+                    sie dafür lieber selbst annehmen würde. Für 47 bis 48.000 Rtlr. glaubt aber Herr
+                    Kriegsrat <persName key="ed_cx3_pc1_hy">Becherer</persName>, dass sie Ew.
+                    Hochgeboren erhalten würden, vorzüglich ist er aber anrätig, dass bei der
+                    Lizitation darauf gedrungen wird, dass die <seg type="comment">
+                  <orig>
+                     <placeName key="ed_d31_sqv_scb">Raudischkeschen</placeName> Güter</orig>
+                  <note xml:id="nqm2_hvv_scb">Das Rittergut war bis 1771 im Besitz der Familie
+                            von Schlieben, als es Major Friedrich Casimir von <persName key="ed_gbc_bxv_scb">Finck</persName> kaufte. Seine Erben
+                            veräußerten das Gut. Es folgten mehrfache Besitzerwechsel. </note>
+               </seg>
+                    zugleich mit den Neuhoffschen ausgeboten werden, weil ohne diese Neuhoff an
+                    seinem Wert viel verliert, da <placeName key="ed_y5w_wtp_dz">Barten</placeName>
+                    die Revenue von 9.000 Rtlr. sicher trägt. Der letzte Termin, wann diese Güter
+                    dem Meistbietenden zugeschlagen werden, ist auf den 4. Mai 1785 bestimmt. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ms1_zzf_4y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pauline Gräfin von Dönhoff an Anna Gräfin von Lehndorff. Friedrichstein, 8. Dezember 1870</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ms1_zzf_4y</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 432, Bl. 118-119v</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Fragment</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von, geb. Gräfin von
+                        Lehndorff (1823-1889)</persName>
+                    <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName>
+                    <date when="1870-12-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/432/str/1/1/10000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Friedrichstein, 8. Dezember 1870</dateline>
+					          <salute>Meine liebe treueste Änny!</salute>
+                </opener>
+                <p>Mein Herz jubelt mit Dir über die Ankunft Deines geliebten <persName key="ed_zkm_whl_2y">Mannes</persName>!, welche so lange ersehnt und erhofft
+                    nun schließlich doch überraschend früher eingetreten ist, als Du und derselbe zu
+                    hoffen wagten. </p>
+                <p>Mein <persName key="ed_gmh_w2s_d2b">August</persName> schreibt: Dass Onkel Carl
+                    nun <hi rendition="#u">endlich</hi> das <seg type="comment">
+                  <orig>Eiserne
+                            Kreuz</orig>
+                  <note xml:id="ndvr_hzj_3fb">GStA PK, XX. HA, Rep. 54
+                            Gutsarchiv Lehndorff-Steinort, Nr. 557.</note>
+               </seg> erhalten und wenn
+                    es ihm ja auch natürlich <hi rendition="#u">gewiss</hi> war, so freut es mich
+                    doch so herzlich, dass er es schon <hi rendition="#u">vor</hi> Eurem <hi rendition="#u">ersten</hi> Wiedersehen erhielt, und das ehrwürdige Haus
+                    seiner Väter, über dessen Pforte das <rs type="term" key="ed_int_pgn_4y">Eiserne
+                        Kreuz</rs> steht, betreten durfte, geschmückt mit diesem teuren glorreichen
+                    Ehrenzeichen!, dass er so redlich erworben hat im Heldenkampf für König und
+                    Vaterland!, wie einst unser teurer verklärter <persName key="ed_k4z_jgl_2y">Vater</persName> - der treue Herr segne seinen Einzug und Auszug! und
+                    schenke, dass die Freude des Wiedersehens auf deinen armen Mann einen wunderbar
+                    belebenden und stärkenden Einfluss ausüben möge, was ich mit Zuversicht hoffe,
+                    da ich schon ähnliches bei Deinen Zuständen erlebte.</p>
+                <p>Wenn Carl auch jetzt wohl bald Dich wird verlassen müssen, um zum Reichstag nach
+                        <placeName key="ed_xrv_gwb_by">Berlin</placeName> zu gehen, so ist er doch
+                    jetzt nicht mehr so unerreichbar und wird Deinen Geburtstag und das liebe,
+                    teure, heilige Weihnachtsfest zu Haus feiern können, am heimischen Herd bei Weib
+                    und Kindern - was nach allen überstandenen Kriegsgefahren und Strapazen, aus
+                    denen Gottes Barmherzigkeit ihn so wunderbar errettet! ihm höchster und
+                    lieblicher und festlicher erscheinen wird als je zuvor!</p>
+                <p>Ich kann mir so lebhaft den Jubel der Kinder vorstellen, die ihren direkt vom
+                    Kriegsschauplatz heimkehrenden Papa gewiss mit einem Gefühl stolzer Ehrfurcht
+                    betrachten, die ihrer kindlichen Liebe für ihn gewissermaßen noch eine höhere
+                    Weihe geben wird.</p>
+                <p>Auch unserer geliebten <persName key="ed_tcp_g3l_2y">Mama</persName> wird die
+                    Freude des Wiedersehens gewiss doppelt wohltun, da ihr Herz durch den Tod der
+                    lieben <seg type="comment">
+                  <orig>Tante</orig>
+                  <note xml:id="nqxj_xm5_22b">Schlippenbach?</note>
+               </seg>
+                    <gap reason="illegible"/> jetzt eben betrübt worden war. Aber sie und auch die
+                    liebe Tante <persName key="ed_qr1_j2g_4y">Reichenbach</persName> werden sich
+                    doch an ihrem seligen Ende erquickt und getröstet haben. Bitte sprich ihnen
+                    beiden meine tiefe Teilnahme an ihrem Verlust aus. <gap reason="illegible"/>
+            </p>
+				        <closer>
+					          <salute>Deine getreue Schwester  </salute>
+					          <signed>Pauline Dönhoff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_un3_l3v_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Else Gräfin zu Stolberg an Anna Gräfin von Lehndorff. St. Moritz, 23. Juli
+                    1891</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_un3_l3v_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Politische Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 496, Bl. 14-15v</idno>
+                    </msIdentifier>
+                    <p/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ydj_pmv_h2b">Stolberg-Wernigerode, Else Gräfin von
+                        (-)</persName>
+                    <placeName key="ed_jzd_fnv_h2b">St. Moritz</placeName>
+                    <date when="1891-07-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+                <note>Am 11. Oktober 1891 bedankte sie sich für die Anteilnahme am Tod ihres
+                    Schwagers. Sie habe ihren Mann nicht begleiten können. Am Folgetag gehe sie nach
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, <quote>wo es immer
+                        noch etwas einzurichten gibt</quote>, und am Tag darauf nehme sie an der
+                    Sitzung des Vorstandes der <quote>Barmherzigkeit</quote> teil. Am 24. Oktober
+                    bietet sie - geschrieben aus dem Regierungsgebäude in Königsberg - Anna
+                        <quote>10 Lose für die Ostpreußische Mission</quote> an, die sie behalten
+                    oder verkaufen möchte. Die Verlosung sei auf Mai 1892 verschoben, <quote>da es
+                        noch nicht gelungen ist, viele Lose unterzubringen, und ich habe
+                        leichtsinnig versprochen, 200 M zu platzieren</quote>. Sie sei dem <orgName key="ed_w32_txd_py">Magdalenenstift</orgName> beigetreten, es werde Zeit,
+                        <quote>dass man Anstrengungen macht, um mehr Mittel zu
+                    erlangen.</quote>
+            </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/496/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>St. Moritz, 23. Juli 1891</dateline>
+					          <salute>Liebe Gräfin,</salute>
+                </opener>
+				        <p>man schreibt mir aus <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName>, dass ein so
+                    schöner Kranz zu unserem Schmerzenstage, von Ihnen gesandt, eintraf und ich
+                    eile, Ihnen innigst dafür zu danken. <seg type="comment">
+                  <orig>Dass wir nicht
+                            selbst die Stätte, wo wir unsere schönsten Hoffnungen für diese Erde
+                            bargen, schmücken konnten, war uns leid, </orig>
+                  <note xml:id="nxlk_j4v_h2b">Der Sohn Conrad war im Vorjahr bei einem
+                            Jagdunfall gestorben.</note>
+                    </seg>aber der Versuch, ob die hohe Bergluft <persName key="ed_rnd_xnv_h2b">Adolfs</persName>
+                    <unclear reason="illegible" cert="low">Natur</unclear> stärkt, sollte mal
+                    gemacht werden, und das kann nur in dieser Jahreszeit geschehen; auch ist Trost
+                    ja nicht am Grabe zu finden! Man blickt aus der Ferne vielleicht mehr auf das
+                    Überirdische, Unvorstellbare und geistliche Erquickung hatten wir hier durch
+                    einen P. <persName key="ed_ffl_g4v_h2b">Delapierre</persName>, der uns in der
+                    église évangelique das Abendmahl reichte. </p>
+                <p>Was sagen Sie, liebe Gräfin, zu unserem Schicksal - zur Ernennung meines
+                        <persName key="ed_c3l_m4v_h2b">Mannes</persName> als Oberpräsident von
+                    Ostpreußen? Mir war es recht etwas überwältigend, weil ich mich ab und zu um die
+                    Gesundheit meines Mannes sorge und dies doch ungewohnte Anstrengungen nach sich
+                    zieht; aber er meinte sich der Sache nicht entziehen zu können und ich glaube,
+                    es reißt ihn etwas heraus aus dem <gap reason="illegible"/> Kummer. Jedenfalls
+                    kommen wir mit ganzer Seele in die Provinz, in der wir einst nach getaner Arbeit
+                    hoffen zur Ruhe zu gehen, und bitten Gott, dass er es alles segne.</p>
+				        <closer>
+					          <salute>Mit herzlicher Empfehlung meines Mannes an Sie, liebe Gräfin, Ihre dankbar ergebene </salute>
+					          <signed>Else Stolberg</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ylg_nhd_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Steinort, 9.
+                    März 1812</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ylg_nhd_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 263 f. </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Karl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1812-03-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (Hirschberg 9.4.1751-Königsberg, Roßgärter Markt
+                        12.11.1830)</persName>
+                </correspAction>
+                <note>Ein weiterer Brief vom 12. März ebd., S. 264 f. - <persName key="ed_gnc_c1m_2y">Amalie von Lehndorff </persName> hatte in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> das Glück, von französischer
+                    Einquartierung verschont zu bleiben, da sich einer der Adjutanten des
+                    Generalleutnants von <persName key="ed_xyh_mfr_gbb">Ziethen</persName>,
+                    Rittmeister von <persName key="ed_szn_rnk_wcb">Zeuner</persName>, mit seinem
+                    Büro bei ihr einquartiert hatte, vgl. ebd., S. 265. - Zur selben Zeit, am 15.
+                    März, traf eine Kommission aus <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ein, die Ansprüche der Einwohner auf die Lieferungen
+                    aus dem Feldzug 1806/07 ordnen und Entschädigungen festsetzen sollte.
+                    Schuldverschreibungen wurden ausgegeben (sog. Bons), die weit hinter den
+                    tatsächlich erbrachten Leistungen zurück blieben. Die Lehndorffschen Güter, die
+                    Lieferungen für 11.000 Rtlr. gegeben hatten, erhielten nur 6.000, wovon die
+                        <quote>große Hälfte noch unter die Einsassen kommt</quote>, so dass
+                    tatsächlich nur 2.800 Taler in Bons auf die Lieferungen Steinorts entfielen,
+                    vgl. ebd., S. 265 f. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 9. März 1812</dateline>
+                    <salute> </salute>
+                </opener>
+				        <p>
+               <gap reason="lost"/> Im Augenblick, dass ich Ihnen schreibe, erhalte ich einen reitenden
+                    Boten vom Landrat, welcher mir amtsmäßig anzeigt, dass er eine Estafette mit dem
+                    Befehl erhalten, in seinem Kreise die allerschleunigsten Anordnungen zu treffen,
+                    dass die täglich zu erwartenden französischen Truppen, welche als Freunde diese
+                    Gegend durchziehen würden, alles Nötige zu ihrer Verpflegung vorfänden und
+                    möglichst gut aufgenommen würden. Da weder Zeit noch Ort noch Mittel bestimmt
+                    wären, soll man sich bereithalten und nichts refüsieren, was gefordert werde. -
+                    Gott stehe uns bei! Mir ist es kalt übers Leben gefahren, bei dieser Hiobspost.
+                    - Es ist also nun kein Zweifel mehr am Ausbruch der Krisis und die Zukunft ist
+                    unabsehbar! <gap reason="lost"/>
+            </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

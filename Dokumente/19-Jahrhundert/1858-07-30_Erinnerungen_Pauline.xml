@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_r3v_kwj_r2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Heinrich Volkening an seine Tochter Ida Rische. 30. Juli 1858</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_r3v_kwj_r2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 52: Kleine
+                            Erinnerungen aus dem Leben der Exzellenz Gräfin Pauline Lehndorff</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Typoskript. „Entnommen aus Briefen von Frau Pastorin Volkening -
+                            Jöllenbeck und deren Tochter, Frau Pastor Rische - Schwinkendorf, durch
+                            die Tochter der Letzteren, Paula, die ein Patenkind der obigen Gräfin
+                            Lehndorff war." </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_qfc_3vv_vkb">Volkening, Johann Heinrich (1796-1877)</persName>
+                    <placeName key="ed_s51_gvl_gfb">Jöllenbeck</placeName>
+                    <date when="1858-07-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wjt_k15_gfb">Rische, Frau (-)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>30. Juli 1858</dateline>
+                </opener>
+                <p>Ich habe diese Woche einen wahrhaft glücklichen Tag gehabt. <seg type="comment">
+                  <orig>Vor 10 Tagen bekam ich einen Brief von Baron <persName key="ed_og3_hcb_hfb">Maltzahn</persName> aus <placeName key="ed_sps_kcb_hfb">Rothenmoor</placeName> i. Meckl.</orig>
+                  <note xml:id="nh4v_5wh_xkb">Vgl. <ref target="http://www.lexikus.de/bibliothek/Album-Mecklenburgischer-Schloesser-und-Landgueter-Band-1/Rothenmoor">Album Mecklenburgischer Schlösser und Landgüter, Bd.
+                            1.</ref>
+                  </note>
+               </seg> Dieser sagte mir, Graf <persName key="ed_e2c_dfd_d2b">Hahn</persName> sei in <placeName key="ed_avy_p42_cy">Gastein</placeName>, derselbe, der vor einem Jahre uns 120 Taler schickte
+                    für die Armen und Schulkinder zur Versorgung mit unseren neuen Gesangbüchern. Da
+                    ich so nahe wohne, möge ich nicht unterlassen, ihm in Gastein mein Kompliment zu
+                    machen. Nun reise ich schon seit etwa 15 Jahren nach Wildbad, ohne hinzukommen.
+                    Siehe da nun den willkommenen Anlass dazu. <seg type="comment">
+                  <orig>Vorigen
+                            Dienstag fuhr ich mit unserem Wagen von hier ab.</orig>
+                  <note xml:id="nsqs_fjb_qhb">
+                     <note type="editorial">Er reiste über <placeName key="ed_ocm_scb_hfb">Schwarzach</placeName> und nächtigt in dem
+                                Wirtshaus, in dem der Salzbund von 30.000 evangelischen Salzburgern
+                                geschlossen wurde, die aus Glaubensgründen ausgewandert waren, vgl.
+                                    <ref target="https://www.sn.at/wiki/Salzbund">hierzu <ref target="https://www.sn.at/wiki/Salzbund">https://www.sn.at/wiki/Salzbund</ref>
+                        </ref>.
+                        </note>
+                  </note>
+               </seg>
+                    <gap reason="insignificant"/> Nun hatte ich schon ein Paar Tage vorher an Graf
+                    Hahn geschrieben. Ich lies mich anmelden und wurde gleich zu ihm geführt. Er lag
+                    noch im Bett, da er einen heftigen Gichtanfall gehabt hatte. Ich musste mich zu
+                    ihm setzen und erzählen. Ich dankte ihm für die erwiesene Wohltat und dann
+                    fragte er mich wegen unseres Kirchenbaus und sagte: „Ich habe dafür ein kleines
+                    Scherflein hergerichtet‟, und gab mir 100 Gulden. Dann kam seine Tochter,
+                        <persName key="ed_wms_mh2_cy">Gräfin Lehndorff</persName> von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> in <placeName key="ed_uvt_4j4_dz">Preußen</placeName>, begrüßte mich liebenswürdig. Es folgten noch ein Herr
+                    und eine Dame und dann die Domestiken. „Wir halten eine kleine Morgenandacht
+                    alle Tage und heute bitten wir Sie, lieber Herr Pastor, diese zu halten.‟ <gap reason="insignificant"/>
+            </p>
+                <p>Die Gräfin, eine wahre Engelsgestalt, nahm mich bei der Hand, führte mich in ein
+                    anderes Zimmer; da musste ich ihr von unserer Gemeinde erzählen; bald kam auch
+                    der Graf, auf seinen Stab gestützt, und ich saß noch eine Weile. Dann lud man
+                    mich zu Mittag ein, wo ich noch ein paar glückliche vergnügte Stunden mit diesen
+                    edlen Menschen verbrachte. Es war auch der Geburtstag der kleinen auch
+                    gegenwärtigen Komtess <persName key="ed_vhr_wjh_cy">Anni</persName> Lehndorff,
+                    Da musste ich in Champagner ihre Gesundheit ausbringen. </p>
+                <p>Der Herr segne diese lieben teuren Menschen!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

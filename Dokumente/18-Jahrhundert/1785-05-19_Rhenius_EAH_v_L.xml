@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dv3_ssf_jbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Rhenius an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 19. Mai 1785</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dv3_ssf_jbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 382, Bl. 132-133v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bpl_fsj_gy">Rhenius, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1785-05-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>In seinem Brief vom 11. Juni (Bl. 140-141v) bedankt sich Rhenius für die
+                    Antwort und hofft, dass <quote>der Gebrauch des Bades mit dem vollkommensten
+                        glücklichsten Erfolg</quote> gekrönt werden möge. <persName key="ed_csb_mdf_cy">Lehndorff</persName> befand sich zur Kur in <placeName key="ed_kbf_hfz_ny">Bad Freienwalde</placeName>, vgl. StA, Bestand 21950 FA
+                    Lehndorff, Nr. 421: Liste der Brunnen- und Badegäste, 1785 (Nr. 98: <quote>Der
+                        Kammerherr Graf von Lehndorff aus Berlin</quote>). Hier erreichte ihn auch
+                    die Einladung des Generals der Kavallerie, Graf von <persName key="ed_gwv_2gg_hy">Prittwitz</persName>, zum Besuch in <placeName key="ed_rxc_wgg_hy">Quilitz</placeName>, vgl. StA, Bestand 21950 FA
+                    Lehndorff, Nr. 383, Bl. 1. - Rhenius schreibt weiter, am 6./7. Juni seien die
+                    Vorwerke <placeName key="ed_xpm_112_gy">Labab</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> übergeben worden, alles sei
+                        <quote>sehr gut und friedliebend abgegangen</quote>. Er habe feststellen
+                    müssen, dass ein <quote>gerichtlich bestätigter Justitiarius für den Eigentümer
+                        eine der beschwerlichsten Lasten ist</quote>, denn die meisten würden ihre
+                    Stelle missbrauchen, die <quote>gehörige Bescheidenheit sehr verletzen</quote>
+                    und sich mit ihrer <quote>Chicane</quote> hinter <quote>die heilige
+                        Gesetze</quote> verstecken, mit denen sie ihre
+                        <quote>Privatabsichten</quote> bemänteln. Lehndorff werde sicher alles
+                    versuchen, um bei einem <quote>Interims-Justitiarium</quote> zu bleiben. Die
+                    Kindersterblichkeit sei sehr hoch, erfreulich sei deshalb die Annahme des
+                    Chirurgus <persName key="ed_oxt_jzb_tcb">Kayser</persName>. Am 6. Oktober hatte
+                    ihm der Königliche pensionierte Chirurgus <persName key="ed_j5n_jfc_tcb">Goercke</persName> noch ein sehr gute Zeugnis ausgestellt: <persName key="ed_oxt_jzb_tcb">Kayser</persName> sei ein <quote>geschickter, in seiner
+                        Wissenschaft erfahrener, aber auch von der Seite des Herzens
+                        rechtschaffender Mann</quote> und er freue sich sehr, <quote>dass meine
+                        Landsmannschaft durch ihn die beste Hilfe bekommt.</quote> Zugleich bat er
+                    darum, dass <persName key="ed_oxt_jzb_tcb">Kayser</persName> seine erkrankte
+                    Mutter, Predigerwitwe im von <persName key="ed_o4b_fqm_ngb">Bronikowskischen</persName> Dorf <placeName key="ed_ozh_rfc_tcb">Sorquitten</placeName>, aufsuchen dürfe. - Mit dem
+                        <quote>Unterkommen</quote> des Herrn von <persName key="ed_zt5_y5b_tcb">Podewils</persName> gäbe es keinen Fortschritt. Wenn Lehndorff
+                        <quote>einige Vorsprache beim Minister v. <persName key="ed_u4q_5bw_mbb">Gaudy</persName> für ihn einzulegen geruhen möchten</quote>, würde es
+                    ihm sicher nutzen, zumal er bereits auf der Invaliden-Liste stünde. Ein von
+                    Podewils ausgesuchtes junges Pferd für Lehndorff müsste einem Stallmeister zur
+                    Erziehung anvertraut werden, beispielsweise dem in <placeName key="ed_c3f_wxz_g1b">Schlodien</placeName>. Die Rektor-Wohnung in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> sei eingerichtet. Die
+                    Anweisungen für die <ref target="lehndorff_rdj_d3y_3bb">Krüll-Kammer</ref> habe
+                    er verstanden. Er geht noch auf einige Gutsinsassen ein. <persName key="ed_ejx_t2c_tcb">Bötticher</persName> habe am 1. Juni seine <orgName key="ed_ddj_ktb_tcb">Pensions-Anstalt</orgName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> begonnen. Er nehme nur 4 bis 6
+                        <quote>junge Herren</quote> und bekäme für jeden 200 Rtlr. Es frage sich, ob
+                    Graf <persName key="ed_k4z_jgl_2y">Carl</persName> nicht auch besser zu ihm
+                    geschickt werden solle, als zu seinem Hauptmann, <quote>der aber nur das Militär
+                        und nicht die Erziehung studiert hat</quote> und auch so weit entfernt ist.
+                    Zu Kayser und Johann Goercke: Ziebura, Tagebuch, S. 222 und 273. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 19. Mai 1785</dateline>
+                    <salute>Hochwürdiger und Hochgeborener Reichsgraf, <lb/>Gnädigster Graf und
+                        Herr!</salute>
+                </opener>
+                <p>Gottlob! dass wir noch etwas zu Dreschen haben, denn die kalte Witterung hält
+                    noch immer an. Sowohl Vorwerke als Bauern sind in Ansehung des außerordentlich
+                    langen Winters sehr glücklich mit Futter durchgekommen, aus anderen Gegenden
+                    hier zu <placeName key="ed_uvt_4j4_dz">Preußen</placeName> hört man aber
+                    traurige Nachrichten in Ansehung des Futtermangels, auch der Haber soll an
+                    vielen Orten mangeln. Da ich aber voriges Jahr dafür gesorgt, dass die Bauern
+                    ihre Äcker alle besäet, so fehlet es ihnen nicht, auch haben wir hier an Haber
+                    und Gerste, ohngeachtet davon viel verbraucht wird, daran keinen Mangel und
+                    kommen reichlich damit aus, ohne was zu kaufen. Es ist bei mir angefragt worden,
+                    ob zu dem bei <placeName key="ed_z4n_nz1_tcb">Nikolaiken</placeName> erbauten
+                        <orgName key="ed_jmq_pz1_tcb">Königlichen Magazin</orgName> 30 bis 50.000
+                    Ziegel zum Verkauf übrig habe. Da nun solche füglich zu entbehren sind, habe
+                    geantwortet, dass vor 7 Rtlr. p. Mille (welches hier ein hoher Preis ist) solche
+                    zu bekommen sind, sie müssen aber bis <placeName key="ed_xpm_112_gy">Labab</placeName> geliefert werden, von da sie zu Wasser abgeholt werden.
+                    Noch habe darauf keine Antwort. Das Vorwerk <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> ist auf 3 Jahre unter zu verhoffender hoher
+                    Genehmigung an den Pächter <persName key="ed_ocz_vhc_tcb">Klein</persName> vor
+                    300 Rtlr. verpachtet. Da der junge <persName key="ed_yw5_yv1_vdb">Hoffmann</persName> nicht so viel zahlen wollte und kein Unterkommen fand,
+                    bleibt er noch ein Jahr in <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                    auf der Arrende. Das Vorwerk <placeName key="ed_xpm_112_gy">Labab</placeName>
+                    wird ihm aber den 6. Juni abgenommen. </p>
+            <p>Wenn ich die Ehre haben werde, Ew. Hochgeboren über alles dieses einen mündlichen umständlichen
+                    Bericht abzustatten, so schmeichle mich mit Ew. Hochgeboren vollkommenen
+                    Zufriedenheit über diese Veränderungen, da Hochdieselben sich von den
+                    ansehnlichen Vorteilen, welche solche gewähren, sehr leicht werden überzeugen
+                    können. Hoffmann wollte sehr gern das Vorwerk <placeName key="ed_xzt_112_gy">Stawisken</placeName> auf mehrere Jahre übernehmen, ich habe ihn aber mit
+                    diesen Absichten bis zu Ew. Hochgeboren Ankunft in Geduld zu stehen angewiesen. </p>
+            <p>
+               <persName key="ed_c4x_rcv_mbb">Assmann</persName> ist recht sehr fleißig, er hat in kurzer Zeit
+                    mit wenig Leuten mehr gemacht, als man erwarten konnte, und es ist alles viel
+                    ordentlicher, als ehedem, da er noch mit <persName key="ed_old_v4w_mbb">Brosch</persName> zusammen war. Der junge <persName key="ed_mln_t3t_ncb">Voss</persName> ist still und fleißig, hat aber kein Genie zum Garten. Der
+                    Kochbursche führet sich jetzt sehr gut und hat einen offenen Kopf, der leicht
+                    etwas fassen kann.</p>
+                <p>den 21. </p>
+            <p>Die Hoffnung Herrn v. <persName key="ed_zt5_y5b_tcb">Podewils</persName> zu einer Versorgung ist
+                    abermals fehlgeschlagen, er ist nun nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> abgereiset. Wir haben hier noch immer viele Kranke,
+                    der liebe <persName key="ed_xcb_gsw_mbb">Mondzig</persName> muss uns sehr oft
+                    besuchen. Kürzlich schrieb er an mir folgendes: „Ich merke, dass nunmehro alt
+                    werde und nicht mehr so often weite Reisen übernehmen kann.‟ - Wie glücklich
+                    sind also Ew. Hochgeboren, dass Hochdieselben nunmehro einen eigenen Arzt haben,
+                    nach meiner Bemerkung ist die bisherige Entbehrung eines hierselbst wohnenden
+                    Arztes eine der vorzüglichsten und Hauptursachen des hiesigen Menschenmangels.
+                    Hierin bin umso mehr bestärkt, da sichere Nachrichten eingezogen, dass sehr oft
+                    und vorzüglich bei grassierenden Krankheiten viele Menschen in hiesigen Gütern
+                    gestorben sind. Ich nehme mich zwar jetzt der Kranken mit vieler Sorgfalt an, es
+                    will mir dieses Geschäft bei meinen übrigen sehr überhäuften Arbeiten bisweilen
+                    aber fast zu schwer fallen, da solche täglich und sehr oft 5 und mehrere zu
+                    bedienen sind, <seg type="comment">
+                  <orig>ich sehe also der baldigen Ankunft des
+                            hiesigen Arztes mit Verlangen entgegen. </orig>
+                  <note xml:id="nqvr_x4g_jbb">Im Oktober kam der Arzt <persName key="ed_csb_mdf_cy">Lehndorffs</persName>, der Chirurg <persName key="ed_oxt_jzb_tcb">Kayser</persName> nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, vgl. LASA, StA L, Bestand 21950
+                            FA Lehndorff, Nr. 832, Bl. 58-59v. Lehndorff traf nach seiner Kur in
+                                <placeName key="ed_kbf_hfz_ny">Freienwalde</placeName>
+                            wahrscheinlich ebenfalls im Oktober in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ein. Hier erreichten ihn Briefe seines
+                            Verwalters <persName key="ed_vhq_1tg_gcb">Schröder</persName> aus
+                                <placeName key="ed_xrv_gwb_by">Berlin</placeName>, vgl. ebd., Bl.
+                            66-67 und 79-80v. Vgl. Ziebura, Tagebuch, S. 191 (11. Juni 1799):
+                                <quote>Ich spreche zunächst mit meinem alten Haushofmeister
+                                    <persName key="ed_vhq_1tg_gcb">Schröder</persName> über die
+                                laufenden Geschäfte.</quote>
+                  </note>
+                    </seg>Und ist eben jetzt die Ansetzung eines Arztes von der größten
+                    Notwendigkeit, denn nach meinem Abzuge würden mich die Kranken vielleicht zuerst
+                    missen. </p>
+                <p>den 24.</p>
+            <p>Der Bau der Windmühle hat einen guten Fortgang und endlich ist es mir nach Bemühung gelungen,
+                    einen tüchtigen Steinhauer ausfindig zu machen, und um die sehr beschwerliche
+                    Umfuhre der Mühlsteine zu vermeiden, ist gestern von früh morgens bis spät
+                    abends in hiesigen Gütern nachgesehen, ob wir nicht hier solche Steine
+                    ausmitteln könnten, die zu den Mühlsteinen zu gebrauchen wären, und sind auch so
+                    glücklich gewesen, sie zu finden. Heute habe mit dem Steinhauer Kontrakt gemacht
+                    und Montag wird er mit der Arbeit den Anfang machen. Das Winterfeld steht hier
+                    unvergleichlich schön, an vielen Orten muss aber vieles umgepflügt werden. In
+                    allen unseren Dörfern und Vorwerken ist es Gottlob mittelmäßig, in <placeName key="ed_xzt_112_gy">Stawisken</placeName> haben aber doch auch einige Bauern
+                    etwas umpflügen müssen, wozu ich sie mit Sommersaat unterstützt habe. Diese
+                    Woche werde mit der Bestellung des Sommerfeldes fertig, und dann auch den von
+                    Herrn <persName key="ed_tby_x3c_tcb">Wenckstern</persName> bereits hier
+                    angekommenen Kleewer säen. Die Obstkörner habe der Frl. v. <persName key="ed_hyb_zqv_scb">Gohr</persName> übergeben und die Teltower Rüben-Saat
+                    werde auf das beste besorgen. Der alte <persName key="ed_jf1_djc_tcb">Voss</persName> ist oft in seiner Führung so unordentlich, dass er gar
+                    nicht zu gebrauchen ist auf einige Tage, Güte und Strenge ist zu seiner
+                    Besserung fruchtlos, hab ihm versucht. Mit dem Tischler geht es etwas besser,
+                    Gott! gebe, dass es lange anhält. Der alte Bediente <persName key="ed_z5f_3jc_tcb">Scheimann</persName> ist in den kläglichsten Umständen
+                    hier angekommen und hält sich bei seinem Bruder in <placeName key="ed_xjg_d12_gy">Stobben</placeName> auf. Dessen schlechte Verfassung hat
+                    auf hiesige Leute einen großen Eindruck gemacht. Mit meinem Martin bin
+                    zufrieden, er hat in der Krankheit des <gap reason="illegible"/>
+                    <persName key="ed_fnv_3rv_scb">Hube</persName> die Wirtschaft auf dem Vorwerk
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName> recht gut in Acht
+                    genommen. Die Litauischen Kühe und Kälber sind in dem besten Stande, erste geben
+                    viel Milch und schöne Butter. <seg type="comment">
+                  <orig>Der Brauer führt sich
+                            sehr ordentlich und macht gut Bier und Brandwein.</orig>
+                  <note xml:id="nr1f_rzm_xcb">Akten zur Brauerei und Brennerei für die Jahre
+                            1788/89, 1790/91, 1791/92, 1795/96 in: APO, Bestand 382 FA Lehndorff,
+                            Nr. 57-60, 65, 68, 69, 74, 75, 76, 83.</note>
+               </seg> Mit Heu auf dem
+                    Kutschstall sind wir noch reichlich versorgt. Das Kranken der Pferde ist noch
+                    erträglich, der falbe Hengst aber noch nicht aus aller Gefahr. Zu seiner
+                    Wiederherstellung bin in meiner Vorsorge unermüdet. Die Leute im Kutschstall
+                    führen sich recht gut. </p>
+                <p>den 25. </p>
+            <p>Da die Witterung so kalt ist, auch die Sommerfischerei nur mittelmäßig. Der Kleewer gibt zwar
+                    viel Hoffnung, dass er dieses Jahr ganz vortrefflich stehen wird, er ist aber
+                    noch ganz kurz und dicht an der Erde. Der Acker ist zwar mit Dünger auf das
+                    beste versehen, der kalte Nordwind hält ihn aber im Wachstum sehr zurück. Könnte
+                    man ihn wenigstens Anfang Mai nutzen, so wäre der Vorteil ansehnlich. Wenn wir
+                    ihn aber erst sollten medio Juni heuen können, so ist für unsere Gegend der
+                    Vorteil nicht groß. Ich bin vorzüglich mit dem Stück Acker in Verlegenheit,
+                    welches voriges Jahr im Sommerfelde damit besät haben und nun Brache ist. Will
+                    ich solches dieses Jahr nutzen, so kann ich kein Wintergetreide säen, alsdann
+                    geht doch eine Saat mit ihrem Gewinn wirklich verloren. Nun ist die Frage, ob
+                    der Kleebau soviel einbringt, als ich auf der Seite an Stroh und Körnern
+                    wirklich verliere. Hierinnen habe noch keine Erfahrung und wünschte mir darüber
+                    eine gründliche überzeugende Belehrung. Die hiesigen Wirte können mir aber
+                    darüber keine Auskunft geben. </p>
+            <p>Die gute Frl. v. <persName key="ed_hyb_zqv_scb">Gohr</persName> ist seit Anfang dieses Jahres
+                    immer schwächlich gewesen, jetzt aber ist sie Gottlob! recht munter. Sie
+                    versichert Ihnen untertänigsten Respekt und <seg type="comment">
+                  <orig>Ihre
+                            Exzellenz, welche sich recht wohl befinden, empfehlen sich
+                            bestens</orig>
+                  <note xml:id="nmsn_wjc_tcb">Wer sich auf Steinort
+                            aufhielt, wird nicht ersichtlich.</note>
+               </seg>,</p>
+                <closer>ich aber ersterbe in tiefster Treue <lb/>Ew. Hochgeboren ganz untertänigster
+                    Diener <signed>Rhenius</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>N. S. Die Bäume in Gärten und Wäldern sind noch vom allem Laub entblößt und ganz
+                    schwarz. Herr Pfarrer <persName key="ed_scc_1xz_g1b">Aegidi</persName> hat mir
+                    geschrieben, dass wir bald einen Rektor bekommen werden.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

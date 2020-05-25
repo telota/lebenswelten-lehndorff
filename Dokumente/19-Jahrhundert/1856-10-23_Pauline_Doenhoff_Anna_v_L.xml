@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zsd_2vf_4y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pauline Gräfin von Dönhoff an Anna Gräfin von
+                    Lehndorff. Friedrichstein, 23. Oktober 1856</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zsd_2vf_4y</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 432, Bl. 13-18</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von Lehndorff
+                        (1823-1889)</persName>
+                    <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName>
+                    <date when="1856-10-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://szukajwarchiwach.pl/42/382/0/4/432/str/1/1/10000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Friedrichstein, den 23. Oktober 1856</dateline>
+                    <salute>Meine herzensliebe Anny!</salute>
+                </opener>
+                <p>Durch <seg type="comment">
+                  <orig>
+                     <persName key="ed_n5f_vfm_2y">Klara</persName>
+                  </orig>
+                  <note xml:id="nvzb_mrc_d2b">Klara, geb. Gräfin
+                            von Kalnein, Ehefrau von Georg Graf von Lehndorff; Schwägerin beider.
+                        </note>
+               </seg> hörte ich, dass <persName key="ed_zkm_whl_2y">Carl</persName>
+                    die Absicht habe, seinen Geburtstag in <placeName key="ed_yps_bwn_my">Basedow</placeName> mit Dir vereint zu feiern und richtete deshalb meinen
+                    Geburtstagsbrief an ihn dorthin. Nun ist mir aber noch keine Bestätigung dieser
+                    Nachricht zugegangen und ich weiß nicht, ob Carl seinen Plan wirklich ausführen
+                    konnte, oder ob er etwa durch seine einmal übernommenen Jagdverpflichtungen als
+                        <seg type="comment">
+                  <orig>„master of the hounds‟</orig>
+                  <note xml:id="nklv_241_hfb">Begriff aus der Fuchsjagd.</note>
+               </seg> daran
+                    verhindert worden ist. Ich wende mich daher an Dich als das schreibseligste
+                    Mitglied unserer Familie, um Dich zu bitten mir mitzuteilen, <seg type="comment">
+                  <orig>ob Carl bei Dir in Basedow ist und ab wann er von dort aus nach
+                                <placeName key="ed_jxm_5vf_4y">England</placeName> gehen wird, um
+                                <persName key="ed_f5w_2fm_2y">Magdalena</persName> abzuholen,
+                            </orig>
+                  <note xml:id="np2y_3zn_jdb">Er traf am 10. November 1856 ein,
+                            vgl. APO, Bestand 382 FA Lehndorff, Nr. 522, Bl. 1-2v (Emmy Jelf an Anna
+                            von Lehndorff, King's College, London, 10. November 1856). Siehe auch
+                            das Dokument vom <ref target="lehndorff_nbt_rpj_r2b">5. Mai
+                            1856.</ref>
+                  </note>
+                    </seg>was ich so sehr wünsche, da uns sonst das Kind am Ende auch noch den
+                    Winter fortbleibt. Auch verlangt mich so sehr danach zu hören, <hi rendition="#u">wann</hi> Du mit den Kindern heimzukehren gedenkst und ob wir
+                    noch die Hoffnung haben, Euch bei Eurer Rückkehr nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> für einige Tage in <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> zu besitzen. Bedenke, meine
+                    Änny! dass nun schon mehr als zwei Jahre verstrichen sind, seit Du hier warst
+                    und dass Du uns ohne alle Widerrede einen Besuch schuldig bist. </p>
+                <p>Ach wie würde ich mich freuen! Dich und Deine süßen Kinder hier zu haben; sie
+                    sind mir so ans Herz gewachsen, dass ich eine recht innige Sehnsucht nach ihnen
+                    habe. Schreib mit doch nur beizeiten, wann Du kommst und wen Du an Leuten
+                    mitbringst, damit ich Euer Quartier möglichst behaglich einrichten kann. - Aber
+                    ich glaube, ich baue da Luftschlösser und sehe Dich schon im Geist den ganzen
+                    Winter in <placeName key="ed_yps_bwn_my">Basedow</placeName> bleiben. Am Ende
+                    sehen wir uns noch in Bälde in <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    wieder, wenn Du als Frau des Herrenhauses residieren wirst. Schreib mir doch
+                    bitte, wie es mit Carls Wahl wird: Eine entschiedene Ablehnung kommt mir nicht
+                    recht tunlich vor und am Ende kann er es ja wie so viele Mitglieder machen und
+                    einmal im Winter auf 14 Tage oder 3 Wochen hingehen. Ich würde mich ganz
+                    ungeheuer freuen, meine einzige Änny!, wenn ich Dich in Berlin erlebte und Ihr
+                    brauchtet ja nicht den ganzen Haushalt mitzuschleppen, sondern ließet die Kinder
+                    wohl versorgt in Basedow. <seg type="comment">
+                  <orig>Und unsere Magdalena kommt
+                            hoffentlich mit etwas gemilderten Ansichten aus England
+                            zurück,</orig>
+                  <note xml:id="nvrf_ln4_fdb">
+                     <note xml:id="ngqj_k1n_2db">Anna von Lehndorff hatte mütterlicherseits durch die Schlippenbachs
+                                sowie über die Verbindung Hahn-Kuchelmiss zahlreiche Verwandte -
+                                Tanten und Onkel, Kusinen, Nichten - in England und Irland, z. B. in
+                                Sallingen, St. Leonards-on-Sea und Oxford, vgl. APO, Bestand 382 FA
+                                Lehndorff, Nr. 391 und 392, 522 bis 527. </note>
+                  </note>
+               </seg> als
+                    die dritte in unserem Bunde und wir 3 Basedowschen Schwestern erscheinen dann
+                    als halbes Kleeblatt am Hof und bezaubern durch unsere hinreißendste
+                    Liebenswürdigkeit. Na! meine Änny! das wäre doch <hi rendition="#u">zu</hi> nett
+                    - ich kann mich zu sehr über diese Aussicht freuen! - Vor allem gehört freilich
+                    dazu, dass Du Dich recht wohl und kräftig fühlst, mein teures Herz! und dass Du
+                    auch um Deine liebe <seg type="comment">
+                  <orig>
+                     <persName key="ed_cxf_1tc_d2b">Mama</persName>
+                  </orig>
+                  <note xml:id="ncmh_xsc_d2b">Agnes von Hahn,
+                            geb. von Schlippenbach</note>
+               </seg> außer Sorgen bist; dazu wolle der
+                    gnädige Gott seinen Segen geben. </p>
+                <p>Wir werden wohl circa am 20. November von hier aufbrechen, um zur Eröffnung der
+                    Häuser in <placeName key="ed_xrv_gwb_by">Berlin</placeName> zu sein. Schreib mir
+                    recht bald, ob ich Dich <hi rendition="#u">
+                  <placeName key="ed_igr_4kd_gy">hier</placeName>
+               </hi> oder in <placeName key="ed_xrv_gwb_by">Berlin</placeName> wiedersehe.</p>
+                <p>Ehe ich von hier aufbreche, möchte ich noch eine Angelegenheit erledigen, die ich
+                    schon längst mit Dir, meine Änny! besprechen wollte, die mir aber bei unserem
+                    flüchtigen Wiedersehen im Frühjahr nicht in den Sinn kam und mir nun doch ein
+                    bisschen auf dem Gewissen lastet. </p>
+                <p>Bald nach meiner Rückkehr aus <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    erhielt ich mündlich beiliegenden Brief eines armen Gärtners der sich - als
+                    Vetter - meldet und mich bittet, eine Sammlung für ihn in der Familie zu
+                    veranstalten. Er gehört zwar zu der Sorte von Vettern von denen man sagt: „Sie
+                    gefallen mir nicht‟, indessen will es mir doch nicht als christlich erscheinen,
+                    diese seine bescheidene Bitte um eine kleine Unterstützung von sich zu weisen
+                    und deshalb fühle ich mich verpflichtet, seine Bitte in die Familie zu
+                    vermitteln und besonders an Deine Mama sie gelangen zu lassen, indem ich es
+                    Deinem Ermessen anheimstelle, ob Du auch noch bei anderen Gliedern der Familie
+                    kollektieren willst, etwa bei Onkel <persName key="ed_fxl_5l5_ncb">Albert</persName>. Ich fürchte, sie werden alle nicht sehr enchantiert über
+                    diesen Zuwachs der Verwandtschaft sein.</p>
+                <p>Ich vermute, dass die <seg type="comment">
+                  <orig>Großmutter dieses Gärtners der
+                            Branche des weiland puckligen Vetters aus Schlesien</orig>
+                  <note xml:id="nwbr_sp1_hfb">Also den Schmettaus? Amalie Caroline Gräfin von
+                            Schmettau war die Großmutter von Pauline von Dönhoff und Annas Ehemann
+                            Carl Meinhard. Weiteres geht aus den Akten dazu nicht hervor.</note>
+                    </seg> angehörte, von der ich in <placeName key="ed_flb_vtn_my">Altenburg</placeName> zwei ganz kleine Sprösslinge kennenlernte. </p>
+                <p>Mama wird sich vielleicht aus früherer Zeiten dieses <persName key="ed_bt4_fcd_d2b">Ruslitzky</persName> entsinnen, <unclear reason="illegible" cert="low">da</unclear> er sich auf früher ihm von
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> aus gewährte
+                    Unterstützungen beruft; vielleicht ist ihr auch der Zusammenhang seiner
+                    Familiengeschichte bekannt und ob es mit der Verwandtschaft seine Richtigkeit
+                    hat. Ich weiß von dem Mann nichts weiter, als was sein Brief und das Attest
+                    seines jetzigen Brotherren behauptet. Der Brief ist mit der Schlippenbachschen
+                        <gap reason="illegible"/> Petschaft zugesiegelt. Wenn es Dir gelingt, eine
+                    kleine Summe zusammenzubringen, so habe die Güte sie mir möglichst bald zukommen
+                    zu lassen, damit ich noch ein Scherflein dazu beitragen und ihm dann die ganze
+                    kleine Summe noch von hier zuschicken kann. Sei so gut und schicke mir das
+                    Attest des Herrn <persName key="ed_gbt_lcd_d2b">Schmeltzer</persName> wieder,
+                    damit ich die richtige Adresse habe. </p>
+                <p>Wenn Carl nicht bei Dir ist, so habe die Güte ihm den Brief zu schicken, den ich
+                    ihm zum 30. geschrieben habe, weil er auch noch andere Angelegenheiten als bloße
+                    Geburtstagsgratulationen enthielt, die ich gern bald zu ihm gelangen ließe.</p>
+                <closer>
+                    <salute>
+                  <gap reason="insignificant"/> und bin und bleibe ewig Deine treue
+                        Schwester</salute>
+                    <signed>Pauline Dönhoff</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

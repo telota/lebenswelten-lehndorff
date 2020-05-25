@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dfp_35f_nbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an Jacob Ludwig Pisanski.
+                    Steinort, 22. April 1794</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dfp_35f_nbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 385, Bl. 44</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1794-04-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                <persName key="ed_ayd_s1v_vz">Pisanski, Georg Christoph (1725-1790)</persName>
+                <note>Zu Jacob Ludwig Pisanski, Probst in Angerburg: Neue Preußische
+                        Provinzialblätter, Bd. 8, Königsberg 1832, Bl. 35 f. - Im Sommer des Jahres
+                        1794 wurde ein <quote>Collegium zur Abhilfe der Missstände in der Verwaltung
+                            des Vermögens der Kirchen und milden Stiftungen in Ermland</quote>
+                        eingesetzt, vgl. APO, Bestand 382 FA Lehndorff, Nr. 536, Bl. 1-8 (Heilsberg,
+                        10. Juni 1794).</note>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 22. April 1794</dateline>
+					          <salute>Würdigster Freund!</salute>
+                </opener>
+				        <p>Ich versichere Ihnen meine ganze Verehrung. Ist es billig, dass wir den teutschen Prediger
+                    nach <placeName key="ed_h35_jqh_my">Drengfurth</placeName> abholen lassen, da
+                    wir zur <seg type="comment">
+                  <orig>polnischen Gemeinde </orig>
+                  <note xml:id="ndrm_kmc_gcb">Vgl. Kossert, Andreas, Deutsche oder Polen? Die
+                            Masuren im Spannungsfeld des ethnischen Nationalismus 1870-1956,
+                            Wiesbaden 2001, v. a. S. 28 und 59. Noch 1825 wies ein Verzeichnis des
+                            Königsberger Konsistoriums 121 Kirchen aus, in denen polnisch gepredigt
+                            wurde. Bis zum Ende der Hohenzollern-Monarchie verschwand die polnische
+                            Sprache in den Kreisen Goldap, Angerburg und Rastenburg vollständig.
+                            Hierzu auch: Über die im preußischen Masuren gebräuchliche polnische
+                            Sprache, in: Masovia 9 (1903), S. 70-76. </note>
+                    </seg>gehören? Ein Wort Antwort bester Freund!</p>
+				        <closer>
+					          <salute>Ich bin der treueste gehorsamste Diener</salute>
+					          <signed>G. v. Lehndorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

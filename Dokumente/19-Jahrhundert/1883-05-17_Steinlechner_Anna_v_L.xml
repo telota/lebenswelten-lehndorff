@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_nxg_g3y_ny">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maria Steinlechner an Anna Gräfin von Lehndorff. Gastein, 17. Mai 1883</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_nxg_g3y_ny</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Repräsentation/Geselligkeit</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 320, Bl. 61-62</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_s3g_5g4_my">Steinlechner, Maria (-)</persName>
+                    <placeName key="ed_avy_p42_cy">Bad Gastein</placeName>
+                    <date when="1883-05-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/320/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Gastein, 17. Mai 1883</dateline>
+					          <salute>Hochgeborene Frau Gräfin!</salute>
+                </opener>
+                <p>Ganz untertänigst erlaube ich mir, Euer Hochgeborenen Frau Gräfin zu melden, dass
+                    das <orgName key="ed_hd4_zg4_my">Häuschen</orgName> jetzt ganz fertig
+                    eingerichtet und alles in bester Ordnung bereit steht. Ich habe jetzt selbst
+                    eine großer Freude daran, die Zimmer nehmen sich sehr nett und hübsch aus, es
+                    ist ganz eine liebe Wohnung. </p>
+            <p>Die <seg type="comment">
+                  <orig>Carnissen</orig>
+                  <note xml:id="nyfg_rfp_jlb">Carnis = Fleisch. Eine
+                            Lieferung aus Steinort?</note>
+               </seg> haben sich vorgefunden und wurden
+                    gleich zurechtgemacht. <seg type="comment">
+                  <orig>Was die Preise anbelangt,
+                            erlaube ich mir gnädigste Frau Gräfin ganz untertänigst zu bitten,
+                            dieselben nicht mehr zu erhöhen, sonst bekommen wir keine Gäste. Es ist
+                            jetzt überhaupt merkwürdig, dass im Mai die Herrschaften nicht mehr nach
+                                <placeName key="ed_avy_p42_cy">Gastein</placeName> kommen wollen, es
+                            wäre das Wetter auch nicht so schlecht, und doch stehen die größten
+                            Häuser bisher noch leer. So schaut es noch bei uns aus, wir haben für
+                            den ganzen Monat keine einzige Bestellung, es müsste nur durch Zufall
+                            jemand kommen.</orig>
+                  <note xml:id="ntm5_x3y_ny">Vgl. die wöchentlichen
+                            Mietpreise in der Akte, Bl. 56. Schon 1881 hatten die Mieteinnahmen
+                            abzüglich der Bauausgaben in Höhe von 2.142 Fl. nur 1.529,10 Fl.
+                            betragen, ebd., Bl. 57-58.</note>
+               </seg> Hochgeborene Frau Gräfin! Für
+                    den Monat Juni haben wir in der 1. Etage aufgenommen einen Herrn <persName key="ed_cjp_qyt_ncb">Schmidt</persName> samt Frau, dann ein Stiftsfräulein
+                    von <persName key="ed_uj3_hzt_ncb">Bielke</persName> aus <placeName key="ed_dz5_2kn_4y">Dresden</placeName>. Herr Graf <seg type="comment">
+                  <orig>Hahn</orig>
+                  <note xml:id="nfyz_lyt_ncb">einer der Brüder der
+                            Gräfin.</note>
+               </seg> haben sich vom 1. Juli an das Zimmer Nr. 20
+                    vorbehalten. Fürst <persName key="ed_fcj_xyt_ncb">Rohan</persName> und <persName key="ed_edk_w2x_f2b">Schwarzenberg</persName> sind vom 1. August ab
+                    angesagt. </p>
+            <p> Hochgeborene gnädigste Frau Gräfin!
+                    Schreibzeuge habe ich schon angeschafft, daher es nicht mehr nötig ist, solche
+                    mitzubringen.</p>
+				        <closer>
+				           <salute>Mit der ganz untertänigsten Bitte, an die Hohe Gräfliche Familie einen schönen
+                        Handkuss samt herzlichem Gruß entrichten zu wollen, unterzeichnet sich Euer
+                        Hochgeboren gnädigster Frau Gräfin stets viel Dank schuldige
+                        Dienerin</salute>
+					          <signed>Maria Steinlechner <lb/>Kastellanin</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

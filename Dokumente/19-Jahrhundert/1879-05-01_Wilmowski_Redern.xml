@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ckf_2ym_v1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl von Wilmowski an Friedrich Wilhelm Graf von Redern. Wiesbaden, 1. Mai 1879</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ckf_2ym_v1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 89, Nr. 1682, Bl. 93</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_o5l_qw5_22b">Wilmowsky, Karl Freiherr von
+                        (1817-1893)</persName>
+                    <placeName key="ed_zy5_jhm_gbb">Wiesbaden</placeName>
+                    <date when="1879-05-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gyk_1hm_gbb">Redern, Friedrich Wilhelm Graf von
+                        (1802-1883)</persName>
+                </correspAction>
+                <note>Am 20. Mai 1879 benachrichtigte Wilmowski Redern, dass der König <quote>als
+                        angemessenen Zeitpunkt</quote> für die Verleihung der Würde des
+                    Landhofmeisters und des Obermarschalls des Königreichs Preußen <quote>nicht die
+                        Feier der goldenen Hochzeit, sondern die Allerhöchste Anwesenheit in der
+                        Provinz aus Anlass der diesjährigen Manöver des dortigen Armeekorps</quote>
+                    bestimmt habe (Bl. 93-93v). Marginalie: <quote>Die Ernennung hat demnächst doch
+                        zur Feier der goldenen Hochzeit stattgefunden cfr. fol. 100</quote>. - Die
+                    Würde des Obermarschalls wurde jedoch <persName key="ed_iy2_k2t_g2b">Carl Graf
+                        zu Dohna-Schlodien</persName> verliehen, siehe das Dokument vom <ref target="lehndorff_ozf_k1n_v1b">21. Mai 1879</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Wiesbaden, den 1. Mai 1879</dateline>
+            </opener>
+                    <p>Nachdem durch den am 18. April c. erfolgten Tod des Direktors der
+                    Hauptverwaltung der Staatsschulden, Grafen <persName key="ed_mx4_p3r_d2b">Botho
+                        zu Eulenburg</persName>, die Würde des <seg type="comment">
+                  <orig>Landhofmeisters</orig>
+                  <note xml:id="nznl_p5x_f2b"> Dohna wurde
+                            1879 als Landhofmeister berufen; in dieser Stellung war er für die
+                            Beherbergung des Königs verantwortlich, wenn dieser in Ostpreußen
+                            weilte.</note>
+               </seg> des Königreichs Preußen vakant geworden ist, haben
+                        <persName key="ed_lwx_y32_cy">Seine Majestät der Kaiser und König</persName>
+                    für dieselbe den Obermarschall des Königreichs Preußen, Legationsrat a. D.
+                    Grafen zu Dohna-Schlobitten auf <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName> und für die dadurch zur Erledigung gelangende Würde
+                    des Obermarschalls den Legationsrat a. D. <persName key="ed_zkm_whl_2y">Grafen
+                        Lehndorff </persName>auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    in Aussicht genommen. Bevor Seine Majestät indes definitive Entschließung
+                    fassen, wünschen Allerhöchstdieselben Ew. Exzellenz Äußerung über diese
+                    Vorschläge zu erhalten. </p>
+            <p>Indem ich mich beehre, Ew. Exzellenz hiervon Mitteilung zu machen, stelle ich die
+                    Berichterstattung ganz ergebenst anheim mit dem Bemerken, dass eventl. Sr.
+                    Majestät die Ernennungen unter dem 11. Juni zu vollziehen gedenken. </p>
+                <closer>
+                    <signed>i. m. gez. v. Wilmowski</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

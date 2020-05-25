@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xph_1gg_cdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seine Mutter Amalie. Commercy, 24. März 1818</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xph_1gg_cdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 625 f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                    <placeName key="ed_sbg_dgg_cdb">Commercy</placeName>
+                    <date when="1818-03-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von, geb. Gräfin
+                        von Schmettau (Hirschberg 9.4.1751-Königsberg, Roßgärter Markt
+                        12.11.1830)</persName>
+                </correspAction>
+                <note>Am 18. Januar 1818 berichtete <persName key="ed_yx5_cbg_nbb">Berent</persName>
+                    über die durch den Orkan angerichteten Schäden, der Brief in: GStA PK, XX. HA,
+                    Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 866, n. f. Fast alle mit Stroh
+                    gedeckten Gebäude waren abgedeckt worden, Türen und Fenster beschädigt.
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> war glimpflich
+                    davongekommen, da hier nur einige Dachpfannen und Biberschwänze von den Dächern
+                    gefallen waren. Dagegen war die Windmühle völlig zerstört worden. In <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> war der Kuhstall eingestürzt, die
+                    größten Schäden hatten <placeName key="ed_nkz_b12_gy">Stawken</placeName> und
+                        <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> zu verzeichnen, hiwer
+                    war auch der Krug verwüstet worden. In den Folgetagen meldeten die Pächter ihre
+                    Schäden: zerstörte Ställe, Schuppen und Scheunen, tote Tiere, abgedeckte Dächer,
+                    umgestürzte Bäume. Berent sah keine Möglichkeit der schnellen Wiederherstellung,
+                    doch wolle man aufräumen, die Dächer ausbessern, alles sichern und Baumaterial
+                    anschaffen, was problematisch sei, denn man habe im vergangenen Jahr allein
+                    146.000 Stück Ziegel für Bauten verbraucht, nur 18.000 Stück seien noch
+                    vorhanden. Den Orkanschaden auf den <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern berechnete <persName key="ed_yx5_cbg_nbb">Berent</persName>
+                    <quote>nach den Regierungsanschlägen und der Abschätzung von Regierungsbeamten,
+                        königlichen Förstern und Landbaumeistern auf 44.620 Rtlr.</quote>, vgl.
+                    Schultze, Lebensbild, S. 626. Zu den Schäden in den Regierungsdepartements
+                    Königsberg, Litauen und Gumbinnen siehe die Anlage zum Brief vom 19. April 1818,
+                    in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 866, zu den
+                    Schäden in Steinort auch Nr. 874, zu den Bauplänen: Nr. 866 (Rendant Werner an
+                    Lehndorff, 2. April 1818).</note>
+            </correspDesc>
+            <abstract>
+                <p>Am 17. Januar 1818 hatte ein schwerer <ref target="https://de.wikipedia.org/wiki/Naturereignisse_und_Ungl%C3%BCcke_in_Ostpreu%C3%9Fen">Orkan in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>
+               </ref> große
+                    Schäden verursacht. Auch <placeName key="ed_pxt_cnh_1y">Steinort</placeName> war
+                    betroffen, indem Viehställe eingestürzt und wertvolle Tiere ums Leben gekommen
+                    waren. Das Ereignis habe <quote>meine liebsten Pläne und Wünsche, und die lange
+                        genährten Hoffnungen und die Früchte der auf den Gütern angewandten Mühe und
+                        so bedeutender Kosten, deren Früchte ich doch nun bald zu ernten
+                        hoffte</quote>, zerstört. Er hoffe, dass der Mutter in <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> nicht gleiches widerfahren sei, fragt
+                    nach dem Zustand des <placeName key="ed_ysw_qr1_dy">Königsberger</placeName>
+                    Hauses und nach der Lage der <placeName key="ed_enz_4vz_g1b">Landkeimschen</placeName> Güter des Bruders. <quote>Ich fürchte sehr für
+                        ihn, da der Zustand der Gebäude in den Landkeimschen Gütern nicht besser
+                        ist, als der der Steinortschen. Es ist mir nun lieb, dass ich den blauen
+                        Rock noch nicht ausgezogen habe.</quote>
+            </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

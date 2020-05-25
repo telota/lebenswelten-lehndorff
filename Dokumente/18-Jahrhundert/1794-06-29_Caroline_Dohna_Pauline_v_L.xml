@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_d1t_1gy_dcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Caroline Burggräfin und Gräfin zu Dohna-Schlobitten an Pauline von Dönhoff. Finckenstein, 29. Juni 1794</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_d1t_1gy_dcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>VI. HA, FA v. Lehndorff (unverzeichnet)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ws2_5sn_llb">Dohna-Schlobitten, Caroline Burggräfin und Gräfin
+                        zu (1770-1864)</persName>
+                    <placeName key="ed_trb_hgy_dcb">Finckenstein</placeName>
+                    <date when="1794-06-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_z12_bwf_hy">Lehndorff, Pauline Luise Amalie Gräfin von
+                        (Königsberg, 21.6.1776-Friedrichstein, 2.3.1813)</persName>
+                </correspAction>
+                <note>Weitere Briefe aus Marienwerder, Königsberg, Finckenstein, Schlobitten mit
+                    Familiennachrichten und Freundschaftsversicherungen in der Akte. Zur polnischen
+                    Insurrektion (Kościuszko-Aufstand) ab Mai des Jahres: <ref target="https://books.google.de/books?id=DPIDAAAAYAAJ&amp;pg=PA221&amp;lpg=PA221&amp;dq=1794+Danzig&amp;source=bl&amp;ots=AxB3XV8BUQ&amp;sig=ACfU3U2hmlISIHfx7iv3Zw2gKVWxXpGCbA&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwiBhPDTwMLoAhWuMewKHYDaDf04ChDoATABegQICRAB#v=onepage&amp;q=1794%20Danzig&amp;f=false">Treskow, A. von, Der Feldzug der Preußen im Jahre 1794: Beitrag zur
+                        Geschichte des polnischen Revolutionskrieges, Berlin 1837</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Finckenstein, 29. Juni 1794</dateline>
+                    <salute>Liebe Cousine!</salute>
+                </opener>
+                <p>Ich eile Ihnen zu schreiben, dass, so gerne ich wünschte, Ihnen in Zeiten
+                    Nachricht von der Ankunft des <persName key="ed_w15_bk5_sy">Königs</persName> zu
+                    geben, mir es wahrscheinlich ganz unmöglich sein wird. Was ich Ihnen vertraulich
+                    davon schrieb, hat ein sehr wichtiger Mann, der in <placeName key="ed_ypq_rnn_scb">Posen</placeName> viel um die Person des Königs gewesen
+                    ist, und ihm von Affairen gesprochen hat, im Vertrauen zu meinem <seg type="comment">
+                  <orig>Vater</orig>
+                  <note xml:id="nqjz_mcp_tcb">
+                     <persName key="ed_lrj_zkl_w2b">Friedrich Alexander Burggraf und Graf zu
+                                Dohna-Schlobitten</persName>
+                        </note>
+               </seg> gesagt: nämlich, dass es für jetzt ganz bestimmt der Plan des
+                    Königs sei, über <placeName key="ed_mmt_pcp_tcb">Thorn</placeName> und
+                        <placeName key="ed_uyl_j3c_gy">Danzig</placeName> zurückzugehen. In Thorn
+                    würde er sich nicht aufhalten, aber wohl in Danzig. Dabei hat er meinem Vater
+                    versichert, dass der König sehr darauf würde gerichtet sein, da das Attachement
+                    seines gut geführten Adels persönlich selbst zu sehen, weil dieses ihm immer
+                    sehr wert gewesen sei, und jetzt der Sinn einiger diesem entspräche. Die
+                    General-Kammer schrieb auch, dass der König selber der Stadt <placeName key="ed_uyl_j3c_gy">Danzig</placeName> gute Winke von seiner Ankunft geben
+                    lasse. Sie sehen hieraus, dass mehr als Wahrscheinlichkeit für die Reise nach
+                    Danzig da ist. Aber ich fürchte, sie wird erstens schnell kommen, die polnische
+                    Affaire geht so außerordentlich glücklich und schnell zu Ende, dass mein Bruder
+                    aus <placeName key="ed_f5m_fxv_mbb">Polen</placeName> mit voriger Post schreibt,
+                    dass der König soll gesagt haben: er hoffe in einigen Wochen wieder daheim zu
+                    sein. Es kann vielleicht hier schon 4 oder 5 Tage vorher bekannt werden; kommt
+                    diese Nachricht mir wahrscheinlich mit der Berliner Post Mittwochs oder
+                    Sonnabend, so kann ich Sie Ihnen nicht eher als auf das schnellste in 6 Tagen
+                    schaffen. Wenn der König vielleicht schon in Danzig ist wo Ihr Herr <seg type="comment">
+                  <orig>Vater</orig>
+                  <persName key="ed_csb_mdf_cy">
+                     <note xml:id="nunf_ldp_tcb">Ernst Ahasverus Heinrich Graf von
+                                Lehndorff</note>
+                  </persName>
+               </seg> hat so viel Connections, Erfahrung
+                    und Talent, so dass es für ihn die äußerste Vermögenheit wäre, etwas hierüber
+                    sagen zu wollen! Ihnen will ich nur ein paar Worte im Vertrauen sagen, machen
+                    Sie mich aber nicht damit<seg type="comment">
+                  <orig>
+                            <gap reason="illegible"/>
+                  </orig>
+                  <note xml:id="nkq1_nd1_jfb">im Sinne von
+                            verantwortlich, das Wort ist überschrieben</note>
+               </seg>. Die Stafetten
+                    vom Oberpräsidenten gehen durch Heilsberg, da könnten Sie sich am geschwindesten
+                    Nachricht bestellen. Aber ich fürchte, dass Sie doch kaum zeitig genug ankämen,
+                    deshalb meint meine Mutter, dass es am besten sei, in diese Gegend zu kommen, wo
+                    Sie gewiss zur Zeit Nachricht bekommen, und in ein oder zwei kleinen Tagesreisen
+                    in Danzig sein können. Dann braucht sich Ihr Herr Vater nicht vor Danzig zu
+                    ermüden, welches leider in Danzig genug erfolgen würde. Gewiss würde man sich
+                    freuen Ihnen in Neudörfchen eine Zeitlang zu sehen, und von meinen Eltern soll
+                    ich sagen, dass sie sich ebenfalls sehr freuen würden, Ihnen eine Zeitlang hier
+                    zu sehen. Diese ist gewiss der sicherste und beste Plan, und ich bitte Ihnen
+                    sehr, meine Liebe, sich recht dafür zu interessieren, mich möchte es ganz
+                    unbeschreiblich glücklich machen. - so wie es mir nach allen den hübschen
+                    Vorstellungen sehr traurig sein würde, ohne Ihnen in Danzig zu sein, denn mein
+                    Vater wird gewiss um nichts in der Welt, weil er dem König sehr ergeben ist,
+                    diese schuldige Aufmerksamkeit versäumen; übrigens ist es auch wegen der Brüder,
+                    obgleich sie in ihren Diensten nichts besonderes verlangen, doch sehr gut. <note type="editorial">Sie würde sich um ein Quartier kümmern. Käme der König doch
+                        nicht, so hätte sie wenigstens gute Freunde besucht. In jedem Fall hätte es
+                        einen Nutzen. - Sie möge ihr bald wegen der Danziger Reise schreiben. Sie
+                        schließt mit Empfehlungen der Mutter und der Schwestern, der Gräfin von
+                        Carwinden und der <quote>ältesten Eulenburgern</quote> aus
+                        Königsberg.</note>
+                </p>
+                <closer rend="paragraph">
+                    <salute>Ihre ganz eigene</salute>
+                    <signed>Caroline Dohna</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

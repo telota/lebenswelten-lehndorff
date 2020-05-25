@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_rv3_2mk_kcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Friedrich Ludwig Graf von Lehndorff an seinen Vater Ernst Ahasverus
+                    Heinrich. 1. Juni 1802</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_rv3_2mk_kcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schultze, Maximilian (Hrsg.), Christian Friedrich Carl
+                            Ludwig Reichsgraf Lehndorff-Steinort ... Ein Lebensbild auf Grund
+                            hinterlassener Papiere, Berlin 1903, S. 96</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff-Steinort, Carl Friedrich Ludwig Graf von
+                        (Königsberg, 17.9.1770-Königsberg, 7.2.1854)</persName>
+                    <date when="1802-06-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>König <persName key="ed_tl1_nbf_4y">Friedrich Wilhelm III.</persName>
+                    beabsichtigte, in Begleitung seiner <persName key="ed_p34_cnc_tcb">Gemahlin
+                        Luise </persName> in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>
+                    mit Kaiser <persName key="ed_m25_tr1_1bb">Alexander I. von Russland</persName>
+                    zusammenzutreffen. Als <quote>Obermarschall des Königreichs Preußen</quote>
+                    hatte Ernst Ahasverus Heinrich Graf von <persName key="ed_csb_mdf_cy">Lehndorff</persName> bei den Vorbereitungen mitzuwirken. Die Begegnung fand
+                    am 10. Juni 1802 in <placeName key="ed_oxb_txl_5y">Memel</placeName> statt. Für
+                    die Provinz war sie ein großes Ereignis, denn seit <persName key="ed_tkz_yl4_vcb">Peter dem Großen</persName> hatte kein russischer
+                    Herrscher preußischen Boden betreten. Den Besuch, der den Grundstein für die
+                    engen Beziehungen zwischen Russland und Preußen legte, begleiteten zahlreiche
+                    Feierlichkeiten. Es schlossen sich Truppenbesichtigungen an, denen auch die
+                    Königin beiwohnte. Für das Regiment Rouquette war die bei <placeName key="ed_yfb_2m4_vcb">Jerutten</placeName> in der Nähe von <placeName key="ed_lrr_3m4_vcb">Ortelsburg</placeName> vom 19. bis 21. Juni 1802
+                    stattfindende Truppenbesichtigung die erste <quote>Königsrevue</quote>. Carl
+                    Friedrich Ludwig Graf <persName key="ed_k4z_jgl_2y">Lehndorff</persName> wurde
+                    zur persönlichen Begleitung des Königspaares auf der weiteren Reise nach
+                        <placeName key="ed_nnd_ztf_nbb">Warschau</placeName> ausgewählt, vgl. ebd.
+                    dessen in Warschau am 28. Juni 1802 begonnenen Brief, Bl. 96-101. Hierin
+                    beschreibt er u. a. die Feierlichkeiten in Warschau, darunter die Bälle bei dem
+                    Gouverneur von Warschau, Georg Ludwig von <persName key="ed_gfs_4m4_vcb">Köhler</persName>, und bei Fürst Józef <persName key="ed_uty_stf_nbb">Poniatowski</persName> der noch 1794 Warschau gegen die preußische Armee
+                    verteidigt hatte. - In Warschau muss er Etienne de <persName key="ed_bxd_bsw_12b">Damas</persName> kennengelernt haben. Dieser wendete
+                    sich am 25. Januar und 11. März 1803 an Lehndorff mit der Bitte um Protektion,
+                    in: APO, Bestand 382 FA Lehndorff, Nr. 332, Bl. 20-22v.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute>
+                  <gap reason="insignificant"/> Je Vous envie un peu Votre situation; ce
+                        voyage avec ma divine et angélique Reine, mon bon Roi, c'est comme si je
+                        pensais à une famille chérie, quand le souvenir de leur bonté se représente
+                        à ma mémoire. Je voudrais pouvoir leur dire, comme je me réjouis de les
+                        revoir, ainsi que plusieurs bien bons mortels, qui les accompagnent Pour ce
+                        qui regarde mon existence et mes relations actuelles, je n'ai aucune raison
+                        de m'en plaindre et d'en être mécontent. Je me suis attendu à très peu de
+                        choses et j'ai trouvé plus que je n'osais espérer. J'ai beaucoup à faire et,
+                        en partie, des occupations désagréables, mais cela ne durera pas toujours et
+                        puis, c'est mon devoir et mon métier. Mon chef a pour moi des bontés, qui me
+                        touchent, et comme il n'a pas débuté par là et qu'il ne me les accorde que
+                        depuis quelque temps, j'ai la vanité de croire, que je puis les attribuer à
+                        moi-même. Je serais ingrat de me plaindre de qui que ce soit; je suis fort
+                        bien dans le régiment avec mes supérieurs et inférieurs. Madame de Rouquette
+                        est d'une bonté recherchée envers moi. Enfin je suis assez bien dans ma
+                        petite sphère et serais ingrat de prétendre davantage. Tout ce que je
+                        crains, c'est, que les distinctions du colonel Rouquette, quelquefois un peu
+                        indélicatement prodiguées, ou ne dureront pas, ou me feront des ennemis
+                        parmi les autres. Au reste Vous voyez et jugez parfaitement sûres les
+                        relations, qui existent dans le régiment et qui ne promettent pas un avenir
+                        fort agréable. Je suis bien résolu pour mon individu de ne me mêler et
+                        j'espère n'avoir rien à me reprocher <gap reason="insignificant"/>
+                    </salute>
+                </opener>
+				        <p>
+               <gap reason="insignificant"/> Ich beneide Sie ein wenig um Ihre Situation; diese Reise mit
+                    meiner göttlichen und engelhaften <persName key="ed_p34_cnc_tcb">Königin</persName>, meinem guten <persName key="ed_tl1_nbf_4y">König</persName>, ist, als dächte ich an eine geliebte Familie, wenn die
+                    Erinnerung an ihre Güte sich mir im Gedächtnis vergegenwärtigt. Ich würde ihr
+                    gerne sagen, wie ich mich freue, sie wiederzusehen, ebenso wie mehreren recht
+                    guten Sterblichen, die sie begleiten. Was meine derzeitige Existenz und
+                    Verhältnisse betrifft, habe ich überhaupt keinen Grund, mich zu beschweren und
+                    darüber unzufrieden zu sein. Ich habe sehr wenig erwartet, und ich habe mehr
+                    gefunden, als ich zu hoffen wagte. Ich habe viel zu tun und teilweise
+                    unangenehme Beschäftigungen, aber das wird nicht ewig dauern, und außerdem ist
+                    es meine Aufgabe und mein Beruf. Mein Chef ist voller Güte gegen mich, die mich
+                    berührt, und weil er anfangs nicht so war und sie mir erst seit einiger Zeit
+                    erweist, bin ich so eitel zu glauben, dass ich sie mir selbst zuschreiben kann.
+                    Ich wäre undankbar, mich über wen auch immer zu beschweren; ich fühle mich sehr
+                    wohl im Regiment mit meinen Vorgesetzten und Untergebenen. Frau von <persName key="ed_nhj_dl5_sy">Rouquette</persName> ist mir gegenüber von einer
+                    seltenen Güte. Kurz gesagt, es geht mir in meinem kleinen Wirkungsfeld recht
+                    gut, und ich wäre undankbar, mehr zu wollen. Alles, was ich fürchte, ist, dass
+                    die Auszeichnungen von Oberst <persName key="ed_cks_tq4_vcb">Rouquette</persName>, mit denen er mich manchmal ein wenig rücksichtslos
+                    überschüttet, entweder nicht andauern oder mir bei den anderen Feinde machen. Im
+                    übrigen sehen und beurteilen Sie die Beziehungen im Regiment, die keine sehr
+                    angenehme Zukunft versprechen, genau richtig. Ich bin fest entschlossen, mich
+                    selbst nicht einzumischen, und ich hoffe, dass ich mir nichts vorzuwerfen <seg type="comment">
+                  <orig>habe. <gap reason="insignificant"/>
+                  </orig>
+                  <note xml:id="nn52_wnw_qkb">Übersetzung: Dorothea Wagner,
+                    BBAW.</note>
+               </seg>
+            </p>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

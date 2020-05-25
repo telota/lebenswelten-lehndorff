@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_mc4_2z3_tcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. 4. Juni 1757</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_mc4_2z3_tcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Militär</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750-1804), in: Masovia 11 (1906), S. 118-154, hier S.
+                            129</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <placeName key="ed_uxr_bxq_bz">Ruppin</placeName>
+                    <date when="1757-06-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>. - Zum Kriegsverlauf:
+                    Giebel, Tagebücher, v. a. 9. und 15. Mai 1757; Schmidt-Lötzen, Nachträge, Bd. 1;
+                    zur Verwundung des Prinzen S. 107, Eintrag vom 25. Mai 1757. Am Hof hatte man am
+                    26. Mai davon erfahren. Am 10. Mai schrieb Lehndorff: <quote>Ich möchte
+                        behaupten, noch niemals hat der Sohn oder Bruder eines Königs sich so der
+                        Gefahr ausgesetzt wie dieser Prinz.</quote>
+            </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>4. Juni 1757</dateline>
+                </opener>
+                <p>
+               <gap reason="insignificant"/>
+                    <seg type="comment">
+                  <orig>Es musste, lieber Graf, mir erst ein Pferd unter dem
+                            Leibe getötet und eine Wunde am Kinn beigebracht werden</orig>
+                  <note xml:id="ntjw_zz3_tcb">Im August 1756 war <persName key="ed_mn5_svg_hy">Prinz Ferdinand</persName> wie die übrigen Brüder <persName key="ed_x2r_52f_cy">Friedrichs des Großen</persName> in den Krieg
+                            gegen Österreich gezogen. Bei der Belagerung von Prag wurde er
+                            verwundet.</note>
+               </seg>, <seg type="comment">
+                  <orig>bevor ich endlich
+                            Briefe von Ihnen erhielt</orig>
+                  <note xml:id="nymt_ypf_ndb">Die
+                            Briefzustellung scheint sich verzögert zu haben, denn die 70-jährige
+                            Königin-Mutter war ebenso besorgt, keine Briefe vom König und den
+                            anderen Söhnen erhalten zu haben. Sie starb am 28. Juni in <placeName key="ed_m3r_wgq_rdb">Monbijou</placeName>. </note>
+               </seg>; ich hätte
+                    Lust, die zu segnen, die mir in solcher Weise mitgespielt haben, denn sonst,
+                    glaube ich, wäre ich ganz aus Ihrem Gedächtnis ausgelöscht; wenn man mir eines
+                    Tages Arm oder Bein zerschmettert, werde ich regelmäßig von Ihnen Nachrichten
+                    erhalten.</p>
+                <p>Entschuldigen Sie diese unartige Bemerkung, ich weiß, wie Sie von mir denken;
+                        <gap reason="insignificant"/> geben Sie mir öfters Nachrichten von Ihnen und
+                    seien Sie überzeugt von der unantastbaren Freundschaft und Achtung Ihres <gap reason="lost"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

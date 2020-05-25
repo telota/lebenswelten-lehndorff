@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_etp_3rt_q2b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title> Friedrich August Berent an Carl Friedrich Ludwig Graf von Lehndorff. Steinort, 31. Dezember
+                    1807</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_etp_3rt_q2b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 861, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yx5_cbg_nbb">Berent, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1807-12-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 31. Dezember 1807</dateline>
+					          <salute>Gnädigster Herr Graf</salute>
+                </opener>
+				        <p>Dero Befehl gemäß überschicke ich den Carl mit einem <unclear reason="illegible" cert="high">H.</unclear> Wagen, worauf Futter und einige Viktualien nach einliegendem
+                    Zettel mitkommen. </p>
+                <p>In den Gütern ist alles gesund und gut, nur Witterung und Wege machen alles
+                    krebsgängig und Stockung in Handel und Wandel. Tage und Wochen vergehen und man
+                    kann nichts unternehmen.</p>
+                <p>Der Kontrakt mit <persName key="ed_ocz_vhc_tcb">Klein</persName> nebst
+                    Übergaberezess ist erfolgt, zugleich auch die Jahresrechnung bis Trinitatis
+                    1806. Pag. 24 ist der Aufschluss des ganzen; die Beläge und Manualia habe ich
+                    zurückbehalten, damit Ew. Hochgeboren sie in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> mit dem hier befindlichen Registratur-Exemplar
+                    durchgehen können.</p>
+                <p>Meine Reise muss schon bleiben, bis Hochgeboren retour reisen, damit ich zugleich
+                    meine jährlichen Bedürfnisse einkaufen und mit retour nehmen kann, denn bei
+                    einem solchen Wege ruiniert man nur Wagen und Pferde.</p>
+                <p>
+               <seg type="comment">
+                  <orig>Ew. Hochgeboren bitte ich doch über die nachstehenden
+                            Gegenstände mit Ihrer Exzellenz Dero Frau <persName key="ed_gnc_c1m_2y">Mutter</persName> Rücksprache zu nehmen:</orig>
+                  <note xml:id="ne5v_fxt_s2b">Erst 1808 übernahm Lehndorff die Steinortschen
+                            Güter, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                            770. Sein Vater, <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich
+                                Graf von Lehndorff</persName>, verstarb 1811, die Mutter <persName key="ed_gnc_c1m_2y">Amalie Caroline, geb. von Schmettau</persName>
+                            1830.</note>
+               </seg>
+               <list>
+                        <item>a. Ob ich nicht den Bau eines massiven Insthauses in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> unternehmen kann. Die
+                            Kosten werden nicht sehr groß sein und es ist äußerst nötig.</item>
+                        <item>b. Da in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> nur 10
+                            St. Kühe noch vorhanden, so würden die Kosten, einen Hofmann da zu
+                            halten, ebenso groß sein wie die Einnahmen; wo <persName key="ed_old_v4w_mbb">Brosch</persName> bleiben soll. </item>
+                        <item>c. <persName key="ed_ywf_25m_zcb">Wittke</persName> hat sich verlauten
+                            lassen, dass sein <persName key="ed_r1k_vn5_scb">Sohn</persName> von
+                            Ostern den hiesigen Försterposten erhalten würde, der jetzige Oberwart
+                            fräget also an, ob dies hier beibehalten werden wird, oder sich in
+                            Zeiten um einen anderen Dienst umsehen soll.</item>
+                        <item>d. Nach der hier abgehaltenen Berechnung mit sämtlichen hiesigen
+                            Instleuten bleiben solche fast alle im Rest, weil erstens das Getreide
+                            im hohen Preise gegen ihr Taglohn steht, und zweitens sie auch viel
+                            durch Russen und Franzosen gelitten haben; sie bitten also um Erlass
+                            ihrer Abgaben; wenigstens bitte ich für die, die an der Ruhr krank
+                            gelegen und nichts haben verdienen können.</item>
+                    </list>
+            </p>
+                <p>Meine Frau mit mir empfehlen uns sämtlichen erlauchten Herrschaften bei diesem
+                    Jahreswechsel zur ferneren Gnade und fügen den aufrichtigsten Wunsch hinzu, dass
+                    die Vorsehung Sie sowohl dieses angefangene, wie auch alle zukünftigen
+                    Lebensjahre mit dem irdischen Glück, Gesundheit und dem schönsten Los der
+                    Zufriedenheit beglücken möge.</p>
+                <p>
+               <persName key="ed_uyq_v3k_wcb">Szeska</persName> hat mir gesagt, dass nur I.
+                    Bouteille weißer und 3 Bouteillen roter Wein im Vorrat seien, um ein paar <seg type="comment">
+                  <orig>Loth</orig>
+                  <note xml:id="nz2z_mfx_y2b">Maßeinheit der
+                            Masse. In Preußen entsprach vor 1856 1 Lot(h) 14,606 g. </note>
+               </seg>
+                    Muskatblüte bittet <persName key="ed_ywf_25m_zcb">Wittke</persName>.</p>
+                <p>Ich werde doch auf allen Fall den 6. Januar gegen Abend 4 Pferde nach <placeName key="ed_h35_jqh_my">Drengfurth</placeName> von <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> schicken.</p>
+                <p>Der Kaufmann, mit dem ich sonsten gehandelt habe, heißt <persName key="ed_e4m_3vt_q2b">Turowski</persName> und wohnt auf dem Weidendamm im
+                    letzten großen Haus. Er ist ein sehr artiger feiner Mann.</p>
+				        <closer>
+					          <salute>Mit dem Wunsch einer recht glücklichen Reise unterzeichne mich mit vollem Respekt Ew.
+                        Hochgeboren ganz ergebenster Diener</salute>
+					          <signed>Berent</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

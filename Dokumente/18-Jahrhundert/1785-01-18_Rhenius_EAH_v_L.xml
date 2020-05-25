@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_rdj_d3y_3bb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Rhenius an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 18. Januar 1785</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_rdj_d3y_3bb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 382, Bl. 21-22v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_bpl_fsj_gy">Rhenius, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1785-01-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Der Brief vom 29. Januar 1785 schließt sich inhaltlich an (Bl. 27-28v).
+                    Rhenius bemühte sich, den Schmied Friedrich <persName key="ed_ynx_y2v_mbb">Lott</persName> aus <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> für
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu gewinnen, da der
+                    eigene Schmied fortziehen wollte. Dieser wolle es sich überlegen, <quote>wenn er
+                        bei dieser Gelegenheit von den Soldaten loskommen könne</quote>. Er sei
+                    bereits 22 Jahre beim Militär und der König soll <quote>die allgemeine Ordre
+                        beim Militär erteilt haben, dass jedem, der 20 Jahre gedient hat, der
+                        Abschied erteilt werden soll</quote>. Ein Bemühen Lehndorffs bei Major von
+                        <persName key="ed_jdm_zy1_tcb">Unruh</persName> wäre wenig erfolgreich,
+                    seine Entlassung würde nur durch Leutnant von <persName key="ed_e23_cz1_tcb">Bülow</persName> als Inspektor der Kavallerie zu bewirken sein. Lott sei
+                    ein geschickter Pferde- und Tierarzt, was <quote>bei hiesigen Gütern sehr
+                        nötig</quote> sei. - In Steinort sei ein geschickter Windmüller gewesen, der
+                    das Holz und die beste Stelle, ein Hügel <quote>gegen <placeName key="ed_xpm_112_gy">Labab</placeName>, nebenan der großen See, nahe an
+                        der Erdzunge</quote>, ausgesucht habe. 250 bis 300 Rtlr. seien für den Bau
+                    nötig. Bereits am 15. Februar wurde der Vertrag mit dem Müller geschlossen, bis
+                    August sollte die Mühle fertig sein, vgl. den Brief vom 11./15. Februar 1785
+                    (Bl. 34-35v). Herin geht es um ein weiteres Bauvorhaben, der Ausbau der
+                        <quote>Krüll-Kammer</quote> zu einer Eckstube. Dabei war zu klären, ob beim
+                    Austausch der Fenster an der Frontseite des Hauses ein Fenster wegen der Kälte
+                    zugemauert werden können. Kalk hatte Rhenius für den Bau nicht günstig bekommen
+                    können, da zeitgleich in <placeName key="ed_z4n_nz1_tcb">Nikolaiken</placeName>
+                    ein <orgName key="ed_jmq_pz1_tcb">Königliches Magazin</orgName> erbaut wurde. -
+                    Nach dem Brief vom 29. April 1785 (Bl. 62-63v) gab es noch Ende April
+                    Nachtfröste und die Tagestemperaturen stiegen nur wenig über den Gefrierpunkt:
+                        <quote>Gottlob! dass Vorwerke und Bauern noch Futter haben.</quote> Das Vieh
+                    wurde nur auf die Weide geschickt, <quote>um sich zu bewegen</quote>. Jedoch
+                    machte die Pferdezucht große Fortschritte. Als Vorreiter war der Sohn des
+                    Schulmeisters aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName> genommen
+                    worden. Auch die <quote>Litauischen Kühe</quote> gaben täglich <quote>8 Topf
+                        Milch</quote>. Der Bau der Windmühle war nun auch begonnen, die Gesellen
+                        <quote>stille und ordentlich Leute, der Baumeister ebenfalls; sie besuchen
+                        auch den hiesigen Gottesdienst. Der Baumeister ist reformierter Religion und
+                        ist willens, da künftigen Sonntag Herr Prediger <persName key="ed_o4g_zz1_tcb">Behr</persName> die heilige Kommunionsfeier hier
+                        halten wird, auch teil daran zu nehmen.</quote> Die Wassermühle war
+                    repariert, so dass man sie noch ein Jahr betreiben konnte. Für den Vorschlag des
+                    Grafen, ihn zur Kur nach <placeName key="ed_ovy_w1b_tcb">Pyrmont</placeName> zu
+                    schicken, war Rhenius dankbar, habe aber mit dem Arzt gesprochen, dass es nicht
+                    notwendig sei. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 18. Januar 1785</dateline>
+					          <salute>Hochwürdiger und Hochgeborener Reichsgraf! <lb/>Gnädigster Graf und Herr!</salute>
+                </opener>
+				        <p>Heute nachmittag bin Gottlob! glücklich von <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zurückgekommen, aber wohl 2 bis 3 Tage später als
+                    ich es wünschte und vermutete. Ich war in Königsberg wegen meiner Gesundheit
+                    übel dran. Kaum hatte ich das Getreide dem Kaufmann überliefert, so musste
+                    medizinieren und konnte nicht ausgehen. Sobald ich mich nur wagen konnte, trat
+                    ich die Rückreise an, und befinde mich jetzt wieder besser, habe auch (dem
+                    gütigen Gott sei dafür Dank) hier alles gut gefunden. Für den Weizen habe pro
+                    Scheffel 4 Rtlr. 21 Gr., Roggen 2 Rtlr. 12 Gr., weiße Erbsen 2 Rtlr. 18 Gr. und
+                    grüne 2 Rtlr. erhalten. Weil noch zu wenig Schnee, so sind unsere Leute fast
+                    alle mit Wagen in der Stadt gewesen. Ich konnte den Getreideverkauf aber nicht
+                    länger verschieben, weil ich befürchtete, dass die Preise noch mehr fallen
+                    würden. <seg type="comment">
+                  <orig>Überhaupt habe für alle Getreide 886 Rtlr. und
+                            für 80 Scheffel a 15 Gr. 13 Rtlr. 30 Gr. eingenommen</orig>
+                  <note xml:id="nzhz_n5y_3bb">Damit war Lehndorff nicht zufrieden, vgl. Rhenius
+                            Brief vom 14. Februar 1785, ebd., Bl. 34-35v. Es müsse ein Irrtum
+                            vorliegen, wenn Lehndorff vom Grafen von <persName key="ed_shm_g3w_mbb">Dönhoff</persName> erfahren habe, dass höhere Preise zu erzielen
+                            gewesen seien. Früher hätte er keine Fuhren nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> schicken können,
+                                <quote>um unsere noch schwachen Bauern</quote> nicht zu überfordern,
+                            und um künftig <quote>zu dem Wohlstand der Dönhoffstädtschen
+                                Bauern</quote> zu gelangen. Er habe Korn aus <placeName key="ed_f5m_fxv_mbb">Polen</placeName>, das auf Schlitten nicht
+                            weiter fortgeschafft werden konnte, günstig angekauft und hoffe, es mit
+                            Gewinn weiterverkaufen zu können. </note>
+               </seg> und sogleich 900 Rtlr.
+                    in die Königliche Banque gelegt. </p>
+            <p>In <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> habe ohngeachtet meiner Unpässlichkeit
+                    doch einen Besuch gemacht, aber keinen zum Ausheben tüchtigen Knaben gefunden.
+                    Der Sohn des <persName key="ed_ppc_hgv_mbb">Husars Puschke</persName> und <seg type="comment">
+                  <orig>der junge <persName key="ed_pkh_3gv_mbb">Poltzin</persName>
+                        </orig>
+                  <note xml:id="nmmx_4f5_5bb"> Verschiedene Mitglieder der Familien
+                            Puschke und Poltzien lassen sich sowohl in Steinort als auch in Landkeim
+                            (Kreis Fischhausen) nachweisen, vgl.
+                            http://www.datenbank-nord-masuren.besaweb.de/. Möglicherweise war der
+                            erwähnte junge Puschke, der Enkel von Christoph Puschke (geb. um 1700).
+                            Dieser hatte einen Sohn, den ca. 1735 geborenen Husaren Puschke, dessen
+                            Sohn war 1785 noch ein Schuljunge.  Ein aus Steinort gebürtige Christoph
+                            Poltzien ging 1749 mit der Tochter von Christoph Puschke aus Landkeim,
+                            Maria Puschke, die Ehe ein. Er war möglicherweise der Sohn des im ersten
+                            Drittel des 18. Jahrhunderts als Pächter für Labab erwähnten Christoph
+                            (Johann) Poltzien (geb. ca. 1675?) (LASA, StA L, Bestand 21950 FA
+                            Lehndorff, Nr. 340), der als „Arrendator Christoph Poltzin aus Labab‟ in
+                            den Kirchenbüchern als Pate mehrfach erwähnt wird. Für die Hinweise aus
+                            der Datenbank Nord-Masuren danke ich Torsten Woitkowitz.</note>
+                    </seg>scheinen gute Kinder zu sein. Sie gehen aber noch beim Herrn Pfarrer zum
+                    Unterricht. </p>
+            <p>Um hier in <placeName key="ed_uvt_4j4_dz">Preußen</placeName>, wenn auch nur vor der Hand, einen
+                    Gärtenierer ausfindig zu machen, habe mir alle ersinnliche Mühe gegeben, auch
+                    den ehrlichen <persName key="ed_xp2_wcv_mbb">Bonais</persName> in <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> und die ansehnlichsten Gärtenierer
+                    in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gebeten, bei
+                    Gelegenheit einen guten geschickten Mann für den hiesigen Garten zu
+                    rekommendieren. Herr <persName key="ed_ejx_t2c_tcb">Bötticher</persName> gab mir
+                    auch von einem Gärtenierer, der Lust hätte, aufs Land zu ziehen, Nachricht; ich
+                    habe ihn gesprochen und er war nicht abgeneigt, hat aber nicht gereiset, sondern
+                    hier im Lande die Gärtenerei erlernt; ist verheiratet, heißt <persName key="ed_hht_5gv_mbb">Rehan</persName> und wohnt im Garten Herrn Doktor
+                        <persName key="ed_hyg_xgv_mbb">Thiesen</persName>, hat außer diesem noch
+                    einige Gärten in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> unter
+                    seiner Aufsicht. Auf 3 Jahre ist er willens einen Kontrakt zu machen. Bei der
+                    Rückreise habe mit <persName key="ed_xp2_wcv_mbb">Bonack</persName> wegen diesem
+                    Mann gesprochen. Er kennt ihn zwar gar nicht, weil er aber nur hier im Lande die
+                    Gärtenerei erlernt, hat er wenig Zutrauen zu ihm und ist anrätig, bis sich ein
+                    besseres Subjekt findet, den alten <persName key="ed_c4x_rcv_mbb">Assmann</persName> allein beizubehalten und mit Hilfe zu unterstützen. Zur
+                    Nachricht habe mich auch erkundigt, wie hoch <persName key="ed_xp2_wcv_mbb">Bonack</persName> sich in Lohn und Brot stehet. Er bekommt folgendes: 60
+                    Rtlr. bar, 18 Schfl. Korn, 5 Schfl. Haber, 4 Schfl. Gerste, 4 Schfl. Erbsen, 6
+                    Tonnen Bier, ein fett Schwein und Futter auf ein paar Kühe. Sollten Ew.
+                    Hochgeboren etwa auf den vorgeschlagenen <persName key="ed_hht_5gv_mbb">Rehan</persName> zu reflektieren geruhen, so müsste der aber auch mit
+                    weniger zufrieden sein, durch Herrn <persName key="ed_ejx_t2c_tcb">Bötticher</persName> würden Hochdieselben ohnmaßgeblich alsdann diese Sache
+                    am bequemsten betreiben können. </p>
+            <p>Wegen der
+                    Windmühle habe den Oberbaudirektor <persName key="ed_mjh_3hv_mbb">Dietrich</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gesprochen. Er wird einen Anschlag hierher
+                    überschicken und künftige Woche erwarte einen Sachverständigen, das Holz
+                    auszusuchen und vorzüglich den besten Platz, wo die Windmühle aufgesetzet werden
+                    kann, auszumitteln; eine Schneidemühle ist fast gar nicht oder doch mit
+                    ungeheuren Kosten anzubringen. </p>
+            <p>Ein künftiger Rektor ist noch nicht
+                    auszumitteln. Ich habe deshalb jetzt auch mit dem Bruder Herrn <persName key="ed_sph_phv_mbb">Probsts</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gesprochen. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Der Töpfer <persName key="ed_ufg_chd_p2b">Sensfuß</persName> in
+                                <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> kann jetzt
+                            wieder arbeiten.</orig>
+                  <note xml:id="nxcg_3jm_ngb">Zu Töpfermeister
+                            Jakob Sensfuß: Braumüller, Bernhard, Angerburg von A-Z. Ein
+                            Nachschlagewerk über den Kreis Angerburg, 4. Aufl., Rotenburg (Wümme)
+                            2008, S. 690.</note>
+               </seg>
+                </p>
+            <p>Herrn Hofrat <persName key="ed_n3g_5hv_mbb">Däne</persName> habe in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> angetroffen und wegen Überlassung
+                    von Klee-Samen gebeten. Er hat aber selbst keinen, wobei, wie in <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>, nichts erbauet. Dass hier keiner
+                    ist, habe in vorigen Briefen die deutlichsten Ursachen untertänig angezeiget.
+                    Ein Hauptgrund ist, dass der anno 1783 mitgebrachte Kleewer zu spät hier ankam.
+                    und also erst anno 1784 gesät werden konnte, da nun im ersten Jahr kein Samen
+                    vom Klee gezogen werden kann, so ist solcher erst künftiges Jahr zu verhoffen,
+                    und da können, wenn Gott günstige Witterung schenkt, auch einige 100 Scheffel
+                    erbauet werden. Wird aber künftiges Jahr nichts gesät, so ist über 2 Jahre
+                    wieder keine Saat. </p>
+            <p>Das Dienstmädchen <persName key="ed_dsq_b3v_mbb">Schönfeldtin</persName> hat die <seg type="comment">
+                  <orig>Pocken.</orig>
+                  <note xml:id="ntf3_kcb_tcb">Über den
+                            Ausbruch der Pocken hatte Rhenius in früheren Briefen bereits
+                            geschrieben, demnach hatten sie also auch die Steinortschen Gütern
+                            erreicht </note>
+               </seg>. </p>
+            <p>Die nächste Schüttung im Speicher ist fertig, auch bereits benutzt. Das Gebäude wird von
+                    jedermann gelobt, es gibt diesem Dorfe viel Ansehen. <seg type="comment">
+                  <orig>Es fehlt darauf nur noch ein kleiner Turm mit einer Uhr, dann
+                            wäre es ganz vortrefflich. Der gute würdige Kaufmann <persName key="ed_x4z_g3v_mbb">Hay</persName> hat die aus <placeName key="ed_jxm_5vf_4y">England</placeName> verschriebene Uhr noch nicht
+                            loswerden können. Wie sehr ich diesen lieben Mann deshalb bedaure, dass
+                            weiß Gott! am besten.</orig>
+                  <note xml:id="nkw5_gff_jbb">Auf diese Uhr
+                            zielte Rhenius Interesse. Er hatte am 15. September 1781 einen Brief von
+                            Hay erhalten, in dem dieser den Wert mit 600 Rtlr. angibt, da es sich um
+                            keine Kaufmannsware, sondern um eine besondere Uhrmacherarbeit handle,
+                            vgl. LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 382, Bl. 67v.
+                        </note>
+               </seg> Johann Heinrich <persName key="ed_isn_43v_mbb">Schultz</persName>, 21 Jahre alt 7 Zoll hoch, aus <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> gebürtig, wo sein Vater,
+                    Ratsverwandter und Mältzerbräuer, eigene Gründe besessen, welche nun nach dessen
+                    Ableben die Mutter besitzt, hat noch eine <unclear reason="illegible" cert="high">jüngere</unclear> Schwester und einen Bruder von 15 Jahren. </p>
+            <p>den 19. Januar </p>
+            <p>
+               <seg type="comment">
+                  <orig>Herr <persName key="ed_isn_43v_mbb">Schultz</persName> ist hier zwar
+                            sehr brauchbar und nützlich und hat den edelsten Charakter, in
+                                <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> aber kann Ew.
+                            Hochgeboren ihn gar nicht brauchen, wenigstens wage ich es nicht, dazu
+                            anrätig zu sein.</orig>
+                  <note xml:id="nbdz_2df_jbb">Schultz war Schreiber
+                            in Steinort, sein jüngerer Bruder hatte sich sogar <quote>dem Studieren
+                                widmen</quote> wollen. <quote>Weil jetzt gut gezogene junge Leute so
+                                selten sind</quote>, hatte auch Kriegsrat <persName key="ed_dlv_cjv_mbb">Farenheid</persName> Interesse, <quote>diesen
+                                Burschen gern zur Erlernung der Wirtschaft zu sich (zu)
+                                nehmen</quote>. Auch für die <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Güter könne man ihn gut gebrauchen.
+                                <quote>Die Bewirtschaftung von <placeName key="ed_xpm_112_gy">Labab</placeName>, <placeName key="ed_xzt_112_gy">Stawisken</placeName> und <placeName key="ed_h4n_pjv_mbb">Louisenstädt</placeName> wird in Zukunft auch mehr zu tun geben
+                                als <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                                allein.</quote> Es gäbe genug zu tun, <quote>damit er sein Essen und
+                                Trinken reichlich verdienen möchte, denn nur dieses ist in seinen
+                                drei Lehrjahren die einzige Depence, er erhält auch keinen Groschen
+                                Lohn und muss sich selbst mit Kleidung versorgen.</quote> Vgl. StA
+                            L, Bestand 21950 FA Lehndorff, Nr. 382, Bl. 66v-67.</note>
+               </seg> Die
+                    Hauptursache ist vorzüglich, dass die dortige Landwirtschaft von der hiesigen so
+                    verschieden, als wenn ich nach <placeName key="ed_c3z_rjv_mbb">Mecklenburg</placeName> versetzt würde, wo ich mich noch eher, da ich etwas
+                    darüber gelesen, finden würde. Es ist aber Herr <persName key="ed_e3b_bdb_tcb">Lackley</persName> von Ihro Durchlaucht dem Herzog gänzlich frei, und hat
+                    ihm derselbe auch gute Rekommendationes gegeben. Er war eben in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. Durch <persName key="ed_bcm_rgv_mbb">Bötticher</persName> ließ ich ihn befragen, ob er die
+                        <placeName key="ed_enz_4vz_g1b">Landkeimsche</placeName> Administration
+                    anzunehmen willens, und er ist dazu nicht abgeneigt. Durch Herrn <persName key="ed_bcm_rgv_mbb">Bötticher</persName> würden Ew. Hochgeboren darüber
+                    alles nötige abmachen können. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Von der Viehseuche wird es Gottlob! immer stiller.</orig>
+                  <note xml:id="nk1v_2cf_jbb">Hier irrte Rhenius. In seinem Brief vom 12. März
+                            1785 schrieb er, sie sei so stark, dass im <placeName key="ed_zgq_zjv_mbb">Ermland</placeName> sogar ein Cordon von
+                            Husaren daselbst kommandiert ist. Herr v. <persName key="ed_zlj_ckv_mbb">Kurowsky</persName> auf <placeName key="ed_xbw_2kv_mbb">Malditten</placeName> hat dadurch all sein Vieh, auch sogar die
+                            Mastochsen verloren, Das Amt <placeName key="ed_wfl_hkv_mbb">Bischburg</placeName> und viele andere Höfe haben ein gleiches
+                            trauriges Schicksal, vgl. ebd., Nr. 382, Bl. 66.</note>
+               </seg> Menschen
+                    aber kranken sowohl hier als in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. </p>
+            <p>Übrigens ist Gottlob! alles wohl und empfiehlt sich zu Gnaden. Besonders freut sich der alte gute
+                        <persName key="ed_zjl_nws_vkb">Hoffmann</persName> über das gnädige
+                    Andenken. In der Heide wird Brauchholz verkauft. Die Fischerei ist
+                    mittelmäßig.</p>
+				        <closer>
+					          <salute>Ich ersterbe mit tiefstem Respekt <lb/>Ew. Hochgeboren ganz untertänigster
+                        Diener</salute>
+					          <signed>Rhenius</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

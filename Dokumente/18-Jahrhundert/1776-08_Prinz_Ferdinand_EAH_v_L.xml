@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_bbb_yvl_cz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von Lehndorff.
+                    Berlin, nach dem 17. August 1776</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_bbb_yvl_cz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750–1804), in: Masovia 11 (1906), S. 118-154, hier S. 148 f.
+                        </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date notBefore="1776-08-17" notAfter="1776-08-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <profileDesc>
+            <correspDesc>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>. - Lehndorff hatte den
+                    Prinzen Heinrich nach St. Petersburg begleiten sollen, erkrankte aber. Am 21.
+                    Juni wurde in Königsberg seine Tochter geboren. - Prinz Heinrich kündigte seine
+                    Ankunft in Begleitung des Großfürsten für den 10. Juli an, vgl. Tagebücher
+                    1775-1806, S. 7 f. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, August 1776</dateline>
+                </opener>
+                <p>Der Brief des <persName key="ed_e2y_3yl_cz">Großfürsten von Russland</persName>,
+                    den Sie die Güte hatten mir zu senden, hat mir eine große Genugtuung bereitet
+                    durch die Ausdrücke der Dankbarkeit, die er enthält, betreffs der Bemühungen,
+                    die ein jeder um die Wette sich gegeben hat, um zu den Annehmlichkeiten <seg type="comment">
+                        <orig>seines Aufenthaltes bei uns</orig>
+                        <note xml:id="newh_nzl_cz">Der Großfürst besuchte den Berliner Hof in
+                            Begleitung des Prinzen Heinrich auf dessen Rückreise im Sommer 1776. Am
+                            21. Juli fand der Einzug in Berlin statt. Paul war zu diesem Zeitpunkt
+                            noch nicht 22 Jahre alt. </note>
+                    </seg> beizutragen. Man muss zugeben, dass man keinen höflicheren,
+                    liebenswürdigeren oder, für sein Alter, unterrichteteren Mann finden könnte, als
+                    den Großfürsten; seine Erziehung macht den eifrigen Bemühungen Ehre, die seine
+                    Mutter, die <persName key="ed_ez1_1zl_cz">Kaiserin</persName>, sich darum
+                    gemacht hat, und gibt mir die höchste Meinung von den Talenten und der
+                    Geschicklichkeit, welche die damit beauftragten Personen besitzen müssen. Der
+                    Großfürst hat alle Herzen gewonnen. <gap reason="insignificant"/>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName> war nie so glänzend, als
+                    während seines Aufenthaltes, 60 hochangesehen Leute befanden sich hier, die sich
+                    aus verschiedenen Ländern herbegeben hatten; eine sehr große Zahl von
+                    Kaufleuten, Gelehrten und Künstlern und unter den letzteren <seg type="comment">
+                        <orig>der berühmte <persName key="ed_ovr_nyl_cz">Pygal</persName>, Ritter
+                            vom St. Michaels-Orden, der von <placeName key="ed_yf5_3zl_cz">Straßburg</placeName> herbeieilte, wo er damit beschäftigt war, das
+                            Mausoleum für den verstorbenen Marschall von <persName key="ed_jp5_pyl_cz">Sachsen</persName> errichten zu lassen.</orig>
+                        <note xml:id="njdp_5zl_cz">Gemeint ist Pigalle, ein berühmter Bildhauer, der
+                            dem am 30. November 1750 in Chambord gestorbenen Marschall Moritz von
+                            Sachsen in der St. Thomaskirche in Straßburg ein Denkmal
+                            errichtete.</note>
+                    </seg> Die Feste, welche mein <persName key="ed_nvx_wcz_bz">Bruder</persName>
+                    dem Großfürsten gab, waren schön, geschmackvoll; es herrschte dabei die größte
+                    Ordnung. <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName> war zum
+                    Überlaufen voll; ohne die zu rechnen, welche von meinem Bruder zur Tafel gezogen
+                    waren, waren mehr als 90 Personen von Stande und alles zusammen 4.000 Personen
+                    anwesend, welche die Neugier, den Großfürsten zu sehen, herbeigezogen hatte.
+                        <gap reason="insignificant"/>
+                </p>
+            <p>
+               <seg type="comment">
+                  <orig>Man meldet mir soeben den Tod des Grafen <persName key="ed_eyb_g1m_cz">Schmettau</persName>, Ihres Schwiegervaters</orig>
+                  <note xml:id="ngjp_3ps_gbb">Er war am 17. August 1776 verstorben.
+                        </note>
+               </seg>; da es der Vorsehung gefallen hat, über ihn zu bestimmen,
+                    schmeichle ich mir, dass dies zur Vermehrung Ihrer Geschäfte beitragen und mir
+                    die Befriedigung verschaffen wird, Sie in Zukunft während einiger Monate des
+                    Jahres in <placeName key="ed_xrv_gwb_by">Berlin</placeName> zu sehen. Allem
+                    Anschein nach werden Sie meinen <persName key="ed_e4g_tyl_cz">Schwager</persName> und die <persName key="ed_yjw_5yl_cz">Prinzessin</persName> nach <placeName key="ed_oxb_txl_5y">Memel</placeName>
+                    geleiten, was Ihnen erleichtern wird, den Hofstaat zu sehen, welchen die
+                        <persName key="ed_ez1_1zl_cz">Kaiserin</persName> dorthin schickt, um meine
+                    Nichte zu empfangen; ich bin sehr gespannt auf das Urteil, das Sie hierüber
+                    fällen. Die <persName key="ed_bwq_lzl_2y">Königin</persName> ist krank seit der
+                    Abreise des Großfürsten. <persName key="ed_tr2_q1m_cz">Cothenius</persName>
+                    fürchtet, dass Sie eine Leberverstopfung hat, und dass das häufige Erbrechen ein
+                    Anzeichen von Brustwassersucht ist; <seg type="comment">
+                        <orig>er zweifelt an ihrer Wiederherstellung. </orig>
+                        <note xml:id="njsq_t1m_cz">Die Befürchtung erfüllte sich nicht, sie starb
+                            erst am 13. Januar 1797.</note>
+                    </seg>Sie können sich wohl die Unruhe vorstellen, in welche ihr Zustand diesen
+                    ganzen <rs type="term" key="ed_wzd_r34_dz">Hof</rs> versetzt, der sehr unsicher
+                    ist über das ihm bevorstehende Schicksal, für den Fall, dass die Königin sterben
+                    sollte. <gap reason="insignificant"/>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

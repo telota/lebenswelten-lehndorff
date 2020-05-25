@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_o3c_lkz_xz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verzeichnis der Lehnsvettern der Grafen von Lehndorff. Ca. 1723</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_o3c_lkz_xz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+                <note type="editorial">
+                    <p>Die Datierung nach: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort,
+                        Nr. 126: Nachrichten der Linie Statzen. Hier wird eine Protestation der
+                        Steinortschen Lehnsvettern von 1723 gegen die Verpfändung des Lehngutes
+                            <placeName key="ed_gcr_vcg_hy">Statzen</placeName> erwähnt, die
+                            <persName key="ed_k4z_jgl_2y">Carl Friedrich Ludwig von
+                            Lehndorff</persName> am 16. Januar 1724 vorgelegt worden war. Damals
+                        waren die Rechte der Steinortschen Linie anscheinend als unbegründet
+                        zurückgewiesen worden. Nach der <quote>Consignation der im eysernen Kasten
+                            befindlichen Schriften, die Anno 1793 den 2. July revidieret</quote>,
+                        gab es ein Aktenpaket: Unterlagen den <quote>Lehnsprozess wegen
+                            Statzen</quote> betreffend, das Verzeichnis in: GStA PK, XX. HA, Rep. 54
+                        Gutsarchiv Lehndorff-Steinort (unverzeichnet). Diese Unterlagen sind die
+                        heutigen Aktennummern 126 und 127: Prozess des Grafen Ahasverus Heinrich von
+                        Lehndorff auf Steinort gegen den Grafen Gerhard Leopold Melchior von
+                        Lehndorff auf Maxkeim wegen Lehnsfolge und Agnatenrechten des Gutes Statzen.
+                        Siehe auch den Nachlass Ernst Ahasverus von Lehndorffs ebd., Nr. 6 sowie zu
+                        den Lehnsverhältnissen der Steinortschen Güter (Auszug aus der Lehnstabelle,
+                        spätere Lehnsansprüche von <persName key="ed_utb_sz1_t2b">August Adolf
+                            Leopold von Lehndorff </persName> gegen <persName key="ed_k4z_jgl_2y">Carl Friedrich Ludwig Graf von Lehndorff</persName> Nr. 632 und 774.
+                        Mit dem Tod des kinderlosen August Adolf Leopold im Jahr 1820 endete die
+                        Linie Lehndorff-Statzen. Vgl. Sommerfeldt, Gustav, Geschichte des
+                        Statzen-Maxkeimer Geschlechtes der Grafen von Lehndorff, in:
+                        Vierteljahrsschrift für Wappen-, Siegel- und Familienkunde 28 (1900), S.
+                        232–278. </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, EM, Tit. 103 d, Nr. 1084, Bl. 2</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1723-12-01" to="1724-01-16" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Spezifikation derer annoch lebenden Herren Vettern von Lehndorff, dahero das Gut
+                        <placeName key="ed_gcr_vcg_hy">Statzen</placeName> nicht auf der <seg type="comment">
+                  <orig>Apertur</orig>
+                  <note xml:id="nd4s_m1b_t2b">Auflösung</note>
+               </seg> zu rechnen: </p>
+                <list>
+                    <item>1. <seg type="comment">
+                     <orig>Graf Gerhardus Ernestus von <persName key="ed_swz_dbp_mbb">Lehndorff</persName>, General Major und
+                                Amtshauptmann in <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>
+                                aus dem Hause Steinort</orig>
+                     <note xml:id="nppv_mlb_vbb"> Seit dem
+                                16. Jahrhundert stellten die Lehndorff Amtshauptmänner zu Lötzen.
+                                Historisches Staatsarchiv Königsberg, Verzeichnis sämtlicher
+                                Deposita, Rep. 150: Angerburg Stadt, Lötzen Stadt, Rastenburg, Bl.
+                                97-98 (GStA PK, XX. HA, Altfindbuch 456/2). </note>
+                  </seg>
+               </item>
+                    <item>
+                        <list rendition="#rightBraced">
+                            <item>2. Graf <persName key="ed_epj_dcz_g1b">Friedrich
+                                    Wilhelm</persName>
+                     </item>
+                            <item>3. Graf <persName key="ed_kyf_fpy_bz">Gerhardus
+                                    Ernestus</persName>
+                     </item>
+                            <item>4. Graf <persName key="ed_csb_mdf_cy">Ahasverus
+                                    Heinricus</persName>
+                     </item>
+                        </list> Gebrüdere von Lehndorff <seg type="comment">
+                     <orig>aus dem Hause
+                                Steinort</orig>
+                     <note xml:id="nrzt_zjt_ldb">Deren Vater, <persName key="ed_wtg_nyl_2y">Ernst Ahasver von Lehndorff</persName>, war
+                                1727 verstorben, vgl. Schwennicke, Detlev, Europäische Stammtafeln
+                                N. F., Bd. XX: Brandenburg und Preußen 1, Frankfurt am Main 2002,
+                                Tafel 150 und 151.</note>
+                  </seg>
+                    </item>
+                    <item>
+                        <list rendition="#rightBraced">
+                            <item>5. <persName key="ed_njd_13t_ldb">Heinrich Friedrich</persName>
+                                von Lehndorff, ist Kapitän in Holländischen Diensten </item>
+                            <item>6. <persName key="ed_yp1_f3t_ldb">Friedrich Wilhelm</persName> von
+                                Lehndorff, ist gleich als Kapitän daselbst <lb/>
+                     </item>
+                        </list> diese sind Brüder <seg type="comment">
+                     <orig>aus dem Hause
+                                Maulen</orig>
+                     <note xml:id="ngmj_4nl_bfb">Aus der Linie zu
+                                Elkinehlen, vgl. Schwennicke, Europäische Stammtafeln N. F., Bd. XX,
+                                Tafel 152 A.</note>
+                  </seg>
+                        <lb/>
+               </item>
+                    <item>7. <persName key="ed_upt_43t_ldb">Friedrich Ludwig</persName> von
+                        Lehndorff, des letzteren Kapitän Sohn, ist in Holland</item>
+                    <item>8. <persName key="ed_n4w_tht_ldb">Melchior Andreas</persName> von
+                        Lehndorff, Kapitän, wohnt in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, aus dem Hause Maulen</item>
+                    <item>9. <persName key="ed_scx_vxb_hkb">Johannes von Lehndorff</persName>, <seg type="comment">
+                     <orig>aus dem Hause Statzen</orig>
+                     <note xml:id="nq3x_hjt_ldb">Fehlt in Schwennicke, Europäische Stammtafeln
+                                N. F., Bd. XX, Tafel 149: Die Lehndorff zu Statzen.</note>
+                  </seg>,
+                        ist Starost in <seg type="comment">
+                     <orig>
+                        <placeName key="ed_q54_5pw_22b">Mscislaw</placeName>
+                     </orig>
+                     <note xml:id="nory_zs4_mbb">Hauptstadt gleichnamiger Wojewodschaft in Weißrussland</note>
+                  </seg>
+                        und Litauen</item>
+                    <item>10. <persName key="ed_evv_zxb_hkb">Ahasverus Franciscus von
+                            Lehndorff</persName>, aus dem <seg type="comment">
+                     <orig>Hause
+                                Labab</orig>
+                     <note xml:id="nxtd_4kt_ldb">Fehlt in Schwennicke,
+                                Europäische Stammtafeln N. F., Bd. XX. 1679 war <placeName key="ed_xpm_112_gy">Labab</placeName> an <persName key="ed_zyw_ncf_2y">Gerhard Ahasverus von Lehndorff</persName>
+                                verkauft worden, in den Folgejahren wurde es durch einen
+                                    <quote>Hofmann</quote> bewirtschaftet, vgl. GStA PK, XX. HA,
+                                Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 611 (Kaufvertrag) und Nr.
+                                308 (Hofmann Christoph <persName key="ed_jxf_qym_s2b">Poltzien</persName>, 1715).</note>
+                  </seg>, ist <seg type="comment">
+                     <orig>Kapitän in Königlichen Diensten</orig>
+                     <note xml:id="nd4l_dch_jfb">Nicht genauer angegeben. Möglicherweise im
+                                Württembergischen; für 1782 ist hier ein Lehndorff im Dienst des
+                                Hofes nachweisbar, vgl. LA Baden-Württemberg, Hauptstaatsarchiv
+                                Stuttgart, A 21 Bü 678 und A 21 Bü 282. </note>
+                  </seg>
+               </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

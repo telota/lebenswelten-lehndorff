@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_xcp_1d1_hy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernst Ahasverus Heinrich Graf von Lehndorff an Hoffiskal Kirschkopff.
+                    Steinort, 23. April 1794</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_xcp_1d1_hy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt  </p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 385, Bl. 45-46</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1794-04-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                <persName key="ed_m1z_pcv_1bb">Kirschkopff, (-)</persName>
+                </correspAction>
+                <note>Der Brief ist im oberen Teil beschädigt. Er war an den Hoffiskal Kirschkopff
+                    gerichtet, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 303,
+                    dessen Brief vom <ref target="lehndorff_xqy_dzg_v2b">8. November 1794</ref>. -
+                    Anfang 1794 hatte August Adolph Leopold von <persName key="ed_utb_sz1_t2b">Lehndorff</persName>, der bis 1792 von Preußen abwesend war, in <placeName key="ed_gcr_vcg_hy">Statzen</placeName> seinen Wohnsitz genommen, vgl.
+                    Sommerfeldt, Gustav, Aus der älteren Vergangenheit des Geschlechts der Grafen
+                    von Lehndorff: Das Haus Statzen-Maxkeim, in: Oletzkower Zeitung, Nr. 19, 25, 95,
+                    123, 129, 22. und 29. Januar, 23. April, 28. Mai, 4. Juni 1899 und Ders., Das
+                    Statzen-Maxkeimer Geschlecht des Grafen von Lehndorff, in: Vierteljahreschrift
+                    für Wappen-, Siegel- und Familienkunde 29 (1901), Heft 3. - Zu den
+                    Lehnsstreitigkeiten auch: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                    Lehndorff-Steinort, Nr. 26 und 127: Prozess des Grafen Ahasverus Heinrich von
+                    Lehndorff auf Steinort gegen den Grafen Leopold Gerhard Melchior von Lehndorff
+                    auf Maxkeim wegen Lehnsfolge und Agnatenrechten des Gutes Statzken (1560-1799)
+                    sowie Nr. 632: Lehnsverhältnisse der Steinortschen Güter 1806/07; Auszug aus der
+                    Lehnstabelle 1717; Lehnsansprüche von August Adolph Leopold von Lehndorff auf
+                    Maxkeim (1771-1820), sowie LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 234.
+                    Siehe auch: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 100
+                    Aufzeichnungen, Korrespondenz, Dokumente (Abschriften) zur Familiengeschichte,
+                    u. a. die Linie Statzen betreffend (‟blaue Mappe‟, wohl im 18. Jahrhundert
+                    zusammengetragen). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, 23. April 1794</dateline>
+                    <salute>Hochgeborener Herr. <lb/>Hochzuehrender Herr Regierungs-Rat!</salute>
+                </opener>
+                <p>Nun ist die Sache wegen <placeName key="ed_gcr_vcg_hy">Statzen</placeName> ganz
+                    ernst geworden. <seg type="comment">
+                  <orig>Ich lege die Liste hierbei von denen
+                            Schriften, so ich Ihnen, bester Freund, überschicke.</orig>
+                  <note xml:id="ne4v_4jl_w2b">Liegt wie auch die im Folgenden erwähnten Anlagen
+                            dem Brief nicht bei.</note>
+               </seg>
+                    <note type="editorial">Er bitte um Bestätigung des Empfangs und um Übersendung
+                        der notwendigen Vollmachten, die er </note> sogleich unterschrieben und
+                    untersiegelt zurückschicken werde. Und bitte vorzüglich dafür zu sorgen, dass
+                    der Termin den 21. Mai, wie Nr. 1 sagt, gewiss in <placeName key="ed_rdg_jkc_gy">Insterburg</placeName> gehalten werde. Hierbei erfolgt auch ein Schreiben
+                    an Herrn Justiz-Kommissarius <persName key="ed_qvw_nz4_tcb">Friccius</persName>,
+                    dem ich mein ganzes Vertrauen gebe. Sie, würdigster Freund, werden mich raten.
+                    Ich bin nicht oppiniater. Finden Sie beide, dass ich keine Rechte habe, so werde
+                    ich es mir begeben. Allein es wird nur hier zu verstehen sein, bester Freund,
+                    wenn Sie mich doch fleißig über diese Sache in Nachricht erhalten. Ich schicke
+                    Ihnen meinen Brief von dem <persName key="ed_utb_sz1_t2b">Graf Lehndorff auf
+                        Maxkeim,</persName> welchen mir Kriminalrat <persName key="ed_vmr_1wg_ldb">Flottwell</persName> kommuniziert, ich bitte mir auch hierüber Ihre Meinung
+                    zu sagen. Halten Sie es für gut, so komme ich zu Ende Mai nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. <seg type="comment">
+                  <orig>Beikommenden Brief </orig>
+                  <note xml:id="ny5k_m1p_tcb">
+                     <note type="editorial">Darin ging es um 3.000 Rtlr. eines privaten
+                                Darlehens</note>, die ihm aufgekündigt worden
+                    waren.</note>
+               </seg>bitte an Herrn J. <persName key="ed_ohq_pgr_gbb">Stegemann</persName> sogleich abgehen zu lassen. </p>
+            <p>Ich bin seit einiger Zeit von so vielem Besuch beschäftigt gewesen, dass ich nicht habe zu mir
+                    selbst kommen können. Gestern reiste die Gräfin Charlotte <persName key="ed_t4f_qqf_hy">Dönhoff</persName> und die Frau von <persName key="ed_j1v_3ln_scb">Schmeling</persName> von hier. Dieses hat mich
+                    verhindert, Ihnen eher zu schreiben, obschon mein <unclear reason="illegible" cert="low">Plan</unclear> immer dazu fertig war! Meine <persName key="ed_gnc_c1m_2y">Frau</persName> und <persName key="ed_z12_bwf_hy">Tochter</persName> versichern Ihre ganze Verehrung an ihnen und nebst mir
+                    an Ihre liebe Gemahlin; wir werden uns jederzeit unseres lieben <seg type="comment">
+                  <orig>Patchens</orig>
+                  <note xml:id="ntrl_s1p_tcb">Verniedlichungsform für Patin</note>
+               </seg> mit Zärtlichkeit erinnern. </p>
+				        <closer>
+					          <salute>Ich bin mit der vorzüglichsten Hochachtung Euer Wohlgeboren ganz ergebenster Diener und
+                        treuer Freund</salute>
+					          <signed>Graf Lehndorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

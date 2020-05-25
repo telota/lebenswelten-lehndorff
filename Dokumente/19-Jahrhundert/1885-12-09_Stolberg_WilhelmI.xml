@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dny_bmn_v1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Otto Graf zu Stolberg an Kaiser Wilhelm I. Berlin, 9. Dezember 1885</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dny_bmn_v1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 89, Nr. 1682, Bl. 109</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_g15_r1m_gbb">Stolberg-Wernigerod, Otto Freiherr zu
+                        (-)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1885-12-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_lwx_y32_cy">Preußen, Wilhelm I. König von, deutscher Kaiser
+                        (1797-1888)</persName>
+                </correspAction>
+                <note> Durch Patent vom 22. März 1886 verlieh <persName key="ed_lwx_y32_cy">Wilhelm
+                        I. </persName> dem Generaladjutanten <persName key="ed_nml_dw2_cy">Graf von
+                        Lehndorff</persName> die Würde des Oberburggrafen im Königreich Preußen (Bl.
+                    112). Am 18. Januar 1901 folgte ihm im Amt der Wirkliche Geheime Rat und
+                    Kammerherr <persName key="ed_gmh_w2s_d2b">August Graf von
+                        Dönhoff-Friedrichstein</persName> (Bl. 122). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 9. Dezember 1885</dateline>
+                    <salute> </salute>
+                </opener>
+                <p>Euer Kaiserliche und Königliche Majestät haben seiner Zeit Kenntnis davon zu
+                    nehmen geruht, dass durch das im Mai d. J. erfolgte Ableben des Kanzlers und
+                    Oberlandesgerichtspräsidenten Dr. von <persName key="ed_kvs_zhb_h2b">Goßler</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    und des Oberburggrafen <persName key="ed_etv_33b_h2b">Grafen von
+                        Keyserlingk</persName> auf <placeName key="ed_omp_ls5_vcb">Rautenburg</placeName> von den vier großen Hofämtern im <placeName key="ed_uvt_4j4_dz">Königreich Preußen</placeName> zwei zur Erledigung
+                    gekommen sind. Bei der Frage der anderweiten Verleihung derselben dürfte
+                    zunächst in Betreff der Kanzlerwürde das in dem <seg type="comment">
+                  <orig>Bericht meines Amtsvorgängers vom 31. August 1869</orig>
+                  <note xml:id="nffw_rms_kfb">Marginalie: Königliche Haus-Sachen IV
+                        8.</note>
+               </seg> erwähnte Herkommen in Betracht zu ziehen sein, wonach mit
+                    Rücksicht auf die früher mit derselben verbunden gewesenen juristischen Funktion
+                    die Würde entweder einem der Präsidenten der in der Provinz vorhandenen
+                    Landesjustizkollegien verliehen oder bei dem Mangel einer geeigneten
+                    Persönlichkeit gänzlich ruhen geblieben ist. Wird an diesem Herkommen, von
+                    welchem übrigens in früherer Zeit mehrfach Abweichungen vorgekommen sind,
+                    festgehalten, so würde für die Kanzlerwürde nach augenblicklicher Lage der
+                    Verhältnisse wohl nur der Oberlandesgerichtspräsident von <persName key="ed_hss_y3b_h2b">Holleben</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, welcher dieses Staatsamt seit dem 1. Oktober d. J.
+                    bekleidet, in Frage kommen können. Da derselbe indes durch seine Ernennung zum
+                    Oberlandesgerichtspräsidenten erst vor ganz kurzer Zeit eine Allerhöchste
+                    Auszeichnung erfahren, so möchte Ew. Majestät ich alleruntertänigst anheim
+                    zugeben gestatten, von anderweiter Verleihung der erledigten Kanzlerwürde zur
+                    Zeit noch abzusehen und diese Frage einer späteren Erwägung vorzubehalten. </p>
+            <p>Was sodann die Würde des Oberburggrafen betrifft, so ist bei ihr wie bei den beiden anderen
+                    großen Hofämtern die herkömmlichste Voraussetzung, dass der mit ihr zu
+                    Begnadigende einer alten grundbesitzenden und angesehenen Familie der Provinz
+                    Preußen angehört. Um aus dem Kreis der für die Würde geeigneten Personen, bei
+                    welchen die Voraussetzung zutrifft, in seiner engeren Begrenzung kennenzulernen
+                    und für die Ew. Majestät ehrfurchtsvollst zu unterbreitenden Vorschläge eine
+                    Unterlage zu gewinnen, hatte ich den Oberpräsidenten der Provinz Ostpreußen v.
+                        <persName key="ed_u2c_wxz_g2b">Schlieckmann</persName> ersucht, nach seiner
+                    näheren Kenntnis der Verhältnisse und unter Darlegung derselben mir mitzuteilen,
+                    welche Personen nach seinem Dafürhalten bei Wiederbesetzung der
+                    Oberburggrafenwürde wohl ins Auge zu fassen sein möchten. </p>
+            <p>Unter Hervorhebung des Umstandes, dass die großen Hofämter im Königreich Preußen in dem engsten
+                    Zusammenhang mit der geschichtlichen Entwicklung der Provinz stehen, und deshalb
+                    in der Berufung eines Eingesessenen der Provinz zu einem solchen Hofamte von
+                    jeher nicht nur der Begnadigte selbst, sondern gewissermaßen die ganze Provinz
+                    eine hohe Ehre erblickt habe, sowie mit Erwähnung der in maßgebenden Kreisen der
+                    Provinz bestehenden Auffassung, wonach ein besonderes Gewicht darauf gelegt
+                    werde, dass die betreffenden Würdenträger in der Provinz Preußen ihren ständigen
+                    Wohnsitz haben und in hervorragender Weise an der Förderung der Angelegenheiten
+                    und an Wahrung der eigensten Interessen der Provinz teilnehmen, hat der
+                    Oberpräsident als solche Personen, bei denen diese Voraussetzungen zutreffen,
+                    genannt: <list>
+                        <item>1. den <persName key="ed_zbn_2km_zdb">Grafen zu
+                                Eulenburg-Prassen</persName>,</item>
+                        <item>2. den Grafen von <persName key="ed_gmh_w2s_d2b">Dönhoff-Friedrichstein</persName>,</item>
+                        <item>3. den Grafen von <persName key="ed_z3m_3bz_vkb">Kanitz-Podangen</persName>, und aus nichtgräflichen Familien</item>
+                        <item>4. den Freiherrn <persName key="ed_jhn_y3q_f2b">Mirbach-Sorquitten</persName> und</item>
+                        <item>5. den Freiherrn von <persName key="ed_udb_tmg_ccb">Tettau-Tolks</persName>.</item>
+                    </list>
+                </p>
+            <p>In Betreff der zu 1 bis 4 genannten Personen enthält sich aber der Oberpräsident eines bestimmten
+                    Vorschlags, weil er dieselben für die Verleihung eines großen Hofamtes noch für
+                    zu jung erachtet. Dagegen steht der Einwand der Jugend nicht mehr dem Freiherrn
+                    von Tettau-Tolks entgegen, welcher im Jahr 1810 geboren, 1834 die seit
+                    Jahrhunderten im Besitz seiner Familie befindlichen <placeName key="ed_ebg_trd_py">Tolksschen</placeName> Lehngüter übernommen hat und aus
+                    denselben eine jährliche Einnahme von mehr als 30.000 M bezieht. <seg type="comment">
+                  <orig>Von 1836 bis jetzt ist er Mitglied des Kreistages und
+                            Kreisdeputierter gewesen,</orig>
+                  <note xml:id="nozl_qh5_s2b">Zu dessen
+                            Amtszeit und Wirken: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 852. Hier fälschlich Carl Friedrich Ludwig von
+                            Lehndorff zugeschrieben.</note>
+               </seg> hat in den Jahren 1855 bis 1861
+                    dem Landtage angehört, <seg type="comment">
+                  <orig>1866 ist er in das Herrenhaus
+                            berufen</orig>
+                  <note xml:id="nufh_vq5_s2b">VGStA PK, XX. HA, Rep. 54
+                            Gutsarchiv Lehndorff-Steinort, Nr. 889 und 943. In dieser Funktion
+                            erstattete er den Bericht der Eisenbahnkommission über den Gesetzentwurf
+                            betr. die Aufnahme einer Anleihe in Höhe von 40 Millionen Talern, 1868.
+                        </note>
+               </seg>, und wie in den Jahren 1876 bis 1881 ist er auch jetzt wieder
+                    Mitglied des Deutschen Reichstages. </p>
+            <p>Dem auf den Freiherrn von Tettau-Tolks gerichteten Vorschlage des Oberpräsidenten glaube ich
+                    meinerseits nicht beitreten zu können, da ich bei aller Anerkennung des
+                    untadeligen Charakters und der Würdigkeit des Vorgeschlagenen diesen doch als
+                    die für ein großes Hofamt geeignete Persönlichkeit nicht erachten kann. </p>
+            <p>Wenn aber abgesehen von dem Freiherrn von Tettau auch nach der Ansicht des Oberpräsidenten unter
+                    denjenigen hervorragenden Persönlichkeiten, welche ihren <hi rendition="#u">ständigen</hi> Wohnsitz in der Provinz haben, zur Zeit keine für die Würde
+                    des Oberburggrafen zu nennen ist, so gestatte ich mir Ew. Majestät
+                    Allergnädigster Erwägung ehrfurchtsvoll anheimzustellen, ob Allerhöchstdieselben
+                    etwas die Gelegenheit benutzen wollen, dem gleichfalls der Provinz Preußen durch
+                    Familie, Geburt und eigenen Grundbesitz angehörigen Generaladjutanten <persName key="ed_nml_dw2_cy">Grafen von Lehndorff</persName> durch Verleihung der
+                    gedachten Würde eine besondere Auszeichnung zuteil werden zu lassen. </p>
+            <p>Das von dem Oberpräsidenten aufgestellte Erfordernis eines ständigen Wohnsitzes in der Provinz
+                    möchte ich nicht als unerlässlich anerkennen und darf mich zur Begründung der
+                    entgegengesetzten Auffassung darauf berufen, dass gerade die Würde eines
+                    Oberburggrafen auch schon an Personen verliehen worden ist, welche ihren
+                    persönlichen ständigen Wohnsitz nicht in der Provinz Preußen gehabt haben, <seg type="comment">
+                  <orig>so namentlich im Jahr 1823 an den Hofmarschall Seiner
+                            Königlichen Hoheit des hochseligen Prinzen <persName key="ed_xr4_stl_wcb">Wilhelm</persName> von Preußen, Grafen von der
+                                <persName key="ed_dfb_sd5_c2b">Groeben</persName>.</orig>
+                  <note xml:id="nsvm_zrg_mbb">Vgl. in der Akte, Bl. 7-8, 9-10 und 14-15, wegen
+                            Neubesetzung der Stelle nach dem Tode v. d. Groebens den Immediatbericht
+                            von Brenn vom14. Mai 1833 sowie Berichte Schöns vom 30. März 1833 und
+                            20. Dezember 1833. Schöns Vorschlagsliste für die Würde des
+                            Oberburggrafen nannte neben Graf Dohna-Wundlacken und Graf Fink von
+                            Finkenstein auf Jäschkendorf an 3. Stelle den ihm vom Obermarschall Graf
+                            Dönhoff benannten <quote>Kammerherrn <persName key="ed_pv1_b4g_hy">Grafen von Lehndorff auf Warglitten</persName>. Er war früher
+                                Legations-Rat, bei den Gesandtschaften an verschiedenen Höfen, nahm
+                                seinen Abschied und lebt seit mehreren Jahren in der höchsten
+                                Zurückgezogenheit auf seinem Landgut. Seine Vermögenslage ist gut,
+                                welches er besonders dadurch bewirkt hat, dass er seit mehreren
+                                Jahren sich von aller Gesellschaft und allen Verbindung zurückzog
+                                und in der größten Einsamkeit lebte. Sein Ruf ist gut und wenn er in
+                                die Welt tritt, erscheint er wie ein anständiger Mann.</quote> Nach
+                            Brenns Dafürhalten war jedoch <quote>keiner von diesen Vorgeschlagenen
+                                    <hi rendition="#u">so</hi> ausgezeichnet, dass es erforderlich
+                                scheinen möge, ihn durch die Verleihung einer solchen Würde zu
+                                begnadigen. Auch dürfte dieselbe vielleicht dem Grafen von
+                                Finkenstein und dem Grafen von Lehndorff, da beide sich auf ihre
+                                Güter zurückgezogen haben und sich als Grafen bereits auf einem
+                                ehrenvollen Standpunkte befinden, nicht einmal wünschenswert
+                                erscheinen; für den Oberpräsidenten von <persName key="ed_q1t_d2f_4y">Schön</persName> selbst aber, da dieser
+                                bereits Wirklicher Geheimer Rat mit dem Prädikat Exzellenz ist,
+                                nicht als eine Beförderung zu betrachten sein.</quote> Der König
+                            verlieh am 3. Juni 1833 die Oberburggrafenwürde dem Wirklichen Geheimen
+                            Rat <persName key="ed_uzd_pjm_wcb">Graf zu Dohna auf
+                                Schlobitten</persName> (Bl. 11). In seinen Bericht vom 20. Dezember
+                            1833 wegen Besetzung der Landhofmeisterstelle und Nachrücken der anderen
+                            Stellen nannte Schön für die Oberburggrafenwürde <quote>jetzt nur noch
+                                den General-Lieutenant außer Diensten <persName key="ed_k4z_jgl_2y">Grafen Lehndorff auf
+                    Steinort</persName>
+                     </quote>.</note>
+               </seg>
+            </p>
+            <p>Indem ich alleruntertänigst bemerke, dass der Minister des Innern, dem ich mit Rücksicht darauf,
+                    dass die Inhaber der großen Hofämter im Königreich Preußen auch Mitglieder des
+                    Herrenhauses sind, meine Absicht Ew. Majestät in dem vorgetragenen Sinne zu
+                    berichten, mitgeteilt habe, mir sein und des Staatsministeriums Einverständnis
+                    damit erklärt hat, stelle Euer Kaiserlichen und Königlichen Majestät ich die
+                    Allerhöchste Entschließung und eventuell den Befehl wegen Vorlage der
+                    erforderlichen Entwürfe ehrfurchtsvoll anheim.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

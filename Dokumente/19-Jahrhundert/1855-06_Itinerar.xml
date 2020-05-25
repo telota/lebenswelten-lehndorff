@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_n4m_c3c_ffb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Itinerar. Juni 1855</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_n4m_c3c_ffb</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 431, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1855-06-01" to="1855-06-10" cert="high"/>
+            </creation>
+            <abstract>
+                <p>Itinerar der Reise des <persName key="ed_yzt_s1b_dy">Prinzen Friedrich
+                        Wilhelm</persName> nach <placeName key="ed_uvt_4j4_dz">Preußen</placeName>
+                    vom 10. bis zum 20. Juni 1855. 10. Juni <placeName key="ed_oxb_txl_5y">Memel</placeName> - <placeName key="ed_olw_h3d_py">Tilsit</placeName>, 11.
+                    Juni Tilsit - <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>, 12. Juni
+                    Gumbinnen - <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName> - Gumbinnen,
+                    13. Juni Gumbinnen - <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, 14.
+                    Juni Steinort - <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName>, 15.
+                    Juni Dönhoffstädt - <placeName key="ed_c3f_wxz_g1b">Schlodien</placeName>, 16.
+                    Juni Schlodien, 17. Juni Schlodien - <placeName key="ed_d31_lxj_gy">Marienwerder</placeName>, 18. Juni Marienwerder - <placeName key="ed_chq_stz_gfb">Kulm</placeName>, 19. Juni Kulm - <placeName key="ed_bp5_xch_ldb">Bromberg</placeName>, 20. Juni Bromberg - <placeName key="ed_uyl_j3c_gy">Danzig</placeName>.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

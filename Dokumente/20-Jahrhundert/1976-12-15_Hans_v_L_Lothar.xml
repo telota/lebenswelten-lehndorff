@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_qmh_btz_pcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hans Graf von Lehndorff an N. N. Bonn, 15. Dezember 1976</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_qmh_btz_pcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Schloss Steinort</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword"> </note>
+                <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>EZA</institution>
+                        <idno>614/237, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_uck_v2f_2y">Lehndorff, Hans Friedrich Carl Meinhard Graf von
+                        (Graditz b. Torgau 13.4.1910-Bonn 4.9.1987)</persName>
+                    <placeName key="ed_l55_lzt_2cb">Bonn</placeName>
+                    <date when="1976-12-15" cert="high"/>
+                </correspAction>
+                <note>Siehe hierzu: Dokumentation der Vertreibung der Deutschen aus
+                    Ost-Mitteleuropa. In Verbindung mit W. Conze, A. Diestelkamp, R. Laun, P. Rassow
+                    und H. Rothfels, bearb. v. T. Schieder, hrsg. v. Bundesministerium für
+                    Vertriebene. Bd. I, 1-2: Die Vertreibung der deutschen Bevölkerung aus den
+                    Gebieten östlich der Oder-Neiße. Bd. I, 3: Die Vertreibung der deutschen
+                    Bevölkerung aus den Gebieten östlich der Oder-Neiße. Polnische Gesetze und
+                    Verordnungen 1944-1955, und 3. Beiheft: Ein Bericht aus Ost- und Westpreußen.
+                    Aufzeichnungen von Hans Graf von Lehndorff, Bonn 1953-1962. Die zugrunde
+                    liegenden Archivalien in: BArch, B 150 Bundesministerium für Vertriebene,
+                    Flüchtlinge und Kriegsgeschädigte.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Bonn-Bad Godesberg, 15.12.76</dateline>
+                    <salute>Lieber Lothar!</salute>
+                </opener>
+                <p>
+               <gap reason="insignificant"/> Inzwischen waren wir in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>, alle vier, und diese Reise war
+                    ein denkwürdiger Abschnitt in unserem Leben. Darüber ein paar Worte: </p>
+                <p>
+               <note type="editorial">Die Reise wurde gemeinsam mit einer Dönhoff-Nichte am 8.
+                        August mit der Überfahrt von <placeName key="ed_zmm_r4t_sdb">Travemünde</placeName> nach <placeName key="ed_uyl_j3c_gy">Danzig</placeName> angetreten. Dort nahm man Quartier bei einem
+                        polnischen Professor, den Lehndorff kennengelernt hatte, als dieser in der
+                        Grabkapelle in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ein Bild
+                        der Familie gefunden hatte, das sich nun in seiner Wohnung befand.</note>
+                    Das Bild hing bei ihm an der Wand, es besteht aus zwei Brettern, links der
+                    Cruzifixus, rechts der Auferstandene. Unter dem Kreuz knien zwei weiß gekleidete
+                    Kinder mit dem Blick auf den Auferstehenden, Ende des XVI. Jahrhunderts gemalt,
+                    wahrscheinlich nach dem Tode von Zwillingen in der Familie. Es war, als er es
+                    fand, fast nichts mehr darauf zu sehen, jetzt aber gut restauriert und sehr
+                    deutlich, auch in den Farben! Man kann es nicht mitnehmen, da <placeName key="ed_f5m_fxv_mbb">Polen</placeName> nach fast totaler Ausräuberung
+                    natürlich alles, was mit Kunst zu tun hat, zurückhält. Es hat aber dort einen
+                    sehr guten Platz. Auch ist es ein Grund mehr, <placeName key="ed_uyl_j3c_gy">Danzig</placeName> wieder zu besuchen.</p>
+                <p>
+               <note type="editorial">Es folgt die Beschreibung der Fahrt durch das Land, die
+                        Weichsel wurde bei <placeName key="ed_b4f_52f_4y">Dirschau</placeName>
+                        überquert,</note> so wie früher, wenn man von <placeName key="ed_xrv_gwb_by">Berlin</placeName> nach <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> fuhr. <note type="editorial">Die nächsten Stationen
+                        waren <placeName key="ed_kcg_55j_gz">Marienburg</placeName>, <placeName key="ed_ed2_4r1_my">Elbing</placeName>, <placeName key="ed_axg_z4t_sdb">Mohrungen</placeName>, das <placeName key="ed_p2t_bpt_sdb">Oberland</placeName>, <placeName key="ed_qff_bxl_2y">Allenstein</placeName>. </note>
+                </p>
+                <p>Um <placeName key="ed_fmn_dpt_sdb">Januschau</placeName> richtig zu erfassen,
+                    ließen wir den Wagen lange vorher stehen, gingen viele Kilometer durch den in
+                    den 30 Jahren sehr veränderten, aber nicht weniger schönen Wald, in dem man sich
+                    fast nur noch durch die darin vorhandenen Seen zurechtfindet, um dann auf einmal
+                    ins Freie zu gelangen und ein weites, leicht gewelltes Land vor sich zu haben,
+                    das zu drei Vierteln von Wald umgeben ist und in dem zwei herrliche Alleen zu
+                    dem auf einer kleinen Anhöhe liegenden Gutshaus führen. <gap reason="insignificant"/> Das Gutshaus ist noch da, aber verwahrlost. Einige
+                    Menschen leben noch darin. Aber in den Bodenfenstern sind schon lange kein
+                    Scheiben mehr und das Dach fängt an, schadhaft zu werden. Ich wollte erst gar
+                    nicht hingehen, aber die <seg type="comment">
+                  <orig>Söhne</orig>
+                  <note xml:id="nzwh_b4w_12b">Carl (1954-1996) und Hans von Lehndorff (geb.
+                            1955)</note>
+               </seg> bestanden darauf, alles zu sehen. Und es war gut
+                    so.</p>
+                <p>Ähnlich ging es meiner <seg type="comment">
+                  <orig>Frau</orig>
+                  <note xml:id="nvft_kpt_sdb">
+                     <persName key="ed_m3v_zqt_sdb">Margarete Gräfin
+                                Finck von Finckenstein</persName>
+                  </note>
+               </seg> in ihrem Heimatort.
+                    Sie wollte erst gar nicht mitkommen nach <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName>, weil sie wusste, wie jammervoll es bei ihr zuhause
+                    aussieht. Aber als wir dort waren, entstand durch die Menschen, denen wir
+                    begegneten, sofort eine so starke Brücke, dass die neue Wirklichkeit glatt
+                    hingenommen wurde. Die ursprünglichen Bewohner haben damals alle fliehen können,
+                    und die wenigen jetzt noch dort lebenden Deutschen, aus der Nachbarschaft
+                    hingezogen, sind z. T. mit Polen verheiratet. Aber man fühlt sich mit ihnen
+                    allen so verbunden, einfach weil sie dort sind. Man müsste nur sehr viel mehr
+                    Zeit für sie und ihre vielfältigen Nöte haben. Ihr Leben ist ein Kapitel für
+                    sich, das sich um die primitivsten Dinge des Daseins dreht und sie allmählich
+                    resignieren lässt. Die Landschaft ist ein viel zu großes Festkleid, das man
+                    nicht tragen kann. Das gilt für die Polen ebenso wie für die Deutschen, die noch
+                    dort sind - mit wenigen Ausnahmen. Die meisten Deutschen hält dort kaum mehr
+                    etwas. Und auch unter den Polen ist eine große Zahl, die sich als Vertriebene
+                    fühlen, weil sie aus den östlichen Gebieten stammen. Eine der wenigen Ausnahmen
+                    ist z. B. Frau <persName key="ed_hnw_l4w_12b">Preuß</persName>, die immer noch
+                    auf ihrer Insel im Geserichsee wohnt und viel Besuch bekommt, auch aus dem
+                    Westen.</p>
+                <p>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName> war mit seinen Eichen und dem
+                    Mauersee (mit einigen westdeutschen Seglern) überwältigend schön. Über dem Park
+                    kreiste ein Steinadler in großer Höhe. Wir haben viele schöne Dias gemacht, die
+                    ich schon sehr oft zeigen und dazu sprechen musste. <gap reason="insignificant"/>
+            </p>
+                <closer>
+                    <salute>Wir denken an euch mit vielen guten Wünschen</salute>
+                    <signed>Hans</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

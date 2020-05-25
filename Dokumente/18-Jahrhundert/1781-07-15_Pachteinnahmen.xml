@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_p2l_2pj_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einnahme-Überschussrechnung. 1780/81 (Auszug)</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_p2l_2pj_gy</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+                <note type="editorial">
+                    <p>Vgl. auch die Einnahme-Ausgabenrechnung für 1811/12 in: GStA PK, XX. HA, Rep.
+                        54 Gutsarchiv Lehndorff-Steinort, Nr. 184, für 1855/56 ebd., Nr. 186. -
+                        1780/81 erstelle <quote>General-Tax-Principia zur Abschätzung der adelichen
+                            Güter in Ost-Preußen</quote> in: LASA, StA L, Bestand 21950 FA
+                        Lehndorff, Nr. 271. Pachteinnahmen 1780/81 ebd., Nr. 270. - Zu den
+                        Verpachtungen der Güter die Mehrzahl der frühen Akten in: GStA PK, XX. HA,
+                        Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 120-125 (Queden (1636-1656),
+                        Serwillen (1589-1886), Labab (1670-1748)), die späteren Akten in: APO,
+                        Bestand 382 FA Lehndorff, Nr. 50 (Stawken, Klein Steinort, Taberlack,
+                        Stobben, Pristanien 1737-1794, 1820, 1832-1836, 1844-1856, 1873-1891, 1912),
+                        Nr. 51 (Serwillen 1735-1744, 1862-1870, 1882), Nr. 52 ( Bewerbungen um die
+                        Pacht der verschiedenen Güter 1743-1744, 1830-1856, 1877-1884). - Zum Kopf-
+                        und Hornschoss, Mühlengefällen etc. für 1788 bis 1791: APO, Bestand 382 FA
+                        Lehndorff, Nr. 556-561. </p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 270, Bl. 1-11</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1781-07-15" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <seg type="comment">
+                  <orig>Recapitulatio von <rs type="term" key="ed_ir1_rsf_hy">Arrenden</rs>
+                  </orig>
+                  <note xml:id="nz1c_1rd_p2b">Voran geht die
+                            Einzelaufstellungen der Vorwerke</note>
+               </seg>
+                    <lb/>
+               <table rows="10" cols="4">
+                        <row role="label">
+                            <cell/>
+                            <cell>Rt</cell>
+                            <cell>Gr</cell>
+                            <cell>D</cell>
+                        </row>
+                        <row>
+                            <cell>
+                        <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                            <cell>505</cell>
+                            <cell>30</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </cell>
+                            <cell>33</cell>
+                            <cell>30</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                     </cell>
+                            <cell>447</cell>
+                            <cell>15</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                     </cell>
+                            <cell>139</cell>
+                            <cell>21</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Kleine Arrenden</cell>
+                            <cell>45</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Krug in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                     </cell>
+                            <cell>3</cell>
+                            <cell>60</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Krug in <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </cell>
+                            <cell>26</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Krug in <placeName key="ed_sc5_c12_gy">Pristanien</placeName>
+                     </cell>
+                            <cell>19</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Krug in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                     </cell>
+                            <cell>37</cell>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Summa, hinzu</cell>
+                            <cell>1.255</cell>
+                            <cell>86</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>aus der Arrende der 1 1/2 kölmischen Huben in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                     </cell>
+                            <cell>30</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Summe</cell>
+                            <cell>1.285</cell>
+                            <cell>86</cell>
+                            <cell/>
+                        </row>
+                    </table>
+            </p>
+                <p>
+               <seg type="comment">
+                  <orig>General-Recapitulatio</orig>
+                        <note xml:id="nzr1_psd_p2b">Voran geht die Einzelaufstellung der
+                            Vorwerke</note>
+               </seg>
+            </p>
+                <p>
+                    <table rows="13" cols="4">
+                        <row role="label">
+                            <cell/>
+                            <cell>Rt</cell>
+                            <cell>Gr</cell>
+                            <cell>D</cell>
+                        </row>
+                        <row>
+                            <cell>Recapitulatio von Arrenden</cell>
+                            <cell>1.285</cell>
+                            <cell>86</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>aus dem Ziegelverkauf</cell>
+                            <cell>15</cell>
+                            <cell>42</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>an Gerichts-Sporteln</cell>
+                            <cell>6</cell>
+                            <cell>70</cell>
+                            <cell>9</cell>
+                        </row>
+                        <row>
+                            <cell>Recapitulatio von Bauern-Zinsen </cell>
+                            <cell>559</cell>
+                            <cell>40</cell>
+                            <cell>9</cell>
+                        </row>
+                        <row>
+                            <cell>Summa für <seg type="comment">
+                           <orig>Holzverkauf</orig>
+                           <note xml:id="nzxp_btd_p2b">aus dem Wald bei <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                           </note>
+                        </seg>
+                     </cell>
+                            <cell>378</cell>
+                            <cell>61</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Recapitulatio von Nutzung der Sommer- und Winterfischerei</cell>
+                            <cell>538</cell>
+                            <cell>76</cell>
+                            <cell>4½</cell>
+                        </row>
+                        <row>
+                            <cell>an Mühlengefällen</cell>
+                            <cell>20</cell>
+                            <cell>49</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>an Kopf- und Hornschoss Haus- und Gartenmiete</cell>
+                            <cell>69</cell>
+                            <cell>19</cell>
+                            <cell>9</cell>
+                        </row>
+                        <row>
+                            <cell>
+                        <seg type="comment">
+                           <orig>Recapitulatio</orig>
+                           <note xml:id="nubx_dtd_p2b">
+                              <note type="editorial">betr. Erträge
+                                            aus Getreideverkauf, Kuhpacht, Mästung, Leinwand und
+                                            Garn, Honig, Leder, Brennerei und Brauerei, Gespinst,
+                                            der Schäferei, Tabak</note>
+                                        <lb/>
+                           </note>
+                        </seg> von Gfl. Steinort</cell>
+                            <cell>3.088</cell>
+                            <cell>11</cell>
+                            <cell>15</cell>
+                        </row>
+                        <row>
+                            <cell>von Klein Steinort</cell>
+                            <cell>472</cell>
+                            <cell>30</cell>
+                            <cell>6</cell>
+                        </row>
+                        <row>
+                            <cell>von Taberlack</cell>
+                            <cell>193</cell>
+                            <cell>72</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>von Pristanien</cell>
+                            <cell>64</cell>
+                            <cell>21</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Summarum</cell>
+                            <cell>6.693</cell>
+                            <cell>39</cell>
+                            <cell>16½</cell>
+                        </row>
+                    </table>
+                </p>
+            <p>Schluss-Balance</p>
+                <p>
+                    <table rows="5" cols="4">
+                        <row role="label">
+                            <cell/>
+                            <cell>Rt</cell>
+                            <cell>Gr</cell>
+                            <cell>D</cell>
+                        </row>
+                        <row>
+                            <cell>Aus des Königl. Preußischen Kammerherren und
+                                Johanniter-Ordensritter Reichsgrafen v. Lehndorff Hochgeboren in
+                                verschiedenen kleinen Posten laut Quittung gezahlten</cell>
+                            <cell>5.850</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Bei Überreichung der Jahresrechnung bar</cell>
+                            <cell>858</cell>
+                            <cell>22</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Summa</cell>
+                            <cell>6.708</cell>
+                            <cell>22</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Laut der Jahresrechnung beträgt die Einnahme</cell>
+                            <cell>6.693</cell>
+                            <cell>39</cell>
+                            <cell>16½</cell>
+                        </row>
+                        <row>
+                            <cell>mithin Überschuss</cell>
+                            <cell>14</cell>
+                            <cell>22</cell>
+                            <cell>1½</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Groß Steinort den 15. Juli 1781 W. A. <persName key="ed_bpl_fsj_gy">Rhenius</persName>
+                    <lb/>
+                    <lb/>
+            </p>
+         </div>                               
+        </body>
+    </text>
+</TEI>

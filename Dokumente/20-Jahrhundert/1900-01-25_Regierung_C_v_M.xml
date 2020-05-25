@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_dtf_2js_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Königliche Regierung, Abt. für direkte Steuern, Domänen und Forsten an Carol
+                    Graf von Lehndorff. Gumbinnen, 25. Januar 1900</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_dtf_2js_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 30, Bl. 163-164</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_cyd_wtg_hy">Regierung zu Gumbinnen</orgName>
+                    <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>
+                    <date when="1900-01-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ik3_ckz_2y">Lehndorff, Carl Meinhard (Carol) Graf von
+                        (1860-1936)</persName>
+                </correspAction>
+                <note>Auch in den Folgejahren wurden Steuern nicht pünktlich entrichtet, so dass im
+                    Oktober 1906 der Fiskus der Zwangsverwaltung von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> beitrat, wie  Justizrat Dr. <persName key="ed_apz_m2m_xcb">Loewenfeld</persName>
+                    <persName key="ed_ik3_ckz_2y">Lehndorff</persName> am 19. Oktober 1906
+                    mitteilte, vgl. APO, Bestand 382 FA Lehndorff, Nr. 38, Bl. 14. - Nach einer im
+                    Königlich-Preußischen Statistischen Büro geführten Statistik gab es Ende 1901 in
+                    der Provinz <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> 71
+                    Fideikommisse, davon 65 im Regierungsbezirk Königsberg und 6 im Regierungsbezirk
+                    Gumbinnen. Im Sommer 1903 waren 53 zu Familienfideikommissen gehörende Güter im
+                    Bezirk des  Oberlandesgerichts zu Königsberg landschaftlich beliehen, vgl. GStA
+                    PK, XX. HA, Rep, 2 II, Nr. 1928/2, Bl. 4. Seit den 1880er Jahren hatte die
+                    Ostpreußische Landschaft in fünf Fällen wegen Misswirtschaft oder Überschuldung
+                    zur Zwangsverwaltung schreiten müssen. Zwangsversteigerungen waren jedoch
+                    unterblieben, so der Bericht der General-Landschafts-Direktion vom 27. Juli 1903
+                    an den Oberpräsidenten der Provinz und General-Landschafts-Präsidenten Freiherr
+                    von Richthofen (Bl. 2-2v). </note>
+            </correspDesc>
+            <abstract>
+                <p>Erwiderung auf dessen Eingabe vom 17. Januar 1900/Stundungsgesuch. - Sie wären
+                    berechtigt, gegen die Ostpreußische Landschaft auf Zahlung der überwiesenen
+                    Geldbeiträge zu klagen. Davon wolle man absehen. Lehndorff wird aufgefordert,
+                    den Nachweis zu führen, dass er die angebotenen 1.500 Mark an die Kreiskasse zu
+                    Angerburg abgeführt habe. Künftig habe er die vierteljährliche Zahlung von
+                    320,85 Mark Ergänzungssteuer zu den festgesetzen Terminen pünktlich zu leisten
+                    unter Androhung der unverzüglichen Exekution seiner gesamten Staatsteuerreste.
+                    Die letztendliche Entscheidung wird der Finanzminister treffen. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/2/30/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                    <salute> </salute>
+                </opener>
+				        <p/>
+				        <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

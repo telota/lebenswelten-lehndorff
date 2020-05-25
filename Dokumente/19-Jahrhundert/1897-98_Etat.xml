@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_k3r_pwr_wcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Etat. Steinort, 1. Juli 1897/98</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_k3r_pwr_wcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="editorial">
+                    <p>Vgl. APO, Bestand 382 FA Lehndorff, Nr. 55: Belege zu den Ausgaben der
+                        Gutsadministration für die Jahre 1782 bis 1880.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 30, Bl. 83-84</idno>
+                    </msIdentifier>
+                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date from="1897-07-01" to="1898-07-01" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/3/55/str/1/1/100#tabSkany"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Etat für die Begüterung <placeName key="ed_pxt_cnh_1y">Steinort</placeName> pro
+                    1. Juli 1897/98</p>
+                <p>
+                    <table rows="16" cols="4">
+                        <head>Gutsverwaltung Steinort</head>
+                        <row>
+                            <cell>Einnahmen</cell>
+                            <cell>M</cell>
+                            <cell>Ausgaben</cell>
+                            <cell>M</cell>
+                        </row>
+                        <row>
+                            <cell>
+                        <seg type="comment">
+                           <orig>Aus der <ref target="lehndorff_t4w_wgm_2db">Meierei</ref>
+                           </orig>
+                           <note xml:id="nfby_wbt_xcb">Vgl. zu den Milcherträgen einzelner
+                                        Zuchtkühe: APO, Bestand 382 FA Lehndorff, Nr. 172
+                                        (1893).</note>
+                        </seg>
+                     </cell>
+                            <cell>39.000</cell>
+                            <cell>Abgaben und Versicherungen </cell>
+                            <cell>8.500</cell>
+                        </row>
+                        <row>
+                            <cell>Aus verkauftem Getreide</cell>
+                            <cell>29.000</cell>
+                            <cell>Gehalt und Löhne</cell>
+                            <cell>25.500</cell>
+                        </row>
+                        <row>
+                            <cell>
+                        <seg type="comment">
+                           <orig>Aus verkauften Pferden</orig>
+                           <note xml:id="nfn1_bj5_xcb">Zur Pferdezucht: APO, Bestand 382 FA
+                                        Lehndorff, Nr. 264 bis 271. </note>
+                        </seg>
+                     </cell>
+                            <cell>13.750</cell>
+                            <cell>
+                        <seg type="comment">
+                           <orig>Tagelohn</orig>
+                           <note xml:id="nqqq_mrt_xcb">Vgl. die Lohn- und Tagelohn-Register
+                                        für 1894/95 und 1895/96 bzw. das Fremdentagelohn-Register
+                                        1894/95, in: APO, Bestand 382 FA Lehndorff, Nr. 174 bis
+                                        176.</note>
+                        </seg>
+                     </cell>
+                            <cell>18.150</cell>
+                        </row>
+                        <row>
+                            <cell>Aus verkauftem Rindvieh</cell>
+                            <cell>12.000</cell>
+                            <cell>Für angekaufte Milch</cell>
+                            <cell>12.100</cell>
+                        </row>
+                        <row>
+                            <cell>Aus verkauften Schweinen</cell>
+                            <cell>13.000</cell>
+                            <cell>Für Kraftfutter</cell>
+                            <cell>7.450</cell>
+                        </row>
+                        <row>
+                            <cell>Aus verkauften Schafen</cell>
+                            <cell>3.000</cell>
+                            <cell>Für Sämereien</cell>
+                            <cell>2.000</cell>
+                        </row>
+                        <row>
+                            <cell>Aus dem Garten</cell>
+                            <cell>600</cell>
+                            <cell>Für angekaufte Pferde</cell>
+                            <cell>3.300</cell>
+                        </row>
+                        <row>
+                            <cell>Aus der Ziegelei, nach Abzug der Lieferungen an die Pächter zu
+                                Bauten und zum Drainieren (im vergangenen Jahre 5.900 M)</cell>
+                            <cell>1.000</cell>
+                            <cell>Für angekaufte Schlachtochsen</cell>
+                            <cell>1.200</cell>
+                        </row>
+                        <row>
+                            <cell>Aus verkauftem Federvieh</cell>
+                            <cell>250</cell>
+                            <cell>Für angekaufte Böcke</cell>
+                            <cell>400</cell>
+                        </row>
+                        <row>
+                            <cell>Aus den Forsten und der Jagd</cell>
+                            <cell>46.000</cell>
+                            <cell>Für die Forsten und die Jagd</cell>
+                            <cell>20.100</cell>
+                        </row>
+                        <row>
+                            <cell>Fischereipacht</cell>
+                            <cell>7.800</cell>
+                            <cell>Insgemein (Unterhaltung des toten Inventars,
+                                Wirtschaftsbedürfnisse, <seg type="comment">
+                           <orig>Reparaturbauten</orig>
+                           <note xml:id="nphz_ctt_xcb">Vgl. APO, Bestand 382 FA Lehndorff, Nr. 178:  Bericht der
+                                        Baurevision über den Zustand der Gebäude in den Steinorter
+                                        Vorwerken 1897; Kostenvoranschläge zu Neubauten etc. in Nr.
+                                        179 und 180 (1904).</note>
+                        </seg>, ärztliches Honorar,
+                                Medizin, Pensionen und Unterstützungen pp.)</cell>
+                            <cell>
+                        <hi rendition="#uu">20.800</hi>
+                     </cell>
+                        </row>
+                        <row>
+                            <cell>Krugpachten, Inselpachten und Wohnungsmiete</cell>
+                            <cell>
+                        <unclear reason="illegible" cert="low">1.480</unclear>
+                     </cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Insgemein (Wolle, Felle, Rohr, Staatsbeitrag zum Lehrergehalt
+                                pp)</cell>
+                            <cell>
+                        <hi rendition="#uu">3.000</hi>
+                     </cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Summa</cell>
+                            <cell>169.880</cell>
+                            <cell/>
+                            <cell>
+                        <seg type="comment">
+                           <orig>119.500</orig>
+                           <note xml:id="nd5r_rrt_xcb">Vgl. die Ausgabenbelege zur Steinorter
+                                        Gutsrechnung für 1895, in: APO, Bestand 382 FA Lehndorff,
+                                        Nr. 177.</note>
+                        </seg>
+                     </cell>
+                        </row>
+                        <row>
+                            <cell>Ausgaben ab</cell>
+                            <cell>
+                        <hi rendition="#uu">119.500</hi>
+                     </cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>bleibt Überschuss</cell>
+                            <cell>50.380</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </p>
+                <p/>
+                <p>
+                    <table rows="17" cols="3">
+                        <head>Aus den verpachteten Vorwerken</head>
+                        <row>
+                            <cell>Einnahmen</cell>
+                            <cell>Mark</cell>
+                            <cell>Mark</cell>
+                        </row>
+                        <row>
+                            <cell>Pacht von <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                     </cell>
+                            <cell/>
+                            <cell>7.200</cell>
+                        </row>
+                        <row>
+                            <cell>desgl. von Taberlack</cell>
+                            <cell/>
+                            <cell>11.000</cell>
+                        </row>
+                        <row>
+                            <cell>desgl. von <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                     </cell>
+                            <cell/>
+                            <cell>4.000</cell>
+                        </row>
+                        <row>
+                            <cell>desgl. von <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                     </cell>
+                            <cell/>
+                            <cell>4.000</cell>
+                        </row>
+                        <row>
+                            <cell>desgl. von <placeName key="ed_nkz_b12_gy">Pristanien</placeName>
+                     </cell>
+                            <cell/>
+                            <cell>5.500</cell>
+                        </row>
+                        <row>
+                            <cell>desgl. von <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                                einschl. <placeName key="ed_epz_y2c_gy">Engelstein</placeName> No.
+                                46</cell>
+                            <cell/>
+                            <cell>
+                        <hi rendition="#uu">5.700</hi>
+                     </cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Summa</cell>
+                            <cell>37.404</cell>
+                        </row>
+                        <row>
+                            <cell>Ausgaben</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>bare Ausgaben für das neue Forsthaus Mauerwald nach Abzug von
+                                Ziegeln und Dachpfannen</cell>
+                            <cell>3.964</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>bare Ausgaben für den neuen Schafstall in <placeName key="ed_nkz_b12_gy">Stawken</placeName> nach Abzug von Holz,
+                                Ziegeln und Dachpfannen</cell>
+                            <cell>10.478</cell>
+                        </row>
+                        <row>
+                            <cell>Kautionszinsen der Pächter</cell>
+                            <cell>1.220</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Abzüge der Pächter für außerordentliche Reparaturen, Armenlasten
+                                pp.</cell>
+                            <cell>
+                        <hi rendition="#uu">2.000</hi>
+                     </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Summa</cell>
+                            <cell/>
+                            <cell>
+                        <hi rendition="#uu">17.662</hi>
+                     </cell>
+                        </row>
+                        <row>
+                            <cell>bleibt Überschuss</cell>
+                            <cell/>
+                            <cell>19.742</cell>
+                        </row>
+                        <row>
+                            <cell>hierzu Überschuss der Gutsverwaltung </cell>
+                            <cell/>
+                            <cell>
+                        <hi rendition="#uu">50.380</hi>
+                     </cell>
+                        </row>
+                        <row>
+                            <cell>zusammen</cell>
+                            <cell/>
+                            <cell>70.122</cell>
+                        </row>
+                    </table>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

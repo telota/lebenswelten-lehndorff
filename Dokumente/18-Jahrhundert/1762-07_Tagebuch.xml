@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_mdd_vcs_rdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 13.
+                    bis 21. Juli 1762</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_mdd_vcs_rdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 1, Gotha 1910, S. 349 ff.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date from="1762-07-13" to="1762-07-21" cert="high"/>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                <p>
+            <hi rendition="#u">13. Juli</hi>. <gap reason="insignificant"/> Da mir meine
+                    <persName key="ed_q4s_xyl_2y">Mutter</persName> schreibt, sie gedenke
+                unverzüglich nach <placeName key="ed_uvt_4j4_dz">Preußen</placeName> zurückzugehen,
+                so entschließe ich mich, sie noch in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> aufzusuchen, um Abschied von ihr zu nehmen. Da ich aber den
+                    <seg type="comment">
+               <orig>Kaiser von Russland</orig>
+               <note xml:id="no2r_kt3_tdb">Peter III.</note>
+            </seg>, den aufrichtigen Freund unseres Königshauses, gern
+                sehen möchte, so ändere ich meine Pläne und fahre direkt nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> in Begleitung meiner <persName key="ed_v52_qng_vz">Frau</persName>, die sich von ihrem Wochenbett schon wieder
+                vollständig erholt hat <gap reason="insignificant"/>. Am 11. Juli reise ich also von
+                    <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> ab. Um 9 Uhr komme ich in
+                    <placeName key="ed_ub5_lt3_tdb">Pietzpuhl</placeName> an. Herr v. <persName key="ed_zvz_mt3_tdb">Wulffen</persName>, der hier in einem schönen Hause wohnt,
+                setzt uns eine prächtigen Imbiss vor. In <placeName key="ed_phz_pt3_tdb">Parchen</placeName> dinieren wir bei Herrn v. <persName key="ed_urg_rt3_tdb">Byern</persName>, der uns aufs beste aufnimmt. In <placeName key="ed_glz_32r_rdb">Altenplatow</placeName> übernachten wir beim Kriegsrat
+                    <persName key="ed_rj3_k2r_rdb">Honig</persName> und setzen am folgenden Tag
+                unsere Reise nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> fort, wo wir am
+                13. früh um 3 Uhr ankommen. <seg type="comment">
+               <orig>Ich finde meine Schwester
+                            <persName key="ed_osg_km4_hz">Ysenburg</persName> in einem sehr
+                        traurigen Zustande vor; sie speit Blut und scheint vollständig
+                        schwindsüchtig zu sein, was mir unendlich leid tut.</orig>
+               <note xml:id="nx4x_hdx_rdb">Am 20. November liegt sie im Sterben. Lehndorff reiste
+                        nach Berlin, um sie noch einmal zu sehen, vgl. Schmidt-Lötzen, Nachträge,
+                        Bd. 1, S. 361 ff. </note>
+            </seg> Mit großer Freude sehe ich auch meine
+                    <persName key="ed_q4s_xyl_2y">Mutter</persName> wieder. Ich finde, sie hat es
+                mit ihrer Abreise nicht mehr so eilig; <placeName key="ed_xrv_gwb_by">Berlin</placeName> hat zu viel Anziehendes für sie. <gap reason="insignificant"/>
+         </p>
+                <p>Ganz <placeName key="ed_xrv_gwb_by">Berlin</placeName> beschäftigt sich nur mit
+                    der Ankunft des <persName key="ed_ecx_zt3_tdb">Kaisers von Russland</persName>,
+                        <persName key="ed_mn5_svg_hy">Prinz Ferdinand</persName>, der vom König
+                    Befehl erhalten hat, den Kaiser in <placeName key="ed_sxm_51z_bz">Stettin</placeName> zu empfangen, trifft großartige Vorbereitungen dazu. Er
+                    hat 15 Kavaliere ernannt, die in seinem Gefolge sein werden, wozu auch ich
+                    zähle. Ich schließe mich dem Grafen <persName key="ed_xcs_sqm_cz">Schaffgotsch</persName> für die Reise an. Es ist auch viel von einer
+                    Zusammenkunft der russischen und dänischen Minister in Berlin die Rede. <note type="editorial">Vieles spricht für eine bevorstehende Umwälzung in
+                        Russland, </note>da der Kaiser seiner Nation gegenüber eine allzu große
+                    Geringschätzung an den Tag legt und nichts gelten lässt, was nicht preußisch
+                    ist. <gap reason="insignificant"/>
+         </p>
+                <p>
+            <hi rendition="#u">21. Juli</hi>. <gap reason="insignificant"/> Um 6 Uhr hält die
+                junge Gräfin <persName key="ed_ojg_5c5_g2b">Dönhoff</persName>, die in derselben
+                Nacht nach <placeName key="ed_uvt_4j4_dz">Preußen</placeName> abreisen wollte und
+                bereits Abschied von uns genommen hatte, vor meiner Tür und lässt mich
+                hinunterkommen. Dort sagt sie mir, ihre Reise sei verschoben, da die
+                Unglücksbotschaft eingetroffen sei, der <persName key="ed_xw5_tw4_cz">Kaiser</persName> sei <seg type="comment">
+               <orig>entthront</orig>
+               <note xml:id="nk2x_fjt_52b">Nach einer nur 6-monatigen Regierung wurde Peter III.
+                        entthront, und starb wenig Tage darauf, am 17. Juli 1762, eines gewaltsamen
+                        Todes.</note>
+            </seg>. Näheres sei noch nicht bekannt, man wisse bloß, dass
+                die noch in <placeName key="ed_jxx_gpv_mbb">Pommern</placeName> stehenden Truppen
+                bereits auf die Kaiserin <persName key="ed_ez1_1zl_cz">Katharina</persName>
+                vereidigt worden seien. Diese durch alle sie begleitenden Umstände so traurige und
+                grausame Nachricht scheint danach angetan, uns wieder in eine äußerst missliche Lage
+                zu versetzen. Unser <persName key="ed_x2r_52f_cy">König</persName> verliert dadurch
+                den sichersten und treuesten Verbündeten, den er jemals hatte. <gap reason="insignificant"/>
+         </p>
+                <p>
+            <note type="editorial">In den nächsten Tagen legt sich die Aufregung, da die
+                    russische <persName key="ed_ez1_1zl_cz">Kaiserin</persName> erklärt, dass sie
+                    sich am Krieg nicht mehr beteiligen und ihre Truppen zurückziehen werde. </note>
+                Nach und nach räumen die russischen Truppen unsere Provinzen, die sich von dem
+                Kriege zu erholen beginnen. </p>
+            
+        </body>
+    </text>
+</TEI>

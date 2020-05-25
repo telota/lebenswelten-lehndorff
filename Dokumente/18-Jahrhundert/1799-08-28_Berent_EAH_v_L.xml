@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_twr_w1g_nbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich August Berent an Ernst Ahasverus Heinrich Graf von Lehndorff.
+                    Steinort, 28. August bis 30. September 1799</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_twr_w1g_nbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 285, Bl. 78v-84</idno>
+                    </msIdentifier>
+                    <p> (tw. Fragmente)</p>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date from="1799-08-28" to="1799-09-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Briefe <persName key="ed_k4z_jgl_2y">Lehndorffs</persName> an <persName key="ed_yx5_cbg_nbb">Berent</persName> aus den Jahr1818 bis 1819 in: LASA,
+                    StA L, Bestand 21950 FA Lehndorff, Nr. 389, zur Verwaltung Steinorts in Nr. 39.
+                    Berent folgte Inspektor <persName key="ed_thz_qyp_tcb">Steiner</persName> im
+                    Amt. Bewerbungen von Wirtschaftsinspektoren: APO, Bestand 382 FA Lehndorff, Nr.
+                    276 (1811-1905). - Die das Gut Rehsau und das Vorwerk Guja betreffenden Akten
+                    in: APO, Bestand 382 FA Lehndorff, Nr. 230 bis 263 (1792-1894).</note>
+            </correspDesc>
+            <abstract>
+                <p>Berent berichtet über die Landwirtschaft in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Die Bauern hätten zu wenig Zeit, das Getreide zum
+                    Verkauf zu dreschen, da sie mit dem Dreschen der Saat und des Brotgetreides
+                    beschäftigt seien. Er befürchtet, dass viel Land unbestellt bleiben wird, da die
+                    Zeit zum Bestellen der Äcker nicht mehr ausreicht. Die Pferde seien zu
+                    entkräftet durch den Mangel an Weide und das Fahren des Getreides, auch seien
+                    Äcker und Wiesen <quote>dergestalt eingewässert, dass man liegen mit Pferde und
+                        Wagen darauf bleibt</quote>. Hof und Stuben seien auf des Grafen Befehl
+                        <quote>innerlich wie äußerlich, so viel wie es hat sein können, ganz in
+                        Ordnung gebracht</quote>. Am 8. September werde der Prediger die Kommunion
+                    halten. Die eingegangenen Briefe schicke er mit, Prozesss-Sachen seien nicht
+                    darunter. <seg type="comment">
+                  <orig>In <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> stehe alles sehr gut, Herr <persName key="ed_d42_1st_ncb">Sperling</persName> sei wieder gesund und habe
+                            das Wintergetreide gut eingebracht, überhaupt habe Rehsau <quote>dieses
+                                Jahr vorzügliches Winter- und Sommergetreide, auch viel
+                            Heu</quote>.</orig>
+                  <note xml:id="ni4s_5d3_fdb">Sperling war noch im Mai
+                            1811 im Amt, vgl. dessen Brief vom 26. Mai 1811 an den Grafen Lehndorff
+                            in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 491, n.
+                            f.</note>
+               </seg> - Der Zustand der Güter sei <quote>noch
+                        erträglich</quote>, Regen und gutes Wetter würden wechseln, man könne
+                    arbeiten, <quote>so viel unsere Kräfte zulassen</quote>. Das Korn sei mit Mühen
+                    eingebracht, in den <quote>Fächern ist mehr wie voriges Jahr, nur lohnen wird es
+                        nicht sehr, weil zu viel Futter darunter ist</quote> Der Weizen liegt
+                        <quote>abgehauen</quote> und man hoffe auf gutes Wetter, er sei jedoch
+                        <quote>außerordentlich voller Gras und Unkraut</quote>. Die große Gerste sei
+                    sehr gut, Hafer und kleine Gerste seien noch auf den Feldern, stehen aber gut,
+                    ebenso Flachs und Bohnen. Jedoch seien die Erbsen und Linsen, ebenso die
+                    Kartoffeln von der Nässe verdorben. Die Heuernte sei geteilt - die Vorwerke, die
+                        <quote>hohe Feldwiesen</quote> haben, wie <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName>, <placeName key="ed_xjg_d12_gy">Stobben</placeName>, <placeName key="ed_xzt_112_gy">Stawisken</placeName>,
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, hätten mehr Futter als
+                    im vergangenen Jahr; in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>,
+                        <placeName key="ed_xpm_112_gy">Labab</placeName> und <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName> stehen die Wiesen unter
+                    Wasser. In <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> und <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> würde der Marktpreis für Roggen
+                    bei 1 Rtlr. 15 Gr. pro Scheffel liegen, man hofft auf fallende Preise, da
+                        <quote>fast noch nichts gedroschen ist</quote>; es werde allgemein geklagt,
+                    dass man keine<quote>fremde Drescher</quote> bekäme. - Der Brief des Grafen aus
+                        <placeName key="ed_hf4_lst_ncb">Neudörffchen</placeName> sei erst am Montag
+                    Abend eingetroffen. Er möge verzeihen, wenn der Wagen nicht am Dienstag Abend in
+                        <placeName key="ed_hdy_n3y_bcb">Heilsberg</placeName> ankomme, er habe
+                        <quote>dem <persName key="ed_kp3_dzp_tcb">Jacob</persName> ernstlich
+                        anbefohlen, langsam zu fahren und sich so einzurichten, dass er spätestens
+                        Mittwoch um 7 Uhr Morgens in <placeName key="ed_hdy_n3y_bcb">Heilsberg</placeName> eintrifft</quote>. Die Weizenernte sei
+                    eingebracht, jetzt beschäftige man sich mit dem Heu im Sommerfeld, mit der
+                    Gerste und dem Pflügen für die Wintersaat. <seg type="comment">
+                  <orig>Noch immer
+                            bekäme man keine Drescher, <quote>und die man noch hat, machen rein und
+                                gehen davon, denn jetzo verlangen sie schon den 9. Scheffel oder
+                                Ausspeisung, und bevor man dieses geben soll, so wird man sich schon
+                                alle Mühe lieber geben, und Saat kaufen.</quote>
+                  </orig>
+                  <note xml:id="nmrl_dyv_q2b">Schon am 12. November 1750 war eine Ermahnung an
+                            die Drescher ergangen, <quote>sich mit dem üblichen Lohn zufrieden zu
+                                geben</quote>, diese in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 588.</note>
+               </seg> 200 Scheffel a 1 Rtlr. 15 Gr.
+                    habe er schon gesichert. - Das Klage-Protokoll wegen des Prozesses um den
+                        <placeName key="ed_qr3_qst_ncb">Haarszen-Werder</placeName> sei eingegangen.
+                    Das <orgName key="ed_myk_cjr_gbb">Hofgericht in Insterburg </orgName>habe den
+                    Termin in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> auf den 19.
+                    September festgesetzt. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

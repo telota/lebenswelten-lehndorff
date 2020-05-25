@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_rr5_5z1_kz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eheberedung. Stonsdorf, 13. April 1769</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_rr5_5z1_kz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Heiratskreise</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="editorial">Die Hochzeit fand am 25. August 1769 in <placeName key="ed_wky_11b_kz">Stonsdorf</placeName>/Riesengebirge statt. Bereits 1770
+                    verfasste <persName key="ed_gnc_c1m_2y">Amalie Caroline</persName> ihr
+                    Testament, in: LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 326, Bl. 1-2v. Sie
+                    verstarb am 12. November 1830 in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>. Porträts der Eheleute (Kupferstiche von B.
+                    Glasbach) ebd., Nr. 517.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                            93, n. f.</idno>
+                    </msIdentifier>                  
+                </msDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                  <institution>LASA, StA L</institution>
+                  <idno>Bestand 21950 FA Lehndorff, Nr. 317, Bl. 5-8</idno>
+               </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_wky_11b_kz">Stonsdorf</placeName>
+                <date when="1769-04-13" cert="high"/>
+            </creation>
+            <abstract>
+                <p>Ernst Ahasverus Heinrich Graf von <persName key="ed_csb_mdf_cy">Lehndorff</persName>, Kammerherr der preußischen <persName key="ed_odq_wwf_4y">Königin</persName>, auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und <persName key="ed_gnc_c1m_2y">Amalie Caroline
+                        Gräfin von Schmettau</persName>, älteste Tochter des Reichsgrafen Carl
+                    Leopold Gottfried von <persName key="ed_eyb_g1m_cz">Schmettau</persName> und
+                    seiner Ehefrau, <persName key="ed_pt5_vz5_vz">Wilhelmine Amalie, geborene von
+                        Schwerin</persName>, auf <placeName key="ed_wky_11b_kz">Stonsdorf</placeName> schließen für den Fall des Todes einen Ehevertrag.
+                    Die Braut bringt 20.000 Reichstaler in die Ehe ein, von denen nach vollzogener
+                    Vermählung 10.000 Reichstaler dem Ehemann ausgezahlt werden, die andere Hälfte
+                    bei Volljährigkeit der Braut. Diese wird durch den Vater verzinslich zu 5
+                    Prozent angelegt. Im Falle des Ablebens der Ehefrau fallen die 20.000
+                    Reichstaler an Lehndorff. Im Falle des Ablebens des Ehemanns fallen dessen
+                    beweg- und unbeweglichen Güter an die Ehefrau. Während des Ehestandes erhält die
+                    Ehefrau jährlich 500 Reichstaler <quote>Nadelgelder</quote> zu ihrer freien
+                    Verfügung und übernimmt die Kosten für ihren Unterhalt und für ihre
+                    Angestellten.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+              
+                <p/>
+         
+            
+        </body>
+    </text>
+</TEI>

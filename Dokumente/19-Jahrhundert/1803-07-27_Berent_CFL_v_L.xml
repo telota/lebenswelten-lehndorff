@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_r3b_tpg_hdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich August Berent an Carl Friedrich Ludwig Graf von Lehndorff. Steinort, 27. Juli 1803</title>
+               
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_r3b_tpg_hdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 861, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yx5_cbg_nbb">Berent, (-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1803-07-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Graf von
+                        (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Steinort, den 27. Juli 1803</dateline>
+					          <salute>Hochgeborener Herr Reichsgraf. <lb/>Besonders Höchstzuehrender Herr Hauptmann.</salute>
+                </opener>
+				        <p>Ew. Hochgeboren gnädiges Schreiben nebst Quittungen habe erhalten, überreiche zu Folge des
+                    mir gewordenen Auftrages inliegend die <seg type="comment">
+                  <orig>Auslage-Rechnung </orig>
+                  <note xml:id="nrgs_m5f_n2b">Liegt der Akt
+                            bei. Es handelt sich um zusätzliche Wirtschaftsausgaben, darunter
+                                <quote>1/2 Tonne Bier an den Knecht Pollaschke zur Hochzeit</quote>
+                        </note>
+               </seg>und bemerke noch dabei, dass ich wegen Bezahlung der Zulage
+                    weiter keinen Befehl von Dero Herrn <persName key="ed_csb_mdf_cy">Vater</persName> habe als wie im Monat Mai, worinnen Hochderselbe mir den
+                    Auftrag machte, 50 Rtlr. an Ew. Hochgeboren zu bezahlen, und im Monat Juli
+                    wieder ein Schreiben, worinnen Hochdieselben mir bloß anfrugen, wie ich es
+                    hielte mit der monatlichen Zulage-Bezahlung von 50 Rtlr. Ich habe aber auf hohen
+                    Befehl im Monat Januar d. J. an Ew. Hochgeboren 100 Rtlr. bezahlt, sollten diese
+                    auch Zulage-Gelder sein, so habe ich im Ganzen für 6 Monate 300 Rtlr. abgezahlt;
+                    sobald aber mündlich mit dero Herrn Vater sprechen werde, so werde für mich die
+                    Sache ins Reine bringen und dann Ew. Hochgeboren sogleich Nachricht geben,
+                    empfehle mich zur Fortdauer Dero Gnade und ersterbe mit allem Respekt</p>
+				        <closer>
+					          <salute>Ew. Hochgeboren untertänigster Diener</salute>
+					          <signed>Berent</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

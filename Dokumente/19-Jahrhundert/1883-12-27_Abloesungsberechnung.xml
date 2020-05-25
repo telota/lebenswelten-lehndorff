@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_pzk_h5l_2cb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ablösungsberechnung. 27. Dezember 1883</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_pzk_h5l_2cb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+                <note type="editorial">
+                    <p>Siehe das Dokument vom <ref target="lehndorff_oxz_yfz_pcb">2. Dezember
+                            1884</ref>.</p>
+                </note>
+                <note type="editorial">
+                    <p>Siehe auch das Dokument vom <ref target="lehndorff_oxz_yfz_pcb">2. Dezember
+                            1884</ref>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>EZA</institution>
+                        <idno>507/3242, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1883-12-27" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <p>Ablösungsberechnung von den zur Fideikommissherrschaft <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gehörigen Gütern <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> und
+                dem Forstetablissement <placeName key="ed_ofx_nwf_cy">Nordenort</placeName>,
+                Kirchspiel Drengfurth, Kreises Rastenburg</p>
+            <p>Von dem <persName key="ed_ik3_ckz_2y">Grafen von Lehndorff</persName> ist unterm 27.
+                Dezember 1883 auf Ablösung sämtlicher auf den zur Fideikommissherrschaft Steinort
+                gehörigen Gütern haftenden Reallasten angetragen worden. <gap reason="insignificant"/>
+         </p>
+            <p>Zur Ermittlung des Jahreswerts der auf den Gütern haftenden und den geistlichen
+                Instituten zu Drengfurth gebührenden Realabgaben nach Amtsblatt 1883 Stck. 52 S. 369
+                24-jährige Durchschnitts-Martin-Marktpreise 1860/83 des Marktortes Rastenburg / ao
+                Beilage zum Amtsblatt 1879 Stck. 39 als Grundlage</p>
+            <p>Reallasten von Taberlack – an die Kirche, an die polnische Pfarrstelle, an die
+                Kantorstelle: entsprechen 319 M 36 Pf.</p>
+            <p>Serwillen – an die  Kirche, an die polnische Pfarrstelle, an die Kantorstelle:
+                entsprechen 187 M, 60 Pf.</p>
+            <p>Nordenort - an die Kirche 33 Rtlr</p>
+            <p>Zusammen: 507 M 29 Pf</p>
+            <p> </p>
+            <p>
+            <note type="editorial">Es folgt der Entscheid der Königlichen Generalkommission für
+                    die Provinzen Ost- und Westpreußen und Posen vom 1. Dezember 1884 </note> In
+                Sachen betreffend die Ablösung der auf der Fideikommissherrschaft Steinort, Kreis
+                Angerburg haftenden Reallasten, insonderheit in Sachen der evangelischen
+                Kirchengemeinde zu Drengfurth.</p>
+            <closer>
+                <salute> </salute>
+                <signed> </signed>
+            </closer>
+        </body>
+    </text>
+</TEI>

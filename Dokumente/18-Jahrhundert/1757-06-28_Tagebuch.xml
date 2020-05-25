@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_v3r_g2l_ndb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheintrag von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 28. Juni 1757</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_v3r_g2l_ndb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="editorial">Bereits mehrfach hatte Lehndorff zuvor Eintragungen über
+                    Gesundheitszustand der <persName key="ed_ajb_mly_bz">Königin-Mutter</persName>
+                    gemacht, die am 28. Juni verstarb. Am Folgetag begab er sich nach <placeName key="ed_m3r_wgq_rdb">Monbijou</placeName>, wo die Dienstboten über ihre
+                    Zukunft in Sorge waren. Noch immer gab es keine Anordnung wegen der Beisetzung.
+                    Am 30. Juni ließ ihn Prinzessin <persName key="ed_x11_dgn_fz">Amalie</persName>
+                    auffordern, <quote>mit sieben anderen Kammerherren die Leiche der Königin zu
+                        tragen.</quote> Daraufhin ging er zur <persName key="ed_bwq_lzl_2y">Königin</persName> - <quote>der einzigen, die wir jetzt haben, die uns
+                        niemals die Entschlafene vergessen lassen wird, wiewohl sie glaubt, die
+                        beste zu sein</quote>, um sie um die Erlaubnis zum Tragen der Leiche zu
+                    bitten, worüber sie in Wut geriet und ihn angeschrien habe, dass sie es ihm habe
+                    befehlen wollen, er müsse nicht darum bitten. Lehndorff habe sie darauf
+                    verwiesen, dass sie es <quote>mit Leuten von Stande zu tun</quote> habe,
+                        <quote>mit denen man gewöhnlich in vornehmerer Art verkehrt</quote>. - Sie
+                    sei eine gute Frau, passe aber nicht als Gemahlin des <quote>größten, des
+                        schätzenswertesten und liebenswürdigsten der Könige</quote>, denn sie besäße
+                        <quote>gar keine Würde, keine Unterhaltungsgabe</quote>, sei <quote>redselig
+                        mehr als nötig</quote>, heftig, fühle sich nur unter ihren Kammerfrauen
+                    wohl, sei unsicher gegenüber Standespersonen, hochmütig gegen geringere,
+                    unterwürfig gegenüber dem König Nahestehenden. - Als weitere traurige Nachricht
+                    erreichte ihn ein Brief der <persName key="ed_q4s_xyl_2y">Mutter</persName>,
+                        <quote>dass alles sich mit Hab und Gut flüchtet, um den Herren Russen aus
+                        dem Weg zu gehen</quote>, sowie Nachrichten von den Kriegsschauplätzen. - In
+                    den folgenden Tagen offenbarten sich Zwietracht und Rangstreitigkeiten. - Am 30.
+                    Juli antwortete Lehndorff auf einen Brief der <persName key="ed_q4s_xyl_2y">Mutter</persName>. <quote>Mein Herz blutet, wenn ich an all die Aufregung
+                        denke, denen meine arme Mutter und meine ganze übrige Familie ausgesetzt
+                        sind, da sie von einem Tag zum anderen sich darauf gefasst machen müssen,
+                        von dem Eindringen der Russen in das Herz des Königreichs und von der
+                        Verwüstung ihrer Begüterungen zu hören.</quote>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Giebel, Wieland (Hrsg.), Die Tagebücher des Grafen
+                            Lehndorff. Die geheimen Aufzeichnungen des Kammerherrn der Königin
+                            Elisabeth Christine, Berlin 2007, S. 353 f. </bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1757-06-28" cert="high"/>
+                
+               
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                
+				     <p>Als ich erwache, erhalte ich die betrübendste, traurigste Nachricht. Die <persName key="ed_ajb_mly_bz">Königin-Mutter</persName> ist tot! Die Königin ist nicht
+                mehr! Ein unersetzlicher Verlust! Das königliche Haus, der Adel und das Land werden
+                den Tod dieser Königin niemals genug beklagen können. Sie war gut, mildtätig und
+                besonders sehr gnädig, indem sie die ganze Höflichkeit des früheren Hofes besaß,
+                Würde in ihrer Haltung und Adel in ihrer Gesinnung. <gap reason="insignificant"/>
+         </p>
+                <p>Im Übrigen herrscht große Ratlosigkeit, niemand will eine Verantwortung
+                übernehmen. Die Herren Kabinettsminister, die man gleich hat kommen lassen, um die
+                Siegel anzulegen, wagen aus Furcht, dem Herrn zu missfallen, nichts bezüglich des
+                Begräbnisses anzuordnen, die Prinzessin <persName key="ed_x11_dgn_fz">Amalie</persName> desgleichen. Diese ist übrigens mehr mit dem
+                Trauerzeremoniell beschäftigt als mit ihrem Schmerz, der nach meiner Auffassung sehr
+                groß sein müsste, weil sie die würdigste Mutter verloren hat. Aber schon lange
+                herrschte Kälte zwischen beiden, und man schiebt einen großen Teil der Schuld an der
+                Krankheit dem Ärger zu, der seinen Grund darin hatte, dass die Prinzessin dem König
+                empfahl, der Königin-Mutter nichts mitzuteilen, weil diese kein Geheimnis bewahre.
+                    <gap reason="insignificant"/>
+         </p>
+                <p>Noch etwas regt mich auf; es ist der Umstand, dass die Prinzessin Amalie sofort
+                    den alten <persName key="ed_lgn_53h_scb">Pöllnitz</persName> kommen lässt, um die
+                Anordnungen für die Beisetzung der Königin zu treffen, den Mann, den die Verstorbene
+                wegen seiner Laster und wegen seines Abfalls vom Glauben verabscheute, und dem sie
+                seit mehr als sieben Jahren den Hof verboten hatte. Als ich abends zur Königin
+                komme, finde ich alles mit Trauerkleidung beschäftigt; man spricht viel von
+                Drapieren, Empfanghalten und allen möglichen Förmlichkeiten, aber nur wenig von der
+                Entschlafenen. So ist die Welt.</p>
+			
+            
+        </body>
+    </text>
+</TEI>

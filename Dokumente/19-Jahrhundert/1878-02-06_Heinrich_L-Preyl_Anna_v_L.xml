@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_cby_g5m_2db">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich (Heinz) Graf von Lehndorff an Carl Meinhard Graf von Lehndorff.
+                    Berlin, 6. Februar 1878</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_cby_g5m_2db</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 367, Bl. 248-250</idno>
+                    </msIdentifier>
+                 
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_nml_dw2_cy">Lehndorff, Heinrich Graf von (Königsberg
+                        1.4.1829-Preyl 24.4.1905)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1878-02-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/367/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>B 6 2 78</dateline>
+                    <salute>Mein altes Carlchen</salute>
+                </opener>
+                <p>Eben sah ich den <persName key="ed_lwx_y32_cy">König</persName>, der höchst
+                    imponiert und vergnügt über Deinen Karpfen war. Er hatte ihn in der Küche wiegen
+                    lassen und befohlen, Er wolle von der einen Seite etwas essen, der Fisch aber
+                    solle dann als Paradestück auf dem Büffet zum Palaisball am Donnerstag
+                    erscheinen. Er hat uns das alles selbst erzählt und mich beauftragt, Euch
+                    herzlich zu danken und seine Freude und Verwunderung über das seltene
+                    Mauersee-Produkt auszusprechen.</p>
+                <p>Der Coup ist somit in höchstem Grade gelungen und der Platz auf dem Büffet, das
+                    der Herr immer mit großer Vorliebe selbst inspiziert, wirklich eine große Ehre
+                    und sehr günstige <gap reason="illegible"/>, der Zeit nach. Das Ganze amüsiert
+                    mich sehr und Euch hoffentlich noch viel mehr.</p>
+                <p>Krueger habe ich besucht, verfehlt, und ihm dann wegen Schmidt geschrieben, so
+                    klug ich wusste - hoffentlich hilft es.</p>
+                <p>
+               <persName key="ed_sjx_pfm_2y">Georgs</persName> sind mit <persName key="ed_ucl_jlt_zdb">Paula</persName> und <persName key="ed_u4w_m1t_2y">Nancy</persName> hier, und ganz zufrieden. <gap reason="insignificant"/>
+                </p>
+                <closer>
+                    <salute>Grüße alle herzlich von Deinem alten</salute>
+                    <signed>Heinz</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>Die Geschichte mit dem Radziwillschen Brief schadet gar nichts, und ließ sich
+                    leicht hier ausgleichen - <seg type="comment">
+                  <orig>er</orig>
+                  <note xml:id="nm4x_yww_f2b">Anton von <persName key="ed_msp_bxw_f2b">Radziwill</persName>, Vertrauter <persName key="ed_lwx_y32_cy">Wilhelms I.</persName>
+                  </note>
+               </seg>
+               <persName key="ed_lwx_y32_cy"> </persName>ist übrigens nach <placeName key="ed_iky_35l_cz">Russland</placeName>, ohne mich zur Begleitung aufgefordert zu haben, aus
+                    mir unerfindlichen Gründen. <gap reason="insignificant"/>
+                </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

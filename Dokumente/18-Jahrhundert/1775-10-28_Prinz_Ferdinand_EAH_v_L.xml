@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ijr_rql_cz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prinz Ferdinand von Preußen an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Berlin, 28. Oktober 1775</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ijr_rql_cz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Repräsentation/Geselligkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Leben am Hof</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                  <bibl type="print">Meusel, Friedrich, Prinz Ferdinand von Preußen, der
+                            jüngste Bruder Friedrichs des Großen, in seinen Briefen an den Grafen
+                            Lehndorff (1750–1804), in: Masovia 11 (1906), S. 118-154, hier S. 147
+                            f.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mn5_svg_hy">Preußen, Ferdinand Prinz von
+                        (1730-1813)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1775-10-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <profileDesc>
+            <correspDesc>
+                <note>Vgl. die Anmerkung zum Brief des Prinzen an Lehndorff vom <ref target="lehndorff_kx2_1s3_tcb">3. August 1750</ref>. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 28. Oktober 1775</dateline>
+                    <gap reason="insignificant"/>
+            </opener>
+            <p> Der Entschluss, den Sie gefasst haben, den <rs type="term" key="ed_wzd_r34_dz">Hof</rs> zu
+                    verlassen, verursacht mir einen recht großen Kummer, da allem Anschein nach er
+                    mich des Vorteils berauben wird, sich so oft wiederzusehen, was mir jederzeit
+                    eine rechte Freude bereitet hat, da ich mich stets in Ihrer Gesellschaft
+                    wohlgefühlt habe. Ich finde jedoch, dass Sie klug gehandelt haben, indem Sie
+                    sich zurückzogen. <seg type="comment">
+                  <orig>Sie haben schöne Besitzungen, die
+                            Ihre Anwesenheit erfordern, gute Nachbarschaft in Ihrer Umgebung,
+                                <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                  </orig>
+                  <note xml:id="ngkw_ltl_cz">Lehndorff besaß in Königsberg ebenso wie in Berlin
+                            (Hinter dem Neuen Packhof) ein Haus.</note>
+               </seg>, wo Sie gute
+                    Gesellschaft finden und sich von Zeit zu Zeit hinbegeben können, um sich für das
+                    einsame Landleben zu entschädigen. Alles das wiegt die Stelle wohl auf, die Sie
+                    verlassen, und mit der viel Unbequemlichkeit verbunden war, ohne irgendwelche
+                    Aussicht, in eine glänzendere Stellung zu gelangen. <gap reason="insignificant"/> Außerdem sind Sie sicher, allen Ihren Freunden stets willkommen zu sein. Ich
+                    hoffe, zu dieser Zahl zu gehören, da <seg type="comment">
+                  <orig>seit 29
+                            Jahren</orig>
+                  <note xml:id="nsxh_ptl_cz">Also seit 1746. Die Briefe, die
+                            Meusel einsehen konnte, beginnen mit dem Jahr 1750.</note>
+               </seg>,
+                    während wir uns kennen, ich diese Empfindungen nie verleugnet habe. </p>
+            <p>Seit Ihrer Abreise habe ich mehrere Ausflüge nach <placeName key="ed_uxr_bxq_bz">Ruppin</placeName>, <placeName key="ed_vgy_q21_hy">Rheinsberg</placeName>,
+                        <placeName key="ed_xjc_ttl_cz">Brandenburg</placeName>, auf <seg type="comment">
+                  <orig>die Besitzungen der Prinzessin,</orig>
+                  <note xml:id="nc3w_vtl_cz">seiner Gemahlin <persName key="ed_xfg_b5l_cz">Elisabeth Luise</persName> in der Neumark</note>
+               </seg> in die
+                    Umgebung von <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> und selbst
+                    nach <placeName key="ed_kzc_bsy_bz">Schwedt</placeName> gemacht. Der Aufenthalt
+                    der Prinzessinnen in <placeName key="ed_xrv_gwb_by">Berlin</placeName> hat mich
+                    zwei Monate dort zurückgehalten. <note type="editorial">Obwohl er sehr gern auf
+                        dem Lande lebe, bedaure er das nicht. Die Gartenanlagen in <placeName key="ed_jjq_zlg_hy">Friedrichsfelde</placeName> seien inzwischen durch
+                        die Verbindung der drei schon vorhandenen Kanäle durch einen großen vierten
+                        verschönert worden, außerdem habe er viele exotische Bäume und Pflanzen
+                        anpflanzen lassen. </note>
+                </p>
+            <p>Wahrscheinlich werden Sie meinen <persName key="ed_nvx_wcz_bz">Bruder</persName> auf Ihren Gütern
+                    sehen, wenn er dort durchkommt, <seg type="comment">
+                  <orig>um sich nach
+                                <placeName key="ed_iky_35l_cz">Russland</placeName> zu begeben, aber
+                            wann wird das sein?</orig>
+                  <note xml:id="nn45_k5l_cz">Die Reise des
+                            Prinzen Heinrich an den russischen Hof zur Festigung der
+                            preußisch-russischen Beziehungen fand im Frühjahr 1776 statt.
+                        </note>
+               </seg> Ich würde in großer Verlegenheit sein, Ihnen das anzugeben.
+                        <gap reason="insignificant"/> Ich denke, dass Sie betroffen waren bei der
+                    Nachricht von den rasch einander folgenden Todesfällen in <placeName key="ed_xrv_gwb_by">Berlin</placeName>, man zählt seit vergangenem Winter
+                    von denen, welche oft den Hof besuchten, siebzehn Personen weniger in Berlin,
+                    die noch nicht ersetzt sind; unter uns gesagt, unsere Hauptstadt sieht sehr nach
+                    einer Provinzstadt aus, und nach dem, was man mir von <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> erzählt hat, glaube ich, dass
+                    dieses mehr das Aussehen einer Residenz hat, obwohl es keine dort gibt, als
+                    Berlin, wo der Hof sich befindet. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Das <orgName key="ed_tgd_qyv_mbb">Lustspielhaus</orgName> ist
+                            vollendet, Schauspieler sind angekommen; diejenigen, welche auf la Porte
+                            angewiesen sind, sterben vor Hunger und stöhnen vor Elend, da man keine
+                            Vorstellung gibt. <gap reason="insignificant"/> Die Schauspieler, welche
+                            der König bezahlt, sind schlecht, und es ist schmählich, wie der Schelm
+                                <gap reason="insignificant"/> ihn betrogen hat. </orig>
+                  <note xml:id="nmp1_rpt_scb">Der Bau des französischen Komödienhauses auf dem
+                            Gensdarmenmarkt war 1774 begonnen worden. Den Bau finanzierte der König.
+                            Die ersten Vorstellungen wurden im April 1776 gegeben. Im Theater
+                            spielten französische Schauspieler. </note>
+               </seg>
+            </p>
+            <p>Man teilt mir aus <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                        mit, dass der Arzt <persName key="ed_o1q_wyv_mbb">Pallas</persName> gestern
+                        in aller Eile nach <placeName key="ed_kzc_bsy_bz">Schwedt</placeName>
+                        berufen ist, zum Markgrafen <persName key="ed_bkd_4vl_cz">Heinrich</persName>, der sehr krank sein soll. <gap reason="insignificant"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_qcj_35h_cdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Hosäus an Anna Gräfin von Lehndorff. Dessau, 16. September 1874</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_qcj_35h_cdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Herkunft/Genealogie</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 317, Bl. 94-95v</idno>
+                    </msIdentifier>
+                     
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_mbm_gvn_my">Hosäus, Wilhelm (1827-1900)</persName>
+                    <placeName key="ed_xf5_pb4_my">Dessau</placeName>
+                    <date when="1874-09-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://szukajwarchiwach.pl/42/382/0/4/317/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Dessau, den 16. September 1874</dateline>
+					          <salute>Hochverehrteste, gnädigste Frau Gräfin!</salute>
+                </opener>
+				        <p>Veranlassung zu gegenwärtigen Zeilen bieten mir einige Funde, welche mein verehrter Freund
+                        <persName key="ed_jyv_2xp_f2b">Baron von Brucken-Fock</persName> - <seg type="comment">
+                  <orig>ein Seitenverwandter jenes „Fock‟, der eine Gräfin
+                            Lehndorff heiratete,</orig>
+                  <note xml:id="naxp_ngr_ddb">Siehe in: APO,
+                            Bestand 382 FA Lehndorff, Nr. 332, Bl. 25-26v einen Brief dieser Julie
+                                <persName key="ed_cxp_rcg_hy">Fock</persName>, Statzen, 19. Oktober
+                            1823, an <persName key="ed_k4z_jgl_2y">Carl Friedrich Ludwig Graf von
+                                Lehndorff</persName>. </note>
+               </seg> aber zweifellos ein solider
+                    Charakter - bei seiner letzten Anwesenheit in seiner Heimat (<placeName key="ed_db5_nxp_f2b">Middelburg</placeName> in Zeeland) über die
+                    Verhältnisse des Oberburggrafen <persName key="ed_zyw_ncf_2y">Ahasverus von
+                        Lehndorff </persName>während seines holländischen Dienstes gemacht hat. <seg type="comment">
+                  <orig>Herr von Fock hat die Bestallungs-Urkunde des Ahasverus
+                            v. L. als Oberst kopiert, die ich Ihnen jedoch nicht abschreibe, da ich
+                            vermute, dass Sie sie unter den Aktenstücken in holländischer Sprache
+                            schon besitzen. Sollte letzteres nicht der Fall sein, so steht sie Ihnen
+                            jederzeit zur Verfügung. Sie ist datiert „Gravenhagen, d. 6. Febr.
+                            1674‟. Außerdem teilt mir Fock mit, dass Ahasverus v. L. noch 3 mal
+                            erwähnt wird im „Witten Register mette Letters N. N. van de Commissin
+                            Instructies Bedieningen pp vans Lant Officieren ende Comptabeln ter
+                            Rekenkamer van Zeelant etc. etc.‟; im Provinzialarchiv und in den
+                            Ordonanz-Boeken oder Zahlungsregistern der Provinz Seeland. </orig>
+                  <note xml:id="nsmr_g5h_jfb">Im niederländischen <ref target="https://www.archivesportaleurope.net/de/ead-display/-/ead/pl/aicode/NL-UtHUA/type/fa/id/69/dbid/C411468353/search/0/Lehndorff">Het Utrechts Archief </ref> sowie im <ref target="https://www.archivesportaleurope.net/de/ead-display/-/ead/pl/aicode/NL-HaNA/type/fa/id/3.01.18/dbid/C373239781/search/0/Lehndorff">Nationaal Archief </ref> lassen sich Dokumente für Ahasverus von
+                            Lehndorff nachweisen.</note>
+                    </seg>Entsprechende offizielle und einfache Kopien mit oder ohne Stempel stehen
+                    dort stets zur Disposition, doch glaube ich kaum, dass sie uns jetzt etwas
+                    Wichtiges bringen würden. In einer dieser Akten, welche Fock eingesehen hat,
+                    wird das Reg. A. v. L. als „Regiment Chourlanders‟ (Kurländer) bezeichnet.
+                    Ferner wird in diesem Regiment ein „Capitain Fredericus Vrieselen (sic!) van
+                    Lehndorff‟ genannt. Im „Biograph. Wooerdenbock v. a. Aa, Dat. 1869‟ wie in
+                    „Neerlands Heldentaden te Land v. Poscha D. II <gap reason="illegible"/>Bl. 6‟
+                    wird Ahasv. v. L. gleichfalls erwähnt. <note type="editorial">Es folgt ein
+                        längeres Zitat.</note> - <seg type="comment">
+                  <orig>Fock, der seit etwa einem
+                            Jahr in <placeName key="ed_xf5_pb4_my">Dessau</placeName> lebt, ist Dr.
+                            juris, beschäftigt sich passioniert mit Biographien, Genealogie und
+                            Heraldik, ist mit einer Dame aus <placeName key="ed_y5t_jsq_rdb">Stralsund</placeName> verheiratet </orig>
+                  <note xml:id="nt4d_cvh_jfb">Der aus Middelburg (Holland) gebürtige
+                            Brucken-Fock hatte am 12. Oktober 1871 in <placeName key="ed_y5t_jsq_rdb">Stralsund</placeName> die Rechtsanwaltstochter
+                                <persName key="ed_frw_4qx_mfb">Anna Wilhelmine Schwing
+                            </persName>geheiratet. Zu diesem Zeitpunkt wohnte er in Berlin und hatte
+                            auch die preußische Staatsbürgerschaft angenommen. Nach dem Tod der
+                            Ehefrau am 6. Februar 1886 kehrte Brucken-Fock in die Niederlande
+                            zurück; hier verstarb er am 26. März 1910 in Vlissingen (Zeeland). Im
+                            Stadtarchiv Stralsund konnten zwei Lehndorff-Briefe nachgewiesen werden,
+                            Dokument vom <ref target="lehndorff_ejz_hwh_jfb">3. April 1794</ref> und
+                            vom <ref target="lehndorff_kqk_bxh_jfb">6. Juli 1794</ref>.
+                        </note>
+               </seg>und finanziell, wie es scheint, gut arrangiert. Sein Vater war
+                    Präsident der Provinz Sedan und ist vor etwa 2-3 Monaten in der Schweiz
+                    gestorben. Sollten Sie Interesse haben, seine Dienste in irgendwelcher Weise bei
+                    Ihren historischen Untersuchungen zu benutzen, so kann ich ihn Ihnen durchaus
+                    empfehlen, schon von den Frage her, die wohl bisweilen (vielleicht aber nur
+                    mittelbar) von Ihnen an die Genealogische und heraldische Gesellschaft, deren
+                    Mitglied er ist, gelangt sind. Wie er mir sagt, hat er noch mancherlei
+                    Schriftstücke, die Sie interessieren würden, und die er Ihnen gern zuschicken
+                    möchte.</p>
+                <p>Aus meiner beabsichtigten Reise nach <placeName key="ed_yps_bwn_my">Basedow</placeName> ist nun doch nichts geworden, da mein letzter Brief, in
+                    dem ich um Bestimmung einer Zeit bat, unbeantwortet geblieben ist. Ich bin
+                    dadurch leider nun ganz um eine Sommerreise gekommen, die mir auch eigentlich
+                    Not getan hätte - aber es mag durchaus sein Gutes gehabt haben. <gap reason="insignificant"/>
+            </p>
+				        <closer>
+					          <salute>Ew. Hochgeboren untertänigster Diener</salute>
+					          <signed>W. Hosäus</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

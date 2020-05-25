@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_g4f_gfg_j1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Promemoria. 1811</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_g4f_gfg_j1b</idno>
+            </idno>
+         </publicationStmt>
+           
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Finanzen</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="editorial">
+                    <p>Vgl.  LASA, StA L, Bestand 21950 FA Lehndorff, Nr. 37: Fragen zum Erbrecht
+                        (undat., Ende 18. Jahrhundert) sowie den Erbteilungsplan vom 30. Mai 1813,
+                        in: GStA PK, XX. HA Guts- und Familienarchiv Lehndorff, Nr. 10, mit einer
+                        ausführlichen Bestandsaufnahme über den taxierten und tatsächlichen Wert der
+                        Lehndorffschen Güter aus Anlass der Erbteilung, und Nr. 771 (1815); den
+                        Lehnvergleich zwischen Carl Friedrich Ludwig Graf von Lehndorff mit den
+                        Familien Lehndorff und Dönhoff 1815-1821 Nr. 772, den Erbteilungsrezess des
+                        Lehns- und Allodial-Nachlasses sowie über das Barvermögen Nr. 37 (1854). Die
+                        zugehörigen Verhandlungen und Verzeichnisse von Besitz und Vermögen in Nr.
+                        38; zur Besteuerung des Vermögens Nr. 659 (1811/12).</p>
+                </note>
+            </notesStmt>
+          
+          
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 10, n. f.</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Liegt in einem Umschlag: Die Auseinandersetzung der Erben des am 19. Mai
+                            1811 verstorbenen Landhofmeisters Grafen Ahasverus Heinrich v. Lehndorff
+                            durch den Vergleich vom 30. März 1813.</p>
+                    </physDesc>  
+                  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1811-01-01" notAfter="1811-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+               <hi rendition="#u">Promemoria</hi>
+                </p>
+                <p>Das Vermögen Sr. Exzellenz des Herrn Landhofmeisters <persName key="ed_k4z_jgl_2y">Grafen von Lehndorff</persName> besteht<list>
+                        <item>1. in Allodium</item>
+                        <item>2. in Lehn.</item>
+                    </list>
+            </p>
+                <p>Das erste Geschäft der künftigen Erbteilung ist daher die <hi rendition="#u">Absonderung des Lehns- und Allodialvermögen</hi>s, und die nächste Frage
+                    also: </p>
+            <p>Was Lehn sei?</p>
+                <p>Nach den Privilegien des <seg type="comment">
+                  <orig>Herrn <persName key="ed_kpr_rhp_vcb">Markgrafen Albrecht</persName> vom 6. April
+                            1554 </orig>
+                  <note xml:id="nlvh_z3p_vcb">Herzog Albrecht verschrieb den
+                            Brüdern Caspar, Fabian und Melchior von Lehndorff anstelle der abhanden
+                            gekommenen Handfeste 120 Hufen in der Steinortschen Wildnis samt dem
+                            halben Dorf Taberlack zu Magdeburger Recht und beider Kinder Recht sowie
+                            die großen und kleinen Gerichte. Da die Wildnis wüst war, erhielten sie
+                            20 Freijahre. Im Haushaltsbuch des Kämmerers Kaspers von Nostiz (1578)
+                            ist die Geschichte der drei Brüder Lehndorff beschrieben: Kasper von
+                            Nostiz, Haushaltungsbuch des Fürstenthums Preussen 1578, S. 195 ff., 250
+                            ff., 350. Siehe auch: Grigat, Fritz, Besiedlung des Mauerseegebiets im
+                            Rahmen der Kolonisation Ostpreußens, Königsberg 1931 (Heimatforschung
+                            aus Ostpreußens Mauerseegebiet, 4). </note>
+               </seg>und des <seg type="comment">
+                  <orig>Herren <persName key="ed_vlm_b3p_vcb">Markgrafen
+                                Albrecht Friedrich</persName> vom 20. August 1572</orig>
+                  <note xml:id="nrrk_hjp_vcb">Diese vierte Verschreibung umfasste eine
+                            Erweiterung um Fischereigerechtigkeit und 2 Hufen Wiesen. Anzumerken
+                            ist, das bei allen Verschreibungen später entdecktes Übermaßland an das
+                            Lehn fallen sollte. - Zwischen beiden Verschreibungen lagen folgende:
+                            29. Mai 1565: Erweiterung, in der das Dorf Labab genannt wurde; 28. Mai
+                            1570: Verschreibung über eine Erweiterung, in der der Hof Steinort und
+                            die Dörfer Stawisken, Klein Mauer (Stobben) und Groß Mauer (Kittlitz)
+                            genannt wurden. Vgl. Pfeiffer, Erich, Der Kreis Angerburg, Rothenburg
+                            (Wümme) 1973, S.52 ff. </note>
+               </seg> sind die <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Güter der von Lehndorffschen
+                    Familie zu </p>
+            <p>
+               <hi rendition="#u">Magdeburgischem
+                        Recht und beiden Kindern</hi>
+            </p>
+            <p>verliehen.</p>
+                <p>Die Lehns Qualität dieser Güter ist daher ohne alles Bedenken dahin anzunehmen:
+                    </p>
+            <p>dass die beiden Herren Söhne die Lehnssukzession mit gleichem Recht erhalten und der Frau
+                    Schwester den siebenten Teil des Wertes der Güter als Lehnspfennig
+                    auszahlen.</p>
+                <p>Was zu den Steinortschen Güter gehört, müssen die Lehnsbriefe de 1554 und 1572
+                    ergeben. Nach selbigen bestehen die Güter</p>
+                <list type="ordered">
+                    <item>in der Steinortschen Wildnis von 120 Huben mit dem Hofe <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               </item>
+                    <item>in dem Dorfe <placeName key="ed_xpm_112_gy">Labab</placeName>
+               </item>
+                    <item>in dem Dorfe Teiche</item>
+                    <item>in dem Dorfe <seg type="comment">
+                     <orig>Klein Mauer</orig>
+                     <note xml:id="ne5h_q3p_vcb">
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                     </note>
+                  </seg>
+               </item>
+                    <item>in dem Dorfe <seg type="comment">
+                     <orig>Groß Mauer</orig>
+                     <note xml:id="nwq2_53p_vcb">
+                        <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                     </note>
+                  </seg>
+               </item>
+                    <item>in dem Dorfe <seg type="comment">
+                     <orig>Taberlaucken</orig>
+                     <note xml:id="nizn_l1y_4kb">
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </note>
+                  </seg> von 452 Hufen</item>
+                    <item>in den Seen Wagepira und Klein Mauer mit den daran stoßenden
+                        Seeenden.</item>
+                </list>
+                <p/>
+                <p>Es versteht sich von selbst, dass die seit 1672 etwa abgebauten Vorwerke und
+                    Dörfer, welche in den Lehnsbriefen nicht genannt sind, demnach als Lehn
+                    angenommen werden müssen, weil sie zu dem Lehnsfundus gehören</p>
+                <p>Was aber seit 1572 zugekauft und worüber für die v. Lehndorffsche Familie kein
+                    Lehnsbrief erteilt worden ist, bleibt zum Allodial-Nachlass.</p>
+                <p>Sind nun die Güter ausgemittelt, welche Lehn sind, so fragt sich weiter? </p>
+            <p>
+               <hi rendition="#u">Was</hi> in den Gütern Lehn ist?</p>
+                <p>Dieses sind bloß die Huben und die Gebäude.<list>
+                        <item>1. Der <hi rendition="#u">ganze Besatz</hi> der Vorwerke sowohl als
+                            der Dörfer gehört, da die Güter Magdeburgische Lehn sind, zum Allodio;
+                            die Lehnsfolger haben aber das Recht, ihn für den abzuschätzenden Wert
+                            anzunehmen. <lb/>Nur das, was eingemauert, niet- und nagelfest ist,
+                            gehört zum Lehn. <note place="right" hand="#author">Zusatz 51. Preuß.
+                                Provinzial-Recht</note>
+                            <lb/>In Ansehung der Gebäude findet nur die einzige Ausnahme statt:
+                            dass, wenn Sr. Exzellenz der Herr Landhofmeister etwa ein neues Wohnhaus
+                            für sich selbst erbaut hätte, der abzuschätzenden Wert desselben von den
+                            Herren Lehnsfolgern dem Allodial Nachlass bezahlt werden muss. <note place="right" hand="#author"> § 3 Zusatz 44 u. Zusatz 53 Preuß.
+                                Provinzial-Recht</note>
+                            <lb/>Auf alle übrigen Gebäude wird keine Rücksicht genommen.</item>
+                    </list>
+            </p>
+            <p>
+                    <list>
+                        <item>2. Außer dem Besatz und dem Wert des etwa neu erbauten
+                            herrschaftlichen Wohnhauses hat das Lehn dem Allodial-Nachlass noch zu
+                            vergüten: <lb/>Die <hi rendition="#u">Veräußerungen</hi> des Lehns <note place="right" hand="#author">§ 2 Zusatz 53 Preuß.
+                                Provinzial-Recht</note>
+                            <lb/>Dahin gehören:</item>
+                        <item>
+                            <list>
+                                <item>a) bezahlte Lehnsschulden, wenn der Herr Erblasser diese auf
+                                    dem Lehn gehafteten Schulden im Hypothekenbuche nicht hat
+                                    löschen lassen</item>
+                                <item>b) Meliorationen in den Gütern selbst durch Rodungen, Graben
+                                    und dergl. §§ 204 Tit. VII P. 1 Landrecht</item>
+                                <item>c) Anlauf von Pertinenzen als Krügen, Mühlen u. dergl. welche
+                                    nicht zu dem Allodio zu rechnen sind. <note place="right" hand="#author">§§ 204 Tit. VII P. 1 Landrecht</note>
+                                    <lb/>Hierüber lässt sich für jetzt nichts Spezielles sagen. Die
+                                    Auseinandersetzung mit der Frau Landhofmeisterin Exzellenz in
+                                    Ansehung Ihrer aus dem Lehn und Allodio zu befriedigenden
+                                    Ansprüche muss das Ehepaktum ergeben. </item>
+                            </list>
+                        </item>
+                        <item>3. Kommen dem Allodial-Nachlass zu gut. <lb/>Die Nutzungen der letzten
+                            Jahre<lb/>Wie diese auszumitteln sind, ist in den Gesetzen deutlich
+                            vorgeschrieben. <note place="right" hand="#author">49. Zusatz des Preuß.
+                                Provinzial-Rechts</note>
+                            <lb/>Auch die Auseinandersetzung zwischen den Lehnsfolgern und der
+                            Schwester in Ansehung des <seg type="comment">
+                        <orig>
+                           <hi rendition="#u">Lehnspfennigs</hi>
+                        </orig>
+                        <note xml:id="ned1_2fy_y2b">Vgl.
+                                    GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 16.
+                                    Demzufolge wurde der auf den Gütern in Steinort liegende
+                                    Lehnspfennig der Grafen von Dönhoff auf Friedrichstein in ein
+                                    Pfandbriefkapital umgewandelt.</note>
+                     </seg>. Die Frau Schwester
+                            erhält hier den 7. Teil des Werts der Lehngüter<note place="right" hand="#author"> § 9 Zusatz 48 Pr. Provinzial-Recht</note>
+                            <lb/>welchen, wenn keine sonstige Übereinkunft getroffen werden kann,
+                            durch eine landschaftliche Taxe, in der jedoch die jährlichen Einkünfte
+                            a 6 Pr. zum Kapital gerechnet werden, ausgemittelt wird.<note place="right" hand="#author"> § 1 Zusatz 44 Pr.
+                                Provinzial-Recht</note> Es versteht sich von selbst, dass von dem
+                            Wert des Lehns zwar in Abzug kommen</item>
+                        <item>
+                            <p/>
+                            <list>
+                                <item>a) der Betrag des Güterbesatzes,</item>
+                                <item>b) die etwa stattfindenden Verbesserungen,</item>
+                            </list>
+                        </item>
+                        <item>weil a und b. dem Allodialnachlass bezahlt werden müssen</item>
+                        <item>
+                            <list>
+                                <item>c) die etwaigen Lehnsschulden.</item>
+                            </list>
+                        </item>
+                        <item>Z. B. der Wert des Lehns wäre auf 100.000 Rt. ausgemittelt, so gehe
+                            ab</item>
+                        <item>
+                            <list>
+                                <item>a) der Wert des Besatzes, der auf 10.000 Rtlr. ausgemittelt
+                                    wird</item>
+                                <item>b) es sei auf Urbarmachung einer Wiese ein Kapital von 1.000
+                                    verwendet</item>
+                                <item>c) es sei eine Lehnschuld von 4.000 eingetragen, es gehen also
+                                    überhaupt 15.000 Rtlr. ab, und dem reinen Wert des Lehns bleibt
+                                    85.000 Rtlr. <lb/>wovon die Frau Schwester 1/7 mit 12.142 Rtlr.
+                                    erhält.</item>
+                            </list>
+                            <p/>
+                            <p> Das Allodial-Vermögen wird unter Brüdern und Schwestern gleich
+                                geteilt, doch, was die zum Allodio gehörenden Landgüter betrifft,
+                                mit der Modifikation, dass die Brüder das Recht haben, die Güter für
+                                den abzuschätzenden Wert (den Ertrag a 6 Prozent zum Kapital
+                                gerechnet) anzunehmen, und<seg type="comment">
+                           <orig> die Schwester
+                                        mit Geld abzufinden. </orig>
+                           <note xml:id="nwnv_3y2_bfb">Dies
+                                        war bereits 1777 geschehen. Lehndorffs Schwestern Podewils
+                                        und Schlieben waren aus dem mütterlichen Erbe  für sich und
+                                        ihre Kinder mit hohen Geldzahlungen abgefunden worden, vgl.
+                                        GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                                        13, die Dokumente des Vergleich mit den Geschwistern ebd.,
+                                        Nr. 6. Lehndorffs Ehefrau hatte ihm die Gelder
+                                        vorgeschossen. </note>
+                        </seg>
+                                <note place="right" hand="#author">Zusatz 30. Preuß. Prov.
+                                    Recht</note>
+                     </p>
+                        </item>
+                    </list>
+                </p>
+            <p>
+               <persName key="ed_ohq_pgr_gbb">Stegemann</persName>
+            </p>
+            </div>
+        </body>
+    </text>
+</TEI>

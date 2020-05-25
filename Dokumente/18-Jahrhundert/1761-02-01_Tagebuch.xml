@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="document"
+     xml:id="lehndorff_tjz_gqr_rdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Februar bis September
+                    1761</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail_doc.xql?id=lehndorff_tjz_gqr_rdb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Giebel, Wieland (Hrsg.), Die
+                                Tagebücher des Grafen Lehndorff. Die geheimen Aufzeichnungen des
+                                Kammerherrn der Königin Elisabeth Christine, Berlin 2007, S.
+                            476 ff.; Schmidt-Lötzen, Eduard, Dreißig Jahre am Hof Friedrichs des
+                            Großen ... Nachträge, Bd. 1, Gotha 1910, S. 294 ff.</bibl>
+               </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                    <date notBefore="1761-02-01" notAfter="1761-09-05" cert="high"/>
+                
+            </creation>
+            <abstract>
+                <p>Den Februar und März hatte Lehndorff in <placeName key="ed_xrv_gwb_by">Berlin</placeName> mit seiner Frau verbracht. Seit März wurden die
+                    Kriegsvorbereitungen mit <quote>größerem Eifer betrieben</quote>, so dass die
+                    Hoffnung, der Hof werde nach Berlin zurückkehren, schwand. Im Juni macht er eine
+                    Reise nach <placeName key="ed_xpm_qwr_rdb">Quedlinburg</placeName>, durch den
+                    Harz und an den Hof des <persName key="ed_ofr_z43_tdb">Grafen
+                        Stolberg</persName> in <placeName key="ed_mcs_swr_rdb">Wernigerode</placeName>, wo er sich letztmals 1744 aufgehalten hatte. In
+                        <placeName key="ed_x12_5wr_rdb">Halberstadt</placeName> traf er Domdechant
+                        <persName key="ed_y4j_cp3_tdb">Spiegel</persName>, bevor er nach <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> zurückkehrte. Am 1. August reiste
+                    er im Auftrag der <persName key="ed_bwq_lzl_2y">Königin</persName>
+                    <quote>mit halb Berlin</quote> wegen der <seg type="comment">
+                  <orig>Vermählung
+                            der jüngsten Prinzessin von Mecklenburg-Strelitz mit dem König von
+                            England</orig>
+                  <note xml:id="nawc_hrs_52b">
+                     <ref target="https://de.wikipedia.org/wiki/Sophie_Charlotte_von_Mecklenburg-Strelitz#K%C3%B6nigin">Sophie Charlotte Prinzessin von Mecklenburg Strelitz</ref>
+                            heiratete am 8. September 1761 König <persName key="ed_a1y_1qk_w2b">Georg III. von Großbritannien</persName>. </note>
+               </seg> am 1.
+                    August 1761 nach <placeName key="ed_nd1_xwr_rdb">Perleberg</placeName> und
+                    weiter nach <placeName key="ed_rqx_tnz_2y">Hamburg</placeName> und <placeName key="ed_nst_ywr_rdb">Stade</placeName>, wo die Einschiffung der Königin
+                    stattfinden sollte. Dabei begegnete er in Perleberg zahlreichen
+                        <quote>Landpomeranzen</quote> und dem <quote>Provinzadel</quote>, über die
+                    sich der hof-erfahrene Graf amüsierte. In Hamburg lernte er zahlreiche Engländer
+                    kennen und soupierte mit wohlhabenden Kaufleuten, darunter <quote>einem reichen
+                        Kaufmann namens <persName key="ed_erx_gp3_tdb">Silm</persName>
+               </quote> und
+                    mit dem <quote>reichen <persName key="ed_fhp_3p3_tdb">Schimmelmann</persName>
+               </quote> - vor dem Krieg bankrott und jetzt
+                        <quote>über Millionen</quote> verfügend. <quote>In dieser Stadt muss man mit
+                        den Handeltreibenden verkehren, die alle große und mächtige Herren
+                        sind.</quote> Anfang September kehrte er nach <placeName key="ed_vyr_ys4_cz">Magdeburg</placeName> zurück.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            
+                
+				     <p/>
+				
+            
+        </body>
+    </text>
+</TEI>

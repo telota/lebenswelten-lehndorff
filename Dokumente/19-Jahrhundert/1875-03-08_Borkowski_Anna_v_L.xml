@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_zg2_czb_ycb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johann Carl Borkowski an Anna Gräfin von Lehndorff. Rosengarten, 8. März
+                    1875</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_zg2_czb_ycb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Soziales Engagement</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 576, Bl. 39-39a/v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_myw_dfy_ybb">Borkowski, Johann Carl (-1877)</persName>
+                    <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                    <date when="1875-03-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rosengarten, 8. März 1875</dateline>
+					          <salute>Gnädigste Gräfin!</salute>
+                </opener>
+				        <p>Unter mannigfachen Arbeiten, unter welchen die Schulrevisionen den größten Teil meiner Zeit
+                    in Anspruch nehmen, ward es mir trotz guten Willens nicht möglich, Ihnen für
+                    Paket und Brief meinen gehorsamsten Dank sogleich abzustatten. Sei Ihnen darum
+                    heute von ganzem Herzen gedankt! Die 7 Fragen über <seg type="comment">
+                  <orig>Zivilehe</orig>
+                  <note xml:id="nw54_gqh_jlb">Am 23. Januar 1874
+                            hatte das preußische Abgeordnetenhaus dem „Gesetz zur Einführung der
+                            Zivilehe und zur Beurkundung des Personenstandes“ mehrheitlich
+                            zugestimmt, ein Jahr später wurde das Gesetz  im Deutschen Reich
+                            eingeführt. Auf dem Höhepunkt des Kulturkampfes war damit das Recht der
+                            Kirchen,  Eheschließungen zu vollziehen und zu beurkunden, massiv
+                            beschnitten worden. Eine Ehe war fortan nur rechtsgültig, wenn sie vor
+                            einem Standesbeamten geschlossen wurde. </note>
+               </seg> p. enthalten
+                    bekannte Sachen. Das Gebetbuch hat, man fühlt es ihm an, lauter Herzensgebete
+                    und soll mir beten helfen. Der freundliche Brief aber ist mir das wertvollste
+                    Ihrer Sendung. <gap reason="insignificant"/> es wird, hoffe ich, auch die Zeit
+                    kommen, wo Frau Gräfin davon überzeugt sein wird, <seg type="comment">
+                  <orig>dass
+                            ich ein höheres Interessen am <orgName key="ed_pqq_g4d_gy">Waisenhaus</orgName> habe, als die <persName key="ed_ik4_f4k_ycb">Krafzig</persName> und für sein Gedeihen ungleich herzlichere
+                            Wünsche habe, als <unclear reason="illegible" cert="low">Periche</unclear> oder selbst <gap reason="illegible"/>.</orig>
+                  <note xml:id="ndln_k4k_ycb">Zur Tätigkeit des Waisenhauses
+                            Rosengarten:  APO, Bestand 382 FA Lehndorff, Nr. 595 (Monatsberichte der
+                            Waisenmütter A. <persName key="ed_b2s_355_22b">Alex</persName> und K.
+                                <persName key="ed_ik4_f4k_ycb">Krafzig</persName>,
+                            1872-1892).</note>
+               </seg> Glauben Sie, gnädigste Gräfin, nächst <persName key="ed_xgf_h1g_vdb">Pfeiffer</persName>, der ja sterben möchte, gönnte ich
+                    ihm den Vorrang nicht, will ich in treuester Ergebenheit und aufrichtiger
+                    Verehrung für mein Grafenhaus der Beste sein, und da erquickte es mich denn,
+                    wenn meine Herrschaft gütig gegen mich ist.</p>
+                <p>Die aus den Zeitungen, aus des Herrn <persName key="ed_zkm_whl_2y">Grafen</persName> und aus <persName key="ed_zy1_xcq_dz">Pfeiffers</persName> Munde empfangenen Nachrichten über Ihre <seg type="comment">
+                  <orig>nahen und herrlichen Beziehungen zum Hofe </orig>
+                  <note xml:id="ncdj_rf3_jfb">Im Sommer desselben Jahres hielt sich der Kaiser
+                            in <placeName key="ed_avy_p42_cy">Gastein</placeName> auf, vgl. das
+                            Dokument vom 2. September 1875. Siehe hierzu auch dien Bericht der <ref target="http://zefys.staatsbibliothek-berlin.de/index.php?id=auswahl&amp;no_cache=1&amp;tx_zefyskalender_pi2%5Bdate%5D=1875-07-21&amp;tx_zefyskalender_pi2%5Bzdb%5D=9838247">Provinzial-Correspondenz vom 21. Juli 1875</ref>.</note>
+                    </seg>haben mir wohl Freudentränen in die Augen gebracht, aber doch mischte sich
+                    in unsere Freude das Gefühl, als müssen wir mit stärkerem Anliegen vor den Herrn
+                    treten, dass Er Sie stark mache, die unvermeidlichen Strapazen des Hoflebens zu
+                    ertragen. Er hat es getan und nach den vielen Wochen <seg type="comment">
+                  <orig>Ihres Reiselebens in <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+                        </orig>
+                  <note xml:id="nof4_h5h_2db">Briefe Lehndorffs nach Dresden in: APO,
+                            Bestand 382 FA Lehndorff, Nr. 357. </note>
+               </seg> werden wir unsere Frau
+                    Gräfin gekräftigt hier wieder begrüßen. In dem Befinden unserer lieben verehrten
+                        <persName key="ed_vhr_wjh_cy">Komtess</persName> ist doch auch schon
+                    Besserung eingetreten? <seg type="comment">
+                  <orig>Und <persName key="ed_ik3_ckz_2y">Carl</persName> gedeiht, Gottlob,
+                            auch!?</orig>
+                  <note xml:id="ne2j_vth_2db">Am 5. April 1876 telegrafierte
+                            Lehndorff: Carl sei nicht versetzt, <quote>nach eingeholten Aussichten
+                                sei wahrscheinlich Abgang von der Schule rätlich.</quote> (Bl. 162).
+                        </note>
+               </seg>
+                    <gap reason="insignificant"/>
+            </p>
+                <p>Die Andeutungen des p. <persName key="ed_ewv_5ds_d2b">Moll</persName> bei der
+                    Einführung des <gap reason="illegible"/> scheinen sich zu bewahrheiten. Man geht
+                    damit um, die Konfirmandenstunden in eine Zeit zu verlegen, wo wir sie nicht
+                    halten können. Was wird das werden? Wie wird das enden? Mag der Herr selber
+                    wollen!</p>
+                <p>Im Waisenhaus ist bis auf die Erkrankung der Emma <persName key="ed_jjd_wgq_f2b">Wittenberg</persName>
+                    <gap reason="insignificant"/>, die zu Bette liegt und gut transpiriert, alles
+                    gut. Das Schwein hat sie besser geschlachtet wie das vorige. Die schwarze Kuh
+                    gibt 4 1/2 Liter magere, die andere 7 Liter fette Milch. <gap reason="illegible"/> klagt nicht, die Kinder sind fröhlich. An Kollekten habe ich für das Haus
+                    eingenommen 24. Rtlr. 6 Gr. 5 D., davon 13 Rtlr., 6 Gr., 5 D. auf Wunsch des
+                    Pfeiffer an Waschke gegeben. 10 Rtlr,. hat Herr Graf gezeichnet. 1 Rtlr. <gap reason="illegible"/> und 2 Schfl. Roggen, Werner wird etwas senden, Raabe
+                    auch. W. soll Kartoffeln kaufen, da nur 2 Schfl. Vorrat. Das ist mir nicht ganz
+                    klar, wo die große Scheffelzahl der erbetenen Kartoffeln geblieben sind. Warum,
+                    wenn wir damit nicht auskommen konnten, sind im Herbst keine Kartoffeln gekauft?
+                    - Herr Baron hat uns noch immer nichts geschickt - muss ihn wieder erinnern, da
+                    er vieles vergisst.</p>
+                <p>Die Hochzeit der Baronesse <persName key="ed_zsp_x1f_zgb">Julie</persName> wird
+                    wohl bald nach Ostern statthaben. Wenn Reuter-<gap reason="illegible"/> nichts
+                    dawieder hat, soll ich es machen.</p>
+                <p>Für Ihre große Güte in Betreff der Abendmahlkanne sage ich Ihnen meinen
+                    gehorsamsten Dank. Die Ausgabe von noch 25. Rtlr. ist gar hoch, deshalb wird
+                    noch eine Steingutkanne als Aushilfe gekauft werden.</p>
+                <p>Große herzliche Freude hatten wir am Besuch des Herrn Grafen <persName key="ed_nml_dw2_cy">Heinrich</persName> bei uns. <gap reason="insignificant"/>
+            </p>
+                <p>Das Schaf werde ich kaufen. <persName key="ed_hwn_j15_g2b">Jaski</persName> will
+                    die Kuh nicht mehr frei zur Weide nehmen, ich meine die schwarze, denn die
+                    rotbunte war ja auf meinem Namen drauf. Diesmal habe ich auch mein Vieh zu Hause
+                    und so werden wir wohl 12 Rtlr. Weidelohn bezahlen.</p>
+				        <closer>
+					          <salute>Mit dem herzlichsten Wunsche, dass Sie und Komtess glücklich rückkehren, verbinde ich
+                        die Bitte, letzterer wie Carol, Rudolf und Mokritz von mir herzliche Grüße
+                        zu bestellen. In treuester Ergebenheit bin ich Ihr gehorsamster
+                        Diener</salute>
+					          <signed>Borkowski</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

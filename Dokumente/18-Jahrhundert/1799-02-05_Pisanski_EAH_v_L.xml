@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_drd_wvg_jbb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jacob Ludwig Pisanski an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 5. Februar 1799</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_drd_wvg_jbb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Familie</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                    <p> </p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 385, Bl. 67-68v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_uhx_5jq_tcb">Pisanski, Jacob Ludwig (1733-)</persName>
+                    <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    <date when="1799-02-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Zu den Ereignissen des Jahres 1799, das Lehndorff in <placeName key="ed_xrv_gwb_by">Berlin</placeName> und in <placeName key="ed_jbg_kpz_2y">Potsdam </placeName>verbringt, vgl. Ziebura, Tagebuch, S. 7 ff. - Das
+                    Tagebuch des Jahres 1799 war der späteren „Zensur‟ <persName key="ed_wms_mh2_cy">Anna von Lehndorffs</persName> entgangen und auch nicht auszugsweise
+                    veröffentlicht worden. - <persName key="ed_uhx_5jq_tcb">Pisanski</persName> kam
+                    am 5. Oktober nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Er sei
+                    der <quote>zuverlässigste, moralischste und würdigste Kirchenfürst, den ich
+                        jemals gekannt habe. Ich sehe ihn mit großer Freude.</quote>
+            </note>
+            </correspDesc>
+            <abstract>
+                <p>Pisanski gratuliert zu der <quote>aufs neue so vorzüglich <seg type="comment">
+                     <orig>glücklichen Vermehrung Dero erhabenen Familie</orig>
+                     <note xml:id="nrpq_bqp_tcb">
+                        <persName key="ed_z12_bwf_hy">Pauline Gräfin
+                                    von Dönhoff, geb. Gräfin von Lehndorff </persName>hatte am 13.
+                                Januar 1799 in Potsdam ihren zweiten Sohn <persName key="ed_v43_db1_hy">Louis</persName> zur Welt
+                            gebracht</note>
+                  </seg>. <gap reason="insignificant"/> Was für frohe
+                        Aussichten für den Staat und das Vaterland die Vermehrung eines Hauses,
+                        dessen Stamm seit Jahrhunderten demselben ehrwürdig gewesen, und dessen
+                        zarte Knospen von verbundenen Zweigen zweier so verdienstvoller Familien,
+                        als die Gräfliche von Lehndorff und von Dönhoff sind,
+                        hervorsprießen!</quote> - Er habe gehört, dass Lehndorff seine Absichten,
+                        <seg type="comment">
+                  <orig>
+                     <placeName key="ed_sz3_kqp_tcb">Thiergarten</placeName>
+                  </orig>
+                  <note xml:id="nrcb_gkw_mbb">Trygort,
+                            Gemeinde im Landkreis Angerburg</note>
+               </seg> zu erwerben, nicht habe
+                    erreichen können, doch denke er, dass der Preis zu hoch gewesen sei. Alle Welt
+                    sei erstaunt über die Vermögens-Verschwendung des jetzigen Besitzers. - Der
+                    Frost sei so stark, dass die ältesten Leute sich solches nicht erinnern können.
+                    - Der <seg type="comment">
+                  <orig>Rektor von <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                  </orig>
+                  <note xml:id="no5g_rqp_tcb">
+                     <persName key="ed_hm2_g3t_ncb">Strugull</persName>
+                  </note>
+               </seg> habe beim
+                    Landeskollegium auf Milde gehofft, diese aber nicht erfahren.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

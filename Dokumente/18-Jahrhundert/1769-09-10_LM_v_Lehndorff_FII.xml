@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_k3s_fvt_xz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maria Louisa Gräfin von Lehndorff an Friedrich II. König von Preußen. Königsberg, 10. September 1769</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_k3s_fvt_xz</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, EM, Tit. 77 d, Nr. 6, Bl. 32–32v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q4s_xyl_2y">Lehndorff, Marie Louise Henriette Gräfin von, geb.
+                        Gräfin von Wallenrodt (1697-1773)</persName>
+                    <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    <date when="1769-09-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_x2r_52f_cy">Preußen, Friedrich II. König von
+                        (1712-1786)</persName>
+                </correspAction>
+                <note>Der Brief wurde durch den Advokat Christoph Ludwig <persName key="ed_zpf_tl1_tcb">Hoffmann</persName> aufgesetzt. Der König bestätigte
+                    die Familie in ihren Rechten am 21. September 1769 (ebd., Bl. 36-36v). Am 20.
+                    Oktober legten Bürgermeister und <orgName key="ed_jhq_xl1_tcb">Magistrat der
+                        Stadt Königsberg</orgName> dagegen ihr Veto ein (Bl. 38-39). Baudirektor
+                        <persName key="ed_dkp_trz_g1b">Löckell</persName> berichtete am 14. Oktober
+                    1769 über den Zustand und den beabsichtigten Bau und schlug vor, der Familie die
+                    100 Rtlr. zurückzuerstatten und an einem anderen Platz das Erbbegräbnis zu
+                    errichten. Am 13. März 1770 erging in der Streitsache der Bescheid, dass die
+                    Rechte der Familie durch den Brand des Kirchengewölbes nicht beeinträchtigt
+                    seien, so dass, falls sie weder die Rückerstattung des Kaufpreises noch einen
+                    Platz auf der vorigen Stelle unter der Erde annehmen wolle, die Kirche einen
+                    anderen <quote>konvenablen Platz, und zwar in der verschriebenen Art, zum
+                        Erbbegräbnis anzuweisen schuldig</quote> sei, vgl. LASA, StA L, Bestand
+                    21950 FA Lehndorff, Nr. 250, Bl. 1. - Der 1811 verstorbene Ernst Ahasverus
+                    Heinrich Graf von <persName key="ed_csb_mdf_cy">Lehndorff</persName> wurde
+                        <quote>in einem auf der Feldmark des Gutes <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> zu erbauenden Grabmal beigesetzt</quote> und sein
+                    Sohn verpflichtet, den <quote>Kirchenbedienten alle diejenigen Gebühren für
+                        diesen Todesfall zu entrichten, welche bei dem gewöhnlichen Begräbnis auf
+                        dem Kirchhof zu zahlen gewesen sein wären.</quote> Das Schreiben der
+                    Polizei-Deputation der <orgName key="ed_rml_bbl_2z">Königlichen
+                        Regierung</orgName>, Königsberg, 29. Mai 1811, in: LASA, StA L, Bestand
+                    21950 FA Lehndorff, Nr. 218. Zum Bau des neuen Erbbegräbnisses auf einer
+                    Landzunge im Mauersee vgl. ebd., Nr. 254 (1853-1855). Neben der achteckigen
+                    Gruftkapelle befand sich der Friedhof mit Gräbern von Angestellten und Förstern
+                    der Grafen Lehndorff, für die diese regelmäßig die Kosten für die Herstellung der
+                    Särge übernahmen, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort,
+                    Nr. 302. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Königsberg, den 10. September 1769</dateline>
+					          <salute>Allerdurchlauchtigster Großmächtigster König <lb/>Allergnädigster König und
+                        Herr</salute>
+                </opener>
+                <p>Ew. Königliche Majestät werden aus dem sub Beil. A beigefügten resp. <seg type="comment">
+                  <orig>Vergleich und Kontrakt</orig>
+                  <note xml:id="ndds_qxt_xz">Der zwischen Lehndorff und Sebastian <persName key="ed_swl_bsz_g1b">Bernhardi</persName>, Ober-Kirchenvorsteher, und Martin <persName key="ed_swq_dsz_g1b">Schultz</persName>, Kirchen-Vorsteher, am 8.
+                            August 1681 geschlossenen Vertrag liegt der Akte als beglaubigte
+                            Abschrift bei, Bl. 33-34; auch in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 118, n. f. </note>
+               </seg> mit mehrerem
+                    allergnädigst zu ersehen geruhen, wie vormaliger Besitzer der <placeName key="ed_pxt_cnh_1y">Güter</placeName> Steinort, Obermarschall
+                    General-Lieutenant und des Johanniter-Ordens Ritter Ahasverus von <persName key="ed_wtg_nyl_2y">Loehndorff</persName> mit damaligen Ober- und
+                    Kirchenvorstehern der<seg type="comment">
+                  <orig>
+                            <placeName key="ed_n55_nrz_g1b">Löbenichtschen</placeName>
+                            Pfarrkirche</orig>
+                  <note xml:id="ncjf_sdn_scb">Der Löbenicht war einer
+                            der drei ursprünglichen Siedlungskerne der Stadt Königsberg, östlich der
+                            Altstadt gelegen. Zu ihm gehörte auch der Roßgarten als Vorstadt. Herzog
+                                <persName key="ed_vlm_b3p_vcb">Albrecht Friedrich</persName> hatte
+                            Caspar von Lehndorff, seinem Hofmeister, auf dessen Bitte eine
+                                <quote>Baustelle am Löbenicht, unweit vom Mönchhof gelegen</quote>
+                            verschrieben, der undatierte Briefwechsel in: GStA PK, XX. HA, Rep. 54
+                            Gutsarchiv Lehndorff-Steinort, Nr. 596. Durch einen Brand auf dem
+                            Löbenicht am 11. und 12. November 1764 war die dortige Pfarrkirche in
+                            Mitleidenschaft gezogen worden, vgl. Sandow, Erich, Eine zeitgenössische
+                            Predigt über den Brand der Löbenichtschen Kirche in Königsberg Pr. am
+                            11. und 12. November 1764, in: Preußenland 3 (1965), S. 6. </note>
+               </seg>
+                    einen <seg type="comment">
+                  <orig>Kaufkontrakt</orig>
+                  <note xml:id="nvsr_r5q_r2b">Vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 118
+                            (Kauf, Begräbniskosten, Insignien, Handwerksarbeiten am Grabgewölbe. Der
+                            Vertrag ist insertiert in einem Dokument des Oberkonsistoriums vom 10.
+                            Februar 1811, ebd. (Karton unverzeichneter Dokumente).</note>
+                    </seg> geschlossen, nach welchem derselbe ein Gewölbe in gedachter Kirche zu
+                    einem <orgName key="ed_nnc_rrz_g1b">Erbbegräbnis</orgName> für sich und seine
+                    Nachfahren, dessen Lage und Zubegriff in gedachtem Kontrakt ganz genau
+                    beschrieben, eingeräumt erhalten. <seg type="comment">
+                  <orig>Dieses Gewölbe hat
+                            nun die von Löhndorffsche Familie auch beständig unbehindert
+                            eigentümlich erhalten.</orig>
+                  <note xml:id="nz5x_dsb_ffb">Am 21. April
+                            1703 hatte <persName key="ed_wxh_52j_nz">Friedrich Otto von
+                                Lehndorff</persName> nach dem Tod des Vaters seiner Mutter <persName key="ed_wwb_gcm_2y">Maria Eleonora, geb. Gräfin von
+                                Dönhoff</persName>, den Besitz des Gewölbes cediert, in: GStA PK,
+                            XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 118, n. f. Schon am
+                            Beginn des 18. Jahrhunderts war es zwischen ihr  und dem Königsberger
+                            Magistrat zu Auseinandersetzungen wegen Beschädigungen an der Aufhängung
+                            der Fahnen und Insignien des Gewölbes gekommen. Der König hatte den
+                            Magistrat zur Beseitigung der Schäden bei <quote>fiskalischer
+                                Strafe</quote> angewiesen. </note>
+               </seg> Da aber, nachdem diese
+                    Kirche abgebrannt und nunmehro wieder aufgebaut wird, eine andere Einrichtung
+                    gemacht und auf ratione dieses Gewölbes eine Änderung vorgehen soll, so dem
+                    angeschlossenen Kontrakt zuwider läuft, als sehe mich genötiget, hierdurch wider
+                    alle der von Loehndorffschen Familie hierunter erwachsenen Nachteile zu
+                    protestieren und Ew. Königliche Majestät alleruntertänigst zu bitten, dem
+                    Bau-Directori <persName key="ed_dkp_trz_g1b">Loeckel</persName> die Aufgabe zu
+                    tun, dass derselbe ratione dieses Gewölbes nicht das mindeste, so dem Kontrakt
+                    zuwider läuft, vornehme und einrichte, vielmehr, da der Kirche zum Besten für
+                    dieses Gewölbe 100 Rtlr. bezahlt worden, man auch sonsten denen Verbindungen in
+                    dem Kontrakt in allem auf das genaueste nachgelebt, fernerhin solches auch in
+                    nämlicher Art der von Löhndorffschen Familie ohne Einschränkung und Veränderung
+                    verbleiben möge. </p>
+				        <closer>
+					          <salute>Ich ersehne mich einer huldreichen Erhörung, und ersterbe in tiefster Devotion <lb/>Ew.
+                        Königlichen Majestät alleruntertänigste </salute>
+					          <signed>verwittibte Gräfin von Lehndorff</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

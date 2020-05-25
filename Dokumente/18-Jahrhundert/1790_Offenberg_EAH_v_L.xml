@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_fkw_mz2_hy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich von Offenberg an Ernst Ahasverus Heinrich Graf von Lehndorff. Ende des 18. Jahrhunderts</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_fkw_mz2_hy</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Räume/Europa</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>LASA, StA L</institution>
+                        <idno>Bestand 21950 FA Lehndorff, Nr. 387,  Bl. 100-101v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_a2l_sz2_hy">Offenberg, ? von (-)</persName>
+                    <date notBefore="1790-01-01" notAfter="1811-12-31" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, (Ernst) Ahasverus Heinrich Graf von
+                        (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Möglicherweise handelt es sich um Heinrich von <persName key="ed_a2l_sz2_hy">Offenberg</persName> (1752–1827), Hofmarschall des Herzogs von Kurland und
+                    Semgallen, kaiserlich-russischer Geheimer Rat, Präsident des kurländischen
+                    Oberhofgerichts. Er war Träger des Wladimirordens und des Russischen Ordens der
+                    Heiligen Anna, Ritter der Ehrenlegion und Komtur des heiligen Johannes von
+                    Jerusalem. Seit 1778 war er Mitglied in der Freimaurerloge in Mitau und von 1786
+                    bis 1827 Ehrenmitglied der Preußischen Akademie der Künste in Berlin. Lehndorff
+                    hatte ihn im August 1780 beim Besuch des Prinzen von Preußen als
+                        <quote>Kammerherr des Herzogs</quote>in Kurland kennengelernt, vgl.
+                    Schmidt-Lötzen, Nachträge, Bd. 2, S. 157.</note>
+            </correspDesc>
+            <abstract>
+                <p>Offenberg hofft, dass er beim nächsten <seg type="comment">
+                  <orig>Ritterschlag</orig>
+                  <note xml:id="nmcj_x35_ldb">zum
+                            Johanniter-Ordensritter</note>
+               </seg> nicht ausgeschlossen werde.
+                        <orgName key="ed_wsj_qvg_hy">Splittgerbers</orgName> Erben hätten den
+                    Auftrag, alle Kosten zu bezahlen und erwarten Lehndorffs Auftrag. Wenn Lehndorff
+                    Gelegenheit hat, soll er Offenberg dem Prinzen <persName key="ed_mn5_svg_hy">Ferdinand</persName>
+                    <quote>zu Füßen legen</quote> und ihn auch Gräfin von <persName key="ed_cjx_xvg_hy">Sacken</persName> empfehlen.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline> </dateline>
+                </opener>
+            </div>
+        </body>
+    </text>
+</TEI>

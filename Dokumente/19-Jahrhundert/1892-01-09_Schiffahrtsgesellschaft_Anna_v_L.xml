@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_ync_b44_xcb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesellschaft für Erleichterung des Personenverkehrs auf den masurischen Seen
+                    an Anna Gräfin von Lehndorff. Lötzen, 9. Januar 1892</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_ync_b44_xcb</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Räume/Europa</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 FA Lehndorff, Nr. 152, Bl. 166-166v</idno>
+                    </msIdentifier>
+                     
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_o5b_rtv_h2b">Gesellschaft für Erleichterung des
+                        Personenverkehrs auf den masurischen Seen</orgName>
+                    <date when="1892-01-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+                    <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>
+                </correspAction>
+                <note>Zur Eisenbahnanbindung <placeName key="ed_ybf_ztv_h2b">Tolksdorf</placeName>-<placeName key="ed_tnl_sgk_gy">Rastenburg</placeName>, <placeName key="ed_zg3_qps_d2b">Preußisch
+                        Eylau</placeName> und <placeName key="ed_l4n_vxc_py">Bartenstein</placeName>: APO, Bestand 382 FA Lehndorff, Nr. 156
+                    (1863-1865).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://szukajwarchiwach.pl/42/382/0/3/152/str/1/1/1000#tabSkany"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Lötzen, den 9. Januar 1892</dateline>
+					          <salute>Hochgeborene Frau! <lb/>Hochzuverehrende Gnädigste Frau Gräfin!</salute>
+                </opener>
+				        <p>Aus der vorgelegten Drucksache vom 31. v. Mts. haben Gnädigste Frau Gräfin gütigst ersehen,
+                    dass für die Seen ein passender, bequem eingerichteter Dampfer
+                    (Schraubendampfboot) in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+                    (Pr.) erbaut und mit demselben anstelle der untauglichen Masovia der Betrieb
+                    Anfang Mai aufgenommen werden wird. Der neue Dampfer wird Mittwoch, Freitag und
+                    Sonnabend täglich 2 mal zwischen <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>-<placeName key="ed_pxt_cnh_1y">Steinort</placeName>-<placeName key="ed_h1w_jc2_gy">Upalten</placeName>-<placeName key="ed_hz1_4wl_2y">Angerburg</placeName> im
+                    sicheren Anschluss an die Eisenbahnzüge verkehren und so auch den Einheimischen
+                    eine bequeme und angenehme neue Reisegelegenheit gewähren. Bei dieser Mitteilung
+                    beehre ich mich zur Kenntnis zu bringen, dass auf Anregung des <gap reason="illegible"/>, das gleichfalls zum Mai in Königsberg ein mit
+                    Abbildungen und einer Touristenkarte ausgestatteter <ref target="lehndorff_frs_bzx_fdb">„Wegweiser durch Masuren‟</ref> erscheinen
+                    wird. </p>
+                <p>Hoffentlich trägt das Werkchen mit dazu bei, unser schönes <placeName key="ed_y1h_tpk_wcb">Masurenland</placeName> in weiteren Kreisen beliebt zu
+                    machen. - Gnädigste Frau Gräfin gestatten mir gütigst die Anfrage: ob und welche
+                    Entwicklungen inzwischen hinsichtlich der Auskundung einer bequemeren
+                    Dampfer-Landungsstelle etwa stattgefunden haben. Soll das neue Schiff, das 1,1 m
+                    Tiefgang besitzt und 1/3 länger als Masovia ist, ohne Unfall bequem anlegen,
+                    würde die Anlegebrücke weiter hinausgelegt werden müssen und eine ähnliche
+                    Einrichtung erhalten, wie die an der Insel <placeName key="ed_h1w_jc2_gy">Upalten</placeName> auf <gap reason="illegible"/>.</p>
+				        <closer>
+					          <salute>Ew. Hochgeboren gehorsamster </salute>
+					          <signed>v. <persName key="ed_csd_q5v_h2b">Horn</persName>
+                        <lb/>Generalmajor und Kommandeur der Feste Boyen</signed>
+				        </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

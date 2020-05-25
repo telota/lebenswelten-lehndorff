@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:telota="http://www.telota.de"
+     telota:doctype="letter"
+     xml:id="lehndorff_vj3_bl4_v1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hans Christian Genelli an Ernst Ahasverus Heinrich Graf von Lehndorff. Madlitz, 8. Juli 1810</title>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/1127560115">
+                  <surname>Huch</surname>
+                  <forename>Gaby</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1121508855">
+                  <surname>Neuber</surname>
+                  <forename>Frederike</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Datenmodellierung</resp>
+               <persName ref="http://d-nb.info/gnd/1034877364">
+                  <surname>Dumont</surname>
+                  <forename>Stefan</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung</resp>
+               <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+            </respStmt>
+         </titleStmt>
+            <editionStmt>
+            <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch.
+                Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                https://lebenswelten-lehndorff.bbaw.de </edition>
+         </editionStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2020-05-25</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under the Creative Commons Attribution 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/dokumente/detail.xql?id=lehndorff_vj3_bl4_v1b</idno>
+            </idno>
+         </publicationStmt>
+            <notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Kulturbeziehungen</p>
+                </note>
+                <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 858, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_flr_f51_1bb">Genelli, Hans Christian (1763-1823)</persName>
+                    <placeName key="ed_vs5_n51_1bb">Madlitz</placeName>
+                    <date when="1810-07-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+                </correspAction>
+                <note>Siehe hierzu das Inhaltsverzeichnis einer <quote>großen Mappe mit Plänen und
+                        Rissen</quote> für Schloss <placeName key="ed_pxt_cnh_1y">Steinort</placeName> (ab 1689) in: LASA, StA L, Bestand 21950 FA Lehndorff,
+                    Nr. 256, Bl. 1-2. Hier werden zahlreiche Risse und Aquarelle für den
+                    Gartenpavillon von 1780, 1810 und 1820 aufgeführt, darunter in achteckiger Form
+                    um 1700, beschrieben als <quote>Diletantenzeichnung</quote>, und ein Entwurf für
+                    ein <quote>Gartengebäude mit 4 Säulen und Ovalsaal. Signiert <persName key="ed_gz2_m1t_ncb">Langhans</persName> Architekt</quote>: <quote>Sehr
+                        schöner Aufriss und Grundriss in Bleistift. Ein besonders wichtiges
+                        Stück.</quote> Weitere Entwürfe , u. a. für den Gartenpavillon (Skizzen,
+                    Notizen), auch in: GStA PK,XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                    823 bis 825. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Madlitz, den 8. Juli 1810</dateline>
+                </opener>
+				        <p>Der Herr Graf von Lehndorff haben mir einen kleinen Bauten-Entwurf zu einem Gartenpavillon
+                    überschicken lassen mit dem Auftrag, einen Riss danach zu verfertigen. Dabei
+                    haben Sie mir eine kleine Freiheit in den Dimensionen zugestanden, ja sogar
+                    gewünscht, dass das mittlere Zimmer um ein paar Fuß in seinen Dimensionen
+                    vergrößert würde, und zwar auf eine Weise, die mir anzeigt, dass ich auch an
+                    diese 2 F. nicht streng gebunden bin. </p>
+            <p>Wenn ich nach der Form, die ich mir von diesem Gebäude vorstellen konnte, die Dicke der Mauern zu
+                    zwei Fuß annehme, so käme nach dem vorgelegten Entwurf die äußere Länge
+                    desselben auf 42 F. und die Breite auf wenigstens 49 F. Allein die inneren Maße
+                    des mittleren Zimmers = 14:15 geben gar keine architektonische Proportion; wenn
+                    sie nicht bestimmter auseinander gehen, so werden sie für gleich oder
+                    quadratisch angenommen. Ich habe also dieses Zimmer im inneren Licht zu 18 Fuß
+                    Kubus angenommen, d. h. von drei gleichen Dimensionen, als welches Maß mir
+                    sowohl für die Einrichtung dieses Zimmers selbst, welches als Hauptteil eine
+                    reguläre Anordnung verlangt, als auch zu den Nebenteilen sowohl in Breite als
+                    Höhe deutlichere und namhaftere Verhältnisse gab. Diesem nach wird nun die Länge
+                    der Fronte, indem ich die Breite der Nebengemächer zu 10 F. beibehalten, 46 Fuß
+                    betragen. Da aber der Inhalt aus 4 Gemächern besteht, so habe ich zu einer
+                    besseren Entwicklung die Breite des Gebäudes noch beträchtlicher vermehren
+                    müssen, und habe sie auf 29 Fuß festgesetzt, welches wenig über die Hälfte der
+                    Länge beträgt. Ich fürchte nicht, dass dies mir zum Vorwurf gemacht werde, da
+                    auf den schlimmsten Fall, dass die Grenze, wie weit die Fronte in den offenen
+                    Platz vorspringen darf, unabänderlich festgesetzt wäre, von dem durch das
+                    Gebäude zu verdeckenden Gebüsch leicht ohne Schaden die fehlende Tiefe, die
+                    höchstens 10 F. betrüge, niedergehauen werden kann, indem, wenn anders dieses
+                    Gebüsch eine gartenmächtige Formierung hat, der Schlag nicht nur Unterholz
+                    betreffen würde. </p>
+            <p>
+                    <note type="editorial">Es folgt eine detaillierte Beschreibung des Entwurfs.
+                    </note>
+                </p>
+            <p>Da der Bauherr schon gegründete Zweifel an der guten Ausführung runder Wände hegt, so muss es ihm
+                    mit Säulen noch misslicher dünken; und sie sind zu kostbar, um schlechte dulden
+                    zu dürfen, wo sie nicht unumgänglich notwendig sind. Die  aber von den zwei
+                    Säulen, wie sie im Brouillon angegeben sind, muss ich der <seg type="comment">
+                  <orig>Familie Langhans </orig>
+                  <note xml:id="nrhl_51t_ncb">Carl Gotthard
+                                <persName key="ed_gz2_m1t_ncb">Langhans</persName> war 1808
+                            verstorben. Sein Sohn <persName key="ed_wxc_tgp_vcb">Carl
+                                Ferdinand</persName> war ebenfalls als Architekt tätig.
+                        </note>
+               </seg>überlassen: Es ist ihnen in aller Form rechtens ein erbliches
+                    Eigentum geworden. Vor diesen Überflüssigkeiten habe ich vorgezogen, alle
+                    Sorgfalt auf die korrekte Eleganz der Türe zu verwenden, wovon man das
+                    deutlichere Detail sub G findet. <gap reason="insignificant"/>
+                </p>
+            <p>Sollte dieser Entwurf keinen Beifall finden, was nicht zu verwundern wäre, da er aus dem
+                    gewöhnlichen Schlendrian herausfällt, so erbittet sich Unterschriebener die
+                    Risse zurück.</p>
+				        <closer>
+                    <signed>Genelli</signed>
+                </closer>
+            </div>
+            <postscript>
+                <lb/>
+                <p>
+               <note type="editorial">Es schließt sich ein Nachtrag vom 9. Juli an, in dem auch
+                        die Gestaltung der Wände und die Dekoration beschrieben werden.</note>
+            </p>
+               
+                <p>Wenn aber hierzu nicht wenigstens ein Maler <persName key="ed_jgl_jbt_ncb">Hummel</persName> angenommen wird, so möchte solches zugleich unerträglich
+                    schlecht und unverantwortlich kostbar ausfallen, und zwar umso mehr, je
+                    beträchtlicher diese Dekoration sein würde. Denn das gebe nicht weniger als in
+                    der Decke neun und auf den Wänden sechs Gemälde. In der Voraussetzung also, dass
+                    zur inneren Dekoration nur ein gewöhnlicher Tüncher oder Stubenmaler anzuwerben
+                    sein werde, muss alle bedeutende Verzierung unterbleiben, und lediglich auf die
+                    Färbung gesehen werden. <gap reason="insignificant"/>
+            </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>
