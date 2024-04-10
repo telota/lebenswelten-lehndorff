@@ -8,4 +8,5 @@ Gaby Huch, Frederike Neuber, & Stefan Dumont. (2020). telota/lebenswelten-lehndo
 *License:*
 CC BY 4.0, (https://creativecommons.org/licenses/by/4.0)
 
+*Note:* This Repository contains a version of the project's data from 2020. Since then, all files have been editied as a result of the new follow-up project "Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive". The newest version of the data can be found in the GitHut repository [telota/lebenswelten](https://github.com/telota/lebenswelten) or published in [Zenodo](https://zenodo.org/records/10955299).
 
